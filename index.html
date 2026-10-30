@@ -15,9 +15,9 @@
   --bg:#f2f5f8; --surface:#ffffff; --surface-2:#e6ecf2; --fg:#132235; --muted:#55687c; --line:#cbd6e0;
   --ink:#0f2b46; --accent:#0d6b8a; --accent-fg:#ffffff; --gold:#b9781a; --saffron:#e8731a; --coral:#d9375c; --violet:#5b4bd1; --leaf:#2f9e6a; --hero-a:#0b3c5d; --hero-b:#1a7a8c; --ok:#1f7a4d; --bad:#b0362c; --warn:#a9640e;
   --display:"Spectral",Georgia,"Times New Roman",serif; --body:"IBM Plex Sans","Segoe UI",Roboto,Arial,sans-serif; --mono:"IBM Plex Mono",Menlo,Consolas,monospace;
-}
-@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0e161f;--surface:#162130;--surface-2:#1f2d3e;--fg:#e8eef4;--muted:#9fb0c2;--line:#2c3c4f;--ink:#dbe7f2;--accent:#5fb4d3;--accent-fg:#06202c;--gold:#e0a84a;--ok:#5fc48f;--bad:#f0877c;--warn:#e7a44a;--saffron:#f28c3b;--coral:#ff7a94;--violet:#9a8cff;--leaf:#5fcf98;--hero-a:#0a2a42;--hero-b:#0f5d6c;color-scheme:dark}}
-:root[data-theme="dark"]{--bg:#0e161f;--surface:#162130;--surface-2:#1f2d3e;--fg:#e8eef4;--muted:#9fb0c2;--line:#2c3c4f;--ink:#dbe7f2;--accent:#5fb4d3;--accent-fg:#06202c;--gold:#e0a84a;--ok:#5fc48f;--bad:#f0877c;--warn:#e7a44a;--saffron:#f28c3b;--coral:#ff7a94;--violet:#9a8cff;--leaf:#5fcf98;--hero-a:#0a2a42;--hero-b:#0f5d6c;color-scheme:dark}
+;--nav:#0f2b46}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0e161f;--surface:#162130;--surface-2:#1f2d3e;--fg:#e8eef4;--muted:#9fb0c2;--line:#2c3c4f;--ink:#dbe7f2;--accent:#5fb4d3;--accent-fg:#06202c;--gold:#e0a84a;--ok:#5fc48f;--bad:#f0877c;--warn:#e7a44a;--saffron:#f28c3b;--coral:#ff7a94;--violet:#9a8cff;--leaf:#5fcf98;--hero-a:#0a2a42;--hero-b:#0f5d6c;--nav:#0b1a2b;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#0e161f;--surface:#162130;--surface-2:#1f2d3e;--fg:#e8eef4;--muted:#9fb0c2;--line:#2c3c4f;--ink:#dbe7f2;--accent:#5fb4d3;--accent-fg:#06202c;--gold:#e0a84a;--ok:#5fc48f;--bad:#f0877c;--warn:#e7a44a;--saffron:#f28c3b;--coral:#ff7a94;--violet:#9a8cff;--leaf:#5fcf98;--hero-a:#0a2a42;--hero-b:#0f5d6c;--nav:#0b1a2b;color-scheme:dark}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--fg);font-family:var(--body);font-size:16px;line-height:1.55}
 body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--ink)}
@@ -30,7 +30,7 @@ p{margin:0 0 1em;max-width:68ch}
 .eyebrow{font-size:.75rem;letter-spacing:.09em;text-transform:uppercase;color:var(--muted);font-weight:600}
 .wrap{max-width:1080px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
 /* top bar */
-.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:9;background:var(--ink);color:#fff}
+.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:9;background:var(--nav);color:#fff}
 .top .wrap{display:flex;align-items:center;gap:1rem;flex-wrap:wrap;padding-block:.6rem}
 .brand{font-family:var(--display);font-weight:700;font-size:1.35rem;color:#fff;text-decoration:none;letter-spacing:.01em}
 .brand small{font-family:var(--body);font-weight:500;font-size:.7rem;letter-spacing:.1em;text-transform:uppercase;opacity:.75;display:block;line-height:1}
@@ -362,7 +362,7 @@ footer .wrap{display:flex;gap:1rem;flex-wrap:wrap;justify-content:space-between}
 
 </main>
 
-<footer><div class="wrap"><span>© BimaPrep · bimaprep.in · <a href="#legal">Privacy · Terms · Refunds</a> · Not affiliated with IRDAI, III or any insurer</span><span>Sources: Insurance Act 1938 · IRDA Act 1999 · IRDAI regulations & master circulars 2024 · PMFBY Operational Guidelines 2023</span></div></footer>
+<footer><div class="wrap"><span>© BimaPrep · bimaprep.in · <small style="opacity:.6">v9</small> · <a href="#legal">Privacy · Terms · Refunds</a> · Not affiliated with IRDAI, III or any insurer</span><span>Sources: Insurance Act 1938 · IRDA Act 1999 · IRDAI regulations & master circulars 2024 · PMFBY Operational Guidelines 2023</span></div></footer>
 
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js"></script>
 <script>
