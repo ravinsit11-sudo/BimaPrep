@@ -3,6 +3,7 @@ const { json } = require('./_lib');
 exports.handler = async () => json(200, {
   supabaseUrl: process.env.SUPABASE_URL || '',
   supabaseAnonKey: process.env.SUPABASE_ANON_KEY || '',
-  razorpayKeyId: process.env.RAZORPAY_KEY_ID || '',
+  upiId: process.env.UPI_ID || '',
+  upiName: process.env.UPI_NAME || 'BimaPrep',
   paymentsLive: (process.env.PAYMENTS_LIVE || 'false') === 'true',
 });

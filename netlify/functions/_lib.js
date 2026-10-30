@@ -61,25 +61,20 @@ async function fulfil(sb, order, paymentId, source) {
   if (order.status === 'paid' || order.status === 'free') return order;   // already done
   const pack = PACKS[order.pack];
   const expires = new Date(Date.now() + pack.days * 86400000).toISOString();
-  await sb.from('orders').update({ status: source === 'free' ? 'free' : 'paid', razorpay_payment_id: paymentId || null, paid_at: new Date().toISOString() }).eq('id', order.id);
-  await sb.from('entitlements').insert({ user_id: order.user_id, pack: order.pack, source: source === 'free' ? 'coupon' : 'payment', expires_at: expires, order_id: order.id, note: order.coupon_code ? `coupon ${order.coupon_code}` : null });
+  await sb.from('orders').update({ status: source === 'free' ? 'free' : 'paid', paid_at: new Date().toISOString() }).eq('id', order.id);
+  await sb.from('entitlements').insert({ user_id: order.user_id, pack: order.pack, source: source === 'free' ? 'coupon' : 'payment', expires_at: expires, order_id: order.id, note: (order.coupon_code ? `coupon ${order.coupon_code}` : '') + (order.utr ? ` UTR ${order.utr}` : '') || null });
   if (order.coupon_code) await sb.from('coupon_uses').insert({ code: order.coupon_code, user_id: order.user_id, order_id: order.id });
   return { ...order, status: 'paid' };
 }
 
+// short human reference for an order id, e.g. BP-7F3K2
+function reference(orderId) { return 'BP-' + String(orderId).replace(/-/g, '').slice(-6).toUpperCase(); }
+
 function hmac(secret, data) { return crypto.createHmac('sha256', secret).update(data).digest('hex'); }
 function safeEqual(a, b) { const x = Buffer.from(a || ''), y = Buffer.from(b || ''); return x.length === y.length && crypto.timingSafeEqual(x, y); }
-
-async function razorpay(path, method = 'GET', body) {
-  const auth = Buffer.from(`${env('RAZORPAY_KEY_ID')}:${env('RAZORPAY_KEY_SECRET')}`).toString('base64');
-  const r = await fetch(`https://api.razorpay.com/v1${path}`, { method, headers: { authorization: `Basic ${auth}`, 'content-type': 'application/json' }, body: body ? JSON.stringify(body) : undefined });
-  const data = await r.json();
-  if (!r.ok) throw new Error(data.error?.description || `Razorpay error ${r.status}`);
-  return data;
-}
 
 async function audit(sb, actor, action, target, detail) {
   await sb.from('audit_log').insert({ actor, action, target, detail });
 }
 
-module.exports = { PACKS, env, admin, userFromRequest, json, bad, parse, validateCoupon, fulfil, hmac, safeEqual, razorpay, audit };
+module.exports = { PACKS, env, admin, userFromRequest, json, bad, parse, validateCoupon, fulfil, hmac, safeEqual, audit, reference };

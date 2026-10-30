@@ -31,8 +31,28 @@ exports.handler = async (event) => {
       return L.json(200, { ok: true });
     }
     if (a === 'orders') {
-      const { data } = await sb.from('orders').select('*, profiles(email,name)').order('created_at', { ascending: false }).limit(200);
-      return L.json(200, { orders: data || [] });
+      const { data } = await sb.from('orders').select('*, profiles(email,name)').neq('status', 'created').order('created_at', { ascending: false }).limit(300);
+      const orders = data || [];
+      const paths = orders.filter(o => o.proof_path).map(o => o.proof_path);
+      let urls = {};
+      if (paths.length) {
+        const { data: signed } = await sb.storage.from('proofs').createSignedUrls(paths, 3600);
+        (signed || []).forEach(s => { if (s.signedUrl) urls[s.path] = s.signedUrl; });
+      }
+      return L.json(200, { orders: orders.map(o => ({ ...o, reference: L.reference(o.id), proof_url: o.proof_path ? urls[o.proof_path] || null : null })) });
+    }
+    if (a === 'approve' || a === 'reject') {
+      const { data: o } = await sb.from('orders').select('*').eq('id', b.id).single();
+      if (!o) return L.bad('Order not found');
+      if (o.status !== 'pending') return L.bad('Order is ' + o.status + ', not pending');
+      if (a === 'approve') {
+        await L.fulfil(sb, o, o.utr, 'manual');
+        await sb.from('orders').update({ reviewed_by: me.id, reviewed_at: new Date().toISOString(), review_note: b.note || null }).eq('id', o.id);
+      } else {
+        await sb.from('orders').update({ status: 'rejected', reviewed_by: me.id, reviewed_at: new Date().toISOString(), review_note: b.note || 'rejected' }).eq('id', o.id);
+      }
+      await L.audit(sb, me.id, a, o.user_id, { pack: o.pack, amount: o.final_amount, utr: o.utr, reference: L.reference(o.id), note: b.note || null });
+      return L.json(200, { ok: true });
     }
     if (a === 'coupons') {
       const { data: coupons } = await sb.from('coupons').select('*').order('created_at', { ascending: false });

@@ -278,7 +278,7 @@ footer .wrap{display:flex;gap:1rem;flex-wrap:wrap;justify-content:space-between}
   <h1>Pay only for the exam you are sitting</h1>
   <p style="color:var(--muted)">Every exam has one free sample test. A pack unlocks all mock tests for that exam for 3 months, with new tests added free as the bank grows. Prices include GST.</p>
   <div class="grid g3" id="planList" style="margin-top:1rem"></div>
-  <div class="card" style="margin-top:1.2rem"><h3>How payment works</h3><p>UPI, cards and net banking; a GST invoice is emailed after payment and the pack is unlocked on your account immediately. Online payment is opening shortly: click "Notify me" on a pack and we will email you on launch day with an early-bird price.</p><p class="note">Refund policy: packs are non-refundable once purchased. A refund is made only for a failed transaction where the amount was debited and received by us but the pack did not get activated on your account; such cases are refunded to the original payment method within 7 working days of verification. Write to us with the transaction ID.</p></div>
+  <div class="card" style="margin-top:1.2rem"><h3>How payment works</h3><p>Pay by <b>UPI</b> (Google Pay, PhonePe, Paytm, BHIM or any UPI app): click Buy, scan the QR code or tap "Pay with UPI app", pay the amount shown, then enter the UPI transaction number (UTR) and attach the payment screenshot. Your request is checked by us and the pack is activated on your account, usually within 24 hours; you can see the status on your account page.</p><p class="note">Refund policy: packs are non-refundable once purchased. A refund is made only for a failed transaction where the amount was debited and received by us but the pack did not get activated on your account; such cases are refunded to the original payment method within 7 working days of verification. Write to us with the transaction ID.</p></div>
 </section>
 
 <!-- LEGAL -->
@@ -365,7 +365,7 @@ footer .wrap{display:flex;gap:1rem;flex-wrap:wrap;justify-content:space-between}
 <footer><div class="wrap"><span>© BimaPrep · bimaprep.in · <a href="#legal">Privacy · Terms · Refunds</a> · Not affiliated with IRDAI, III or any insurer</span><span>Sources: Insurance Act 1938 · IRDA Act 1999 · IRDAI regulations & master circulars 2024 · PMFBY Operational Guidelines 2023</span></div></footer>
 
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js"></script>
-<script src="https://checkout.razorpay.com/v1/checkout.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/qrcode@1.5.3/build/qrcode.min.js"></script>
 <script>
 const TESTS=[
 {id:'ic01',paper:'IC-01 · Principles of Insurance',title:'Principles of insurance',minutes:12,q:[
@@ -457,10 +457,11 @@ const PLANS=[
  {id:'ic38',name:'IC-38 Agent exam',price:799,pop:false,tests:['ic01','reg'],bullets:['Agent pre-recruitment syllabus','Principles and regulation mocks for 3 months','Explanations and result history']}
 ];
 const FREE=['ic01','health'];
-let CFG={paymentsLive:false}, sb=null, session=null, user=null, ents=[], results=[], notify=[], recovery=false;
+let CFG={paymentsLive:false}, sb=null, session=null, user=null, ents=[], results=[], notify=[], pending=[], recovery=false;
 const bankCache={};
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const fmtDate=d=>d?new Date(d).toLocaleDateString('en-IN',{day:'2-digit',month:'short',year:'numeric'}):'lifetime';
+const refOf=id=>'BP-'+String(id).replace(/-/g,'').slice(-6).toUpperCase();
 const LS={get(k,d){try{const v=localStorage.getItem(k);return v?JSON.parse(v):d}catch(e){return d}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}};
 
 async function api(fn,body){
@@ -478,15 +479,16 @@ async function boot(){
   renderNav(); show(location.hash.replace('#',''));
 }
 async function loadUser(){
-  user=null; ents=[]; results=[];
+  user=null; ents=[]; results=[]; pending=[];
   if(!sb||!session) return;
   const uid=session.user.id;
-  const [{data:p},{data:e},{data:r}]=await Promise.all([
+  const [{data:p},{data:e},{data:r},{data:o}]=await Promise.all([
     sb.from('profiles').select('*').eq('id',uid).single(),
     sb.from('active_entitlements').select('*').eq('user_id',uid),
-    sb.from('attempts').select('mock_id,title,correct,total,pct,created_at').eq('user_id',uid).order('created_at',{ascending:false}).limit(50)]);
+    sb.from('attempts').select('mock_id,title,correct,total,pct,created_at').eq('user_id',uid).order('created_at',{ascending:false}).limit(50),
+    sb.from('orders').select('id,pack,final_amount,status,utr,created_at,submitted_at,review_note').eq('user_id',uid).in('status',['pending','rejected']).order('created_at',{ascending:false}).limit(20)]);
   user=p||{id:uid,email:session.user.email,name:session.user.user_metadata?.name||'',is_admin:false};
-  ents=e||[]; results=r||[];
+  ents=e||[]; results=r||[]; pending=o||[];
 }
 function owned(testId){
   const sub=SUBJECTS.find(x=>x.mocks.some(m=>m.id===testId));
@@ -549,7 +551,8 @@ async function renderAccount(){
   if(!user) return;
   document.getElementById('accName').textContent=user.name||user.email;
   document.getElementById('accProfile').innerHTML=`<dt>Email</dt><dd>${esc(user.email)}</dd><dt>Organisation</dt><dd>${esc(user.org||'—')}</dd><dt>Preparing for</dt><dd>${esc(user.goal||'—')}</dd><dt>Member since</dt><dd>${fmtDate(user.created_at)}</dd>`;
-  document.getElementById('accPacks').innerHTML=ents.length?`<div class="tablewrap"><table><thead><tr><th>Pack</th><th>Valid till</th><th>How</th></tr></thead><tbody>${ents.map(e=>`<tr><td>${esc(PLANS.find(p=>p.id===e.pack)?.name||e.pack)}</td><td>${fmtDate(e.expires_at)}</td><td>${esc(e.source)}</td></tr>`).join('')}</tbody></table></div>`:'<p class="note">No packs yet · <a href="#pricing">see pricing</a></p>';
+  const pendHtml=pending.length?`<h4 style="margin:.9rem 0 .3rem">Payment requests</h4><div class="tablewrap"><table><thead><tr><th>Pack</th><th>Amount</th><th>Ref</th><th>UTR</th><th>Status</th></tr></thead><tbody>${pending.map(o=>`<tr><td>${esc(PLANS.find(p=>p.id===o.pack)?.name||o.pack)}</td><td class="num">₹${o.final_amount}</td><td style="font-family:var(--mono)">${refOf(o.id)}</td><td style="font-family:var(--mono);font-size:.8rem">${esc(o.utr||'')}</td><td>${o.status==='pending'?'<span class="pill warn">Pending approval</span>':`<span class="pill bad">Rejected</span><br><small>${esc(o.review_note||'')}</small>`}</td></tr>`).join('')}</tbody></table></div><p class="note">Pending requests are usually approved within 24 hours. Rejected? Check the note and <a href="#pricing">submit again</a> with the correct UTR and screenshot.</p>`:'';
+  document.getElementById('accPacks').innerHTML=(ents.length?`<div class="tablewrap"><table><thead><tr><th>Pack</th><th>Valid till</th><th>How</th></tr></thead><tbody>${ents.map(e=>`<tr><td>${esc(PLANS.find(p=>p.id===e.pack)?.name||e.pack)}</td><td>${fmtDate(e.expires_at)}</td><td>${esc(e.source)}</td></tr>`).join('')}</tbody></table></div>`:'<p class="note">No packs yet · <a href="#pricing">see pricing</a></p>')+pendHtml;
   if(recovery){
     const d=document.createElement('div'); d.className='card paybox'; d.style.gridColumn='1/-1';
     d.innerHTML=`<h3>Set a new password</h3><div class="field" style="max-width:320px"><label for="npass">New password</label><input id="npass" type="password" autocomplete="new-password"></div><button class="btn sm" id="npGo">Save password</button> <span class="err" id="npErr"></span>`;
@@ -568,8 +571,8 @@ document.getElementById('copyMail').addEventListener('click',e=>{const t='knowyo
 // ================= pricing & checkout =================
 function renderPlans(){
   const live=CFG.paymentsLive;
-  document.getElementById('planList').innerHTML=PLANS.map(p=>{const have=ents.find(e=>e.pack===p.id);
-    const btn=have?`<span class="pill ok">Purchased · till ${fmtDate(have.expires_at)}</span>`:live?`<button class="btn sm" data-buy="${p.id}" style="background:${p.pop?'var(--saffron)':'var(--accent)'}">Buy for ₹${p.price}</button>`:(notify.includes(p.id)?'<span class="pill ok">You will be notified</span>':`<button class="btn sm" data-buy="${p.id}" style="background:${p.pop?'var(--saffron)':'var(--accent)'}">Launching soon · Notify me</button>`);
+  document.getElementById('planList').innerHTML=PLANS.map(p=>{const have=ents.find(e=>e.pack===p.id);const pend=pending.find(o=>o.pack===p.id&&o.status==='pending');
+    const btn=have?`<span class="pill ok">Purchased · till ${fmtDate(have.expires_at)}</span>`:pend?`<span class="pill warn">Payment pending approval</span>`:live?`<button class="btn sm" data-buy="${p.id}" style="background:${p.pop?'var(--saffron)':'var(--accent)'}">Buy for ₹${p.price}</button>`:(notify.includes(p.id)?'<span class="pill ok">You will be notified</span>':`<button class="btn sm" data-buy="${p.id}" style="background:${p.pop?'var(--saffron)':'var(--accent)'}">Launching soon · Notify me</button>`);
     return `<div class="card plan ${p.pop?'pop':''}"><h3>${p.name}</h3><div class="price">₹${p.price} <small>/ 3 months</small></div><ul>${p.bullets.map(b=>`<li>${b}</li>`).join('')}</ul>${btn}</div>`}).join('');
   document.querySelectorAll('[data-buy]').forEach(b=>b.addEventListener('click',()=>buy(b.dataset.buy)));
 }
@@ -584,7 +587,7 @@ function buy(pid){
     box.querySelector('#payGo').onclick=async()=>{try{await api('notify',{pack:pid});notify.push(pid);box.innerHTML=`<h3>Thanks</h3><p>We will email ${esc(user.email)} when the ${p.name} opens.</p>`;renderPlans()}catch(e){box.querySelector('#payErr').textContent=e.message}};
     return;
   }
-  box.innerHTML=`<h3>${p.name} · ₹<span id="payAmt">${p.price}</span></h3><div style="display:flex;gap:.6rem;flex-wrap:wrap;align-items:flex-end"><div class="field" style="margin:0;flex:1;min-width:180px"><label for="coupon">Coupon code (optional)</label><input id="coupon" placeholder="e.g. LAUNCH20" style="text-transform:uppercase"></div><button class="btn ghost sm" id="payApply">Apply</button></div><div class="err" id="payErr"></div><p class="note">UPI, cards and net banking via Razorpay. GST invoice is emailed after payment. Pack valid 3 months from today.</p><div style="display:flex;gap:.6rem;flex-wrap:wrap"><button class="btn sm" id="payGo" style="background:var(--saffron)">Pay ₹<span id="payAmt2">${p.price}</span></button><button class="btn ghost sm" id="payCancel">Cancel</button></div>`;
+  box.innerHTML=`<h3>${p.name} · ₹<span id="payAmt">${p.price}</span></h3><div style="display:flex;gap:.6rem;flex-wrap:wrap;align-items:flex-end"><div class="field" style="margin:0;flex:1;min-width:180px"><label for="coupon">Coupon code (optional)</label><input id="coupon" placeholder="e.g. LAUNCH20" style="text-transform:uppercase"></div><button class="btn ghost sm" id="payApply">Apply</button></div><div class="err" id="payErr"></div><p class="note">Payment by UPI (any app). After paying you enter the transaction number and attach the screenshot; we activate the pack after checking, usually within 24 hours. Pack valid 3 months from activation.</p><div style="display:flex;gap:.6rem;flex-wrap:wrap"><button class="btn sm" id="payGo" style="background:var(--saffron)">Pay ₹<span id="payAmt2">${p.price}</span> by UPI</button><button class="btn ghost sm" id="payCancel">Cancel</button></div>`;
   document.getElementById('planList').after(box);
   box.querySelector('#payCancel').onclick=()=>box.remove();
   box.querySelector('#payApply').onclick=()=>checkout(pid,box,true);
@@ -595,17 +598,49 @@ async function checkout(pid,box,previewOnly){
   const coupon=box.querySelector('#coupon').value.trim().toUpperCase();
   const go=box.querySelector('#payGo'); go.disabled=true;
   try{
-    const o=await api('create-order',{pack:pid,coupon});
+    const o=await api('create-order',{pack:pid,coupon,preview:previewOnly});
     if(o.free){box.innerHTML=`<h3>Unlocked</h3><p>${esc(o.pack)} is now active on your account for 3 months (coupon ${esc(coupon)}).</p><a class="btn sm" href="#tests">Go to mock tests</a>`;await loadUser();renderPlans();return}
     box.querySelector('#payAmt').textContent=o.amount; box.querySelector('#payAmt2').textContent=o.amount;
     if(o.discount){err.style.color='var(--ok)';err.textContent=`Coupon applied: ₹${o.discount} off.`}
     if(previewOnly){go.disabled=false;return}
-    const rz=new Razorpay({key:o.keyId,amount:o.amount*100,currency:'INR',name:'BimaPrep',description:o.pack,order_id:o.razorpayOrderId,prefill:{name:o.name,email:o.email},theme:{color:'#0d6b8a'},
-      handler:async(resp)=>{try{const v=await api('verify-payment',resp);box.innerHTML=`<h3>Payment successful</h3><p>${esc(v.pack)} is unlocked on your account for 3 months. A receipt has been sent to ${esc(user.email)}.</p><a class="btn sm" href="#tests">Go to mock tests</a>`;await loadUser();renderPlans()}catch(e){err.textContent='Payment received but could not be confirmed automatically. It will unlock within a few minutes; if not, email us with the payment ID.'}},
-      modal:{ondismiss:()=>{go.disabled=false}}});
-    rz.on('payment.failed',r=>{err.textContent='Payment failed: '+(r.error?.description||'try again');go.disabled=false});
-    rz.open();
+    showUpiStep(o,box);
   }catch(e){err.textContent=e.message;go.disabled=false}
+}
+function showUpiStep(o,box){
+  box.innerHTML=`<h3>${esc(o.pack)} · pay ₹${o.amount} by UPI</h3>
+  <div class="grid g2" style="align-items:start">
+    <div style="text-align:center"><canvas id="upiQr" style="max-width:240px;width:100%;background:#fff;border:1px solid var(--line);border-radius:8px;padding:6px"></canvas>
+      <div style="margin-top:.5rem"><a class="btn sm" href="${esc(o.upiLink)}" style="background:var(--saffron)">Pay with UPI app</a></div>
+      <p class="note" style="margin-top:.5rem">Scan with Google Pay / PhonePe / Paytm / BHIM, or tap the button on your phone.</p></div>
+    <div>
+      <dl class="terms"><dt>UPI ID</dt><dd style="font-family:var(--mono)">${esc(o.upiId)} <button class="btn ghost sm" id="copyUpi" style="padding:.1rem .5rem">Copy</button></dd><dt>Name</dt><dd>${esc(o.upiName)}</dd><dt>Amount</dt><dd><b>₹${o.amount}</b> (exact amount)</dd><dt>Reference</dt><dd style="font-family:var(--mono)"><b>${esc(o.reference)}</b> — put this in the UPI remarks/note</dd></dl>
+      <h4 style="margin:1rem 0 .4rem">After paying</h4>
+      <div class="field"><label for="utr">UPI transaction number (UTR / Ref no.)</label><input id="utr" placeholder="12-digit number from your UPI app" autocomplete="off"></div>
+      <div class="field"><label for="proof">Payment screenshot (JPG/PNG/PDF, max 5 MB)</label><input id="proof" type="file" accept="image/*,application/pdf"></div>
+      <div class="err" id="payErr"></div>
+      <div style="display:flex;gap:.6rem;flex-wrap:wrap"><button class="btn sm" id="paySubmit">Submit for approval</button><button class="btn ghost sm" id="payCancel">Cancel</button></div>
+    </div>
+  </div>`;
+  try{window.QRCode&&QRCode.toCanvas(box.querySelector('#upiQr'),o.upiLink,{width:240,margin:1})}catch(e){}
+  box.querySelector('#copyUpi').onclick=e=>{navigator.clipboard?.writeText(o.upiId).then(()=>{e.target.textContent='Copied'}).catch(()=>{})};
+  box.querySelector('#payCancel').onclick=()=>{box.remove()};
+  box.querySelector('#paySubmit').onclick=async()=>{
+    const err=box.querySelector('#payErr'); err.style.color='var(--bad)'; err.textContent='';
+    const utr=box.querySelector('#utr').value.trim(); const f=box.querySelector('#proof').files[0];
+    if(!/^[A-Za-z0-9-]{6,40}$/.test(utr)){err.textContent='Enter the UPI transaction number shown in your UPI app (usually 12 digits).';return}
+    if(!f){err.textContent='Attach the payment screenshot.';return}
+    if(f.size>5*1024*1024){err.textContent='Screenshot is larger than 5 MB.';return}
+    const btn=box.querySelector('#paySubmit'); btn.disabled=true; btn.textContent='Uploading…';
+    try{
+      const ext=(f.name.split('.').pop()||'jpg').toLowerCase().replace(/[^a-z0-9]/g,'')||'jpg';
+      const path=`${user.id}/${o.orderId}.${ext}`;
+      const {error}=await sb.storage.from('proofs').upload(path,f,{upsert:true,contentType:f.type||undefined});
+      if(error) throw new Error('Upload failed: '+error.message);
+      const r=await api('submit-payment',{orderId:o.orderId,utr,proofPath:path});
+      box.innerHTML=`<h3>Submitted — pending approval</h3><p>Thanks. We have received your payment details for <b>${esc(o.pack)}</b> (reference <b>${esc(r.reference)}</b>, UTR ${esc(utr)}). The pack is activated after we verify the payment, usually within 24 hours. You can check the status on your <a href="#account">account page</a>.</p>`;
+      await loadUser(); renderPlans();
+    }catch(e){err.textContent=e.message;btn.disabled=false;btn.textContent='Submit for approval'}
+  };
 }
 
 // ================= tests list =================
@@ -693,7 +728,12 @@ async function adminTab(tab){
     }
     if(tab==='orders'){
       const d=await api('admin',{action:'orders'});
-      body.innerHTML=`<div class="tablewrap"><table><thead><tr><th>Date</th><th>User</th><th>Pack</th><th>List</th><th>Coupon</th><th>Paid</th><th>Status</th><th>Razorpay IDs</th></tr></thead><tbody>${d.orders.map(o=>`<tr><td>${new Date(o.created_at).toLocaleString('en-IN',{day:'2-digit',month:'short',hour:'2-digit',minute:'2-digit'})}</td><td>${esc(o.profiles?.email)}</td><td>${esc(o.pack)}</td><td class="num">₹${o.list_amount}</td><td>${esc(o.coupon_code||'')}${o.discount?' (−₹'+o.discount+')':''}</td><td class="num">₹${o.final_amount}</td><td><span class="pill ${o.status==='paid'||o.status==='free'?'ok':o.status==='created'?'warn':'bad'}">${o.status}</span></td><td style="font-family:var(--mono);font-size:.8rem">${esc(o.razorpay_order_id||'')}<br>${esc(o.razorpay_payment_id||'')}</td></tr>`).join('')||'<tr><td colspan="8">No orders yet</td></tr>'}</tbody></table></div>`;
+      const pend=d.orders.filter(o=>o.status==='pending'),rest=d.orders.filter(o=>o.status!=='pending');
+      const row=o=>`<tr><td>${new Date(o.submitted_at||o.created_at).toLocaleString('en-IN',{day:'2-digit',month:'short',hour:'2-digit',minute:'2-digit'})}</td><td>${esc(o.profiles?.email)}<br><small>${esc(o.profiles?.name||'')}</small></td><td>${esc(o.pack)}</td><td class="num">₹${o.final_amount}${o.discount?`<br><small>${esc(o.coupon_code)} −₹${o.discount}</small>`:''}</td><td style="font-family:var(--mono);font-size:.8rem">${esc(o.reference)}<br>${esc(o.utr||'')}</td><td>${o.proof_url?`<a href="${esc(o.proof_url)}" target="_blank" rel="noopener">View screenshot</a>`:'—'}</td><td><span class="pill ${o.status==='paid'||o.status==='free'?'ok':o.status==='pending'?'warn':'bad'}">${o.status}</span>${o.review_note?`<br><small>${esc(o.review_note)}</small>`:''}</td><td>${o.status==='pending'?`<button class="btn sm" data-approve="${o.id}" style="padding:.2rem .6rem">Approve</button> <button class="btn ghost sm" data-reject="${o.id}" style="padding:.2rem .6rem">Reject</button>`:''}</td></tr>`;
+      const table=rows=>`<div class="tablewrap"><table><thead><tr><th>Submitted</th><th>User</th><th>Pack</th><th>Amount</th><th>Ref / UTR</th><th>Proof</th><th>Status</th><th></th></tr></thead><tbody>${rows.map(row).join('')||'<tr><td colspan="8">None</td></tr>'}</tbody></table></div>`;
+      body.innerHTML=`<h3>Awaiting approval (${pend.length})</h3><p class="note">Open the screenshot, match the UTR and amount with your UPI app / bank statement, then Approve. Approving activates the pack for 90 days.</p>${table(pend)}<h3 style="margin-top:1.4rem">History</h3>${table(rest)}`;
+      document.querySelectorAll('[data-approve]').forEach(b=>b.onclick=async()=>{if(!confirm('Approve this payment and activate the pack?'))return;b.disabled=true;try{await api('admin',{action:'approve',id:b.dataset.approve});adminTab('orders')}catch(e){alert(e.message);b.disabled=false}});
+      document.querySelectorAll('[data-reject]').forEach(b=>b.onclick=async()=>{const note=prompt('Reason shown to the user (e.g. amount mismatch, UTR not found):');if(note===null)return;b.disabled=true;try{await api('admin',{action:'reject',id:b.dataset.reject,note});adminTab('orders')}catch(e){alert(e.message);b.disabled=false}});
     }
     if(tab==='attempts'){
       const d=await api('admin',{action:'attempts'});
