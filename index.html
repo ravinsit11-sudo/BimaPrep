@@ -365,7 +365,6 @@ footer .wrap{display:flex;gap:1rem;flex-wrap:wrap;justify-content:space-between}
 <footer><div class="wrap"><span>© BimaPrep · bimaprep.in · <a href="#legal">Privacy · Terms · Refunds</a> · Not affiliated with IRDAI, III or any insurer</span><span>Sources: Insurance Act 1938 · IRDA Act 1999 · IRDAI regulations & master circulars 2024 · PMFBY Operational Guidelines 2023</span></div></footer>
 
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/qrcode@1.5.3/build/qrcode.min.js"></script>
 <script>
 const TESTS=[
 {id:'ic01',paper:'IC-01 · Principles of Insurance',title:'Principles of insurance',minutes:12,q:[
@@ -609,11 +608,11 @@ async function checkout(pid,box,previewOnly){
 function showUpiStep(o,box){
   box.innerHTML=`<h3>${esc(o.pack)} · pay ₹${o.amount} by UPI</h3>
   <div class="grid g2" style="align-items:start">
-    <div style="text-align:center"><canvas id="upiQr" style="max-width:240px;width:100%;background:#fff;border:1px solid var(--line);border-radius:8px;padding:6px"></canvas>
+    <div style="text-align:center">${o.qr?`<img src="${o.qr}" alt="UPI QR code" style="width:min(260px,100%);background:#fff;border:1px solid var(--line);border-radius:8px;padding:6px">`:'<p class="err">QR could not be generated — use the button below.</p>'}
       <div style="margin-top:.5rem"><a class="btn sm" href="${esc(o.upiLink)}" style="background:var(--saffron)">Pay with UPI app</a></div>
-      <p class="note" style="margin-top:.5rem">Scan with Google Pay / PhonePe / Paytm / BHIM, or tap the button on your phone.</p></div>
+      <p class="note" style="margin-top:.5rem">Scan the QR with Google Pay / PhonePe / Paytm / BHIM, or tap the button if you are on your phone.</p></div>
     <div>
-      <dl class="terms"><dt>UPI ID</dt><dd style="font-family:var(--mono)">${esc(o.upiId)} <button class="btn ghost sm" id="copyUpi" style="padding:.1rem .5rem">Copy</button></dd><dt>Name</dt><dd>${esc(o.upiName)}</dd><dt>Amount</dt><dd><b>₹${o.amount}</b> (exact amount)</dd><dt>Reference</dt><dd style="font-family:var(--mono)"><b>${esc(o.reference)}</b> — put this in the UPI remarks/note</dd></dl>
+      <dl class="terms"><dt>Pay to</dt><dd>${esc(o.upiName)}</dd><dt>Amount</dt><dd><b>₹${o.amount}</b> (exact amount)</dd><dt>Reference</dt><dd style="font-family:var(--mono)"><b>${esc(o.reference)}</b> — put this in the UPI remarks/note</dd></dl>
       <h4 style="margin:1rem 0 .4rem">After paying</h4>
       <div class="field"><label for="utr">UPI transaction number (UTR / Ref no.)</label><input id="utr" placeholder="12-digit number from your UPI app" autocomplete="off"></div>
       <div class="field"><label for="proof">Payment screenshot (JPG/PNG/PDF, max 5 MB)</label><input id="proof" type="file" accept="image/*,application/pdf"></div>
@@ -621,8 +620,6 @@ function showUpiStep(o,box){
       <div style="display:flex;gap:.6rem;flex-wrap:wrap"><button class="btn sm" id="paySubmit">Submit for approval</button><button class="btn ghost sm" id="payCancel">Cancel</button></div>
     </div>
   </div>`;
-  try{window.QRCode&&QRCode.toCanvas(box.querySelector('#upiQr'),o.upiLink,{width:240,margin:1})}catch(e){}
-  box.querySelector('#copyUpi').onclick=e=>{navigator.clipboard?.writeText(o.upiId).then(()=>{e.target.textContent='Copied'}).catch(()=>{})};
   box.querySelector('#payCancel').onclick=()=>{box.remove()};
   box.querySelector('#paySubmit').onclick=async()=>{
     const err=box.querySelector('#payErr'); err.style.color='var(--bad)'; err.textContent='';

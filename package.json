@@ -2,8 +2,9 @@
   "name": "bimaprep",
   "version": "1.0.0",
   "private": true,
-  "description": "BimaPrep – insurance exam preparation site with Supabase auth and Razorpay payments",
+  "description": "BimaPrep \u2013 insurance exam preparation site with Supabase auth and UPI payments with admin approval",
   "dependencies": {
-    "@supabase/supabase-js": "^2.45.0"
+    "@supabase/supabase-js": "^2.45.0",
+    "qrcode": "^1.5.3"
   }
 }
