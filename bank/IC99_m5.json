@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Introduction to Asset Management",
+"t": "Section 27A of the Insurance Act, 1938 deals with:",
+"o": [
+"Registration of insurance agents",
+"Payment of commission to intermediaries",
+"Nomination by policyholders",
+"The manner in which a life insurer's controlled fund may be invested"
+],
+"a": 3,
+"e": "Section 27A (life) and 27B (general) prescribe the investment of insurers' funds, supplemented by the IRDAI Investment Regulations made under Section 27D."
+},
+{
+"n": 2,
+"topic": "Asset Liability Management",
+"t": "A life insurer's liabilities have a duration of 9 years and its bond portfolio a duration of 6 years. To reduce the duration gap it should:",
+"o": [
+"Shorten the asset portfolio by shifting into treasury bills",
+"Lengthen the asset portfolio by buying long-dated government securities or receiving fixed in an interest rate swap",
+"Increase its holding of floating rate bonds",
+"Hold more cash"
+],
+"a": 1,
+"e": "Asset duration must rise toward 9 years; long G-secs or a receive-fixed swap add duration, whereas T-bills, floaters and cash reduce it."
+},
+{
+"n": 3,
+"topic": "Asset Liability Management",
+"t": "Which of the following is a limitation of duration matching as an ALM technique?",
+"o": [
+"It immunises only against small, parallel shifts in the yield curve and requires periodic rebalancing as time passes and yields change",
+"It cannot be applied to government securities",
+"It eliminates all credit risk in the portfolio",
+"It works only when all bonds are zero-coupon"
+],
+"a": 0,
+"e": "Duration is a first-order measure; non-parallel shifts, large rate moves and the drift of duration over time mean the hedge must be rebalanced."
+},
+{
+"n": 4,
+"topic": "Asset Liability Management",
+"t": "A bond portfolio has a modified duration of 4 and a market value of ₹2,500 crore. The approximate loss if yields rise by 100 basis points is:",
+"o": [
+"₹25 crore",
+"₹250 crore",
+"₹100 crore",
+"₹10 crore"
+],
+"a": 2,
+"e": "Change in value ≈ −D × Δy × Value = −4 × 0.01 × 2,500 = −₹100 crore."
+},
+{
+"n": 5,
+"topic": "Investment Alternatives",
+"t": "Which of the following instruments provides an investor with a return linked to inflation, protecting the real value of capital?",
+"o": [
+"Fixed-coupon debentures",
+"Certificates of deposit",
+"Inflation-indexed bonds",
+"Zero-coupon bonds"
+],
+"a": 2,
+"e": "Inflation-indexed bonds adjust principal or coupon with a price index; the other instruments pay nominal returns regardless of inflation."
+},
+{
+"n": 6,
+"topic": "Security Market Analysis",
+"t": "Which of the following statements about the weak form of the efficient market hypothesis is correct?",
+"o": [
+"If it holds, technical analysis based on past prices cannot consistently earn abnormal returns",
+"If it holds, fundamental analysis cannot earn abnormal returns",
+"It implies that insider information is already reflected in prices",
+"It implies that prices never change"
+],
+"a": 0,
+"e": "Weak-form efficiency means past prices and volumes are already in the price, undermining technical analysis; semi-strong covers public data and strong form covers insider data."
+},
+{
+"n": 7,
+"topic": "Fundamental Analysis",
+"t": "Which of the following factors is examined under industry analysis in the EIC framework?",
+"o": [
+"The trend of the Nifty 50 index over the last 200 days",
+"The personal income tax rates of individual investors",
+"The stage of the industry life cycle and the competitive structure of the industry",
+"The dividend policy of a single company"
+],
+"a": 2,
+"e": "Industry analysis considers life cycle (pioneering, growth, maturity, decline), competition, regulation and demand drivers before examining specific companies."
+},
+{
+"n": 8,
+"topic": "Fundamental Analysis",
+"t": "A company's EPS is ₹25 and the industry average P/E is 16. If the company's share is trading at ₹340, a fundamental analyst would conclude the share is:",
+"o": [
+"Overvalued, since its own P/E of 13.6 is below the industry average",
+"Fairly valued, since its EPS is positive",
+"Overvalued, since the implied value of ₹400 exceeds the market price",
+"Undervalued, since the industry P/E implies a value of ₹400 against the market price of ₹340"
+],
+"a": 3,
+"e": "Implied value = EPS × industry P/E = 25 × 16 = ₹400 > ₹340 market price, so the share is undervalued relative to peers; its own P/E of 13.6 being lower than 16 confirms this."
+},
+{
+"n": 9,
+"topic": "Technical Analysis",
+"t": "Which of the following is a basic assumption of technical analysis?",
+"o": [
+"Market prices move in trends that tend to persist, and history tends to repeat itself",
+"Prices depend solely on the intrinsic value computed from financial statements",
+"Past price movements have no bearing on future prices",
+"Only government policy determines share prices"
+],
+"a": 0,
+"e": "Technical analysis rests on the beliefs that market action discounts everything, prices move in trends and patterns repeat."
+},
+{
+"n": 10,
+"topic": "Technical Analysis",
+"t": "A 'double bottom' chart pattern is usually interpreted as:",
+"o": [
+"A bearish reversal signal after an uptrend",
+"A continuation of a downtrend",
+"A sign of falling volumes",
+"A bullish reversal signal after a downtrend"
+],
+"a": 3,
+"e": "A double bottom shows support tested twice without being broken, suggesting selling pressure is exhausted; a double top is its bearish mirror."
+},
+{
+"n": 11,
+"topic": "IRDAI Investment Regulations",
+"t": "A life insurer is required to invest a minimum of 15% of its life fund in:",
+"o": [
+"Equity shares of listed companies",
+"Units of mutual funds",
+"Fixed deposits of scheduled banks",
+"Housing and infrastructure investments"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). Life insurers must place not less than 15% of the life fund in approved housing and infrastructure investments; there is no minimum for equity, mutual funds or bank deposits.",
+"r": "key"
+},
+{
+"n": 12,
+"topic": "Portfolio Management",
+"t": "Which of the following is NOT a typical constraint considered when formulating an investment policy?",
+"o": [
+"Liquidity requirements",
+"The historical return earned by the market last year",
+"Time horizon",
+"Legal and regulatory restrictions"
+],
+"a": 1,
+"e": "Constraints are liquidity, horizon, taxes, legal/regulatory and unique needs; last year's market return is neither an objective nor a constraint."
+},
+{
+"n": 13,
+"topic": "Portfolio Management",
+"t": "The core-satellite approach to portfolio construction involves:",
+"o": [
+"Holding only two securities",
+"Investing entirely in small-cap stocks",
+"Rebalancing the portfolio every hour",
+"A passive, index-tracking core with smaller actively managed satellite positions to add value"
+],
+"a": 3,
+"e": "Core-satellite combines low-cost passive exposure for most of the portfolio with selective active bets, controlling cost and tracking error."
+},
+{
+"n": 14,
+"topic": "IRDAI Investment Regulations",
+"t": "Under the IRDAI Investment Regulations, the 'other investments' category for the life fund is subject to which of the following conditions?",
+"o": [
+"It can be as large as 50% of the fund if the Board approves",
+"It must be invested only in government securities",
+"It is exempt from reporting to IRDAI",
+"It is capped at 15% of the fund and is further subject to the prudential and exposure norms laid down by the Authority"
+],
+"a": 3,
+"e": "Other investments are limited to 15% of the life fund and remain subject to exposure, rating and reporting norms; they are not a free category."
+},
+{
+"n": 15,
+"topic": "IRDAI Investment Regulations",
+"t": "A unit-linked fund of ₹8,000 crore holds ₹5,600 crore in approved investments and ₹2,400 crore in other investments. Which statement is correct?",
+"o": [
+"The fund breaches the regulation, since other investments at 30% exceed the 25% cap",
+"The fund complies, since approved investments exceed 50%",
+"The fund breaches the 25% minimum requirement for Central Government securities",
+"The fund complies, since ULIP funds have no pattern requirement"
+],
+"a": 0,
+"e": "ULIP pattern: approved ≥ 75%, other ≤ 25%. Here approved = 70% and other = 30%, so the fund is non-compliant."
+},
+{
+"n": 16,
+"topic": "IRDAI Investment Regulations",
+"t": "Which of the following is a requirement of IRDAI relating to the audit of an insurer's investment function?",
+"o": [
+"Audit only once in five years by the statutory auditor",
+"A concurrent audit of investment transactions by an independent chartered accountant firm, with reports placed before the Audit Committee",
+"No audit, provided the custodian certifies the holdings",
+"Audit by the Appointed Actuary"
+],
+"a": 1,
+"e": "Insurers must have concurrent (or internal) audit of investment operations by an external firm, with findings reported to the Audit Committee and the Authority as prescribed."
+},
+{
+"n": 17,
+"topic": "IRDAI Investment Regulations",
+"t": "The quarterly statement of the pattern of investment submitted by a life insurer to IRDAI (Form 3A) certifies compliance with:",
+"o": [
+"The number of agents recruited in the quarter",
+"The bonus rates declared on participating policies",
+"The percentage limits for Central Government securities, approved securities, housing and infrastructure, approved and other investments for each fund",
+"The reinsurance treaties in force"
+],
+"a": 2,
+"e": "Form 3A (life) and Form 3B (general) report the pattern of investment for each segregated fund against the prescribed floors and caps."
+},
+{
+"n": 18,
+"topic": "Solvency and Prudential Norms",
+"t": "Which of the following assets is treated as inadmissible (valued at zero) when computing an insurer's Available Solvency Margin?",
+"o": [
+"Central Government securities",
+"Preliminary and deferred expenses and intangible assets such as goodwill",
+"Cash and bank balances",
+"Listed equity shares valued at market"
+],
+"a": 1,
+"e": "Items such as preliminary expenses, goodwill, deferred tax assets and certain receivables are excluded or restricted, so only realisable assets back the solvency margin."
+},
+{
+"n": 19,
+"topic": "Risk and Return",
+"t": "A share bought at ₹400 paid a dividend of ₹10 during the year and was sold at ₹450. The holding period return is:",
+"o": [
+"12.5%",
+"2.5%",
+"15%",
+"17.5%"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). HPR = (Sale price − Purchase price + Dividend)/Purchase price = (450 − 400 + 10)/400 = 60/400 = 15%.",
+"r": "key"
+},
+{
+"n": 20,
+"topic": "Solvency and Prudential Norms",
+"t": "Which of the following statements about IRDAI's prudential norms for insurers' investments is incorrect?",
+"o": [
+"Debt investments must generally carry a minimum credit rating to be classified as approved investments",
+"Exposure to a single investee company is limited by both the investee's capital and the insurer's fund size",
+"Investments must be made in dematerialised form and held with an independent custodian",
+"An insurer may hold an unlimited amount of unlisted equity provided the companies are profitable"
+],
+"a": 3,
+"e": "Unlisted equity is tightly restricted under 'other investments' and is never unlimited; the other three statements correctly describe the prudential framework."
+},
+{
+"n": 21,
+"topic": "Fixed Income and Money Market Instruments",
+"t": "A fixed-coupon bond of face value ₹100 pays 8% annually and trades at ₹104. Its current yield is approximately:",
+"o": [
+"7.69%",
+"8.00%",
+"8.32%",
+"7.40%"
+],
+"a": 0,
+"e": "Current yield = 8/104 = 7.69%. The coupon rate stays 8% on face value regardless of price."
+},
+{
+"n": 22,
+"topic": "Fixed Income and Money Market Instruments",
+"t": "Which of the following statements about a zero-coupon bond is correct?",
+"o": [
+"It pays interest half-yearly and is issued at par",
+"It has no reinvestment risk because there are no interim cash flows, but it has high price sensitivity to yield changes",
+"Its duration is shorter than that of a coupon bond of the same maturity",
+"It carries no interest rate risk"
+],
+"a": 1,
+"e": "Zeros deliver a single payment at maturity, so reinvestment risk is absent, but their duration equals maturity, giving the highest price risk among bonds of that tenor."
+},
+{
+"n": 23,
+"topic": "Fixed Income and Money Market Instruments",
+"t": "The 'bid-ask spread' quoted for a bond in the secondary market reflects:",
+"o": [
+"The difference between coupon and yield",
+"The default premium over government securities",
+"The accrued interest payable by the buyer",
+"The difference between the price a dealer is willing to pay and the price at which it will sell, a measure of liquidity"
+],
+"a": 3,
+"e": "A narrow bid-ask spread signals a liquid market; illiquid corporate bonds show wide spreads."
+},
+{
+"n": 24,
+"topic": "Fixed Income and Money Market Instruments",
+"t": "Accrued interest on a bond traded between coupon dates is:",
+"o": [
+"Paid by the seller to the buyer",
+"Ignored in Indian bond market settlements",
+"Paid by the buyer to the seller for the period since the last coupon, over and above the clean price",
+"Added to the face value at maturity"
+],
+"a": 2,
+"e": "Dirty price = clean price + accrued interest; the buyer compensates the seller for the coupon earned but not yet received."
+},
+{
+"n": 25,
+"topic": "Risk and Return",
+"t": "Which of the following risks arises when an issuer fails to pay interest or repay principal on time?",
+"o": [
+"Market risk",
+"Reinvestment risk",
+"Default (credit) risk",
+"Business cycle risk"
+],
+"a": 2,
+"e": "Credit risk is issuer non-payment; market risk is price fluctuation from market-wide factors."
+},
+{
+"n": 26,
+"topic": "Forex and International Investments",
+"t": "If the exchange rate moves from ₹82 per US dollar to ₹85 per US dollar, the rupee has:",
+"o": [
+"Appreciated against the dollar",
+"Depreciated against the dollar",
+"Remained unchanged in real terms",
+"Been revalued by the RBI"
+],
+"a": 1,
+"e": "★ Key fact (repeated across the mocks of this paper). More rupees are now needed to buy one dollar, so the rupee has weakened (depreciated) and the dollar has strengthened.",
+"r": "key"
+},
+{
+"n": 27,
+"topic": "Risk and Return",
+"t": "Returns on two securities have a covariance of 0.0048, with standard deviations of 0.08 and 0.10. The correlation coefficient between them is:",
+"o": [
+"0.60",
+"0.48",
+"0.80",
+"0.048"
+],
+"a": 0,
+"e": "Correlation = Covariance/(σ1 × σ2) = 0.0048/(0.08 × 0.10) = 0.0048/0.008 = 0.60."
+},
+{
+"n": 28,
+"topic": "Risk and Return",
+"t": "The 'risk premium' demanded by an investor on a corporate bond over a government security of the same maturity compensates primarily for:",
+"o": [
+"The longer maturity of the corporate bond",
+"Default risk and lower liquidity of the corporate bond",
+"Higher inflation affecting only corporate bonds",
+"The absence of a coupon on corporate bonds"
+],
+"a": 1,
+"e": "Government securities are default-free and highly liquid; corporate bonds must offer a spread for credit and liquidity risk."
+},
+{
+"n": 29,
+"topic": "Portfolio Theory and CAPM",
+"t": "According to CAPM, the only risk for which investors are compensated with higher expected return is:",
+"o": [
+"Systematic risk, measured by beta",
+"Unsystematic risk, measured by standard deviation",
+"Total risk, measured by variance",
+"Liquidity risk, measured by trading volume"
+],
+"a": 0,
+"e": "Since unsystematic risk can be diversified away at no cost, the market rewards only the non-diversifiable (systematic) component."
+},
+{
+"n": 30,
+"topic": "Portfolio Theory and CAPM",
+"t": "A stock has a standard deviation of 24%, the market has a standard deviation of 16% and the correlation between the stock and the market is 0.6. The stock's beta is:",
+"o": [
+"1.50",
+"0.90",
+"0.40",
+"1.44"
+],
+"a": 1,
+"e": "Beta = ρ × σi/σm = 0.6 × 24/16 = 0.6 × 1.5 = 0.90."
+},
+{
+"n": 31,
+"topic": "Portfolio Theory and CAPM",
+"t": "Which assumption underlies the Capital Asset Pricing Model?",
+"o": [
+"Investors prefer higher risk for the same return",
+"Transaction costs and taxes are high",
+"Investors can borrow and lend unlimited amounts at the risk-free rate",
+"Investors have different information and expectations"
+],
+"a": 2,
+"e": "CAPM assumes homogeneous expectations, no taxes or transaction costs, risk-averse investors and unrestricted borrowing and lending at the risk-free rate."
+},
+{
+"n": 32,
+"topic": "Performance Measurement",
+"t": "Fund A returned 18% with a standard deviation of 15%; Fund B returned 14% with a standard deviation of 8%. The risk-free rate is 6%. On the basis of the Sharpe ratio:",
+"o": [
+"Fund B is superior (Sharpe 1.00 against 0.80 for Fund A)",
+"Fund A is superior (Sharpe 0.80 against 1.00 for Fund B)",
+"Both funds are equally efficient",
+"Fund A is superior because its return is higher"
+],
+"a": 0,
+"e": "Sharpe A = (18 − 6)/15 = 0.80; Sharpe B = (14 − 6)/8 = 1.00. Fund B earned more excess return per unit of total risk."
+},
+{
+"n": 33,
+"topic": "Performance Measurement",
+"t": "The 'tracking error' of a portfolio relative to its benchmark is:",
+"o": [
+"The standard deviation of the difference between the portfolio's returns and the benchmark's returns",
+"The difference between the portfolio's highest and lowest NAV",
+"The brokerage cost of replicating the benchmark",
+"The beta of the portfolio"
+],
+"a": 0,
+"e": "Tracking error measures how closely a portfolio follows its benchmark; index funds aim to keep it minimal."
+},
+{
+"topic": "Motor – statutory",
+"t": "Third-party insurance is compulsory for a motor vehicle used in a public place under which section of the Motor Vehicles Act 1988?",
+"o": [
+"Section 140",
+"Section 146",
+"Section 163A",
+"Section 166"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). Section 146 makes TP cover compulsory; Section 164 fixes no-fault compensation (₹5 lakh death / ₹2.5 lakh grievous hurt).",
+"r": "core",
+"n": 34
+},
+{
+"n": 35,
+"topic": "Equity Management",
+"t": "Value investing seeks shares that:",
+"o": [
+"Have the highest recent price momentum",
+"Have the highest P/E ratios in the market",
+"Have never paid a dividend",
+"Trade at a discount to their intrinsic value, often with low P/E, low P/B and high dividend yield"
+],
+"a": 3,
+"e": "Value investors look for mispriced, out-of-favour stocks whose fundamentals exceed what the price implies; growth and momentum styles differ."
+},
+{
+"n": 36,
+"topic": "Equity Management",
+"t": "A company has shareholders' funds of ₹1,500 crore and 10 crore shares outstanding; its share trades at ₹450. The price-to-book ratio is:",
+"o": [
+"0.33",
+"1.5",
+"4.5",
+"3.0"
+],
+"a": 3,
+"e": "Book value per share = 1,500/10 = ₹150; P/B = 450/150 = 3.0."
+},
+{
+"n": 37,
+"topic": "Mutual Funds",
+"t": "An Exchange Traded Fund (ETF) differs from a conventional open-ended index fund in that an ETF:",
+"o": [
+"Is listed and traded on the stock exchange at market prices throughout the day",
+"Is actively managed to beat its index",
+"Cannot be bought by insurers",
+"Has a fixed maturity date"
+],
+"a": 0,
+"e": "ETF units trade on the exchange like shares with intraday pricing; open-ended fund units are bought and sold at end-of-day NAV from the fund."
+},
+{
+"n": 38,
+"topic": "Mutual Funds",
+"t": "A liquid mutual fund scheme invests predominantly in:",
+"o": [
+"Long-dated government securities",
+"Money market instruments with residual maturity of up to 91 days",
+"Equity shares of large-cap companies",
+"Real estate and infrastructure projects"
+],
+"a": 1,
+"e": "SEBI's scheme categorisation restricts liquid funds to debt and money market securities maturing within 91 days, making them suitable for parking short-term surplus."
+},
+{
+"n": 39,
+"topic": "Derivatives",
+"t": "Which of the following best describes a swap?",
+"o": [
+"A right to buy an asset at a fixed price",
+"An agreement between two parties to exchange a series of cash flows over a period, such as fixed for floating interest payments",
+"A standardised contract traded on an exchange to deliver a commodity",
+"A deposit placed with the clearing corporation"
+],
+"a": 1,
+"e": "Swaps are OTC contracts exchanging cash flow streams; interest rate swaps and currency swaps are the common types used by financial institutions."
+},
+{
+"n": 40,
+"topic": "Derivatives",
+"t": "An investor buys a call option on a share at a premium of ₹15 with a strike of ₹200. At expiry the share trades at ₹230. The investor's net profit per share is:",
+"o": [
+"₹30",
+"₹45",
+"₹0",
+"₹15"
+],
+"a": 3,
+"e": "Payoff = max(230 − 200, 0) = ₹30; net profit = 30 − 15 premium = ₹15."
+},
+{
+"n": 41,
+"topic": "Derivatives",
+"t": "The maximum loss for the buyer of an option is:",
+"o": [
+"Unlimited",
+"Limited to the premium paid",
+"Equal to the strike price",
+"Equal to the spot price of the underlying"
+],
+"a": 1,
+"e": "The option buyer can let the option lapse, losing only the premium; the writer (seller) of an uncovered call faces potentially unlimited loss."
+},
+{
+"n": 42,
+"topic": "Valuation of Securities",
+"t": "A perpetual bond pays an annual coupon of ₹90 for ever. If the required yield is 7.5%, its value is:",
+"o": [
+"₹900",
+"₹1,000",
+"₹675",
+"₹1,200"
+],
+"a": 3,
+"e": "Value of a perpetuity = Coupon/Yield = 90/0.075 = ₹1,200."
+},
+{
+"n": 43,
+"topic": "Valuation of Securities",
+"t": "Under IRDAI valuation norms for non-linked funds, investments in units of mutual funds are valued at:",
+"o": [
+"Historical purchase cost",
+"The latest available NAV of the scheme, with unrealised gains or losses taken to the Fair Value Change Account",
+"Face value of the units",
+"Amortised cost"
+],
+"a": 1,
+"e": "MF units are valued at the latest NAV; the difference from cost is routed through the Fair Value Change Account, similar to equity."
+},
+{
+"topic": "Fire – standard products",
+"t": "Since 1 April 2021, the standard fire policy for a dwelling in India is:",
+"o": [
+"Standard Fire and Special Perils Policy",
+"Bharat Griha Raksha",
+"Bharat Sookshma Udyam Suraksha",
+"Householder's Package Policy"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). Bharat Griha Raksha for homes; Bharat Sookshma Udyam Suraksha (up to ₹5 crore) and Bharat Laghu Udyam Suraksha (₹5–50 crore) for enterprises.",
+"r": "core",
+"n": 44
+},
+{
+"n": 45,
+"topic": "Valuation of Securities",
+"t": "A debenture of face value ₹1,000 was purchased by an insurer at ₹1,050 with 5 years to maturity and is held in the non-linked fund. Under amortised cost accounting, the carrying value after one year (straight-line amortisation) is:",
+"o": [
+"₹1,050",
+"₹1,000",
+"₹1,040",
+"₹1,060"
+],
+"a": 2,
+"e": "The ₹50 premium is amortised over 5 years at ₹10 per year, reducing the carrying value to ₹1,040 after the first year and to ₹1,000 at maturity."
+},
+{
+"n": 46,
+"topic": "ULIP Fund Management and NAV",
+"t": "A unit-linked fund earns ₹80 crore of income and incurs ₹6 crore of expenses during a year on an opening fund of ₹1,000 crore. Ignoring unit creation and redemption and market value changes, the closing fund value and the return are:",
+"o": [
+"₹1,074 crore and 7.4%",
+"₹1,080 crore and 8.0%",
+"₹1,086 crore and 8.6%",
+"₹1,074 crore and 8.0%"
+],
+"a": 0,
+"e": "Closing fund = 1,000 + 80 − 6 = ₹1,074 crore; return = 74/1,000 = 7.4%."
+},
+{
+"n": 47,
+"topic": "ULIP Fund Management and NAV",
+"t": "Which of the following is NOT typically a charge levied under a unit-linked insurance policy?",
+"o": [
+"Mortality charge",
+"Premium allocation charge",
+"Bonus loading charge",
+"Policy administration charge"
+],
+"a": 2,
+"e": "ULIP charges permitted by IRDAI include premium allocation, mortality, fund management, policy administration, switching, partial withdrawal and discontinuance charges; there is no bonus loading charge."
+},
+{
+"n": 48,
+"topic": "ULIP Fund Management and NAV",
+"t": "Under IRDAI's ULIP regulations, the NAV of each segregated fund must be declared:",
+"o": [
+"On a daily basis on the insurer's website and the Life Insurance Council website",
+"Once a month",
+"Once a quarter along with the pattern of investment",
+"Only at policy maturity"
+],
+"a": 0,
+"e": "Insurers must compute and publish the NAV of each unit-linked fund daily, enabling policyholders to track fund value and switch."
+},
+{
+"n": 49,
+"topic": "Forex and International Investments",
+"t": "An Indian exporter expecting to receive US dollars in three months and fearing rupee appreciation can hedge by:",
+"o": [
+"Selling US dollars forward against rupees for delivery in three months",
+"Buying US dollars forward",
+"Buying US dollar call options",
+"Doing nothing, since appreciation would increase rupee receipts"
+],
+"a": 0,
+"e": "A forward sale locks in today's forward rate for the dollar receivable, protecting against a stronger rupee (fewer rupees per dollar)."
+},
+{
+"n": 50,
+"topic": "Forex and International Investments",
+"t": "Which of the following statements regarding foreign portfolio investment in India is correct?",
+"o": [
+"Foreign investors may invest in Indian securities without any registration",
+"FPIs are regulated by IRDAI",
+"FPIs may invest only in government securities",
+"Foreign Portfolio Investors must register with SEBI and are subject to sectoral and aggregate investment limits"
+],
+"a": 3,
+"e": "FPIs register with SEBI under the FPI Regulations and invest within limits set by SEBI/RBI; they are not regulated by IRDAI."
+}
+]

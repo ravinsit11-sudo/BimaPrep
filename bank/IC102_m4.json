@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Business Enterprise and Its Environment",
+"t": "A statutory corporation such as LIC is created by:",
+"o": [
+"Registration under the Companies Act, 2013",
+"A memorandum of association signed by promoters",
+"An order of IRDAI",
+"A special Act of Parliament"
+],
+"a": 3,
+"e": "LIC was established by the LIC Act, 1956; statutory corporations derive their powers and structure from their founding statute rather than company law."
+},
+{
+"n": 2,
+"topic": "Business Enterprise and Its Environment",
+"t": "A limited liability partnership (LLP) may participate in the insurance ecosystem as:",
+"o": [
+"A registered life insurer",
+"A statutory corporation",
+"A reinsurer",
+"An insurance intermediary such as a broker, where permitted by IRDAI regulations"
+],
+"a": 3,
+"e": "LLPs cannot be insurers, but IRDAI's intermediary regulations allow companies and LLPs to be registered as insurance brokers, corporate agents or surveyor firms."
+},
+{
+"n": 3,
+"topic": "Economic Foundations – Some Concepts",
+"t": "A 'normal good' is one whose demand:",
+"o": [
+"Falls as income rises",
+"Is unaffected by income",
+"Rises as income rises",
+"Depends only on price of substitutes"
+],
+"a": 2,
+"e": "Insurance is generally a normal (and often superior) good – demand rises with income, which is why rising per-capita income is the strongest driver of penetration."
+},
+{
+"n": 4,
+"topic": "Economic Foundations – Some Concepts",
+"t": "Per capita income is calculated as:",
+"o": [
+"National income divided by population",
+"National income divided by number of workers",
+"GDP divided by number of households",
+"Total tax divided by population"
+],
+"a": 0,
+"e": "Per capita income is the average income per person and is the key macro variable behind insurance density."
+},
+{
+"n": 5,
+"topic": "Economic Foundations – Some Concepts",
+"t": "Which of the following pairs is correctly matched?",
+"o": [
+"Demand-pull inflation – excess aggregate demand over supply",
+"Cost-push inflation – fall in input prices",
+"Deflation – rising general price level",
+"Stagflation – high growth with low inflation"
+],
+"a": 0,
+"e": "Demand-pull inflation arises from too much money chasing too few goods; stagflation combines stagnation with inflation and deflation is a falling price level."
+},
+{
+"n": 6,
+"topic": "Economic Foundations – Some Concepts",
+"t": "A rise in the rupee's exchange rate against the dollar (rupee appreciation) would most directly:",
+"o": [
+"Increase the rupee cost of reinsurance premiums payable abroad",
+"Have no effect on insurers",
+"Reduce the rupee cost of reinsurance premiums payable in dollars",
+"Raise domestic interest rates"
+],
+"a": 2,
+"e": "Much Indian reinsurance is placed in foreign currency; a stronger rupee lowers the rupee outgo, while depreciation raises it."
+},
+{
+"n": 7,
+"topic": "Economic Foundations – Some Concepts",
+"t": "A person with wealth of ₹10 lakh faces a 10% chance of losing ₹4 lakh. An insurer offers full cover for ₹50,000. Compared with the actuarially fair premium, the insurer's loading is:",
+"o": [
+"₹10,000",
+"₹40,000",
+"₹50,000",
+"₹4,000"
+],
+"a": 0,
+"e": "Fair premium = 0.10 × ₹4,00,000 = ₹40,000; the quoted ₹50,000 includes a ₹10,000 loading for expenses and profit, which a risk-averse person may still accept."
+},
+{
+"n": 8,
+"topic": "Political – Economic Environment and Insurance",
+"t": "The Union Budget 2025-26 proposed raising the foreign direct investment limit in Indian insurance companies from 74% to:",
+"o": [
+"80%",
+"90%",
+"100%",
+"Unlimited only for reinsurers"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). The Budget announced 100% FDI for companies investing the entire premium in India, continuing the sequence 26% (2000), 49% (2015) and 74% (2021).",
+"r": "key"
+},
+{
+"n": 9,
+"topic": "Economic Foundations – Some Concepts",
+"t": "Which statement about externalities and insurance is CORRECT?",
+"o": [
+"Compulsory motor third-party insurance addresses the negative externality that uninsured drivers impose on accident victims",
+"Externalities never justify compulsory insurance",
+"Positive externalities make private insurance illegal",
+"Externalities apply only to life insurance"
+],
+"a": 0,
+"e": "When one party's activity harms third parties who cannot be compensated, the law makes liability insurance compulsory – the classic rationale for Section 146 of the Motor Vehicles Act."
+},
+{
+"n": 10,
+"topic": "Political – Economic Environment and Insurance",
+"t": "The Insurance Act, 1938 was the first comprehensive legislation in India to:",
+"o": [
+"Nationalise life insurance",
+"Permit foreign direct investment",
+"Create the Insurance Ombudsman",
+"Regulate both life and general insurance business, including deposits, investments and supervision"
+],
+"a": 3,
+"e": "The 1938 Act consolidated regulation of insurers under a Controller of Insurance; nationalisation (1956, 1972), the Ombudsman (1998 rules) and FDI (2000) came later."
+},
+{
+"n": 11,
+"topic": "Political – Economic Environment and Insurance",
+"t": "The four public-sector general insurers were delinked from GIC and GIC was designated the national reinsurer in:",
+"o": [
+"1972",
+"1999",
+"2002",
+"2015"
+],
+"a": 2,
+"e": "Following the GIBNA amendment in 2002, GIC became 'GIC Re', the Indian reinsurer, and the four subsidiaries became independent companies under the central government."
+},
+{
+"n": 12,
+"topic": "Political – Economic Environment and Insurance",
+"t": "Under IRDAI's reinsurance regulations, Indian insurers must currently cede to GIC Re an obligatory cession of:",
+"o": [
+"4% of sum insured on each policy",
+"20% of all premiums",
+"10% of net retained premium",
+"50% of fire premiums"
+],
+"a": 0,
+"e": "The obligatory cession was reduced in steps from 20% to 5% and stands at 4% of sum insured for most classes, keeping a minimum share of domestic risk with the national reinsurer."
+},
+{
+"n": 13,
+"topic": "Political – Economic Environment and Insurance",
+"t": "The dismantling of the general insurance tariff regime by IRDA in 2007 meant that:",
+"o": [
+"All premiums became fixed by the government",
+"Motor third-party premium became free of regulation",
+"Insurers could price fire, engineering and motor own-damage risks on their own judgement",
+"Reinsurance became compulsory"
+],
+"a": 2,
+"e": "De-tariffing introduced competitive pricing in most classes; motor third-party premiums continue to be notified by the government/regulator."
+},
+{
+"n": 14,
+"topic": "Political – Economic Environment and Insurance",
+"t": "The Finance Ministry's Department of Financial Services is relevant to insurers because it:",
+"o": [
+"Underwrites all government risks",
+"Sets the repo rate",
+"Issues licences to surveyors",
+"Administers the public-sector insurers and frames policy on legislative changes like FDI and capital infusion"
+],
+"a": 3,
+"e": "DFS is the administrative ministry for LIC, the PSU general insurers and insurance legislation; IRDAI handles regulation and RBI monetary policy."
+},
+{
+"n": 15,
+"topic": "Political – Economic Environment and Insurance",
+"t": "Which political-economic change would most likely reduce the cost of capital for Indian insurers?",
+"o": [
+"Allowing 100% FDI and listing of insurers, broadening the pool of investors",
+"Capping FDI at 26% again",
+"Prohibiting IPOs of insurance companies",
+"Raising the minimum capital to ₹1,000 crore"
+],
+"a": 0,
+"e": "More investor sources and liquidity lower the required return on equity; restrictions on ownership do the opposite."
+},
+{
+"n": 16,
+"topic": "Political – Economic Environment and Insurance",
+"t": "The share of the central government in funding AB-PMJAY for most states (other than NE and Himalayan states) is:",
+"o": [
+"100%",
+"75%",
+"60%",
+"50%"
+],
+"a": 2,
+"e": "PM-JAY is funded 60:40 between the Centre and states (90:10 for NE and Himalayan states), illustrating fiscal federalism in social insurance."
+},
+{
+"n": 17,
+"topic": "Environmental Risks and Insurance",
+"t": "The Paris Agreement of 2015 aims to limit the rise in global average temperature to well below:",
+"o": [
+"1°C above pre-industrial levels",
+"2°C above pre-industrial levels, pursuing efforts for 1.5°C",
+"3°C above 1990 levels",
+"4°C above 2000 levels"
+],
+"a": 1,
+"e": "★ Key fact (repeated across the mocks of this paper). The Agreement's central goal is well below 2°C with efforts toward 1.5°C; rising temperatures increase the frequency and severity of weather-related insured losses.",
+"r": "key"
+},
+{
+"n": 18,
+"topic": "The Social Environment and Insurance",
+"t": "Under the Code on Social Security, 2020, 'aggregators' such as ride-hailing or food-delivery platforms may be required to contribute to a social security fund for gig workers at a rate of:",
+"o": [
+"1% to 2% of annual turnover, subject to a cap of 5% of amounts paid to gig workers",
+"10% of annual profit",
+"₹1,000 per worker per month",
+"20% of gig workers' earnings"
+],
+"a": 0,
+"e": "Section 114 of the Code provides for aggregator contributions of 1–2% of turnover, capped at 5% of payments to gig and platform workers, to fund their welfare schemes."
+},
+{
+"n": 19,
+"topic": "The Social Environment and Insurance",
+"t": "The Employees' State Insurance (ESI) scheme provides which of the following benefits to covered employees?",
+"o": [
+"Crop loss compensation",
+"Motor third-party cover",
+"Medical, sickness, maternity, disablement and dependants' benefits",
+"Housing loans"
+],
+"a": 2,
+"e": "ESIC is a contributory social-health-insurance scheme for employees earning up to the wage ceiling in covered establishments, funded by employer and employee contributions."
+},
+{
+"n": 20,
+"topic": "The Social Environment and Insurance",
+"t": "The term 'sandwich generation' used in social analysis refers to:",
+"o": [
+"Children below 14 years",
+"Migrant workers in cities",
+"Retired persons living alone",
+"Working adults supporting both ageing parents and their own children"
+],
+"a": 3,
+"e": "Dual dependency raises the need for life, health and critical-illness protection for the earning member and elder-care products for parents."
+},
+{
+"n": 21,
+"topic": "The Social Environment and Insurance",
+"t": "Women-centric insurance initiatives in India, such as Bima Vahak and women-only health products, are driven by the social reality that:",
+"o": [
+"Women are under-insured relative to men and are effective last-mile trust-builders in communities",
+"Women have shorter life expectancy than men",
+"Women cannot legally own policies",
+"Women pay higher premiums under IRDAI rules"
+],
+"a": 0,
+"e": "Women's longer life expectancy and lower financial inclusion create both need and opportunity; women agents have higher community trust in rural markets."
+},
+{
+"n": 22,
+"topic": "The Social Environment and Insurance",
+"t": "Religious and cultural attitudes affect insurance in India in which of the following ways?",
+"o": [
+"They have no effect since insurance is a financial product",
+"Culture only affects marine insurance",
+"Fatalistic beliefs and the taboo of discussing death can reduce demand for life cover, while Shariah-compliant 'takaful' concepts address faith-based objections",
+"Cultural attitudes increase demand for reinsurance"
+],
+"a": 2,
+"e": "Social and cultural norms shape willingness to insure; insurers respond with culturally sensitive marketing and product design."
+},
+{
+"n": 23,
+"topic": "The Social Environment and Insurance",
+"t": "A life insurer's data shows that 70% of its lapses occur among first-generation urban migrants earning under ₹3 lakh a year. Which social-environment response is most appropriate?",
+"o": [
+"Stop selling to this segment entirely",
+"Sell only single-premium ULIPs to them",
+"Increase premium loading on the segment",
+"Offer smaller sum-assured micro-insurance with flexible premium frequency and vernacular communication"
+],
+"a": 3,
+"e": "Irregular income and low familiarity cause lapses; products suited to cash-flow patterns, language and simplicity improve persistency and inclusion."
+},
+{
+"n": 24,
+"topic": "Technological Environment and Insurance",
+"t": "Artificial intelligence is used in insurance claims mainly to:",
+"o": [
+"Triage claims, detect fraud patterns and automate straightforward settlements",
+"Replace the Insurance Ombudsman",
+"Decide court cases",
+"Set reinsurance treaty limits by law"
+],
+"a": 0,
+"e": "AI models score claims for complexity and fraud risk, enabling straight-through processing of simple claims while routing suspicious ones for investigation."
+},
+{
+"n": 25,
+"topic": "Technological Environment and Insurance",
+"t": "A chatbot deployed by an insurer for policy servicing is an application of:",
+"o": [
+"Natural language processing",
+"Blockchain",
+"Actuarial control cycle",
+"Catastrophe modelling"
+],
+"a": 0,
+"e": "NLP enables machines to understand and respond to human language, allowing 24×7 self-service for queries, renewals and claim intimation."
+},
+{
+"n": 26,
+"topic": "Technological Environment and Insurance",
+"t": "Drones and satellite imagery are increasingly used in Indian insurance for:",
+"o": [
+"Issuing life policies",
+"Collecting premiums in villages",
+"Crop-loss assessment under PMFBY and property damage surveys after catastrophes",
+"Training agents"
+],
+"a": 2,
+"e": "Remote sensing allows quick, objective yield and damage estimation over large areas, reducing moral hazard and settlement delays in crop and property claims."
+},
+{
+"n": 27,
+"topic": "Technological Environment and Insurance",
+"t": "Under the DPDP Act, 2023, personal data may be processed by an insurer only:",
+"o": [
+"Without any consent since insurance is regulated",
+"If the customer is above 60 years",
+"If data is stored on paper",
+"For a lawful purpose with the individual's consent or for certain legitimate uses, with notice of purpose"
+],
+"a": 3,
+"e": "The Act is consent-centric: processing requires free, specific and informed consent (or specified legitimate uses), and data must be used only for the stated purpose."
+},
+{
+"n": 28,
+"topic": "Technological Environment and Insurance",
+"t": "Which organisation is India's national nodal agency for responding to cyber security incidents?",
+"o": [
+"CERT-In",
+"IRDAI",
+"SEBI",
+"NPCI"
+],
+"a": 0,
+"e": "The Indian Computer Emergency Response Team under MeitY handles incident response and mandates reporting of cyber incidents, relevant to insurers' cyber-security obligations."
+},
+{
+"n": 29,
+"topic": "Technological Environment and Insurance",
+"t": "The IRDAI (Insurance Electronic Marketplace) Regulations, 2024 provide the framework for:",
+"o": [
+"Bima Vistaar",
+"Web aggregators",
+"Insurance Repositories",
+"Bima Sugam"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). Bima Sugam is the single digital platform for buying, selling, servicing and claims across insurers, set up under the 2024 electronic marketplace regulations as a not-for-profit company owned by insurers.",
+"r": "key"
+},
+{
+"n": 30,
+"topic": "Technological Environment and Insurance",
+"t": "Application Programming Interfaces (APIs) matter in insurance distribution because they:",
+"o": [
+"Allow insurers to plug their products into banks, e-commerce and fintech apps for real-time quotes and issuance",
+"Determine actuarial reserves",
+"Replace the policy document",
+"Are required for cash premium receipts"
+],
+"a": 0,
+"e": "APIs enable embedded and partner distribution by letting external platforms communicate directly with insurer systems."
+},
+{
+"n": 31,
+"topic": "Technological Environment and Insurance",
+"t": "An insurer's claims system is hit by ransomware, encrypting customer data for three days. Which statement is INCORRECT?",
+"o": [
+"The incident must be reported to CERT-In within the prescribed time",
+"IRDAI's cyber-security guidelines require incident reporting to the regulator",
+"Under the DPDP Act, affected individuals need not be informed of the breach",
+"The insurer may claim under its own cyber insurance policy if it holds one"
+],
+"a": 2,
+"e": "The DPDP Act requires data fiduciaries to intimate the Data Protection Board and affected data principals of a personal data breach."
+},
+{
+"n": 32,
+"topic": "Environmental Risks and Insurance",
+"t": "The principle of 'Common But Differentiated Responsibilities' (CBDR) in climate negotiations means:",
+"o": [
+"All countries must cut emissions equally",
+"Only developing countries must act",
+"Developed countries bear a greater share of mitigation responsibility given historical emissions",
+"Insurers must pay for climate damage"
+],
+"a": 2,
+"e": "CBDR, embedded in the UNFCCC, recognises differing historical contributions and capacities; India invokes it in global climate commitments."
+},
+{
+"n": 33,
+"topic": "Environmental Risks and Insurance",
+"t": "The Environment (Protection) Act, 1986 empowers the central government to:",
+"o": [
+"Nationalise polluting industries",
+"Levy GST on carbon",
+"Insure all factories",
+"Take measures to protect and improve environmental quality, including setting emission standards"
+],
+"a": 3,
+"e": "The umbrella Act followed the Bhopal disaster and underpins environmental standards whose breach can give rise to liability exposures insurers must evaluate."
+},
+{
+"n": 34,
+"topic": "Environmental Risks and Insurance",
+"t": "'Green insurance' products include:",
+"o": [
+"Policies printed on recycled paper only",
+"Covers for solar and wind projects, electric vehicles and policies that reward environment-friendly behaviour",
+"Life insurance for forest officials",
+"Reinsurance of pollution pools only"
+],
+"a": 1,
+"e": "Insurers support the energy transition by underwriting renewable assets and EVs and designing incentives like green-rebuild clauses in property policies."
+},
+{
+"topic": "IRDAI – regulator",
+"t": "The control level of solvency ratio that every insurer must maintain is:",
+"o": [
+"100%",
+"125%",
+"150%",
+"200%"
+],
+"a": 2,
+"e": "★ Core fact (asked across III papers). Available solvency margin must be at least 150% of the required solvency margin; falling below triggers IRDAI action.",
+"r": "core",
+"n": 35
+},
+{
+"n": 36,
+"topic": "Environmental Risks and Insurance",
+"t": "Which of the following is a 'physical risk' (as opposed to a 'transition risk') of climate change for an insurer?",
+"o": [
+"Fall in value of coal-company shares in its portfolio due to carbon regulation",
+"Increased cyclone claims on coastal property",
+"Reputational damage from insuring polluters",
+"New disclosure requirements on climate exposure"
+],
+"a": 1,
+"e": "Physical risks arise from climate events themselves; transition risks arise from the shift to a low-carbon economy (policy, market and reputational changes)."
+},
+{
+"n": 37,
+"topic": "Environmental Risks and Insurance",
+"t": "A weather-index crop cover pays ₹2,000 per hectare for every 10 mm of rainfall shortfall below a trigger of 300 mm during the season, up to a maximum of ₹20,000. A farmer with 2 hectares experiences 240 mm of rainfall. The payout is:",
+"o": [
+"₹12,000",
+"₹24,000",
+"₹40,000",
+"₹6,000"
+],
+"a": 1,
+"e": "Shortfall = 60 mm = 6 units × ₹2,000 = ₹12,000 per hectare; for 2 hectares the payout is ₹24,000, within the cap of ₹20,000 per hectare."
+},
+{
+"n": 38,
+"topic": "The Legal Environment of Insurance",
+"t": "'Utmost good faith' in insurance law requires:",
+"o": [
+"Only the insurer to act honestly",
+"Both parties to disclose all material facts, with the heavier burden on the proposer",
+"The agent to guarantee claim payment",
+"The regulator to approve each claim"
+],
+"a": 1,
+"e": "Uberrima fides is a reciprocal duty but bites mostly on the proposer who alone knows facts about the risk; breach makes the contract voidable (subject to Section 45 for life)."
+},
+{
+"n": 39,
+"topic": "The Legal Environment of Insurance",
+"t": "Section 38 of the Insurance Act, 1938 governs:",
+"o": [
+"Nomination",
+"Assignment and transfer of life policies",
+"Agents' commission",
+"Investment of funds"
+],
+"a": 1,
+"e": "Section 38 deals with assignment (absolute or conditional), while nomination is under Section 39 and commission under Section 40."
+},
+{
+"n": 40,
+"topic": "The Legal Environment of Insurance",
+"t": "Under Section 64UM of the Insurance Act and IRDAI surveyor regulations, a licensed surveyor's report is required for general insurance claims exceeding:",
+"o": [
+"₹10,000 in all classes",
+"₹50,000 for motor and ₹1 lakh for other classes",
+"₹5 lakh in all classes",
+"₹25,000 for motor only"
+],
+"a": 1,
+"e": "The thresholds are ₹50,000 for motor and ₹1,00,000 for other lines; below these, insurers may assess losses in-house."
+},
+{
+"n": 41,
+"topic": "The Legal Environment of Insurance",
+"t": "The Life Insurance Council and the General Insurance Council are constituted under:",
+"o": [
+"Section 64C of the Insurance Act, 1938",
+"The Companies Act, 2013",
+"The IRDA Act, 1999",
+"The LIC Act, 1956"
+],
+"a": 0,
+"e": "Section 64C provides for the two Councils as self-regulatory bodies of insurers, which frame industry codes of conduct and liaise with IRDAI."
+},
+{
+"n": 42,
+"topic": "The Legal Environment of Insurance",
+"t": "Under the Income-tax Act, 1961, deduction for health insurance premium paid by an individual for self and family (below 60 years) is available under Section 80D up to:",
+"o": [
+"₹15,000",
+"₹25,000",
+"₹50,000",
+"₹1,50,000"
+],
+"a": 1,
+"e": "Section 80D allows ₹25,000 (₹50,000 for senior citizens) for self/family plus an additional amount for parents; Section 80C covers life premium up to ₹1.5 lakh."
+},
+{
+"n": 43,
+"topic": "The Legal Environment of Insurance",
+"t": "Which authority regulates insurance business carried on from GIFT City IFSC?",
+"o": [
+"IRDAI",
+"IFSCA",
+"SEBI",
+"RBI"
+],
+"a": 1,
+"e": "The International Financial Services Centres Authority (2020) is the unified regulator for IFSC entities, including IFSC Insurance Offices (IIOs) of insurers and reinsurers."
+},
+{
+"n": 44,
+"topic": "The Legal Environment of Insurance",
+"t": "A policyholder nominates his 10-year-old daughter under a ₹50 lakh term policy and names his brother to receive the money on her behalf. The policyholder dies while the daughter is still a minor. Under Section 39 of the Insurance Act, 1938, the insurer should pay the claim to:",
+"o": [
+"The daughter directly, as she is the nominee",
+"The brother, as the 'appointee' named to receive the proceeds during the nominee's minority",
+"The legal heirs under a succession certificate",
+"The Insurance Ombudsman as trustee"
+],
+"a": 1,
+"e": "Section 39 allows the policyholder to appoint a person to receive the money if the nominee is a minor at the time of death; without an appointee, payment would require a court-appointed guardian."
+},
+{
+"n": 45,
+"topic": "Emerging Issues for Insurance Industry",
+"t": "IRDAI's shift to 'Use and File' for most products means that:",
+"o": [
+"Products must be approved by Parliament before launch",
+"Insurers can launch products and file them with IRDAI afterwards, within the prescribed framework",
+"Products can be used only after a one-year trial",
+"Only LIC can file new products"
+],
+"a": 1,
+"e": "Use and File replaced prior approval for most life, health and general products, speeding innovation while keeping board-level product management committees accountable."
+},
+{
+"n": 46,
+"topic": "Emerging Issues for Insurance Industry",
+"t": "The Insurance Laws (Amendment) Bill, 2025 proposals include all of the following EXCEPT:",
+"o": [
+"100% FDI in insurance companies",
+"Composite registration for life and general business",
+"Lower capital requirements for specialised or niche insurers",
+"Abolition of IRDAI and transfer of its functions to RBI"
+],
+"a": 3,
+"e": "The Bill seeks to liberalise ownership, licensing and capital norms; it does not propose dissolving the insurance regulator."
+},
+{
+"topic": "IRDAI – regulator",
+"t": "The permitted limit of foreign direct investment in an Indian insurance company is currently:",
+"o": [
+"26%",
+"49%",
+"74%",
+"100%"
+],
+"a": 2,
+"e": "★ Core fact (asked across III papers). Raised from 49% to 74% by the Insurance (Amendment) Act 2021; intermediaries may have 100%.",
+"r": "core",
+"n": 47
+},
+{
+"n": 48,
+"topic": "Emerging Issues for Insurance Industry",
+"t": "IRDAI's Expenses of Management (EoM) regulations, 2023 replaced product-wise commission caps with:",
+"o": [
+"A ban on commissions",
+"An overall limit on expenses including commission, giving insurers flexibility in commission structures under a board-approved policy",
+"A flat commission of 5% on all products",
+"Commission to be paid only by GIC Re"
+],
+"a": 1,
+"e": "The new framework caps total EoM (e.g., 30% of gross premium for general insurers) and lets insurers decide commissions within it, linking payouts to performance and inclusion."
+},
+{
+"n": 49,
+"topic": "Emerging Issues for Insurance Industry",
+"t": "Risk-Based Supervision (RBSF), being adopted by IRDAI, means the regulator:",
+"o": [
+"Inspects every insurer with identical frequency regardless of risk",
+"Prioritises supervisory attention according to each insurer's risk profile and impact",
+"Supervises only life insurers",
+"Supervises only reinsurers"
+],
+"a": 1,
+"e": "RBS allocates supervisory resources where risk to policyholders is highest, complementing the planned move to risk-based capital."
+},
+{
+"n": 50,
+"topic": "Emerging Issues for Insurance Industry",
+"t": "A mid-sized general insurer is evaluating whether to seek a composite licence once permitted. Which consideration is most relevant?",
+"o": [
+"Composite licence will exempt it from solvency requirements",
+"It could cross-sell life protection to its motor and health customers, but must manage distinct liability profiles and capital for each business",
+"It will no longer need reinsurance",
+"IRDAI will fix its premium rates"
+],
+"a": 1,
+"e": "The benefit is distribution synergy and bundled products; the challenge is managing long-tail life liabilities alongside short-tail general risks with adequate ring-fenced capital."
+}
+]

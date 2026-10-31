@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Introduction to Management Science",
+"t": "Who is regarded as the father of Scientific Management, whose time-and-motion studies sought the 'one best way' of doing a job?",
+"o": [
+"Henri Fayol",
+"F. W. Taylor",
+"Max Weber",
+"Elton Mayo"
+],
+"a": 1,
+"e": "Frederick Winslow Taylor pioneered Scientific Management through work study and standardisation. Fayol gave administrative principles, Weber the bureaucratic model and Mayo the human relations approach."
+},
+{
+"n": 2,
+"topic": "Introduction to Management Science",
+"t": "According to Henri Fayol, the principle that an employee should receive orders from only one superior is called:",
+"o": [
+"Unity of direction",
+"Scalar chain",
+"Centralisation",
+"Unity of command"
+],
+"a": 3,
+"e": "Unity of command means one subordinate, one boss. Unity of direction means one head and one plan for a group of activities with the same objective; the scalar chain is the line of authority from top to bottom."
+},
+{
+"n": 3,
+"topic": "Introduction to Management Science",
+"t": "Which of the following is NOT a characteristic of Max Weber's ideal bureaucracy?",
+"o": [
+"Decisions guided by personal loyalty to the superior",
+"A clearly defined hierarchy of authority",
+"Division of labour based on functional specialisation",
+"Written rules and impersonal application of procedures"
+],
+"a": 0,
+"e": "Weber's bureaucracy is impersonal: positions, not persons, carry authority and selection is by technical competence. Personal loyalty-based decisions belong to traditional, not rational-legal, authority."
+},
+{
+"n": 4,
+"topic": "Functions of Management",
+"t": "A broad, enduring statement of why an organisation exists, normally set by its promoters or board, is known as its:",
+"o": [
+"Procedure",
+"Mission",
+"Budget",
+"Schedule"
+],
+"a": 1,
+"e": "A mission is a timeless statement of purpose that changes rarely. Procedures, budgets and schedules are operational planning tools that flow from objectives."
+},
+{
+"n": 5,
+"topic": "Functions of Management",
+"t": "In a SWOT analysis, 'opportunities' and 'threats' refer to:",
+"o": [
+"Factors internal to the organisation",
+"Only financial factors affecting profitability",
+"Factors in the external environment of the organisation",
+"Only the competitive actions of rival insurers"
+],
+"a": 2,
+"e": "Strengths and weaknesses are internal; opportunities and threats arise in the external environment such as regulation, technology and competition."
+},
+{
+"n": 6,
+"topic": "Functions of Management",
+"t": "A branch manager of an insurance company directly supervises 32 development officers. Compared with a manager supervising 6, this arrangement indicates:",
+"o": [
+"A narrow span of control and a taller structure",
+"A greater number of hierarchical levels",
+"Greater centralisation of authority at head office",
+"A wide span of control and a flatter structure"
+],
+"a": 3,
+"e": "Span of control is the number of subordinates reporting to one manager. A wide span reduces the number of levels and produces a flat organisation; a narrow span produces a tall one."
+},
+{
+"n": 7,
+"topic": "Functions of Management",
+"t": "Which of the following is a 'staff' function rather than a 'line' function in a general insurance company?",
+"o": [
+"The legal department advising on policy wordings",
+"The underwriting department accepting risks",
+"The claims department settling claims",
+"The marketing department procuring business"
+],
+"a": 0,
+"e": "Line functions contribute directly to the primary objectives (underwriting, claims, marketing). Staff functions such as legal, HR and IT support and advise the line."
+},
+{
+"n": 8,
+"topic": "Functions of Management",
+"t": "PERT and CPM are techniques used primarily in which managerial function?",
+"o": [
+"Staffing and manpower planning",
+"Controlling and scheduling of projects",
+"Motivating and leading employees",
+"Formulating the organisation's mission"
+],
+"a": 1,
+"e": "Programme Evaluation and Review Technique and Critical Path Method are network tools for planning and controlling the time and sequence of project activities."
+},
+{
+"n": 9,
+"topic": "Maintaining Human Resources",
+"t": "Under the Occupational Safety, Health and Working Conditions Code 2020, the maximum daily working hours and the rate of overtime wages are:",
+"o": [
+"10 hours a day; overtime at 1.5 times",
+"9 hours a day; overtime at the ordinary rate",
+"8 hours a day; overtime at twice the ordinary rate",
+"12 hours a day; no overtime payable"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). The Code limits work to 8 hours per day with weekly rest, and requires overtime to be paid at double the ordinary wage rate.",
+"r": "key"
+},
+{
+"n": 10,
+"topic": "Human Resources Management",
+"t": "The four broad functions of Human Resources Management, as described in the III study course, are acquisition, development, motivation and:",
+"o": [
+"Marketing",
+"Measurement",
+"Maintenance",
+"Mediation"
+],
+"a": 2,
+"e": "HRM is organised around acquiring people, developing them, motivating them and maintaining them through compensation, welfare, discipline and industrial relations."
+},
+{
+"n": 11,
+"topic": "Human Resources Management",
+"t": "Which behavioural science studies how culture shapes the values and behaviour of people across countries and organisations?",
+"o": [
+"Anthropology",
+"Psychology",
+"Political science",
+"Economics"
+],
+"a": 0,
+"e": "Anthropology contributes to HRM by explaining cultural differences in values, attitudes and behaviour; psychology focuses on individual behaviour and sociology on social systems."
+},
+{
+"n": 12,
+"topic": "Acquiring Human Resources",
+"t": "A written statement of the personal attributes, qualifications and abilities required of the holder of a job is called a:",
+"o": [
+"Job description",
+"Job evaluation",
+"Job specification",
+"Job design"
+],
+"a": 2,
+"e": "The job specification states the person requirements and is the yardstick for selection. The job description states the duties and scope of the job itself; job evaluation compares jobs for pay purposes."
+},
+{
+"n": 13,
+"topic": "Acquiring Human Resources",
+"t": "An insurer has 10 vacancies for assistant managers. As per the guideline in the study course, roughly how many candidates should ideally be shortlisted for the selection stage?",
+"o": [
+"30 to 50 candidates",
+"10 to 15 candidates",
+"100 to 150 candidates",
+"Exactly 20 candidates"
+],
+"a": 0,
+"e": "The course suggests that candidates called for selection should be about 3 to 5 times the number of vacancies, giving a real choice without wasting selectors' time."
+},
+{
+"n": 14,
+"topic": "Acquiring Human Resources",
+"t": "In a selection process, a candidate is given a tray of pending letters, memos and files and asked to decide the action on each within a fixed time. This technique is called:",
+"o": [
+"Group discussion",
+"Structured interview",
+"In-basket exercise",
+"Psychometric test"
+],
+"a": 2,
+"e": "The in-basket (in-tray) exercise simulates a manager's daily workload to assess planning, prioritisation and decision-making ability."
+},
+{
+"n": 15,
+"topic": "Development of Human Resources",
+"t": "According to the principles of learning, which of the following statements is correct?",
+"o": [
+"People learn equally well whether or not they want to learn",
+"Feedback should be withheld until training is complete",
+"Reinforcement discourages repetition of the learnt behaviour",
+"Learning fades unless it is practised and transferred to the job"
+],
+"a": 3,
+"e": "Learning requires willingness, periodic feedback and reinforcement, and it must be practised and applied on the job or it is lost."
+},
+{
+"n": 16,
+"topic": "Development of Human Resources",
+"t": "The Social Learning Theory holds that people learn mainly by:",
+"o": [
+"Observing others and through direct experience",
+"Reading manuals and attending lectures",
+"Memorising rules and regulations",
+"Being punished for mistakes"
+],
+"a": 0,
+"e": "Social learning (Bandura) emphasises modelling: people learn by watching others and by doing, which is why seeing, doing and reflecting are more effective than hearing and reading."
+},
+{
+"n": 17,
+"topic": "Acquiring Human Resources",
+"t": "A statement setting out the purpose, scope, duties, responsibilities and limits of authority of a post is a:",
+"o": [
+"Job specification",
+"Job evaluation",
+"Manpower inventory",
+"Job description"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). The job description describes the job; the job specification describes the person required; job evaluation ranks jobs for pay.",
+"r": "key"
+},
+{
+"n": 18,
+"topic": "Development of Human Resources",
+"t": "Which training method involves a trainee learning the job while actually performing it under the guidance of an experienced employee?",
+"o": [
+"Programmed instruction",
+"On-the-job training",
+"Case study method",
+"Sensitivity training"
+],
+"a": 1,
+"e": "On-the-job training (including job rotation and apprenticeship) takes place at the workplace with the real equipment, which the course notes is the most effective setting."
+},
+{
+"n": 19,
+"topic": "Development of Human Resources",
+"t": "An appraisal method in which an employee receives feedback from superiors, peers, subordinates and sometimes customers is called:",
+"o": [
+"Graphic rating scale",
+"Forced distribution",
+"360-degree appraisal",
+"Confidential report"
+],
+"a": 2,
+"e": "360-degree appraisal gathers ratings from all around the employee to reduce the bias of a single rater."
+},
+{
+"n": 20,
+"topic": "Development of Human Resources",
+"t": "Which of the following statements about coaching and training is INCORRECT?",
+"o": [
+"Coaching is usually one-to-one and focused on specific tasks",
+"Training may cover wider linkages of the work beyond the immediate task",
+"Counselling relies on active listening and empathy",
+"Coaching is always delivered to large groups in a classroom"
+],
+"a": 3,
+"e": "Coaching is individual and task-specific; group classroom delivery is characteristic of lectures and seminars, not coaching."
+},
+{
+"n": 21,
+"topic": "Making Change Happen",
+"t": "An insurer that restructures its claims process only after customer complaints have damaged its renewal rates is exhibiting a:",
+"o": [
+"Reactive response to change",
+"Proactive response to change",
+"Strategic response to change",
+"Institutionalised response to change"
+],
+"a": 0,
+"e": "A reactive response solves a problem after effectiveness has suffered; a proactive response anticipates a likely threat and prepares before it occurs."
+},
+{
+"n": 22,
+"topic": "Making Change Happen",
+"t": "The three stages of Kurt Lewin's model of change are:",
+"o": [
+"Planning, organising and controlling",
+"Unfreezing, moving (changing) and refreezing",
+"Dissatisfaction, resistance and acceptance",
+"Diagnosis, intervention and evaluation"
+],
+"a": 1,
+"e": "Lewin's model requires loosening existing attitudes (unfreezing), introducing the new behaviour (moving) and then stabilising it (refreezing) so it becomes routine."
+},
+{
+"n": 23,
+"topic": "Making Change Happen",
+"t": "In Rensis Likert's model of organisational climate, productivity, costs and quality are classified as:",
+"o": [
+"Causal variables",
+"Intervening variables",
+"End-result variables",
+"Contextual variables"
+],
+"a": 2,
+"e": "Causal variables (structure, policies, leadership) act through intervening variables (climate, motivation) to produce end-result variables such as productivity and quality."
+},
+{
+"n": 24,
+"topic": "Making Change Happen",
+"t": "Organisation Development (OD) is best described as:",
+"o": [
+"A short-term programme to reduce staff costs through voluntary retirement",
+"The periodic revision of the organisation chart",
+"A training programme for newly recruited officers",
+"A planned, organisation-wide, top-managed effort using behavioural science to improve effectiveness and health"
+],
+"a": 3,
+"e": "OD is long-term, systemic and managed from the top, often with consultant help, addressing both formal and informal systems."
+},
+{
+"n": 25,
+"topic": "Motivation",
+"t": "In Maslow's hierarchy, the need for recognition, status and respect from others falls under:",
+"o": [
+"Esteem needs",
+"Social needs",
+"Safety needs",
+"Self-actualisation needs"
+],
+"a": 0,
+"e": "Maslow's five levels are physiological, safety, social, esteem and self-actualisation; esteem covers self-respect and recognition from others."
+},
+{
+"n": 26,
+"topic": "Motivation",
+"t": "According to Herzberg's two-factor theory, salary, company policy and working conditions are:",
+"o": [
+"Motivators that directly increase job satisfaction",
+"Hygiene factors whose absence causes dissatisfaction but whose presence does not motivate",
+"Factors irrelevant to employee attitudes",
+"Higher-order needs equivalent to self-actualisation"
+],
+"a": 1,
+"e": "Hygiene (maintenance) factors prevent dissatisfaction; motivators such as achievement, recognition and the work itself create satisfaction."
+},
+{
+"n": 27,
+"topic": "Motivation",
+"t": "A development officer believes that extra effort will lead to higher sales, that higher sales will earn a bonus, and values the bonus highly. This reasoning illustrates:",
+"o": [
+"Adams' equity theory",
+"McClelland's need for affiliation",
+"Vroom's expectancy theory",
+"Skinner's reinforcement theory"
+],
+"a": 2,
+"e": "Expectancy theory explains motivation as the product of expectancy (effort leads to performance), instrumentality (performance leads to reward) and valence (value of the reward)."
+},
+{
+"n": 28,
+"topic": "Motivation",
+"t": "Two development officers have identical targets. Officer A earns ₹60,000 with 10 years' experience and Officer B earns ₹60,000 with 2 years' experience. According to equity theory, Officer A is likely to:",
+"o": [
+"Perceive inequity because his input (experience) is higher for the same outcome",
+"Feel fully satisfied because pay is equal",
+"Perceive inequity in favour of himself",
+"Be unaffected because pay is above minimum wage"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). Equity is judged by the ratio of outcomes to inputs compared with a referent; equal outcomes for unequal inputs create perceived under-reward.",
+"r": "key"
+},
+{
+"n": 29,
+"topic": "Motivation",
+"t": "Which of the following is NOT one of the three needs identified by David McClelland?",
+"o": [
+"Need for achievement",
+"Need for power",
+"Need for affiliation",
+"Need for security"
+],
+"a": 3,
+"e": "McClelland's acquired needs theory covers achievement, affiliation and power. Security is a Maslow level, not a McClelland need."
+},
+{
+"n": 30,
+"topic": "Communication",
+"t": "The informal network through which rumours and unofficial information travel in an organisation is called the:",
+"o": [
+"Grapevine",
+"Scalar chain",
+"Gangplank",
+"Linking pin"
+],
+"a": 0,
+"e": "The grapevine is the informal communication channel; the scalar chain is the formal line of authority and the gangplank is Fayol's horizontal shortcut between peers."
+},
+{
+"n": 31,
+"topic": "Communication",
+"t": "Which of the following is the correct sequence of elements in the basic communication process?",
+"o": [
+"Receiver, channel, sender, feedback, encoding, decoding",
+"Sender, encoding, channel, decoding, receiver, feedback",
+"Feedback, sender, channel, receiver, encoding, decoding",
+"Channel, sender, decoding, encoding, receiver, feedback"
+],
+"a": 1,
+"e": "The sender encodes a message, transmits it through a channel, the receiver decodes it and feedback completes the loop; noise can distort any stage."
+},
+{
+"n": 32,
+"topic": "Communication",
+"t": "A manager who frequently interrupts subordinates, finishes their sentences and mentally prepares a reply while they speak is exhibiting poor:",
+"o": [
+"Written communication",
+"Downward communication",
+"Active listening",
+"Non-verbal communication"
+],
+"a": 2,
+"e": "Active listening requires attention, withholding judgement and reflecting back what has been heard; interrupting and pre-judging are its chief barriers."
+},
+{
+"n": 33,
+"topic": "Leadership",
+"t": "In the Blake and Mouton Managerial Grid, the 9.9 style represents:",
+"o": [
+"High concern for task and low concern for people",
+"Low concern for both people and task",
+"High concern for people and low concern for task",
+"High concern for both people and task (team management)"
+],
+"a": 3,
+"e": "The grid plots concern for people against concern for production; 9.9 is team management, 9.1 task management, 1.9 country-club and 1.1 impoverished."
+},
+{
+"n": 34,
+"topic": "Leadership",
+"t": "Under McGregor's Theory X, a manager assumes that employees:",
+"o": [
+"Dislike work and must be controlled and closely supervised",
+"Seek responsibility and are self-directed",
+"Are motivated mainly by social relationships",
+"Are creative and capable of solving organisational problems"
+],
+"a": 0,
+"e": "Theory X assumes an inherent dislike of work requiring coercion; Theory Y assumes work is natural and people exercise self-control and seek responsibility."
+},
+{
+"n": 35,
+"topic": "Leadership",
+"t": "According to Hersey and Blanchard's situational leadership model, a 'delegating' style is appropriate when the subordinate's maturity is:",
+"o": [
+"Low in both ability and willingness",
+"High in both ability and willingness",
+"Low in ability but high in willingness",
+"High in ability but low in willingness"
+],
+"a": 1,
+"e": "Styles move from telling (low maturity) through selling and participating to delegating, which suits followers who are both able and willing."
+},
+{
+"topic": "IRDAI – regulator",
+"t": "The minimum paid-up equity capital required to start a life or general insurance company in India is:",
+"o": [
+"₹50 crore",
+"₹100 crore",
+"₹200 crore",
+"₹500 crore"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). ₹100 crore for a direct insurer; ₹200 crore for a reinsurer (Section 6 of the Insurance Act).",
+"r": "core",
+"n": 36
+},
+{
+"n": 37,
+"topic": "Leadership",
+"t": "In Reddin's 3-D theory, the 'Related' style (high people, low task) becomes which of the following when it is effective?",
+"o": [
+"Missionary",
+"Bureaucrat",
+"Developer",
+"Deserter"
+],
+"a": 2,
+"e": "Reddin added effectiveness as a third dimension: Related becomes Developer (effective) or Missionary (ineffective); Separated becomes Bureaucrat or Deserter."
+},
+{
+"n": 38,
+"topic": "Leadership",
+"t": "Which statement correctly distinguishes authority from power?",
+"o": [
+"Authority comes from the person and power from the position",
+"Both authority and power are conferred only by the organisation chart",
+"Power is always legal while authority is always informal",
+"Authority comes from the position and flows from above; power comes from the person and flows from below"
+],
+"a": 3,
+"e": "Authority is the formal right attached to a post; power is the capacity to influence, built through personal behaviour and accepted by subordinates."
+},
+{
+"n": 39,
+"topic": "Maintaining Human Resources",
+"t": "Which job evaluation method assigns weighted points to compensable factors such as skill, effort, responsibility and working conditions and sums them to grade each job?",
+"o": [
+"Point method",
+"Ranking method",
+"Classification method",
+"Factor comparison method"
+],
+"a": 0,
+"e": "The point method is quantitative, scoring each factor on a scale; ranking and classification are non-quantitative, and factor comparison ranks jobs factor by factor against money values."
+},
+{
+"n": 40,
+"topic": "Maintaining Human Resources",
+"t": "The 'hot stove rule' of discipline states that disciplinary action should be:",
+"o": [
+"Delayed until the annual appraisal",
+"Immediate, consistent, impersonal and preceded by a warning",
+"Harsher for senior employees than for juniors",
+"Applied only to repeat offenders"
+],
+"a": 1,
+"e": "Like touching a hot stove, the consequence should be instant, the same for everyone, directed at the act not the person, and known in advance."
+},
+{
+"n": 41,
+"topic": "Maintaining Human Resources",
+"t": "In the formal disciplinary procedure, what is the correct order of steps when an employee denies the charge?",
+"o": [
+"Show-cause notice, punishment order, charge sheet, domestic enquiry",
+"Punishment order, charge sheet, domestic enquiry, appeal",
+"Charge sheet, domestic enquiry, consideration of enquiry report, show-cause notice, punishment order",
+"Domestic enquiry, charge sheet, punishment order, show-cause notice"
+],
+"a": 2,
+"e": "Natural justice requires that the employee be told the charge, given a hearing, and shown cause before punishment is imposed."
+},
+{
+"n": 42,
+"topic": "Maintaining Human Resources",
+"t": "The four Labour Codes enacted by Parliament in 2019 and 2020 consolidate how many central labour laws?",
+"o": [
+"44",
+"12",
+"100",
+"29"
+],
+"a": 3,
+"e": "The Code on Wages, Industrial Relations Code, Code on Social Security and Occupational Safety, Health and Working Conditions Code together subsume 29 central labour enactments."
+},
+{
+"n": 43,
+"topic": "Maintaining Human Resources",
+"t": "Under the Payment of Gratuity Act 1972, an employee with a last drawn basic plus DA of ₹52,000 per month retires after 20 years of continuous service. The statutory gratuity payable is:",
+"o": [
+"₹6,00,000",
+"₹5,20,000",
+"₹10,40,000",
+"₹12,00,000"
+],
+"a": 0,
+"e": "Gratuity = 15/26 × last drawn wages × completed years = 15/26 × 52,000 × 20 = ₹6,00,000, which is within the ₹20 lakh tax-free ceiling."
+},
+{
+"n": 44,
+"topic": "Maintaining Human Resources",
+"t": "Which of the following is a central trade union federation in India?",
+"o": [
+"GIPSA",
+"INTUC",
+"IBA",
+"SCOPE"
+],
+"a": 1,
+"e": "INTUC, AITUC, HMS, BMS and CITU are central trade union federations. GIPSA and IBA are employer-side bodies for public sector insurers and banks, and SCOPE is the forum of public enterprises."
+},
+{
+"n": 45,
+"topic": "Ethics",
+"t": "Disclosing improper or illegal practices of one's organisation to the public or to regulators is termed:",
+"o": [
+"Moonlighting",
+"Rationalisation",
+"Whistle-blowing",
+"Kickback"
+],
+"a": 2,
+"e": "Whistle-blowing is going public about wrongdoing. Moonlighting is holding a second job, a kickback is an improper payment, and rationalisation is self-justification of a questionable act."
+},
+{
+"n": 46,
+"topic": "Ethics",
+"t": "An agent tells himself 'everybody in the branch does it' while inflating a customer's declared income to pass underwriting. This is an example of:",
+"o": [
+"A legitimate business practice",
+"An ethical dilemma with no right answer",
+"Compliance with the code of conduct",
+"Rationalisation of an unethical act"
+],
+"a": 3,
+"e": "Justifying a wrong act by reference to others' conduct is one of the common rationalisations the course lists; the act remains unethical and breaches IRDAI conduct norms."
+},
+{
+"topic": "IRDAI – regulator",
+"t": "The control level of solvency ratio that every insurer must maintain is:",
+"o": [
+"100%",
+"125%",
+"150%",
+"200%"
+],
+"a": 2,
+"e": "★ Core fact (asked across III papers). Available solvency margin must be at least 150% of the required solvency margin; falling below triggers IRDAI action.",
+"r": "core",
+"n": 47
+},
+{
+"n": 48,
+"topic": "Ethics",
+"t": "Which of the following statements correctly reflects the relationship between ethics and law?",
+"o": [
+"Not everything that is legal is ethical, and ethics covers propriety beyond legality",
+"Ethics and law are identical in scope",
+"Any act not prohibited by law is automatically ethical",
+"Ethical standards are enforced only through courts"
+],
+"a": 0,
+"e": "Ethics deals with right and wrong, including matters the law does not regulate (for example haggling); legal compliance is a floor, not the whole of ethical conduct."
+},
+{
+"n": 49,
+"topic": "The Future – The Challenges",
+"t": "The three pillars of the 'JAM' trinity used to deliver benefits directly to rural citizens are:",
+"o": [
+"Jobs, Agriculture and Manufacturing",
+"Jan Dhan accounts, Aadhaar and mobile phones",
+"Justice, Administration and Markets",
+"Jan Dhan, ATMs and Micro-insurance"
+],
+"a": 1,
+"e": "JAM links bank accounts (Jan Dhan Yojana), unique identity (Aadhaar) and mobile connectivity to enable direct benefit transfer."
+},
+{
+"n": 50,
+"topic": "The Future – The Challenges",
+"t": "Surveys cited in the study course identify which of the following as a major future HR challenge?",
+"o": [
+"Reducing the use of technology in HR processes",
+"Eliminating performance appraisal altogether",
+"Rewarding and retaining the best employees",
+"Restricting recruitment to local candidates"
+],
+"a": 2,
+"e": "The three challenges cited are retaining top talent, developing the next generation of leaders and creating a culture that attracts the best people."
+}
+]

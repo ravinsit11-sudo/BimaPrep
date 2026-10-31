@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Introduction",
+"t": "Which of the following is an example of a non-employer-employee group?",
+"o": [
+"Permanent staff of a cement manufacturing company",
+"Officers of a public sector bank",
+"Employees of a state government department",
+"Home-loan borrowers of a housing finance company"
+],
+"a": 3,
+"e": "Borrowers of a lender form a non-employer-employee (affinity) group; the other three are all employer-employee groups where the employer is the master policyholder."
+},
+{
+"n": 2,
+"topic": "Introduction",
+"t": "Under an employer-employee group term policy, on the death of a covered employee the claim amount is ultimately paid to:",
+"o": [
+"The employer for its own use as key-person compensation",
+"The nominee or beneficiary of the deceased employee, routed through the master policyholder",
+"The Employees' Provident Fund Organisation",
+"The insurer's claims reserve as the policy is a pure risk contract"
+],
+"a": 1,
+"e": "The employer holds the master policy as a trustee or agent for the members; the benefit belongs to the employee's nominee or legal heirs, not to the employer."
+},
+{
+"n": 3,
+"topic": "Product Guideline",
+"t": "Under IRDAI's group insurance guidelines, the insurer must provide each insured member of a group with:",
+"o": [
+"A copy of the complete master policy document",
+"A duplicate of the proposal form signed by the master policyholder",
+"A certified copy of the trust deed",
+"A certificate of insurance setting out the benefits and key terms"
+],
+"a": 3,
+"e": "The master policy is issued to the group policyholder, but each member must receive a certificate of insurance evidencing the cover, the benefit and the important conditions."
+},
+{
+"n": 4,
+"topic": "Product Guideline",
+"t": "Which of the following statements is correct about premium collected by a master policyholder from members of a group?",
+"o": [
+"It must be passed on to the insurer in full; the master policyholder cannot retain any part of it",
+"The master policyholder may retain up to 5% as service charge",
+"It may be invested by the master policyholder until the policy anniversary",
+"It belongs to the master policyholder until the certificate of insurance is issued"
+],
+"a": 0,
+"e": "IRDAI guidelines prohibit the group policyholder from retaining or diverting any portion of the premium collected from members; the entire premium must be remitted to the insurer."
+},
+{
+"n": 5,
+"topic": "Product Guideline",
+"t": "Profit sharing (experience refund) on a group term insurance policy is permitted by IRDAI only in the case of:",
+"o": [
+"Non-employer-employee groups above 500 lives",
+"Groups formed by microfinance institutions",
+"Groups where the premium is paid entirely by the members",
+"Employer-employee groups"
+],
+"a": 3,
+"e": "Profit sharing based on favourable claims experience is allowed for employer-employee groups. In non-employer-employee groups it is prohibited, since the organiser could otherwise benefit at the members' expense."
+},
+{
+"n": 6,
+"topic": "Product Guideline",
+"t": "In a non-employer-employee group insurance arrangement, which statement is correct regarding payments to the group organiser?",
+"o": [
+"The organiser may charge members an administration fee of its choice",
+"The organiser can receive only the commission or remuneration permitted by regulations, and this must be disclosed",
+"The organiser may retain any experience refund declared by the insurer",
+"The organiser is entitled to a share of the insurer's investment income on the premium"
+],
+"a": 1,
+"e": "IRDAI norms restrict payments to the group organiser to regulated commission or remuneration, which must be transparent. The organiser cannot load members with additional charges or retain refunds."
+},
+{
+"n": 7,
+"topic": "Product Guideline",
+"t": "A gratuity scheme funded through a life insurer, where the employer's contributions are credited to a policy account that earns a declared interest rate, is classified under IRDAI product regulations as a:",
+"o": [
+"Group term product",
+"Group savings-linked product",
+"Fund-based (variable) group non-linked product",
+"Group health product"
+],
+"a": 2,
+"e": "Gratuity, superannuation and leave-encashment funding policies with a policy account earning declared interest are fund-based group non-linked (variable) products, distinct from pure group term cover."
+},
+{
+"n": 8,
+"topic": "Product Design and Schemes",
+"t": "The abbreviation OYRGTA used in Indian group life business stands for:",
+"o": [
+"One Year Reducing Group Term Assurance",
+"One Year Renewable Group Term Assurance",
+"Optional Yearly Renewable Group Term Annuity",
+"Ordinary Yearly Rated Group Term Assurance"
+],
+"a": 1,
+"e": "OYRGTA is a one-year renewable group term assurance: pure death cover for 12 months, renewed annually with premium re-rated on the current membership and claims experience."
+},
+{
+"n": 9,
+"topic": "Product Design and Schemes",
+"t": "In a group term scheme, the 'free cover limit' refers to:",
+"o": [
+"The sum assured up to which a member is covered without medical underwriting",
+"The sum assured provided free of premium to the master policyholder",
+"The maximum claim the insurer will pay in one policy year",
+"The cover granted to members who have left the employer"
+],
+"a": 0,
+"e": "Members whose sum assured falls within the free cover limit are accepted without medical evidence; amounts above it require individual underwriting. The limit depends on group size and average sum assured."
+},
+{
+"n": 10,
+"topic": "Product Design and Schemes",
+"t": "The 'actively at work' condition in a group term policy means that a member is covered from the date of entry only if:",
+"o": [
+"The member has completed one year of service",
+"The member has paid his share of premium",
+"The member has submitted a medical report",
+"The member is at work performing normal duties on that date and not absent due to illness or injury"
+],
+"a": 3,
+"e": "The actively-at-work requirement screens out members who are already sick or disabled when cover starts, serving as a simple underwriting safeguard for the free cover limit."
+},
+{
+"n": 11,
+"topic": "Investment Pattern for Retirement Benefit Schemes",
+"t": "The rate of interest declared by EPFO on provident fund accumulations for the financial year 2024-25 was:",
+"o": [
+"8.10%",
+"8.25%",
+"8.50%",
+"8.65%"
+],
+"a": 1,
+"e": "★ Key fact (repeated across the mocks of this paper). The Central Board of Trustees retained 8.25% for 2024-25, the same as for 2023-24; 8.15% applied for 2022-23 and 8.10% for 2021-22.",
+"r": "key"
+},
+{
+"n": 12,
+"topic": "Product Design and Schemes",
+"t": "In a group credit life insurance scheme covering borrowers of a bank, the sum assured for a member typically:",
+"o": [
+"Remains level for the full loan tenure",
+"Increases each year in line with interest accrued",
+"Reduces in line with the outstanding loan balance",
+"Is equal to the original loan amount plus processing fees"
+],
+"a": 2,
+"e": "Credit life is designed so that on death the outstanding loan is repaid; hence the cover usually reduces in step with the loan repayment schedule, which also keeps the premium low."
+},
+{
+"n": 13,
+"topic": "Product Design and Schemes",
+"t": "An employer wishes to replace its EDLI contribution with a group term insurance policy from a life insurer. Which condition applies?",
+"o": [
+"No approval is needed as EDLI is voluntary",
+"The employer must obtain exemption under Section 17(2A) of the EPF Act and the insurer's benefits must be more favourable than EDLI",
+"The employer must obtain IRDAI's approval for the substitution",
+"The policy must be taken only from LIC of India"
+],
+"a": 1,
+"e": "Section 17(2A) of the EPF & MP Act permits exemption from EDLI if the employer provides a scheme with benefits not less favourable; this is granted by the PF authorities, not IRDAI, and any life insurer may offer it."
+},
+{
+"n": 14,
+"topic": "Product Design and Schemes",
+"t": "A company covers 500 employees under a group term policy with a uniform sum assured of ₹10 lakh each. The insurer quotes a rate of ₹1.20 per ₹1,000 sum assured. The annual premium is:",
+"o": [
+"₹6,00,000",
+"₹60,000",
+"₹6,00,00,000",
+"₹12,00,000"
+],
+"a": 0,
+"e": "Total sum assured = 500 × ₹10 lakh = ₹50 crore. Premium = ₹50,00,00,000 ÷ 1,000 × 1.20 = ₹6,00,000."
+},
+{
+"n": 15,
+"topic": "Tax Aspects of Group & Retirement Benefit Schemes",
+"t": "For an employee covered by the Payment of Gratuity Act, 1972, the gratuity exempt under Section 10(10) of the Income-tax Act is the least of:",
+"o": [
+"Actual gratuity, ₹10 lakh and one month's salary per year of service",
+"Actual gratuity, ₹25 lakh and half month's salary per year of service",
+"Actual gratuity, ₹20 lakh and 15/26 of last drawn salary for each completed year or part exceeding six months",
+"Actual gratuity, ₹20 lakh and 10 months' average salary"
+],
+"a": 2,
+"e": "Section 10(10)(ii) exempts the least of the actual amount, the statutory ceiling of ₹20 lakh and the amount computed under the Act's formula of 15 days' wages (15/26 of monthly wages) per year of service."
+},
+{
+"n": 16,
+"topic": "Tax Aspects of Group & Retirement Benefit Schemes",
+"t": "A private-sector employee covered by the Payment of Gratuity Act receives gratuity of ₹25 lakh on retirement. The amount computed under the Act's formula is ₹22 lakh. The taxable gratuity is:",
+"o": [
+"Nil",
+"₹5 lakh",
+"₹3 lakh",
+"₹25 lakh"
+],
+"a": 1,
+"e": "Exemption is the least of ₹25 lakh (actual), ₹22 lakh (formula) and ₹20 lakh (ceiling) = ₹20 lakh. Taxable = ₹25 lakh − ₹20 lakh = ₹5 lakh."
+},
+{
+"n": 17,
+"topic": "Tax Aspects of Group & Retirement Benefit Schemes",
+"t": "An employer's contribution to an approved gratuity fund is allowed as a business deduction under which section of the Income-tax Act, 1961?",
+"o": [
+"Section 36(1)(iv)",
+"Section 80C",
+"Section 40A(7)",
+"Section 36(1)(v)"
+],
+"a": 3,
+"e": "Section 36(1)(v) allows contributions to an approved gratuity fund created under an irrevocable trust. Section 36(1)(iv) relates to recognised PF and approved superannuation funds, and Section 40A(7) disallows mere provisions for gratuity."
+},
+{
+"n": 18,
+"topic": "Tax Aspects of Group & Retirement Benefit Schemes",
+"t": "With effect from 1 April 2023, the monetary ceiling on exemption of leave encashment received on retirement by a non-government employee under Section 10(10AA) is:",
+"o": [
+"₹25 lakh",
+"₹3 lakh",
+"₹20 lakh",
+"₹10 lakh"
+],
+"a": 0,
+"e": "The limit of ₹3 lakh, fixed in 2002, was raised to ₹25 lakh by CBDT notification effective 1 April 2023. Government employees continue to enjoy full exemption."
+},
+{
+"n": 19,
+"topic": "Group Insurance - Administration, Claims and Renewals",
+"t": "A group term policy earned premium of ₹10 lakh and incurred claims of ₹7.5 lakh during the year. The claims ratio is:",
+"o": [
+"133%",
+"75%",
+"25%",
+"7.5%"
+],
+"a": 1,
+"e": "★ Key fact (repeated across the mocks of this paper). Claims ratio = incurred claims ÷ earned premium = 7.5 ÷ 10 = 75%. This is the key figure used in experience rating at renewal.",
+"r": "key"
+},
+{
+"n": 20,
+"topic": "Tax Aspects of Group & Retirement Benefit Schemes",
+"t": "Rules governing the approval and operation of an approved superannuation fund are contained in which part of the Fourth Schedule to the Income-tax Act?",
+"o": [
+"Part A",
+"Part C",
+"Part B",
+"Part D"
+],
+"a": 2,
+"e": "Part A of the Fourth Schedule deals with recognised provident funds, Part B with approved superannuation funds and Part C with approved gratuity funds."
+},
+{
+"n": 21,
+"topic": "Tax Aspects of Group & Retirement Benefit Schemes",
+"t": "The additional deduction available for an individual's own contribution to NPS Tier I under Section 80CCD(1B), over and above the Section 80C limit, is up to:",
+"o": [
+"₹1,50,000",
+"₹50,000",
+"₹25,000",
+"₹1,00,000"
+],
+"a": 1,
+"e": "Section 80CCD(1B) provides an extra deduction of up to ₹50,000 for self-contribution to NPS Tier I, in addition to the ₹1.5 lakh overall ceiling under Section 80CCE."
+},
+{
+"n": 22,
+"topic": "AS 15 (Revised) and Ind AS 19",
+"t": "Under Ind AS 19, remeasurements of the net defined benefit liability (actuarial gains and losses and return on plan assets excluding net interest) are:",
+"o": [
+"Charged to profit or loss in the year they arise",
+"Deferred and amortised over the average remaining working life",
+"Shown as an extraordinary item",
+"Recognised in other comprehensive income and never reclassified to profit or loss"
+],
+"a": 3,
+"e": "Ind AS 19 requires remeasurements to go to OCI without subsequent recycling. Under AS 15 (Revised), by contrast, actuarial gains and losses are recognised immediately in the statement of profit and loss."
+},
+{
+"n": 23,
+"topic": "AS 15 (Revised) and Ind AS 19",
+"t": "The actuarial method prescribed by both AS 15 (Revised) and Ind AS 19 for measuring defined benefit obligations is:",
+"o": [
+"Projected Unit Credit method",
+"Entry Age Normal method",
+"Attained Age method",
+"Aggregate funding method"
+],
+"a": 0,
+"e": "Both standards mandate the Projected Unit Credit method, under which each period of service gives rise to an additional unit of benefit, measured with projected salaries."
+},
+{
+"n": 24,
+"topic": "AS 15 (Revised) and Ind AS 19",
+"t": "Which of the following is treated as a 'short-term employee benefit' under AS 15 (Revised) and Ind AS 19?",
+"o": [
+"Gratuity payable on retirement",
+"Long-service award payable after 15 years",
+"Annual leave and bonus expected to be settled wholly within 12 months after the end of the period",
+"Post-retirement medical benefits"
+],
+"a": 2,
+"e": "Short-term benefits are those expected to be settled wholly before twelve months after the end of the period in which service is rendered, such as wages, bonus and compensated absences falling within that window."
+},
+{
+"n": 25,
+"topic": "Investment Pattern for Retirement Benefit Schemes",
+"t": "Under the Ministry of Finance investment pattern (2015) applicable to non-government provident, superannuation and gratuity funds, the maximum permitted allocation to equity and related instruments is:",
+"o": [
+"5%",
+"25%",
+"50%",
+"15%"
+],
+"a": 3,
+"e": "The 2015 pattern allows 5% to 15% in equities and related instruments, 45% to 50% in government securities, 35% to 45% in debt instruments, up to 5% in short-term debt and up to 5% in asset-backed instruments."
+},
+{
+"n": 26,
+"topic": "Investment Pattern for Retirement Benefit Schemes",
+"t": "The Employees' Provident Fund Organisation makes its equity investments mainly through:",
+"o": [
+"Exchange-traded funds tracking indices such as Nifty 50 and Sensex",
+"Direct purchase of individual shares selected by the CBT",
+"Equity-linked savings schemes of mutual funds",
+"Unlisted private equity funds"
+],
+"a": 0,
+"e": "EPFO began equity investment in 2015 and routes it through index-based ETFs managed by fund houses, rather than picking individual stocks."
+},
+{
+"n": 27,
+"topic": "Retirement Benefit Schemes",
+"t": "Under the Payment of Gratuity Act, 1972, the minimum continuous service required for eligibility is five years. In which situation is this requirement waived?",
+"o": [
+"Resignation after four years and eight months",
+"Retrenchment after three years of service",
+"Termination of employment due to death or disablement",
+"Voluntary retirement after four years"
+],
+"a": 2,
+"e": "Section 4(1) proviso dispenses with the five-year condition where employment ends because of death or disablement due to accident or disease; in such cases gratuity is payable for the service rendered."
+},
+{
+"n": 28,
+"topic": "Valuation of Liabilities",
+"t": "A gratuity of ₹1 lakh is expected to be paid in exactly one year. Ignoring decrements, its present value at a discount rate of 7% is:",
+"o": [
+"₹93,000",
+"₹1,07,000",
+"₹93,458",
+"₹92,593"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). PV = ₹1,00,000 ÷ 1.07 = ₹93,458 (rounded). ₹92,593 would be the value at 8% and ₹93,000 is a flat 7% deduction, which is incorrect.",
+"r": "key"
+},
+{
+"n": 29,
+"topic": "Retirement Benefit Schemes",
+"t": "The maximum gratuity payable under the Payment of Gratuity Act, 1972, as currently notified, is:",
+"o": [
+"₹10 lakh",
+"₹20 lakh",
+"₹25 lakh",
+"₹30 lakh"
+],
+"a": 1,
+"e": "The ceiling was raised from ₹10 lakh to ₹20 lakh with effect from 29 March 2018 through the Payment of Gratuity (Amendment) Act, 2018 and notification."
+},
+{
+"n": 30,
+"topic": "Retirement Benefit Schemes",
+"t": "An employee covered by the Payment of Gratuity Act retires after 20 years and 7 months of service with last drawn wages (basic plus DA) of ₹40,000 per month. Gratuity payable is:",
+"o": [
+"₹4,84,615",
+"₹4,61,538",
+"₹4,00,000",
+"₹5,04,000"
+],
+"a": 0,
+"e": "Service of 20 years 7 months is rounded to 21 years since the fraction exceeds six months. Gratuity = ₹40,000 × 15/26 × 21 = ₹4,84,615."
+},
+{
+"n": 31,
+"topic": "Retirement Benefit Schemes",
+"t": "The Employees' Provident Funds and Miscellaneous Provisions Act, 1952 applies to every establishment specified in Schedule I or notified by the Government that employs:",
+"o": [
+"10 or more persons",
+"50 or more persons",
+"100 or more persons",
+"20 or more persons"
+],
+"a": 3,
+"e": "The Act applies to factories and notified establishments employing 20 or more persons; once covered, an establishment remains covered even if its strength later falls below 20."
+},
+{
+"n": 32,
+"topic": "Retirement Benefit Schemes",
+"t": "An employee draws basic wages of ₹25,000 per month. The employer's contribution diverted to the Employees' Pension Scheme, 1995 (without any option for higher pension) is:",
+"o": [
+"₹2,082.50",
+"₹1,250",
+"₹3,000",
+"₹1,750"
+],
+"a": 1,
+"e": "EPS contribution is 8.33% of wages subject to the statutory ceiling of ₹15,000, i.e. ₹1,250 per month. The balance of the employer's 12% (₹3,000 − ₹1,250 = ₹1,750) goes to the provident fund."
+},
+{
+"n": 33,
+"topic": "Retirement Benefit Schemes",
+"t": "The monthly member's pension under the Employees' Pension Scheme, 1995 is computed as:",
+"o": [
+"Pensionable salary × pensionable service ÷ 60",
+"Last drawn salary × 50%",
+"Pensionable salary × pensionable service ÷ 70",
+"Average salary of last 5 years × 1/3"
+],
+"a": 2,
+"e": "Paragraph 12 of EPS 1995 gives the formula pensionable salary × pensionable service ÷ 70, where pensionable salary is the average of the last 60 months (subject to ceiling) and service is in years."
+},
+{
+"n": 34,
+"topic": "Retirement Benefit Schemes",
+"t": "On normal exit from NPS at age 60, a subscriber with a corpus above the small-corpus threshold must:",
+"o": [
+"Use at least 40% of the corpus to buy an annuity; up to 60% may be withdrawn as a tax-free lump sum",
+"Use at least 80% of the corpus to buy an annuity",
+"Withdraw the entire corpus as lump sum",
+"Keep the corpus invested until age 70 compulsorily"
+],
+"a": 0,
+"e": "PFRDA exit rules require a minimum 40% annuitisation on superannuation; the remaining 60% lump sum is exempt under Section 10(12A). The 80% annuity rule applies to premature exit before 60."
+},
+{
+"topic": "Policyholder protection",
+"t": "The IRDAI portal through which a policyholder can escalate an unresolved grievance against an insurer is:",
+"o": [
+"Bima Sugam",
+"Bima Bharosa",
+"Bima Vahak",
+"Bima Vistaar"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). Bima Bharosa (formerly IGMS) is the grievance portal; Bima Sugam is the marketplace, Bima Vahak the women-led distribution channel and Bima Vistaar the combined rural product.",
+"r": "core",
+"n": 35
+},
+{
+"n": 36,
+"topic": "Valuation of Liabilities",
+"t": "Which of the following is NOT an actuarial assumption normally used in valuing a gratuity liability?",
+"o": [
+"Discount rate",
+"Future salary escalation rate",
+"Employee attrition (withdrawal) rate",
+"The employer's profit for the current financial year"
+],
+"a": 3,
+"e": "Gratuity valuation depends on financial assumptions (discount rate, salary growth) and demographic assumptions (mortality, withdrawal, retirement age). The employer's profit has no bearing on the liability."
+},
+{
+"n": 37,
+"topic": "Valuation of Liabilities",
+"t": "In India, the discount rate used to value a defined benefit obligation under AS 15 (Revised) or Ind AS 19 should be based on:",
+"o": [
+"The rate of return earned on the gratuity fund last year",
+"Market yields on government bonds with a term consistent with the liability",
+"The bank rate announced by RBI",
+"The rate of interest declared by EPFO"
+],
+"a": 1,
+"e": "Both standards require the discount rate to reflect market yields at the balance sheet date on government bonds (used in India in the absence of a deep corporate bond market) of a currency and term consistent with the obligation."
+},
+{
+"n": 38,
+"topic": "Valuation of Liabilities",
+"t": "A gratuity scheme had a defined benefit obligation of ₹100 lakh at the start of the year. Current service cost is ₹10 lakh, the discount rate is 7%, benefits paid during the year are ₹5 lakh and an actuarial loss of ₹3 lakh arose. The closing obligation is:",
+"o": [
+"₹112 lakh",
+"₹110 lakh",
+"₹115 lakh",
+"₹122 lakh"
+],
+"a": 2,
+"e": "Closing DBO = 100 + 10 (service cost) + 7 (interest at 7% on 100) − 5 (benefits paid) + 3 (actuarial loss) = ₹115 lakh."
+},
+{
+"n": 39,
+"topic": "Valuation of Liabilities",
+"t": "The mortality table most commonly adopted by Indian actuaries for valuing employee benefit liabilities such as gratuity is:",
+"o": [
+"Indian Assured Lives Mortality (IALM) 2012-14",
+"LIC (1994-96) Annuitants table",
+"Indian Individual Annuitants Mortality 2012-15",
+"UK A1967-70 table"
+],
+"a": 0,
+"e": "IALM 2012-14, published by the Institute of Actuaries of India, is the standard base for active-life mortality in employee benefit valuations; annuitant tables are used for pension-in-payment valuations."
+},
+{
+"n": 40,
+"topic": "Group Insurance - Administration, Claims and Renewals",
+"t": "Which set of documents is normally required to settle a death claim under an employer-employee group term policy?",
+"o": [
+"Original master policy, employee's appointment letter and bank passbook",
+"Claim form, death certificate and employer's certification of membership and sum assured on the date of death",
+"Post-mortem report, police FIR and income-tax return of the deceased",
+"Nominee's birth certificate and the member's salary slips for 5 years"
+],
+"a": 1,
+"e": "Group death claims are simple: a claim intimation, proof of death and the master policyholder's confirmation of membership and cover are the core requirements. Police reports are needed only for unnatural deaths."
+},
+{
+"n": 41,
+"topic": "Group Insurance - Administration, Claims and Renewals",
+"t": "A group term policy for an employer-employee group earned premium of ₹10 lakh. Claims paid were ₹6 lakh and the insurer's expense loading is 20% of premium. If the profit-sharing formula refunds 50% of the surplus, the experience refund is:",
+"o": [
+"₹2,00,000",
+"₹4,00,000",
+"₹50,000",
+"₹1,00,000"
+],
+"a": 3,
+"e": "Surplus = ₹10 lakh − ₹6 lakh claims − ₹2 lakh expenses = ₹2 lakh. Refund at 50% = ₹1,00,000."
+},
+{
+"n": 42,
+"topic": "Group Insurance - Administration, Claims and Renewals",
+"t": "At the annual renewal of a one-year group term policy, the insurer is entitled to:",
+"o": [
+"Revise the premium rate based on the group's claims experience and changed membership profile",
+"Refuse to cover any member who has made a claim",
+"Convert the policy into an individual endowment policy",
+"Demand individual medical reports from all members"
+],
+"a": 0,
+"e": "Renewal re-rating on experience and demographic change is the essence of yearly renewable group term business; cover cannot be denied selectively to members who have claimed (e.g. for critical illness riders)."
+},
+{
+"n": 43,
+"topic": "Reinsurance for Group Insurance",
+"t": "Catastrophe reinsurance is particularly relevant for group insurance because:",
+"o": [
+"Group policies are always written on a with-profit basis",
+"Many members of one group may die in a single event, such as a factory accident, creating an accumulation of claims",
+"Group policies have no free cover limit",
+"IRDAI mandates it for every group policy"
+],
+"a": 1,
+"e": "Group lives are concentrated at one location or in one occupation, so one event can cause multiple claims. Catastrophe (cat) cover protects the insurer against this accumulation risk."
+},
+{
+"topic": "Policyholder protection",
+"t": "An insurer must resolve a policyholder's grievance within how many days of receipt?",
+"o": [
+"7 days",
+"14 days",
+"30 days",
+"45 days"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). 14 days under the 2024 regulations; thereafter the policyholder may approach Bima Bharosa or the Ombudsman.",
+"r": "core",
+"n": 44
+},
+{
+"n": 45,
+"topic": "Reinsurance for Group Insurance",
+"t": "Under a surplus reinsurance treaty for group term business, the insurer:",
+"o": [
+"Cedes a fixed percentage of every life insured",
+"Cedes only lives that fail medical underwriting",
+"Cedes the full sum assured of every member above the free cover limit",
+"Retains sums assured up to its retention limit per life and cedes the excess to the reinsurer"
+],
+"a": 3,
+"e": "A surplus treaty transfers only the portion of each life's sum assured that exceeds the ceding company's retention; a quota share treaty, by contrast, cedes a fixed proportion of every risk."
+},
+{
+"n": 46,
+"topic": "Administration of Retirement Benefit Schemes",
+"t": "To obtain approval of a gratuity fund under Part C of the Fourth Schedule to the Income-tax Act, the fund must be:",
+"o": [
+"Established under an irrevocable trust for the exclusive benefit of employees",
+"Registered with IRDAI as a pension fund",
+"Managed only by the employer's finance department",
+"Invested entirely in the employer's own shares"
+],
+"a": 0,
+"e": "An approved gratuity fund must be an irrevocable trust in connection with a trade or undertaking carried on in India, with the employer not able to recover the contributions, and investments made per prescribed norms."
+},
+{
+"n": 47,
+"topic": "Administration of Retirement Benefit Schemes",
+"t": "Which of the following is NOT permitted to the trustees of an approved gratuity fund?",
+"o": [
+"Taking a group gratuity policy from a life insurer in the name of the trust",
+"Appointing an actuary to value the liability annually",
+"Lending the fund's monies to the employer company",
+"Investing in the pattern prescribed under Rule 67"
+],
+"a": 2,
+"e": "Loans to the employer are prohibited since the fund must remain beyond the employer's reach. Insuring with a life insurer, actuarial valuation and investment under Rule 67 are all normal trustee functions."
+},
+{
+"n": 48,
+"topic": "Social Security Schemes",
+"t": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY) provides a life cover of ₹2 lakh for persons aged 18 to 50 at an annual premium (since 1 June 2022) of:",
+"o": [
+"₹330",
+"₹436",
+"₹20",
+"₹500"
+],
+"a": 1,
+"e": "PMJJBY premium was revised from ₹330 to ₹436 per annum from June 2022; cover is ₹2 lakh on death from any cause, renewable each year from 1 June to 31 May."
+},
+{
+"n": 49,
+"topic": "Social Security Schemes",
+"t": "The annual premium for Pradhan Mantri Suraksha Bima Yojana (PMSBY), which provides ₹2 lakh accidental death and total disability cover, is:",
+"o": [
+"₹12",
+"₹100",
+"₹436",
+"₹20"
+],
+"a": 3,
+"e": "PMSBY premium was raised from ₹12 to ₹20 per annum from June 2022. It covers persons aged 18 to 70 for ₹2 lakh on accidental death or total disability and ₹1 lakh for partial disability."
+},
+{
+"n": 50,
+"topic": "Social Security Schemes",
+"t": "Under the Employees' State Insurance Act, 1948, the current rates of contribution (since 1 July 2019) are:",
+"o": [
+"Employee 0.75% and employer 3.25% of wages",
+"Employee 1.75% and employer 4.75% of wages",
+"Employee 12% and employer 12% of wages",
+"Employee 1% and employer 4% of wages"
+],
+"a": 0,
+"e": "The rates were reduced from 1.75%/4.75% to 0.75%/3.25% in July 2019. Employees earning up to ₹176 per day are exempt from their share, and the wage ceiling for coverage is ₹21,000 per month."
+}
+]

@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Introduction to Management Science",
+"t": "Frank and Lillian Gilbreth are best known for their contribution to:",
+"o": [
+"Motion study and elimination of wasteful movements",
+"The bureaucratic model of organisation",
+"The hierarchy of human needs",
+"The managerial grid"
+],
+"a": 0,
+"e": "The Gilbreths analysed hand movements ('therbligs') to find the most efficient way of performing a task, extending Taylor's scientific management."
+},
+{
+"n": 2,
+"topic": "Functions of Management",
+"t": "Decentralisation differs from delegation in that decentralisation:",
+"o": [
+"Is confined to a single department",
+"Can be practised without any delegation",
+"Is a systematic dispersal of decision-making authority across all levels of the organisation, whereas delegation is between a manager and a subordinate",
+"Always implies a taller structure"
+],
+"a": 2,
+"e": "Delegation is a process between individuals; decentralisation is the organisation-wide outcome of extensive delegation to lower levels."
+},
+{
+"n": 3,
+"topic": "Functions of Management",
+"t": "A new regional manager finds that three different officers issue instructions to the same claims clerk. Which Fayol principle is being violated?",
+"o": [
+"Division of work",
+"Remuneration",
+"Order",
+"Unity of command"
+],
+"a": 3,
+"e": "Multiple bosses for one subordinate breaches unity of command and causes confusion and conflicting priorities."
+},
+{
+"n": 4,
+"topic": "Functions of Management",
+"t": "Objectives are most useful for planning and control when they are:",
+"o": [
+"Specific, measurable and time-bound",
+"Vague enough to accommodate any result",
+"Known only to the top management",
+"Expressed without any target date"
+],
+"a": 0,
+"e": "Measurable, time-bound objectives allow performance to be compared against standards, which is the basis of control and of MBO."
+},
+{
+"n": 5,
+"topic": "Human Resources Management",
+"t": "The contribution of psychology to HRM includes the study of:",
+"o": [
+"Culture across nations",
+"Learning, perception, personality and counselling of individuals",
+"Trade union structures",
+"Government labour policy"
+],
+"a": 1,
+"e": "Psychology explains and sometimes changes individual behaviour; sociology deals with groups, anthropology with culture and political science with power."
+},
+{
+"n": 6,
+"topic": "Human Resources Management",
+"t": "The 'power' dimension of personality refers to an individual's:",
+"o": [
+"Physical strength and stamina",
+"Earnings and standard of living",
+"Need for dominance or, conversely, for dependence",
+"Self-image and fears"
+],
+"a": 2,
+"e": "Each person brings physiological, psychological, social, economic and power dimensions to work, and leaders must understand which drives a given employee."
+},
+{
+"n": 7,
+"topic": "Human Resources Management",
+"t": "An appraiser rates all twenty subordinates as 'average' to avoid having to justify extreme ratings. This is known as:",
+"o": [
+"Halo error",
+"Strictness error",
+"Similar-to-me error",
+"Central tendency error"
+],
+"a": 3,
+"e": "Central tendency clusters ratings in the middle; strictness rates everyone low, and similar-to-me favours those resembling the rater."
+},
+{
+"n": 8,
+"topic": "Human Resources Management",
+"t": "Social psychology, as a contributor to HRM, focuses on:",
+"o": [
+"Attitudes, communication and group decision-making",
+"Individual physiological needs",
+"National economic policy",
+"The legal structure of companies"
+],
+"a": 0,
+"e": "Social psychology blends psychology and sociology to examine how individuals influence one another in groups."
+},
+{
+"n": 9,
+"topic": "Acquiring Human Resources",
+"t": "Job design is defined in the course as:",
+"o": [
+"Listing the qualifications required of a job holder",
+"Restructuring a job to adjust to changes in technology, environment or personnel",
+"Fixing the pay grade of a job",
+"Advertising a job vacancy"
+],
+"a": 1,
+"e": "Job design alters the content and arrangement of tasks; it is distinct from job description, specification and evaluation."
+},
+{
+"n": 10,
+"topic": "Acquiring Human Resources",
+"t": "Which of the following is an advantage of filling a vacancy through internal recruitment?",
+"o": [
+"It brings in fresh ideas from outside the organisation",
+"It widens the pool of candidates",
+"It motivates existing staff and the candidate's record is already known",
+"It avoids the need for induction entirely"
+],
+"a": 2,
+"e": "Internal promotion boosts morale and reduces selection risk, but may perpetuate existing thinking; external recruitment brings fresh perspectives."
+},
+{
+"n": 11,
+"topic": "The Future – The Challenges",
+"t": "A study cited in the course estimated that in about 15 years roughly what proportion of jobs in the United States could be automated?",
+"o": [
+"10%",
+"47%",
+"90%",
+"25%"
+],
+"a": 1,
+"e": "★ Key fact (repeated across the mocks of this paper). The estimate illustrates the scale of technological displacement that HR must plan for through reskilling and redeployment.",
+"r": "key"
+},
+{
+"n": 12,
+"topic": "Acquiring Human Resources",
+"t": "In a group discussion used for selection, the selectors mainly observe:",
+"o": [
+"The candidates' handwriting",
+"The candidates' knowledge of the company's history",
+"The candidates' medical fitness",
+"How candidates interact, listen, contribute and influence others"
+],
+"a": 3,
+"e": "Group discussions reveal communication, leadership, team behaviour and reasoning, which interviews alone cannot show."
+},
+{
+"n": 13,
+"topic": "Acquiring Human Resources",
+"t": "The movement of an employee from the Jaipur branch to the Udaipur branch in the same grade and pay is a:",
+"o": [
+"Transfer",
+"Promotion",
+"Demotion",
+"Separation"
+],
+"a": 0,
+"e": "A transfer is a lateral move without change in status or pay; promotion is advancement to a higher post with greater responsibility."
+},
+{
+"n": 14,
+"topic": "Acquiring Human Resources",
+"t": "Succession planning involves:",
+"o": [
+"Deciding the order of retrenchment",
+"Identifying and developing employees to fill key positions when they fall vacant",
+"Fixing the retirement age",
+"Preparing the annual leave roster"
+],
+"a": 1,
+"e": "Succession planning anticipates vacancies in critical posts and prepares internal candidates in advance, reducing disruption."
+},
+{
+"n": 15,
+"topic": "Development of Human Resources",
+"t": "The 'model office' training method involves:",
+"o": [
+"Lectures delivered by senior officers",
+"Reading of office manuals at home",
+"A replica of the actual workplace where trainees practise real procedures without affecting live operations",
+"Observation of a senior employee for one day"
+],
+"a": 2,
+"e": "The model office, like simulation, lets trainees handle realistic transactions in a safe environment before working on live policies and claims."
+},
+{
+"n": 16,
+"topic": "Development of Human Resources",
+"t": "'Unlearning' in the context of training refers to:",
+"o": [
+"Forgetting what was taught in training",
+"Refusing to attend training",
+"Learning without any trainer",
+"Giving up old habits and assumptions so that new behaviour can be learnt"
+],
+"a": 3,
+"e": "Training changes a person's underlying logic; existing patterns must be unfrozen before new ones can take hold."
+},
+{
+"n": 17,
+"topic": "Development of Human Resources",
+"t": "Which of the following statements about feedback in appraisal is correct according to the course?",
+"o": [
+"Feedback should be given as and when needed and not only on a fixed schedule",
+"Feedback should be given only at the annual appraisal",
+"Feedback should never be given in writing",
+"Feedback is required only for poor performers"
+],
+"a": 0,
+"e": "Timely feedback reinforces good performance and corrects poor performance while the event is fresh."
+},
+{
+"n": 18,
+"topic": "Development of Human Resources",
+"t": "Role play as a training method is particularly suitable for developing:",
+"o": [
+"Knowledge of statutory provisions",
+"Interpersonal skills such as handling an angry claimant",
+"Speed in data entry",
+"Numerical ability"
+],
+"a": 1,
+"e": "Role play lets trainees enact situations and receive feedback on behaviour, making it ideal for customer-handling and supervisory skills."
+},
+{
+"n": 19,
+"topic": "Ethics",
+"t": "The 'custodian of values' within an individual, which 'pricks' when something contrary to one's standards is done, is called:",
+"o": [
+"Culture",
+"Compliance",
+"Competence",
+"Conscience"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). Values form character and conscience guards them; ethics is the study of right and wrong that these values express.",
+"r": "key"
+},
+{
+"n": 20,
+"topic": "Development of Human Resources",
+"t": "In the forced distribution method of appraisal, the appraiser must:",
+"o": [
+"Rate each employee against a written list of behaviours",
+"Write a free-hand essay on each employee",
+"Allocate employees across predetermined performance categories in fixed proportions",
+"Rank employees by seniority"
+],
+"a": 2,
+"e": "Forced distribution (for example 10% outstanding, 20% good, 40% average, 20% below average, 10% poor) counters leniency and central tendency."
+},
+{
+"n": 21,
+"topic": "Making Change Happen",
+"t": "The 'content' of change in the course's framework includes:",
+"o": [
+"Only the external political environment",
+"Only the time at which change is introduced",
+"Only the views of the trade union",
+"Goals, skills, roles, technology, structure, management styles and wages"
+],
+"a": 3,
+"e": "Content is what the change seeks to alter; context is the environment, process is implementation and time is sequence."
+},
+{
+"n": 22,
+"topic": "Making Change Happen",
+"t": "A change is said to be 'institutionalised' when:",
+"o": [
+"It has become routine and part of normal working",
+"It has been announced by the chairman",
+"It has been discussed with the union",
+"It has been documented in a circular"
+],
+"a": 0,
+"e": "Change is first accepted in people's minds, then practised, and finally institutionalised when it no longer needs special effort to sustain."
+},
+{
+"n": 23,
+"topic": "Making Change Happen",
+"t": "Wellness programmes in organisations seek to reduce employees' sense of powerlessness through:",
+"o": [
+"Stricter supervision",
+"HRD, training and counselling",
+"Reduction in pay",
+"Longer working hours"
+],
+"a": 1,
+"e": "Wellness programmes address motivation (job redesign), health (yoga, check-ups) and powerlessness (development and counselling)."
+},
+{
+"n": 24,
+"topic": "Making Change Happen",
+"t": "Which statement about career development is correct according to the course?",
+"o": [
+"Every employee is given an identical career path",
+"Career development is unrelated to employee retention",
+"Career development through career paths and job rotation is not applied uniformly to all employees",
+"Job rotation is prohibited in career development"
+],
+"a": 2,
+"e": "Employees expect to grow into higher-skilled roles; organisations use career paths selectively according to potential and needs."
+},
+{
+"n": 25,
+"topic": "Motivation",
+"t": "According to Herzberg, which of the following statements is INCORRECT?",
+"o": [
+"The opposite of job satisfaction is 'no satisfaction', not dissatisfaction",
+"Motivators relate to the content of the job",
+"Hygiene factors relate to the context of the job",
+"Improving hygiene factors will by itself produce lasting job satisfaction"
+],
+"a": 3,
+"e": "Hygiene improvements remove dissatisfaction but do not create satisfaction; only motivators (content factors) do."
+},
+{
+"n": 26,
+"topic": "Motivation",
+"t": "Locke's goal-setting theory suggests that motivation is highest when goals are:",
+"o": [
+"Specific and challenging but accepted by the employee",
+"Vague and easy",
+"Set without the employee's knowledge",
+"Impossible to achieve"
+],
+"a": 0,
+"e": "Specific, difficult goals that the person accepts, together with feedback, lead to higher performance than 'do your best' instructions."
+},
+{
+"n": 27,
+"topic": "Motivation",
+"t": "In expectancy theory, 'valence' refers to:",
+"o": [
+"The probability that effort will lead to performance",
+"The value an individual places on a particular reward",
+"The probability that performance will lead to reward",
+"The number of rewards available"
+],
+"a": 1,
+"e": "Motivation = expectancy × instrumentality × valence; a reward with zero valence will not motivate however likely it is."
+},
+{
+"n": 28,
+"topic": "Motivation",
+"t": "Which of the following is a lower-order (basic) need in Maslow's hierarchy?",
+"o": [
+"Need for recognition",
+"Need for creative self-expression",
+"Need for food, shelter and rest",
+"Need for autonomy"
+],
+"a": 2,
+"e": "Physiological and safety needs are lower-order; social, esteem and self-actualisation are higher-order."
+},
+{
+"n": 29,
+"topic": "Human Resources Management",
+"t": "A manager who judges an employee's competence from the fact that he arrived late once last week, ignoring a year of punctuality, is making which error?",
+"o": [
+"Leniency error",
+"Contrast error",
+"Recency error",
+"Central tendency error"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). The recency effect gives undue weight to the most recent event; leniency is rating everyone high, contrast is comparing with the previous ratee, central tendency is rating everyone average.",
+"r": "key"
+},
+{
+"n": 30,
+"topic": "Communication",
+"t": "Which of the following is a 'semantic' barrier to communication?",
+"o": [
+"A noisy office",
+"Fear of the superior",
+"A faulty telephone line",
+"Different meanings attached to the same word by sender and receiver"
+],
+"a": 3,
+"e": "Semantic barriers arise from language and interpretation; physical barriers (noise, faulty line) and psychological barriers (fear, status) are distinct."
+},
+{
+"n": 31,
+"topic": "Communication",
+"t": "The chief advantage of oral over written communication is that it:",
+"o": [
+"Permits immediate feedback and clarification",
+"Provides a permanent record",
+"Is always more accurate",
+"Can reach a large audience at no cost"
+],
+"a": 0,
+"e": "Oral communication is fast and interactive; written communication provides a record and is better for complex or legally significant content."
+},
+{
+"n": 32,
+"topic": "Communication",
+"t": "Communication between the claims manager and the underwriting manager of the same regional office is:",
+"o": [
+"Upward communication",
+"Horizontal (lateral) communication",
+"Downward communication",
+"Grapevine communication"
+],
+"a": 1,
+"e": "Horizontal communication links peers across departments and is essential for coordination."
+},
+{
+"n": 33,
+"topic": "Leadership",
+"t": "In Rensis Likert's four systems of management, 'System 4' is:",
+"o": [
+"Exploitative authoritative",
+"Benevolent authoritative",
+"Participative group management",
+"Consultative"
+],
+"a": 2,
+"e": "Likert's systems run from 1 (exploitative-authoritative) through 2 (benevolent-authoritative) and 3 (consultative) to 4 (participative), which he found most effective."
+},
+{
+"n": 34,
+"topic": "Leadership",
+"t": "Fiedler's contingency model relates leadership effectiveness to situational favourableness, which depends on leader–member relations, task structure and:",
+"o": [
+"Age of the leader",
+"Size of the organisation",
+"Pay level of subordinates",
+"Position power of the leader"
+],
+"a": 3,
+"e": "Fiedler argued that task-oriented leaders do best in very favourable or very unfavourable situations and relationship-oriented leaders in intermediate ones."
+},
+{
+"topic": "Policyholder protection",
+"t": "An insurer must resolve a policyholder's grievance within how many days of receipt?",
+"o": [
+"7 days",
+"14 days",
+"30 days",
+"45 days"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). 14 days under the 2024 regulations; thereafter the policyholder may approach Bima Bharosa or the Ombudsman.",
+"r": "core",
+"n": 35
+},
+{
+"n": 36,
+"topic": "Leadership",
+"t": "In Reddin's framework, the 'Dedicated' style, when effective, is termed:",
+"o": [
+"Benevolent autocrat",
+"Executive",
+"Developer",
+"Bureaucrat"
+],
+"a": 0,
+"e": "Dedicated becomes Benevolent Autocrat (effective) or Autocrat (ineffective); Integrated becomes Executive or Compromiser."
+},
+{
+"n": 37,
+"topic": "Leadership",
+"t": "Likert's 'linking pin' concept describes:",
+"o": [
+"A pin-board used for team notices",
+"A manager who is a member of two groups – leader of his own unit and subordinate in the group above – thereby linking levels",
+"The informal leader of a work group",
+"The trade union representative"
+],
+"a": 1,
+"e": "Linking pins connect overlapping groups so that information and influence flow across levels."
+},
+{
+"n": 38,
+"topic": "Leadership",
+"t": "A quality circle is:",
+"o": [
+"A committee of directors reviewing audit quality",
+"A statutory body under the Factories Act",
+"A small voluntary group of employees who meet regularly to identify and solve work-related problems",
+"A customer complaints forum"
+],
+"a": 2,
+"e": "Quality circles, works committees and management councils are structures for participation that build subordinates' competence."
+},
+{
+"n": 39,
+"topic": "Maintaining Human Resources",
+"t": "In the factor comparison method of job evaluation, jobs are:",
+"o": [
+"Ranked as a whole from highest to lowest",
+"Placed in predetermined grades",
+"Scored on a points scale without monetary values",
+"Compared factor by factor against key benchmark jobs with money values assigned to each factor"
+],
+"a": 3,
+"e": "Factor comparison combines ranking and point methods by allocating a portion of the wage of key jobs to each compensable factor."
+},
+{
+"n": 40,
+"topic": "Maintaining Human Resources",
+"t": "Dearness allowance is paid primarily to:",
+"o": [
+"Compensate employees for the rise in the cost of living",
+"Reward exceptional performance",
+"Cover the cost of commuting",
+"Compensate for hazardous work"
+],
+"a": 0,
+"e": "DA is linked to the consumer price index; conveyance, hardship and uniform allowances serve other purposes."
+},
+{
+"n": 41,
+"topic": "Maintaining Human Resources",
+"t": "Under the Industrial Relations Code 2020, the minimum notice period that workers must give before going on strike in any industrial establishment is:",
+"o": [
+"7 days",
+"14 days",
+"30 days",
+"No notice is required"
+],
+"a": 1,
+"e": "The Code extends to all industrial establishments the 14-day strike notice that the Industrial Disputes Act applied only to public utility services."
+},
+{
+"n": 42,
+"topic": "Maintaining Human Resources",
+"t": "Under the Occupational Safety, Health and Working Conditions Code 2020, the maximum daily working hours and the rate of overtime wages are:",
+"o": [
+"10 hours a day; overtime at 1.5 times",
+"9 hours a day; overtime at the ordinary rate",
+"8 hours a day; overtime at twice the ordinary rate",
+"12 hours a day; no overtime payable"
+],
+"a": 2,
+"e": "The Code limits work to 8 hours per day with weekly rest, and requires overtime to be paid at double the ordinary wage rate."
+},
+{
+"n": 43,
+"topic": "Maintaining Human Resources",
+"t": "Under the Maternity Benefit Act 1961 as amended in 2017, the paid maternity leave for a woman employee with fewer than two surviving children is:",
+"o": [
+"12 weeks",
+"16 weeks",
+"52 weeks",
+"26 weeks"
+],
+"a": 3,
+"e": "The 2017 amendment raised maternity leave from 12 to 26 weeks (12 weeks for the third child onwards) and mandated crèche facilities in establishments with 50 or more employees."
+},
+{
+"n": 44,
+"topic": "Maintaining Human Resources",
+"t": "An exit interview is conducted with:",
+"o": [
+"An employee who is leaving the organisation, to learn the reasons for leaving and improve retention",
+"A candidate rejected at selection",
+"An employee being promoted",
+"A customer closing a policy"
+],
+"a": 0,
+"e": "Exit interviews are a tool of personnel research that reveals causes of turnover such as pay, supervision or lack of growth."
+},
+{
+"n": 45,
+"topic": "Ethics",
+"t": "Charging a friend a higher price than you paid for an article brought from another city is regarded in the course as:",
+"o": [
+"Always ethical",
+"Unethical, unless the transaction is a business deal",
+"A legal offence",
+"An ethical dilemma without any answer"
+],
+"a": 1,
+"e": "Societal norms distinguish business dealings from personal transactions; profit in business is acceptable, profiteering from a friend is not."
+},
+{
+"n": 46,
+"topic": "Ethics",
+"t": "Which of the following questions is among those management should ask when setting ethical standards?",
+"o": [
+"Will the action increase the chairman's remuneration?",
+"Will the action please the trade union?",
+"Will the action harm customers or the public?",
+"Can the action be kept secret?"
+],
+"a": 2,
+"e": "The course lists key questions including whether actions harm customers and whether public interest outweighs self-interest."
+},
+{
+"topic": "Claims timelines",
+"t": "Under IRDAI's 2024 norms, a surveyor must be appointed within what time of a claim intimation?",
+"o": [
+"24 hours",
+"48 hours",
+"72 hours",
+"7 days"
+],
+"a": 0,
+"e": "★ Core fact (asked across III papers). Appointment within 24 hours; survey report within 15 days; insurer's decision within 7 days of the report.",
+"r": "core",
+"n": 47
+},
+{
+"n": 48,
+"topic": "Ethics",
+"t": "A commission paid to an intermediary for closing a difficult deal and a 'kickback' differ in that:",
+"o": [
+"Both are illegal under all circumstances",
+"A kickback is disclosed and a commission is secret",
+"There is no difference between the two",
+"A commission is a disclosed, legitimate reward whereas a kickback is a secret return of part of the price implying wrongdoing"
+],
+"a": 3,
+"e": "Commission is an accepted business practice (for example IRDAI-regulated agency commission); kickbacks corrupt the decision-maker."
+},
+{
+"n": 49,
+"topic": "The Future – The Challenges",
+"t": "The course notes that younger employees today may be less mobile than earlier generations because:",
+"o": [
+"They may have to care for ageing parents",
+"They are prohibited from transfers by law",
+"They prefer rural postings",
+"They have no career aspirations"
+],
+"a": 0,
+"e": "Demographic change means smaller families with elderly dependants, so HR may need counselling to balance mobility with family pressures."
+},
+{
+"n": 50,
+"topic": "The Future – The Challenges",
+"t": "As Indian insurers expand abroad and foreign insurers enter India, HR managers must particularly develop competence in:",
+"o": [
+"Manual record-keeping",
+"Cross-cultural communication to avoid misunderstandings",
+"Reducing women's participation",
+"Avoiding technology adoption"
+],
+"a": 1,
+"e": "Global operations bring diverse workforces and customers; cultural misunderstandings damage both employee relations and business."
+}
+]

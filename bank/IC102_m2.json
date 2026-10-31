@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Business Enterprise and Its Environment",
+"t": "In Porter's Five Forces framework, the entry of web aggregators and digital platforms that make price comparison easy mainly increases the:",
+"o": [
+"Threat of substitutes",
+"Bargaining power of suppliers",
+"Bargaining power of buyers",
+"Barriers to entry"
+],
+"a": 2,
+"e": "Easy comparison lowers switching costs and information asymmetry, strengthening the customer's bargaining position against insurers."
+},
+{
+"n": 2,
+"topic": "Economic Foundations – Some Concepts",
+"t": "The problem of 'adverse selection' in insurance arises because:",
+"o": [
+"Insurers know more about the risk than proposers",
+"Agents earn commission on every sale",
+"Premiums are set by the regulator",
+"Proposers know more about their own risk than the insurer and higher risks buy more cover"
+],
+"a": 3,
+"e": "Adverse selection is an information-asymmetry problem where the insured has superior knowledge of his risk; underwriting and disclosure duties exist to counter it."
+},
+{
+"n": 3,
+"topic": "Economic Foundations – Some Concepts",
+"t": "Insurance density is measured as:",
+"o": [
+"Per capita premium, usually expressed in US dollars",
+"Premium as a percentage of GDP",
+"Number of insurers per state",
+"Claims paid as a percentage of premium"
+],
+"a": 0,
+"e": "Density is total premium divided by population; India's density (around US$ 95) is far below the global average, signalling under-insurance despite rising penetration."
+},
+{
+"n": 4,
+"topic": "Economic Foundations – Some Concepts",
+"t": "Opportunity cost of buying an endowment policy with ₹50,000 annual premium is best described as:",
+"o": [
+"The surrender charge payable on early exit",
+"The GST paid on the premium",
+"The agent's commission on the premium",
+"The return foregone on the next best alternative use of ₹50,000"
+],
+"a": 3,
+"e": "Opportunity cost is the value of the best alternative sacrificed – for example the return a mutual fund or deposit would have earned with the same money."
+},
+{
+"n": 5,
+"topic": "Economic Foundations – Some Concepts",
+"t": "Which of the following is a 'cost-push' cause of inflation that directly raises general insurers' claim costs?",
+"o": [
+"Increase in prices of motor spare parts and hospital services",
+"A rise in money supply increasing consumer demand",
+"Higher government spending on infrastructure",
+"A fall in bank deposit rates"
+],
+"a": 0,
+"e": "Cost-push inflation stems from rising input costs; higher repair and medical costs inflate motor and health claims, squeezing underwriting margins."
+},
+{
+"n": 6,
+"topic": "Economic Foundations – Some Concepts",
+"t": "Life insurance companies are important to the economy chiefly because they:",
+"o": [
+"Print currency notes on behalf of RBI",
+"Collect income tax for the government",
+"Set the country's exchange rate",
+"Mobilise long-term household savings and channel them into infrastructure and government securities"
+],
+"a": 3,
+"e": "Life insurers convert small, long-term household contributions into large investible funds, supporting capital formation; Section 27 of the Insurance Act directs much of this into government and approved securities."
+},
+{
+"n": 7,
+"topic": "Economic Foundations – Some Concepts",
+"t": "The phase of the business cycle in which output, employment and income decline over consecutive quarters is called:",
+"o": [
+"Boom",
+"Recovery",
+"Recession",
+"Peak"
+],
+"a": 2,
+"e": "A recession is a contraction phase; insurers see lapses rise and new business fall as household incomes shrink."
+},
+{
+"n": 8,
+"topic": "Economic Foundations – Some Concepts",
+"t": "If the price of a term insurance plan rises by 10% and the quantity demanded falls by 25%, the demand for the product is:",
+"o": [
+"Perfectly inelastic",
+"Unit elastic",
+"Price inelastic",
+"Price elastic"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). Price elasticity = 25/10 = 2.5, which is greater than 1, so demand is elastic – buyers respond proportionately more than the price change.",
+"r": "key"
+},
+{
+"n": 9,
+"topic": "Economic Foundations – Some Concepts",
+"t": "Suppose 10,000 similar houses each face a 1% annual probability of a fire loss of ₹5 lakh. Ignoring expenses, the pure premium per house based on expected loss is:",
+"o": [
+"₹5,000",
+"₹500",
+"₹50,000",
+"₹50"
+],
+"a": 0,
+"e": "Expected loss per house = 0.01 × ₹5,00,000 = ₹5,000; pooling 10,000 houses lets the law of large numbers make actual losses close to the expected ₹5 crore."
+},
+{
+"n": 10,
+"topic": "Political – Economic Environment and Insurance",
+"t": "The General Insurance Business (Nationalisation) Act, 1972 led to the formation of GIC and how many subsidiary companies?",
+"o": [
+"Two",
+"Three",
+"Four",
+"Five"
+],
+"a": 2,
+"e": "107 insurers were merged into four subsidiaries – National, New India, Oriental and United India – under GIC, with effect from 1 January 1973; the four were delinked from GIC in 2002."
+},
+{
+"n": 11,
+"topic": "Political – Economic Environment and Insurance",
+"t": "The 1991 economic reforms in India are commonly summarised as:",
+"o": [
+"Nationalisation, Regulation, Protection",
+"Planning, Licensing, Control",
+"Liberalisation, Privatisation, Globalisation",
+"Subsidy, Tariff, Quota"
+],
+"a": 2,
+"e": "The LPG reforms reduced state control, opened sectors to private and foreign players and integrated India with the world economy, setting the stage for insurance liberalisation in 2000."
+},
+{
+"n": 12,
+"topic": "Political – Economic Environment and Insurance",
+"t": "NITI Aayog replaced which earlier institution in 2015?",
+"o": [
+"Reserve Bank of India",
+"Securities and Exchange Board of India",
+"Finance Commission",
+"Planning Commission"
+],
+"a": 3,
+"e": "The Planning Commission, which framed Five-Year Plans, was replaced by NITI Aayog as a policy think-tank, reflecting the shift from centralised planning to cooperative federalism."
+},
+{
+"n": 13,
+"topic": "Political – Economic Environment and Insurance",
+"t": "The excess of total government expenditure over total receipts excluding borrowings is the:",
+"o": [
+"Fiscal deficit",
+"Revenue deficit",
+"Primary deficit",
+"Trade deficit"
+],
+"a": 0,
+"e": "The fiscal deficit indicates government borrowing need; large borrowings supply government securities in which insurers invest and influence interest rates."
+},
+{
+"n": 14,
+"topic": "Political – Economic Environment and Insurance",
+"t": "The GIBNA Amendment Act, 2021 enabled the central government to:",
+"o": [
+"Merge all four public general insurers into one",
+"Nationalise private general insurers",
+"Reduce its shareholding in a specified public general insurer below 51%",
+"Abolish GIC Re"
+],
+"a": 2,
+"e": "The amendment removed the requirement that the government hold at least 51% in the nationalised general insurers, paving the way for privatisation."
+},
+{
+"n": 15,
+"topic": "Political – Economic Environment and Insurance",
+"t": "Under the Pradhan Mantri Fasal Bima Yojana, the maximum premium payable by a farmer for Kharif food and oilseed crops is:",
+"o": [
+"1.5% of sum insured",
+"10% of sum insured",
+"5% of sum insured",
+"2% of sum insured"
+],
+"a": 3,
+"e": "Farmers pay 2% for Kharif, 1.5% for Rabi and 5% for annual commercial/horticultural crops; the balance of actuarial premium is subsidised by the central and state governments."
+},
+{
+"n": 16,
+"topic": "Political – Economic Environment and Insurance",
+"t": "A government that increases excise duties and reduces subsidies to control its deficit is using:",
+"o": [
+"Fiscal policy",
+"Monetary policy",
+"Exchange-rate policy",
+"Trade policy"
+],
+"a": 0,
+"e": "Fiscal policy concerns government taxation and spending; monetary policy is RBI's management of money supply and interest rates."
+},
+{
+"n": 17,
+"topic": "The Social Environment and Insurance",
+"t": "Under the IRDAI Micro Insurance Regulations, a micro-insurance product is designed primarily for:",
+"o": [
+"High-net-worth individuals seeking tax benefits",
+"Multinational corporations",
+"Low-income and economically vulnerable sections with small sums insured",
+"Reinsurers accepting small cessions"
+],
+"a": 2,
+"e": "Micro-insurance offers affordable, low-sum-insured life and general covers for the poor, distributed through NGOs, SHGs and micro-insurance agents."
+},
+{
+"n": 18,
+"topic": "The Social Environment and Insurance",
+"t": "India's demographic dividend refers to:",
+"o": [
+"An unusually large share of the population in the working-age group",
+"Bonus declared by LIC to policyholders",
+"Decline in birth rates below replacement level",
+"Government cash transfer to elderly citizens"
+],
+"a": 0,
+"e": "A high working-age share raises savings and insurable earning capacity, a favourable social driver for life and pension products for the next two decades."
+},
+{
+"n": 19,
+"topic": "The Social Environment and Insurance",
+"t": "Pradhan Mantri Suraksha Bima Yojana (PMSBY) provides accidental death cover of ₹2 lakh for an annual premium of:",
+"o": [
+"₹12",
+"₹436",
+"₹330",
+"₹20"
+],
+"a": 3,
+"e": "PMSBY costs ₹20 per year (revised from ₹12 in 2022) for ages 18–70; PMJJBY costs ₹436 (revised from ₹330)."
+},
+{
+"n": 20,
+"topic": "The Social Environment and Insurance",
+"t": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY) provides a life cover of ₹2 lakh to persons aged:",
+"o": [
+"18 to 50 years",
+"18 to 40 years",
+"21 to 60 years",
+"18 to 70 years"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). PMJJBY covers savings bank account holders aged 18–50 (cover continues to 55) for an annual premium of ₹436; PMSBY, the accident scheme, covers ages 18–70 for ₹20.",
+"r": "key"
+},
+{
+"n": 21,
+"topic": "The Social Environment and Insurance",
+"t": "Financial literacy affects insurance demand in India because:",
+"o": [
+"Low awareness causes people to under-value protection and to view insurance mainly as a savings or tax product",
+"Literate customers always prefer term insurance",
+"Financial literacy is irrelevant since agents explain everything",
+"Literacy only influences the choice of bank"
+],
+"a": 0,
+"e": "Poor understanding of risk leads to under-insurance and mis-perceptions; this is why IRDAI and NCFE run awareness campaigns and why simple, bundled products like Bima Vistaar are proposed."
+},
+{
+"n": 22,
+"topic": "The Social Environment and Insurance",
+"t": "Bima Vistaar is proposed as a bundled product combining:",
+"o": [
+"Life, health, personal accident and property covers",
+"Motor third party and own damage",
+"Marine cargo and hull",
+"Fire and burglary for shops"
+],
+"a": 0,
+"e": "Bima Vistaar is an affordable all-in-one protection product for rural and low-income households, distributed through Bima Vahaks and the Bima Sugam platform."
+},
+{
+"n": 23,
+"topic": "The Social Environment and Insurance",
+"t": "A woman from a Gram Panchayat is enrolled to explain insurance, help with eKYC and collect proposals on a hand-held device. Her engagement is governed by which IRDAI initiative?",
+"o": [
+"Insurance Web Aggregator regulations",
+"Surveyor and Loss Assessor regulations",
+"Bima Vahak guidelines",
+"Point of Sales Person (PoSP) for life insurance only"
+],
+"a": 2,
+"e": "Bima Vahak guidelines (2023) create a dedicated distribution channel with emphasis on women, using the Bima Sugam platform and simplified products like Bima Vistaar."
+},
+{
+"n": 24,
+"topic": "Technological Environment and Insurance",
+"t": "Which of the following entities are Insurance Repositories approved by IRDAI for holding e-Insurance Accounts?",
+"o": [
+"NSE and BSE",
+"GIC Re and Lloyd's India",
+"SBI and HDFC Bank",
+"CAMS Insurance Repository, KFin (Karvy), NSDL/Protean and CDSL Insurance Repository"
+],
+"a": 3,
+"e": "Four insurance repositories operate in India; they hold policies in dematerialised form, with every policy issued from April 2024 required to be in electronic form."
+},
+{
+"n": 25,
+"topic": "Technological Environment and Insurance",
+"t": "Robotic Process Automation (RPA) in an insurer is most suitable for:",
+"o": [
+"Repetitive, rule-based tasks such as data entry, policy issuance checks and claim registration",
+"Deciding the bonus rate for participating policies",
+"Negotiating reinsurance treaties",
+"Drafting new regulations"
+],
+"a": 0,
+"e": "RPA uses software 'bots' to perform high-volume, rule-based clerical work; judgement-heavy tasks like treaty negotiation remain with people."
+},
+{
+"n": 26,
+"topic": "Technological Environment and Insurance",
+"t": "Under IRDAI's Information and Cyber Security Guidelines (2023), insurers must:",
+"o": [
+"Outsource all IT functions to a single vendor",
+"Store all customer data outside India",
+"Have a board-approved cyber security policy, a CISO and regular vulnerability assessments",
+"Discontinue online sales of policies"
+],
+"a": 2,
+"e": "The guidelines mandate governance (board policy, CISO), periodic assessments, incident reporting and data-security controls appropriate to an insurer's digital operations."
+},
+{
+"n": 27,
+"topic": "Business Enterprise and Its Environment",
+"t": "Under Section 135 of the Companies Act, 2013, a company meeting the prescribed thresholds must spend on CSR at least:",
+"o": [
+"2% of its average net profit of the three immediately preceding financial years",
+"1% of its net profit of the immediately preceding year",
+"5% of its total turnover of the preceding year",
+"3% of its average net profit of the five preceding years"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). Section 135 requires eligible companies (net worth ₹500 crore, turnover ₹1,000 crore or net profit ₹5 crore) to spend at least 2% of the average net profit of the three immediately preceding financial years on CSR activities.",
+"r": "key"
+},
+{
+"n": 28,
+"topic": "Technological Environment and Insurance",
+"t": "Blockchain technology is attractive to insurers for which application?",
+"o": [
+"Printing physical policy bonds",
+"Setting GST rates on premium",
+"Replacing actuaries in pricing",
+"Tamper-proof shared records for claims and reinsurance settlements using smart contracts"
+],
+"a": 3,
+"e": "A distributed, immutable ledger lets multiple parties share verified transaction data; smart contracts can automate payments when agreed conditions are met."
+},
+{
+"n": 29,
+"topic": "Technological Environment and Insurance",
+"t": "The Digital Personal Data Protection Act, 2023 introduces the concept of a 'Data Fiduciary', which in the insurance context is:",
+"o": [
+"The insurer that determines the purpose and means of processing personal data",
+"The policyholder whose data is collected",
+"The Insurance Ombudsman",
+"The reinsurer's auditor"
+],
+"a": 0,
+"e": "The Act casts obligations (consent, purpose limitation, security, breach notification) on the entity deciding how personal data is processed – the insurer – while the individual is the 'Data Principal'."
+},
+{
+"n": 30,
+"topic": "Technological Environment and Insurance",
+"t": "Video-based identification and Aadhaar-based e-KYC help insurers mainly by:",
+"o": [
+"Increasing the premium charged",
+"Eliminating the need for underwriting",
+"Reducing onboarding time and cost while meeting PMLA customer identification requirements",
+"Allowing policies to be issued without a proposal form"
+],
+"a": 2,
+"e": "Digital KYC satisfies anti-money-laundering identification duties quickly and cheaply, but underwriting and the proposal form remain necessary."
+},
+{
+"n": 31,
+"topic": "Technological Environment and Insurance",
+"t": "A general insurer deploys IoT sensors in insured warehouses that alert owners to rising temperature and smoke. This illustrates the technology trend of insurers moving from:",
+"o": [
+"Indemnity to assignment",
+"Agency to bancassurance distribution",
+"Tariff to de-tariff pricing",
+"'Repair and replace' to 'predict and prevent'"
+],
+"a": 3,
+"e": "Connected devices allow loss prevention and risk-based pricing, transforming the insurer from a post-loss payer into a risk partner."
+},
+{
+"n": 32,
+"topic": "Environmental Risks and Insurance",
+"t": "'NatCat' in insurance parlance refers to:",
+"o": [
+"National catastrophe fund of the central government",
+"Natural catastrophe perils such as earthquake, flood, cyclone and landslide",
+"Non-admitted treaty coverage",
+"Net assets of the company after tax"
+],
+"a": 1,
+"e": "NatCat perils cause correlated, large-scale losses; insurers manage them through catastrophe reinsurance, accumulation control and catastrophe modelling."
+},
+{
+"n": 33,
+"topic": "Environmental Risks and Insurance",
+"t": "The Disaster Management Act, 2005 established which apex body in India?",
+"o": [
+"Central Pollution Control Board",
+"National Disaster Management Authority (NDMA)",
+"National Green Tribunal",
+"Ministry of Earth Sciences"
+],
+"a": 1,
+"e": "NDMA, chaired by the Prime Minister, lays down disaster-management policy; insurers interact with the framework in post-disaster relief and risk-financing discussions."
+},
+{
+"n": 34,
+"topic": "Environmental Risks and Insurance",
+"t": "A catastrophe bond (cat bond) is an instrument by which:",
+"o": [
+"Policyholders borrow against their policies after a disaster",
+"An insurer or government transfers peak catastrophe risk to capital-market investors who lose principal if a defined event occurs",
+"Reinsurers lend money to insurers at concessional rates",
+"The government guarantees crop insurance premiums"
+],
+"a": 1,
+"e": "Cat bonds are insurance-linked securities that broaden capacity beyond traditional reinsurance by tapping investors willing to bear catastrophe risk for a coupon."
+},
+{
+"n": 35,
+"topic": "Environmental Risks and Insurance",
+"t": "ESG considerations in an insurer's investment and underwriting policy stand for:",
+"o": [
+"Earnings, Solvency and Growth",
+"Environmental, Social and Governance",
+"Equity, Securities and Gilts",
+"Expenses, Surplus and Guarantees"
+],
+"a": 1,
+"e": "ESG integration means evaluating climate impact, social responsibility and governance quality of investee companies and insured risks, increasingly expected by regulators and investors."
+},
+{
+"n": 36,
+"topic": "Environmental Risks and Insurance",
+"t": "A chemical factory handling hazardous substances is operating without the compulsory policy required by the Public Liability Insurance Act, 1991. Which consequence is correct?",
+"o": [
+"No consequence, as the policy is optional",
+"The owner is liable to penalty including imprisonment, and victims' no-fault relief is jeopardised",
+"IRDAI will insure the unit directly",
+"The factory is automatically covered by the Environmental Relief Fund"
+],
+"a": 1,
+"e": "Section 4 makes the cover mandatory; non-compliance is an offence under the Act, and the policy (with contribution to the Environmental Relief Fund) is the mechanism for immediate relief to victims."
+},
+{
+"n": 37,
+"topic": "The Legal Environment of Insurance",
+"t": "The Insurance Regulatory and Development Authority of India was constituted under the IRDA Act of:",
+"o": [
+"1938",
+"1956",
+"1999",
+"2015"
+],
+"a": 2,
+"e": "The IRDA Act, 1999 established the regulator (renamed IRDAI in 2014) to protect policyholders and regulate, promote and ensure orderly growth of the industry."
+},
+{
+"topic": "Insurance Act 1938 – key sections",
+"t": "Section 64VB of the Insurance Act 1938 requires that:",
+"o": [
+"Premium is received in advance before the risk is assumed",
+"Every policy carries a free-look clause",
+"Claims are settled within 30 days",
+"Agents hold a valid licence"
+],
+"a": 0,
+"e": "★ Core fact (asked across III papers). No risk may be assumed unless the premium has been received in advance or is guaranteed in the manner prescribed.",
+"r": "core",
+"n": 38
+},
+{
+"n": 39,
+"topic": "The Legal Environment of Insurance",
+"t": "Under Section 146 of the Motor Vehicles Act, 1988, the insurance that is compulsory for every motor vehicle used in a public place is:",
+"o": [
+"Own damage cover",
+"Third-party liability cover",
+"Personal accident cover for passengers",
+"Comprehensive cover"
+],
+"a": 1,
+"e": "Only third-party liability (death, bodily injury and property damage to third parties) is statutorily compulsory; own-damage cover is optional."
+},
+{
+"n": 40,
+"topic": "The Legal Environment of Insurance",
+"t": "Section 6 of the Married Women's Property Act, 1874 provides that a life policy effected by a married man for the benefit of his wife and children:",
+"o": [
+"Lapses on his death",
+"Forms a trust for their benefit and is not subject to his creditors",
+"Must be assigned to his employer",
+"Cannot have a nomination"
+],
+"a": 1,
+"e": "An MWP Act policy creates a statutory trust so the proceeds are protected from the policyholder's creditors and do not form part of his estate."
+},
+{
+"n": 41,
+"topic": "The Legal Environment of Insurance",
+"t": "Under the Insurance Act, 1938, the minimum paid-up equity capital required to register as a direct life or general insurer in India is:",
+"o": [
+"₹50 crore",
+"₹100 crore",
+"₹200 crore",
+"₹500 crore"
+],
+"a": 1,
+"e": "Section 6 prescribes ₹100 crore for insurers and ₹200 crore for reinsurers; the Insurance Laws (Amendment) Bill, 2025 proposes lower thresholds for specialised or niche insurers."
+},
+{
+"n": 42,
+"topic": "The Legal Environment of Insurance",
+"t": "The Prevention of Money Laundering Act, 2002 applies to insurers primarily by requiring them to:",
+"o": [
+"Invest 50% of funds in government securities",
+"Carry out KYC, maintain records and report suspicious and cash transactions to FIU-IND",
+"Obtain reinsurance for all policies above ₹1 crore",
+"Register every policy with the Registrar of Companies"
+],
+"a": 1,
+"e": "Insurers are 'reporting entities' under PMLA and must follow IRDAI's AML/CFT master guidelines on customer due diligence and reporting to the Financial Intelligence Unit."
+},
+{
+"n": 43,
+"topic": "The Legal Environment of Insurance",
+"t": "Under Section 39 of the Insurance Act, 1938 (as amended in 2015), a nominee who is the policyholder's parent, spouse or child is treated as a:",
+"o": [
+"Trustee holding proceeds for legal heirs",
+"Beneficial nominee entitled to the policy money",
+"Assignee of the policy",
+"Co-insured"
+],
+"a": 1,
+"e": "The 2015 amendment made such close relatives 'beneficial nominees' who receive the proceeds in their own right; other nominees merely receive on behalf of the legal heirs."
+},
+{
+"n": 44,
+"topic": "The Legal Environment of Insurance",
+"t": "Which statement regarding the Limitation Act, 1963 and insurance claims is CORRECT?",
+"o": [
+"A suit on an insurance contract must be filed within 3 years from when the cause of action arises",
+"There is no limitation period for insurance claims",
+"The limitation period is 12 years for all claims",
+"The limitation period is fixed by IRDAI at 30 days"
+],
+"a": 0,
+"e": "Claims on contracts fall under the general three-year limitation; this is why policy conditions and ombudsman rules also contain time limits for lodging complaints."
+},
+{
+"n": 45,
+"topic": "Emerging Issues for Insurance Industry",
+"t": "The GST Council's decision effective 22 September 2025 made premiums on individual life and health insurance policies:",
+"o": [
+"Taxable at 5%",
+"Taxable at 12%",
+"Exempt from GST (nil rate)",
+"Taxable at 28%"
+],
+"a": 2,
+"e": "GST on individual life and health policies was reduced from 18% to nil to improve affordability; most other insurance lines continue to attract 18%."
+},
+{
+"n": 46,
+"topic": "Emerging Issues for Insurance Industry",
+"t": "The 'Cashless Everywhere' initiative announced by the General Insurance Council in January 2024 allows a health policyholder to:",
+"o": [
+"Receive cashless treatment only at network hospitals",
+"Seek cashless treatment at any hospital, including non-network ones, subject to prior intimation",
+"Withdraw cash from the insurer's branch",
+"Avoid paying any premium during hospitalisation"
+],
+"a": 1,
+"e": "The initiative extends cashless facility beyond network hospitals, with intimation norms (typically 48 hours before planned admission), reducing out-of-pocket reimbursement claims."
+},
+{
+"topic": "Insurance Act 1938 – key sections",
+"t": "Nomination and assignment of a life insurance policy are governed respectively by which sections of the Insurance Act 1938?",
+"o": [
+"Sections 39 and 38",
+"Sections 38 and 39",
+"Sections 41 and 45",
+"Sections 45 and 41"
+],
+"a": 0,
+"e": "★ Core fact (asked across III papers). Section 39 deals with nomination; Section 38 with assignment and transfer.",
+"r": "core",
+"n": 47
+},
+{
+"n": 48,
+"topic": "Emerging Issues for Insurance Industry",
+"t": "Under IRDAI's 2024 health insurance master circular, the insurer must decide a cashless pre-authorisation request within:",
+"o": [
+"1 hour",
+"6 hours",
+"24 hours",
+"3 working days"
+],
+"a": 0,
+"e": "Pre-authorisation must be decided within one hour and final discharge authorisation within three hours of the hospital's request, failing which the insurer bears any delay cost."
+},
+{
+"n": 49,
+"topic": "Emerging Issues for Insurance Industry",
+"t": "The 'state insurance plan' concept adopted by IRDAI assigns:",
+"o": [
+"Each state's insurance regulation to the state government",
+"A lead insurer for each state/UT to coordinate awareness and penetration efforts with the state administration",
+"All rural business to LIC",
+"Reinsurance of state risks to GIC Re"
+],
+"a": 1,
+"e": "Modelled on the lead-bank scheme, lead insurers work with state governments to map protection gaps and drive penetration under the Insurance for All vision."
+},
+{
+"n": 50,
+"topic": "Emerging Issues for Insurance Industry",
+"t": "An insurer notices that the gig-economy workforce (delivery and ride-hailing workers) has no employer-provided cover. Which emerging-issue response is most consistent with the Code on Social Security, 2020 and market trends?",
+"o": [
+"Exclude gig workers as uninsurable",
+"Design platform-based group accident and health covers funded with aggregator contributions",
+"Insist on a traditional employer-employee certificate",
+"Offer only unit-linked plans"
+],
+"a": 1,
+"e": "The Code recognises gig and platform workers and provides for aggregator-funded social security, creating demand for embedded, short-duration group protection products."
+}
+]

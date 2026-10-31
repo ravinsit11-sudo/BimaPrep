@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Insurance Products and Product Design",
+"t": "A customer aged 35 wants a long-term savings contract with a guaranteed minimum maturity amount plus a share in the insurer's investment performance, with returns smoothed over time. Which product best meets this need?",
+"o": [
+"Participating endowment assurance",
+"Unit linked endowment",
+"Non-participating pure term plan",
+"Immediate annuity"
+],
+"a": 0,
+"e": "A participating endowment gives a guaranteed sum assured plus bonuses declared from smoothed surplus. A ULIP passes investment risk directly to the policyholder without smoothing, while term and annuity plans do not meet a savings need at age 35."
+},
+{
+"n": 2,
+"topic": "Insurance Products and Product Design",
+"t": "In a joint life last survivor policy taken by a husband and wife, the sum assured becomes payable:",
+"o": [
+"On the first death of either life",
+"On the death of the husband only",
+"Only if both die within one year of each other",
+"On the death of the second (surviving) life"
+],
+"a": 3,
+"e": "A last survivor contract pays on the second death. A joint life first death contract pays on the first death and usually terminates thereafter."
+},
+{
+"n": 3,
+"topic": "Product Development Process and Regulation",
+"t": "Under the IRDAI (Insurance Products) Regulations, 2024, individual life insurance products are generally launched under which procedure?",
+"o": [
+"Prior approval by the Insurance Advisory Committee",
+"Use and File",
+"File and Use only after a 90-day review",
+"Approval by the Life Insurance Council"
+],
+"a": 1,
+"e": "The 2024 Product Regulations extended the Use and File procedure to life products, allowing insurers to launch products after board-level Product Management Committee approval and filing with IRDAI, instead of waiting for prior approval."
+},
+{
+"n": 4,
+"topic": "Product Development Process and Regulation",
+"t": "Under the IRDAI (Protection of Policyholders' Interests, Operations and Allied Matters of Insurers) Regulations, 2024, the free look period available to a life insurance policyholder is:",
+"o": [
+"15 days from the date of issue, for all policies",
+"15 days, extended to 30 days only for electronic policies",
+"30 days from the date of receipt of the policy document",
+"45 days from the date of proposal"
+],
+"a": 2,
+"e": "The 2024 regulations extended the free look period to 30 days from receipt of the policy document for all policies, irrespective of the mode of sale. The earlier 15-day/30-day distinction no longer applies."
+},
+{
+"n": 5,
+"topic": "Product Development Process and Regulation",
+"t": "Under the IRDAI (Insurance Products) Regulations, 2024, for a non-linked savings product with regular premiums, the minimum death benefit at any time during the policy term must not be less than:",
+"o": [
+"10 times the annualised premium",
+"105% of the total premiums paid up to the date of death",
+"7 times the annualised premium for ages above 45",
+"The guaranteed surrender value"
+],
+"a": 1,
+"e": "The 2024 regulations prescribe a minimum death benefit of 105% of total premiums paid till death for non-single premium savings products. The earlier '10 times / 7 times annualised premium' rule was removed in the 2019 regulations."
+},
+{
+"n": 6,
+"topic": "Pricing Principles and Assumptions",
+"t": "When a pricing actuary adds a margin to the best estimate mortality assumption, the primary purpose is to:",
+"o": [
+"Increase the sales commission payable to agents",
+"Comply with the minimum premium prescribed by IRDAI",
+"Provide a cushion against the actual experience being worse than expected",
+"Reduce the reserve required under the valuation regulations"
+],
+"a": 2,
+"e": "Margins for adverse deviation protect the insurer against experience that is worse than the best estimate. They are a pricing prudence tool and do not affect commission, statutory minimums or valuation reserves directly."
+},
+{
+"n": 7,
+"topic": "Mortality and Morbidity",
+"t": "An insurer's experience shows 12 deaths over an exposure of 4,000 life-years in a block of business. The crude mortality rate is:",
+"o": [
+"0.0030",
+"0.0300",
+"0.0012",
+"0.0003"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). Crude rate = deaths / exposed to risk = 12 / 4,000 = 0.003. Exposure is measured in life-years, allowing for policies entering and leaving during the period.",
+"r": "key"
+},
+{
+"n": 8,
+"topic": "Pricing Principles and Assumptions",
+"t": "For a pure term assurance product, the single most critical pricing assumption is:",
+"o": [
+"Mortality",
+"Investment return",
+"Expense inflation",
+"Bonus rate"
+],
+"a": 0,
+"e": "Term assurance premiums are small relative to the sum assured, so profitability is dominated by the mortality (and, for lapse-supported designs, withdrawal) assumption. Investment return and inflation have minor effect; there are no bonuses."
+},
+{
+"n": 9,
+"topic": "Pricing Principles and Assumptions",
+"t": "The risk discount rate used in pricing a life insurance product represents:",
+"o": [
+"The yield on 10-year Government of India securities",
+"The rate at which the insurer credits interest to policyholders",
+"The rate used by IRDAI to compute the reduction in yield",
+"The return required by shareholders for the capital and risk they bear"
+],
+"a": 3,
+"e": "The risk discount rate is the shareholders' required rate of return, usually the risk-free rate plus a risk premium. It is used to discount future profits in profit testing and embedded value calculations."
+},
+{
+"n": 10,
+"topic": "Mortality and Morbidity",
+"t": "An insurer has 20,000 term assurance policyholders, each with a sum assured of ₹10 lakh, and assumes a mortality rate of 0.0025 for the year. The expected number of deaths and the expected claim outgo for the year are:",
+"o": [
+"25 deaths; ₹2.5 crore",
+"50 deaths; ₹5 crore",
+"100 deaths; ₹10 crore",
+"200 deaths; ₹20 crore"
+],
+"a": 1,
+"e": "Expected deaths = 20,000 × 0.0025 = 50. Expected claims = 50 × ₹10 lakh = ₹5 crore. This is the basic risk cost on which the risk premium is built."
+},
+{
+"n": 11,
+"topic": "Mortality and Morbidity",
+"t": "Mortality experienced in the first few years after a policy is underwritten is usually lighter than that of the general assured population. This phenomenon is called:",
+"o": [
+"Anti-selection",
+"Ultimate mortality",
+"Selection effect (select mortality)",
+"Mortality improvement"
+],
+"a": 2,
+"e": "Medical and financial underwriting screens out impaired lives, so recently accepted lives show lighter 'select' mortality which wears off over the select period, after which 'ultimate' rates apply."
+},
+{
+"n": 12,
+"topic": "Mortality and Morbidity",
+"t": "The standard mortality table published for Indian assured lives and referred to in IRDAI valuation and pricing practice is the:",
+"o": [
+"Indian Assured Lives Mortality (IALM) table",
+"LIC (1994-96) Ultimate table only",
+"Indian Individual Annuitants Mortality table",
+"UK A67-70 table"
+],
+"a": 0,
+"e": "The Indian Assured Lives Mortality (IALM) table, prepared from pooled experience of Indian insurers, is the standard base table for assured lives. The annuitant table (IIAM) is used for annuity business, and the older LIC 94-96 table has been superseded."
+},
+{
+"n": 13,
+"topic": "Mortality and Morbidity",
+"t": "A pricing actuary uses a base mortality rate of 0.004 at age 50 and assumes mortality improves at 2% per annum. The assumed mortality rate for age 50 after 5 years of improvement is approximately:",
+"o": [
+"0.00400",
+"0.00360",
+"0.00392",
+"0.00362"
+],
+"a": 3,
+"e": "q after 5 years = 0.004 × (0.98)^5 = 0.004 × 0.9039 = 0.003616, i.e. about 0.00362. Improvement compounds multiplicatively, so a simple deduction of 10% (0.00360) is slightly inaccurate."
+},
+{
+"n": 14,
+"topic": "Investment Return and Interest Rates",
+"t": "The present value of a benefit of ₹1,00,000 payable at the end of 3 years, using a valuation interest rate of 6% per annum, is approximately:",
+"o": [
+"₹82,000",
+"₹83,962",
+"₹86,000",
+"₹94,340"
+],
+"a": 1,
+"e": "PV = 1,00,000 / (1.06)^3 = 1,00,000 / 1.191016 = ₹83,962. Discounting for one year only would give ₹94,340, which is a common error."
+},
+{
+"n": 15,
+"topic": "Investment Return and Interest Rates",
+"t": "Investment (interest rate) risk to the insurer is greatest for which of the following products?",
+"o": [
+"One-year renewable group term assurance",
+"Unit linked endowment without guarantees",
+"Non-participating guaranteed-return savings plan with a 20-year term",
+"Participating endowment with bonuses declared annually"
+],
+"a": 2,
+"e": "A long-term non-par plan locks in a guaranteed return, so if yields fall the insurer bears the full shortfall. ULIPs pass investment risk to the policyholder, par plans absorb it through bonus rates, and one-year term has negligible investment content."
+},
+{
+"n": 16,
+"topic": "Experience Analysis and Monitoring",
+"t": "An insurer expected 1,000 lapses in a cohort during the year on its pricing basis, but observed 1,250. The lapse A/E ratio is:",
+"o": [
+"80%",
+"125%",
+"25%",
+"120%"
+],
+"a": 1,
+"e": "★ Key fact (repeated across the mocks of this paper). A/E = 1,250 / 1,000 = 125%. Lapses are worse than assumed; for a product that is not lapse-supported this reduces profitability and may require revision of the withdrawal assumption.",
+"r": "key"
+},
+{
+"n": 17,
+"topic": "Expenses, Commission and Inflation",
+"t": "A 10-year regular premium policy has an annual premium of ₹50,000. Commission is 30% in the first year and 5% in each renewal year. Total commission payable over the policy term if all premiums are paid is:",
+"o": [
+"₹15,000",
+"₹22,500",
+"₹30,000",
+"₹37,500"
+],
+"a": 3,
+"e": "First year: 30% × 50,000 = ₹15,000. Renewal: 5% × 50,000 × 9 years = ₹22,500. Total = ₹37,500. Note that commission is front-loaded, which drives the initial capital strain."
+},
+{
+"n": 18,
+"topic": "Expenses, Commission and Inflation",
+"t": "Which of the following expenses is most appropriately modelled as a fixed amount per policy rather than as a percentage of premium or sum assured?",
+"o": [
+"Agents' commission",
+"Cost of printing and despatching the policy document",
+"Medical examination fee that rises with sum assured",
+"Premium collection charges of a bank"
+],
+"a": 1,
+"e": "Policy issue, printing and administration costs are driven by the number of policies, so they are loaded as a per-policy amount. Commission and collection charges vary with premium, and medical costs vary with the sum assured."
+},
+{
+"n": 19,
+"topic": "Expenses, Commission and Inflation",
+"t": "Under the IRDAI (Expenses of Management of Insurers transacting Life Insurance Business) Regulations, 2023, if an insurer's actual expenses exceed the allowable limit, the excess must be:",
+"o": [
+"Charged to the participating policyholders' fund",
+"Carried forward and recovered from future premiums",
+"Borne by the shareholders (charged to the shareholders' account)",
+"Deducted from the Appointed Actuary's remuneration"
+],
+"a": 2,
+"e": "Expenses in excess of the permissible limit cannot be passed on to policyholders and must be charged to the shareholders' account. The regulations also require a board-approved policy on expenses."
+},
+{
+"n": 20,
+"topic": "Expenses, Commission and Inflation",
+"t": "Per-policy administration expense is ₹500 in the current year and is assumed to inflate at 5% per annum. The per-policy expense assumed for policy year 10 (i.e. after 9 years of inflation) is approximately:",
+"o": [
+"₹776",
+"₹814",
+"₹500",
+"₹750"
+],
+"a": 0,
+"e": "Expense in year 10 = 500 × (1.05)^9 = 500 × 1.5513 = ₹775.7, about ₹776. Using 10 years of inflation gives ₹814, which would be incorrect for year 10 since the first year is at today's cost."
+},
+{
+"n": 21,
+"topic": "Withdrawals and Persistency",
+"t": "A product is said to be 'lapse supported' when:",
+"o": [
+"Lapses increase the insurer's reserves",
+"Higher-than-expected lapses increase the profitability of the product",
+"Lapses are prohibited in the first five policy years",
+"The insurer pays a surrender value higher than the asset share"
+],
+"a": 1,
+"e": "In a lapse-supported product (for example level premium term assurance with no surrender value), the policyholder who lapses forfeits an asset share that is positive, so more lapses mean more profit. Such pricing is risky if lapses turn out lower than assumed."
+},
+{
+"n": 22,
+"topic": "Withdrawals and Persistency",
+"t": "An insurer issued 10,000 regular premium policies in a month. In the 13th month, 8,200 of these policies were in force and paying premium. The 13th-month persistency ratio (by count) is:",
+"o": [
+"18%",
+"78%",
+"82%",
+"88%"
+],
+"a": 2,
+"e": "Persistency = policies in force at 13th month / policies issued = 8,200 / 10,000 = 82%. The 13th-month ratio is the key early indicator monitored by IRDAI and insurers."
+},
+{
+"n": 23,
+"topic": "Withdrawals and Persistency",
+"t": "Under the IRDAI (Insurance Products) Regulations, 2024, for a non-linked savings product surrendered during the second policy year, the guaranteed surrender value is at least:",
+"o": [
+"Nil, since surrender value accrues only after three years' premiums",
+"50% of total premiums paid",
+"90% of total premiums paid",
+"30% of total premiums paid (excluding rider premiums, extra premiums and taxes)"
+],
+"a": 3,
+"e": "The GSV scale is 30% of premiums paid in the second year, 35% in the third year, 50% in years four to seven and 90% in the last two policy years. In addition, a special surrender value is payable after one full year's premium under the 2024 Master Circular."
+},
+{
+"n": 24,
+"topic": "Premium Calculation Methods",
+"t": "For an endowment assurance with sum assured ₹10,00,000, the pricing basis gives A(x:n) = 0.45 and ä(x:n) = 12.5. The net annual premium is:",
+"o": [
+"₹36,000",
+"₹45,000",
+"₹27,778",
+"₹56,250"
+],
+"a": 0,
+"e": "Net premium = SA × A / ä = 10,00,000 × 0.45 / 12.5 = ₹36,000. This covers benefits only and has no loading for expenses or profit."
+},
+{
+"n": 25,
+"topic": "Premium Calculation Methods",
+"t": "Using the data in the previous question (SA ₹10,00,000, A = 0.45, ä = 12.5), a per-policy renewal expense of ₹300 per annum is payable throughout, and 4% of each gross premium is loaded for other costs. The gross annual premium by the formula method is approximately:",
+"o": [
+"₹36,300",
+"₹37,500",
+"₹37,813",
+"₹39,000"
+],
+"a": 2,
+"e": "P × ä × (1 − 0.04) = SA × A + 300 × ä, so P × 12 = 4,50,000 + 3,750 = 4,53,750, giving P = ₹37,812.5. The percentage loading is applied to the premium annuity, not to the sum assured."
+},
+{
+"n": 26,
+"topic": "Premium Calculation Methods",
+"t": "Compared to the traditional formula (commutation function) method, the main advantage of the cash flow method of pricing is that it:",
+"o": [
+"Needs fewer assumptions",
+"Can explicitly allow for reserves, solvency capital, varying assumptions by year and the timing of profit",
+"Always produces a lower premium",
+"Is prescribed by IRDAI as the only permitted method"
+],
+"a": 1,
+"e": "The cash flow approach projects premiums, benefits, expenses, reserves and capital year by year, so it can model lapses, inflation, capital costs and emerging profit, which the formula method cannot. IRDAI does not prescribe the method."
+},
+{
+"n": 27,
+"topic": "Premium Calculation Methods",
+"t": "A 20-year term assurance for sum assured ₹50 lakh has A(1, x:n) = 0.02 and ä(x:n) = 8.0 on the pricing basis. The net annual premium is:",
+"o": [
+"₹1,00,000",
+"₹8,000",
+"₹10,000",
+"₹12,500"
+],
+"a": 3,
+"e": "Net annual premium = 50,00,000 × 0.02 / 8.0 = ₹12,500. ₹1,00,000 would be the net single premium (SA × A), not the annual premium."
+},
+{
+"n": 28,
+"topic": "Investment Return and Interest Rates",
+"t": "A single premium of ₹2,00,000 accumulates at 8% p.a. for 5 years. The accumulated amount is approximately:",
+"o": [
+"₹2,80,000",
+"₹2,93,866",
+"₹3,00,000",
+"₹2,72,000"
+],
+"a": 1,
+"e": "★ Key fact (repeated across the mocks of this paper). 2,00,000 × (1.08)^5 = 2,00,000 × 1.46933 = ₹2,93,866. Compound accumulation is the basis of guaranteed maturity values in non-par products.",
+"r": "key"
+},
+{
+"n": 29,
+"topic": "Profit Testing and Profit Criteria",
+"t": "A product's profit signature per policy is −₹120 at the start of year 1 and +₹50 at the end of each of years 1, 2 and 3. At a risk discount rate of 10%, the net present value of profit is approximately:",
+"o": [
+"−₹4.3",
+"+₹4.3",
+"+₹30.0",
+"+₹15.5"
+],
+"a": 1,
+"e": "NPV = −120 + 50 × (0.9091 + 0.8264 + 0.7513) = −120 + 50 × 2.4868 = −120 + 124.34 = +₹4.34. The product just meets the 10% hurdle."
+},
+{
+"n": 30,
+"topic": "Profit Testing and Profit Criteria",
+"t": "For a product, the present value of profits at the risk discount rate is ₹4,340 per policy and the present value of premiums at the same rate is ₹1,24,000. The profit margin is:",
+"o": [
+"3.5% of premiums",
+"2.5% of premiums",
+"28.6% of premiums",
+"4.3% of premiums"
+],
+"a": 0,
+"e": "Profit margin = PV of profits / PV of premiums = 4,340 / 1,24,000 = 0.035, i.e. 3.5%. It expresses profit as a proportion of premium income, which allows comparison across products of different size."
+},
+{
+"n": 31,
+"topic": "Profit Testing and Profit Criteria",
+"t": "The discounted payback period of a life insurance product is the:",
+"o": [
+"Year in which the annual profit first becomes positive",
+"Term of the policy divided by the IRR",
+"First policy year by the end of which the accumulated discounted profits become non-negative",
+"Year in which reserves exceed premiums"
+],
+"a": 2,
+"e": "Discounted payback (break-even) is the point at which the initial capital strain has been recovered on a discounted basis. The first year of positive annual profit is usually much earlier and does not indicate recovery of strain."
+},
+{
+"n": 32,
+"topic": "Profit Testing and Profit Criteria",
+"t": "Which of the following profit criteria depends on the volume (scale) of business rather than being a pure rate of return or ratio?",
+"o": [
+"Internal rate of return",
+"Profit margin as a percentage of premiums",
+"Discounted payback period",
+"Net present value of profits"
+],
+"a": 3,
+"e": "NPV is an absolute amount, so it rises with the number and size of policies sold. IRR, profit margin and payback period are scale-independent measures that can be compared across products."
+},
+{
+"n": 33,
+"topic": "Participating Business, Bonuses and Asset Shares",
+"t": "A participating endowment has a sum assured of ₹5,00,000. A compound reversionary bonus of 4% per annum is declared for two consecutive years. The total guaranteed benefit (sum assured plus accrued bonuses) after two years is:",
+"o": [
+"₹5,40,000",
+"₹5,40,800",
+"₹5,20,000",
+"₹5,41,600"
+],
+"a": 1,
+"e": "Compound bonus attaches to the sum assured plus previously declared bonuses: 5,00,000 × (1.04)^2 = ₹5,40,800. A simple reversionary bonus would give 5,00,000 + 2 × 20,000 = ₹5,40,000."
+},
+{
+"topic": "Intermediaries",
+"t": "The qualifying examination for an individual insurance agent conducted by the Insurance Institute of India is:",
+"o": [
+"IC-01",
+"IC-38",
+"IC-14",
+"IC-33"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). IC-38 is the agents' pre-recruitment examination; IC-01/02/11/14 are Licentiate papers.",
+"r": "core",
+"n": 34
+},
+{
+"n": 35,
+"topic": "Participating Business, Bonuses and Asset Shares",
+"t": "In the participating fund of an Indian life insurer, the maximum share of surplus that may be allocated to shareholders out of the surplus distributed to participating policyholders is:",
+"o": [
+"10%",
+"20%",
+"25%",
+"50%"
+],
+"a": 0,
+"e": "Under Section 49 of the Insurance Act 1938 and the IRDAI product regulations, the shareholders' share is limited to 10% of the surplus distributed to par policyholders (the 90:10 rule)."
+},
+{
+"n": 36,
+"topic": "Participating Business, Bonuses and Asset Shares",
+"t": "The 'asset share' of a with-profits policy is best described as:",
+"o": [
+"The guaranteed surrender value as per the policy schedule",
+"The statutory reserve held under the gross premium valuation method",
+"The accumulation of premiums received less expenses, claims costs and tax, at the actual investment return earned",
+"The market value of the units allocated to the policy"
+],
+"a": 2,
+"e": "Asset share is a retrospective accumulation on actual experience and is used to set bonuses and surrender values equitably. Statutory reserves and GSV are prospective or regulatory quantities, and units apply only to ULIPs."
+},
+{
+"n": 37,
+"topic": "Unit Linked, Non-Par and Annuity Products",
+"t": "A Type I unit linked policy has a sum at risk of ₹20,00,000 and the mortality charge rate for the policyholder's age is 0.0024 per annum. The monthly mortality charge deducted by cancellation of units is:",
+"o": [
+"₹4,800",
+"₹2,400",
+"₹200",
+"₹400"
+],
+"a": 3,
+"e": "Annual charge = 20,00,000 × 0.0024 = ₹4,800; monthly deduction = 4,800 / 12 = ₹400. In a Type I ULIP the sum at risk is sum assured minus fund value, so the charge falls as the fund grows."
+},
+{
+"n": 38,
+"topic": "Unit Linked, Non-Par and Annuity Products",
+"t": "The minimum lock-in period for a unit linked insurance policy, during which no surrender proceeds can be paid out, is:",
+"o": [
+"3 years",
+"5 years",
+"10 years",
+"1 year"
+],
+"a": 1,
+"e": "ULIPs carry a five-year lock-in. On discontinuance within this period the fund value, less the permitted discontinuance charge, is moved to the discontinued policy fund and paid out only after the lock-in ends."
+},
+{
+"n": 39,
+"topic": "Unit Linked, Non-Par and Annuity Products",
+"t": "Under the IRDAI (Insurance Products) Regulations, 2024, the minimum annuity amount an insurer may offer under an individual annuity product is:",
+"o": [
+"₹1,000 per month",
+"₹500 per month",
+"₹12,000 per annum with no monthly minimum",
+"₹3,000 per quarter"
+],
+"a": 0,
+"e": "The minimum annuity instalment is ₹1,000 per month (with corresponding amounts for other frequencies), except for specified cases such as NPS subscribers and certain group schemes where lower amounts are permitted."
+},
+{
+"n": 40,
+"topic": "Unit Linked, Non-Par and Annuity Products",
+"t": "An immediate annuity of ₹1,20,000 per annum (first payment one year from purchase) is priced using ä(65) = 11.2 on the pricing basis, with a loading of 2% of the pure premium for expenses and profit. The purchase price is approximately:",
+"o": [
+"₹13,44,000",
+"₹12,00,000",
+"₹13,70,880",
+"₹14,40,000"
+],
+"a": 2,
+"e": "Pure price = 1,20,000 × 11.2 = ₹13,44,000; with 2% loading = 13,44,000 × 1.02 = ₹13,70,880. The annuity factor already allows for mortality and interest."
+},
+{
+"n": 41,
+"topic": "Riders and Group Insurance",
+"t": "Under IRDAI product regulations, the premium for riders attached to a life insurance policy is restricted as follows:",
+"o": [
+"All rider premiums together may not exceed 10% of the base premium",
+"Health riders may not exceed 50% and other riders 20% of the base premium",
+"Rider premiums are unrestricted provided the rider is filed separately",
+"Premium for health-related riders may not exceed 100%, and for other riders 30%, of the base policy premium"
+],
+"a": 3,
+"e": "The regulations cap health rider premiums at 100% of the base premium and other (for example accident benefit) riders at 30%, so that the rider remains ancillary to the base policy."
+},
+{
+"n": 42,
+"topic": "Riders and Group Insurance",
+"t": "For a large group term assurance scheme renewed annually, insurers commonly set the renewal premium rate by:",
+"o": [
+"Applying the individual term assurance tariff to each member",
+"Experience rating, blending the group's own claims experience with the insurer's standard rates according to credibility",
+"Charging the same rate as the previous year irrespective of claims",
+"Using the IRDAI prescribed group tariff"
+],
+"a": 1,
+"e": "Experience rating uses the group's own claims history with a credibility weight that increases with group size. There is no IRDAI tariff, and individual rating is impractical for groups."
+},
+{
+"n": 43,
+"topic": "Reserving and Solvency",
+"t": "A life insurer has mathematical reserves of ₹2,000 crore and total sum at risk of ₹20,000 crore for its non-linked individual business. Applying the factors of 3% of reserves and 0.3% of sum at risk, the required solvency margin for this block is:",
+"o": [
+"₹120 crore",
+"₹60 crore",
+"₹66 crore",
+"₹600 crore"
+],
+"a": 0,
+"e": "RSM = 3% × 2,000 + 0.3% × 20,000 = 60 + 60 = ₹120 crore. Both factors apply together; the sum at risk factor captures mortality risk and the reserve factor captures investment and other risks."
+},
+{
+"n": 44,
+"topic": "Reserving and Solvency",
+"t": "An insurer's available solvency margin is ₹300 crore and its required solvency margin is ₹150 crore. Its solvency ratio is:",
+"o": [
+"50%",
+"150%",
+"200%",
+"250%"
+],
+"a": 2,
+"e": "Solvency ratio = ASM / RSM = 300 / 150 = 2.00, i.e. 200%, comfortably above the 150% control level."
+},
+{
+"topic": "Intermediaries",
+"t": "A corporate agent may tie up with a maximum of how many insurers in each line of business?",
+"o": [
+"3",
+"6",
+"9",
+"Unlimited"
+],
+"a": 2,
+"e": "★ Core fact (asked across III papers). Raised from 3 to 9 insurers per category (life, general, health) by the 2022 amendment to the Corporate Agents Regulations.",
+"r": "core",
+"n": 45
+},
+{
+"n": 46,
+"topic": "Reserving and Solvency",
+"t": "The control level of solvency prescribed by IRDAI, below which the regulator may initiate corrective action against a life insurer, is a solvency ratio of:",
+"o": [
+"100%",
+"110%",
+"125%",
+"150%"
+],
+"a": 3,
+"e": "IRDAI requires insurers to maintain a solvency ratio of at least 150% (available solvency margin of 1.5 times the required solvency margin) at all times."
+},
+{
+"n": 47,
+"topic": "Embedded Value",
+"t": "A life insurer reports adjusted net worth of ₹800 crore, present value of future profits from in-force business of ₹1,400 crore and a cost of capital of ₹200 crore. Its embedded value is:",
+"o": [
+"₹2,200 crore",
+"₹2,000 crore",
+"₹1,200 crore",
+"₹2,400 crore"
+],
+"a": 1,
+"e": "VIF = PVFP − cost of capital = 1,400 − 200 = ₹1,200 crore. EV = ANW + VIF = 800 + 1,200 = ₹2,000 crore. Cost of capital reduces VIF because capital locked in cannot be distributed."
+},
+{
+"n": 48,
+"topic": "Embedded Value",
+"t": "The 'value of in-force business' component of embedded value represents:",
+"o": [
+"The present value of future shareholder profits expected from policies already written, net of the cost of holding required capital",
+"The market value of all policyholder funds",
+"The sum of premiums expected from existing policies",
+"The goodwill attributable to future new business"
+],
+"a": 0,
+"e": "VIF captures future distributable profits from the existing book. It excludes any value of future new business, which belongs in appraisal value, and is not the policyholders' fund."
+},
+{
+"n": 49,
+"topic": "Reinsurance in Pricing",
+"t": "An insurer's retention limit under a surplus reinsurance treaty is ₹25 lakh per life. For a term policy with sum assured ₹1 crore, the amount reinsured is:",
+"o": [
+"₹25 lakh",
+"₹50 lakh",
+"₹75 lakh",
+"₹1 crore"
+],
+"a": 2,
+"e": "Under surplus reinsurance the insurer keeps its retention of ₹25 lakh and cedes the excess: 1,00,00,000 − 25,00,000 = ₹75 lakh (75% of the risk). The reinsurer's share of claims and premium follows this proportion."
+},
+{
+"n": 50,
+"topic": "Experience Analysis and Monitoring",
+"t": "In a mortality experience study, the actual number of deaths in a block of term policies was 46 against 40 expected on the pricing basis. The actual-to-expected (A/E) ratio is:",
+"o": [
+"87%",
+"106%",
+"110%",
+"115%"
+],
+"a": 3,
+"e": "A/E = 46 / 40 = 1.15, i.e. 115%. An A/E above 100% indicates experience worse than the pricing basis, prompting a review of the mortality assumption or underwriting."
+}
+]

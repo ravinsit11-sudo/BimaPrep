@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Introduction to Asset Management",
+"t": "The three classic criteria against which any investment made by an insurer is judged are:",
+"o": [
+"Safety, liquidity and return",
+"Commission, brand and size",
+"Tax, tenure and listing",
+"Coupon, rating and custodian"
+],
+"a": 0,
+"e": "Insurers evaluate investments on safety (security of capital), liquidity (ability to realise cash when needed) and yield (return), in that order of priority."
+},
+{
+"n": 2,
+"topic": "Asset Liability Management",
+"t": "An insurer with a positive duration gap (asset duration greater than liability duration) would benefit from:",
+"o": [
+"A rise in interest rates",
+"No change in interest rates",
+"A fall in interest rates",
+"A steepening of the yield curve only"
+],
+"a": 2,
+"e": "With assets more rate-sensitive than liabilities, falling rates raise assets more than liabilities, widening the surplus; rising rates would hurt."
+},
+{
+"n": 3,
+"topic": "Investment Alternatives",
+"t": "Which of the following is an advantage of investing in equity shares as compared with fixed-coupon bonds?",
+"o": [
+"A contractually fixed income every year",
+"Potential for capital appreciation and a hedge against inflation over the long run",
+"Priority over creditors in the event of winding up",
+"Freedom from price volatility"
+],
+"a": 1,
+"e": "Equity carries residual ownership rights and participates in growth, offering inflation protection over time; bonds give fixed income and rank ahead of equity on liquidation."
+},
+{
+"n": 4,
+"topic": "Investment Alternatives",
+"t": "Public Provident Fund, National Savings Certificates and Senior Citizens' Savings Scheme are examples of:",
+"o": [
+"Money market instruments issued by banks",
+"Exchange-traded derivatives",
+"Government-sponsored small savings instruments with sovereign backing",
+"Alternative investment funds regulated by SEBI"
+],
+"a": 2,
+"e": "These small savings schemes are offered by the Government of India through post offices and banks, with administered interest rates and sovereign backing."
+},
+{
+"n": 5,
+"topic": "Security Market Analysis",
+"t": "The term 'free-float market capitalisation' refers to:",
+"o": [
+"Market capitalisation computed only on shares readily available for trading, excluding promoter and locked-in holdings",
+"Total shares issued multiplied by the face value",
+"Market capitalisation including all shares held by promoters",
+"The value of shares traded on a single day"
+],
+"a": 0,
+"e": "Major Indian indices such as Nifty 50 and Sensex use free-float capitalisation so that stocks are weighted by their investable portion."
+},
+{
+"n": 6,
+"topic": "Security Market Analysis",
+"t": "Settlement of equity trades on Indian stock exchanges currently takes place on a:",
+"o": [
+"T+1 rolling settlement basis",
+"T+5 rolling settlement basis",
+"Weekly account period basis",
+"T+3 rolling settlement basis"
+],
+"a": 0,
+"e": "SEBI moved the Indian equity cash market fully to T+1 settlement in January 2023 (with an optional T+0 segment introduced later)."
+},
+{
+"n": 7,
+"topic": "Fundamental Analysis",
+"t": "A company has net profit of ₹240 crore and 60 crore equity shares outstanding. Its share trades at ₹120. The price-earnings (P/E) ratio is:",
+"o": [
+"4",
+"0.5",
+"20",
+"30"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). EPS = 240/60 = ₹4; P/E = Price/EPS = 120/4 = 30 times.",
+"r": "key"
+},
+{
+"n": 8,
+"topic": "Fundamental Analysis",
+"t": "Return on Equity (ROE) is computed as:",
+"o": [
+"Net profit divided by total assets",
+"Operating profit divided by sales",
+"Dividend divided by market price",
+"Net profit after tax divided by shareholders' equity"
+],
+"a": 3,
+"e": "ROE = PAT / Shareholders' funds, measuring the return generated on owners' capital; PAT/total assets is ROA."
+},
+{
+"n": 9,
+"topic": "Fundamental Analysis",
+"t": "A company has sales of ₹2,000 crore, net profit margin of 8% and total assets of ₹1,600 crore financed 50% by equity. Using the DuPont framework, its return on equity is:",
+"o": [
+"10%",
+"8%",
+"20%",
+"16%"
+],
+"a": 2,
+"e": "ROE = margin × asset turnover × leverage = 0.08 × (2,000/1,600) × (1,600/800) = 0.08 × 1.25 × 2 = 20%."
+},
+{
+"n": 10,
+"topic": "Technical Analysis",
+"t": "When a short-term moving average (e.g. 50-day) crosses above a long-term moving average (e.g. 200-day), technical analysts generally regard this as:",
+"o": [
+"A bearish signal (often called a death cross)",
+"A bullish signal (often called a golden cross)",
+"A signal that the company will cut its dividend",
+"Evidence that the market is strong-form efficient"
+],
+"a": 1,
+"e": "A golden cross suggests upward momentum; the reverse crossover (short-term falling below long-term) is a bearish death cross."
+},
+{
+"n": 11,
+"topic": "Technical Analysis",
+"t": "The Relative Strength Index (RSI) is an oscillator that ranges between 0 and 100; a reading above 70 is conventionally read as:",
+"o": [
+"Overbought, suggesting a possible price correction",
+"Oversold, suggesting a possible rebound",
+"A neutral market with no trend",
+"A buy signal in all circumstances"
+],
+"a": 0,
+"e": "RSI above 70 is taken as overbought and below 30 as oversold; these are indicative thresholds rather than guarantees."
+},
+{
+"n": 12,
+"topic": "Portfolio Management",
+"t": "Strategic asset allocation differs from tactical asset allocation in that strategic allocation:",
+"o": [
+"Changes weights daily in response to price movements",
+"Is used only by individual investors",
+"Applies only to the equity portion of the portfolio",
+"Sets long-term policy weights for asset classes based on objectives and risk tolerance, whereas tactical allocation makes short-term deviations to exploit market views"
+],
+"a": 3,
+"e": "Strategic allocation is the long-run policy mix; tactical allocation temporarily over- or under-weights classes relative to that policy."
+},
+{
+"n": 13,
+"topic": "Portfolio Management",
+"t": "A life insurer with long-dated participating liabilities and a strong solvency position is, other things equal, best placed to:",
+"o": [
+"Hold its entire portfolio in overnight money market instruments",
+"Avoid government securities entirely",
+"Invest only in instruments maturing within one year",
+"Hold a higher allocation to long-term bonds and some equity, given its long horizon and capacity to absorb volatility"
+],
+"a": 3,
+"e": "Long liabilities and surplus capital allow a longer investment horizon and some risk-taking; an all-cash or all-short portfolio would create a serious duration mismatch."
+},
+{
+"n": 14,
+"topic": "IRDAI Investment Regulations",
+"t": "The investment pattern applicable to a general insurer under the IRDAI Investment Regulations caps investments in 'other investments' at:",
+"o": [
+"25% of investment assets",
+"15% of investment assets",
+"35% of investment assets",
+"30% of investment assets"
+],
+"a": 1,
+"e": "General insurers may hold approved investments and other investments together up to 70%, with 'other investments' not exceeding 15% of investment assets."
+},
+{
+"n": 15,
+"topic": "IRDAI Investment Regulations",
+"t": "Which of the following must an insurer appoint under IRDAI investment norms for the safe keeping and settlement of its securities?",
+"o": [
+"A merchant banker",
+"A stock broker as sole custodian",
+"The Appointed Actuary",
+"A SEBI-registered custodian independent of the insurer's promoter group"
+],
+"a": 3,
+"e": "Insurers must hold securities in dematerialised form with an independent custodian; the custodian should not be a promoter-group entity."
+},
+{
+"n": 16,
+"topic": "IRDAI Investment Regulations",
+"t": "A life insurer with a life fund of ₹40,000 crore holds ₹9,000 crore in Central Government securities, ₹12,000 crore in State Government and other approved securities, ₹6,500 crore in housing and infrastructure, and the balance in approved and other investments. Which pattern requirement is breached?",
+"o": [
+"The 50% minimum in government and other approved securities",
+"The 25% minimum in Central Government securities, since ₹9,000 crore is only 22.5%",
+"The 15% minimum in housing and infrastructure",
+"No requirement is breached"
+],
+"a": 1,
+"e": "CGS = 9,000/40,000 = 22.5% < 25% (breach). Government plus approved = 21,000/40,000 = 52.5% ≥ 50% (ok). Housing/infra = 6,500/40,000 = 16.25% ≥ 15% (ok)."
+},
+{
+"n": 17,
+"topic": "Solvency and Prudential Norms",
+"t": "An insurer's Available Solvency Margin is ₹1,800 crore and its Required Solvency Margin is ₹1,000 crore. The solvency ratio is:",
+"o": [
+"55.6%",
+"80%",
+"180%",
+"1.8%"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). Solvency ratio = ASM / RSM = 1,800 / 1,000 = 1.80 or 180%, which is above the 150% control level.",
+"r": "key"
+},
+{
+"n": 18,
+"topic": "IRDAI Investment Regulations",
+"t": "Under IRDAI norms, the Investment Committee of an insurer is required to meet at least:",
+"o": [
+"Once a month",
+"Once a year",
+"Once every quarter",
+"Once every half year"
+],
+"a": 2,
+"e": "The Investment Committee must meet at least once a quarter to review investment policy implementation, risk management and compliance."
+},
+{
+"n": 19,
+"topic": "Solvency and Prudential Norms",
+"t": "Which section of the Insurance Act, 1938 requires every insurer to maintain an excess of the value of assets over liabilities (the solvency margin)?",
+"o": [
+"Section 64VA",
+"Section 27A",
+"Section 40B",
+"Section 2(9)"
+],
+"a": 0,
+"e": "Section 64VA deals with sufficiency of assets and the solvency margin; Section 27A deals with investment of life insurer's funds."
+},
+{
+"n": 20,
+"topic": "Solvency and Prudential Norms",
+"t": "IRDAI's Asset-Liability Management and stress testing requirements require life insurers to:",
+"o": [
+"Hold only cash to pass the stress test",
+"Discontinue the sale of participating policies",
+"Obtain a bank guarantee equal to their liabilities",
+"Project assets and liabilities under adverse scenarios and report the impact on solvency periodically"
+],
+"a": 3,
+"e": "Stress testing under ALM examines solvency under interest-rate, equity, lapse and mortality shocks; results are reported to IRDAI with the actuarial valuation."
+},
+{
+"n": 21,
+"topic": "Fixed Income and Money Market Instruments",
+"t": "A State Development Loan (SDL) is a:",
+"o": [
+"Loan given by banks to state-owned enterprises",
+"Short-term bill issued by the Central Government",
+"Bond issued by a municipal corporation",
+"Dated security issued by a State Government through RBI auctions"
+],
+"a": 3,
+"e": "SDLs are State Government market borrowings; they are 'approved securities' and carry a small yield spread over Central Government securities."
+},
+{
+"n": 22,
+"topic": "Fixed Income and Money Market Instruments",
+"t": "Which of the following is a feature of a floating rate bond?",
+"o": [
+"Its coupon is reset periodically with reference to a benchmark rate, so its price is less sensitive to interest rate changes",
+"It pays no coupon and is issued at a deep discount",
+"Its coupon is fixed for life but principal varies with inflation",
+"It can never be redeemed before maturity"
+],
+"a": 0,
+"e": "Floaters reset coupons (e.g. to T-bill yields plus a spread), keeping their price close to par; zero-coupon bonds are issued at a discount and inflation-indexed bonds adjust principal."
+},
+{
+"n": 23,
+"topic": "Fixed Income and Money Market Instruments",
+"t": "The call money market in India deals in borrowing and lending of funds for:",
+"o": [
+"7 to 14 days",
+"Overnight (one day)",
+"Three months to one year",
+"One to five years"
+],
+"a": 1,
+"e": "Call money is overnight inter-bank lending; notice money covers 2 to 14 days and term money exceeds 14 days."
+},
+{
+"n": 24,
+"topic": "Fixed Income and Money Market Instruments",
+"t": "A bond is 'callable' when:",
+"o": [
+"The holder can demand early redemption from the issuer",
+"The issuer has the right to redeem it before maturity at a pre-specified price",
+"It can be converted into equity shares at the holder's option",
+"It is listed on a stock exchange"
+],
+"a": 1,
+"e": "A call option benefits the issuer (typically exercised when rates fall); a put option gives the holder the right to demand early redemption."
+},
+{
+"n": 25,
+"topic": "Risk and Return",
+"t": "The standard deviation of returns is a measure of:",
+"o": [
+"The average return earned over the period",
+"The correlation between two securities",
+"The sensitivity of return to the market",
+"The dispersion of actual returns around the expected return"
+],
+"a": 3,
+"e": "Standard deviation (square root of variance) quantifies total risk as the spread of outcomes around the mean."
+},
+{
+"n": 26,
+"topic": "Risk and Return",
+"t": "Annual returns on a security over three years were 10%, −4% and 15%. The arithmetic mean return is:",
+"o": [
+"6.6%",
+"10.33%",
+"7%",
+"21%"
+],
+"a": 2,
+"e": "Arithmetic mean = (10 − 4 + 15)/3 = 21/3 = 7%. The geometric mean would be slightly lower, about 6.6%."
+},
+{
+"n": 27,
+"topic": "Risk and Return",
+"t": "An investor who demands a higher expected return for taking on additional risk is described as:",
+"o": [
+"Risk averse",
+"Risk neutral",
+"Risk seeking",
+"Risk indifferent"
+],
+"a": 0,
+"e": "Risk-averse investors require compensation (a risk premium) for bearing risk; risk-neutral investors care only about expected return."
+},
+{
+"n": 28,
+"topic": "Portfolio Theory and CAPM",
+"t": "The efficient frontier in Markowitz portfolio theory consists of portfolios that:",
+"o": [
+"Contain only government securities",
+"Offer the highest expected return for each level of risk (or lowest risk for each level of return)",
+"Have zero correlation with the market",
+"Offer the highest return irrespective of risk"
+],
+"a": 1,
+"e": "Efficient portfolios dominate all others in the risk-return space; a rational investor chooses from this frontier according to risk tolerance."
+},
+{
+"n": 29,
+"topic": "Performance Measurement",
+"t": "A fund earned 14% over the year with a standard deviation of 10%; the risk-free rate was 6%. Its Sharpe ratio is:",
+"o": [
+"1.40",
+"0.60",
+"0.80",
+"1.25"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). Sharpe ratio = (Rp − Rf)/σp = (14 − 6)/10 = 0.80. It measures excess return per unit of total risk.",
+"r": "key"
+},
+{
+"n": 30,
+"topic": "Portfolio Theory and CAPM",
+"t": "The Capital Market Line (CML) differs from the Security Market Line (SML) in that the CML:",
+"o": [
+"Plots expected return against beta for all securities",
+"Is downward sloping",
+"Plots expected return against total risk (standard deviation) for efficient portfolios only",
+"Applies only to risk-free securities"
+],
+"a": 2,
+"e": "The CML relates return to standard deviation for combinations of the risk-free asset and the market portfolio; the SML relates return to beta for any asset."
+},
+{
+"n": 31,
+"topic": "Portfolio Theory and CAPM",
+"t": "The market risk premium under CAPM is:",
+"o": [
+"Risk-free rate minus inflation",
+"Expected market return minus the risk-free rate",
+"Beta multiplied by the risk-free rate",
+"The dividend yield of the market index"
+],
+"a": 1,
+"e": "Market risk premium = E(Rm) − Rf, the extra return investors require for holding the market portfolio rather than the risk-free asset."
+},
+{
+"n": 32,
+"topic": "Performance Measurement",
+"t": "Portfolio P returned 15% with beta 1.5 and Portfolio Q returned 12% with beta 0.8; the risk-free rate is 6%. Based on the Treynor ratio, which portfolio performed better?",
+"o": [
+"P, with a Treynor ratio of 6.0 versus 7.5 for Q",
+"Both performed equally",
+"Q, with a Treynor ratio of 7.5 versus 6.0 for P",
+"P, because its absolute return is higher"
+],
+"a": 2,
+"e": "Treynor = (Rp − Rf)/β: P = (15 − 6)/1.5 = 6.0; Q = (12 − 6)/0.8 = 7.5. Q delivered more excess return per unit of systematic risk."
+},
+{
+"n": 33,
+"topic": "Performance Measurement",
+"t": "The time-weighted rate of return is preferred over the money-weighted (IRR) return for evaluating a fund manager because it:",
+"o": [
+"Gives more weight to periods with larger investments",
+"Is easier to compute for a single lump-sum investment",
+"Eliminates the effect of the timing and size of cash inflows and outflows, which the manager does not control",
+"Always produces a higher return figure"
+],
+"a": 2,
+"e": "TWRR chains sub-period returns so that investor-driven cash flows do not distort the measure of the manager's skill."
+},
+{
+"n": 34,
+"topic": "Equity Management",
+"t": "The earnings yield of a share is:",
+"o": [
+"Dividend divided by market price",
+"Market price divided by EPS",
+"EPS divided by market price, i.e. the reciprocal of the P/E ratio",
+"Net profit divided by book value"
+],
+"a": 2,
+"e": "Earnings yield = EPS/Price = 1/(P/E); it is often compared with bond yields to judge relative valuation."
+},
+{
+"n": 35,
+"topic": "Equity Management",
+"t": "A company's equity shares trade at ₹480 with a dividend of ₹12 per share and EPS of ₹40. The dividend payout ratio is:",
+"o": [
+"2.5%",
+"30%",
+"8.33%",
+"12%"
+],
+"a": 1,
+"e": "Payout ratio = DPS/EPS = 12/40 = 30%. Dividend yield would be 12/480 = 2.5%."
+},
+{
+"n": 36,
+"topic": "Mutual Funds",
+"t": "In India, mutual funds are regulated by SEBI under the:",
+"o": [
+"Companies Act, 2013",
+"Insurance Act, 1938",
+"Banking Regulation Act, 1949",
+"SEBI (Mutual Funds) Regulations, 1996"
+],
+"a": 3,
+"e": "The SEBI (Mutual Funds) Regulations, 1996 govern the sponsor, trustee, AMC and scheme structure of Indian mutual funds."
+},
+{
+"n": 37,
+"topic": "Mutual Funds",
+"t": "A mutual fund scheme has total assets of ₹520 crore, liabilities of ₹20 crore and 25 crore units outstanding. Its NAV per unit is:",
+"o": [
+"₹20.80",
+"₹25.00",
+"₹20.00",
+"₹19.23"
+],
+"a": 2,
+"e": "NAV = (520 − 20)/25 = 500/25 = ₹20.00 per unit."
+},
+{
+"topic": "Principles",
+"t": "In a life insurance contract, insurable interest must exist:",
+"o": [
+"At the time of the claim only",
+"At inception of the policy",
+"Both at inception and at claim",
+"At renewal each year"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). Life: at inception only. Marine: at the time of loss. Fire and motor: at both inception and loss.",
+"r": "core",
+"n": 38
+},
+{
+"n": 39,
+"topic": "Derivatives",
+"t": "A put option with a strike price of ₹300 is held when the underlying share trades at ₹320. The option is:",
+"o": [
+"In the money",
+"At the money",
+"Deep in the money",
+"Out of the money"
+],
+"a": 3,
+"e": "A put is in the money only when the strike exceeds the spot; here spot (320) is above strike (300), so the put has no intrinsic value."
+},
+{
+"n": 40,
+"topic": "Derivatives",
+"t": "Under IRDAI's guidelines on credit default swaps (CDS), insurers are permitted to participate in the CDS market only as:",
+"o": [
+"Protection buyers, to hedge credit risk on corporate bonds they hold",
+"Protection sellers, to earn premium income",
+"Market makers for CDS contracts",
+"Both buyers and sellers without restriction"
+],
+"a": 0,
+"e": "IRDAI allows insurers to buy credit protection on bonds in their portfolio; selling protection (taking on credit risk) is not permitted."
+},
+{
+"n": 41,
+"topic": "Derivatives",
+"t": "The initial amount deposited with the exchange when a futures position is opened is called:",
+"o": [
+"Initial margin",
+"Maintenance margin",
+"Variation margin",
+"Option premium"
+],
+"a": 0,
+"e": "Initial margin is the up-front deposit; maintenance margin is the minimum balance and variation margin is the daily top-up when losses reduce the balance."
+},
+{
+"n": 42,
+"topic": "Valuation of Securities",
+"t": "A 3-year bond of face value ₹1,000 with a 10% annual coupon is priced when the market yield is 8%. Its price is approximately:",
+"o": [
+"₹1,051.54",
+"₹948.46",
+"₹1,000.00",
+"₹1,100.00"
+],
+"a": 0,
+"e": "Price = 100/1.08 + 100/1.08^2 + 1,100/1.08^3 = 92.59 + 85.73 + 873.22 = ₹1,051.54, a premium because coupon exceeds yield."
+},
+{
+"n": 43,
+"topic": "Valuation of Securities",
+"t": "Approximate yield to maturity of a bond can be estimated as:",
+"o": [
+"[Coupon + (Face value − Price)/Years to maturity] / [(Face value + Price)/2]",
+"Coupon / Face value",
+"(Face value − Price) / Coupon",
+"Coupon × Years to maturity / Price"
+],
+"a": 0,
+"e": "The approximation adds the annualised capital gain (or loss) to the coupon and divides by the average of face value and price."
+},
+{
+"n": 44,
+"topic": "Valuation of Securities",
+"t": "Under IRDAI valuation norms, investments in real estate (property) held by an insurer are valued at:",
+"o": [
+"Market value determined daily",
+"Historical cost less accumulated depreciation and impairment, with a revaluation at least once in three years",
+"Face value of the title deed",
+"Rental income capitalised at the bank rate"
+],
+"a": 1,
+"e": "Investment property is carried at cost less depreciation and revalued at least once every three years; the revaluation change goes to the revaluation reserve."
+},
+{
+"n": 45,
+"topic": "ULIP Fund Management and NAV",
+"t": "Which of the following best describes the 'discontinued policy fund' under IRDAI's ULIP regulations?",
+"o": [
+"A segregated fund into which the fund value of policies discontinued during the lock-in period is transferred, earning a minimum guaranteed return",
+"A fund that invests only in equities to maximise returns",
+"The insurer's shareholders' fund",
+"A fund used to pay agents' commissions"
+],
+"a": 0,
+"e": "On discontinuance within the lock-in, the fund value (less discontinuance charge) is moved to the discontinued policy fund, which must earn at least the minimum rate prescribed by IRDAI."
+},
+{
+"n": 46,
+"topic": "ULIP Fund Management and NAV",
+"t": "A ULIP policyholder switches ₹60,000 from a debt fund (NAV ₹18.00) to an equity fund (NAV ₹30.00) with no switching charge. Units cancelled in the debt fund and units created in the equity fund are respectively:",
+"o": [
+"2,000 and 3,333.33",
+"3,333.33 and 2,000",
+"3,333.33 and 3,333.33",
+"2,000 and 2,000"
+],
+"a": 1,
+"e": "Debt units cancelled = 60,000/18 = 3,333.33; equity units created = 60,000/30 = 2,000."
+},
+{
+"topic": "Principles",
+"t": "Non-disclosure of a material fact by the proposer makes the contract:",
+"o": [
+"Void ab initio",
+"Voidable at the option of the insurer",
+"Illegal",
+"Automatically continued on revised terms"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). Breach of utmost good faith renders the contract voidable, not void; the insurer may elect to avoid it (subject to Section 45 for life).",
+"r": "core",
+"n": 47
+},
+{
+"n": 48,
+"topic": "ULIP Fund Management and NAV",
+"t": "Under IRDAI's unit-linked regulations, premiums received by the insurer up to the cut-off time of 3.00 p.m. on a business day are allotted units at:",
+"o": [
+"The closing NAV of the next business day",
+"The NAV of the previous business day",
+"The NAV prevailing at the time of receipt",
+"The closing NAV of the same day"
+],
+"a": 3,
+"e": "Requests received before 3.00 p.m. get the same day's closing NAV; those received later get the next business day's NAV."
+},
+{
+"n": 49,
+"topic": "Forex and International Investments",
+"t": "An Indian investor buying US Treasury bonds would be exposed to which additional risk compared with buying Indian G-secs?",
+"o": [
+"Higher default risk of the US government",
+"Exchange rate risk on conversion of dollar receipts to rupees",
+"Lack of any secondary market",
+"Daily mark-to-market margin calls"
+],
+"a": 1,
+"e": "Foreign bonds add currency risk; US Treasuries are highly liquid and regarded as free of default risk."
+},
+{
+"n": 50,
+"topic": "Forex and International Investments",
+"t": "Interest rate parity implies that the currency of the country with the higher interest rate will:",
+"o": [
+"Trade at a forward premium against the lower-interest currency",
+"Have the same forward and spot rates",
+"Trade at a forward discount against the lower-interest currency",
+"Appreciate in the spot market immediately"
+],
+"a": 2,
+"e": "Under covered interest parity, the forward rate offsets the interest differential, so the high-interest currency is at a forward discount (e.g. the rupee against the dollar)."
+}
+]

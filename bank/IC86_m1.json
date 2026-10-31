@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Introduction to Risk and Risk Management",
+"t": "Which of the following is an example of a 'fundamental risk'?",
+"o": [
+"A fire in a single textile godown",
+"Theft of a car from a residential parking lot",
+"Widespread unemployment following an economic recession",
+"A product liability claim against one manufacturer"
+],
+"a": 2,
+"e": "Fundamental risks are impersonal in origin and affect large groups or society as a whole (recession, war, famine); the other options are particular risks affecting individuals or single firms."
+},
+{
+"n": 2,
+"topic": "Introduction to Risk and Risk Management",
+"t": "A chemical plant decides to spend ₹40 lakh annually on a risk management department. The primary 'post-loss' objective of risk management that this spend seeks to support is:",
+"o": [
+"Reduction of anxiety for the management",
+"Survival of the organisation and continuity of operations after a loss",
+"Meeting statutory obligations before any loss occurs",
+"Economy in the cost of handling risk"
+],
+"a": 1,
+"e": "Post-loss objectives relate to what the firm wants after a loss occurs - survival, continuity, earnings stability and social responsibility; economy, anxiety reduction and legal compliance are pre-loss objectives."
+},
+{
+"n": 3,
+"topic": "Risk Identification",
+"t": "The HAZOP technique used for identifying hazards in process plants is based on:",
+"o": [
+"Systematic application of guide words such as 'more', 'less', 'none' to process parameters",
+"Reviewing past claim statistics of the industry",
+"Interviewing a panel of experts anonymously in rounds",
+"Comparing the plant's balance sheet with industry averages"
+],
+"a": 0,
+"e": "HAZOP (Hazard and Operability Study) applies guide words to each process parameter (flow, temperature, pressure) to find deviations and their consequences; anonymous expert rounds describe the Delphi method."
+},
+{
+"n": 4,
+"topic": "Risk Identification",
+"t": "A risk manager reviews the fixed-asset register of a company to identify property exposed to loss. Which identification tool is being used?",
+"o": [
+"Physical inspection",
+"Analysis of financial statements and records",
+"Hazard and operability study",
+"Fault tree analysis"
+],
+"a": 1,
+"e": "Financial statements and accounting records (asset registers, income statements) reveal assets, liabilities and income streams that may be exposed; physical inspection is an on-site survey, not a document review."
+},
+{
+"n": 5,
+"topic": "Risk Identification",
+"t": "Which statement about a risk register is INCORRECT?",
+"o": [
+"It is a one-time document prepared at the start of a project and not updated thereafter",
+"It helps management prioritise risks for treatment",
+"It usually indicates the controls in place and the residual risk",
+"It records identified risks along with their owners and assessment ratings"
+],
+"a": 0,
+"e": "A risk register is a living document that must be reviewed and updated regularly as risks and controls change; the other statements correctly describe its contents and purpose."
+},
+{
+"n": 6,
+"topic": "Risk Identification",
+"t": "A manufacturer in Pune depends on a single supplier in Gujarat for a critical component. The risk manager classifies this exposure primarily as:",
+"o": [
+"A direct property loss exposure",
+"A liability loss exposure",
+"A personnel loss exposure",
+"A contingent (dependent) business interruption exposure"
+],
+"a": 3,
+"e": "Loss at a key supplier's premises can halt the firm's own production even though the firm suffers no physical damage - this is a contingent or dependent business interruption exposure."
+},
+{
+"n": 7,
+"topic": "Risk Analysis and Evaluation",
+"t": "A factory experiences, on average, 4 small fires per year with an average loss of ₹2.5 lakh each. The expected annual loss from this exposure is:",
+"o": [
+"₹2.5 lakh",
+"₹40 lakh",
+"₹6.25 lakh",
+"₹10 lakh"
+],
+"a": 3,
+"e": "Expected loss = frequency x average severity = 4 x ₹2.5 lakh = ₹10 lakh per year."
+},
+{
+"n": 8,
+"topic": "Risk Analysis and Evaluation",
+"t": "The term 'Maximum Possible Loss' (MPL) in risk analysis refers to:",
+"o": [
+"The worst loss that could occur if all loss-control measures fail and conditions are most adverse",
+"The loss expected under normal operating conditions in an average year",
+"The loss expected when fire-fighting arrangements work as planned",
+"The average of the ten largest losses in the past decade"
+],
+"a": 0,
+"e": "MPL assumes the worst-case scenario with protection systems failing; Estimated Maximum Loss (EML) or Probable Maximum Loss (PML) assumes protection systems function normally."
+},
+{
+"n": 9,
+"topic": "Risk Analysis and Evaluation",
+"t": "Which pair of parameters forms the basis of a conventional risk matrix (heat map)?",
+"o": [
+"Cost and benefit",
+"Retention and transfer",
+"Inherent risk and risk appetite",
+"Likelihood (frequency) and impact (severity)"
+],
+"a": 3,
+"e": "A risk matrix plots each risk by its probability of occurrence against the magnitude of its consequence, enabling prioritisation; the other pairs are not the axes of a heat map."
+},
+{
+"n": 10,
+"topic": "Risk Analysis and Evaluation",
+"t": "In Failure Mode and Effects Analysis (FMEA), a failure mode has Severity 8, Occurrence 5 and Detection 3 on 1-10 scales. The Risk Priority Number (RPN) is:",
+"o": [
+"120",
+"40",
+"16",
+"200"
+],
+"a": 0,
+"e": "RPN = Severity x Occurrence x Detection = 8 x 5 x 3 = 120; higher RPNs are addressed first."
+},
+{
+"n": 11,
+"topic": "Financial and Operational Risk Management",
+"t": "A bond portfolio has a modified duration of 6. If interest rates rise by 1%, the approximate change in the portfolio's value is:",
+"o": [
+"A rise of 6%",
+"A fall of 1%",
+"A fall of 6%",
+"No change"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). Price change is approximately -modified duration x change in yield = -6 x 1% = -6%; bond prices move inversely to interest rates.",
+"r": "key"
+},
+{
+"n": 12,
+"topic": "Risk Analysis and Evaluation",
+"t": "Which of the following statements about risk evaluation using the Prouty approach is correct?",
+"o": [
+"Risks that are high in frequency and high in severity should be retained",
+"Risks that are low in frequency and high in severity are best handled by insurance or other transfer",
+"Risks that are high in frequency and low in severity should always be insured",
+"Risks that are low in frequency and low in severity should be avoided"
+],
+"a": 1,
+"e": "The Prouty matrix suggests: high frequency/high severity - avoid; low frequency/high severity - transfer (insure); high frequency/low severity - retain with loss control; low frequency/low severity - retain."
+},
+{
+"n": 13,
+"topic": "Risk Control",
+"t": "Installing automatic sprinkler systems in a warehouse is an example of which risk control technique?",
+"o": [
+"Loss prevention",
+"Loss reduction",
+"Risk avoidance",
+"Non-insurance transfer"
+],
+"a": 1,
+"e": "Sprinklers do not prevent a fire from starting but limit its severity once it occurs, which is loss reduction; loss prevention measures (e.g. banning smoking) reduce the frequency of loss."
+},
+{
+"n": 14,
+"topic": "Risk Control",
+"t": "Heinrich's domino theory of accident causation emphasises that:",
+"o": [
+"Accidents are purely random events that cannot be prevented",
+"Accidents occur mainly due to catastrophic natural perils",
+"Only engineering controls can prevent accidents",
+"Removing one factor (such as an unsafe act) from the chain can prevent the injury"
+],
+"a": 3,
+"e": "Heinrich modelled accidents as a sequence of five dominoes; removing the middle domino (unsafe act/condition) breaks the chain and prevents the accident."
+},
+{
+"n": 15,
+"topic": "Risk Control",
+"t": "A company stores duplicate copies of its critical records at a separate location in another city. This risk control technique is known as:",
+"o": [
+"Separation",
+"Duplication",
+"Combination",
+"Avoidance"
+],
+"a": 1,
+"e": "Duplication involves maintaining backups or spares kept in reserve for use only when the primary asset is lost; separation divides assets that are all in active use across locations."
+},
+{
+"n": 16,
+"topic": "Risk Identification",
+"t": "A general insurer identifies that 40% of its motor premium comes from one large fleet client. This is an example of:",
+"o": [
+"Concentration risk",
+"Legal hazard",
+"Morale hazard",
+"Static risk"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). Dependence on one client, region, line or counterparty creates concentration risk, which should be flagged in the risk register and managed through diversification.",
+"r": "key"
+},
+{
+"n": 17,
+"topic": "Risk Control",
+"t": "A construction company includes a hold-harmless clause in its contracts requiring sub-contractors to bear liability for injuries on site. This is an example of:",
+"o": [
+"Loss prevention",
+"Non-insurance (contractual) transfer of risk",
+"Risk retention",
+"Risk avoidance"
+],
+"a": 1,
+"e": "Hold-harmless and indemnity clauses shift the financial consequences of a loss to another party by contract without using insurance; this is non-insurance risk transfer."
+},
+{
+"n": 18,
+"topic": "Risk Control",
+"t": "Which of the following statements about risk avoidance is INCORRECT?",
+"o": [
+"It is not feasible for risks inherent to the core business",
+"It may result in loss of the potential benefits of the activity",
+"It eliminates the chance of loss from the avoided activity entirely",
+"It is always the most economical risk control technique"
+],
+"a": 3,
+"e": "Avoidance eliminates the exposure but also forgoes the related income or benefit, so it is not always economical; it cannot be applied to risks that are inseparable from the main business."
+},
+{
+"n": 19,
+"topic": "Risk Financing and Alternative Risk Transfer",
+"t": "A firm decides to bear losses up to ₹5 lakh per event itself and insures amounts above this. The ₹5 lakh figure represents:",
+"o": [
+"A franchise",
+"A deductible (retention)",
+"A co-insurance share",
+"An excess of loss reinsurance limit"
+],
+"a": 1,
+"e": "A deductible is the portion of each loss retained by the insured before the insurer pays; a franchise pays the full loss once a threshold is crossed."
+},
+{
+"n": 20,
+"topic": "Risk Financing and Alternative Risk Transfer",
+"t": "A 'pure' or 'single-parent' captive insurance company is one that:",
+"o": [
+"Is owned by several unrelated companies in the same industry",
+"Rents its capital to third parties for a fee",
+"Is a mutual insurer owned by its policyholders",
+"Is owned by one parent and insures mainly the risks of that parent and its subsidiaries"
+],
+"a": 3,
+"e": "A single-parent captive is wholly owned by one organisation and underwrites principally the owner's risks; group captives are owned by several members and rent-a-captives lease capacity."
+},
+{
+"n": 21,
+"topic": "Risk Financing and Alternative Risk Transfer",
+"t": "A catastrophe bond issued through a special purpose vehicle provides that investors lose principal if an earthquake of magnitude 7.0 or more occurs within a defined zone, regardless of the sponsor's actual loss. This type of trigger is called:",
+"o": [
+"Indemnity trigger",
+"Modelled-loss trigger",
+"Parametric trigger",
+"Industry index trigger"
+],
+"a": 2,
+"e": "A parametric trigger is based on measured physical parameters of the event, not on actual losses; indemnity triggers depend on the sponsor's own losses and index triggers on industry-wide losses."
+},
+{
+"n": 22,
+"topic": "Risk Financing and Alternative Risk Transfer",
+"t": "A company has a choice: pay an annual insurance premium of ₹12 lakh, or self-insure a risk whose expected annual loss is ₹8 lakh with administrative costs of ₹1.5 lakh and an estimated cost of extra risk-bearing capital of ₹1 lakh. Ignoring tax, the annual saving from self-insurance is:",
+"o": [
+"₹1.5 lakh",
+"₹2.5 lakh",
+"₹4 lakh",
+"₹10.5 lakh"
+],
+"a": 0,
+"e": "Cost of self-insurance = ₹8 + 1.5 + 1 = ₹10.5 lakh; saving = ₹12 - 10.5 = ₹1.5 lakh, though the firm must also bear the volatility of actual losses around the expected value."
+},
+{
+"n": 23,
+"topic": "Risk Financing and Alternative Risk Transfer",
+"t": "Which of the following is a characteristic of 'finite risk' insurance?",
+"o": [
+"Limited risk transfer with emphasis on the time value of money and multi-year spreading of losses",
+"Premium that is entirely refunded irrespective of losses",
+"Coverage only of catastrophe losses above an industry index",
+"Unlimited transfer of underwriting risk to the insurer"
+],
+"a": 0,
+"e": "Finite risk programmes transfer a limited amount of underwriting risk, spread losses over a multi-year term and explicitly recognise investment income on the premiums paid."
+},
+{
+"n": 24,
+"topic": "Enterprise Risk Management, ISO 31000 and COSO",
+"t": "ISO 31000:2018 defines risk as:",
+"o": [
+"The chance of a loss occurring",
+"The combination of hazard and exposure",
+"The effect of uncertainty on objectives",
+"The variability of actual from expected outcomes"
+],
+"a": 2,
+"e": "ISO 31000 defines risk as 'effect of uncertainty on objectives', where the effect may be positive or negative; the other definitions are traditional loss-oriented definitions."
+},
+{
+"n": 25,
+"topic": "Enterprise Risk Management, ISO 31000 and COSO",
+"t": "In the 'three lines of defence' model, internal audit forms the:",
+"o": [
+"First line, as it operates controls day-to-day",
+"Fourth line, reporting to external regulators",
+"Second line, as it designs the risk framework",
+"Third line, providing independent assurance to the board"
+],
+"a": 3,
+"e": "Operational management is the first line, risk management and compliance functions the second, and internal audit the third line providing independent assurance."
+},
+{
+"n": 26,
+"topic": "Enterprise Risk Management, ISO 31000 and COSO",
+"t": "The COSO ERM Framework of 2017, 'Enterprise Risk Management - Integrating with Strategy and Performance', is structured around:",
+"o": [
+"Three pillars of capital, supervision and disclosure",
+"Eight components arranged as a cube",
+"Five interrelated components and twenty principles",
+"Eleven principles and a plan-do-check-act cycle"
+],
+"a": 2,
+"e": "COSO ERM 2017 has five components (Governance & Culture; Strategy & Objective-Setting; Performance; Review & Revision; Information, Communication & Reporting) with 20 principles; the eight-component cube was the 2004 framework."
+},
+{
+"n": 27,
+"topic": "Enterprise Risk Management, ISO 31000 and COSO",
+"t": "Which of the following statements regarding 'risk appetite' is correct?",
+"o": [
+"It is the maximum loss an organisation can absorb before becoming insolvent",
+"It is set by the internal auditor independently of the board",
+"It is the amount and type of risk an organisation is willing to pursue or retain in pursuit of its objectives",
+"It is the same as risk capacity"
+],
+"a": 2,
+"e": "Risk appetite is a board-approved statement of the risk the organisation is willing to accept; risk capacity is the maximum it can bear before insolvency, and tolerance is the acceptable variation around objectives."
+},
+{
+"n": 28,
+"topic": "Business Continuity Management",
+"t": "During a Business Impact Analysis, a process is found to cause a loss of ₹25 lakh per day if stopped, and management fixes its RTO at 2 days. The potential loss the plan is designed to cap at the RTO is:",
+"o": [
+"₹50 lakh",
+"₹25 lakh",
+"₹12.5 lakh",
+"₹75 lakh"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). Loss at RTO = ₹25 lakh per day x 2 days = ₹50 lakh; a shorter RTO would reduce the loss but increase the cost of recovery arrangements.",
+"r": "key"
+},
+{
+"n": 29,
+"topic": "Enterprise Risk Management, ISO 31000 and COSO",
+"t": "A listed Indian company's board approves a policy that no single business line may contribute more than 30% of group revenue, to limit concentration risk. In ERM terms this is an example of:",
+"o": [
+"A key risk indicator",
+"A risk tolerance limit",
+"A residual risk score",
+"A risk register entry"
+],
+"a": 1,
+"e": "A quantitative boundary expressing the acceptable level of a specific risk is a risk tolerance limit; a KRI is a metric monitored to give early warning rather than a limit itself."
+},
+{
+"n": 30,
+"topic": "Financial and Operational Risk Management",
+"t": "An Indian exporter expecting USD receipts in three months sells US dollars forward to a bank at a fixed rate. This is an example of managing:",
+"o": [
+"Foreign exchange (currency) risk",
+"Credit risk",
+"Liquidity risk",
+"Operational risk"
+],
+"a": 0,
+"e": "A forward contract locks in the exchange rate and thereby hedges the transaction exposure to currency fluctuation; it does not address credit, liquidity or operational risk."
+},
+{
+"n": 31,
+"topic": "Financial and Operational Risk Management",
+"t": "According to the Basel definition widely adopted by insurers, operational risk is the risk of loss resulting from:",
+"o": [
+"Inadequate or failed internal processes, people and systems, or from external events",
+"Adverse movements in interest rates and equity prices",
+"Counterparty failure to meet contractual obligations",
+"Inability to meet cash outflows as they fall due"
+],
+"a": 0,
+"e": "The Basel II definition of operational risk covers process, people, system failures and external events; the other options describe market, credit and liquidity risk respectively."
+},
+{
+"n": 32,
+"topic": "Financial and Operational Risk Management",
+"t": "A portfolio has a one-day 99% Value at Risk (VaR) of ₹2 crore. This means:",
+"o": [
+"The portfolio will lose exactly ₹2 crore on 1% of days",
+"There is a 1% probability that the loss in one day will exceed ₹2 crore",
+"The maximum possible one-day loss is ₹2 crore",
+"The expected daily loss is ₹2 crore"
+],
+"a": 1,
+"e": "VaR states the loss threshold that will be exceeded only with the stated probability (1%) over the horizon; it says nothing about how large the loss beyond the threshold could be."
+},
+{
+"n": 33,
+"topic": "Financial and Operational Risk Management",
+"t": "Which of the following is a 'key risk indicator' (KRI) for operational risk in an insurance company's claims department?",
+"o": [
+"The company's solvency ratio",
+"The yield on government securities",
+"Number of claims pending beyond 30 days as a percentage of claims received",
+"The annual dividend declared"
+],
+"a": 2,
+"e": "KRIs are leading metrics linked to specific operational processes that give early warning of rising risk; pendency ratios in claims are a typical operational KRI."
+},
+{
+"topic": "IRDAI – regulator",
+"t": "The minimum paid-up equity capital required to start a life or general insurance company in India is:",
+"o": [
+"₹50 crore",
+"₹100 crore",
+"₹200 crore",
+"₹500 crore"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). ₹100 crore for a direct insurer; ₹200 crore for a reinsurer (Section 6 of the Insurance Act).",
+"r": "core",
+"n": 34
+},
+{
+"n": 35,
+"topic": "Financial and Operational Risk Management",
+"t": "A company borrowing at floating rate enters into an interest rate swap under which it pays fixed and receives floating. The purpose is to:",
+"o": [
+"Speculate on rising rates",
+"Eliminate credit risk on the loan",
+"Convert its floating-rate liability into a fixed-rate liability and remove uncertainty of interest cost",
+"Increase liquidity by obtaining additional funds"
+],
+"a": 2,
+"e": "Paying fixed and receiving floating offsets the floating interest payable on the loan, leaving a net fixed cost; a swap does not provide funds or remove credit risk."
+},
+{
+"n": 36,
+"topic": "Business Continuity Management",
+"t": "In business continuity planning, the 'Recovery Time Objective' (RTO) is:",
+"o": [
+"The maximum acceptable amount of data loss measured in time",
+"The targeted duration within which a business process must be restored after a disruption",
+"The time taken to complete the business impact analysis",
+"The period for which backup power can be sustained"
+],
+"a": 1,
+"e": "RTO is the target time to resume a process after disruption; the maximum tolerable data loss measured in time is the Recovery Point Objective (RPO)."
+},
+{
+"n": 37,
+"topic": "Business Continuity Management",
+"t": "A bank's core banking system takes backups every 4 hours. The Recovery Point Objective implied by this arrangement is:",
+"o": [
+"Up to 4 hours of data",
+"It cannot be determined from backup frequency",
+"Exactly 24 hours of data",
+"Zero data loss"
+],
+"a": 0,
+"e": "RPO is the maximum period of data that may be lost; with backups every 4 hours, up to 4 hours of transactions since the last backup could be lost."
+},
+{
+"n": 38,
+"topic": "Business Continuity Management",
+"t": "The international standard that specifies requirements for a Business Continuity Management System is:",
+"o": [
+"ISO 9001",
+"ISO 27001",
+"ISO 14001",
+"ISO 22301"
+],
+"a": 3,
+"e": "ISO 22301 covers business continuity management systems; ISO 9001 is quality, ISO 27001 information security and ISO 14001 environmental management."
+},
+{
+"n": 39,
+"topic": "Business Continuity Management",
+"t": "Which of the following statements correctly distinguishes a 'hot site' from a 'cold site'?",
+"o": [
+"A hot site is fully equipped and can take over operations almost immediately; a cold site provides basic space and infrastructure requiring equipment installation",
+"A hot site is located in a warm climate; a cold site in a cold climate",
+"A hot site is used only for fire losses; a cold site for flood losses",
+"A cold site is more expensive to maintain than a hot site"
+],
+"a": 0,
+"e": "Hot sites are ready-to-run mirrors of the primary site with short RTO but high cost; cold sites are cheaper but need days or weeks to become operational."
+},
+{
+"n": 40,
+"topic": "Business Continuity Management",
+"t": "The first step in developing a business continuity plan is generally to:",
+"o": [
+"Conduct a Business Impact Analysis to identify critical processes and their recovery priorities",
+"Purchase business interruption insurance",
+"Appoint an external consultant to test the plan",
+"Set up an alternate site"
+],
+"a": 0,
+"e": "The Business Impact Analysis identifies critical activities, dependencies, and the impact of downtime, which drives all subsequent recovery strategy decisions."
+},
+{
+"n": 41,
+"topic": "Risk Management in Insurance Companies and IRDAI Governance",
+"t": "Under the IRDAI corporate governance framework, which committee of the board is responsible for the insurer's Asset-Liability Management (ALM) and overall risk management policy?",
+"o": [
+"Audit Committee",
+"Policyholder Protection Committee",
+"Risk Management Committee",
+"Nomination and Remuneration Committee"
+],
+"a": 2,
+"e": "The Risk Management Committee oversees the risk management strategy, ALM and risk appetite; the Audit Committee deals with financial reporting and internal audit."
+},
+{
+"n": 42,
+"topic": "Risk Management in Insurance Companies and IRDAI Governance",
+"t": "An Indian general insurer has an Available Solvency Margin of ₹900 crore against a Required Solvency Margin of ₹500 crore. Its solvency ratio is:",
+"o": [
+"0.56",
+"1.80",
+"1.50",
+"2.25"
+],
+"a": 1,
+"e": "Solvency ratio = ASM / RSM = 900 / 500 = 1.80, which is above the IRDAI control level of 1.50 (150%)."
+},
+{
+"n": 43,
+"topic": "Risk Management in Insurance Companies and IRDAI Governance",
+"t": "The IRDAI-prescribed minimum 'control level' of solvency ratio that insurers must maintain at all times is:",
+"o": [
+"100%",
+"200%",
+"125%",
+"150%"
+],
+"a": 3,
+"e": "Under Section 64VA of the Insurance Act, 1938 and IRDAI regulations, insurers must maintain a solvency ratio of at least 150% (1.5 times the required solvency margin)."
+},
+{
+"n": 44,
+"topic": "Risk Management in Insurance Companies and IRDAI Governance",
+"t": "A life insurer holds long-term liabilities with a duration of 12 years but invests mainly in bonds of 5-year duration. The principal risk this creates is:",
+"o": [
+"Underwriting risk",
+"Reinvestment (interest-rate / ALM mismatch) risk",
+"Expense risk",
+"Lapse risk"
+],
+"a": 1,
+"e": "When asset duration is shorter than liability duration, maturing assets must be reinvested at uncertain future rates, exposing the insurer to falling interest rates - an ALM mismatch risk."
+},
+{
+"topic": "IRDAI – regulator",
+"t": "The control level of solvency ratio that every insurer must maintain is:",
+"o": [
+"100%",
+"125%",
+"150%",
+"200%"
+],
+"a": 2,
+"e": "★ Core fact (asked across III papers). Available solvency margin must be at least 150% of the required solvency margin; falling below triggers IRDAI action.",
+"r": "core",
+"n": 45
+},
+{
+"n": 46,
+"topic": "Risk Management in Insurance Companies and IRDAI Governance",
+"t": "Which of the following is the primary purpose of reinsurance from the ceding insurer's risk management viewpoint?",
+"o": [
+"To limit the net retained exposure, stabilise results and protect solvency",
+"To eliminate the need for underwriting",
+"To avoid payment of claims to policyholders",
+"To increase the gross premium written"
+],
+"a": 0,
+"e": "Reinsurance transfers part of the insurer's exposure, reducing volatility of results, protecting against catastrophe accumulation and supporting solvency; it does not remove the insurer's obligation to policyholders."
+},
+{
+"n": 47,
+"topic": "Insurance as a Risk Management Tool",
+"t": "Which of the following is NOT one of the usual characteristics of an ideally insurable risk?",
+"o": [
+"A large number of homogeneous exposure units",
+"The loss must be catastrophic to a large proportion of the exposure units simultaneously",
+"The loss must be accidental and unintentional",
+"The loss must be definite and measurable"
+],
+"a": 1,
+"e": "Insurability requires that the loss should not be catastrophic across all units at once, since insurance relies on pooling of independent exposures; the other options are standard requisites."
+},
+{
+"n": 48,
+"topic": "Insurance as a Risk Management Tool",
+"t": "A manufacturer's total 'cost of risk' for a year consists of insurance premiums ₹30 lakh, retained uninsured losses ₹12 lakh, loss control expenditure ₹6 lakh and risk administration costs ₹2 lakh. The total cost of risk is:",
+"o": [
+"₹30 lakh",
+"₹42 lakh",
+"₹48 lakh",
+"₹50 lakh"
+],
+"a": 3,
+"e": "Cost of risk = premiums + retained losses + loss control costs + administration = 30 + 12 + 6 + 2 = ₹50 lakh."
+},
+{
+"n": 49,
+"topic": "Insurance as a Risk Management Tool",
+"t": "Which of the following statements about 'moral hazard' is correct?",
+"o": [
+"It refers to the physical condition of the property insured",
+"It is eliminated completely by charging a higher premium",
+"It refers only to losses caused by natural catastrophes",
+"It refers to the possibility that the insured's dishonesty or carelessness increases the chance of loss because insurance exists"
+],
+"a": 3,
+"e": "Moral hazard arises from the character or attitude of the insured; it is addressed through underwriting, deductibles and co-payments rather than fully eliminated by price."
+},
+{
+"n": 50,
+"topic": "Insurance as a Risk Management Tool",
+"t": "A fire policy on a godown valued at ₹2 crore is taken for a sum insured of ₹1.5 crore. A loss of ₹40 lakh occurs. Applying the condition of average (underinsurance), the insurer will pay:",
+"o": [
+"₹30 lakh",
+"₹25 lakh",
+"₹40 lakh",
+"₹20 lakh"
+],
+"a": 0,
+"e": "Under the average clause, claim payable = loss x (sum insured / value at risk) = 40 x (1.5 / 2.0) = ₹30 lakh; the insured bears the balance as a co-insurer."
+}
+]

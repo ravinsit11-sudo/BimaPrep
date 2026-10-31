@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Introduction to Management Accounting",
+"t": "The role of the management accountant in an insurance company includes all of the following EXCEPT:",
+"o": [
+"Preparing budgets for branches and regions",
+"Approving individual claims for payment",
+"Analysing product-line profitability",
+"Reporting variances to management"
+],
+"a": 1,
+"e": "Claim approval is an operational underwriting/claims function; the management accountant provides planning, costing and control information rather than authorising transactions."
+},
+{
+"n": 2,
+"topic": "Introduction to Management Accounting",
+"t": "Which of the following is a reason why profit maximisation is considered an inadequate objective?",
+"o": [
+"It ignores risk and the time value of money",
+"It considers the timing of returns",
+"It is too difficult to measure",
+"It always conflicts with the law"
+],
+"a": 0,
+"e": "Profit maximisation is vague, ignores when profits arise and the uncertainty attached to them; wealth maximisation addresses these shortcomings."
+},
+{
+"n": 3,
+"topic": "Introduction to Management Accounting",
+"t": "Agency problem in financial management refers to the conflict between:",
+"o": [
+"Managers and shareholders",
+"Insurers and reinsurers",
+"Debtors and creditors",
+"Employees and the regulator"
+],
+"a": 0,
+"e": "Managers (agents) may pursue their own interests rather than those of shareholders (principals); incentives, monitoring and governance mechanisms seek to reduce this agency cost."
+},
+{
+"n": 4,
+"topic": "Cost Concepts and Classification",
+"t": "Which of the following costs is relevant in a decision to close a loss-making branch?",
+"o": [
+"Head office overhead apportioned to the branch",
+"Branch staff salaries that would be saved on closure",
+"Depreciation on branch furniture already purchased",
+"Rent paid in the previous year"
+],
+"a": 1,
+"e": "Relevant costs are future costs that differ between alternatives; avoidable salaries change with the decision while apportioned overhead, past rent and depreciation do not."
+},
+{
+"n": 5,
+"topic": "Cost Concepts and Classification",
+"t": "Conversion cost is the sum of:",
+"o": [
+"Direct material and direct labour",
+"Direct labour and factory overhead",
+"Prime cost and selling overhead",
+"Direct material and administration overhead"
+],
+"a": 1,
+"e": "Conversion cost is the cost of converting raw material into finished goods, i.e. direct labour plus manufacturing overhead; prime cost is direct material plus direct labour."
+},
+{
+"n": 6,
+"topic": "Cost Concepts and Classification",
+"t": "A branch's monthly fixed cost is ₹4,50,000 and variable cost is ₹120 per policy. At 5,000 policies, the total cost per policy is:",
+"o": [
+"₹120",
+"₹90",
+"₹570",
+"₹210"
+],
+"a": 3,
+"e": "Total cost = 4,50,000 + 5,000 × 120 = ₹10,50,000. Cost per policy = 10,50,000 ÷ 5,000 = ₹210 (fixed ₹90 + variable ₹120)."
+},
+{
+"n": 7,
+"topic": "Cost Concepts and Classification",
+"t": "An insurer spent ₹3 crore last year on a core-system that is now obsolete. In deciding whether to buy a new system, this ₹3 crore is a:",
+"o": [
+"Relevant cost",
+"Opportunity cost",
+"Differential cost",
+"Sunk cost"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). A sunk cost has already been incurred and cannot be recovered by any future decision, so it is irrelevant to the replacement decision.",
+"r": "key"
+},
+{
+"n": 8,
+"topic": "Marginal Costing and CVP Analysis",
+"t": "In a multi-product firm, the overall break-even point depends on the:",
+"o": [
+"Highest selling price among products",
+"Number of employees",
+"Lowest variable cost product only",
+"Sales mix and the weighted average P/V ratio"
+],
+"a": 3,
+"e": "With several products, break-even sales = Fixed cost ÷ Composite (weighted) P/V ratio, so any change in the mix alters the break-even point."
+},
+{
+"n": 9,
+"topic": "Marginal Costing and CVP Analysis",
+"t": "Which of the following is a limitation of marginal costing?",
+"o": [
+"It cannot be used for short-term decisions",
+"Stock is undervalued because fixed overhead is excluded, which may not be acceptable for statutory reporting",
+"It makes break-even analysis impossible",
+"It requires absorption rates"
+],
+"a": 1,
+"e": "Accounting standards require closing inventory to include fixed production overhead, so marginal costing stock values are not acceptable for external reporting."
+},
+{
+"n": 10,
+"topic": "Marginal Costing and CVP Analysis",
+"t": "An insurer sells two products: X with sales ₹60 lakh and P/V ratio 40%, and Y with sales ₹40 lakh and P/V ratio 25%. Fixed costs are ₹17 lakh. Overall break-even sales are:",
+"o": [
+"₹42.5 lakh",
+"₹68 lakh",
+"₹34 lakh",
+"₹50 lakh"
+],
+"a": 3,
+"e": "Total contribution = 24 + 10 = ₹34 lakh on ₹100 lakh sales, composite P/V = 34%. BEP = 17 ÷ 0.34 = ₹50 lakh."
+},
+{
+"n": 11,
+"topic": "Marginal Costing and CVP Analysis",
+"t": "Selling price ₹500, variable cost ₹300, fixed cost ₹24 lakh. If the price is cut by 10% to boost volume, the new break-even in units is:",
+"o": [
+"12,000",
+"16,000",
+"15,000",
+"10,000"
+],
+"a": 1,
+"e": "New price ₹450; contribution per unit = 450 − 300 = ₹150. BEP = 24,00,000 ÷ 150 = 16,000 units, up from 12,000."
+},
+{
+"n": 12,
+"topic": "Marginal Costing and CVP Analysis",
+"t": "Total sales ₹90 lakh, variable cost ₹54 lakh, fixed cost ₹27 lakh. The margin of safety in rupees is:",
+"o": [
+"₹22.5 lakh",
+"₹67.5 lakh",
+"₹9 lakh",
+"₹15 lakh"
+],
+"a": 0,
+"e": "P/V = 36 ÷ 90 = 40%; BEP = 27 ÷ 0.40 = ₹67.5 lakh; margin of safety = 90 − 67.5 = ₹22.5 lakh."
+},
+{
+"n": 13,
+"topic": "Marginal Costing and CVP Analysis",
+"t": "A 'shut-down point' in marginal costing is the level of activity at which:",
+"o": [
+"Profit equals zero under absorption costing",
+"Total contribution equals avoidable fixed costs",
+"Sales equal variable costs",
+"Fixed costs equal variable costs"
+],
+"a": 1,
+"e": "Below the shut-down point contribution fails to cover even the fixed costs that could be avoided by closing, so temporary closure is preferable."
+},
+{
+"n": 14,
+"topic": "Budgeting and Budgetary Control",
+"t": "Which of the following is NOT an objective of budgetary control?",
+"o": [
+"Statutory compliance with the Companies Act",
+"Planning",
+"Coordination",
+"Control"
+],
+"a": 0,
+"e": "Budgetary control is a managerial tool for planning, coordination, communication, motivation and control; it is not a statutory requirement."
+},
+{
+"n": 15,
+"topic": "Budgeting and Budgetary Control",
+"t": "Participative (bottom-up) budgeting is likely to result in:",
+"o": [
+"Lower acceptance of targets by managers",
+"Greater commitment but a risk of budgetary slack",
+"Elimination of all variances",
+"Faster preparation than top-down budgeting"
+],
+"a": 1,
+"e": "Involving managers improves ownership and realism but gives them the opportunity to pad budgets; top-down budgeting is faster but less motivating."
+},
+{
+"n": 16,
+"topic": "Budgeting and Budgetary Control",
+"t": "Budgeted management expenses for a region are ₹2.4 crore for 12 months, spread evenly. Actual expenses for the first quarter were ₹70 lakh. The variance for the quarter is:",
+"o": [
+"₹10 lakh Favourable",
+"₹60 lakh Adverse",
+"₹1.7 crore Favourable",
+"₹10 lakh Adverse"
+],
+"a": 3,
+"e": "Quarterly budget = 2.4 crore ÷ 4 = ₹60 lakh. Actual ₹70 lakh exceeds budget by ₹10 lakh, an adverse variance."
+},
+{
+"n": 17,
+"topic": "Standard Costing and Variance Analysis",
+"t": "Using the data: standard 5 kg at ₹20 per kg per unit, actual 5,400 kg at ₹19 per kg for 1,000 units, the material price variance is:",
+"o": [
+"₹5,000 Favourable",
+"₹5,400 Adverse",
+"₹8,000 Favourable",
+"₹5,400 Favourable"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). Price variance = (Standard price − Actual price) × Actual quantity = (20 − 19) × 5,400 = ₹5,400 Favourable because the actual price was lower.",
+"r": "key"
+},
+{
+"n": 18,
+"topic": "Standard Costing and Variance Analysis",
+"t": "An 'ideal standard' is one which:",
+"o": [
+"Reflects current attainable performance",
+"Is based on last year's actual cost",
+"Is revised every month",
+"Assumes perfect efficiency with no waste or idle time"
+],
+"a": 3,
+"e": "Ideal standards assume optimum conditions and are rarely achieved, which can demotivate staff; attainable standards allow for normal inefficiencies."
+},
+{
+"n": 19,
+"topic": "Standard Costing and Variance Analysis",
+"t": "Which variance arises when actual hours paid exceed actual hours worked due to a power failure?",
+"o": [
+"Labour rate variance",
+"Labour efficiency variance",
+"Idle time variance",
+"Labour mix variance"
+],
+"a": 2,
+"e": "Idle time variance = Idle hours × Standard rate, always adverse; it separates abnormal lost time from true efficiency of hours actually worked."
+},
+{
+"n": 20,
+"topic": "Standard Costing and Variance Analysis",
+"t": "Standard variable overhead is ₹40 per hour; standard time 3 hours per unit. Actual: 2,000 units, 6,300 hours, variable overhead ₹2,45,700. The variable overhead efficiency variance is:",
+"o": [
+"₹6,300 Favourable",
+"₹12,000 Favourable",
+"₹12,000 Adverse",
+"₹5,700 Favourable"
+],
+"a": 2,
+"e": "Standard hours = 6,000. Efficiency variance = (6,000 − 6,300) × 40 = ₹12,000 Adverse. Expenditure variance = 6,300 × 40 − 2,45,700 = ₹6,300 Favourable."
+},
+{
+"n": 21,
+"topic": "Standard Costing and Variance Analysis",
+"t": "Which of the following is a possible cause of a favourable material usage variance?",
+"o": [
+"Better supervision and less wastage",
+"Use of inferior quality material",
+"Increase in supplier prices",
+"Untrained new workers"
+],
+"a": 0,
+"e": "Using less material than standard arises from improved handling, better skilled labour or superior quality material; inferior material and untrained workers typically increase usage."
+},
+{
+"n": 22,
+"topic": "Standard Costing and Variance Analysis",
+"t": "Standard contribution per unit is ₹80. Budgeted mix: 6,000 units of A and 4,000 of B. Actual sales: 7,000 A and 3,000 B. The total sales volume variance in units is:",
+"o": [
+"1,000 units Favourable",
+"1,000 units Adverse",
+"2,000 units Favourable",
+"Nil"
+],
+"a": 3,
+"e": "Total actual units (10,000) equal total budgeted units (10,000), so the quantity variance is nil; the shift between A and B would appear only as a mix variance if their contributions differ."
+},
+{
+"n": 23,
+"topic": "Ratio Analysis",
+"t": "Which of the following is a limitation of ratio analysis?",
+"o": [
+"It is applicable only to listed companies",
+"Ratios are based on historical data and different accounting policies reduce comparability",
+"It cannot compute profitability",
+"It requires cash flow statements"
+],
+"a": 1,
+"e": "Ratios inherit the limitations of financial statements — historical cost, differing policies, window dressing and lack of standard benchmarks."
+},
+{
+"n": 24,
+"topic": "Ratio Analysis",
+"t": "Sales ₹200 lakh, cost of goods sold ₹140 lakh, operating expenses ₹30 lakh. The gross profit ratio and net (operating) profit ratio are:",
+"o": [
+"70% and 85%",
+"30% and 10%",
+"15% and 30%",
+"30% and 15%"
+],
+"a": 3,
+"e": "Gross profit = 60 lakh (30% of sales); operating profit = 60 − 30 = 30 lakh (15% of sales)."
+},
+{
+"n": 25,
+"topic": "Ratio Analysis",
+"t": "Net profit after tax ₹36 lakh, preference dividend ₹6 lakh, 5 lakh equity shares outstanding. Earnings per share is:",
+"o": [
+"₹6.00",
+"₹7.20",
+"₹8.40",
+"₹1.20"
+],
+"a": 0,
+"e": "EPS = (PAT − Preference dividend) ÷ Number of equity shares = (36 − 6) ÷ 5 = ₹6.00 per share."
+},
+{
+"n": 26,
+"topic": "Ratio Analysis",
+"t": "A general insurer has net premium of ₹900 crore and net worth of ₹300 crore. Its net premium to net worth ratio (leverage) is:",
+"o": [
+"0.33 times",
+"30%",
+"3 times",
+"9 times"
+],
+"a": 2,
+"e": "Underwriting leverage = Net premium ÷ Net worth = 900 ÷ 300 = 3 times; a higher ratio means more premium risk carried per rupee of capital."
+},
+{
+"n": 27,
+"topic": "Fund Flow and Cash Flow Statements",
+"t": "Which of the following is a non-fund item that should be adjusted when computing funds from operations?",
+"o": [
+"Payment to creditors",
+"Goodwill written off",
+"Purchase of raw material",
+"Cash sales"
+],
+"a": 1,
+"e": "Writing off goodwill reduces profit without affecting working capital, so it is added back; the other items involve current assets or liabilities."
+},
+{
+"n": 28,
+"topic": "Fund Flow and Cash Flow Statements",
+"t": "Under the direct method of preparing a cash flow statement, operating cash flows are shown as:",
+"o": [
+"Net profit adjusted for non-cash items",
+"Changes in working capital only",
+"Gross cash receipts from customers and gross cash payments to suppliers and employees",
+"Investing and financing flows combined"
+],
+"a": 2,
+"e": "The direct method reports major classes of gross cash receipts and payments; the indirect method starts from net profit and adjusts for non-cash items and working capital changes."
+},
+{
+"n": 29,
+"topic": "Cost Concepts and Classification",
+"t": "Total cost at 10,000 policies was ₹28 lakh and at 16,000 policies ₹37 lakh. Estimated total cost at 14,000 policies is:",
+"o": [
+"₹32.5 lakh",
+"₹35 lakh",
+"₹34 lakh",
+"₹33 lakh"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). Variable cost per policy = (37 − 28) ÷ (16,000 − 10,000) lakh = ₹150. Fixed cost = 28,00,000 − 10,000 × 150 = ₹13 lakh. Cost at 14,000 = 13 + 21 = ₹34 lakh.",
+"r": "key"
+},
+{
+"n": 30,
+"topic": "Fund Flow and Cash Flow Statements",
+"t": "Fixed assets (net) were ₹80 lakh at the start and ₹95 lakh at the end of the year; depreciation charged was ₹12 lakh and no assets were sold. Cash spent on purchase of fixed assets was:",
+"o": [
+"₹15 lakh",
+"₹3 lakh",
+"₹107 lakh",
+"₹27 lakh"
+],
+"a": 3,
+"e": "Purchases = Closing net + Depreciation − Opening net = 95 + 12 − 80 = ₹27 lakh, shown as an investing outflow."
+},
+{
+"n": 31,
+"topic": "Fund Flow and Cash Flow Statements",
+"t": "Which of the following is a cash flow from financing activities for a company?",
+"o": [
+"Payment of dividend to shareholders",
+"Purchase of government securities",
+"Receipt of interest on deposits",
+"Payment of income tax"
+],
+"a": 0,
+"e": "Dividends paid, proceeds of share or debenture issues and repayment of borrowings are financing flows; the others are investing or operating in nature."
+},
+{
+"n": 32,
+"topic": "Capital Budgeting",
+"t": "The cost of capital used to discount project cash flows should represent:",
+"o": [
+"The minimum return required by the providers of capital, weighted by their proportion",
+"The historical interest rate on old loans",
+"The bank's prime lending rate only",
+"The dividend rate declared last year"
+],
+"a": 0,
+"e": "The weighted average cost of capital reflects the opportunity cost of all long-term funds; projects earning less than it destroy shareholder value."
+},
+{
+"n": 33,
+"topic": "Capital Budgeting",
+"t": "A firm's capital structure is 60% equity costing 15% and 40% debt costing 10% before tax. Tax rate is 25%. Its weighted average cost of capital is:",
+"o": [
+"13%",
+"12.5%",
+"12%",
+"11.5%"
+],
+"a": 2,
+"e": "After-tax cost of debt = 10% × (1 − 0.25) = 7.5%. WACC = 0.6 × 15% + 0.4 × 7.5% = 9% + 3% = 12%."
+},
+{
+"topic": "Taxation",
+"t": "Deduction for life insurance premium under Section 80C of the Income Tax Act is available up to an overall limit of:",
+"o": [
+"₹1 lakh",
+"₹1.5 lakh",
+"₹2 lakh",
+"₹2.5 lakh"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). ₹1,50,000 aggregate for all 80C items; premium qualifies only up to 10% of the sum assured for policies issued after 1 April 2012.",
+"r": "core",
+"n": 34
+},
+{
+"n": 35,
+"topic": "Capital Budgeting",
+"t": "A project costs ₹6 lakh and gives a cash inflow of ₹2 lakh per year for 4 years. The annuity factor at 10% is 3.170. The NPV is:",
+"o": [
+"₹(−)34,000",
+"₹2,00,000",
+"₹34,000",
+"₹6,34,000"
+],
+"a": 2,
+"e": "PV of inflows = 2,00,000 × 3.170 = ₹6,34,000. NPV = 6,34,000 − 6,00,000 = ₹34,000, so the project is acceptable."
+},
+{
+"n": 36,
+"topic": "Capital Budgeting",
+"t": "Sensitivity analysis in capital budgeting is used to:",
+"o": [
+"Eliminate all risk from a project",
+"Compute the payback period",
+"Determine the tax rate",
+"Identify how much a key variable can change before the decision changes"
+],
+"a": 3,
+"e": "Sensitivity analysis varies one input (price, volume, cost) at a time to see the effect on NPV, highlighting the variables to which the project is most vulnerable."
+},
+{
+"n": 37,
+"topic": "Capital Budgeting",
+"t": "A machine costing ₹10 lakh has a 5-year life with straight-line depreciation and no salvage. Annual cash savings before tax are ₹3.5 lakh; the tax rate is 30%. Annual after-tax cash flow is:",
+"o": [
+"₹2.45 lakh",
+"₹3.5 lakh",
+"₹1.05 lakh",
+"₹3.05 lakh"
+],
+"a": 3,
+"e": "Depreciation = ₹2 lakh. Taxable profit = 3.5 − 2 = 1.5; tax = 0.45. After-tax cash flow = 3.5 − 0.45 = ₹3.05 lakh (equivalently 1.05 profit + 2 depreciation)."
+},
+{
+"n": 38,
+"topic": "Responsibility Accounting and Performance Evaluation",
+"t": "Responsibility accounting classifies costs according to:",
+"o": [
+"The manager who has authority over them",
+"Their nature (material, labour, overhead)",
+"Whether they are product or period costs",
+"The accounting standard applicable"
+],
+"a": 0,
+"e": "Responsibility accounting builds reports around organisational units and the persons accountable for them, distinguishing controllable from uncontrollable items."
+},
+{
+"n": 39,
+"topic": "Responsibility Accounting and Performance Evaluation",
+"t": "Economic value added (EVA) is calculated as:",
+"o": [
+"Net profit after tax minus (Capital employed × Cost of capital)",
+"Sales minus variable cost",
+"EBIT ÷ Capital employed",
+"Market value minus book value"
+],
+"a": 0,
+"e": "EVA = NOPAT − Capital charge; a positive EVA indicates the business has created value over and above the cost of the capital used."
+},
+{
+"n": 40,
+"topic": "Responsibility Accounting and Performance Evaluation",
+"t": "The selling division has spare capacity and a variable cost of ₹200 per unit; the external market price is ₹300. The minimum transfer price acceptable to the selling division is:",
+"o": [
+"₹300",
+"₹250",
+"₹100",
+"₹200"
+],
+"a": 3,
+"e": "With spare capacity the selling division loses no outside contribution, so it will accept any price at or above its variable cost of ₹200; the market price sets the ceiling for the buyer."
+},
+{
+"n": 41,
+"topic": "Responsibility Accounting and Performance Evaluation",
+"t": "A division's NOPAT is ₹25 crore, capital employed ₹150 crore and cost of capital 14%. Its EVA is:",
+"o": [
+"₹21 crore",
+"₹(−)4 crore",
+"₹4 crore",
+"₹11 crore"
+],
+"a": 2,
+"e": "EVA = 25 − (150 × 14%) = 25 − 21 = ₹4 crore, so the division has created value."
+},
+{
+"n": 42,
+"topic": "Working Capital and Sources of Finance",
+"t": "Permanent working capital is:",
+"o": [
+"The seasonal peak in receivables",
+"The minimum level of current assets required at all times",
+"Working capital financed by overdraft",
+"The same as gross working capital"
+],
+"a": 1,
+"e": "Permanent (core) working capital is the base level of current assets needed continuously and is ideally financed from long-term sources; temporary working capital meets seasonal needs."
+},
+{
+"n": 43,
+"topic": "Working Capital and Sources of Finance",
+"t": "The economic order quantity (EOQ) model balances:",
+"o": [
+"Purchase price and selling price",
+"Fixed cost and variable cost",
+"Ordering cost and carrying cost",
+"Interest cost and tax cost"
+],
+"a": 2,
+"e": "EOQ = √(2 × Annual demand × Ordering cost per order ÷ Carrying cost per unit) minimises total ordering plus carrying cost."
+},
+{
+"n": 44,
+"topic": "Working Capital and Sources of Finance",
+"t": "Annual requirement of printed policy stationery is 36,000 units, ordering cost ₹500 per order and carrying cost ₹10 per unit per year. The EOQ is:",
+"o": [
+"1,897 units",
+"1,200 units",
+"3,600 units",
+"600 units"
+],
+"a": 0,
+"e": "EOQ = √(2 × 36,000 × 500 ÷ 10) = √36,00,000 ≈ 1,897 units."
+},
+{
+"topic": "Taxation",
+"t": "Deduction for health insurance premium under Section 80D for an individual below 60 years (self and family) is up to:",
+"o": [
+"₹15,000",
+"₹25,000",
+"₹50,000",
+"₹75,000"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). ₹25,000; ₹50,000 where the insured is a senior citizen; an additional ₹25,000/₹50,000 for parents.",
+"r": "core",
+"n": 45
+},
+{
+"n": 46,
+"topic": "Insurance Company Accounts and Financial Reporting",
+"t": "A life insurer's shareholders' profit and loss account (Form A-PL) typically shows:",
+"o": [
+"Premium income and benefits paid",
+"Reserve for unexpired risk",
+"Transfer of surplus from the policyholders' account, shareholders' investment income and expenses",
+"Outstanding claims and IBNR"
+],
+"a": 2,
+"e": "The policyholders' account captures premium, benefits and reserves; the shareholders' account receives the surplus transferred, plus shareholders' own investment income and expenses."
+},
+{
+"n": 47,
+"topic": "Insurance Company Accounts and Financial Reporting",
+"t": "An insurer's available solvency margin is ₹1,800 crore and its required solvency margin is ₹1,000 crore. Its solvency ratio and compliance status are:",
+"o": [
+"0.56; non-compliant",
+"1.8; non-compliant as the requirement is 2.0",
+"1.8; compliant with the 1.5 control level",
+"1.5; compliant"
+],
+"a": 2,
+"e": "Solvency ratio = ASM ÷ RSM = 1,800 ÷ 1,000 = 1.8, above IRDAI's control level of 1.5, so the insurer is compliant."
+},
+{
+"n": 48,
+"topic": "Insurance Company Accounts and Financial Reporting",
+"t": "Which of the following items appears in a general insurer's balance sheet as a liability under 'Provisions'?",
+"o": [
+"Share capital",
+"Fair value change account",
+"Reserve for unexpired risk",
+"Fixed assets"
+],
+"a": 2,
+"e": "Unexpired risk reserve is a provision for the unearned portion of premium; share capital and fair value change are shareholders' items and fixed assets are an application of funds."
+},
+{
+"n": 49,
+"topic": "Activity Based Costing and Pricing Decisions",
+"t": "Which of the following is an example of a batch-level activity under ABC?",
+"o": [
+"Setting up a campaign mailing to a group of policyholders",
+"Machine depreciation per unit",
+"Plant security",
+"Designing a new product"
+],
+"a": 0,
+"e": "Batch-level activities are performed each time a batch is processed, regardless of units in the batch; unit-level, facility-level and product-level activities are the other categories."
+},
+{
+"n": 50,
+"topic": "Activity Based Costing and Pricing Decisions",
+"t": "Full cost of a product is ₹800 per unit and the firm wants a 25% return on cost. Under cost-plus pricing the selling price is:",
+"o": [
+"₹1,067",
+"₹1,000",
+"₹600",
+"₹960"
+],
+"a": 1,
+"e": "Price = Cost × (1 + mark-up) = 800 × 1.25 = ₹1,000. A 25% margin on selling price would instead give 800 ÷ 0.75 ≈ ₹1,067."
+}
+]

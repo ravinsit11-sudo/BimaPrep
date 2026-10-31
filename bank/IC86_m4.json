@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Introduction to Risk and Risk Management",
+"t": "Which of the following is a 'particular risk'?",
+"o": [
+"Inflation affecting the entire economy",
+"A burglary at one retail shop",
+"Earthquake devastating an entire region",
+"War affecting the whole country"
+],
+"a": 1,
+"e": "Particular risks arise from individual causes and affect individuals or single firms; the other options are fundamental risks affecting society at large."
+},
+{
+"n": 2,
+"topic": "Risk Identification",
+"t": "Which of the following sources of risk information is 'external' to the organisation?",
+"o": [
+"Internal audit reports",
+"Company's own maintenance logs",
+"Industry loss statistics and regulatory circulars",
+"Minutes of safety committee meetings"
+],
+"a": 2,
+"e": "External sources include industry data, regulatory publications, trade bodies and insurers' loss experience; the other options are internal records."
+},
+{
+"n": 3,
+"topic": "Risk Identification",
+"t": "A risk manager examines the 'organisation chart' of a company as part of risk identification. The purpose is mainly to:",
+"o": [
+"Calculate the fire premium",
+"Identify key personnel, reporting lines and dependence on individuals or units",
+"Value the company's buildings",
+"Estimate the company's tax liability"
+],
+"a": 1,
+"e": "Organisation charts reveal key-person dependencies and spans of control, highlighting personnel and management-continuity exposures."
+},
+{
+"n": 4,
+"topic": "Risk Identification",
+"t": "Scenario analysis as a risk identification technique is especially useful for:",
+"o": [
+"Routine high-frequency losses with abundant data",
+"Low-probability, high-impact and emerging events where historical data are scarce",
+"Calculating the exact insurance premium",
+"Day-to-day petty cash control"
+],
+"a": 1,
+"e": "Scenarios allow management to think through plausible extreme events (pandemic, cyber attack, supply failure) and their chain of consequences in the absence of loss data."
+},
+{
+"n": 5,
+"topic": "Risk Identification",
+"t": "Which of the following statements about 'loss exposure' is correct?",
+"o": [
+"A loss exposure exists only after a loss has occurred",
+"A loss exposure is any situation or condition that presents a possibility of loss, whether or not a loss actually occurs",
+"Loss exposures are limited to insured property",
+"Loss exposures can be identified only by insurers"
+],
+"a": 1,
+"e": "Risk identification seeks to find all exposures before losses occur; exposures include property, liability, personnel and net income, insured or not."
+},
+{
+"n": 6,
+"topic": "Risk Analysis and Evaluation",
+"t": "Which of the following is the correct formula for the 'loss frequency rate' commonly used in industrial safety?",
+"o": [
+"Number of accidents x 100 / number of employees",
+"Total man-hours / number of accidents",
+"Number of lost-time accidents x 1,000,000 / total man-hours worked",
+"Days lost x 1,000 / number of accidents"
+],
+"a": 2,
+"e": "Frequency rate measures accidents per million man-hours worked; severity rate measures man-days lost per million man-hours, allowing comparison across plants."
+},
+{
+"n": 7,
+"topic": "Risk Analysis and Evaluation",
+"t": "A company's two plants show the following: Plant A has 3 fires per year averaging ₹10 lakh; Plant B has 1 fire per year averaging ₹40 lakh. Which statement is correct?",
+"o": [
+"Plant A has the higher expected annual loss",
+"Plant B has the higher expected annual loss",
+"Both have equal expected annual loss",
+"Expected loss cannot be computed from the data"
+],
+"a": 1,
+"e": "Plant A expected loss = 3 x 10 = ₹30 lakh; Plant B = 1 x 40 = ₹40 lakh; Plant B is also more volatile because of higher severity."
+},
+{
+"n": 8,
+"topic": "Risk Analysis and Evaluation",
+"t": "'Sensitivity analysis' in risk evaluation is used to:",
+"o": [
+"Determine the legal liability of directors",
+"Identify hazards using guide words",
+"Allocate premiums across subsidiaries",
+"Measure how the outcome changes when one input assumption is varied while others are held constant"
+],
+"a": 3,
+"e": "Sensitivity analysis shows which assumptions most influence the result and where uncertainty matters most, guiding further analysis or control."
+},
+{
+"n": 9,
+"topic": "Risk Analysis and Evaluation",
+"t": "Which of the following statements about the use of historical loss data is INCORRECT?",
+"o": [
+"Loss data should be adjusted for inflation before trending",
+"Historical data alone are sufficient to predict catastrophic losses that have never occurred",
+"A longer period of credible data generally improves the reliability of frequency estimates",
+"Data should be adjusted for changes in exposure such as number of vehicles or turnover"
+],
+"a": 1,
+"e": "Historical data cannot capture events that have not yet occurred, so catastrophe and emerging risks need modelling and scenario analysis in addition to history."
+},
+{
+"n": 10,
+"topic": "Financial and Operational Risk Management",
+"t": "A bond portfolio has a modified duration of 6. If interest rates rise by 1%, the approximate change in the portfolio's value is:",
+"o": [
+"A rise of 6%",
+"A fall of 1%",
+"A fall of 6%",
+"No change"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). Price change is approximately -modified duration x change in yield = -6 x 1% = -6%; bond prices move inversely to interest rates.",
+"r": "key"
+},
+{
+"n": 11,
+"topic": "Risk Analysis and Evaluation",
+"t": "A company's annual losses are normally distributed with a mean of ₹50 lakh and a standard deviation of ₹10 lakh. Approximately what is the probability that losses in a year exceed ₹70 lakh?",
+"o": [
+"About 2.3%",
+"About 16%",
+"About 50%",
+"About 97.7%"
+],
+"a": 0,
+"e": "₹70 lakh is two standard deviations above the mean; under the normal distribution about 2.3% of outcomes lie beyond mean + 2 standard deviations."
+},
+{
+"n": 12,
+"topic": "Risk Control",
+"t": "Which of the following is the best example of a 'post-loss' risk control (loss reduction) measure?",
+"o": [
+"Regular electrical inspection to prevent short circuits",
+"Use of non-flammable building materials",
+"Employee safety training",
+"Salvage operations and emergency response after a fire to limit damage"
+],
+"a": 3,
+"e": "Post-loss measures (salvage, emergency response, claims management) reduce the size of a loss after it has started; the others are pre-loss prevention measures."
+},
+{
+"n": 13,
+"topic": "Risk Control",
+"t": "The 'hierarchy of controls' in occupational safety ranks measures from most to least effective as:",
+"o": [
+"Personal protective equipment, administrative controls, engineering controls, substitution, elimination",
+"Elimination, substitution, engineering controls, administrative controls, personal protective equipment",
+"Administrative controls, elimination, PPE, substitution, engineering",
+"Substitution, PPE, elimination, engineering, administrative"
+],
+"a": 1,
+"e": "Eliminating the hazard is most effective, while PPE, which relies on individual behaviour, is the last resort."
+},
+{
+"n": 14,
+"topic": "Risk Control",
+"t": "A company requires that two senior officers be never allowed to travel on the same flight. This risk control technique is a form of:",
+"o": [
+"Duplication",
+"Separation applied to personnel exposures",
+"Non-insurance transfer",
+"Risk financing"
+],
+"a": 1,
+"e": "Splitting key personnel across different flights limits the maximum loss from a single accident, which is separation applied to the personnel exposure."
+},
+{
+"n": 15,
+"topic": "Risk Control",
+"t": "Which of the following statements about 'combination' (pooling) as a risk control technique is correct?",
+"o": [
+"It increases the uncertainty of loss",
+"It is identical to risk avoidance",
+"It increases the number of exposure units so that losses become more predictable, as when a firm expands its fleet",
+"It applies only to liability risks"
+],
+"a": 2,
+"e": "Combination reduces objective risk by applying the law of large numbers, improving predictability of losses for the firm."
+},
+{
+"n": 16,
+"topic": "Risk Analysis and Evaluation",
+"t": "A risk analyst computes that a particular exposure has a 'return period' of 50 years. This means:",
+"o": [
+"The loss will occur exactly once every 50 years",
+"The loss will be paid over 50 years",
+"The event cannot occur for the next 50 years",
+"The annual probability of the event is about 2%"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). Return period is the inverse of annual exceedance probability: 1/50 = 2% per year; it does not imply regular spacing of events.",
+"r": "key"
+},
+{
+"n": 17,
+"topic": "Risk Control",
+"t": "A hotel chain spends ₹30 lakh on a fire detection and suppression upgrade expected to reduce annual expected fire losses from ₹12 lakh to ₹4 lakh and premiums by ₹2 lakh per year. Ignoring the time value of money, the simple payback period is:",
+"o": [
+"3 years",
+"2 years",
+"4 years",
+"5 years"
+],
+"a": 0,
+"e": "Annual benefit = (12 - 4) + 2 = ₹10 lakh; payback = ₹30 lakh / ₹10 lakh = 3 years."
+},
+{
+"n": 18,
+"topic": "Risk Financing and Alternative Risk Transfer",
+"t": "Which of the following risks is most suitable for retention by a large company?",
+"o": [
+"High-severity, low-frequency risks such as explosion of the main plant",
+"Risks whose maximum loss exceeds the company's net worth",
+"Catastrophic liability claims",
+"Low-severity, high-frequency risks such as minor vehicle damage"
+],
+"a": 3,
+"e": "Predictable, low-severity losses can be budgeted and retained economically, saving insurer loadings; catastrophic exposures should be transferred."
+},
+{
+"n": 19,
+"topic": "Risk Financing and Alternative Risk Transfer",
+"t": "A 'protected cell company' (PCC) used in captive insurance is one in which:",
+"o": [
+"All cells share a common pool of assets and liabilities",
+"Only one cell can be created per company",
+"Each cell's assets and liabilities are legally segregated from other cells and from the core",
+"The cells are owned by the regulator"
+],
+"a": 2,
+"e": "Legal segregation of cells protects each participant from the losses of other cells, making PCCs a popular vehicle for rent-a-captive arrangements."
+},
+{
+"n": 20,
+"topic": "Risk Financing and Alternative Risk Transfer",
+"t": "Which of the following is a key feature of an 'Industry Loss Warranty' (ILW)?",
+"o": [
+"Payment depends on the buyer's own loss exceeding a limit",
+"It is a form of life reinsurance",
+"Payment is triggered when industry-wide insured losses from an event exceed a specified amount",
+"It is issued only by the Government of India"
+],
+"a": 2,
+"e": "ILWs pay on an industry loss index trigger, which reduces moral hazard and simplifies settlement but exposes the buyer to basis risk."
+},
+{
+"n": 21,
+"topic": "Risk Financing and Alternative Risk Transfer",
+"t": "'Basis risk' in a parametric or index-based risk transfer refers to:",
+"o": [
+"The risk that the counterparty defaults",
+"The risk that premium will not be paid on time",
+"The risk of interest rate changes",
+"The risk that the payout under the trigger differs from the actual loss suffered by the protection buyer"
+],
+"a": 3,
+"e": "Because index and parametric triggers are not linked to the buyer's actual loss, the buyer may suffer a loss without payout, or receive a payout without loss; this mismatch is basis risk."
+},
+{
+"n": 22,
+"topic": "Risk Financing and Alternative Risk Transfer",
+"t": "A company contributes ₹15 lakh per year to a self-insurance fund for small property losses. In year 3, the fund stands at ₹40 lakh before a ₹55 lakh loss occurs. Which statement is correct?",
+"o": [
+"The fund fully covers the loss",
+"The insurer will pay the shortfall",
+"The loss exceeds the fund by ₹15 lakh, which must be met from current earnings or borrowing, illustrating the timing risk of self-insurance",
+"The loss is void as it exceeds the fund"
+],
+"a": 2,
+"e": "Self-insurance funds build gradually; an early large loss can exceed the accumulated fund, so excess insurance or credit lines are often arranged alongside."
+},
+{
+"n": 23,
+"topic": "Enterprise Risk Management, ISO 31000 and COSO",
+"t": "Which of the following is NOT one of the four objective categories in the COSO ERM Framework (2004)?",
+"o": [
+"Reinsurance",
+"Operations",
+"Reporting",
+"Strategic"
+],
+"a": 0,
+"e": "COSO 2004 identified strategic, operations, reporting and compliance objectives across which the eight components are applied."
+},
+{
+"n": 24,
+"topic": "Enterprise Risk Management, ISO 31000 and COSO",
+"t": "In ISO 31000, 'risk treatment' options include all of the following EXCEPT:",
+"o": [
+"Avoiding the risk by not starting the activity",
+"Concealing the risk from stakeholders",
+"Retaining the risk by informed decision",
+"Sharing the risk with another party through contracts or insurance"
+],
+"a": 1,
+"e": "ISO 31000 treatment options include avoiding, taking or increasing risk to pursue an opportunity, removing the source, changing likelihood or consequences, sharing and retaining; concealment is not a legitimate option."
+},
+{
+"n": 25,
+"topic": "Enterprise Risk Management, ISO 31000 and COSO",
+"t": "A company's ERM programme introduces a 'risk-adjusted' performance measure for business heads. The primary purpose is to:",
+"o": [
+"Ensure that returns are evaluated relative to the risk taken, discouraging excessive risk-taking for short-term results",
+"Reduce the total salary bill",
+"Eliminate the need for a risk committee",
+"Replace the audit function"
+],
+"a": 0,
+"e": "Risk-adjusted metrics such as RAROC align incentives with risk appetite, a key element of embedding risk culture in ERM."
+},
+{
+"n": 26,
+"topic": "Enterprise Risk Management, ISO 31000 and COSO",
+"t": "Which of the following statements about 'risk culture' is correct?",
+"o": [
+"It can be fully established by issuing a written policy",
+"It is measured solely by the number of risk reports filed",
+"It is relevant only to the risk department",
+"It is the set of shared values, attitudes and behaviours that determine how people identify, discuss and act on risk"
+],
+"a": 3,
+"e": "Risk culture is shaped by tone at the top, incentives, accountability and open communication; policies alone do not change behaviour."
+},
+{
+"n": 27,
+"topic": "Enterprise Risk Management, ISO 31000 and COSO",
+"t": "A board-approved statement reads: 'The company will not accept any risk that could result in a loss exceeding 10% of net worth from a single event.' In ERM terms this is primarily a statement of:",
+"o": [
+"Risk appetite",
+"Risk capacity",
+"Inherent risk",
+"Control effectiveness"
+],
+"a": 0,
+"e": "It expresses the level of risk the board is willing to accept; risk capacity would describe the maximum loss the company could survive, which is typically higher."
+},
+{
+"n": 28,
+"topic": "Risk Management in Insurance Companies and IRDAI Governance",
+"t": "A general insurer has net earned premium of ₹800 crore, net incurred claims of ₹600 crore and net operating expenses plus commission of ₹240 crore. Its combined ratio is:",
+"o": [
+"75%",
+"95%",
+"130%",
+"105%"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). Combined ratio = (600 + 240) / 800 = 105%; a ratio above 100% indicates an underwriting loss before investment income.",
+"r": "key"
+},
+{
+"n": 29,
+"topic": "Financial and Operational Risk Management",
+"t": "'Reinvestment risk' is best described as:",
+"o": [
+"The risk of equity prices falling",
+"The risk of default by the bond issuer",
+"The risk that coupons and maturing principal must be reinvested at lower interest rates than originally earned",
+"The risk of fraud in the treasury department"
+],
+"a": 2,
+"e": "Reinvestment risk is an interest-rate risk that particularly affects life insurers with long-term guaranteed liabilities and shorter-duration assets."
+},
+{
+"n": 30,
+"topic": "Financial and Operational Risk Management",
+"t": "Which of the following is an example of a 'strategic risk'?",
+"o": [
+"A typo in a policy document",
+"A short circuit in the office",
+"A competitor's disruptive digital distribution model eroding the firm's market position",
+"A delay in a supplier payment"
+],
+"a": 2,
+"e": "Strategic risks affect the achievement of long-term objectives and arise from business decisions, competition, technology shifts and market changes."
+},
+{
+"n": 31,
+"topic": "Financial and Operational Risk Management",
+"t": "An insurer's treasury buys a 'call option' on an interest-rate futures contract. The maximum loss the insurer can suffer on this position is:",
+"o": [
+"Unlimited",
+"Zero",
+"The notional value of the contract",
+"The premium paid for the option"
+],
+"a": 3,
+"e": "An option buyer's loss is limited to the premium paid, while the writer of an uncovered option faces potentially large losses."
+},
+{
+"n": 32,
+"topic": "Financial and Operational Risk Management",
+"t": "Which of the following is a recommended practice for managing operational risk in an insurer's policy issuance and claims processes?",
+"o": [
+"Combining the roles of maker and checker in one person to save cost",
+"Discontinuing internal audit of claims",
+"Segregation of duties, maker-checker controls, exception reporting and loss event databases",
+"Ignoring near-miss events"
+],
+"a": 2,
+"e": "Segregation of duties and dual controls reduce error and fraud, while loss event data and near-miss capture enable measurement and learning."
+},
+{
+"n": 33,
+"topic": "Financial and Operational Risk Management",
+"t": "A general insurer has investment assets of ₹5,000 crore of which ₹1,500 crore are in equities. If equity markets fall 15%, the loss on the equity portfolio is:",
+"o": [
+"₹75 crore",
+"₹150 crore",
+"₹750 crore",
+"₹225 crore"
+],
+"a": 3,
+"e": "Loss = ₹1,500 crore x 15% = ₹225 crore; this illustrates equity price risk and the need for asset allocation limits and stress testing."
+},
+{
+"n": 34,
+"topic": "Business Continuity Management",
+"t": "Which of the following is the purpose of a 'call tree' in a business continuity plan?",
+"o": [
+"To provide a structured cascade for notifying employees and key stakeholders quickly during an incident",
+"To list the insurer's telephone numbers",
+"To record the data backup schedule",
+"To rank risks by priority"
+],
+"a": 0,
+"e": "A call tree assigns each person responsibility for contacting a few others, ensuring rapid notification even when normal communication channels are disrupted."
+},
+{
+"topic": "Policyholder protection",
+"t": "An insurer must resolve a policyholder's grievance within how many days of receipt?",
+"o": [
+"7 days",
+"14 days",
+"30 days",
+"45 days"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). 14 days under the 2024 regulations; thereafter the policyholder may approach Bima Bharosa or the Ombudsman.",
+"r": "core",
+"n": 35
+},
+{
+"n": 36,
+"topic": "Business Continuity Management",
+"t": "The 'Minimum Business Continuity Objective' (MBCO) is:",
+"o": [
+"The maximum loss the business will accept",
+"The minimum insurance sum insured",
+"The minimum level of services or products acceptable to the organisation to achieve its objectives during a disruption",
+"The time to restore full operations"
+],
+"a": 2,
+"e": "MBCO defines the reduced level of operation that the continuity plan must sustain until normal operations are restored."
+},
+{
+"n": 37,
+"topic": "Business Continuity Management",
+"t": "A business continuity drill reveals that the alternate site can be activated in 36 hours while the RTO of the critical claims process is 24 hours. The correct conclusion is:",
+"o": [
+"There is a gap of 12 hours; either recovery arrangements must be improved or the RTO revisited after reassessing the impact",
+"The plan is adequate as the site works",
+"The RTO should be ignored",
+"The MTPD should be reduced to 24 hours"
+],
+"a": 0,
+"e": "Testing exists to expose such gaps; management must either invest in faster recovery capability or justify a longer RTO within the MTPD."
+},
+{
+"n": 38,
+"topic": "Business Continuity Management",
+"t": "Which of the following is typically included in the 'incident response' phase of BCM?",
+"o": [
+"Annual budget approval",
+"Product pricing review",
+"Long-term strategic planning",
+"Immediate actions to protect life, assess damage, activate the plan and communicate with stakeholders"
+],
+"a": 3,
+"e": "Incident response covers the first hours after an event: life safety, situation assessment, plan activation and initial communication, before recovery and restoration phases."
+},
+{
+"n": 39,
+"topic": "Business Continuity Management",
+"t": "Which of the following statements about outsourcing and BCM is correct?",
+"o": [
+"The organisation remains accountable and should ensure that critical vendors have tested continuity arrangements aligned with its own RTOs",
+"Outsourcing a process transfers all continuity responsibility to the vendor",
+"Vendors are not relevant to BCM",
+"Outsourced processes never need to be included in the BIA"
+],
+"a": 0,
+"e": "Regulators including IRDAI require insurers to manage outsourcing risk; vendor continuity plans and exit strategies form part of the insurer's own BCM."
+},
+{
+"n": 40,
+"topic": "Risk Management in Insurance Companies and IRDAI Governance",
+"t": "Which of the following statements about the 'Required Solvency Margin' (RSM) for an Indian general insurer is correct?",
+"o": [
+"It is a fixed amount of ₹100 crore for all insurers",
+"It is equal to the paid-up capital",
+"It is computed as the higher of specified percentages of net premiums and net incurred claims, by line of business, as prescribed by IRDAI",
+"It is determined by the reinsurer"
+],
+"a": 2,
+"e": "RSM is calculated on a formula basis using premium and claims factors by class of business, and the insurer must hold Available Solvency Margin of at least 1.5 times the RSM."
+},
+{
+"n": 41,
+"topic": "Risk Management in Insurance Companies and IRDAI Governance",
+"t": "An insurer's 'risk management policy' approved by its board should typically contain all of the following EXCEPT:",
+"o": [
+"Risk appetite and tolerance limits",
+"The names of individual policyholders with large claims",
+"Processes for identification, measurement, monitoring and reporting of risks",
+"Roles and responsibilities of the risk function and committees"
+],
+"a": 1,
+"e": "The risk policy sets governance, appetite and processes; details of individual policyholders belong to operational records, not the policy document."
+},
+{
+"n": 42,
+"topic": "Risk Management in Insurance Companies and IRDAI Governance",
+"t": "A life insurer's with-profits fund guarantees a minimum return of 4% per annum while current yields on government securities have fallen to 6.5% and are trending down. The principal risk highlighted is:",
+"o": [
+"Interest rate (guarantee) risk under ALM",
+"Mortality risk",
+"Operational risk",
+"Persistency risk"
+],
+"a": 0,
+"e": "Falling yields narrow the margin between asset returns and guaranteed liabilities; if yields fall below the guarantee, the insurer bears the shortfall - a key ALM concern."
+},
+{
+"topic": "Claims timelines",
+"t": "Under IRDAI's 2024 norms, a surveyor must be appointed within what time of a claim intimation?",
+"o": [
+"24 hours",
+"48 hours",
+"72 hours",
+"7 days"
+],
+"a": 0,
+"e": "★ Core fact (asked across III papers). Appointment within 24 hours; survey report within 15 days; insurer's decision within 7 days of the report.",
+"r": "core",
+"n": 43
+},
+{
+"n": 44,
+"topic": "Risk Management in Insurance Companies and IRDAI Governance",
+"t": "'Stress testing' in an insurer's risk management means:",
+"o": [
+"Testing employees for physical fitness",
+"Checking the software for bugs",
+"Assessing the impact of severe but plausible adverse scenarios (e.g. a market crash plus a major catastrophe) on capital and solvency",
+"Auditing the claims department"
+],
+"a": 2,
+"e": "Stress and scenario tests reveal vulnerabilities not captured by normal-condition models and inform capital planning and risk appetite."
+},
+{
+"n": 45,
+"topic": "Risk Management in Insurance Companies and IRDAI Governance",
+"t": "Which of the following is the primary risk management purpose of IRDAI's investment regulations prescribing pattern-of-investment limits for insurers?",
+"o": [
+"To maximise insurer profits",
+"To reduce the premium charged to policyholders",
+"To direct funds exclusively to equities",
+"To ensure safety, liquidity and diversification of policyholder funds and limit concentration risk"
+],
+"a": 3,
+"e": "Investment regulations mandate minimum holdings in government and approved securities and cap exposures to single issuers and groups, protecting policyholders from investment risk."
+},
+{
+"n": 46,
+"topic": "Insurance as a Risk Management Tool",
+"t": "Which of the following is a reason why insurance premiums exceed expected losses?",
+"o": [
+"Premiums include loadings for expenses, commission, contingency margins and profit in addition to expected claims",
+"Insurers never make underwriting profits",
+"IRDAI requires premiums to be twice the expected loss",
+"Policyholders ask for higher premiums"
+],
+"a": 0,
+"e": "Gross premium = pure (risk) premium plus loadings; this loading is the price a risk-averse insured pays for certainty and the reason retention can be cheaper for predictable losses."
+},
+{
+"n": 47,
+"topic": "Insurance as a Risk Management Tool",
+"t": "A company's warehouse worth ₹8 crore is insured for ₹8 crore. After a fire causing a ₹3 crore loss, the insurer pays ₹3 crore and then recovers ₹1 crore from the negligent contractor who caused the fire. The insurer's right to recover is based on the principle of:",
+"o": [
+"Contribution",
+"Insurable interest",
+"Proximate cause",
+"Subrogation"
+],
+"a": 3,
+"e": "Subrogation allows the insurer, after indemnifying the insured, to step into the insured's shoes and recover from the third party responsible for the loss."
+},
+{
+"n": 48,
+"topic": "Insurance as a Risk Management Tool",
+"t": "A manufacturer wants cover for loss of gross profit following fire damage to its plant. The appropriate policy is:",
+"o": [
+"Public liability policy",
+"Fire loss of profits (consequential loss / business interruption) policy",
+"Fidelity guarantee policy",
+"Marine cargo policy"
+],
+"a": 1,
+"e": "Business interruption cover indemnifies loss of gross profit and increased cost of working during the indemnity period following insured damage."
+},
+{
+"n": 49,
+"topic": "Insurance as a Risk Management Tool",
+"t": "Which of the following statements regarding insurance and the 'transfer of risk' is INCORRECT?",
+"o": [
+"After purchasing insurance, the insured no longer needs loss control",
+"The insured retains any loss within the deductible and above the policy limit",
+"Insurance transfers the financial consequences of loss, not the risk event itself",
+"Exclusions in the policy leave certain risks with the insured"
+],
+"a": 0,
+"e": "Even with insurance, loss control remains necessary to manage retained portions, uninsured consequences such as reputation, and to earn better terms; insurance does not remove the need for control."
+},
+{
+"n": 50,
+"topic": "Insurance as a Risk Management Tool",
+"t": "A machinery breakdown policy covers a turbine valued at ₹5 crore with an excess of ₹2 lakh per claim. A breakdown causes a repair cost of ₹18 lakh. The insurer pays:",
+"o": [
+"₹16 lakh",
+"₹18 lakh",
+"₹2 lakh",
+"₹20 lakh"
+],
+"a": 0,
+"e": "Claim payable = loss less excess = ₹18 lakh - ₹2 lakh = ₹16 lakh, with the excess retained by the insured."
+}
+]

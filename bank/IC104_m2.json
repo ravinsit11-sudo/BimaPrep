@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Introduction to Life Insurance Products",
+"t": "The principle that allows a life insurer to charge a predictable premium by pooling a large number of similar lives is known as the:",
+"o": [
+"Principle of indemnity",
+"Principle of subrogation",
+"Law of large numbers",
+"Principle of contribution"
+],
+"a": 2,
+"e": "With a sufficiently large pool of homogeneous lives, actual deaths converge towards the expected number given by the mortality table, making premiums predictable. Indemnity, subrogation and contribution are general insurance principles that do not apply to life cover."
+},
+{
+"n": 2,
+"topic": "Endowment and Money-Back Plans",
+"t": "An endowment policy with sum assured ₹4,00,000 and term 20 years has accrued simple reversionary bonuses of ₹45 per ₹1,000 sum assured per year for 12 years when the life assured dies. The death claim (excluding any terminal bonus) is:",
+"o": [
+"₹6,16,000",
+"₹4,54,000",
+"₹4,00,000",
+"₹5,40,000"
+],
+"a": 0,
+"e": "Bonus accrued = ₹45 × 400 × 12 = ₹2,16,000; add sum assured ₹4,00,000 to get ₹6,16,000. Simple reversionary bonus is calculated on the basic sum assured only."
+},
+{
+"n": 3,
+"topic": "Unit Linked Insurance Products (ULIPs)",
+"t": "In a ULIP, the investment risk in the investment portfolio is borne by:",
+"o": [
+"The insurer",
+"IRDAI through the Policyholders' Protection Fund",
+"The policyholder",
+"The fund manager personally"
+],
+"a": 2,
+"e": "ULIP benefits (other than the guaranteed minimum death benefit) depend on the NAV of the chosen funds, and regulations require every ULIP document to state that the investment risk is borne by the policyholder."
+},
+{
+"n": 4,
+"topic": "Product Design and Pricing",
+"t": "In life insurance pricing, the 'net premium' is the premium that:",
+"o": [
+"Includes loadings for expenses, contingencies and profit",
+"Is paid after deducting agent's commission",
+"Is calculated using mortality and interest assumptions only, without expense loading",
+"Is net of GST"
+],
+"a": 2,
+"e": "Net (or pure) premium covers only the cost of benefits on the mortality and interest basis; adding expense, contingency and profit loadings produces the gross or office premium charged to the policyholder."
+},
+{
+"n": 5,
+"topic": "Regulatory Framework and Taxation",
+"t": "The IRDAI Master Circular on Life Insurance Products issued in June 2024:",
+"o": [
+"Reintroduced the File and Use procedure for all products",
+"Barred life insurers from selling annuities",
+"Abolished the free-look period",
+"Consolidated earlier circulars and set out norms such as surrender value after the first year and mandatory policy loans on savings products"
+],
+"a": 3,
+"e": "The June 2024 Master Circular replaced numerous earlier circulars and laid down policyholder-friendly norms including special surrender value after payment of the first year's premium, loan facility under all savings products and flexible partial withdrawals in pension plans."
+},
+{
+"n": 6,
+"topic": "Term and Whole Life Insurance",
+"t": "A 35-year-old earning ₹10 lakh a year wants the maximum death cover at the lowest premium for 25 years with no return on survival. He should buy:",
+"o": [
+"Level term assurance",
+"Endowment assurance",
+"Whole life with limited premium",
+"Money-back policy"
+],
+"a": 0,
+"e": "Level term assurance gives the highest sum assured per rupee of premium because it carries no savings element and pays only on death within the term."
+},
+{
+"n": 7,
+"topic": "Introduction to Life Insurance Products",
+"t": "Which of the following statements about the human life value (HLV) concept is correct?",
+"o": [
+"HLV equals the total premiums an individual can afford to pay",
+"HLV is the present value of the individual's future earnings available to dependants and indicates the amount of life cover needed",
+"HLV is fixed by IRDAI for each income bracket",
+"HLV is relevant only for pension products"
+],
+"a": 1,
+"e": "HLV, developed by Dr S.S. Huebner, capitalises the future income that would be lost on premature death and is the basis for determining an adequate sum assured in protection products."
+},
+{
+"n": 8,
+"topic": "Endowment and Money-Back Plans",
+"t": "In a joint life endowment policy taken by a husband and wife, the sum assured is normally payable:",
+"o": [
+"Only on the death of both lives",
+"Twice, once on each death",
+"On the first death during the term or on maturity if both survive",
+"Only on survival of both to maturity"
+],
+"a": 2,
+"e": "A joint life endowment covers two lives together and pays the sum assured on the first death or at maturity, after which the contract ends; it is popular with spouses and business partners."
+},
+{
+"n": 9,
+"topic": "Term and Whole Life Insurance",
+"t": "A pure term insurance policy with a 20-year term pays which of the following if the life assured survives the full term?",
+"o": [
+"The sum assured",
+"Total premiums paid with interest",
+"Nothing",
+"A reduced paid-up value"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). A pure term plan provides only a death benefit during the term; there is no maturity or survival benefit, which is why it is the cheapest form of life cover. A return-of-premium variant would refund premiums, but a pure term plan does not.",
+"r": "key"
+},
+{
+"n": 10,
+"topic": "Unit Linked Insurance Products (ULIPs)",
+"t": "The 'reduction in yield' (RIY) limit prescribed by IRDAI for ULIPs at the end of the fifteenth policy year and thereafter is:",
+"o": [
+"4.00%",
+"3.00%",
+"1.35%",
+"2.25%"
+],
+"a": 3,
+"e": "IRDAI caps the gap between gross and net yield at 2.25% from the fifteenth year onwards (and 3% at the tenth year), ensuring total charges remain reasonable over the long term."
+},
+{
+"n": 11,
+"topic": "Annuities and Pension Products",
+"t": "An 'annuity certain for 15 years and life thereafter' means:",
+"o": [
+"Payments are guaranteed for 15 years even if the annuitant dies earlier, and continue for life if he survives",
+"Payments stop at the end of 15 years in all cases",
+"Payments start only after 15 years",
+"The annuitant must survive 15 years to receive anything"
+],
+"a": 0,
+"e": "The guaranteed period protects the nominee against early death of the annuitant, after which the annuity continues as a life annuity; the rate is slightly lower than a pure life annuity."
+},
+{
+"n": 12,
+"topic": "Riders and Health-Linked Life Products",
+"t": "Under a hospital cash benefit rider, the benefit payable is:",
+"o": [
+"Actual hospital bill up to the sum insured",
+"A fixed daily amount for each day of hospitalisation, subject to a limit on days",
+"Reimbursement of medicines only",
+"The full sum assured on discharge"
+],
+"a": 1,
+"e": "Hospital cash is a fixed benefit product permitted for life insurers; it pays a pre-agreed daily amount (often doubled for ICU) irrespective of actual expenses, usually after a deductible of 24 hours and with annual day caps."
+},
+{
+"n": 13,
+"topic": "Group Life Products",
+"t": "IRDAI group insurance norms require that a group formed for the purpose of obtaining insurance:",
+"o": [
+"Is acceptable as long as it has at least five members",
+"Must be registered as a trust",
+"Is not permitted; the group must exist for a purpose other than buying insurance",
+"Must be approved by SEBI"
+],
+"a": 2,
+"e": "Group insurance is meant for pre-existing homogeneous groups (employer-employee, bank-borrower, association members); groups formed solely to obtain insurance are not acceptable, as this would amount to anti-selection and mis-selling."
+},
+{
+"n": 14,
+"topic": "Product Design and Pricing",
+"t": "Which of the following is a 'loading' added to the net premium while computing the office premium?",
+"o": [
+"Mortality rate",
+"Surrender value factor",
+"Bonus rate",
+"Expense and contingency margin"
+],
+"a": 3,
+"e": "Loadings cover initial and renewal expenses, commission, contingency margins and profit; mortality and interest are the assumptions used for the net premium itself."
+},
+{
+"n": 15,
+"topic": "Regulatory Framework and Taxation",
+"t": "Under Section 80C, premium on a policy issued on or after 1 April 2012 qualifies for deduction only to the extent of:",
+"o": [
+"10% of the sum assured (15% for persons with disability or specified disease)",
+"20% of the sum assured",
+"25% of the sum assured",
+"The full premium irrespective of sum assured"
+],
+"a": 0,
+"e": "For policies issued on or after 1-4-2012 the deductible premium is limited to 10% of the actual capital sum assured (15% under Section 80U/80DDB cases); the 20% limit applies to policies issued earlier."
+},
+{
+"n": 16,
+"topic": "Product Design and Pricing",
+"t": "The 'risk premium' for a one-year term cover of ₹10,00,000 on a life whose probability of death in the year is 0.002 is:",
+"o": [
+"₹200",
+"₹1,000",
+"₹20,000",
+"₹2,000"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). Risk (natural) premium = probability of death × sum assured = 0.002 × ₹10,00,000 = ₹2,000, before loading for expenses, interest and profit.",
+"r": "key"
+},
+{
+"n": 17,
+"topic": "Participating and Non-Participating Products",
+"t": "A 'with-profits committee' of a life insurer is required to:",
+"o": [
+"Fix the agents' commission rates",
+"Review the asset share methodology and ensure fair treatment of participating policyholders in bonus distribution",
+"Approve claim settlements above ₹1 crore",
+"Audit the shareholders' fund"
+],
+"a": 1,
+"e": "IRDAI mandates a With-Profits Committee (including an independent actuary and independent director) to oversee asset share computations, expense allocation and the equity of bonus declarations for par policyholders."
+},
+{
+"n": 18,
+"topic": "Unit Linked Insurance Products (ULIPs)",
+"t": "The minimum guaranteed rate of return on the discontinued policy fund of a ULIP is linked to:",
+"o": [
+"The repo rate",
+"The 10-year government security yield",
+"The savings bank deposit interest rate of State Bank of India",
+"The IRDAI-declared bonus rate"
+],
+"a": 2,
+"e": "The discontinued policy fund earns a minimum guaranteed interest equal to the SBI savings bank rate (currently 4% p.a.), with the insurer permitted to charge a maximum FMC of 0.50% on it."
+},
+{
+"n": 19,
+"topic": "Term and Whole Life Insurance",
+"t": "Which statement about whole life assurance is INCORRECT?",
+"o": [
+"The sum assured is payable on death whenever it occurs",
+"Premiums under ordinary whole life are payable till death or a specified age",
+"Many whole life plans treat survival to age 100 as maturity",
+"Whole life policies cannot participate in profits"
+],
+"a": 3,
+"e": "Whole life plans are available both as participating (with bonuses) and non-participating versions. The other statements correctly describe the product."
+},
+{
+"n": 20,
+"topic": "Annuities and Pension Products",
+"t": "Under the IRDAI 2024 product framework, a pension policyholder may make partial withdrawals from the accumulated fund for which of the following purposes?",
+"o": [
+"Higher education or marriage of children, purchase or construction of a house, or treatment of critical illness",
+"Purchase of a car",
+"Foreign travel",
+"Any purpose, without restriction"
+],
+"a": 0,
+"e": "Partial withdrawals under pension products are permitted up to 25% of the fund value, a maximum of three times during the term, for specified needs such as children's education or marriage, house purchase/construction and critical illness or medical treatment."
+},
+{
+"n": 21,
+"topic": "Riders and Health-Linked Life Products",
+"t": "A combi product in the Indian market refers to:",
+"o": [
+"Two life insurance policies bundled by one insurer",
+"A single product combining a life insurance cover from a life insurer with a health (indemnity) cover from a general or health insurer",
+"A ULIP with two funds",
+"A term plan with an annuity option"
+],
+"a": 1,
+"e": "IRDAI guidelines permit a life insurer to tie up with one non-life/health insurer to offer a combi product, with each insurer underwriting and servicing its own component."
+},
+{
+"n": 22,
+"topic": "Product Design and Pricing",
+"t": "The Appointed Actuary of a life insurer is responsible for:",
+"o": [
+"Marketing of the insurer's products",
+"Approving policy loans",
+"Certifying the premium rates, benefits and reserves of products and the financial soundness of the insurer",
+"Settling disputed claims"
+],
+"a": 2,
+"e": "Under IRDAI (Appointed Actuary) Regulations, the AA certifies pricing adequacy, product terms, bonus recommendations and actuarial valuation, and reports to IRDAI on matters affecting solvency."
+},
+{
+"n": 23,
+"topic": "Regulatory Framework and Taxation",
+"t": "A policy with annual premium of ₹20,000 and a monthly-mode policy differ in the grace period allowed for payment of renewal premium. The grace period is:",
+"o": [
+"15 days for yearly mode and 30 days for monthly mode",
+"60 days for all modes",
+"30 days for all modes",
+"30 days for yearly, half-yearly and quarterly modes and 15 days for monthly mode"
+],
+"a": 3,
+"e": "The grace period is 30 days for annual, half-yearly and quarterly modes and 15 days for monthly mode; the policy remains in force during the grace period and a death claim is paid after deducting the unpaid premium."
+},
+{
+"n": 24,
+"topic": "Introduction to Life Insurance Products",
+"t": "Which of the following products would be most suitable for a 58-year-old retiree with a lump sum of ₹50 lakh who wants a guaranteed monthly income for life?",
+"o": [
+"An immediate life annuity",
+"A unit linked endowment plan",
+"A 20-year term plan",
+"A money-back policy"
+],
+"a": 0,
+"e": "An immediate annuity converts the lump sum into a guaranteed lifelong income stream, addressing longevity risk; term plans give no survival benefit and ULIPs give no guarantee."
+},
+{
+"n": 25,
+"topic": "Endowment and Money-Back Plans",
+"t": "A policyholder pays premiums for 6 years on a 20-year endowment with sum assured ₹2,00,000 and then stops. The reduced paid-up sum assured (before bonuses) is:",
+"o": [
+"₹40,000",
+"₹60,000",
+"₹1,20,000",
+"₹2,00,000"
+],
+"a": 1,
+"e": "Paid-up value = (premiums paid ÷ premiums payable) × sum assured = (6 ÷ 20) × ₹2,00,000 = ₹60,000; accrued bonuses are added to this reduced sum assured."
+},
+{
+"n": 26,
+"topic": "Unit Linked Insurance Products (ULIPs)",
+"t": "A ULIP policyholder with regular annualised premium of ₹1,00,000 and age 30 must be offered a minimum sum assured on death of at least:",
+"o": [
+"₹5,00,000",
+"₹10,00,000",
+"₹7,00,000",
+"₹12,50,000"
+],
+"a": 2,
+"e": "IRDAI requires a minimum death benefit of 7 times the annualised premium for regular premium policies (1.25 times for single premium), so ₹7,00,000; the earlier 10-times rule was reduced in 2019."
+},
+{
+"n": 27,
+"topic": "Participating and Non-Participating Products",
+"t": "A guaranteed addition in a non-participating endowment plan is:",
+"o": [
+"Declared each year depending on surplus",
+"Equivalent to the terminal bonus",
+"Paid only on surrender",
+"A fixed amount per ₹1,000 sum assured that accrues each year as stated in the policy at inception"
+],
+"a": 3,
+"e": "Guaranteed additions are contractually fixed at the outset (for example ₹50 per ₹1,000 SA per year) and do not depend on the insurer's profits, which distinguishes them from bonuses."
+},
+{
+"n": 28,
+"topic": "Introduction to Life Insurance Products",
+"t": "Under IRDAI's corporate agency framework as amended in 2022, a bank acting as corporate agent may tie up with a maximum of:",
+"o": [
+"Nine life insurers",
+"Three life insurers",
+"One life insurer",
+"Any number of life insurers without limit"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). The 2022 amendment raised the ceiling from three to nine insurers in each of the life, general and health categories, widening product choice for bancassurance customers.",
+"r": "key"
+},
+{
+"n": 29,
+"topic": "Annuities and Pension Products",
+"t": "Which of the following is a correct feature of IRDAI's standard immediate annuity product 'Saral Pension'?",
+"o": [
+"It provides a single life or joint life annuity with return of 100% purchase price, with surrender permitted on diagnosis of specified critical illnesses",
+"It offers only a deferred annuity option",
+"It is available only to NPS subscribers",
+"Annuity rates are fixed by IRDAI"
+],
+"a": 0,
+"e": "Saral Pension is a standardised immediate annuity with two options (single life and joint life, both with return of purchase price), a loan facility after six months and surrender on critical illness of the annuitant or spouse."
+},
+{
+"n": 30,
+"topic": "Group Life Products",
+"t": "In an employer-employee group term scheme, the sum assured for each member is usually fixed as:",
+"o": [
+"An amount chosen individually by each employee after medical examination",
+"A uniform amount or a multiple of salary or grade-based amount, to avoid anti-selection",
+"The outstanding housing loan of the employee",
+"An amount decided by the trade union"
+],
+"a": 1,
+"e": "A formula-based benefit (flat amount, multiple of salary or grade) removes individual choice and limits anti-selection, which is why group schemes can offer cover without individual underwriting up to a free cover limit."
+},
+{
+"n": 31,
+"topic": "Product Design and Pricing",
+"t": "A life insurer's Product Management Committee (PMC) must include, among others:",
+"o": [
+"A representative of IRDAI",
+"Only independent directors",
+"The Appointed Actuary, Chief Risk Officer, Chief Marketing Officer and Chief Compliance Officer",
+"The Insurance Ombudsman"
+],
+"a": 2,
+"e": "IRDAI requires the PMC to comprise senior functionaries including the Appointed Actuary, CRO, CMO, CCO and others, to review product design, pricing and compliance before launch under Use and File."
+},
+{
+"n": 32,
+"topic": "Regulatory Framework and Taxation",
+"t": "Under IRDAI norms, a lapsed non-linked policy can be revived within how many years from the date of the first unpaid premium?",
+"o": [
+"2 years",
+"3 years",
+"10 years",
+"5 years"
+],
+"a": 3,
+"e": "The revival period is five years from the due date of the first unpaid premium, subject to payment of arrears with interest and evidence of insurability as per the insurer's board-approved underwriting policy."
+},
+{
+"n": 33,
+"topic": "Term and Whole Life Insurance",
+"t": "A couple takes a joint life term plan where the sum assured is paid on the first death and the policy terminates. If both die simultaneously in an accident, the claim payable is:",
+"o": [
+"One sum assured, paid to the legal heirs",
+"Nothing, as the policy requires one survivor",
+"Two sums assured",
+"Return of premiums only"
+],
+"a": 0,
+"e": "A joint life first-death term plan pays a single sum assured once; simultaneous death still triggers one payment, which goes to the nominee or legal heirs since neither life survives."
+},
+{
+"n": 34,
+"topic": "Unit Linked Insurance Products (ULIPs)",
+"t": "When a regular-premium ULIP is discontinued after completion of the five-year lock-in period, the policyholder may:",
+"o": [
+"Only surrender and receive the fund value",
+"Choose to revive within the revival period, convert to reduced paid-up, or withdraw the fund value without discontinuance charge",
+"Receive the fund value only after another five years",
+"Continue cover without paying premiums for life"
+],
+"a": 1,
+"e": "After lock-in, discontinuance charges do not apply and the policyholder is given options to revive, continue as reduced paid-up (where offered) or take the fund value; before lock-in the fund moves to the discontinued policy fund."
+},
+{
+"n": 35,
+"topic": "Riders and Health-Linked Life Products",
+"t": "A term rider attached to an endowment policy serves to:",
+"o": [
+"Reduce the premium of the base policy",
+"Convert the endowment into a ULIP",
+"Increase the death cover at low cost without changing the savings component",
+"Provide maturity benefit in addition to the base policy"
+],
+"a": 2,
+"e": "A term rider adds pure life cover (payable only on death during the rider term) at a low additional premium, which is cheaper than increasing the sum assured of the endowment itself."
+},
+{
+"topic": "Taxation",
+"t": "Deduction for health insurance premium under Section 80D for an individual below 60 years (self and family) is up to:",
+"o": [
+"₹15,000",
+"₹25,000",
+"₹50,000",
+"₹75,000"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). ₹25,000; ₹50,000 where the insured is a senior citizen; an additional ₹25,000/₹50,000 for parents.",
+"r": "core",
+"n": 36
+},
+{
+"n": 37,
+"topic": "Annuities and Pension Products",
+"t": "Under a deferred pension plan with vesting at age 60, if the policyholder dies during the deferment period, the nominee is entitled to receive:",
+"o": [
+"Nothing, as the annuity had not commenced",
+"The sum assured of a separate term policy",
+"Only the annuity instalments that would have been paid",
+"At least 105% of the premiums paid (or the fund value, if higher under linked plans), with the option to take it as lump sum or buy an annuity"
+],
+"a": 3,
+"e": "IRDAI requires a death benefit during deferment of at least 105% of total premiums paid for pension products; the nominee may withdraw the entire amount or utilise it to purchase an annuity."
+},
+{
+"n": 38,
+"topic": "Group Life Products",
+"t": "The 'free cover limit' in a group term scheme is:",
+"o": [
+"The sum assured up to which members are covered without individual medical underwriting",
+"The sum assured below which no premium is charged",
+"The maximum claim an insurer will pay in a year",
+"The number of members who may join without paying premium"
+],
+"a": 0,
+"e": "The free cover limit depends on group size and benefit formula; members with cover above this limit must furnish evidence of health for the excess amount."
+},
+{
+"n": 39,
+"topic": "Product Design and Pricing",
+"t": "Which of the following best explains why premium rates for women are often lower than for men of the same age in term insurance?",
+"o": [
+"IRDAI mandates a 10% discount for women",
+"Mortality experience shows lower death rates among women at most ages",
+"Women are not permitted to buy large sum assured policies",
+"Women pay a higher GST on premium"
+],
+"a": 1,
+"e": "Pricing follows mortality experience; female lives show lower mortality, which insurers reflect through separate rates or an age set-back, not because of any regulatory mandate."
+},
+{
+"n": 40,
+"topic": "Regulatory Framework and Taxation",
+"t": "The 2024 regulatory framework requires every individual life insurance savings product to offer:",
+"o": [
+"A guaranteed bonus rate",
+"A free annuity option",
+"A policy loan facility, with limits set by the insurer",
+"A minimum return of 8%"
+],
+"a": 2,
+"e": "The Master Circular of June 2024 mandates a loan facility under all life insurance savings products to improve liquidity for policyholders; pure term, pension and ULIP products are treated differently."
+},
+{
+"n": 41,
+"topic": "Introduction to Life Insurance Products",
+"t": "Which of the following statements about micro-insurance life products is correct?",
+"o": [
+"They are available only to persons with income above ₹10 lakh",
+"They require compulsory medical examination",
+"They cannot be sold by LIC",
+"They are simple, low-sum-assured products designed for low-income households and may be distributed through micro-insurance agents such as SHGs and NGOs"
+],
+"a": 3,
+"e": "Micro-insurance products are simplified low-premium life (term, endowment, health) covers aimed at economically weaker sections, distributed through MFIs, NGOs, SHGs and similar entities under IRDAI micro-insurance norms."
+},
+{
+"n": 42,
+"topic": "Endowment and Money-Back Plans",
+"t": "A 15-year money-back plan of ₹3,00,000 pays 15% of SA at the end of years 3, 6, 9 and 12 and the balance at maturity. The maturity payment (excluding bonuses) is:",
+"o": [
+"₹1,20,000",
+"₹1,80,000",
+"₹3,00,000",
+"₹45,000"
+],
+"a": 0,
+"e": "Survival benefits total 4 × 15% = 60% (₹1,80,000), so the balance 40% of ₹3,00,000 = ₹1,20,000 is paid at maturity together with accrued bonuses on the full sum assured."
+},
+{
+"n": 43,
+"topic": "Unit Linked Insurance Products (ULIPs)",
+"t": "In a ULIP with 'Type II' or 'Option B' death benefit, the amount payable on death is:",
+"o": [
+"Higher of sum assured or fund value",
+"Sum assured plus fund value",
+"Fund value only",
+"Sum assured minus fund value"
+],
+"a": 1,
+"e": "Type I pays the higher of SA or fund value, whereas Type II pays both SA and fund value; mortality charges under Type II are higher because the sum at risk does not reduce as the fund grows."
+},
+{
+"topic": "Motor – statutory",
+"t": "Third-party insurance is compulsory for a motor vehicle used in a public place under which section of the Motor Vehicles Act 1988?",
+"o": [
+"Section 140",
+"Section 146",
+"Section 163A",
+"Section 166"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). Section 146 makes TP cover compulsory; Section 164 fixes no-fault compensation (₹5 lakh death / ₹2.5 lakh grievous hurt).",
+"r": "core",
+"n": 44
+},
+{
+"n": 45,
+"topic": "Participating and Non-Participating Products",
+"t": "Why are participating policy premiums generally higher than those of comparable non-participating policies?",
+"o": [
+"Because bonuses are guaranteed",
+"Because par policies have no surrender value",
+"Because the premium carries a margin that creates surplus to be returned as bonus",
+"Because IRDAI prescribes a higher premium"
+],
+"a": 2,
+"e": "Par premiums are set on conservative assumptions so that surplus emerges and is shared with policyholders as bonus; non-par products price benefits as guaranteed at the outset."
+},
+{
+"n": 46,
+"topic": "Annuities and Pension Products",
+"t": "An increasing annuity in which payments rise by a fixed percentage (say 3%) every year is designed mainly to:",
+"o": [
+"Give the highest first-year income",
+"Reduce the premium",
+"Return the purchase price faster",
+"Offset the effect of inflation on the annuitant's purchasing power"
+],
+"a": 3,
+"e": "Escalating annuities start at a lower level than a level annuity but grow each year, protecting real income; the starting amount is lower because the insurer funds later increases."
+},
+{
+"n": 47,
+"topic": "Riders and Health-Linked Life Products",
+"t": "Under an accidental total and permanent disability (ATPD) rider, the benefit is usually paid when the life assured:",
+"o": [
+"Suffers an accident resulting in permanent loss of use of limbs or sight, rendering him unable to earn a living",
+"Is hospitalised for more than 7 days",
+"Is diagnosed with any illness",
+"Retires at age 60"
+],
+"a": 0,
+"e": "ATPD riders pay a lump sum (or instalments) on permanent and total disability due to accident as defined in the rider, such as loss of two limbs or both eyes; illness and temporary disability are not covered."
+},
+{
+"n": 48,
+"topic": "Term and Whole Life Insurance",
+"t": "Under IRDAI norms, if a life assured commits suicide within 12 months from the date of commencement of risk of a non-linked policy, the nominee is entitled to:",
+"o": [
+"Nothing",
+"At least 80% of the total premiums paid till death or the surrender value, whichever is higher",
+"The full sum assured",
+"Only the accrued bonus"
+],
+"a": 1,
+"e": "The standardised suicide clause provides at least 80% of premiums paid (or surrender value if higher) for non-linked policies, and the fund value for linked policies, if suicide occurs within 12 months of commencement or revival."
+},
+{
+"n": 49,
+"topic": "Product Design and Pricing",
+"t": "'Profit testing' in product design involves:",
+"o": [
+"Checking the agent's commission",
+"Auditing past claims",
+"Projecting future cash flows of a model policy under realistic assumptions to assess whether the product meets the insurer's profit criteria",
+"Comparing premium rates with competitors only"
+],
+"a": 2,
+"e": "Profit testing projects premiums, benefits, expenses, reserves and capital requirements over the policy term to compute measures such as profit margin and internal rate of return, guiding pricing decisions."
+},
+{
+"n": 50,
+"topic": "Regulatory Framework and Taxation",
+"t": "Premium paid by a company on a keyman insurance (term) policy on the life of its managing director is treated for income tax as:",
+"o": [
+"Not deductible",
+"Exempt from tax along with the proceeds under Section 10(10D)",
+"Deductible under Section 80C of the company",
+"Deductible as business expenditure under Section 37(1), with the maturity/claim proceeds taxable in the company's hands"
+],
+"a": 3,
+"e": "Keyman insurance premium is allowed as business expense, but proceeds received by the company are taxable as business income and are specifically excluded from Section 10(10D) exemption."
+}
+]

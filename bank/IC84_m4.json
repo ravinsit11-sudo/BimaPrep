@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Loss Reserving",
+"t": "Cumulative incurred claims (₹ crore) develop from 24 to 36 months as follows for three accident years: 200 → 230, 240 → 270, 260 → 300. The three-year volume-weighted 24–36 development factor is approximately:",
+"o": [
+"1.150",
+"1.137",
+"1.143",
+"1.154"
+],
+"a": 2,
+"e": "Weighted factor = (230 + 270 + 300)/(200 + 240 + 260) = 800/700 = 1.1429. The simple average of 1.15, 1.125 and 1.154 would be 1.143 as well here, but in general the two differ."
+},
+{
+"n": 2,
+"topic": "Loss Reserving",
+"t": "In a claims triangle organised by accident year, each row contains:",
+"o": [
+"All claims arising from events occurring in that year, regardless of when the policy was written or the claim reported",
+"All claims under policies written in that year",
+"All claims first reported in that year",
+"All claims paid in that year"
+],
+"a": 0,
+"e": "Accident-year grouping is by date of loss. Policy-year groups by policy inception, report-year by date of notification (used for claims-made covers), and calendar-year is a payment/accounting view."
+},
+{
+"n": 3,
+"topic": "Loss Reserving",
+"t": "Selected age-to-age factors are 1.50 (12–24), 1.20 (24–36) and 1.10 (36–ultimate). The percentage of ultimate claims expected to be reported at 12 months is approximately:",
+"o": [
+"66.7%",
+"50.5%",
+"41.7%",
+"33.3%"
+],
+"a": 1,
+"e": "CDF at 12 months = 1.50 × 1.20 × 1.10 = 1.98. Percentage reported = 1/1.98 ≈ 50.5%."
+},
+{
+"n": 4,
+"topic": "Loss Reserving",
+"t": "An actual-versus-expected test: an accident year's selected ultimate is ₹100 crore, with 40% expected to be reported at the previous valuation and 55% at the current one. Actual claims reported during the interval were ₹20 crore. The ratio of actual to expected emergence is:",
+"o": [
+"100%",
+"75%",
+"133%",
+"55%"
+],
+"a": 2,
+"e": "Expected emergence = (55% − 40%) × 100 = ₹15 crore. Actual/expected = 20/15 = 133%, signalling that the ultimate may need to be raised."
+},
+{
+"n": 5,
+"topic": "Loss Reserving",
+"t": "A hindsight (run-off) test: one year ago the insurer held claim reserves of ₹50 crore for a group of accident years. During the year ₹20 crore was paid on those years and the current estimate of their remaining liability is ₹35 crore. The reserve held a year ago was:",
+"o": [
+"Redundant by ₹5 crore",
+"Adequate",
+"Deficient by ₹15 crore",
+"Deficient by ₹5 crore (10%)"
+],
+"a": 3,
+"e": "Re-estimated liability a year ago = paid since + current reserve = 20 + 35 = ₹55 crore versus ₹50 crore held, a deficiency of ₹5 crore, or 10% of the original reserve."
+},
+{
+"n": 6,
+"topic": "Loss Reserving",
+"t": "For a long-tailed liability line, a common actuarial practice is to use:",
+"o": [
+"The chain ladder for all years, since it uses only actual data",
+"The Bornhuetter-Ferguson (or Cape Cod) method for the most recent immature years and the chain ladder for mature years",
+"The expected claims method for mature years only",
+"Case reserves alone for the oldest years"
+],
+"a": 1,
+"e": "Immature years are unstable under the chain ladder, so expected-loss-based methods are preferred; as years mature and reported data becomes credible, the development method takes over."
+},
+{
+"n": 7,
+"topic": "Loss Reserving",
+"t": "Observed age-to-age factors at the latest three ages are 1.10, 1.05 and 1.025, each excess over 1 being half the previous. Extrapolating this geometric decay indefinitely, the tail factor beyond the last observed age is approximately:",
+"o": [
+"1.025",
+"1.050",
+"1.075",
+"1.100"
+],
+"a": 0,
+"e": "Future excesses are 0.0125, 0.00625, ... summing to 0.025 (a geometric series with first term 0.0125 and ratio 0.5). The product of the remaining factors is therefore approximately 1.025."
+},
+{
+"n": 8,
+"topic": "Loss Reserving",
+"t": "Which of the following statements about discounting loss reserves is INCORRECT?",
+"o": [
+"Discounting reduces the stated reserve by the investment income expected on the funds before payment",
+"The effect of discounting is greater for long-tailed lines",
+"Discounted reserves are always more prudent than undiscounted reserves",
+"Discounting requires an assumed payment pattern as well as an interest rate"
+],
+"a": 2,
+"e": "Discounting lowers reserves and removes the implicit margin that undiscounted reserves carry; it is less, not more, conservative unless an explicit risk margin is added."
+},
+{
+"n": 9,
+"topic": "Reinsurance",
+"t": "When exposure-rating a property excess of loss layer, the reinsurer uses a 'first-loss' (exposure) curve that gives:",
+"o": [
+"The frequency of losses by cause",
+"The cumulative proportion of total loss cost that falls within a given percentage of the insured value, allowing the layer's share to be read off",
+"The reinsurer's historical combined ratio",
+"The cedant's retention as a percentage of premium"
+],
+"a": 1,
+"e": "First-loss scales (e.g. Lloyd's scale, Salzmann curves) express how losses are distributed relative to sum insured, so the expected cost between retention and limit can be computed without the cedant's own large-loss history."
+},
+{
+"n": 10,
+"topic": "Risk Classification",
+"t": "The indicated pure premium for Class A is ₹2,400 and for the base class ₹2,000. The indicated class relativity for Class A is:",
+"o": [
+"0.83",
+"1.10",
+"1.20",
+"1.40"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). Relativity = class pure premium / base pure premium = 2,400/2,000 = 1.20. Class A should be charged 20% above the base rate.",
+"r": "key"
+},
+{
+"n": 11,
+"topic": "Reinsurance",
+"t": "A 50% quota share treaty limits the reinsurer's maximum liability to ₹5 crore per risk. A risk with sum insured ₹20 crore suffers a loss of ₹4 crore. The reinsurer pays:",
+"o": [
+"₹2 crore",
+"₹4 crore",
+"₹5 crore",
+"₹1 crore"
+],
+"a": 3,
+"e": "The reinsurer's share of this risk is capped at 5/20 = 25%, not 50%. Reinsurer's share of the loss = 25% × 4 = ₹1 crore."
+},
+{
+"n": 12,
+"topic": "Reinsurance",
+"t": "A per-risk excess of loss treaty of ₹2 crore in excess of ₹1 crore carries an annual aggregate deductible of ₹1 crore. Losses during the year are ₹2.5 crore, ₹1.8 crore and ₹1.5 crore. Total recovery from the reinsurer is:",
+"o": [
+"₹1.8 crore",
+"₹2.8 crore",
+"₹3.8 crore",
+"₹0.8 crore"
+],
+"a": 0,
+"e": "Losses to the layer: 1.5 + 0.8 + 0.5 = ₹2.8 crore. The cedant retains the first ₹1 crore of layer losses under the AAD, so the reinsurer pays 2.8 − 1.0 = ₹1.8 crore."
+},
+{
+"n": 13,
+"topic": "Reinsurance",
+"t": "A treaty retention is ₹10 lakh. A loss of ₹15 lakh at current cost levels is subject to 10% inflation. The percentage increase in the excess portion of the loss is:",
+"o": [
+"10%",
+"30%",
+"15%",
+"20%"
+],
+"a": 1,
+"e": "Current excess = 15 − 10 = ₹5 lakh. Inflated loss = ₹16.5 lakh, excess = 6.5 lakh. Increase = (6.5 − 5)/5 = 30%, three times the ground-up inflation rate."
+},
+{
+"n": 14,
+"topic": "Reinsurance",
+"t": "Which of the following best describes the actuary's role within a reinsurance company?",
+"o": [
+"Negotiating brokerage with intermediaries",
+"Approving claims payments to cedants",
+"Managing the investment portfolio only",
+"Pricing treaties and facultative risks, estimating reinsurance loss reserves, evaluating commutations and testing the adequacy of pricing assumptions over time"
+],
+"a": 3,
+"e": "Reinsurance actuaries price, reserve, value commutations and monitor results; claims and brokerage negotiation belong to other functions."
+},
+{
+"n": 15,
+"topic": "Reinsurance",
+"t": "A cedant proposes to commute a treaty under which the reinsurer expects to pay ₹10 crore in two years' time. At an 8% discount rate, the fair commutation payment (ignoring risk margins) is approximately:",
+"o": [
+"₹10.00 crore",
+"₹9.26 crore",
+"₹8.57 crore",
+"₹11.66 crore"
+],
+"a": 2,
+"e": "PV = 10/1.08² = 10/1.1664 ≈ ₹8.57 crore. A commutation extinguishes the reinsurer's liability in exchange for a lump sum reflecting discounted expected payments."
+},
+{
+"n": 16,
+"topic": "Reinsurance",
+"t": "A quota share treaty includes a loss corridor under which the cedant bears all losses between an 80% and a 90% loss ratio on the ceded business. Ceded premium is ₹100 crore and the ceded loss ratio turns out to be 95%. The reinsurer's share of ceded losses is:",
+"o": [
+"₹95 crore",
+"₹80 crore",
+"₹90 crore",
+"₹85 crore"
+],
+"a": 3,
+"e": "Ceded losses = ₹95 crore. The corridor (10% × 100 = ₹10 crore) is taken back by the cedant. Reinsurer pays 95 − 10 = ₹85 crore."
+},
+{
+"n": 17,
+"topic": "Credibility",
+"t": "The classical full credibility standard for claim counts at 99% confidence (z = 2.576) within ±2.5% is approximately:",
+"o": [
+"6,636",
+"10,617",
+"2,654",
+"1,082"
+],
+"a": 1,
+"e": "n = (2.576/0.025)² = (103.04)² ≈ 10,617 claims. Tighter tolerance and higher confidence both raise the standard sharply."
+},
+{
+"n": 18,
+"topic": "Credibility",
+"t": "A good 'complement of credibility' (the quantity given weight 1 − Z) should be:",
+"o": [
+"Accurate, unbiased, statistically independent of the base data, available and easily explained",
+"The most recent year's observed losses for the same risk",
+"Always zero",
+"The reinsurer's premium"
+],
+"a": 0,
+"e": "The complement must be a reliable, independent estimate (e.g. trended current rate, larger group's experience). Using the same risk's own data defeats the purpose."
+},
+{
+"n": 19,
+"topic": "Credibility",
+"t": "In a Bühlmann model with K = 20, the number of years of observation needed for the risk's own experience to receive 90% credibility is:",
+"o": [
+"18",
+"90",
+"180",
+"200"
+],
+"a": 2,
+"e": "Z = n/(n + 20) = 0.9 → n = 0.9n + 18 → 0.1n = 18 → n = 180 years."
+},
+{
+"n": 20,
+"topic": "Loss Distributions and Simulation",
+"t": "Losses are uniformly distributed between ₹0 and ₹1,00,000. A policy pays losses up to a limit of ₹60,000. The expected payment per loss is:",
+"o": [
+"₹50,000",
+"₹60,000",
+"₹30,000",
+"₹42,000"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). E[min(X, 60,000)] = ∫₀^60,000 (1 − x/1,00,000) dx = 60,000 − 60,000²/(2 × 1,00,000) = 60,000 − 18,000 = ₹42,000.",
+"r": "key"
+},
+{
+"n": 21,
+"topic": "Credibility",
+"t": "With a full credibility standard of 1,082 claims, a class with 300 claims receives partial credibility (square-root rule) of approximately:",
+"o": [
+"0.28",
+"0.72",
+"0.33",
+"0.53"
+],
+"a": 3,
+"e": "Z = √(300/1,082) = √0.277 ≈ 0.53."
+},
+{
+"n": 22,
+"topic": "Credibility",
+"t": "For the Poisson–Gamma model with a Gamma(α, β) prior (β being the rate parameter) and n years of observation, the Bühlmann credibility factor simplifies to:",
+"o": [
+"Z = α/(α + n)",
+"Z = n/(n + β)",
+"Z = β/(β + n)",
+"Z = n/(n + α)"
+],
+"a": 1,
+"e": "EPV = E[λ] = α/β and VHM = Var(λ) = α/β², so K = β and Z = n/(n + β). The posterior mean (α + Σx)/(β + n) equals this credibility estimate exactly."
+},
+{
+"n": 23,
+"topic": "Credibility",
+"t": "Claim counts are Poisson with parameter λ having a Gamma prior with α = 2 and rate β = 4 (prior mean 0.5). Over 5 years, 4 claims are observed. The expected number of claims next year is:",
+"o": [
+"0.667",
+"0.800",
+"0.500",
+"0.571"
+],
+"a": 0,
+"e": "Posterior mean = (α + total claims)/(β + n) = (2 + 4)/(4 + 5) = 6/9 ≈ 0.667."
+},
+{
+"n": 24,
+"topic": "Credibility",
+"t": "In Bayesian analysis, the predictive distribution of next year's claims for a risk is obtained by:",
+"o": [
+"Using the prior distribution directly",
+"Taking the sample distribution of observed claims",
+"Integrating the conditional claim distribution over the posterior distribution of the risk parameter",
+"Multiplying the prior mean by the credibility factor"
+],
+"a": 2,
+"e": "The predictive distribution averages the model distribution across all parameter values weighted by their posterior probability; its mean is the Bayesian point estimate."
+},
+{
+"n": 25,
+"topic": "Credibility",
+"t": "A class with 2,000 exposure units shows a pure premium of ₹1,500. The Bühlmann-Straub K is 3,000 exposure units and the overall (prior) pure premium is ₹1,200. The credibility-weighted pure premium is:",
+"o": [
+"₹1,350",
+"₹1,380",
+"₹1,200",
+"₹1,320"
+],
+"a": 3,
+"e": "Z = 2,000/(2,000 + 3,000) = 0.40. Estimate = 0.40 × 1,500 + 0.60 × 1,200 = 600 + 720 = ₹1,320."
+},
+{
+"n": 26,
+"topic": "Credibility",
+"t": "A recognised practical limitation of classical (limited fluctuation) credibility is that:",
+"o": [
+"It cannot be applied to claim frequency",
+"The full credibility standard depends on arbitrarily chosen confidence and tolerance levels and ignores how different the risk's mean may be from the prior",
+"It always gives Z = 0 for fewer than 1,082 claims",
+"It requires knowledge of EPV and VHM"
+],
+"a": 1,
+"e": "Classical credibility judges the stability of the risk's own data alone; unlike Bühlmann it does not consider the variance between risks, and its P and k are judgemental."
+},
+{
+"n": 27,
+"topic": "Investment Issues",
+"t": "An insurer has an underwriting loss of 3% of premium, a premium-to-surplus ratio of 1.5, and earns 7% after tax on invested assets equal to three times surplus. Its total return on surplus is:",
+"o": [
+"4.5%",
+"21.0%",
+"16.5%",
+"25.5%"
+],
+"a": 2,
+"e": "Underwriting = −3% × 1.5 = −4.5% of surplus. Investment = 7% × 3 = 21% of surplus. Total = 16.5%."
+},
+{
+"n": 28,
+"topic": "Reinsurance",
+"t": "A catastrophe layer of ₹20 crore in excess of ₹10 crore is placed for a premium of ₹2 crore. The rate on line and the payback period are:",
+"o": [
+"20% and 5 years",
+"6.67% and 15 years",
+"10% and 10 years",
+"2% and 50 years"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). Rate on line = premium/limit = 2/20 = 10%. Payback period = limit/premium = 1/ROL = 10 years, i.e. the number of loss-free years needed to recover one full limit loss.",
+"r": "key"
+},
+{
+"n": 29,
+"topic": "Investment Issues",
+"t": "In analysing investment income for ratemaking, income is split between policyholder-supplied funds and shareholder funds because:",
+"o": [
+"Both are taxed at different rates",
+"Policyholder funds earn a lower yield",
+"Shareholder funds cannot be invested",
+"Only the income on policyholder funds (reserves) is attributable to the insurance transaction and is credited in the rate; income on surplus belongs to the owners as return on capital"
+],
+"a": 3,
+"e": "Ratemaking offsets premium with investment income generated by the premium itself. Income on shareholders' surplus is part of the total return to capital, not a reduction in the price of insurance."
+},
+{
+"n": 30,
+"topic": "Investment Issues",
+"t": "Using a discounted cash-flow approach at the risk-free rate of 5%: expected losses of ₹70 are paid one year after inception and expenses of ₹25 are paid at inception. Ignoring taxes and risk loadings, the fair premium at inception is approximately:",
+"o": [
+"₹95.00",
+"₹91.67",
+"₹90.48",
+"₹99.75"
+],
+"a": 1,
+"e": "Premium = 25 + 70/1.05 = 25 + 66.67 = ₹91.67. The discount of the loss component is the investment income credited to policyholders."
+},
+{
+"n": 31,
+"topic": "Investment Issues",
+"t": "Return on equity measured on statutory (regulatory) surplus and on GAAP/economic equity for the same insurer differ because:",
+"o": [
+"Statutory surplus excludes items such as deferred acquisition costs and non-admitted assets, so it is usually smaller and the statutory ROE higher",
+"GAAP equity excludes investment income",
+"Statutory accounts do not recognise loss reserves",
+"They never differ for a general insurer"
+],
+"a": 0,
+"e": "Statutory accounting is conservative (expenses acquisition costs immediately, excludes non-admitted assets), giving lower equity. The rate-of-return measure chosen must be consistent with the capital base assumed in pricing."
+},
+{
+"n": 32,
+"topic": "Investment Issues",
+"t": "An insurer has surplus of ₹200 crore invested at 7% and writes premium at a 2:1 premium-to-surplus ratio. Investment income on surplus, expressed as a percentage of premium, is:",
+"o": [
+"7.0%",
+"14.0%",
+"3.5%",
+"1.75%"
+],
+"a": 2,
+"e": "Income on surplus = 7% × 200 = ₹14 crore. Premium = 2 × 200 = ₹400 crore. 14/400 = 3.5% of premium."
+},
+{
+"n": 33,
+"topic": "Investment Issues",
+"t": "If a pricing model fully credits investment income by discounting expected losses at a risk-free rate, prudent practice is to:",
+"o": [
+"Include an explicit risk margin or profit provision, since discounting removes the implicit margin and leaves the insurer bearing reserve and investment risk without compensation",
+"Discount at a higher rate to increase the credit",
+"Eliminate the expense provision as well",
+"Ignore the time value of money for expenses"
+],
+"a": 0,
+"e": "Discounting at the risk-free rate converts the expected loss into its present value; the variability of the eventual outcome still needs to be paid for through a separate risk/profit charge."
+},
+{
+"n": 34,
+"topic": "Special Issues",
+"t": "An insurer has available solvency margin of ₹750 crore against a required solvency margin of ₹500 crore. The board proposes a dividend of ₹50 crore. After the dividend, the solvency ratio will be:",
+"o": [
+"150%, exactly at the control level",
+"160%",
+"130%",
+"140%, below the control level of 150%"
+],
+"a": 3,
+"e": "ASM after dividend = 750 − 50 = ₹700 crore. Ratio = 700/500 = 140%, below 150%, so the dividend would not be permissible without regulatory intervention."
+},
+{
+"n": 35,
+"topic": "Special Issues",
+"t": "The reserves-to-surplus ratio is an important measure of insurer leverage because:",
+"o": [
+"It determines the premium rate the insurer may charge",
+"It is the basis for IRDAI's expense limits",
+"A given percentage error in loss reserves translates into a multiple of that percentage change in surplus",
+"It measures the proportion of reinsurance recoverables"
+],
+"a": 2,
+"e": "Reserves are typically several times surplus for long-tailed writers, so modest reserve inadequacy can wipe out a large share of capital. This is why reserve risk dominates RBC charges for such insurers."
+},
+{
+"n": 36,
+"topic": "Special Issues",
+"t": "An insurer holds loss reserves of ₹900 crore and surplus of ₹300 crore. If the reserves prove deficient by 10%, surplus will fall by:",
+"o": [
+"30%",
+"10%",
+"3%",
+"90%"
+],
+"a": 0,
+"e": "Deficiency = 10% × 900 = ₹90 crore. Surplus reduction = 90/300 = 30%. The 3:1 reserve-to-surplus ratio multiplies the reserve error threefold."
+},
+{
+"n": 37,
+"topic": "Special Issues",
+"t": "In the valuation of an insurer, 'franchise value' (value of future new business) is attributable to:",
+"o": [
+"The liquidation value of invested assets",
+"The insurer's ability to continue writing profitable business through its distribution, brand, licences and expertise",
+"The unearned premium reserve",
+"The statutory solvency margin"
+],
+"a": 1,
+"e": "Beyond adjusted net worth and in-force value, a going concern is worth the present value of profits on business it has not yet written — the franchise or goodwill element."
+},
+{
+"topic": "Policyholder protection",
+"t": "An insurer must resolve a policyholder's grievance within how many days of receipt?",
+"o": [
+"7 days",
+"14 days",
+"30 days",
+"45 days"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). 14 days under the 2024 regulations; thereafter the policyholder may approach Bima Bharosa or the Ombudsman.",
+"r": "core",
+"n": 38
+},
+{
+"n": 39,
+"topic": "Special Issues",
+"t": "A buyer expects an insurer to generate profits of ₹20 crore per year indefinitely from future new business, with no growth. At a 12% required return, the value of future new business is approximately:",
+"o": [
+"₹240 crore",
+"₹200 crore",
+"₹100 crore",
+"₹166.7 crore"
+],
+"a": 3,
+"e": "Value of a level perpetuity = 20/0.12 ≈ ₹166.7 crore. With growth g the formula would be 20/(0.12 − g)."
+},
+{
+"n": 40,
+"topic": "Special Issues",
+"t": "Which of the following statements regarding the causes of property-casualty insurer insolvency is INCORRECT?",
+"o": [
+"Inadequate loss reserves and under-pricing are among the most frequent causes",
+"Rapid premium growth in new lines or territories is a warning sign",
+"Insolvencies are almost always caused by investment losses alone",
+"Over-reliance on reinsurance that fails to respond can contribute to insolvency"
+],
+"a": 2,
+"e": "Studies consistently find under-reserving, under-pricing, rapid growth and failed reinsurance to be the main drivers; pure investment failures are a minority cause."
+},
+{
+"n": 41,
+"topic": "Risk Classification",
+"t": "Increasing the number of rating classes improves homogeneity but:",
+"o": [
+"Reduces the data in each class, lowering the credibility of class experience and raising administrative cost",
+"Always increases the overall premium",
+"Eliminates the need for experience rating",
+"Violates IRDAI regulations"
+],
+"a": 0,
+"e": "Finer classification splits the same data into thinner cells; the actuary must balance homogeneity against credibility and practicality."
+},
+{
+"n": 42,
+"topic": "Risk Classification",
+"t": "A rating class produced losses of ₹60 lakh on 2,000 exposure units. The base class pure premium is ₹4,000. The indicated pure premium relativity for the class is:",
+"o": [
+"1.33",
+"0.75",
+"0.67",
+"1.50"
+],
+"a": 1,
+"e": "Class pure premium = 60,00,000/2,000 = ₹3,000. Relativity = 3,000/4,000 = 0.75."
+},
+{
+"topic": "Claims timelines",
+"t": "Under IRDAI's 2024 norms, a surveyor must be appointed within what time of a claim intimation?",
+"o": [
+"24 hours",
+"48 hours",
+"72 hours",
+"7 days"
+],
+"a": 0,
+"e": "★ Core fact (asked across III papers). Appointment within 24 hours; survey report within 15 days; insurer's decision within 7 days of the report.",
+"r": "core",
+"n": 43
+},
+{
+"n": 44,
+"topic": "Risk Classification",
+"t": "Apart from premium equity, an important secondary purpose of individual experience rating is to:",
+"o": [
+"Reduce the insurer's reinsurance costs",
+"Satisfy the statutory solvency requirement",
+"Replace the need for classification variables",
+"Give the insured a financial incentive to control losses"
+],
+"a": 3,
+"e": "Because the insured's own loss history affects its premium, experience rating promotes loss prevention — a feature the pure class rate does not provide."
+},
+{
+"n": 45,
+"topic": "Risk Classification",
+"t": "Under an additive rating plan, the base premium is ₹5,000, the territorial adjustment is +₹800 and the usage adjustment is −₹300. The premium is:",
+"o": [
+"₹5,800",
+"₹4,700",
+"₹5,500",
+"₹6,100"
+],
+"a": 2,
+"e": "Additive plan: 5,000 + 800 − 300 = ₹5,500. Each factor adds or subtracts a fixed amount rather than scaling the base."
+},
+{
+"n": 46,
+"topic": "Risk Classification",
+"t": "If regulation requires an insurer to charge the same rate to two classes whose expected costs differ, the result is:",
+"o": [
+"A cross-subsidy from the lower-cost class to the higher-cost class, which is sustainable only if the lower-cost class cannot be selected away by competitors",
+"Higher profit on both classes",
+"A reduction in the total premium needed",
+"No effect, since the average rate is unchanged"
+],
+"a": 0,
+"e": "Forced rate uniformity transfers cost between groups; in a competitive market the subsidising group tends to leave, so such mandates are usually paired with market-wide requirements."
+},
+{
+"n": 47,
+"topic": "Loss Distributions and Simulation",
+"t": "Individual losses are exponential with mean ₹50,000. A policy limit of ₹1,00,000 applies. Using e^(−2) ≈ 0.1353, the expected payment per loss is approximately:",
+"o": [
+"₹50,000",
+"₹36,788",
+"₹1,00,000",
+"₹43,233"
+],
+"a": 3,
+"e": "E[min(X, u)] = θ(1 − e^(−u/θ)) = 50,000 × (1 − 0.1353) = 50,000 × 0.8647 ≈ ₹43,233."
+},
+{
+"n": 48,
+"topic": "Loss Distributions and Simulation",
+"t": "Fitting a severity distribution by the method of moments involves:",
+"o": [
+"Maximising the likelihood of the sample",
+"Equating sample moments (mean, variance, etc.) to the theoretical moments of the distribution and solving for the parameters",
+"Minimising the chi-square statistic",
+"Matching the sample median to the theoretical mean"
+],
+"a": 1,
+"e": "Method of moments is simple and quick but generally less efficient than maximum likelihood, and can be unduly influenced by a few large claims when higher moments are used."
+},
+{
+"n": 49,
+"topic": "Loss Distributions and Simulation",
+"t": "A sample of claims has a mean of ₹25,000 and is fitted with an exponential distribution by the method of moments. The fitted probability that a claim exceeds ₹50,000 is approximately (e^(−2) ≈ 0.1353):",
+"o": [
+"50.0%",
+"25.0%",
+"13.5%",
+"6.8%"
+],
+"a": 2,
+"e": "For an exponential, θ = sample mean = 25,000. P(X > 50,000) = e^(−50,000/25,000) = e^(−2) ≈ 13.5%."
+},
+{
+"n": 50,
+"topic": "Loss Distributions and Simulation",
+"t": "To simulate one year's aggregate claims under the collective risk model, the correct procedure is to:",
+"o": [
+"Simulate the number of claims N from the frequency distribution, then simulate N independent severities and sum them",
+"Simulate one severity and multiply it by the expected number of claims",
+"Simulate the aggregate directly from a normal distribution with the same mean",
+"Simulate frequencies only, since severity is deterministic"
+],
+"a": 0,
+"e": "The collective risk model S = X₁ + ... + X_N requires a random count followed by that many random severities; repeating the procedure many times builds the distribution of S."
+}
+]

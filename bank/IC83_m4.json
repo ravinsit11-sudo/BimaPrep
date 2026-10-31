@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Introduction",
+"t": "The statistical basis that allows an insurer to predict the number of deaths in a large group with reasonable confidence is known as:",
+"o": [
+"The law of large numbers",
+"The principle of utmost good faith",
+"The principle of indemnity",
+"The doctrine of proximate cause"
+],
+"a": 0,
+"e": "As the number of independent lives increases, the actual proportion of deaths converges towards the expected rate, reducing relative fluctuation; this underpins group rating and the free cover limit."
+},
+{
+"n": 2,
+"topic": "Introduction",
+"t": "In India, private life insurers were permitted to write group and other life business after the passage of:",
+"o": [
+"The Life Insurance Corporation Act, 1956",
+"The Insurance Regulatory and Development Authority Act, 1999",
+"The Payment of Gratuity Act, 1972",
+"The Employees' Provident Funds and Miscellaneous Provisions Act, 1952"
+],
+"a": 1,
+"e": "The IRDA Act, 1999 ended the public-sector monopoly and opened the sector to private and joint-venture insurers; until then LIC was the sole provider of group life schemes."
+},
+{
+"n": 3,
+"topic": "Product Guideline",
+"t": "A borrower covered under a single-premium group credit life policy repays the loan in full after two years of a five-year term. Under IRDAI's product norms, the member is entitled to:",
+"o": [
+"Nothing, since the premium was paid by the bank",
+"Continuation of cover at the original sum assured till the end of five years without any option",
+"A refund of the unexpired premium (surrender value) or the option to continue cover, as per the policy terms",
+"Conversion of the policy into a whole-life policy automatically"
+],
+"a": 2,
+"e": "IRDAI requires credit-linked group policies to provide a surrender value or continuation option on foreclosure or prepayment of the loan, so that the member is not left with a worthless cover."
+},
+{
+"n": 4,
+"topic": "Product Guideline",
+"t": "A group savings-linked insurance scheme (GSLI) for employees is characterised by:",
+"o": [
+"Each member's premium being split into a term insurance portion and a savings portion accumulated with interest in the member's own account",
+"Pure term cover only with no accumulation",
+"A single fund owned by the employer",
+"Cover only against accidental death"
+],
+"a": 0,
+"e": "GSLI-type schemes combine risk cover with a savings element returned to the member on exit or retirement, with the saving element often matched by employer contribution."
+},
+{
+"n": 5,
+"topic": "Product Guideline",
+"t": "Section 41 of the Insurance Act, 1938, which prohibits rebating of premium or commission as an inducement, applies to:",
+"o": [
+"Individual policies only",
+"Group policies only",
+"Both individual and group policies, including payments to group organisers",
+"Only to policies sold by brokers"
+],
+"a": 2,
+"e": "Rebating is prohibited for all classes of insurance. IRDAI's group guidelines reinforce this by barring any payment to the group organiser beyond regulated remuneration."
+},
+{
+"n": 6,
+"topic": "Product Guideline",
+"t": "Which statement about a group policy issued to a non-employer-employee group is correct?",
+"o": [
+"The master policyholder can enforce purchase of additional products from the insurer as a condition of membership",
+"Members' participation must be optional unless membership itself requires insurance (e.g. loan cover), and the organiser cannot bundle other products compulsorily",
+"The organiser may fix its own premium rate for members",
+"The insurer need not issue certificates of insurance"
+],
+"a": 1,
+"e": "IRDAI guidelines protect members from compulsion and tying; premium is fixed by the insurer on an actuarial basis and certificates must be issued."
+},
+{
+"n": 7,
+"topic": "Product Design and Schemes",
+"t": "A superannuation fund buys an immediate annuity for a retiring member with a purchase price of ₹50 lakh. If the insurer's annuity rate for the chosen option is 6.5% per annum, the annual annuity is:",
+"o": [
+"₹3,25,000",
+"₹32,500",
+"₹6,50,000",
+"₹2,70,833"
+],
+"a": 0,
+"e": "Annual annuity = ₹50,00,000 × 6.5% = ₹3,25,000 (about ₹27,083 per month). The rate depends on age, annuity option and prevailing interest rates."
+},
+{
+"n": 8,
+"topic": "Retirement Benefit Schemes",
+"t": "The maximum gratuity payable under the Payment of Gratuity Act, 1972, as currently notified, is:",
+"o": [
+"₹10 lakh",
+"₹20 lakh",
+"₹25 lakh",
+"₹30 lakh"
+],
+"a": 1,
+"e": "★ Key fact (repeated across the mocks of this paper). The ceiling was raised from ₹10 lakh to ₹20 lakh with effect from 29 March 2018 through the Payment of Gratuity (Amendment) Act, 2018 and notification.",
+"r": "key"
+},
+{
+"n": 9,
+"topic": "Product Design and Schemes",
+"t": "A member retires with a superannuation corpus of ₹30 lakh and has also received gratuity from the employer. The maximum amount he can commute tax-free under the rules for approved superannuation funds is:",
+"o": [
+"₹15 lakh",
+"₹7.5 lakh",
+"₹10 lakh",
+"₹30 lakh"
+],
+"a": 2,
+"e": "Where gratuity is received, commutation is limited to one-third: ₹30 lakh ÷ 3 = ₹10 lakh. The remaining ₹20 lakh must be used to purchase an annuity."
+},
+{
+"n": 10,
+"topic": "Product Design and Schemes",
+"t": "An 'annuity certain for 15 years and life thereafter' provides that:",
+"o": [
+"Annuity is paid only for 15 years",
+"The purchase price is returned after 15 years",
+"Annuity is paid for life and then for 15 years to the nominee",
+"Annuity is paid for 15 years whether or not the annuitant survives, and continues thereafter for as long as the annuitant lives"
+],
+"a": 3,
+"e": "The guaranteed period protects against early death: if the annuitant dies within 15 years the balance instalments go to the nominee. After the guaranteed period payment depends on survival."
+},
+{
+"n": 11,
+"topic": "Product Design and Schemes",
+"t": "Under a group superannuation cash accumulation scheme offered by a life insurer in the deferment stage:",
+"o": [
+"The insurer guarantees a pension of 50% of final salary",
+"Members receive a lump sum each year as bonus",
+"The fund is invested entirely in equities chosen by the employer",
+"Contributions are accumulated in a policy account at an interest rate declared by the insurer, and the accumulated amount is used to buy an annuity at retirement"
+],
+"a": 3,
+"e": "Cash accumulation schemes separate the accumulation phase (interest-bearing account) from the payout phase (annuity purchase); the pension depends on the accumulated amount and annuity rates at vesting."
+},
+{
+"n": 12,
+"topic": "Product Design and Schemes",
+"t": "The difference between a deferred annuity and an immediate annuity is that:",
+"o": [
+"A deferred annuity starts payments after a deferment period during which the purchase price accumulates, while an immediate annuity starts payments from the next instalment date",
+"A deferred annuity is payable only to government employees",
+"An immediate annuity is always for a fixed term",
+"A deferred annuity has no death benefit"
+],
+"a": 0,
+"e": "Deferred annuities suit the accumulation phase of pension planning; immediate annuities convert an existing corpus (e.g. 40% of NPS or two-thirds of superannuation) into income immediately."
+},
+{
+"n": 13,
+"topic": "Product Design and Schemes",
+"t": "A microfinance institution wants to cover its borrowers for the loan tenure with one premium collected at disbursement. The most suitable product is:",
+"o": [
+"A one-year renewable group term policy",
+"A group gratuity policy",
+"A single-premium group credit life (reducing term) policy",
+"A group superannuation policy"
+],
+"a": 2,
+"e": "Single-premium reducing term cover matching the loan schedule avoids annual collection from borrowers and ensures the outstanding loan is cleared on death."
+},
+{
+"n": 14,
+"topic": "Tax Aspects of Group & Retirement Benefit Schemes",
+"t": "Gratuity received by an employee of the Central Government, a State Government or a local authority on retirement is:",
+"o": [
+"Taxable in full",
+"Exempt up to ₹20 lakh",
+"Exempt up to half month's salary per year",
+"Fully exempt from income-tax under Section 10(10)(i)"
+],
+"a": 3,
+"e": "Section 10(10)(i) grants complete exemption to death-cum-retirement gratuity of government employees; the ₹20 lakh ceiling applies to other employees."
+},
+{
+"n": 15,
+"topic": "Tax Aspects of Group & Retirement Benefit Schemes",
+"t": "The income of an approved gratuity fund, an approved superannuation fund and a recognised provident fund is exempt from income-tax under:",
+"o": [
+"Section 10(25)",
+"Section 10(10D)",
+"Section 80G",
+"Section 11"
+],
+"a": 0,
+"e": "Section 10(25) exempts interest and income of recognised provident funds, approved superannuation funds and approved gratuity funds, which is why approval status is commercially important."
+},
+{
+"n": 16,
+"topic": "Investment Pattern for Retirement Benefit Schemes",
+"t": "The rate of interest declared by EPFO on provident fund accumulations for the financial year 2024-25 was:",
+"o": [
+"8.10%",
+"8.25%",
+"8.50%",
+"8.65%"
+],
+"a": 1,
+"e": "★ Key fact (repeated across the mocks of this paper). The Central Board of Trustees retained 8.25% for 2024-25, the same as for 2023-24; 8.15% applied for 2022-23 and 8.10% for 2021-22.",
+"r": "key"
+},
+{
+"n": 17,
+"topic": "Tax Aspects of Group & Retirement Benefit Schemes",
+"t": "Which of the following expenses is NOT allowable as a deduction to the employer under the Income-tax Act?",
+"o": [
+"Premium paid to a life insurer under an approved group gratuity scheme",
+"Contribution to a recognised provident fund",
+"A provision made in the accounts for future gratuity liability that is not funded through an approved gratuity fund",
+"Premium paid for an employer-employee group term policy on employees' lives"
+],
+"a": 2,
+"e": "Section 40A(7) disallows mere provisions for gratuity; only contributions to an approved gratuity fund (or gratuity actually paid) are deductible. Group term premium is deductible as staff welfare expense."
+},
+{
+"n": 18,
+"topic": "Tax Aspects of Group & Retirement Benefit Schemes",
+"t": "A self-employed professional contributes to NPS Tier I. Her deduction under Section 80CCD(1) is limited to:",
+"o": [
+"20% of gross total income, within the ₹1.5 lakh overall limit",
+"10% of gross total income",
+"₹50,000 only",
+"14% of gross total income"
+],
+"a": 0,
+"e": "For non-salaried individuals the 80CCD(1) limit is 20% of gross total income (raised from 10% in 2017), subject to the ₹1.5 lakh cap under Section 80CCE; 80CCD(1B) gives a further ₹50,000."
+},
+{
+"n": 19,
+"topic": "Tax Aspects of Group & Retirement Benefit Schemes",
+"t": "An employee with salary of ₹10 lakh contributes ₹1.2 lakh to NPS Tier I and has no other Section 80C investments. The total deduction she can claim for the NPS contribution is:",
+"o": [
+"₹1,00,000",
+"₹1,50,000",
+"₹1,20,000",
+"₹50,000"
+],
+"a": 2,
+"e": "Section 80CCD(1) allows up to 10% of salary = ₹1 lakh; the balance ₹20,000 is absorbed by Section 80CCD(1B) (limit ₹50,000). Total deduction = ₹1.2 lakh, the amount actually contributed."
+},
+{
+"n": 20,
+"topic": "Tax Aspects of Group & Retirement Benefit Schemes",
+"t": "In FY 2024-25 an employer contributes ₹1 lakh to RPF, ₹2 lakh to an approved superannuation fund and ₹1 lakh to NPS for an employee. The perquisite taxable under Section 17(2)(vii) is:",
+"o": [
+"₹50,000",
+"₹2,50,000",
+"₹4,00,000",
+"Nil"
+],
+"a": 3,
+"e": "Aggregate employer contribution is ₹4 lakh, below the ₹7.5 lakh threshold, so nothing is taxed under 17(2)(vii). The earlier ₹1.5 lakh limit for superannuation alone no longer applies."
+},
+{
+"n": 21,
+"topic": "AS 15 (Revised) and Ind AS 19",
+"t": "Compensation payable under a voluntary retirement scheme (VRS) is classified under AS 15 (Revised) and Ind AS 19 as a:",
+"o": [
+"Post-employment benefit",
+"Short-term employee benefit",
+"Termination benefit",
+"Defined contribution benefit"
+],
+"a": 2,
+"e": "Termination benefits arise from the employer's decision to end employment before normal retirement; they are recognised when the entity is demonstrably committed (Ind AS 19: when it can no longer withdraw the offer)."
+},
+{
+"n": 22,
+"topic": "AS 15 (Revised) and Ind AS 19",
+"t": "When a company closes a division and a large number of employees leave, significantly reducing future service under its gratuity plan, this is accounted for as a:",
+"o": [
+"Curtailment",
+"Settlement",
+"Actuarial gain",
+"Past service cost from a plan amendment"
+],
+"a": 0,
+"e": "A curtailment is a significant reduction in the number of employees covered or in future service; a settlement is a transaction that eliminates the obligation (e.g. buying annuities for all members)."
+},
+{
+"n": 23,
+"topic": "AS 15 (Revised) and Ind AS 19",
+"t": "Under Ind AS 19, where plan assets exceed the defined benefit obligation, the net asset recognised is limited by the 'asset ceiling', which is:",
+"o": [
+"The total contributions paid in the last five years",
+"The amount of the employer's share capital",
+"Zero in all cases",
+"The present value of economic benefits available as refunds from the plan or reductions in future contributions"
+],
+"a": 3,
+"e": "A surplus is recognised only to the extent the employer can actually benefit from it, through refunds or lower future contributions; the asset ceiling prevents overstating assets."
+},
+{
+"n": 24,
+"topic": "Investment Pattern for Retirement Benefit Schemes",
+"t": "Under the 'Auto Choice' life-cycle fund LC-75 (Aggressive) in NPS, the equity allocation is 75% up to what age, after which it tapers down?",
+"o": [
+"Age 35",
+"Age 45",
+"Age 50",
+"Age 60"
+],
+"a": 0,
+"e": "LC-75 holds 75% in equity until age 35, reducing annually to 15% by age 55; LC-50 (Moderate) starts at 50% and LC-25 (Conservative) at 25%."
+},
+{
+"n": 25,
+"topic": "Investment Pattern for Retirement Benefit Schemes",
+"t": "Under the Ministry of Finance investment pattern for retirement funds, short-term debt instruments and related investments (such as money market instruments and liquid funds) may be held up to:",
+"o": [
+"15%",
+"25%",
+"5%",
+"35%"
+],
+"a": 2,
+"e": "The pattern allows up to 5% in short-term debt to manage liquidity; the bulk must be in Government securities (45-50%) and longer-dated debt (35-45%)."
+},
+{
+"n": 26,
+"topic": "Retirement Benefit Schemes",
+"t": "A member of EPS 1995 retires at 58 with 25 years of pensionable service and pensionable salary of ₹15,000. Taking into account the bonus service given for 20 or more years, his monthly pension is approximately:",
+"o": [
+"₹5,357",
+"₹5,786",
+"₹6,429",
+"₹4,500"
+],
+"a": 1,
+"e": "Members with 20 or more years of service get 2 years' bonus service: (25 + 2) × ₹15,000 ÷ 70 = ₹5,786 per month."
+},
+{
+"n": 27,
+"topic": "Retirement Benefit Schemes",
+"t": "Under EPS 1995, on the death of a member leaving a widow and three children, the children's pension payable is:",
+"o": [
+"25% of the widow pension to each child, payable to a maximum of two children at a time until age 25",
+"50% of the widow pension to each child for life",
+"Equal to the widow pension for each child",
+"Nil, since the widow receives the full pension"
+],
+"a": 0,
+"e": "Children's pension is 25% of the widow pension for up to two children at a time until they reach 25; if there is no surviving parent, orphan pension is 75% of the widow pension for each of up to two children."
+},
+{
+"n": 28,
+"topic": "Retirement Benefit Schemes",
+"t": "For the purpose of the Payment of Gratuity Act, an employee is deemed to be in 'continuous service' for one year if he has actually worked for not less than (in an establishment working six days a week):",
+"o": [
+"365 days",
+"300 days",
+"190 days",
+"240 days"
+],
+"a": 3,
+"e": "Section 2A deems continuous service where the employee has worked at least 240 days in 12 months (190 days for employees below the ground in mines or in establishments working fewer than six days a week)."
+},
+{
+"n": 29,
+"topic": "Retirement Benefit Schemes",
+"t": "The Payment of Gratuity Act, 1972 applies to every shop or establishment in which the number of persons employed on any day in the preceding 12 months is:",
+"o": [
+"5 or more",
+"20 or more",
+"50 or more",
+"10 or more"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). Section 1(3) extends the Act to factories, mines, oilfields, plantations, ports and railways, and to shops or establishments employing 10 or more persons; once covered, the Act continues to apply even if numbers fall below 10.",
+"r": "key"
+},
+{
+"n": 30,
+"topic": "Retirement Benefit Schemes",
+"t": "The National Pension System became mandatory for new recruits to the Central Government (except the armed forces) joining service on or after:",
+"o": [
+"1 January 2004",
+"1 April 2009",
+"1 May 2009",
+"1 April 2025"
+],
+"a": 0,
+"e": "The Government replaced the defined benefit pension with NPS for employees joining from 1 January 2004; NPS was opened to all citizens from 1 May 2009, and UPS became an option from 1 April 2025."
+},
+{
+"n": 31,
+"topic": "Retirement Benefit Schemes",
+"t": "Under current EPFO rules, an unemployed PF member may withdraw from the provident fund:",
+"o": [
+"Nothing until age 58",
+"The full balance only after five years of unemployment",
+"Up to 75% of the balance after one month of unemployment and the remaining balance after two months",
+"Only the employer's share"
+],
+"a": 2,
+"e": "Provisions introduced in 2018 allow 75% non-refundable withdrawal after one month of continuous unemployment and the balance after two months, while retaining the option to keep the account alive."
+},
+{
+"n": 32,
+"topic": "Retirement Benefit Schemes",
+"t": "The NPS Tier II account differs from Tier I in that Tier II:",
+"o": [
+"Is mandatory for all government employees",
+"Offers the Section 80CCD(1B) deduction",
+"Is a voluntary savings account with free withdrawals, but requires an active Tier I account and offers no tax benefit to non-government subscribers",
+"Can be opened only after age 60"
+],
+"a": 2,
+"e": "Tier II is a flexible, withdrawable investment facility riding on the Tier I PRAN; tax benefits (and the lock-in) attach to Tier I only, apart from a special 3-year lock-in option for central government employees."
+},
+{
+"n": 33,
+"topic": "Retirement Benefit Schemes",
+"t": "Which statement regarding membership of EPS 1995 is correct for an employee joining a covered establishment on or after 1 September 2014?",
+"o": [
+"Every PF member automatically joins EPS regardless of wages",
+"An employee whose wages at joining exceed ₹15,000 per month and who was not previously an EPS member does not become a member of EPS; the employer's full 12% goes to PF",
+"Membership requires a separate application to EPFO",
+"EPS membership is compulsory only for women employees"
+],
+"a": 1,
+"e": "After the 2014 amendment, new entrants with pensionable wages above the ₹15,000 ceiling are excluded from EPS; existing members continue, and the entire employer contribution for excluded employees is credited to EPF."
+},
+{
+"n": 34,
+"topic": "Valuation of Liabilities",
+"t": "If the discount rate used in a gratuity valuation rises from 7% to 7.5% with all other assumptions unchanged, the defined benefit obligation will:",
+"o": [
+"Increase",
+"Remain unchanged",
+"Decrease",
+"Double"
+],
+"a": 2,
+"e": "Future benefits are discounted at a higher rate, so their present value falls. This is why a drop in government bond yields increases reported employee benefit liabilities."
+},
+{
+"n": 35,
+"topic": "Valuation of Liabilities",
+"t": "An actuary valuing a gratuity scheme under the Payment of Gratuity Act projects the salary of a senior employee such that his formula gratuity at retirement would be ₹28 lakh. In the valuation, the benefit should be taken as:",
+"o": [
+"₹28 lakh, since the formula governs",
+"₹14 lakh, half of the formula amount",
+"Nil, as it exceeds the limit",
+"₹20 lakh, the statutory ceiling, unless the scheme rules provide a higher benefit"
+],
+"a": 3,
+"e": "Statutory gratuity cannot exceed ₹20 lakh, so the valuation restricts the benefit to the ceiling; if the employer's scheme pays more than the Act, the scheme benefit is valued."
+},
+{
+"n": 36,
+"topic": "Valuation of Liabilities",
+"t": "A gratuity of ₹1 lakh is expected to be paid in exactly one year. Ignoring decrements, its present value at a discount rate of 7% is:",
+"o": [
+"₹93,000",
+"₹1,07,000",
+"₹93,458",
+"₹92,593"
+],
+"a": 2,
+"e": "PV = ₹1,00,000 ÷ 1.07 = ₹93,458 (rounded). ₹92,593 would be the value at 8% and ₹93,000 is a flat 7% deduction, which is incorrect."
+},
+{
+"topic": "Intermediaries",
+"t": "A corporate agent may tie up with a maximum of how many insurers in each line of business?",
+"o": [
+"3",
+"6",
+"9",
+"Unlimited"
+],
+"a": 2,
+"e": "★ Core fact (asked across III papers). Raised from 3 to 9 insurers per category (life, general, health) by the 2022 amendment to the Corporate Agents Regulations.",
+"r": "core",
+"n": 37
+},
+{
+"n": 38,
+"topic": "Valuation of Liabilities",
+"t": "The expected defined benefit obligation at year end (based on opening assumptions) was ₹120 lakh, but the actual obligation computed at year end is ₹117 lakh. The ₹3 lakh difference is an:",
+"o": [
+"Actuarial loss",
+"Actuarial gain",
+"Increase in past service cost",
+"Increase in current service cost"
+],
+"a": 1,
+"e": "When the actual obligation is lower than expected (because of experience differing from assumptions or assumption changes), the difference is an actuarial gain, reducing the liability."
+},
+{
+"n": 39,
+"topic": "Group Insurance - Administration, Claims and Renewals",
+"t": "Under a group credit life policy, a borrower dies with an outstanding loan of ₹6 lakh while the sum assured on that date is ₹8 lakh. The insurer should pay:",
+"o": [
+"₹8 lakh entirely to the lender",
+"₹6 lakh to the lender and ₹2 lakh to the nominee of the member",
+"₹6 lakh to the lender and retain ₹2 lakh",
+"₹8 lakh entirely to the nominee, who must repay the lender"
+],
+"a": 1,
+"e": "IRDAI product norms require that only the outstanding loan be paid to the lending institution (master policyholder) and any excess benefit be paid to the member's nominee or beneficiary."
+},
+{
+"n": 40,
+"topic": "Group Insurance - Administration, Claims and Renewals",
+"t": "A member of a group term policy dies within six months of joining and the insurer suspects non-disclosure of a serious illness at entry. Which statement is correct?",
+"o": [
+"The claim must be paid without any enquiry since group policies are not subject to underwriting",
+"The employer must repay the sum assured",
+"The insurer may repudiate at any time within 10 years",
+"The insurer may investigate the claim, but once three years have elapsed from the date of risk commencement for that member, Section 45 bars repudiation on grounds of non-disclosure"
+],
+"a": 3,
+"e": "Section 45 of the Insurance Act applies to each member's cover; early claims can be investigated, but questioning on misstatement is barred after three years from the member's risk commencement date."
+},
+{
+"n": 41,
+"topic": "Group Insurance - Administration, Claims and Renewals",
+"t": "A member of a group insurance scheme has a grievance against the insurer about a claim of ₹20 lakh that is not resolved. He may approach the Insurance Ombudsman because the value of the claim is within the Ombudsman's limit of:",
+"o": [
+"₹10 lakh",
+"₹20 lakh",
+"₹30 lakh",
+"₹50 lakh"
+],
+"a": 3,
+"e": "The Insurance Ombudsman Rules were amended in 2021 to raise the monetary limit to ₹50 lakh and to cover group policy members and complaints against intermediaries."
+},
+{
+"n": 42,
+"topic": "Group Insurance - Administration, Claims and Renewals",
+"t": "Experience rating of an employer-employee group policy is more reliable for large groups than for small groups because:",
+"o": [
+"Large employers always pay premium on time",
+"Claims experience of a large group has greater statistical credibility, so actual experience can be given more weight in setting the renewal premium",
+"IRDAI permits experience rating only above 1,000 lives",
+"Small groups have no mortality"
+],
+"a": 1,
+"e": "Credibility increases with the number of lives and years of experience; for a small group one death can distort the ratio, so insurers rely more on manual rates."
+},
+{
+"n": 43,
+"topic": "Reinsurance for Group Insurance",
+"t": "Under the IRDAI (Re-insurance) Regulations, 2018, when placing reinsurance an Indian insurer must offer the business in a prescribed order of preference, giving first preference to:",
+"o": [
+"Indian reinsurers (such as GIC Re) and then foreign reinsurance branches in India, before cross-border reinsurers",
+"The reinsurer offering the lowest price irrespective of location",
+"Its own parent company abroad",
+"Lloyd's syndicates"
+],
+"a": 0,
+"e": "The order of preference supports retention of premium within India: Indian reinsurers first, then foreign reinsurance branches (FRBs) and IFSC insurance offices, and only thereafter cross-border reinsurers."
+},
+{
+"topic": "Reinsurance",
+"t": "The obligatory cession that Indian general insurers must make to GIC Re is currently:",
+"o": [
+"4%",
+"5%",
+"10%",
+"15%"
+],
+"a": 0,
+"e": "★ Core fact (asked across III papers). The obligatory cession was reduced to 4% from 1 April 2022.",
+"r": "core",
+"n": 44
+},
+{
+"n": 45,
+"topic": "Reinsurance for Group Insurance",
+"t": "Catastrophe excess-of-loss reinsurance on a group term portfolio typically responds when:",
+"o": [
+"A single member's claim exceeds the insurer's retention",
+"Any claim is reported within the first policy year",
+"The insurer's annual claims ratio exceeds 100%",
+"The aggregate claims from one event (e.g. an accident killing several members) exceed a stated amount and a minimum number of lives are involved"
+],
+"a": 3,
+"e": "Cat XL covers accumulation from a single event, usually subject to a minimum number of deaths (e.g. three or more lives) and a deductible, and is distinct from per-life surplus cover."
+},
+{
+"n": 46,
+"topic": "Administration of Retirement Benefit Schemes",
+"t": "Nomination by an employee for gratuity under the Payment of Gratuity Act is made in:",
+"o": [
+"Form 2",
+"Form F",
+"Form 10C",
+"Form 19"
+],
+"a": 1,
+"e": "Form F is the gratuity nomination form under the Payment of Gratuity (Central) Rules; Form 2 is the EPF/EPS nomination, and Forms 19 and 10C are PF/EPS withdrawal forms."
+},
+{
+"n": 47,
+"topic": "Administration of Retirement Benefit Schemes",
+"t": "Under the Income-tax Rules, the employer's ordinary annual contribution to an approved superannuation fund together with the contribution to a recognised provident fund for an employee should not exceed:",
+"o": [
+"12% of salary",
+"15% of salary",
+"27% of salary",
+"33% of salary"
+],
+"a": 2,
+"e": "Rule 87 fixes a combined ceiling of 27% of the employee's salary on the employer's ordinary annual contributions to an approved superannuation fund and a recognised provident fund."
+},
+{
+"n": 48,
+"topic": "Social Security Schemes",
+"t": "Under the ESI scheme, sickness benefit is payable to an insured person at approximately what rate of wages, and for a maximum of how many days in two consecutive benefit periods?",
+"o": [
+"70% of wages for 91 days",
+"50% of wages for 182 days",
+"100% of wages for 60 days",
+"60% of wages for 120 days"
+],
+"a": 0,
+"e": "Sickness benefit is paid at about 70% of average daily wages for up to 91 days in two consecutive benefit periods, subject to a contribution condition of 78 days in the relevant period."
+},
+{
+"n": 49,
+"topic": "Social Security Schemes",
+"t": "Pradhan Mantri Shram Yogi Maan-dhan (PM-SYM) provides unorganised-sector workers aged 18 to 40 with a monthly income up to ₹15,000 an assured pension at age 60 of:",
+"o": [
+"₹1,000 per month",
+"₹2,000 per month",
+"₹3,000 per month",
+"₹5,000 per month"
+],
+"a": 2,
+"e": "PM-SYM is a voluntary contributory scheme with matching Government contribution, paying ₹3,000 per month from age 60; APY, by contrast, offers a choice of ₹1,000 to ₹5,000."
+},
+{
+"n": 50,
+"topic": "Social Security Schemes",
+"t": "Under PMSBY, the benefit payable for partial permanent disability (such as loss of one eye or one limb) due to accident is:",
+"o": [
+"₹1 lakh",
+"₹2 lakh",
+"₹50,000",
+"₹25,000"
+],
+"a": 0,
+"e": "PMSBY pays ₹2 lakh for accidental death or total permanent disability and ₹1 lakh for partial permanent disability as defined in the scheme."
+}
+]

@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Introduction to Management Accounting",
+"t": "An insurer decides to deploy ₹500 crore of surplus funds into a new technology platform. This is an example of a/an:",
+"o": [
+"Dividend decision",
+"Financing decision",
+"Investment (capital budgeting) decision",
+"Liquidity decision"
+],
+"a": 2,
+"e": "Committing funds to long-term assets whose benefits accrue over several years is the investment decision, evaluated through capital budgeting techniques."
+},
+{
+"n": 2,
+"topic": "Introduction to Management Accounting",
+"t": "Which of the following is a qualitative characteristic desired of management accounting information?",
+"o": [
+"Relevance and timeliness for the decision at hand",
+"Verifiability by a statutory auditor",
+"Conformity with the Schedule III format",
+"Uniformity across all industries"
+],
+"a": 0,
+"e": "Internal information is valued for being relevant, timely and sufficiently accurate for the decision, not for statutory conformity."
+},
+{
+"n": 3,
+"topic": "Cost Concepts and Classification",
+"t": "A cost unit for an insurance company could appropriately be:",
+"o": [
+"A tonne of output",
+"A machine hour",
+"A litre of fuel",
+"A policy issued or a claim settled"
+],
+"a": 3,
+"e": "Cost units are units of product or service in terms of which cost is ascertained; for insurers, per policy, per claim or per ₹1,000 sum insured are typical."
+},
+{
+"n": 4,
+"topic": "Cost Concepts and Classification",
+"t": "Which of the following is an out-of-pocket cost?",
+"o": [
+"Depreciation on owned building",
+"Notional interest on own capital",
+"Salaries paid to staff",
+"Opportunity cost of owner's time"
+],
+"a": 2,
+"e": "Out-of-pocket costs involve a current cash outlay; depreciation, notional interest and opportunity cost are non-cash or imputed costs."
+},
+{
+"n": 5,
+"topic": "Cost Concepts and Classification",
+"t": "A company produces 20,000 units: direct material ₹15 lakh, direct labour ₹9 lakh, factory overhead ₹6 lakh, administration overhead ₹4 lakh. Prime cost per unit and factory cost per unit are:",
+"o": [
+"₹75 and ₹150",
+"₹120 and ₹150",
+"₹120 and ₹170",
+"₹75 and ₹120"
+],
+"a": 1,
+"e": "Prime cost = 15 + 9 = ₹24 lakh → ₹120 per unit. Factory cost = 24 + 6 = ₹30 lakh → ₹150 per unit. Administration overhead is added only to arrive at cost of production/total cost."
+},
+{
+"n": 6,
+"topic": "Marginal Costing and CVP Analysis",
+"t": "Under marginal costing, closing stock is valued at:",
+"o": [
+"Total cost including fixed overhead",
+"Selling price",
+"Prime cost plus selling overhead",
+"Variable production cost only"
+],
+"a": 3,
+"e": "Marginal costing values inventory at variable (marginal) cost; fixed overhead is written off in the period, which is the root of profit differences versus absorption costing."
+},
+{
+"n": 7,
+"topic": "Marginal Costing and CVP Analysis",
+"t": "Opening stock nil; production 10,000 units; sales 8,000 units; fixed production overhead ₹2,00,000 absorbed at ₹20 per unit. Absorption costing profit exceeds marginal costing profit by:",
+"o": [
+"₹2,00,000",
+"₹40,000",
+"₹1,60,000",
+"₹20,000"
+],
+"a": 1,
+"e": "Closing stock of 2,000 units carries ₹20 of fixed overhead each under absorption costing, deferring ₹40,000 of fixed cost and raising profit by that amount."
+},
+{
+"n": 8,
+"topic": "Cost Concepts and Classification",
+"t": "An insurer spent ₹3 crore last year on a core-system that is now obsolete. In deciding whether to buy a new system, this ₹3 crore is a:",
+"o": [
+"Relevant cost",
+"Opportunity cost",
+"Differential cost",
+"Sunk cost"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). A sunk cost has already been incurred and cannot be recovered by any future decision, so it is irrelevant to the replacement decision.",
+"r": "key"
+},
+{
+"n": 9,
+"topic": "Marginal Costing and CVP Analysis",
+"t": "Fixed cost ₹18 lakh; selling price ₹900; variable cost ₹600. Units required to earn a profit of ₹6 lakh are:",
+"o": [
+"6,000",
+"2,000",
+"8,000",
+"4,000"
+],
+"a": 2,
+"e": "Contribution per unit = ₹300. Required units = (18 + 6) lakh ÷ 300 = 24,00,000 ÷ 300 = 8,000 units."
+},
+{
+"n": 10,
+"topic": "Marginal Costing and CVP Analysis",
+"t": "If the P/V ratio is 25% and the margin of safety is 40% of sales of ₹50 lakh, the fixed cost is:",
+"o": [
+"₹12.5 lakh",
+"₹5 lakh",
+"₹7.5 lakh",
+"₹10 lakh"
+],
+"a": 2,
+"e": "BEP sales = 60% × 50 = ₹30 lakh; fixed cost = BEP × P/V = 30 × 0.25 = ₹7.5 lakh."
+},
+{
+"n": 11,
+"topic": "Marginal Costing and CVP Analysis",
+"t": "Variable cost of processing a claim in-house is ₹900 plus ₹2 lakh of avoidable annual fixed cost; an outsourcer quotes ₹1,000 per claim. At what annual claim volume is the firm indifferent between the two options?",
+"o": [
+"200 claims",
+"2,000 claims",
+"1,000 claims",
+"20,000 claims"
+],
+"a": 1,
+"e": "Indifference volume = Avoidable fixed cost ÷ (Outsource price − Variable cost) = 2,00,000 ÷ (1,000 − 900) = 2,000 claims; above this, in-house processing is cheaper."
+},
+{
+"n": 12,
+"topic": "Budgeting and Budgetary Control",
+"t": "The document that sets out the responsibilities, procedures and timetable for preparing budgets is the:",
+"o": [
+"Master budget",
+"Budget centre",
+"Flexible budget",
+"Budget manual"
+],
+"a": 3,
+"e": "The budget manual records the budget organisation, forms, approval routes and calendar, ensuring consistent preparation across departments."
+},
+{
+"n": 13,
+"topic": "Budgeting and Budgetary Control",
+"t": "A capital expenditure budget is concerned with:",
+"o": [
+"Planned outlay on fixed assets and long-term projects",
+"Day-to-day operating expenses",
+"The premium income forecast",
+"The commission payable to agents"
+],
+"a": 0,
+"e": "The capital budget lists approved long-term investments (buildings, systems, equipment) and their timing, feeding into the cash budget and balance sheet."
+},
+{
+"n": 14,
+"topic": "Budgeting and Budgetary Control",
+"t": "A flexible budget shows fixed cost ₹5 lakh and variable cost ₹80 per unit. Actual output was 12,000 units with actual total cost ₹15.2 lakh. The total cost variance against the flexed budget is:",
+"o": [
+"₹60,000 Favourable",
+"₹1,20,000 Adverse",
+"Nil",
+"₹60,000 Adverse"
+],
+"a": 3,
+"e": "Flexed budget = 5,00,000 + 12,000 × 80 = ₹14.6 lakh. Actual cost of ₹15.2 lakh exceeds this by ₹60,000, an adverse variance."
+},
+{
+"n": 15,
+"topic": "Standard Costing and Variance Analysis",
+"t": "Which of the following is a benefit of standard costing?",
+"o": [
+"It eliminates the need for budgets",
+"It removes all adverse variances",
+"It provides a basis for measuring efficiency and fixing responsibility",
+"It is required by IRDAI"
+],
+"a": 2,
+"e": "Standards give a yardstick against which actual results are compared so that inefficiencies are located and responsibility assigned."
+},
+{
+"n": 16,
+"topic": "Standard Costing and Variance Analysis",
+"t": "Using the data: standard 5 kg at ₹20 per kg per unit, actual 5,400 kg at ₹19 per kg for 1,000 units, the material price variance is:",
+"o": [
+"₹5,000 Favourable",
+"₹5,400 Adverse",
+"₹8,000 Favourable",
+"₹5,400 Favourable"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). Price variance = (Standard price − Actual price) × Actual quantity = (20 − 19) × 5,400 = ₹5,400 Favourable because the actual price was lower.",
+"r": "key"
+},
+{
+"n": 17,
+"topic": "Standard Costing and Variance Analysis",
+"t": "A favourable variance means that:",
+"o": [
+"Actual cost exceeded standard cost",
+"Actual cost was less than standard cost (or actual revenue exceeded standard)",
+"The standard was set too loosely",
+"No action is ever required"
+],
+"a": 1,
+"e": "Favourable variances increase profit relative to standard; they still merit investigation because they may indicate loose standards or quality compromises."
+},
+{
+"n": 18,
+"topic": "Standard Costing and Variance Analysis",
+"t": "Standard: 10 hours at ₹50 per hour per unit. Actual: 500 units in 5,200 hours at ₹52 per hour. The labour cost variance is:",
+"o": [
+"₹10,000 Adverse",
+"₹10,400 Adverse",
+"₹20,400 Adverse",
+"₹20,400 Favourable"
+],
+"a": 2,
+"e": "Standard cost = 500 × 10 × 50 = ₹2,50,000; actual cost = 5,200 × 52 = ₹2,70,400. Labour cost variance = ₹20,400 Adverse (rate ₹10,400 A, efficiency ₹10,000 A)."
+},
+{
+"n": 19,
+"topic": "Standard Costing and Variance Analysis",
+"t": "Budgeted fixed overhead ₹6,00,000 for 12,000 units; actual fixed overhead ₹6,20,000; actual output 11,000 units. The total fixed overhead variance is:",
+"o": [
+"₹20,000 Adverse",
+"₹50,000 Adverse",
+"₹70,000 Adverse",
+"₹30,000 Favourable"
+],
+"a": 2,
+"e": "Absorbed overhead = 11,000 × ₹50 = ₹5,50,000; actual ₹6,20,000. Total variance = ₹70,000 Adverse (expenditure ₹20,000 A + volume ₹50,000 A)."
+},
+{
+"n": 20,
+"topic": "Standard Costing and Variance Analysis",
+"t": "A sales mix variance arises when:",
+"o": [
+"Total units sold differ from budget",
+"Selling prices change",
+"The proportion of different products sold differs from the budgeted proportion",
+"Fixed costs change"
+],
+"a": 2,
+"e": "Mix variance isolates the effect on contribution of selling products in a different ratio from that budgeted, holding total volume constant."
+},
+{
+"n": 21,
+"topic": "Ratio Analysis",
+"t": "Which of the following ratios is a liquidity ratio?",
+"o": [
+"Return on capital employed",
+"Debt-equity ratio",
+"Quick ratio",
+"Earnings per share"
+],
+"a": 2,
+"e": "Liquidity ratios (current ratio, quick ratio, cash ratio) assess the ability to meet short-term obligations; the others measure profitability, leverage and returns."
+},
+{
+"n": 22,
+"topic": "Ratio Analysis",
+"t": "Capital employed ₹250 crore, EBIT ₹45 crore, interest ₹10 crore, tax ₹10.5 crore. Return on capital employed (pre-tax) is:",
+"o": [
+"14%",
+"18%",
+"9.8%",
+"20%"
+],
+"a": 1,
+"e": "ROCE = EBIT ÷ Capital employed = 45 ÷ 250 = 18%; interest and tax are not deducted because capital employed includes both debt and equity."
+},
+{
+"n": 23,
+"topic": "Ratio Analysis",
+"t": "Current assets ₹90 lakh, current liabilities ₹45 lakh. If the company buys inventory of ₹15 lakh on credit, the current ratio becomes:",
+"o": [
+"2:1",
+"2.33:1",
+"1.5:1",
+"1.75:1"
+],
+"a": 3,
+"e": "New current ratio = (90 + 15) ÷ (45 + 15) = 105 ÷ 60 = 1.75:1; adding equal amounts to both sides when the ratio exceeds 1 reduces it."
+},
+{
+"n": 24,
+"topic": "Ratio Analysis",
+"t": "Which of the following is a 'window dressing' practice that distorts ratio analysis?",
+"o": [
+"Delaying purchases just before the year-end to improve the current ratio",
+"Charging depreciation on a consistent basis",
+"Disclosing contingent liabilities",
+"Providing for doubtful debts"
+],
+"a": 0,
+"e": "Window dressing manipulates year-end balances to present a better picture; the other options are sound accounting practices."
+},
+{
+"n": 25,
+"topic": "Ratio Analysis",
+"t": "PAT ₹60 crore, equity dividend paid ₹24 crore. The dividend payout ratio and retention ratio are:",
+"o": [
+"40% and 60%",
+"60% and 40%",
+"2.5 times and 0.4 times",
+"24% and 76%"
+],
+"a": 0,
+"e": "Payout = Dividend ÷ PAT = 24 ÷ 60 = 40%; retention = 1 − 40% = 60%."
+},
+{
+"n": 26,
+"topic": "Marginal Costing and CVP Analysis",
+"t": "A unit sells for ₹400 with variable cost ₹240 and fixed cost ₹16 lakh. If the firm sells 15,000 units, the profit is:",
+"o": [
+"₹24 lakh",
+"₹44 lakh",
+"₹6 lakh",
+"₹8 lakh"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). Contribution per unit = 400 − 240 = ₹160. Total contribution = 15,000 × 160 = ₹24 lakh. Profit = 24 − 16 = ₹8 lakh.",
+"r": "key"
+},
+{
+"n": 27,
+"topic": "Fund Flow and Cash Flow Statements",
+"t": "The schedule of changes in working capital compares:",
+"o": [
+"Two years' profit and loss accounts",
+"Current assets and current liabilities at two balance sheet dates",
+"Fixed assets at two dates",
+"Share capital at two dates"
+],
+"a": 1,
+"e": "The statement lists each current asset and current liability at the beginning and end of the period to arrive at the net increase or decrease in working capital."
+},
+{
+"n": 28,
+"topic": "Fund Flow and Cash Flow Statements",
+"t": "Which of the following is treated as a cash equivalent under AS 3 / Ind AS 7?",
+"o": [
+"A three-month treasury bill",
+"Equity shares held for trading",
+"A five-year fixed deposit",
+"Land held for sale"
+],
+"a": 0,
+"e": "Cash equivalents are short-term, highly liquid investments readily convertible to known amounts of cash with insignificant risk of value change, generally with maturity of three months or less."
+},
+{
+"n": 29,
+"topic": "Fund Flow and Cash Flow Statements",
+"t": "A company issued ₹40 lakh of debentures, redeemed ₹10 lakh of preference shares and paid ₹6 lakh dividend. Net cash flow from financing activities is:",
+"o": [
+"₹56 lakh inflow",
+"₹24 lakh inflow",
+"₹34 lakh inflow",
+"₹16 lakh outflow"
+],
+"a": 1,
+"e": "Financing cash flow = 40 − 10 − 6 = ₹24 lakh net inflow."
+},
+{
+"n": 30,
+"topic": "Fund Flow and Cash Flow Statements",
+"t": "A profitable company may still face a cash crunch primarily because:",
+"o": [
+"Profit is always lower than cash",
+"Profit and cash flow are different; profits may be locked in receivables and inventory",
+"Dividends are never paid in cash",
+"Depreciation consumes cash"
+],
+"a": 1,
+"e": "Accrual profit does not equal cash; growth in debtors, stock and capital spending can absorb cash even while the P&L shows profit, which is why cash flow statements are needed."
+},
+{
+"n": 31,
+"topic": "Capital Budgeting",
+"t": "Which of the following best describes 'mutually exclusive' projects?",
+"o": [
+"Projects that can be undertaken together",
+"Projects where acceptance of one precludes acceptance of the other",
+"Projects with the same NPV",
+"Projects with no cash outflows"
+],
+"a": 1,
+"e": "Mutually exclusive projects compete for the same purpose (e.g. two alternative software platforms); only one can be chosen, so ranking matters."
+},
+{
+"n": 32,
+"topic": "Capital Budgeting",
+"t": "The present value of ₹1,00,000 receivable at the end of 3 years at a discount rate of 8% (PV factor 0.794) is:",
+"o": [
+"₹1,25,971",
+"₹92,593",
+"₹76,000",
+"₹79,400"
+],
+"a": 3,
+"e": "PV = 1,00,000 × 0.794 = ₹79,400; discounting converts a future sum into its equivalent value today."
+},
+{
+"n": 33,
+"topic": "Capital Budgeting",
+"t": "A project has NPV of ₹1.5 lakh at an initial outlay of ₹7.5 lakh. Its profitability index is:",
+"o": [
+"0.20",
+"0.80",
+"5.00",
+"1.20"
+],
+"a": 3,
+"e": "PI = PV of inflows ÷ Outlay = (7.5 + 1.5) ÷ 7.5 = 1.20."
+},
+{
+"n": 34,
+"topic": "Capital Budgeting",
+"t": "Which of the following is correct regarding the NPV and IRR methods?",
+"o": [
+"IRR always ranks projects the same way as NPV",
+"IRR is expressed in rupees and NPV in percentage",
+"NPV cannot be used when cash flows are unequal",
+"NPV assumes reinvestment at the cost of capital while IRR assumes reinvestment at the IRR itself"
+],
+"a": 3,
+"e": "The differing reinvestment assumptions explain why NPV and IRR may rank mutually exclusive projects differently; NPV's assumption is considered more realistic."
+},
+{
+"n": 35,
+"topic": "Capital Budgeting",
+"t": "Project A costs ₹20 lakh with PV of inflows ₹26 lakh; Project B costs ₹8 lakh with PV of inflows ₹11.2 lakh. If capital is limited to ₹20 lakh and projects are divisible, which should be preferred first?",
+"o": [
+"Project A, because its NPV of ₹6 lakh is higher",
+"Project B, because its profitability index of 1.40 is higher",
+"Both equally",
+"Neither, as both have PI below 1"
+],
+"a": 1,
+"e": "PI: A = 26 ÷ 20 = 1.30; B = 11.2 ÷ 8 = 1.40. Under capital rationing with divisible projects, rank by PI so B is taken first, then the balance invested in A."
+},
+{
+"n": 36,
+"topic": "Responsibility Accounting and Performance Evaluation",
+"t": "Which of the following is a prerequisite for an effective responsibility accounting system?",
+"o": [
+"Absence of any budget",
+"Use of absorption costing only",
+"Centralised decision-making for all expenses",
+"A clearly defined organisation structure with delegated authority"
+],
+"a": 3,
+"e": "Responsibility can be assigned only when the organisation chart defines who controls what; budgets and reports are then aligned to those responsibility centres."
+},
+{
+"n": 37,
+"topic": "Responsibility Accounting and Performance Evaluation",
+"t": "'Goal congruence' in divisional performance measurement means that:",
+"o": [
+"All divisions have identical targets",
+"Divisions compete to maximise their own ROI",
+"Head office sets all transfer prices arbitrarily",
+"Decisions that benefit the division also benefit the organisation as a whole"
+],
+"a": 3,
+"e": "Performance measures and transfer prices should be designed so that managers acting in their own division's interest also act in the company's interest."
+},
+{
+"topic": "Motor – statutory",
+"t": "Third-party insurance is compulsory for a motor vehicle used in a public place under which section of the Motor Vehicles Act 1988?",
+"o": [
+"Section 140",
+"Section 146",
+"Section 163A",
+"Section 166"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). Section 146 makes TP cover compulsory; Section 164 fixes no-fault compensation (₹5 lakh death / ₹2.5 lakh grievous hurt).",
+"r": "core",
+"n": 38
+},
+{
+"n": 39,
+"topic": "Responsibility Accounting and Performance Evaluation",
+"t": "The selling division is operating at full capacity and sells externally at ₹500 per unit with variable cost ₹320. The minimum transfer price it should accept for an internal transfer is:",
+"o": [
+"₹320",
+"₹500",
+"₹180",
+"₹410"
+],
+"a": 1,
+"e": "At full capacity every internal unit displaces an external sale, so the opportunity cost (lost contribution of ₹180) must be added to variable cost: 320 + 180 = ₹500, the market price."
+},
+{
+"n": 40,
+"topic": "Responsibility Accounting and Performance Evaluation",
+"t": "A regional office reports a profit of ₹12 crore after charging ₹3 crore of head-office allocated costs that the regional manager cannot influence. For evaluating the manager, the appropriate figure is:",
+"o": [
+"₹15 crore",
+"₹9 crore",
+"₹12 crore",
+"₹3 crore"
+],
+"a": 0,
+"e": "Allocated uncontrollable costs should be excluded: controllable profit for the manager = 12 + 3 = ₹15 crore; the ₹12 crore figure is relevant for evaluating the region as an economic unit."
+},
+{
+"n": 41,
+"topic": "Working Capital and Sources of Finance",
+"t": "An aggressive working capital financing policy involves:",
+"o": [
+"Financing all current assets with equity",
+"Holding large cash reserves",
+"Financing part of permanent current assets with short-term funds",
+"Avoiding trade credit"
+],
+"a": 2,
+"e": "Aggressive policies rely more on cheaper short-term funds even for permanent needs, raising returns but increasing refinancing and liquidity risk."
+},
+{
+"n": 42,
+"topic": "Working Capital and Sources of Finance",
+"t": "Credit terms of '2/10, net 30' mean:",
+"o": [
+"2% interest after 10 days, payment due in 30 days",
+"10% discount if paid within 2 days",
+"Payment in 30 instalments of 2%",
+"A 2% discount if paid within 10 days, otherwise full amount due within 30 days"
+],
+"a": 3,
+"e": "The buyer can take a 2% cash discount by paying within 10 days; forgoing it to pay on day 30 carries a high implicit annual cost (about 37%)."
+},
+{
+"n": 43,
+"topic": "Working Capital and Sources of Finance",
+"t": "A firm sells goods worth ₹10 lakh on terms '2/10, net 30'. The approximate annualised cost of not availing the discount (360-day year) is:",
+"o": [
+"36.7%",
+"2%",
+"24%",
+"12%"
+],
+"a": 0,
+"e": "Cost = (2 ÷ 98) × (360 ÷ 20) = 2.04% × 18 ≈ 36.7% per annum, so forgoing the discount is expensive compared with bank borrowing."
+},
+{
+"topic": "Fire – standard products",
+"t": "Since 1 April 2021, the standard fire policy for a dwelling in India is:",
+"o": [
+"Standard Fire and Special Perils Policy",
+"Bharat Griha Raksha",
+"Bharat Sookshma Udyam Suraksha",
+"Householder's Package Policy"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). Bharat Griha Raksha for homes; Bharat Sookshma Udyam Suraksha (up to ₹5 crore) and Bharat Laghu Udyam Suraksha (₹5–50 crore) for enterprises.",
+"r": "core",
+"n": 44
+},
+{
+"n": 45,
+"topic": "Insurance Company Accounts and Financial Reporting",
+"t": "Under IRDAI norms, premium on a general insurance policy is recognised as income:",
+"o": [
+"Over the contract period in proportion to the risk, with the unexpired portion carried as reserve",
+"Entirely on the date of receipt",
+"Only when the policy expires",
+"Only after the claim is settled"
+],
+"a": 0,
+"e": "Premium is recognised over the period of risk; the unexpired risk reserve defers the unearned portion to the following year."
+},
+{
+"n": 46,
+"topic": "Insurance Company Accounts and Financial Reporting",
+"t": "A general insurer's net earned premium is ₹1,000 crore, incurred claims ₹720 crore, net commission ₹60 crore, management expenses ₹250 crore and investment income allocated to the revenue account ₹150 crore. The underwriting result and operating profit are:",
+"o": [
+"Profit ₹30 crore; profit ₹180 crore",
+"Loss ₹30 crore; profit ₹120 crore",
+"Loss ₹120 crore; profit ₹30 crore",
+"Loss ₹30 crore; loss ₹180 crore"
+],
+"a": 1,
+"e": "Underwriting result = 1,000 − 720 − 60 − 250 = ₹(−)30 crore. Adding investment income of ₹150 crore gives an operating profit of ₹120 crore."
+},
+{
+"n": 47,
+"topic": "Insurance Company Accounts and Financial Reporting",
+"t": "The persistency ratio of a life insurer measures:",
+"o": [
+"The proportion of policies (or premium) that continue in force after a given period, such as 13 or 61 months",
+"The ratio of claims to premium",
+"The solvency position",
+"The expense of management as a percentage of premium"
+],
+"a": 0,
+"e": "Persistency tracks policy renewals over time (e.g. 13th-month persistency); low persistency damages profitability because acquisition costs are front-loaded."
+},
+{
+"n": 48,
+"topic": "Insurance Company Accounts and Financial Reporting",
+"t": "A life insurer's policyholders' account shows total income ₹5,000 crore and total outgo (benefits, commission, expenses and change in valuation reserves) ₹4,700 crore. The surplus available for transfer or bonus is:",
+"o": [
+"₹300 crore",
+"₹4,700 crore",
+"₹9,700 crore",
+"Nil until the next valuation"
+],
+"a": 0,
+"e": "Surplus = Income − Outgo = 5,000 − 4,700 = ₹300 crore, which is allocated between policyholders' bonus and shareholders' transfer as per the actuarial valuation and IRDAI norms."
+},
+{
+"n": 49,
+"topic": "Activity Based Costing and Pricing Decisions",
+"t": "Compared with traditional volume-based absorption, ABC tends to:",
+"o": [
+"Assign more overhead to low-volume, complex products that consume more activities",
+"Over-cost high-volume simple products and under-cost low-volume complex products",
+"Ignore overheads entirely",
+"Use only direct labour hours as the base"
+],
+"a": 0,
+"e": "Traditional absorption spreads overhead by volume and so overburdens high-volume products; ABC traces costs of set-ups, inspections and handling to the complex products that actually cause them."
+},
+{
+"n": 50,
+"topic": "Activity Based Costing and Pricing Decisions",
+"t": "Target costing determines the allowable cost of a product as:",
+"o": [
+"Target selling price minus desired profit margin",
+"Actual cost plus desired profit",
+"Marginal cost plus fixed cost",
+"Competitor's cost plus 10%"
+],
+"a": 0,
+"e": "Target costing starts from the price the market will accept, deducts the required margin and then designs the product or process to meet the resulting cost ceiling."
+}
+]

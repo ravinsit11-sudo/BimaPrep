@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Asset Liability Management",
+"t": "A bond has a modified duration of 6 years and is priced at ₹1,020. If yields rise by 50 basis points, the approximate new price is:",
+"o": [
+"₹1,050.60",
+"₹1,014.90",
+"₹959.00",
+"₹989.40"
+],
+"a": 3,
+"e": "Percentage price change ≈ −Modified duration × Δy = −6 × 0.005 = −3%. New price ≈ 1,020 × (1 − 0.03) = ₹989.40."
+},
+{
+"n": 2,
+"topic": "Asset Liability Management",
+"t": "Which of the following ALM risks arises because coupons received on a bond may have to be reinvested at lower rates than originally assumed?",
+"o": [
+"Price risk",
+"Reinvestment risk",
+"Credit risk",
+"Liquidity risk"
+],
+"a": 1,
+"e": "Reinvestment risk is the uncertainty about the rate at which interim cash flows can be reinvested; price risk is the effect of yield changes on the bond's market value."
+},
+{
+"n": 3,
+"topic": "Investment Alternatives",
+"t": "Which of the following is a 'real asset' rather than a financial asset?",
+"o": [
+"A State Development Loan",
+"Commercial property owned by the insurer",
+"Units of a liquid mutual fund",
+"A certificate of deposit of a scheduled bank"
+],
+"a": 1,
+"e": "Real assets are tangible assets such as property and gold; SDLs, mutual fund units and CDs are financial claims."
+},
+{
+"n": 4,
+"topic": "Investment Alternatives",
+"t": "An insurer seeking a short-term parking place for surplus cash for 15 days with minimal credit risk would most appropriately use:",
+"o": [
+"Reverse repo in government securities or a triparty repo (TREPS)",
+"A 10-year corporate bond",
+"Equity shares of a mid-cap company",
+"Units of a real estate investment trust"
+],
+"a": 0,
+"e": "Reverse repo/TREPS are collateralised money market placements ideal for very short tenors; long bonds and equity expose short-term money to price risk."
+},
+{
+"n": 5,
+"topic": "Security Market Analysis",
+"t": "The process by which a company raises capital by offering its shares to the public for the first time is called a:",
+"o": [
+"Rights issue",
+"Bonus issue",
+"Buy-back",
+"Initial Public Offering (IPO)"
+],
+"a": 3,
+"e": "An IPO is the first sale of shares to the public in the primary market; rights issues go to existing holders, bonus shares are capitalised reserves and a buy-back reduces capital."
+},
+{
+"n": 6,
+"topic": "Security Market Analysis",
+"t": "Which of the following stock market indices is computed from 50 large-cap stocks listed on the National Stock Exchange?",
+"o": [
+"BSE Sensex",
+"BSE 500",
+"Nifty Midcap 100",
+"Nifty 50"
+],
+"a": 3,
+"e": "Nifty 50 is NSE's benchmark of 50 large-cap stocks by free-float market capitalisation; the Sensex covers 30 BSE stocks."
+},
+{
+"n": 7,
+"topic": "Fundamental Analysis",
+"t": "A company has total debt of ₹600 crore and shareholders' equity of ₹400 crore. Its debt-equity ratio is:",
+"o": [
+"1.5",
+"0.67",
+"0.6",
+"2.5"
+],
+"a": 0,
+"e": "Debt-equity ratio = Total debt / Shareholders' equity = 600/400 = 1.5, indicating relatively high leverage."
+},
+{
+"n": 8,
+"topic": "Fundamental Analysis",
+"t": "Which of the following ratios is most useful for judging a company's ability to meet its short-term obligations?",
+"o": [
+"Price-earnings ratio",
+"Current ratio",
+"Dividend payout ratio",
+"Return on equity"
+],
+"a": 1,
+"e": "Current ratio (current assets / current liabilities) is a liquidity measure; P/E is a valuation multiple and payout and ROE are profitability measures."
+},
+{
+"n": 9,
+"topic": "Fundamental Analysis",
+"t": "A company has net profit of ₹240 crore and 60 crore equity shares outstanding. Its share trades at ₹120. The price-earnings (P/E) ratio is:",
+"o": [
+"4",
+"0.5",
+"20",
+"30"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). EPS = 240/60 = ₹4; P/E = Price/EPS = 120/4 = 30 times.",
+"r": "key"
+},
+{
+"n": 10,
+"topic": "Technical Analysis",
+"t": "Dow Theory classifies market movements into three types. The 'primary trend' refers to:",
+"o": [
+"The broad long-term direction of the market lasting a year or more",
+"Intermediate corrections lasting a few weeks",
+"Daily fluctuations in prices",
+"The trend in a single stock on a given day"
+],
+"a": 0,
+"e": "Dow Theory identifies primary (long-term bull/bear), secondary (intermediate corrections) and minor (daily) movements."
+},
+{
+"n": 11,
+"topic": "Technical Analysis",
+"t": "A 'head and shoulders' pattern on a price chart is generally interpreted by technical analysts as a signal of:",
+"o": [
+"The continuation of an existing uptrend",
+"A period of low trading volumes",
+"A reversal of an uptrend into a downtrend",
+"An increase in the dividend of the company"
+],
+"a": 2,
+"e": "Head and shoulders is a classic reversal formation; once the neckline is broken, analysts expect prices to fall."
+},
+{
+"n": 12,
+"topic": "Portfolio Management",
+"t": "A passive portfolio strategy is one in which the manager:",
+"o": [
+"Replicates a market index and makes few changes, believing markets are efficient",
+"Actively times the market to buy before rises and sell before falls",
+"Rotates sectors each quarter based on economic forecasts",
+"Picks undervalued stocks through intensive research"
+],
+"a": 0,
+"e": "Passive management (indexing) assumes prices reflect available information, so it tracks an index at low cost; the other options are active strategies."
+},
+{
+"n": 13,
+"topic": "Portfolio Management",
+"t": "Which of the following statements about portfolio revision is correct?",
+"o": [
+"Rebalancing is unnecessary once the initial allocation is decided",
+"Periodic rebalancing restores the portfolio's asset mix to the policy weights after market movements shift them",
+"Revision should be done only when the fund incurs a loss",
+"Rebalancing always means moving fully into cash"
+],
+"a": 1,
+"e": "Market movements change actual weights; rebalancing sells the outperforming class and buys the underperformer to return to the strategic allocation."
+},
+{
+"n": 14,
+"topic": "IRDAI Investment Regulations",
+"t": "Under the IRDAI (Investment) Regulations, 2016, the maximum share of the life fund that can be placed in 'other investments' (investments not qualifying as approved investments) is:",
+"o": [
+"25%",
+"15%",
+"35%",
+"5%"
+],
+"a": 1,
+"e": "The life fund pattern allows up to 35% in approved investments and caps 'other investments' at 15%, subject to prudential norms."
+},
+{
+"n": 15,
+"topic": "IRDAI Investment Regulations",
+"t": "For unit-linked funds, the IRDAI Investment Regulations require that approved investments constitute at least:",
+"o": [
+"50% of the fund",
+"25% of the fund",
+"100% of the fund",
+"75% of the fund"
+],
+"a": 3,
+"e": "ULIP funds must hold not less than 75% in approved investments; up to 25% may be other investments."
+},
+{
+"n": 16,
+"topic": "Solvency and Prudential Norms",
+"t": "An insurer's Available Solvency Margin is ₹1,800 crore and its Required Solvency Margin is ₹1,000 crore. The solvency ratio is:",
+"o": [
+"55.6%",
+"80%",
+"180%",
+"1.8%"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). Solvency ratio = ASM / RSM = 1,800 / 1,000 = 1.80 or 180%, which is above the 150% control level.",
+"r": "key"
+},
+{
+"n": 17,
+"topic": "IRDAI Investment Regulations",
+"t": "The pattern of investment for pension, general annuity and group business funds of a life insurer requires a minimum of 20% in Central Government securities and a minimum of what percentage in Central, State and other approved securities together?",
+"o": [
+"50%",
+"30%",
+"60%",
+"40%"
+],
+"a": 3,
+"e": "Pension and general annuity funds: at least 20% in Central Government securities, at least 40% in government and other approved securities, with the balance (not exceeding 60%) in approved investments only."
+},
+{
+"n": 18,
+"topic": "IRDAI Investment Regulations",
+"t": "Under the IRDAI exposure norms, an insurer's aggregate investments in the companies belonging to its promoter group are restricted to not more than:",
+"o": [
+"15% of the investment assets",
+"25% of the investment assets",
+"No limit, provided the companies are listed",
+"5% of the investment assets"
+],
+"a": 3,
+"e": "Investment in promoter group companies is capped at 5% of investment assets (and is not permitted in the promoter group's unlisted entities), to avoid conflicts of interest."
+},
+{
+"n": 19,
+"topic": "Solvency and Prudential Norms",
+"t": "The Required Solvency Margin for a life insurer under the IRDAI framework is computed with reference to:",
+"o": [
+"The number of policies issued in the year",
+"The total premium income of the previous five years",
+"The market value of its equity investments only",
+"A percentage of mathematical reserves plus a percentage of sum at risk"
+],
+"a": 3,
+"e": "RSM for life business = (factor × mathematical reserves) + (factor × sum at risk), capturing both investment and mortality risk."
+},
+{
+"n": 20,
+"topic": "Solvency and Prudential Norms",
+"t": "Under IRDAI prudential norms for insurers, a loan or debt instrument is classified as a non-performing asset when interest or instalment of principal remains overdue for more than:",
+"o": [
+"30 days",
+"90 days",
+"180 days",
+"365 days"
+],
+"a": 1,
+"e": "IRDAI's NPA norms are aligned with RBI: an asset becomes non-performing when interest and/or principal are overdue for more than 90 days."
+},
+{
+"n": 21,
+"topic": "Fixed Income and Money Market Instruments",
+"t": "A 91-day Treasury Bill of face value ₹100 is purchased at ₹98.40. The annualised yield (on a 365-day basis) is approximately:",
+"o": [
+"1.60%",
+"5.87%",
+"6.52%",
+"6.42%"
+],
+"a": 2,
+"e": "Yield = (100 − P)/P × 365/91 = (1.60/98.40) × 4.011 = 0.01626 × 4.011 = 6.52%."
+},
+{
+"n": 22,
+"topic": "Fixed Income and Money Market Instruments",
+"t": "A certificate of deposit (CD) in India is issued by:",
+"o": [
+"Only the Reserve Bank of India",
+"Listed non-financial companies",
+"Scheduled commercial banks and select all-India financial institutions",
+"State governments"
+],
+"a": 2,
+"e": "CDs are negotiable money market instruments issued by banks and select FIs; corporates issue commercial paper instead."
+},
+{
+"n": 23,
+"topic": "Fixed Income and Money Market Instruments",
+"t": "A yield curve that slopes upward, with long-term yields higher than short-term yields, is described as:",
+"o": [
+"Inverted",
+"Flat",
+"Normal",
+"Humped"
+],
+"a": 2,
+"e": "A normal yield curve is upward sloping; an inverted curve has short rates above long rates and is often read as a signal of expected slowdown."
+},
+{
+"n": 24,
+"topic": "Fixed Income and Money Market Instruments",
+"t": "Which theory of the term structure holds that long-term rates equal the average of expected future short-term rates plus a premium that investors demand for holding longer, less liquid bonds?",
+"o": [
+"Pure expectations theory",
+"Market segmentation theory",
+"Random walk theory",
+"Liquidity preference theory"
+],
+"a": 3,
+"e": "Liquidity preference adds a term premium to the expectations hypothesis; pure expectations has no premium and segmentation holds that maturities are separate markets."
+},
+{
+"n": 25,
+"topic": "Risk and Return",
+"t": "Unsystematic risk is the portion of total risk that:",
+"o": [
+"Affects all securities and cannot be diversified away",
+"Arises from changes in the general level of interest rates",
+"Is specific to a company or industry and can be reduced through diversification",
+"Is measured by beta"
+],
+"a": 2,
+"e": "Firm-specific events (strike, product failure, management change) are unsystematic and diversifiable; market-wide factors like interest rates are systematic and measured by beta."
+},
+{
+"n": 26,
+"topic": "Performance Measurement",
+"t": "A fund earned 14% over the year with a standard deviation of 10%; the risk-free rate was 6%. Its Sharpe ratio is:",
+"o": [
+"1.40",
+"0.60",
+"0.80",
+"1.25"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). Sharpe ratio = (Rp − Rf)/σp = (14 − 6)/10 = 0.80. It measures excess return per unit of total risk.",
+"r": "key"
+},
+{
+"n": 27,
+"topic": "Risk and Return",
+"t": "Possible returns on a share are 20% with probability 0.3, 10% with probability 0.5 and −5% with probability 0.2. The expected return is:",
+"o": [
+"8.33%",
+"10%",
+"12%",
+"11.5%"
+],
+"a": 1,
+"e": "E(R) = 0.3×20 + 0.5×10 + 0.2×(−5) = 6 + 5 − 1 = 10%."
+},
+{
+"n": 28,
+"topic": "Risk and Return",
+"t": "Purchasing power risk refers to the possibility that:",
+"o": [
+"Inflation will erode the real value of the investment's returns",
+"The issuer will default on interest payments",
+"The security cannot be sold quickly at a fair price",
+"A change in tax law will reduce post-tax return"
+],
+"a": 0,
+"e": "Purchasing power (inflation) risk reduces real returns; default, liquidity and tax risk are different sources of risk."
+},
+{
+"n": 29,
+"topic": "Portfolio Theory and CAPM",
+"t": "A security that plots above the Security Market Line is considered:",
+"o": [
+"Undervalued, because it offers a higher expected return than CAPM requires for its beta",
+"Overvalued, because its expected return is lower than required",
+"Correctly priced",
+"Risk-free"
+],
+"a": 0,
+"e": "The SML gives the required return for each beta; a security offering more than this is underpriced and attractive, while one plotting below is overpriced."
+},
+{
+"n": 30,
+"topic": "Portfolio Theory and CAPM",
+"t": "Beta of a security measures:",
+"o": [
+"The total variability of the security's return",
+"The sensitivity of the security's return to movements in the market return",
+"The probability of the issuer's default",
+"The dividend yield relative to the market"
+],
+"a": 1,
+"e": "Beta = Cov(Ri, Rm)/Var(Rm); a beta above 1 means the stock moves more than proportionately with the market."
+},
+{
+"n": 31,
+"topic": "Portfolio Theory and CAPM",
+"t": "A portfolio has 60% invested in Stock A (beta 1.2) and 40% in Stock B (beta 0.8). The portfolio beta is:",
+"o": [
+"1.00",
+"1.04",
+"0.96",
+"2.00"
+],
+"a": 1,
+"e": "Portfolio beta is the weighted average: 0.6×1.2 + 0.4×0.8 = 0.72 + 0.32 = 1.04."
+},
+{
+"n": 32,
+"topic": "Performance Measurement",
+"t": "Jensen's alpha of a portfolio is defined as:",
+"o": [
+"The portfolio return divided by its standard deviation",
+"The portfolio's excess return divided by its beta",
+"The actual portfolio return minus the return predicted by CAPM for its beta",
+"The difference between the portfolio's highest and lowest monthly returns"
+],
+"a": 2,
+"e": "Alpha = Rp − [Rf + β(Rm − Rf)]; a positive alpha indicates the manager outperformed the risk-adjusted benchmark."
+},
+{
+"n": 33,
+"topic": "Performance Measurement",
+"t": "An investment of ₹1,00,000 grew to ₹1,46,410 over 4 years. The compound annual growth rate (CAGR) is:",
+"o": [
+"10%",
+"11.6%",
+"46.41%",
+"9.5%"
+],
+"a": 0,
+"e": "CAGR = (1,46,410/1,00,000)^(1/4) − 1 = (1.4641)^(0.25) − 1 = 1.10 − 1 = 10%."
+},
+{
+"n": 34,
+"topic": "Equity Management",
+"t": "The dividend yield of a share is calculated as:",
+"o": [
+"Dividend per share divided by earnings per share",
+"Dividend per share divided by market price per share",
+"Market price per share divided by dividend per share",
+"Dividend per share divided by book value per share"
+],
+"a": 1,
+"e": "Dividend yield = DPS/market price. DPS/EPS is the payout ratio."
+},
+{
+"topic": "Reinsurance",
+"t": "The obligatory cession that Indian general insurers must make to GIC Re is currently:",
+"o": [
+"4%",
+"5%",
+"10%",
+"15%"
+],
+"a": 0,
+"e": "★ Core fact (asked across III papers). The obligatory cession was reduced to 4% from 1 April 2022.",
+"r": "core",
+"n": 35
+},
+{
+"n": 36,
+"topic": "Equity Management",
+"t": "A share with a market price of ₹250 has a book value per share of ₹100 and EPS of ₹20. Which statement is correct?",
+"o": [
+"Its price-to-book ratio is 2.5 and P/E is 12.5",
+"Its price-to-book ratio is 12.5 and P/E is 2.5",
+"Its price-to-book ratio is 5 and P/E is 10",
+"Its price-to-book ratio is 2.5 and P/E is 20"
+],
+"a": 0,
+"e": "P/B = 250/100 = 2.5; P/E = 250/20 = 12.5."
+},
+{
+"n": 37,
+"topic": "Mutual Funds",
+"t": "The 'expense ratio' of a mutual fund scheme represents:",
+"o": [
+"The entry load charged on each purchase",
+"The percentage of the fund invested in equities",
+"Annual recurring expenses of the scheme as a percentage of its average net assets",
+"The fund's return minus the benchmark return"
+],
+"a": 2,
+"e": "Expense ratio covers management fees and other recurring costs; SEBI caps it based on the scheme type and asset size."
+},
+{
+"n": 38,
+"topic": "Mutual Funds",
+"t": "Which of the following is an advantage of investing in a mutual fund for a small investor?",
+"o": [
+"Professional management and diversification at low cost",
+"A guaranteed minimum return on all schemes",
+"Complete exemption from market risk",
+"Direct control over which securities the scheme buys"
+],
+"a": 0,
+"e": "Mutual funds pool money for diversified, professionally managed portfolios; returns are not guaranteed and investors do not choose individual holdings."
+},
+{
+"n": 39,
+"topic": "Derivatives",
+"t": "A call option on a share with a strike price of ₹500 is trading when the share price is ₹540. The intrinsic value of the call is:",
+"o": [
+"₹0",
+"₹40",
+"₹500",
+"₹540"
+],
+"a": 1,
+"e": "Intrinsic value of a call = max(Spot − Strike, 0) = 540 − 500 = ₹40; the option is in the money."
+},
+{
+"n": 40,
+"topic": "Derivatives",
+"t": "In an interest rate swap used by an insurer, the party paying a fixed rate and receiving a floating rate is hedging against:",
+"o": [
+"A fall in interest rates on its fixed-rate assets",
+"Credit default by the bond issuer",
+"A rise in interest rates on its floating-rate liabilities",
+"Depreciation of the rupee"
+],
+"a": 2,
+"e": "Paying fixed converts floating-rate exposure into fixed, protecting against rising rates; receiving fixed hedges against falling rates."
+},
+{
+"n": 41,
+"topic": "Derivatives",
+"t": "The daily settlement of gains and losses on a futures position through the exchange's clearing house is called:",
+"o": [
+"Novation",
+"Exercise",
+"Assignment",
+"Mark-to-market"
+],
+"a": 3,
+"e": "Mark-to-market credits or debits each day's price change to the trader's margin account; novation refers to the clearing house becoming counterparty to both sides."
+},
+{
+"n": 42,
+"topic": "Valuation of Securities",
+"t": "A 2-year bond of face value ₹1,000 pays a 9% annual coupon. If the required yield is 9%, its price is:",
+"o": [
+"₹1,090",
+"₹982.50",
+"₹1,000",
+"₹1,017.60"
+],
+"a": 2,
+"e": "When coupon rate equals the required yield the bond trades at par: 90/1.09 + 1,090/1.09^2 = 82.57 + 917.43 = ₹1,000."
+},
+{
+"topic": "Principles",
+"t": "The principle that allows an insurer who has paid a claim to step into the insured's shoes and recover from a liable third party is:",
+"o": [
+"Contribution",
+"Subrogation",
+"Indemnity",
+"Proximate cause"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). Subrogation is a corollary of indemnity; it does not apply to life or personal accident (benefit) policies.",
+"r": "core",
+"n": 43
+},
+{
+"n": 44,
+"topic": "Valuation of Securities",
+"t": "Under IRDAI norms, unrealised gains or losses arising from valuing a life insurer's non-linked equity portfolio at fair value are:",
+"o": [
+"Credited to the revenue account as investment income",
+"Distributed immediately as bonus to policyholders",
+"Ignored, since equity is carried at cost",
+"Taken to the Fair Value Change Account and not recognised in the revenue account"
+],
+"a": 3,
+"e": "Listed equity in non-linked funds is valued at fair value; the difference from cost goes to the Fair Value Change Account in the balance sheet, not the revenue account."
+},
+{
+"n": 45,
+"topic": "Valuation of Securities",
+"t": "The price of a bond and its yield to maturity are:",
+"o": [
+"Directly related",
+"Unrelated",
+"Related only for zero-coupon bonds",
+"Inversely related"
+],
+"a": 3,
+"e": "As the yield rises the present value of fixed cash flows falls, so price falls; this inverse relationship holds for all fixed-coupon bonds."
+},
+{
+"n": 46,
+"topic": "ULIP Fund Management and NAV",
+"t": "Which of the following charges in a unit-linked policy is recovered through the NAV of the fund rather than by cancelling units?",
+"o": [
+"Fund management charge",
+"Mortality charge",
+"Policy administration charge",
+"Premium allocation charge"
+],
+"a": 0,
+"e": "The FMC is deducted daily while computing the NAV; mortality and administration charges are recovered by cancelling units and the allocation charge is deducted from premium."
+},
+{
+"n": 47,
+"topic": "ULIP Fund Management and NAV",
+"t": "A policyholder pays an annual premium of ₹1,00,000 under a ULIP with a premium allocation charge of 4%. The NAV on the allocation date is ₹24.00. Units allocated are:",
+"o": [
+"4,166.67",
+"3,840",
+"4,000",
+"4,200"
+],
+"a": 2,
+"e": "Allocated premium = 1,00,000 × (1 − 0.04) = ₹96,000; units = 96,000/24 = 4,000."
+},
+{
+"n": 48,
+"topic": "ULIP Fund Management and NAV",
+"t": "The lock-in period for a unit-linked insurance policy under IRDAI regulations is:",
+"o": [
+"3 years from inception",
+"1 year from inception",
+"10 years from inception",
+"5 years from inception"
+],
+"a": 3,
+"e": "ULIPs carry a 5-year lock-in; on discontinuance within this period the fund value moves to the discontinued policy fund and is paid after the lock-in."
+},
+{
+"n": 49,
+"topic": "Forex and International Investments",
+"t": "In the foreign exchange market, a 'forward premium' on the US dollar against the rupee means:",
+"o": [
+"The forward rate for the dollar is lower than the spot rate",
+"The RBI charges a fee for forward contracts",
+"The forward rate for the dollar is higher than the spot rate, i.e. the dollar is expected to be costlier in rupees",
+"The spot rate exceeds the forward rate"
+],
+"a": 2,
+"e": "Dollar at a forward premium means more rupees per dollar in the forward market than spot, typically reflecting higher Indian interest rates under interest rate parity."
+},
+{
+"n": 50,
+"topic": "Forex and International Investments",
+"t": "An Indian insurer with reinsurance recoveries receivable in US dollars faces foreign exchange risk because:",
+"o": [
+"Rupee appreciation would reduce the rupee value of the dollar receivable",
+"Rupee depreciation would reduce the rupee value of the dollar receivable",
+"The dollar receivable is exempt from exchange rate changes",
+"Reinsurers always pay in rupees"
+],
+"a": 0,
+"e": "If the rupee strengthens (fewer rupees per dollar), each dollar received converts to fewer rupees; a weaker rupee would increase the rupee value."
+}
+]

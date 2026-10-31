@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Introduction to Management Accounting",
+"t": "Financial accounting is mainly concerned with:",
+"o": [
+"Projecting future cash flows for managers",
+"Setting cost standards for departments",
+"Reporting historical results to external stakeholders",
+"Ranking capital projects"
+],
+"a": 2,
+"e": "Financial accounting records and reports past transactions in statutory formats for shareholders, regulators and creditors, while the other options describe management accounting tasks."
+},
+{
+"n": 2,
+"topic": "Introduction to Management Accounting",
+"t": "Which of the following limitations applies to management accounting?",
+"o": [
+"It cannot use non-monetary data",
+"Its conclusions depend on the quality of the underlying financial and cost records",
+"It is prohibited from preparing forecasts",
+"It must follow Ind AS strictly"
+],
+"a": 1,
+"e": "Management accounting is a derivative discipline; if the cost and financial data it analyses are inaccurate or delayed, its reports and decisions will be weak."
+},
+{
+"n": 3,
+"topic": "Cost Concepts and Classification",
+"t": "Costs that are incurred as a result of past decisions and cannot be altered in the short run, such as lease rentals under a five-year lease, are called:",
+"o": [
+"Discretionary costs",
+"Variable costs",
+"Opportunity costs",
+"Committed fixed costs"
+],
+"a": 3,
+"e": "Committed costs arise from long-term contractual or structural decisions; discretionary fixed costs such as advertising can be cut at management's choice."
+},
+{
+"n": 4,
+"topic": "Cost Concepts and Classification",
+"t": "Which of the following is a product cost rather than a period cost under absorption costing?",
+"o": [
+"Selling and distribution overhead",
+"Administration overhead",
+"Factory overhead",
+"Interest on loan"
+],
+"a": 2,
+"e": "Product (inventoriable) costs are manufacturing costs — direct material, direct labour and factory overhead; selling, administration and finance costs are period costs."
+},
+{
+"n": 5,
+"topic": "Cost Concepts and Classification",
+"t": "Differential cost is:",
+"o": [
+"The cost that has already been paid",
+"The total fixed cost of a department",
+"The cost of the cheapest alternative",
+"The difference in total cost between two alternatives"
+],
+"a": 3,
+"e": "Differential (incremental) cost is the change in total cost resulting from choosing one alternative over another and is central to make-or-buy or expansion decisions."
+},
+{
+"n": 6,
+"topic": "Cost Concepts and Classification",
+"t": "Total cost at 10,000 policies was ₹28 lakh and at 16,000 policies ₹37 lakh. Estimated total cost at 14,000 policies is:",
+"o": [
+"₹32.5 lakh",
+"₹35 lakh",
+"₹34 lakh",
+"₹33 lakh"
+],
+"a": 2,
+"e": "Variable cost per policy = (37 − 28) ÷ (16,000 − 10,000) lakh = ₹150. Fixed cost = 28,00,000 − 10,000 × 150 = ₹13 lakh. Cost at 14,000 = 13 + 21 = ₹34 lakh."
+},
+{
+"n": 7,
+"topic": "Marginal Costing and CVP Analysis",
+"t": "Which statement about the P/V ratio is INCORRECT?",
+"o": [
+"It is unaffected by a change in selling price",
+"It equals contribution divided by sales",
+"It increases when variable cost per unit falls",
+"It can be used to compute break-even sales value"
+],
+"a": 0,
+"e": "P/V ratio depends on selling price and variable cost per unit; a change in selling price changes contribution per unit and therefore the ratio."
+},
+{
+"n": 8,
+"topic": "Marginal Costing and CVP Analysis",
+"t": "A unit sells for ₹400 with variable cost ₹240 and fixed cost ₹16 lakh. If the firm sells 15,000 units, the profit is:",
+"o": [
+"₹24 lakh",
+"₹44 lakh",
+"₹6 lakh",
+"₹8 lakh"
+],
+"a": 3,
+"e": "Contribution per unit = 400 − 240 = ₹160. Total contribution = 15,000 × 160 = ₹24 lakh. Profit = 24 − 16 = ₹8 lakh."
+},
+{
+"n": 9,
+"topic": "Marginal Costing and CVP Analysis",
+"t": "Fixed costs are ₹10 lakh and contribution per unit is ₹250. If fixed costs rise by 20%, the break-even point in units will:",
+"o": [
+"Increase by 4,000 units",
+"Remain unchanged",
+"Increase by 800 units",
+"Decrease by 800 units"
+],
+"a": 2,
+"e": "Original BEP = 10,00,000 ÷ 250 = 4,000 units; new BEP = 12,00,000 ÷ 250 = 4,800 units, an increase of 800 units."
+},
+{
+"n": 10,
+"topic": "Marginal Costing and CVP Analysis",
+"t": "A firm has a margin of safety of ₹20 lakh and a P/V ratio of 35%. Its profit is:",
+"o": [
+"₹7 lakh",
+"₹13 lakh",
+"₹57 lakh",
+"₹5.7 lakh"
+],
+"a": 0,
+"e": "Profit = Margin of safety × P/V ratio = 20,00,000 × 0.35 = ₹7 lakh, because contribution on sales beyond break-even is entirely profit."
+},
+{
+"n": 11,
+"topic": "Introduction to Management Accounting",
+"t": "An insurer's finance head wants to decide whether to raise ₹200 crore through subordinated debt or fresh equity. This is primarily a/an:",
+"o": [
+"Financing decision",
+"Investment decision",
+"Dividend decision",
+"Working capital decision"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). Choosing the mix of debt and equity to fund the company is the financing (capital structure) decision; how the funds are then deployed would be the investment decision.",
+"r": "key"
+},
+{
+"n": 12,
+"topic": "Marginal Costing and CVP Analysis",
+"t": "Operating leverage is high when:",
+"o": [
+"Variable costs form a large part of total cost",
+"The firm has no debt",
+"Sales are exactly at break-even",
+"Fixed costs form a large part of total cost"
+],
+"a": 3,
+"e": "Degree of operating leverage = Contribution ÷ EBIT; a high proportion of fixed cost magnifies the effect of sales changes on operating profit."
+},
+{
+"n": 13,
+"topic": "Marginal Costing and CVP Analysis",
+"t": "Contribution is ₹30 lakh and fixed cost is ₹20 lakh. The degree of operating leverage is:",
+"o": [
+"1.5",
+"3",
+"0.67",
+"2"
+],
+"a": 1,
+"e": "EBIT = 30 − 20 = ₹10 lakh. DOL = Contribution ÷ EBIT = 30 ÷ 10 = 3; a 10% rise in sales would raise EBIT by 30%."
+},
+{
+"n": 14,
+"topic": "Budgeting and Budgetary Control",
+"t": "Budgeted premium is ₹500 crore for the year, collected 60% in the month of issue and 40% in the following month. If March issues are ₹50 crore and April issues are ₹40 crore, April collections are:",
+"o": [
+"₹46 crore",
+"₹44 crore",
+"₹40 crore",
+"₹50 crore"
+],
+"a": 1,
+"e": "April collections = 60% of April issues (₹24 crore) + 40% of March issues (₹20 crore) = ₹44 crore."
+},
+{
+"n": 15,
+"topic": "Standard Costing and Variance Analysis",
+"t": "Standard costing is most suitable for:",
+"o": [
+"One-off construction contracts",
+"Research projects with uncertain outcomes",
+"Repetitive, standardised operations such as policy processing",
+"Businesses with no cost records"
+],
+"a": 2,
+"e": "Standards can be set reliably only where operations are repetitive and measurable, so that actual performance can be meaningfully compared."
+},
+{
+"n": 16,
+"topic": "Standard Costing and Variance Analysis",
+"t": "Material cost variance is the sum of:",
+"o": [
+"Material usage variance and labour rate variance",
+"Material price variance and overhead variance",
+"Material mix variance and sales volume variance",
+"Material price variance and material usage variance"
+],
+"a": 3,
+"e": "Material cost variance (Standard cost − Actual cost) splits into price variance (rate effect) and usage variance (quantity effect)."
+},
+{
+"n": 17,
+"topic": "Standard Costing and Variance Analysis",
+"t": "Standard cost per unit: 4 kg at ₹25. Actual for 2,000 units: 7,800 kg at ₹26. The material cost variance is:",
+"o": [
+"₹5,000 Favourable",
+"₹7,800 Adverse",
+"₹2,800 Adverse",
+"₹2,800 Favourable"
+],
+"a": 2,
+"e": "Standard cost = 2,000 × 4 × 25 = ₹2,00,000; actual cost = 7,800 × 26 = ₹2,02,800. Cost variance = ₹2,800 Adverse (usage ₹5,000 F, price ₹7,800 A)."
+},
+{
+"n": 18,
+"topic": "Marginal Costing and CVP Analysis",
+"t": "A company has sales of ₹40 lakh, variable cost of ₹24 lakh and fixed cost of ₹10 lakh. Its P/V ratio is:",
+"o": [
+"25%",
+"60%",
+"40%",
+"15%"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). P/V ratio = Contribution ÷ Sales × 100 = (40 − 24) ÷ 40 × 100 = 40%. It shows the contribution earned per rupee of sales.",
+"r": "key"
+},
+{
+"n": 19,
+"topic": "Standard Costing and Variance Analysis",
+"t": "Budgeted output 10,000 units; budgeted fixed overhead ₹5,00,000; actual output 11,000 units. The fixed overhead volume variance is:",
+"o": [
+"₹50,000 Adverse",
+"₹55,000 Favourable",
+"Nil",
+"₹50,000 Favourable"
+],
+"a": 3,
+"e": "Standard rate = ₹50 per unit. Volume variance = (Actual output − Budgeted output) × Rate = 1,000 × 50 = ₹50,000 Favourable, as more units absorbed the fixed cost."
+},
+{
+"n": 20,
+"topic": "Standard Costing and Variance Analysis",
+"t": "Budgeted sales 8,000 units; actual 9,000 units; standard contribution per unit ₹120. The sales volume (contribution) variance is:",
+"o": [
+"₹1,20,000 Adverse",
+"₹1,20,000 Favourable",
+"₹1,08,000 Favourable",
+"₹96,000 Favourable"
+],
+"a": 1,
+"e": "Sales volume variance (marginal costing) = (Actual units − Budgeted units) × Standard contribution = 1,000 × 120 = ₹1,20,000 Favourable."
+},
+{
+"n": 21,
+"topic": "Ratio Analysis",
+"t": "A high debtors turnover ratio generally indicates:",
+"o": [
+"Slow collection and liberal credit policy",
+"Efficient collection of receivables",
+"Excessive inventory",
+"High financial leverage"
+],
+"a": 1,
+"e": "Debtors turnover = Credit sales ÷ Average debtors; a high ratio means debtors are converted to cash quickly."
+},
+{
+"n": 22,
+"topic": "Ratio Analysis",
+"t": "Cost of goods sold is ₹48 lakh, opening stock ₹5 lakh and closing stock ₹7 lakh. The inventory turnover ratio is:",
+"o": [
+"8 times",
+"6 times",
+"9.6 times",
+"6.86 times"
+],
+"a": 0,
+"e": "Average stock = (5 + 7) ÷ 2 = ₹6 lakh. Inventory turnover = 48 ÷ 6 = 8 times."
+},
+{
+"n": 23,
+"topic": "Ratio Analysis",
+"t": "Equity share capital ₹50 crore, reserves ₹70 crore, 10% debentures ₹60 crore, current liabilities ₹30 crore. The debt-equity ratio (long-term debt to shareholders' funds) is:",
+"o": [
+"1.2:1",
+"0.75:1",
+"0.43:1",
+"0.5:1"
+],
+"a": 3,
+"e": "Shareholders' funds = 50 + 70 = ₹120 crore. Debt-equity = 60 ÷ 120 = 0.5:1; current liabilities are excluded."
+},
+{
+"n": 24,
+"topic": "Ratio Analysis",
+"t": "Dividend per share is ₹4 and the market price is ₹80. The dividend yield is:",
+"o": [
+"20%",
+"5%",
+"4%",
+"2.5%"
+],
+"a": 1,
+"e": "Dividend yield = DPS ÷ Market price × 100 = 4 ÷ 80 = 5%, the cash return an investor gets at the current price."
+},
+{
+"n": 25,
+"topic": "Ratio Analysis",
+"t": "Which ratio would be most relevant to a policyholder assessing a general insurer's underwriting profitability?",
+"o": [
+"Combined ratio",
+"Current ratio",
+"Debtors turnover ratio",
+"Price-earnings ratio"
+],
+"a": 0,
+"e": "Combined ratio (claims + expenses as % of premium) directly shows whether the insurer's core underwriting business is profitable; a figure below 100% is desirable."
+},
+{
+"n": 26,
+"topic": "Fund Flow and Cash Flow Statements",
+"t": "Which of the following items is added back to net profit when computing funds from operations?",
+"o": [
+"Profit on sale of fixed assets",
+"Depreciation",
+"Dividend received",
+"Decrease in creditors"
+],
+"a": 1,
+"e": "Depreciation is a non-fund (non-cash) charge; it reduces profit without reducing working capital and is therefore added back."
+},
+{
+"n": 27,
+"topic": "Fund Flow and Cash Flow Statements",
+"t": "An increase in current assets other than cash during the year is shown in the cash flow statement as a/an:",
+"o": [
+"Deduction from operating cash flow",
+"Addition to operating cash flow",
+"Investing inflow",
+"Financing inflow"
+],
+"a": 0,
+"e": "A rise in debtors or stock ties up cash, so it is deducted in reconciling profit to cash from operations under the indirect method."
+},
+{
+"n": 28,
+"topic": "Fund Flow and Cash Flow Statements",
+"t": "Opening cash ₹6 lakh, operating cash flow ₹25 lakh, investing outflow ₹18 lakh, financing inflow ₹4 lakh. The closing cash balance is:",
+"o": [
+"₹11 lakh",
+"₹53 lakh",
+"₹17 lakh",
+"₹13 lakh"
+],
+"a": 2,
+"e": "Closing cash = 6 + 25 − 18 + 4 = ₹17 lakh."
+},
+{
+"n": 29,
+"topic": "Capital Budgeting",
+"t": "A project costs ₹10 lakh and yields annual cash inflows of ₹2.5 lakh for 6 years. Its payback period is:",
+"o": [
+"4 years",
+"2.5 years",
+"6 years",
+"3 years"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). Payback = Initial investment ÷ Annual cash inflow = 10,00,000 ÷ 2,50,000 = 4 years.",
+"r": "key"
+},
+{
+"n": 30,
+"topic": "Fund Flow and Cash Flow Statements",
+"t": "A machine with a book value of ₹3 lakh was sold for ₹3.5 lakh. In the cash flow statement under the indirect method:",
+"o": [
+"₹3.5 lakh is shown as an investing inflow and ₹50,000 profit is deducted from operating profit",
+"₹3 lakh is shown as an investing inflow and ₹50,000 is added to operating profit",
+"₹3.5 lakh is shown as a financing inflow",
+"₹50,000 is shown as an investing inflow only"
+],
+"a": 0,
+"e": "The full sale proceeds are an investing inflow; the profit on sale included in net profit is deducted under operating activities to avoid double counting."
+},
+{
+"n": 31,
+"topic": "Capital Budgeting",
+"t": "Which of the following is a limitation of the payback period method?",
+"o": [
+"It is difficult to compute",
+"It requires knowledge of the cost of capital",
+"It cannot be used for risky projects",
+"It ignores cash flows after the payback period"
+],
+"a": 3,
+"e": "Payback focuses only on liquidity and risk of recovery; it ignores both the time value of money and the profitability after the investment is recovered."
+},
+{
+"n": 32,
+"topic": "Capital Budgeting",
+"t": "An investment of ₹5 lakh is expected to give cash inflows of ₹1 lakh, ₹2 lakh, ₹2.5 lakh and ₹3 lakh in years 1 to 4. The payback period is:",
+"o": [
+"3 years",
+"3.2 years",
+"2.8 years",
+"2.5 years"
+],
+"a": 2,
+"e": "Cumulative inflows: Y1 ₹1 lakh, Y2 ₹3 lakh, Y3 ₹5.5 lakh. Remaining after Y2 = ₹2 lakh of Y3's ₹2.5 lakh = 0.8 year. Payback = 2.8 years."
+},
+{
+"n": 33,
+"topic": "Capital Budgeting",
+"t": "A project requires ₹4,00,000 and yields ₹1,00,000 per year for 6 years. The annuity factor at 12% for 6 years is 4.111 and at 15% is 3.784. The NPV at 12% is:",
+"o": [
+"₹11,100",
+"₹(−)21,600",
+"₹41,110",
+"₹(−)11,100"
+],
+"a": 0,
+"e": "NPV at 12% = 1,00,000 × 4.111 − 4,00,000 = ₹11,100 (positive). At 15% it would be ₹(−)21,600, so the IRR lies between 12% and 15%."
+},
+{
+"n": 34,
+"topic": "Capital Budgeting",
+"t": "Using the above data (NPV ₹11,100 at 12% and ₹(−)21,600 at 15%), the IRR by interpolation is approximately:",
+"o": [
+"14.5%",
+"12.5%",
+"13%",
+"15%"
+],
+"a": 2,
+"e": "IRR ≈ 12% + 3% × 11,100 ÷ (11,100 + 21,600) = 12% + 3% × 0.339 ≈ 13.0%."
+},
+{
+"n": 35,
+"topic": "Capital Budgeting",
+"t": "Under capital rationing, the method that ranks projects by NPV per rupee of investment is the:",
+"o": [
+"Payback period",
+"Profitability index",
+"Accounting rate of return",
+"Sensitivity analysis"
+],
+"a": 1,
+"e": "When funds are limited, ranking divisible projects by profitability index (PV of inflows ÷ outlay) maximises total NPV from the available capital."
+},
+{
+"topic": "Principles",
+"t": "In a life insurance contract, insurable interest must exist:",
+"o": [
+"At the time of the claim only",
+"At inception of the policy",
+"Both at inception and at claim",
+"At renewal each year"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). Life: at inception only. Marine: at the time of loss. Fire and motor: at both inception and loss.",
+"r": "core",
+"n": 36
+},
+{
+"n": 37,
+"topic": "Responsibility Accounting and Performance Evaluation",
+"t": "Which of the following is an advantage of residual income over ROI as a divisional performance measure?",
+"o": [
+"It is expressed as a percentage, making divisions comparable",
+"It ignores the cost of capital",
+"It encourages acceptance of all projects earning more than the cost of capital",
+"It is unaffected by the size of the investment base"
+],
+"a": 2,
+"e": "Residual income charges the division for capital at the required rate, so any project earning above that rate increases RI and is accepted, aligning divisional and corporate goals."
+},
+{
+"n": 38,
+"topic": "Responsibility Accounting and Performance Evaluation",
+"t": "The marketing head of an insurer is held accountable for premium income generated but not for the cost of claims or investment. The marketing function is treated as a:",
+"o": [
+"Cost centre",
+"Investment centre",
+"Profit centre",
+"Revenue centre"
+],
+"a": 3,
+"e": "A revenue centre manager is responsible for generating revenue (sales/premium) with little control over associated product costs or investment."
+},
+{
+"n": 39,
+"topic": "Responsibility Accounting and Performance Evaluation",
+"t": "The balanced scorecard measures performance from four perspectives, namely financial, customer, internal business process and:",
+"o": [
+"Learning and growth",
+"Regulatory compliance",
+"Market share",
+"Shareholder return"
+],
+"a": 0,
+"e": "Kaplan and Norton's balanced scorecard adds the learning and growth (innovation) perspective to financial, customer and internal process measures."
+},
+{
+"n": 40,
+"topic": "Responsibility Accounting and Performance Evaluation",
+"t": "Division A has profit of ₹16 crore on investment ₹100 crore; Division B has profit of ₹30 crore on investment ₹250 crore. Cost of capital is 10%. Which statement is correct?",
+"o": [
+"A has higher ROI; B has higher residual income",
+"B has higher ROI; A has higher residual income",
+"Both have equal residual income",
+"A has higher ROI and higher residual income"
+],
+"a": 3,
+"e": "ROI: A 16%, B 12%. Residual income: A = 16 − 10 = ₹6 crore; B = 30 − 25 = ₹5 crore. Division A is superior on both measures."
+},
+{
+"n": 41,
+"topic": "Working Capital and Sources of Finance",
+"t": "Which of the following would reduce a firm's net working capital?",
+"o": [
+"Collection of debtors in cash",
+"Payment of a long-term loan instalment from cash",
+"Purchase of inventory on credit",
+"Issue of equity shares for cash"
+],
+"a": 1,
+"e": "Repaying long-term debt from cash reduces current assets with no change in current liabilities; the first two are within working capital and the last increases it."
+},
+{
+"n": 42,
+"topic": "Working Capital and Sources of Finance",
+"t": "Factoring of receivables is a source of finance in which:",
+"o": [
+"The firm borrows against fixed assets",
+"A factor purchases the firm's receivables and advances funds against them",
+"The bank issues a letter of credit",
+"The firm issues commercial paper"
+],
+"a": 1,
+"e": "Factoring converts receivables into immediate cash by selling them to a factor, who may also take over collection and credit risk (non-recourse factoring)."
+},
+{
+"n": 43,
+"topic": "Working Capital and Sources of Finance",
+"t": "A firm needs ₹3 crore of inventory and ₹2 crore of receivables on average, and gets ₹1.5 crore of trade credit. Its net working capital requirement is:",
+"o": [
+"₹3.5 crore",
+"₹6.5 crore",
+"₹5 crore",
+"₹1.5 crore"
+],
+"a": 0,
+"e": "Net working capital = Current assets − Current liabilities = (3 + 2) − 1.5 = ₹3.5 crore."
+},
+{
+"topic": "Principles",
+"t": "Non-disclosure of a material fact by the proposer makes the contract:",
+"o": [
+"Void ab initio",
+"Voidable at the option of the insurer",
+"Illegal",
+"Automatically continued on revised terms"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). Breach of utmost good faith renders the contract voidable, not void; the insurer may elect to avoid it (subject to Section 45 for life).",
+"r": "core",
+"n": 44
+},
+{
+"n": 45,
+"topic": "Insurance Company Accounts and Financial Reporting",
+"t": "Which schedule in an Indian insurer's financial statements shows 'Operating expenses related to insurance business'?",
+"o": [
+"Schedule 3",
+"Schedule 1",
+"Schedule 2",
+"Schedule 4"
+],
+"a": 0,
+"e": "Schedule 1 is premium, Schedule 2 commission, Schedule 3 operating expenses related to insurance business and Schedule 4 benefits paid / claims incurred."
+},
+{
+"n": 46,
+"topic": "Insurance Company Accounts and Financial Reporting",
+"t": "Net earned premium ₹400 crore; claims paid ₹260 crore; outstanding claims at beginning ₹90 crore and at end ₹110 crore. Net incurred claims and the incurred claims ratio are:",
+"o": [
+"₹240 crore; 60%",
+"₹280 crore; 70%",
+"₹260 crore; 65%",
+"₹300 crore; 75%"
+],
+"a": 1,
+"e": "Incurred claims = Paid + Closing outstanding − Opening outstanding = 260 + 110 − 90 = ₹280 crore; ratio = 280 ÷ 400 = 70%."
+},
+{
+"n": 47,
+"topic": "Insurance Company Accounts and Financial Reporting",
+"t": "In an insurer's balance sheet (Form B-BS / A-BS), 'Fair Value Change Account' represents:",
+"o": [
+"Unrealised gains or losses on investments carried at fair value",
+"Realised profit on sale of investments",
+"Provision for doubtful debts",
+"Depreciation on fixed assets"
+],
+"a": 0,
+"e": "Listed equity and mutual fund investments are carried at fair value; the unrealised difference from cost is parked in the Fair Value Change Account and not routed through the revenue account."
+},
+{
+"n": 48,
+"topic": "Insurance Company Accounts and Financial Reporting",
+"t": "The expense of management ratio of a general insurer is computed on:",
+"o": [
+"Net earned premium",
+"Total assets",
+"Shareholders' funds",
+"Gross direct premium written in India"
+],
+"a": 3,
+"e": "IRDAI's expenses of management regulations set allowable limits as a percentage of gross written premium in India (currently an overall 30% cap for general insurers)."
+},
+{
+"n": 49,
+"topic": "Activity Based Costing and Pricing Decisions",
+"t": "A 'cost driver' in activity-based costing is:",
+"o": [
+"The manager responsible for a cost centre",
+"A factor that causes a change in the cost of an activity",
+"The total overhead of the organisation",
+"The selling price of the product"
+],
+"a": 1,
+"e": "Cost drivers such as number of claims processed, number of endorsements or inspection visits are the causal measures used to assign activity costs to products."
+},
+{
+"n": 50,
+"topic": "Activity Based Costing and Pricing Decisions",
+"t": "Two activity pools: policy issuance ₹40 lakh (driver: 80,000 policies) and claims handling ₹90 lakh (driver: 30,000 claims). Product P has 20,000 policies and 12,000 claims. Overhead charged to P under ABC is:",
+"o": [
+"₹46 lakh",
+"₹36 lakh",
+"₹26 lakh",
+"₹56 lakh"
+],
+"a": 0,
+"e": "Rates: ₹50 per policy and ₹300 per claim. P = 20,000 × 50 + 12,000 × 300 = 10 + 36 = ₹46 lakh."
+}
+]

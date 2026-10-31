@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Life Insurance Products",
+"t": "₹50,000 is deposited at 8% per annum compound interest. The amount after 3 years is (1.08³ = 1.259712)",
+"o": [
+"₹62,000",
+"₹62,986",
+"₹63,500",
+"₹64,000"
+],
+"a": 1,
+"e": "Amount = 50,000 × 1.259712 = ₹62,986. Simple interest would give only ₹62,000, the difference being interest on interest."
+},
+{
+"n": 2,
+"topic": "Life Insurance Products",
+"t": "If the effective rate of interest is 5% per annum, the corresponding rate of discount d is",
+"o": [
+"4.55%",
+"4.76%",
+"5.00%",
+"5.26%"
+],
+"a": 1,
+"e": "d = i/(1 + i) = 0.05/1.05 = 0.047619, i.e. 4.76%. The discount rate is interest paid in advance, so it is always slightly below i."
+},
+{
+"n": 3,
+"topic": "Life Insurance Products",
+"t": "At 10% per annum, find the present value of two payments of ₹1,00,000 each, due at the end of years 3 and 4. (v³ = 0.75131, v⁴ = 0.68301)",
+"o": [
+"₹1,36,603",
+"₹1,43,432",
+"₹1,50,262",
+"₹2,00,000"
+],
+"a": 1,
+"e": "PV = 1,00,000 × (0.75131 + 0.68301) = ₹1,43,432. This is a deferred annuity-certain of two payments."
+},
+{
+"n": 4,
+"topic": "Life Insurance Products",
+"t": "What lump sum invested at 6% per annum will provide a perpetuity of ₹6,000 payable at the end of each year?",
+"o": [
+"₹36,000",
+"₹60,000",
+"₹1,00,000",
+"₹1,06,000"
+],
+"a": 2,
+"e": "PV of a perpetuity in arrears = payment / i = 6,000 / 0.06 = ₹1,00,000; the interest alone meets each payment without touching capital."
+},
+{
+"n": 5,
+"topic": "Life Insurance Products",
+"t": "Given l₂₅ = 98,000, l₂₆ = 97,900 and l₂₇ = 97,790, the probability that a life aged 25 dies in the second year (between ages 26 and 27) is",
+"o": [
+"0.00102",
+"0.00214",
+"0.00112",
+"0.00122"
+],
+"a": 2,
+"e": "₁|q₂₅ = (l₂₆ − l₂₇)/l₂₅ = 110/98,000 = 0.00112. Dividing by l₂₆ instead would give q₂₆, the rate for a life who has already reached 26."
+},
+{
+"n": 6,
+"topic": "Life Insurance Products",
+"t": "If q₅₀ = 0.006 and q₅₁ = 0.007, the probability that a life aged 50 survives two years is",
+"o": [
+"0.987000",
+"0.987042",
+"0.993000",
+"0.994000"
+],
+"a": 1,
+"e": "₂p₅₀ = p₅₀ × p₅₁ = 0.994 × 0.993 = 0.987042. Simply subtracting the two q's (0.987) ignores the compounding of survival."
+},
+{
+"n": 7,
+"topic": "Life Insurance Products",
+"t": "Under the uniform distribution of deaths assumption, with l_x = 10,000 and l_{x+1} = 9,900, the central rate of mortality m_x is approximately",
+"o": [
+"0.00995",
+"0.01000",
+"0.01005",
+"0.01010"
+],
+"a": 2,
+"e": "m_x = d_x / L_x where L_x ≈ (l_x + l_{x+1})/2 = 9,950; m_x = 100/9,950 = 0.01005, slightly above q_x = 0.0100 because the exposed-to-risk is the mid-year population."
+},
+{
+"n": 8,
+"topic": "Life Insurance Products",
+"t": "With N₄₀ = 40,000 and D₄₀ = 2,000, the value of a whole life immediate annuity of ₹1 per annum (first payment at age 41) on a life aged 40 is",
+"o": [
+"18",
+"19",
+"20",
+"21"
+],
+"a": 1,
+"e": "a₄₀ = N₄₁ / D₄₀ = (N₄₀ − D₄₀)/D₄₀ = 38,000/2,000 = 19. The annuity-due ä₄₀ = N₄₀/D₄₀ = 20 is one more, representing the immediate payment."
+},
+{
+"n": 9,
+"topic": "Life Insurance Products",
+"t": "₹10,000 is invested at 6% per annum compound interest. What is the accumulated amount at the end of 2 years?",
+"o": [
+"₹11,200",
+"₹11,236",
+"₹11,600",
+"₹11,910"
+],
+"a": 1,
+"e": "★ Key fact (repeated across the mocks of this paper). Accumulated value = 10,000 × (1.06)² = 10,000 × 1.1236 = ₹11,236. ₹11,200 is the simple-interest figure, which ignores interest on interest.",
+"r": "key"
+},
+{
+"n": 10,
+"topic": "Life Insurance Products",
+"t": "For a life aged 30, M₃₀ = 900, M₅₀ = 600 and D₃₀ = 4,500. The net single premium for a 20-year term assurance of ₹15,00,000 is",
+"o": [
+"₹66,667",
+"₹1,00,000",
+"₹2,00,000",
+"₹3,00,000"
+],
+"a": 1,
+"e": "A¹₃₀:₂₀ = (M₃₀ − M₅₀)/D₃₀ = 300/4,500 = 0.06667; NSP = 15,00,000 × 0.06667 = ₹1,00,000."
+},
+{
+"n": 11,
+"topic": "Life Insurance Products",
+"t": "An immediate annuity of ₹10,000 per annum payable yearly in arrears for life is purchased by a person aged 60. If a₆₀ = 11.5, the net purchase price is",
+"o": [
+"₹1,00,000",
+"₹1,15,000",
+"₹1,25,000",
+"₹1,38,000"
+],
+"a": 1,
+"e": "Purchase price = annual amount × a₆₀ = 10,000 × 11.5 = ₹1,15,000. Expense loading would be added for the office price."
+},
+{
+"n": 12,
+"topic": "Office Premiums",
+"t": "A net annual premium is ₹5,000. Initial expenses of ₹3,000 are to be spread over the premium-paying term (ä = 12) and renewal expenses are 4% of the office premium. The office premium is approximately",
+"o": [
+"₹5,250",
+"₹5,730",
+"₹8,333",
+"₹5,469"
+],
+"a": 3,
+"e": "P' = (5,000 + 3,000/12)/(1 − 0.04) = 5,250/0.96 = ₹5,469. The initial expense is converted to a level annual amount by dividing by ä and the percentage loading by dividing by (1 − k)."
+},
+{
+"n": 13,
+"topic": "Office Premiums",
+"t": "An office annual premium of ₹12,000 contains a loading of 25% of the net premium. The net premium is",
+"o": [
+"₹9,000",
+"₹10,000",
+"₹9,600",
+"₹15,000"
+],
+"a": 2,
+"e": "Office premium = net × 1.25, so net = 12,000/1.25 = ₹9,600. Dividing by 0.75 (₹16,000) would wrongly treat the loading as 25% of the office premium."
+},
+{
+"n": 14,
+"topic": "Office Premiums",
+"t": "Half-yearly premiums are more than one-half of the annual premium for the same policy chiefly because of",
+"o": [
+"loss of interest and additional collection expenses",
+"heavier mortality among half-yearly payers",
+"the higher sum assured",
+"IRDAI stipulation of a 10% surcharge"
+],
+"a": 0,
+"e": "Collecting in instalments defers part of the premium (loss of interest) and multiplies collection and accounting costs, so a frequency loading is applied to instalment premiums."
+},
+{
+"n": 15,
+"topic": "Office Premiums",
+"t": "If A₄₀ = 0.25 and ä₄₀ = 15, the net annual premium for a whole life assurance of ₹3,00,000 on (40) payable throughout life is",
+"o": [
+"₹5,000",
+"₹4,500",
+"₹6,000",
+"₹7,500"
+],
+"a": 0,
+"e": "P = A₄₀/ä₄₀ = 0.25/15 = 0.016667 per ₹1; for ₹3,00,000 the premium is ₹5,000."
+},
+{
+"n": 16,
+"topic": "Policy Values",
+"t": "On a retrospective basis, the accumulated value of net premiums paid per surviving policy is ₹30,000 and the accumulated cost of assurance per surviving policy is ₹6,000. The policy value is",
+"o": [
+"₹6,000",
+"₹30,000",
+"₹36,000",
+"₹24,000"
+],
+"a": 3,
+"e": "Retrospective reserve = accumulated premiums − accumulated cost of claims (both per survivor) = 30,000 − 6,000 = ₹24,000."
+},
+{
+"n": 17,
+"topic": "Further Life Contingencies",
+"t": "If p₄₀ = 0.998 and p₃₅ = 0.999 for two independent lives, the probability that the joint life status (35, 40) survives one year is",
+"o": [
+"0.997",
+"0.997002",
+"0.998",
+"0.999"
+],
+"a": 1,
+"e": "★ Key fact (repeated across the mocks of this paper). p_xy = p_x × p_y = 0.999 × 0.998 = 0.997002. The joint status fails on the first death, so both must survive.",
+"r": "key"
+},
+{
+"n": 18,
+"topic": "Policy Values",
+"t": "A 15-year endowment of ₹5,00,000 on (45) has net premium 0.055 per ₹1. After 5 years, A₅₀:₁₀ = 0.62 and ä₅₀:₁₀ = 8.0. The prospective net premium reserve is",
+"o": [
+"₹90,000",
+"₹70,000",
+"₹2,20,000",
+"₹3,10,000"
+],
+"a": 0,
+"e": "₅V = (0.62 − 0.055 × 8.0) × 5,00,000 = (0.62 − 0.44) × 5,00,000 = 0.18 × 5,00,000 = ₹90,000."
+},
+{
+"n": 19,
+"topic": "Policy Values",
+"t": "For an endowment assurance the net premium reserve can be written as ₜV = 1 − ä_{x+t:n−t}/ä_{x:n}. If ä₄₀:₂₀ = 13 and ä₅₀:₁₀ = 8, the reserve per ₹1 after 10 years is",
+"o": [
+"0.3846",
+"0.6154",
+"0.0769",
+"0.3000"
+],
+"a": 0,
+"e": "₁₀V = 1 − 8/13 = 1 − 0.6154 = 0.3846. This annuity-ratio formula follows from A = 1 − dä applied at entry and at duration t."
+},
+{
+"n": 20,
+"topic": "Policy Values",
+"t": "A policy has a sum assured of ₹10,00,000 and a reserve of ₹2,40,000. The death strain at risk (sum at risk) is",
+"o": [
+"₹2,40,000",
+"₹7,60,000",
+"₹10,00,000",
+"₹12,40,000"
+],
+"a": 1,
+"e": "Sum at risk = sum assured − reserve = 10,00,000 − 2,40,000 = ₹7,60,000; on death the insurer must find this amount over and above the reserve already held."
+},
+{
+"n": 21,
+"topic": "Policy Values",
+"t": "The net premium reserve of a level-premium temporary (term) assurance over its term",
+"o": [
+"rises steadily to the sum assured",
+"is zero throughout",
+"rises and then falls back to zero at expiry",
+"is negative throughout"
+],
+"a": 2,
+"e": "Level premiums exceed the rising cost of cover early (building a small reserve) and fall short later (reserve runs down), so the reserve rises then falls to zero at expiry when no benefit remains."
+},
+{
+"n": 22,
+"topic": "Policy Values",
+"t": "Immediately after issue, the net premium reserve of a single-premium whole life assurance equals",
+"o": [
+"zero",
+"the sum assured",
+"half the single premium",
+"the net single premium"
+],
+"a": 3,
+"e": "No future premiums are receivable, so the prospective reserve is simply the PV of the benefit, which at issue is the net single premium just received."
+},
+{
+"n": 23,
+"topic": "Further Life Contingencies",
+"t": "For lives (x) and (y), a_x = 14, a_y = 16 and the joint-life annuity a_xy = 10. The last-survivor annuity a_{x̄y} is",
+"o": [
+"4",
+"6",
+"20",
+"30"
+],
+"a": 2,
+"e": "a_{x̄y} = a_x + a_y − a_xy = 14 + 16 − 10 = 20. The last-survivor annuity must exceed each single-life annuity."
+},
+{
+"n": 24,
+"topic": "Further Life Contingencies",
+"t": "Using the same values (a_y = 16, a_xy = 10), the reversionary annuity payable to (y) after the death of (x) has value",
+"o": [
+"4",
+"6",
+"10",
+"26"
+],
+"a": 1,
+"e": "a_{x|y} = a_y − a_xy = 16 − 10 = 6: payments to y while alive, less payments during the period both are alive."
+},
+{
+"n": 25,
+"topic": "Further Life Contingencies",
+"t": "If q_x = 0.01 and q_y = 0.02 for independent lives, the probability that both die within one year is",
+"o": [
+"0.0002",
+"0.0298",
+"0.0300",
+"0.9702"
+],
+"a": 0,
+"e": "P(both die) = q_x × q_y = 0.01 × 0.02 = 0.0002, which is also the probability that the last-survivor status fails within the year."
+},
+{
+"n": 26,
+"topic": "Reinsurance",
+"t": "The primary purpose of a life insurer fixing a retention limit is to",
+"o": [
+"maximise premium income",
+"avoid paying commission",
+"comply with the 90:10 surplus rule",
+"reduce fluctuations in claims experience from large individual risks"
+],
+"a": 3,
+"e": "By ceding amounts above its retention the insurer limits the effect of any one large death claim, stabilising its mortality experience relative to its free assets."
+},
+{
+"n": 27,
+"topic": "Reinsurance",
+"t": "An insurer retains ₹30 lakh per life and has a surplus treaty of 5 lines. A policy for ₹80 lakh is written. The amount ceded to the treaty is",
+"o": [
+"₹30 lakh",
+"₹50 lakh",
+"₹80 lakh",
+"₹150 lakh"
+],
+"a": 1,
+"e": "Treaty capacity is 5 × 30 = ₹150 lakh, which comfortably covers the surplus; ceded = 80 − 30 = ₹50 lakh with ₹30 lakh retained."
+},
+{
+"n": 28,
+"topic": "Surplus & Its Distribution",
+"t": "Under a compound reversionary bonus of 4% per annum, a sum assured of ₹1,00,000 grows after 2 years to",
+"o": [
+"₹1,04,000",
+"₹1,08,000",
+"₹1,08,160",
+"₹1,16,000"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). Compound bonus is declared on sum assured plus previously attached bonuses: 1,00,000 × 1.04² = ₹1,08,160. ₹1,08,000 is the simple-bonus figure.",
+"r": "key"
+},
+{
+"n": 29,
+"topic": "Data for Valuation",
+"t": "Which item is NOT normally required in the policy record used for valuation?",
+"o": [
+"Plan and term",
+"Sum assured and bonuses attached",
+"Mode and amount of premium",
+"Name of the servicing agent"
+],
+"a": 3,
+"e": "Valuation needs plan, term, sum assured, bonuses, premium, dates of birth and commencement and status; the agent's name is irrelevant to the liability."
+},
+{
+"n": 30,
+"topic": "Methods of Valuation",
+"t": "In a gross premium valuation of a policy, PV of future benefits is ₹8,00,000, PV of future expenses ₹1,00,000 and PV of future office premiums ₹6,00,000. The reserve is",
+"o": [
+"₹1,00,000",
+"₹2,00,000",
+"₹3,00,000",
+"₹15,00,000"
+],
+"a": 2,
+"e": "Gross premium reserve = PV benefits + PV expenses − PV office premiums = 8,00,000 + 1,00,000 − 6,00,000 = ₹3,00,000."
+},
+{
+"n": 31,
+"topic": "Methods of Valuation",
+"t": "A net premium valuation using a lower rate of interest than the premium basis is described as",
+"o": [
+"weaker and releases surplus early",
+"neutral",
+"identical to a gross premium valuation",
+"stronger, deferring the emergence of surplus"
+],
+"a": 3,
+"e": "A lower valuation interest rate produces larger reserves, which is a stronger (more conservative) basis; the surplus held back emerges later as the policies run off."
+},
+{
+"n": 32,
+"topic": "Methods of Valuation",
+"t": "For a group of policies the reserve just after the premium at the start of the year is ₹10,000 and at the end of the year ₹12,000. The mean reserve used in a mid-year grouped valuation is",
+"o": [
+"₹10,000",
+"₹11,000",
+"₹12,000",
+"₹22,000"
+],
+"a": 1,
+"e": "Mean reserve = (initial reserve + terminal reserve)/2 = (10,000 + 12,000)/2 = ₹11,000, appropriate when policy anniversaries are spread evenly over the year."
+},
+{
+"n": 33,
+"topic": "Special Reserve & Adjustments",
+"t": "A one-year group term policy with annual premium ₹12,00,000 commenced on 1 April. At a valuation on 31 December of the same year, the unexpired risk reserve (ignoring expenses) is",
+"o": [
+"₹1,00,000",
+"₹3,00,000",
+"₹9,00,000",
+"₹12,00,000"
+],
+"a": 1,
+"e": "Three months of cover remain of the twelve purchased, so the unexpired premium reserve = 12,00,000 × 3/12 = ₹3,00,000."
+},
+{
+"n": 34,
+"topic": "Surplus & Its Distribution",
+"t": "A life fund of ₹50 crore is valued at 6% interest but actually earns 8% during the year. The interest surplus for the year is approximately",
+"o": [
+"₹50 lakh",
+"₹3 crore",
+"₹4 crore",
+"₹1 crore"
+],
+"a": 3,
+"e": "Interest surplus ≈ (actual − valuation rate) × fund = (0.08 − 0.06) × 50 crore = ₹1 crore."
+},
+{
+"n": 35,
+"topic": "Surplus & Its Distribution",
+"t": "A participating policy of ₹2,00,000 receives a compound reversionary bonus of 3% per annum for 3 years. The sum assured with bonuses becomes",
+"o": [
+"₹2,06,000",
+"₹2,18,000",
+"₹2,18,545",
+"₹2,27,000"
+],
+"a": 2,
+"e": "2,00,000 × 1.03³ = 2,00,000 × 1.092727 = ₹2,18,545; a simple bonus of 3% would give ₹2,18,000."
+},
+{
+"topic": "Taxation",
+"t": "Deduction for health insurance premium under Section 80D for an individual below 60 years (self and family) is up to:",
+"o": [
+"₹15,000",
+"₹25,000",
+"₹50,000",
+"₹75,000"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). ₹25,000; ₹50,000 where the insured is a senior citizen; an additional ₹25,000/₹50,000 for parents.",
+"r": "core",
+"n": 36
+},
+{
+"n": 37,
+"topic": "Surplus & Its Distribution",
+"t": "Under a 90:10 distribution, a participating fund declares a distributable surplus of ₹45 crore. The shareholders' maximum share is",
+"o": [
+"₹4 crore",
+"₹4.5 crore",
+"₹9 crore",
+"₹45 crore"
+],
+"a": 1,
+"e": "Shareholders may take not more than 10% of the surplus distributed to policyholders' bonuses in the participating fund: 10% × 45 crore = ₹4.5 crore."
+},
+{
+"n": 38,
+"topic": "Asset Share",
+"t": "At the surrender date a policy's asset share is ₹60,000, its reserve is ₹55,000 and the surrender value paid is ₹50,000. The surrender profit to the fund is",
+"o": [
+"₹5,000",
+"₹15,000",
+"nil",
+"₹10,000"
+],
+"a": 3,
+"e": "Surrender profit = asset share − surrender value = 60,000 − 50,000 = ₹10,000, the amount the departing policyholder leaves behind for the fund."
+},
+{
+"n": 39,
+"topic": "Asset Share",
+"t": "Asset shares are used by a life office mainly to",
+"o": [
+"set surrender values and check the fairness of bonus rates",
+"calculate the office premium",
+"determine the statutory solvency margin",
+"allocate commission to agents"
+],
+"a": 0,
+"e": "Asset shares show what each policy has actually contributed, so they guide equitable surrender values and bonus (payout) levels; statutory reserves and premiums are set by other methods."
+},
+{
+"n": 40,
+"topic": "Surrenders & Alterations",
+"t": "A policy made paid-up for ₹80,000 is surrendered immediately after. If the surrender value is paid as the present value of the paid-up benefit with A₅₀:₁₀ = 0.65, the surrender value is",
+"o": [
+"₹32,000",
+"₹52,000",
+"₹65,000",
+"₹80,000"
+],
+"a": 1,
+"e": "Surrender value = paid-up sum assured × A factor = 80,000 × 0.65 = ₹52,000."
+},
+{
+"n": 41,
+"topic": "Surrenders & Alterations",
+"t": "A policyholder asks to extend the term of a 15-year endowment to 20 years, keeping the sum assured unchanged. Other things equal, the revised annual premium will",
+"o": [
+"decrease",
+"increase",
+"stay the same",
+"be payable as a single premium"
+],
+"a": 0,
+"e": "A longer term spreads the saving element over more premiums and defers the maturity benefit, so the premium per annum falls; the reserve at the date of alteration is carried into the new contract."
+},
+{
+"n": 42,
+"topic": "Risks",
+"t": "Which of the following is the main expense risk for a life insurer with a large block of small, long-term policies?",
+"o": [
+"Expense inflation exceeding the inflation assumed in the loading",
+"Mortality being lighter than expected",
+"Interest rates rising",
+"Reinsurer insolvency"
+],
+"a": 0,
+"e": "Fixed per-policy expenses on small long-term policies are vulnerable to inflation; if expenses rise faster than the loadings assumed, expense losses emerge."
+},
+{
+"n": 43,
+"topic": "Life Insurance Products",
+"t": "The symbol ä (a-double-dot) in actuarial notation denotes an annuity in which payments are made",
+"o": [
+"at the beginning of each period",
+"at the end of each period",
+"continuously throughout the year",
+"only if the annuitant dies"
+],
+"a": 0,
+"e": "ä_n denotes an annuity-due, payable in advance at the start of each period; a_n denotes an immediate annuity payable in arrears. The relation ä_n = (1 + i) a_n holds."
+},
+{
+"n": 44,
+"topic": "Life Insurance Products",
+"t": "The curtate expectation of life e_x is defined as",
+"o": [
+"the number of complete years expected to be lived after age x",
+"the exact number of years expected to be lived after age x, including fractions",
+"the age at which l_x falls to half",
+"the sum of q_x over all future ages"
+],
+"a": 0,
+"e": "e_x = Σ l_{x+t}/l_x (t = 1, 2, …) gives the expected number of complete future years; the complete expectation e°x ≈ e_x + ½ includes the fraction of the year of death."
+},
+{
+"n": 45,
+"topic": "Office Premiums",
+"t": "Why are office premiums for a participating (with-profits) policy higher than for an otherwise identical non-participating policy?",
+"o": [
+"They include a loading to fund future bonuses",
+"Mortality is heavier for with-profits lives",
+"Expenses are charged twice",
+"Regulators require a 10% surcharge"
+],
+"a": 0,
+"e": "With-profits office premiums contain a bonus loading so that the expected surplus can support the bonuses to be declared; mortality and expense assumptions are otherwise similar."
+},
+{
+"n": 46,
+"topic": "Office Premiums",
+"t": "For a term assurance, the premium rate per ₹1,000 sum assured is reduced for large sum assured bands mainly because",
+"o": [
+"mortality improves with sum assured",
+"the reserve is lower",
+"fixed per-policy expenses form a smaller proportion of the premium",
+"reinsurance is not required"
+],
+"a": 2,
+"e": "Per-policy fixed expenses (issue, administration) do not grow with sum assured, so the expense loading per ₹1,000 falls as the sum assured rises; insurers reflect this through sum-assured rebates."
+},
+{
+"topic": "Motor – statutory",
+"t": "Third-party insurance is compulsory for a motor vehicle used in a public place under which section of the Motor Vehicles Act 1988?",
+"o": [
+"Section 140",
+"Section 146",
+"Section 163A",
+"Section 166"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). Section 146 makes TP cover compulsory; Section 164 fixes no-fault compensation (₹5 lakh death / ₹2.5 lakh grievous hurt).",
+"r": "core",
+"n": 47
+},
+{
+"n": 48,
+"topic": "Policy Values",
+"t": "The reserve for a regular-premium endowment assurance approaches which value at maturity?",
+"o": [
+"Zero",
+"Half the sum assured",
+"The full sum assured",
+"The total premiums paid"
+],
+"a": 2,
+"e": "As the maturity date approaches the probability of payment tends to 1 and the discount period to zero, so the reserve rises to the sum assured (plus attached bonuses) at maturity."
+},
+{
+"n": 49,
+"topic": "Further Life Contingencies",
+"t": "In a select mortality table the symbol q_[x]+1 denotes the rate of mortality of a life",
+"o": [
+"now aged x+1 who was selected one year ago",
+"now aged x who was selected one year ago",
+"now aged x+1 selected at age x+1",
+"of ultimate age x+1"
+],
+"a": 0,
+"e": "Square brackets show the age at selection; q_[x]+1 is for a life selected at x, now aged x+1, one year after selection. After the select period it merges into the ultimate rate q_{x+1}."
+},
+{
+"n": 50,
+"topic": "Methods of Valuation",
+"t": "Under the net premium method of valuation, the premium valued is",
+"o": [
+"the office premium actually charged",
+"the office premium less actual expenses",
+"zero",
+"the net premium on the valuation basis"
+],
+"a": 3,
+"e": "The net premium method values a net premium computed on the valuation mortality and interest basis, independent of the office premium; the margin between office and net premiums emerges as future surplus."
+}
+]

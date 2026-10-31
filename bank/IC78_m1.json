@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Introduction to Miscellaneous Insurance",
+"t": "Which of the following is NOT traditionally classified as a 'miscellaneous' class of general insurance in India?",
+"o": [
+"Marine cargo insurance",
+"Burglary insurance",
+"Fidelity guarantee insurance",
+"Money insurance"
+],
+"a": 0,
+"e": "Miscellaneous insurance comprises all non-life classes other than fire and marine. Marine cargo is a separate marine class, while burglary, fidelity and money are classic miscellaneous covers."
+},
+{
+"n": 2,
+"topic": "Introduction to Miscellaneous Insurance",
+"t": "Under Section 64VB of the Insurance Act, 1938, a miscellaneous insurer may assume a risk only when:",
+"o": [
+"The proposal form has been signed by the proposer",
+"The premium has been received in advance or guaranteed in the prescribed manner",
+"The policy document has been dispatched to the insured",
+"A surveyor has inspected the premises"
+],
+"a": 1,
+"e": "Section 64VB prohibits assumption of risk unless the premium is received in advance (or guaranteed/deposited as prescribed). Signing a proposal or dispatching a policy does not by itself bind the insurer."
+},
+{
+"n": 3,
+"topic": "Introduction to Miscellaneous Insurance",
+"t": "A policy carries a franchise of ₹5,000. The insured suffers an admissible loss of ₹6,000. How much is payable?",
+"o": [
+"₹1,000",
+"Nil",
+"₹6,000",
+"₹5,000"
+],
+"a": 2,
+"e": "Under a franchise, once the loss exceeds the franchise amount the whole loss is paid; only losses up to ₹5,000 are not paid. Under an excess (deductible) of ₹5,000 only ₹1,000 would have been paid."
+},
+{
+"n": 4,
+"topic": "Burglary Insurance",
+"t": "Under a burglary declaration policy on stocks, the final premium is adjusted at expiry on the basis of:",
+"o": [
+"The highest monthly declared value",
+"The average of the monthly declared values",
+"The lowest monthly declared value",
+"The last monthly declaration"
+],
+"a": 1,
+"e": "A provisional premium is charged at inception and the final premium is computed on the average of the monthly declarations, with additional or refund premium adjusted accordingly."
+},
+{
+"n": 5,
+"topic": "Burglary Insurance",
+"t": "Stock worth ₹3 lakh is removed at night by the insured's own night watchman, who had the keys to the godown. Under a standard burglary policy the claim is:",
+"o": [
+"Payable in full",
+"Payable subject to a 10% excess",
+"Not payable, since loss involving the insured's employees or persons lawfully on the premises is excluded",
+"Payable only if the watchman is convicted"
+],
+"a": 2,
+"e": "The policy excludes loss in which an employee or any person lawfully in the premises is concerned, and there was no forcible and violent entry. Conviction of the watchman does not alter the exclusion."
+},
+{
+"n": 6,
+"topic": "Burglary Insurance",
+"t": "A burglary loss of ₹5 lakh is paid under a policy with a sum insured of ₹20 lakh. For the remainder of the policy period the sum insured:",
+"o": [
+"Is automatically restored at no cost",
+"Cannot be restored under any circumstances",
+"Is reduced permanently to ₹15 lakh for the rest of the year",
+"Stands reduced by ₹5 lakh unless reinstated on payment of pro-rata additional premium"
+],
+"a": 3,
+"e": "After a loss the sum insured is reduced by the amount paid; it can be reinstated for the unexpired period on payment of pro-rata additional premium."
+},
+{
+"n": 7,
+"topic": "Money Insurance",
+"t": "Which of the following is NOT 'money' as defined in a standard money insurance policy?",
+"o": [
+"Gold ornaments",
+"Current postage stamps",
+"Bank drafts",
+"Postal orders"
+],
+"a": 0,
+"e": "'Money' means cash, bank and currency notes, cheques, bank drafts, postal orders, treasury notes and current postage stamps. Gold ornaments are property, insurable under burglary or jewellers block covers."
+},
+{
+"n": 8,
+"topic": "Money Insurance",
+"t": "The premium for the money-in-transit section of a money insurance policy is primarily computed on:",
+"o": [
+"The sum insured on the safe",
+"The estimated annual amount of money to be carried in transit",
+"The number of employees carrying cash",
+"The distance between the bank and the premises"
+],
+"a": 1,
+"e": "Section I is rated per mille on the estimated annual carryings (subject to a limit per carrying), with the premium adjusted on actual carryings declared at expiry."
+},
+{
+"n": 9,
+"topic": "Money Insurance",
+"t": "Loss of money entrusted to an employee, arising from that employee's dishonesty, is covered under a money insurance policy only if:",
+"o": [
+"The employee is prosecuted",
+"The amount exceeds ₹10,000",
+"The loss is discovered within 48 hours of its occurrence",
+"The employee was separately bonded"
+],
+"a": 2,
+"e": "The policy excludes loss due to fraud or dishonesty of employees unless discovered within 48 hours. Longer-term employee dishonesty is the province of a fidelity guarantee policy."
+},
+{
+"n": 10,
+"topic": "Money Insurance",
+"t": "A firm estimates annual cash carryings of ₹1.2 crore and the money-in-transit rate is ₹0.50 per mille. The provisional premium is:",
+"o": [
+"₹600",
+"₹60,000",
+"₹1,200",
+"₹6,000"
+],
+"a": 3,
+"e": "Premium = (₹1,20,00,000 ÷ 1,000) × ₹0.50 = 12,000 × 0.50 = ₹6,000, chargeable provisionally and adjusted on actual carryings."
+},
+{
+"n": 11,
+"topic": "Reinsurance",
+"t": "A reinsurance arrangement under which the reinsurer pays only that part of each loss exceeding ₹50 lakh, up to a further ₹5 crore, is a:",
+"o": [
+"Quota-share treaty",
+"Excess of loss treaty",
+"Surplus treaty",
+"Facultative proportional cession"
+],
+"a": 1,
+"e": "★ Key fact (repeated across the mocks of this paper). Excess of loss is non-proportional: the cedant retains losses up to the attachment point and the reinsurer pays above it up to the cover limit.",
+"r": "key"
+},
+{
+"n": 12,
+"topic": "Fidelity Guarantee Insurance",
+"t": "A fidelity guarantee policy covers losses discovered within what period after expiry of the policy or after the employee leaves service, whichever is earlier?",
+"o": [
+"12 months",
+"6 months",
+"3 months",
+"24 months"
+],
+"a": 0,
+"e": "Losses must be committed during the policy period and discovered within 12 months of expiry, or within 12 months of the employee's death, dismissal or retirement, whichever is earlier."
+},
+{
+"n": 13,
+"topic": "Fidelity Guarantee Insurance",
+"t": "A fidelity guarantee policy that covers all employees of the insured without naming them, under a single sum insured, is called a:",
+"o": [
+"Collective policy",
+"Blanket policy",
+"Floating policy",
+"Positions policy"
+],
+"a": 1,
+"e": "A blanket policy covers the entire staff unnamed. A collective policy lists named employees with individual amounts, a floating policy names employees under one floating sum, and a positions policy covers by designation."
+},
+{
+"n": 14,
+"topic": "Fidelity Guarantee Insurance",
+"t": "An employee defalcates ₹2,00,000. Salary and commission of ₹30,000 are due to him from the employer, and the FG policy carries an excess of ₹20,000. The insurer pays:",
+"o": [
+"₹2,00,000",
+"₹1,70,000",
+"₹1,50,000",
+"₹1,80,000"
+],
+"a": 2,
+"e": "Amounts due to the employee are set off first (₹2,00,000 − ₹30,000 = ₹1,70,000), then the excess is deducted (₹1,70,000 − ₹20,000 = ₹1,50,000)."
+},
+{
+"n": 15,
+"topic": "Bankers Indemnity Insurance",
+"t": "Under the Bankers Indemnity policy, loss of money and securities on the bank's premises by fire, riot, burglary, theft or hold-up falls under:",
+"o": [
+"Section A – On Premises",
+"Section B – In Transit",
+"Section C – Forgery or Alteration",
+"Section D – Dishonesty"
+],
+"a": 0,
+"e": "Section A covers money and securities while on the insured bank's premises against fire, riot and strike, burglary, housebreaking, theft, robbery and hold-up."
+},
+{
+"n": 16,
+"topic": "Bankers Indemnity Insurance",
+"t": "A borrower fraudulently removes stock that was pledged and hypothecated to the bank, causing a shortfall in security. The relevant section of the Bankers Indemnity policy is:",
+"o": [
+"Section C – Forgery",
+"Section E – Hypothecated Goods",
+"Section G – Appraisers",
+"Section B – In Transit"
+],
+"a": 1,
+"e": "Section E covers loss suffered by the bank due to fraudulent shortage or substitution of goods pledged or hypothecated to it, which may include fraud by the borrower."
+},
+{
+"n": 17,
+"topic": "Bankers Indemnity Insurance",
+"t": "A bank pays out cash on a cheque bearing a forged signature of the drawer. The loss is recoverable under:",
+"o": [
+"Section A – On Premises",
+"Section D – Dishonesty of Employees",
+"Section C – Forgery or Alteration",
+"Section F – Registered Postal Sendings"
+],
+"a": 2,
+"e": "Section C indemnifies the bank for payments made on cheques, drafts or other instruments bearing forged signatures or fraudulent alterations."
+},
+{
+"n": 18,
+"topic": "Bankers Indemnity Insurance",
+"t": "Loss of money collected by pygmy / daily deposit collecting agents of a bank owing to their dishonesty is covered under:",
+"o": [
+"Section D – Dishonesty of Employees",
+"Section G – Appraisers",
+"Section E – Hypothecated Goods",
+"Section H – Janata Agents / Chhoti Bachat Yojana Agents / Pygmy Collectors"
+],
+"a": 3,
+"e": "Pygmy collectors are not regular employees, so their dishonesty is covered under the separate Section H and not under Section D."
+},
+{
+"n": 19,
+"topic": "Burglary Insurance",
+"t": "Stock worth ₹10 lakh is insured under a burglary policy for ₹8 lakh. A loss of ₹2 lakh occurs. Applying average, the claim payable is:",
+"o": [
+"₹2 lakh",
+"₹1.6 lakh",
+"₹1 lakh",
+"₹1.8 lakh"
+],
+"a": 1,
+"e": "★ Key fact (repeated across the mocks of this paper). Payable = (8/10) × ₹2 lakh = ₹1.6 lakh; the insured bears the balance for the 20% under-insurance.",
+"r": "key"
+},
+{
+"n": 20,
+"topic": "Jewellers Block Insurance",
+"t": "Which section of the Jewellers Block policy covers property while in the custody of the insured, partners, employees, agents, brokers and goldsmiths?",
+"o": [
+"Section II",
+"Section I",
+"Section III",
+"Section IV"
+],
+"a": 0,
+"e": "Section I covers property on the premises, Section II property in custody of specified persons, Section III property in transit by registered post, air freight or angadias, and Section IV trade furniture and fittings."
+},
+{
+"n": 21,
+"topic": "Jewellers Block Insurance",
+"t": "Claims for lost or damaged stock under a Jewellers Block policy are settled on the basis of:",
+"o": [
+"Retail selling price including profit",
+"Cost price / invoice value of the stock",
+"Market value plus 10% loading",
+"Agreed value fixed at inception"
+],
+"a": 1,
+"e": "The policy is one of indemnity; stock is valued at cost (as per purchase invoices and stock books), not at selling price."
+},
+{
+"n": 22,
+"topic": "Jewellers Block Insurance",
+"t": "A jeweller leaves ornaments in the shop window display overnight; burglars break in and steal them. Under Section I the claim is:",
+"o": [
+"Payable in full",
+"Payable subject to 25% depreciation",
+"Not payable, since outside business hours stock must be kept in a locked safe or strong room as warranted",
+"Payable under Section IV"
+],
+"a": 2,
+"e": "A standard warranty requires that outside business hours the insured property be kept in a locked safe/strong room. Stock left in the display window in breach of warranty is not covered."
+},
+{
+"n": 23,
+"topic": "Jewellers Block Insurance",
+"t": "A consignment of diamonds sent by registered insured post is lost in transit. The cover responds under:",
+"o": [
+"Section I",
+"Section II",
+"Section IV",
+"Section III"
+],
+"a": 3,
+"e": "Section III covers property in transit by registered insured post, air freight or through angadias/approved carriers, within the limits per sending."
+},
+{
+"n": 24,
+"topic": "Package Policies",
+"t": "In the standard Householder's insurance policy, which two sections are compulsory?",
+"o": [
+"Fire and allied perils (building/contents) and Burglary & housebreaking",
+"Fire and Plate glass",
+"Burglary and Personal accident",
+"All-risks jewellery and Public liability"
+],
+"a": 0,
+"e": "Sections I (Fire and allied perils) and II (Burglary and housebreaking) are compulsory; the other sections are optional."
+},
+{
+"n": 25,
+"topic": "Package Policies",
+"t": "Under the IRDAI-mandated standard home policy Bharat Griha Raksha, general contents are covered automatically for:",
+"o": [
+"10% of building sum insured up to ₹5 lakh",
+"20% of the building sum insured subject to a maximum of ₹10 lakh",
+"25% of building sum insured up to ₹20 lakh",
+"50% of building sum insured without limit"
+],
+"a": 1,
+"e": "Bharat Griha Raksha gives in-built cover for general contents at 20% of the building sum insured, capped at ₹10 lakh; a higher amount can be opted for by declaration."
+},
+{
+"n": 26,
+"topic": "Package Policies",
+"t": "A grocery shopkeeper wants cover for cash carried by his employee to the bank. In a Shopkeeper's package policy this is available under the:",
+"o": [
+"Fire section",
+"Burglary section",
+"Money insurance section",
+"Fidelity guarantee section"
+],
+"a": 2,
+"e": "The money section of the shopkeeper's policy covers money in transit and money in safe/till, mirroring a stand-alone money insurance policy."
+},
+{
+"n": 27,
+"topic": "Package Policies",
+"t": "A householder opts for Sections I and II plus six other sections (eight sections in all). The package discount on premium is normally:",
+"o": [
+"Nil",
+"10%",
+"15%",
+"20%"
+],
+"a": 3,
+"e": "The householder's policy allows 15% discount when four sections (including I and II) are taken and 20% when six or more sections are taken."
+},
+{
+"n": 28,
+"topic": "Package Policies",
+"t": "A visitor slips on the insured's wet staircase inside the house and sues for injury. Which section of the Householder's policy responds?",
+"o": [
+"Public liability",
+"Personal accident",
+"Fire and allied perils",
+"Breakdown of domestic appliances"
+],
+"a": 0,
+"e": "The public liability section covers the insured's legal liability for bodily injury or property damage to third parties arising from the occupation of the dwelling."
+},
+{
+"n": 29,
+"topic": "Package Policies",
+"t": "The premium for seven sections of a Householder's policy totals ₹4,000 before discount. After the package discount, the premium payable is:",
+"o": [
+"₹4,000",
+"₹3,600",
+"₹3,400",
+"₹3,200"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). Six or more sections earn a 20% discount: ₹4,000 − ₹800 = ₹3,200. Four sections would earn 15%.",
+"r": "key"
+},
+{
+"n": 30,
+"topic": "Specialised Covers",
+"t": "Which of the following is excluded under a plate glass insurance policy?",
+"o": [
+"Breakage by accidental impact of a trolley",
+"Scratching, chipping or disfiguration of the glass surface",
+"Breakage by a vandal throwing a stone",
+"Breakage while the window was being cleaned"
+],
+"a": 1,
+"e": "The policy covers accidental breakage; superficial damage such as scratching, chipping or disfiguration is excluded."
+},
+{
+"n": 31,
+"topic": "Specialised Covers",
+"t": "Under a Neon Sign / Glow Sign policy, which loss is excluded?",
+"o": [
+"Damage by lightning",
+"Theft of parts of the sign",
+"Fusing or burning out of tubes due to electrical short circuit or over-running",
+"Damage by rioters"
+],
+"a": 2,
+"e": "Electrical causes such as fusing, short circuit or over-running of the tubes are excluded; accidental external damage, fire, lightning, theft and riot are covered perils."
+},
+{
+"n": 32,
+"topic": "Specialised Covers",
+"t": "Apart from loss of or damage to the cycle, a pedal cycle insurance policy also covers:",
+"o": [
+"Medical expenses of the cyclist",
+"Theft of accessories alone",
+"Mechanical breakdown",
+"Legal liability for third-party injury or property damage caused by use of the cycle"
+],
+"a": 3,
+"e": "Pedal cycle policies include a third-party liability section; accessories stolen alone and mechanical breakdown are excluded."
+},
+{
+"n": 33,
+"topic": "Specialised Covers",
+"t": "A traveller insured under a baggage policy loses a suitcase from his own residence a week after returning from the tour. The claim is:",
+"o": [
+"Not covered, as baggage cover applies only while on a journey/tour away from the residence",
+"Covered in full",
+"Covered up to 50% of the sum insured",
+"Covered on production of a police report"
+],
+"a": 0,
+"e": "Baggage insurance covers accompanied baggage during the journey or tour; losses at the insured's own residence fall outside the cover."
+},
+{
+"n": 34,
+"topic": "Personal Accident Insurance",
+"t": "Under a standard Personal Accident policy, loss of one limb (by physical separation) entitles the insured to:",
+"o": [
+"100% of the capital sum insured",
+"25% of the capital sum insured",
+"50% of the capital sum insured",
+"75% of the capital sum insured"
+],
+"a": 2,
+"e": "Loss of one limb or sight of one eye is a permanent partial disablement paying 50% of CSI; loss of two limbs, two eyes, or one limb and one eye pays 100%."
+},
+{
+"topic": "Intermediaries",
+"t": "The qualifying examination for an individual insurance agent conducted by the Insurance Institute of India is:",
+"o": [
+"IC-01",
+"IC-38",
+"IC-14",
+"IC-33"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). IC-38 is the agents' pre-recruitment examination; IC-01/02/11/14 are Licentiate papers.",
+"r": "core",
+"n": 35
+},
+{
+"n": 36,
+"topic": "Personal Accident Insurance",
+"t": "The weekly compensation under Temporary Total Disablement (TTD) in a PA policy is 1% of the capital sum insured, payable for a maximum of:",
+"o": [
+"52 weeks",
+"26 weeks",
+"78 weeks",
+"100 weeks"
+],
+"a": 3,
+"e": "TTD benefit is 1% of CSI per week (subject to a weekly cap) for a maximum of 100 weeks for any one accident."
+},
+{
+"n": 37,
+"topic": "Personal Accident Insurance",
+"t": "For PA rating, a mining engineer who works underground in a coal mine falls under:",
+"o": [
+"Risk Class III",
+"Risk Class I",
+"Risk Class II",
+"Risk Class IV"
+],
+"a": 0,
+"e": "Class III comprises the most hazardous occupations such as persons working in underground mines, with explosives, high-tension electricity, jockeys and circus artistes. Class I covers administrative/professional occupations."
+},
+{
+"n": 38,
+"topic": "Personal Accident Insurance",
+"t": "The annual premium under the Pradhan Mantri Suraksha Bima Yojana (PMSBY) is currently:",
+"o": [
+"₹12",
+"₹330",
+"₹20",
+"₹436"
+],
+"a": 2,
+"e": "PMSBY premium was raised from ₹12 to ₹20 per annum from June 2022, for a cover of ₹2 lakh on accidental death/total disability and ₹1 lakh for partial disability (ages 18–70)."
+},
+{
+"n": 39,
+"topic": "Overseas Travel Insurance",
+"t": "Which Overseas Mediclaim plan is designed for a student going abroad for higher studies?",
+"o": [
+"Business and Holiday",
+"Corporate Frequent Traveller",
+"Worldwide excluding USA/Canada",
+"Employment and Study"
+],
+"a": 3,
+"e": "The Employment and Study (E&S) plan caters to persons going abroad for employment or studies for longer durations; B&H is for short business or holiday trips."
+},
+{
+"n": 40,
+"topic": "Overseas Travel Insurance",
+"t": "Medical claims incurred abroad under an Overseas Mediclaim policy are normally serviced and settled through:",
+"o": [
+"The insurer's overseas claims-settling agent / assistance company",
+"The Indian embassy in that country",
+"IRDAI's grievance cell",
+"The airline that carried the insured"
+],
+"a": 0,
+"e": "Insurers tie up with international assistance companies that provide cashless facility and settle claims abroad in foreign currency on the insurer's behalf."
+},
+{
+"n": 41,
+"topic": "Overseas Travel Insurance",
+"t": "Under the 'Loss of passport' benefit of an overseas travel policy, the insurer reimburses:",
+"o": [
+"The full value of the trip",
+"The actual expenses of obtaining a duplicate or fresh passport / emergency travel document",
+"A fixed amount of ₹50,000",
+"Any fine imposed by immigration authorities"
+],
+"a": 1,
+"e": "The benefit covers the reasonable expenses necessarily incurred in obtaining a duplicate passport or emergency certificate, up to the stated limit."
+},
+{
+"n": 42,
+"topic": "Rural Insurance",
+"t": "In cattle insurance, the principle 'No tag, no claim' means:",
+"o": [
+"Tagged animals earn a no-claim bonus",
+"Claims are admissible only for animals below five years",
+"A claim is not admissible unless the ear tag of the insured animal is produced at the time of claim",
+"The ear tag must be replaced every year"
+],
+"a": 2,
+"e": "Identification is by ear tag; the tag must be surrendered with the claim, failing which the claim is not entertained. The insured must get a lost tag replaced promptly."
+},
+{
+"n": 43,
+"topic": "Rural Insurance",
+"t": "Under a cattle insurance policy, the waiting period for death due to disease is:",
+"o": [
+"30 days",
+"7 days",
+"60 days",
+"15 days"
+],
+"a": 3,
+"e": "Death due to disease within 15 days of commencement is not covered; death due to accident is covered from inception. Renewals without break carry no fresh waiting period."
+},
+{
+"n": 44,
+"topic": "Rural Insurance",
+"t": "The agricultural pumpset insurance policy (for pumpsets up to a specified HP) typically covers:",
+"o": [
+"Mechanical/electrical breakdown, fire, lightning and burglary of the pumpset",
+"Crop failure due to failure of the pump",
+"Loss of yield from irrigation shortfall",
+"Theft of delivery pipes only"
+],
+"a": 0,
+"e": "The policy covers unforeseen physical damage to the pumpset by mechanical or electrical breakdown, fire, lightning, riot and burglary (housebreaking). Crop loss is not covered."
+},
+{
+"topic": "Intermediaries",
+"t": "A corporate agent may tie up with a maximum of how many insurers in each line of business?",
+"o": [
+"3",
+"6",
+"9",
+"Unlimited"
+],
+"a": 2,
+"e": "★ Core fact (asked across III papers). Raised from 3 to 9 insurers per category (life, general, health) by the 2022 amendment to the Corporate Agents Regulations.",
+"r": "core",
+"n": 45
+},
+{
+"n": 46,
+"topic": "Liability Insurance",
+"t": "The Public Liability Insurance Act, 1991 imposes liability on the owner handling hazardous substances on a:",
+"o": [
+"Proof-of-negligence basis",
+"No-fault basis",
+"Strict liability basis only after a court decree",
+"Contributory negligence basis"
+],
+"a": 1,
+"e": "Under the Act the victim need not prove negligence; relief is payable on a no-fault basis through the District Collector, and the owner must take compulsory insurance."
+},
+{
+"n": 47,
+"topic": "Liability Insurance",
+"t": "A public liability policy has an Any One Year (AOY) limit of ₹1 crore with an AOA:AOY ratio of 1:4. The Any One Accident limit is:",
+"o": [
+"₹1 crore",
+"₹50 lakh",
+"₹25 lakh",
+"₹4 crore"
+],
+"a": 2,
+"e": "With ratio 1:4, AOA = AOY ÷ 4 = ₹25 lakh. Permissible ratios are 1:1, 1:2, 1:3 and 1:4."
+},
+{
+"n": 48,
+"topic": "Liability Insurance",
+"t": "Professional indemnity policies in India are issued on which basis?",
+"o": [
+"Occurrence basis",
+"Losses-occurring basis",
+"Discovery basis within 48 hours",
+"Claims-made basis with a retroactive date"
+],
+"a": 3,
+"e": "PI covers claims first made against the insured during the policy period, for acts committed after the retroactive date, since professional errors surface long after the act."
+},
+{
+"n": 49,
+"topic": "Reinsurance",
+"t": "The obligatory cession that Indian general insurers must make to GIC Re is currently:",
+"o": [
+"4%",
+"5%",
+"10%",
+"20%"
+],
+"a": 0,
+"e": "IRDAI reduced the obligatory cession from 5% to 4% with effect from FY 2022-23, applicable on each general insurance policy as specified."
+},
+{
+"n": 50,
+"topic": "Reinsurance",
+"t": "In a quota-share treaty the reinsurer accepts:",
+"o": [
+"Only losses exceeding a fixed retention",
+"A fixed percentage of every risk written by the cedant in the class",
+"The surplus over the cedant's retention line",
+"Aggregate losses exceeding an agreed loss ratio"
+],
+"a": 1,
+"e": "Quota share is a proportional treaty where premiums and losses on every risk are shared in a fixed ratio; excess of loss and stop loss are non-proportional, and surplus cedes only amounts above retention."
+}
+]

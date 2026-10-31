@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Term and Whole Life Insurance",
+"t": "A pure term insurance policy with a 20-year term pays which of the following if the life assured survives the full term?",
+"o": [
+"The sum assured",
+"Total premiums paid with interest",
+"Nothing",
+"A reduced paid-up value"
+],
+"a": 2,
+"e": "A pure term plan provides only a death benefit during the term; there is no maturity or survival benefit, which is why it is the cheapest form of life cover. A return-of-premium variant would refund premiums, but a pure term plan does not."
+},
+{
+"n": 2,
+"topic": "Endowment and Money-Back Plans",
+"t": "Under a money-back policy with a sum assured of ₹5,00,000 and term of 20 years, survival benefits of 20% are paid at the end of the 5th, 10th and 15th years. If the life assured dies in the 17th policy year, what does the nominee receive (ignoring bonuses)?",
+"o": [
+"₹2,00,000",
+"₹3,00,000",
+"₹1,00,000",
+"₹5,00,000"
+],
+"a": 3,
+"e": "In a money-back plan the full sum assured is payable on death during the term regardless of survival benefits already paid, so the nominee receives ₹5,00,000 plus accrued bonuses. Only the maturity payment is reduced by the survival benefits already paid."
+},
+{
+"n": 3,
+"topic": "Unit Linked Insurance Products (ULIPs)",
+"t": "What is the minimum lock-in period for a unit linked insurance policy under IRDAI regulations?",
+"o": [
+"3 years",
+"5 years",
+"7 years",
+"10 years"
+],
+"a": 1,
+"e": "IRDAI prescribes a five-year lock-in for ULIPs from the date of commencement; surrender or partial withdrawal proceeds cannot be paid before completion of five years. The three-year lock-in applied only to policies issued before September 2010."
+},
+{
+"n": 4,
+"topic": "Annuities and Pension Products",
+"t": "An annuity that continues to pay the annuitant for life and, after his death, pays the spouse for her lifetime is called:",
+"o": [
+"Annuity certain",
+"Deferred annuity with return of purchase price",
+"Joint life last survivor annuity",
+"Increasing life annuity"
+],
+"a": 2,
+"e": "A joint life last survivor annuity is payable as long as either of the two annuitants is alive. An annuity certain pays for a fixed number of years irrespective of survival."
+},
+{
+"n": 5,
+"topic": "Group Life Products",
+"t": "Under a one-year renewable group term assurance (OYRGTA) scheme, the premium is:",
+"o": [
+"Recalculated at each annual renewal based on the group's age profile and experience",
+"Fixed for the entire working life of the members",
+"Paid entirely by the employees",
+"Determined by the Employees' Provident Fund Organisation"
+],
+"a": 0,
+"e": "OYRGTA cover is renewed yearly and the premium is re-rated at renewal using the current membership, age distribution and claims experience of the group. It is a pure risk cover with no savings element."
+},
+{
+"n": 6,
+"topic": "Product Design and Pricing",
+"t": "Which of the following is NOT one of the three basic elements considered by an actuary while pricing a traditional life insurance product?",
+"o": [
+"Mortality",
+"Market share of the insurer",
+"Expenses",
+"Interest (investment return)"
+],
+"a": 1,
+"e": "The classical premium basis uses assumptions on mortality, interest and expenses (plus lapse and profit margin). Market share is a business objective, not a pricing element."
+},
+{
+"n": 7,
+"topic": "Regulatory Framework and Taxation",
+"t": "The IRDAI (Insurance Products) Regulations, 2024 came into force with effect from:",
+"o": [
+"1 April 2023",
+"1 January 2025",
+"1 April 2024",
+"1 October 2024"
+],
+"a": 2,
+"e": "The consolidated Insurance Products Regulations, 2024 were notified in March 2024 and took effect from 1 April 2024, replacing six earlier product-related regulations including the Non-Linked and Linked products regulations of 2019."
+},
+{
+"n": 8,
+"topic": "Regulatory Framework and Taxation",
+"t": "Under Section 80C of the Income Tax Act, 1961, the maximum aggregate deduction available for life insurance premium together with other eligible investments is:",
+"o": [
+"₹1,00,000",
+"₹2,50,000",
+"₹2,00,000",
+"₹1,50,000"
+],
+"a": 3,
+"e": "The overall ceiling under Section 80C (read with Section 80CCE) is ₹1,50,000 per financial year. The ₹50,000 additional deduction under Section 80CCD(1B) is only for NPS contributions."
+},
+{
+"n": 9,
+"topic": "Unit Linked Insurance Products (ULIPs)",
+"t": "A ULIP policyholder with regular annualised premium of ₹1,00,000 and age 30 must be offered a minimum sum assured on death of at least:",
+"o": [
+"₹5,00,000",
+"₹10,00,000",
+"₹7,00,000",
+"₹12,50,000"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). IRDAI requires a minimum death benefit of 7 times the annualised premium for regular premium policies (1.25 times for single premium), so ₹7,00,000; the earlier 10-times rule was reduced in 2019.",
+"r": "key"
+},
+{
+"n": 10,
+"topic": "Term and Whole Life Insurance",
+"t": "A home loan borrower wants cover whose sum assured reduces each year in line with the outstanding loan. The most suitable product is:",
+"o": [
+"Decreasing term assurance (mortgage redemption)",
+"Level term assurance",
+"Whole life assurance",
+"Endowment assurance"
+],
+"a": 0,
+"e": "Decreasing term assurance, often sold as mortgage redemption insurance, has a sum assured that falls in step with the outstanding loan balance, keeping premiums low. Level term keeps the sum assured constant."
+},
+{
+"n": 11,
+"topic": "Introduction to Life Insurance Products",
+"t": "Which of the following is an example of a 'living benefit' under a life insurance product?",
+"o": [
+"Death benefit paid to the nominee",
+"Survival benefit under a money-back plan",
+"Funeral expense benefit",
+"Accidental death benefit"
+],
+"a": 1,
+"e": "Living benefits are payable to the policyholder during his lifetime, such as survival benefits, maturity benefit, annuity instalments or critical illness lump sums. Death and funeral benefits are payable only on death."
+},
+{
+"n": 12,
+"topic": "Annuities and Pension Products",
+"t": "Under IRDAI norms, the minimum annuity instalment that an insurer may offer under an annuity product is:",
+"o": [
+"₹500 per month",
+"₹5,000 per month",
+"₹2,000 per month",
+"₹1,000 per month"
+],
+"a": 3,
+"e": "The minimum annuity amount is ₹1,000 per month (or its equivalent for other frequencies), a limit retained in the 2024 product framework; for NPS subscribers and certain cases lower amounts may be permitted."
+},
+{
+"n": 13,
+"topic": "Endowment and Money-Back Plans",
+"t": "A pure endowment assurance pays the sum assured:",
+"o": [
+"Only on survival to the end of the term",
+"Only on death during the term",
+"On death or survival, whichever is earlier",
+"Twice: once on death and again on maturity"
+],
+"a": 0,
+"e": "A pure endowment pays only if the life assured survives the term; nothing (or at most a return of premiums) is payable on earlier death. An ordinary endowment combines a pure endowment with term assurance."
+},
+{
+"n": 14,
+"topic": "Participating and Non-Participating Products",
+"t": "Under the Insurance Act, 1938, the maximum share of surplus from a participating fund that may be allocated to shareholders is:",
+"o": [
+"5%",
+"10%",
+"25%",
+"50%"
+],
+"a": 1,
+"e": "Section 49 of the Insurance Act limits the shareholders' share of surplus in the participating business to 10%, so at least 90% of distributable surplus goes to with-profits policyholders as bonus."
+},
+{
+"n": 15,
+"topic": "Product Design and Pricing",
+"t": "The mortality table currently used as the reference table by Indian life insurers for pricing and valuation is:",
+"o": [
+"LIC (1994-96) Ultimate",
+"A1967-70 table",
+"IALM (2006-08)",
+"Indian Assured Lives Mortality (2012-14)"
+],
+"a": 3,
+"e": "The Institute of Actuaries of India published the IALM 2012-14 table based on Indian insured lives experience, and it is the standard reference table; the earlier LIC 94-96 and IALM 06-08 tables have been superseded."
+},
+{
+"n": 16,
+"topic": "Group Life Products",
+"t": "The maximum assurance benefit under the statutory Employees' Deposit Linked Insurance (EDLI) scheme, as revised in 2021, is:",
+"o": [
+"₹2 lakh",
+"₹3.5 lakh",
+"₹7 lakh",
+"₹6 lakh"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). EDLI benefit was enhanced to a maximum of ₹7 lakh (minimum ₹2.5 lakh) for death in service; employers may substitute it with a group term policy offering at least equal benefits.",
+"r": "key"
+},
+{
+"n": 17,
+"topic": "Regulatory Framework and Taxation",
+"t": "The free-look period available to a life insurance policyholder from the date of receipt of the policy document, as per the 2024 regulatory framework, is:",
+"o": [
+"30 days for all policies",
+"15 days for all policies",
+"15 days for offline and 30 days for electronic policies",
+"45 days for all policies"
+],
+"a": 0,
+"e": "The IRDAI 2024 framework extended the free-look period to 30 days from receipt of the policy document for all policies, replacing the earlier 15-day period (30 days only for distance-marketed policies)."
+},
+{
+"n": 18,
+"topic": "Group Life Products",
+"t": "Which group life product is commonly used by employers as a substitute for the statutory Employees' Deposit Linked Insurance (EDLI) scheme?",
+"o": [
+"Group gratuity scheme",
+"Group term life assurance in lieu of EDLI",
+"Group superannuation scheme",
+"Group leave encashment scheme"
+],
+"a": 1,
+"e": "EPFO permits employers to opt out of EDLI if they provide a group term insurance giving benefits not less favourable than EDLI, which insurers offer as a group term policy in lieu of EDLI."
+},
+{
+"n": 19,
+"topic": "Term and Whole Life Insurance",
+"t": "A limited payment whole life policy differs from an ordinary whole life policy in that:",
+"o": [
+"Cover ceases at age 60",
+"Sum assured is payable only on maturity at age 100",
+"Premiums are payable only for a specified number of years while cover continues for life",
+"It does not participate in bonuses"
+],
+"a": 2,
+"e": "In a limited payment whole life policy premiums stop after a fixed term (say 20 years or age 60), but the life cover continues till death. Ordinary whole life requires premiums throughout life."
+},
+{
+"n": 20,
+"topic": "Unit Linked Insurance Products (ULIPs)",
+"t": "The maximum fund management charge (FMC) that an insurer may levy on a ULIP fund under IRDAI norms is:",
+"o": [
+"0.75% per annum",
+"1.00% per annum",
+"2.25% per annum",
+"1.35% per annum"
+],
+"a": 3,
+"e": "IRDAI caps the fund management charge at 1.35% p.a. of the fund value; the discontinued policy fund has a lower cap of 0.50% p.a."
+},
+{
+"n": 21,
+"topic": "Annuities and Pension Products",
+"t": "Under a deferred annuity plan, the period between the date of purchase and the date the first annuity instalment becomes payable is known as the:",
+"o": [
+"Deferment period",
+"Grace period",
+"Vesting period",
+"Waiting period"
+],
+"a": 0,
+"e": "During the deferment period the purchase price accumulates; at the vesting date the annuity starts. The vesting date marks the end of deferment, not the whole period."
+},
+{
+"n": 22,
+"topic": "Riders and Health-Linked Life Products",
+"t": "A life assured holding a term plan of ₹50 lakh with an accidental death benefit rider of ₹25 lakh dies in a road accident. The nominee receives:",
+"o": [
+"₹25 lakh",
+"₹75 lakh",
+"₹50 lakh",
+"₹1 crore"
+],
+"a": 1,
+"e": "Accidental death benefit is payable in addition to the base sum assured when death is caused by an accident, so ₹50 lakh base plus ₹25 lakh rider = ₹75 lakh."
+},
+{
+"n": 23,
+"topic": "Product Design and Pricing",
+"t": "A level premium under a whole life policy is higher than the actual cost of risk in the early years. The excess is:",
+"o": [
+"Returned to the policyholder as a bonus",
+"Paid as commission to the agent",
+"Accumulated as a reserve to meet the higher cost of risk in later years",
+"Transferred to shareholders as profit"
+],
+"a": 2,
+"e": "Because mortality rises with age, a level premium overcharges in early years and undercharges later; the early excess builds the policy reserve that funds the later shortfall and forms the basis of surrender value."
+},
+{
+"n": 24,
+"topic": "Regulatory Framework and Taxation",
+"t": "A life insurance policy (other than ULIP) issued on 1 June 2023 has an annual premium of ₹6 lakh. Under Section 10(10D), the maturity proceeds will be:",
+"o": [
+"Fully exempt because premium is less than sum assured",
+"Taxable only if the policy is surrendered",
+"Exempt up to ₹5 lakh and taxable beyond",
+"Taxable, since aggregate premium exceeds ₹5 lakh for policies issued on or after 1 April 2023"
+],
+"a": 3,
+"e": "Finance Act 2023 withdrew the 10(10D) exemption for non-ULIP policies issued on or after 1 April 2023 where aggregate annual premium exceeds ₹5 lakh; death benefit remains exempt."
+},
+{
+"n": 25,
+"topic": "Endowment and Money-Back Plans",
+"t": "A double endowment policy pays:",
+"o": [
+"Sum assured on death and double the sum assured on survival to maturity",
+"Double the sum assured on death and sum assured on maturity",
+"Sum assured on both death and maturity",
+"Double the sum assured on accidental death only"
+],
+"a": 0,
+"e": "In a double endowment the survival benefit at maturity is twice the sum assured payable on death, which makes it attractive for lives with slightly impaired health who expect to survive."
+},
+{
+"n": 26,
+"topic": "Introduction to Life Insurance Products",
+"t": "Which classification correctly pairs a product with its primary purpose?",
+"o": [
+"Term assurance – wealth accumulation",
+"Endowment assurance – protection plus savings",
+"Immediate annuity – protection against premature death",
+"ULIP – guaranteed return"
+],
+"a": 1,
+"e": "Endowment plans combine death cover with a savings element payable on maturity. Term is pure protection, annuities address longevity risk, and ULIP returns are market-linked, not guaranteed."
+},
+{
+"n": 27,
+"topic": "Participating and Non-Participating Products",
+"t": "A non-participating (non-par) savings product is characterised by:",
+"o": [
+"Bonuses declared annually based on surplus",
+"Returns linked to the NAV of a fund",
+"Benefits that are fully guaranteed at the outset and no share in profits",
+"Premiums that vary every year with investment performance"
+],
+"a": 2,
+"e": "Non-par products offer pre-defined guaranteed benefits (e.g., guaranteed additions or income) and the policyholder does not participate in the insurer's surplus; the investment risk is borne by the insurer."
+},
+{
+"n": 28,
+"topic": "Regulatory Framework and Taxation",
+"t": "A non-ULIP policy issued in 2015 has a sum assured of ₹5,00,000 and an annual premium of ₹60,000. On maturity, the proceeds will be:",
+"o": [
+"Fully exempt under Section 10(10D)",
+"Taxable, because the premium exceeds 10% of the sum assured",
+"Exempt because premium is below ₹5 lakh",
+"Exempt up to ₹1.5 lakh"
+],
+"a": 1,
+"e": "★ Key fact (repeated across the mocks of this paper). For policies issued on or after 1 April 2012, Section 10(10D) exemption is lost if premium in any year exceeds 10% of the actual capital sum assured; here ₹60,000 is 12% of ₹5 lakh. Death benefits remain exempt.",
+"r": "key"
+},
+{
+"n": 29,
+"topic": "Unit Linked Insurance Products (ULIPs)",
+"t": "If a ULIP with an annualised premium of ₹40,000 is discontinued in the first policy year, the maximum discontinuance charge the insurer may levy is:",
+"o": [
+"Nil, since discontinuance charges are prohibited",
+"Lower of 6% of annualised premium or fund value, subject to a maximum of ₹6,000",
+"20% of fund value without any cap",
+"Lower of 20% of annualised premium or fund value, subject to a maximum of ₹3,000"
+],
+"a": 3,
+"e": "For annualised premium up to ₹50,000, the first-year discontinuance charge is the lower of 20% of AP or FV, capped at ₹3,000. The 6%/₹6,000 limit applies when AP exceeds ₹50,000. No charge applies from the fifth year onwards."
+},
+{
+"n": 30,
+"topic": "Annuities and Pension Products",
+"t": "Under IRDAI norms for pension products, on vesting the policyholder may commute up to what proportion of the accumulated corpus as a lump sum?",
+"o": [
+"60%",
+"50%",
+"One-third",
+"100%"
+],
+"a": 0,
+"e": "IRDAI permits commutation of up to 60% of the vesting benefit, with the balance (at least 40%) to be used to purchase an annuity, aligned with the NPS structure. The earlier limit was one-third."
+},
+{
+"n": 31,
+"topic": "Riders and Health-Linked Life Products",
+"t": "A critical illness rider under a life policy typically pays:",
+"o": [
+"Reimbursement of actual hospital expenses",
+"A lump sum on first diagnosis of a listed critical illness, after the survival period",
+"Daily cash for each day of hospitalisation",
+"The sum assured only on death due to the illness"
+],
+"a": 1,
+"e": "CI riders are benefit-based: a pre-defined lump sum is paid on diagnosis of a covered condition (cancer, heart attack, stroke, etc.), usually after a survival period of 30 days and a waiting period of 90 days from commencement."
+},
+{
+"n": 32,
+"topic": "Group Life Products",
+"t": "A group credit life scheme sold with personal loans generally provides:",
+"o": [
+"A level sum assured equal to the original loan for the full term",
+"An endowment benefit to the borrower on repayment of the loan",
+"A decreasing cover equal to the outstanding loan payable to the lender on the borrower's death",
+"Cover only for the lender's own employees"
+],
+"a": 2,
+"e": "Credit life cover protects the lender and the borrower's family by paying the outstanding loan balance on death; the cover reduces in line with the amortisation schedule."
+},
+{
+"n": 33,
+"topic": "Product Design and Pricing",
+"t": "Under the 'Use and File' procedure introduced by IRDAI, a life insurer may:",
+"o": [
+"Launch only group products without IRDAI approval",
+"Launch any product only after prior written approval of IRDAI",
+"Launch products without any filing to IRDAI at all",
+"Launch an approved category of product after internal approval by its Product Management Committee and file with IRDAI subsequently"
+],
+"a": 3,
+"e": "Use and File allows insurers to launch products after approval by the Product Management Committee and Board-approved product management policy, filing the details with IRDAI within the prescribed period, speeding time-to-market compared with File and Use."
+},
+{
+"topic": "Principles",
+"t": "Non-disclosure of a material fact by the proposer makes the contract:",
+"o": [
+"Void ab initio",
+"Voidable at the option of the insurer",
+"Illegal",
+"Automatically continued on revised terms"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). Breach of utmost good faith renders the contract voidable, not void; the insurer may elect to avoid it (subject to Section 45 for life).",
+"r": "core",
+"n": 34
+},
+{
+"n": 35,
+"topic": "Regulatory Framework and Taxation",
+"t": "Under Section 45 of the Insurance Act, 1938 (as amended in 2015), a life insurance policy cannot be called in question on any ground after:",
+"o": [
+"3 years from the date of issue, revival or rider addition, whichever is later",
+"2 years from the date of issue",
+"1 year from the date of issue",
+"5 years from the date of issue"
+],
+"a": 0,
+"e": "The 2015 amendment made policies incontestable on any ground, including fraud, after three years from the date of policy, commencement of risk, revival or rider addition, whichever is later."
+},
+{
+"n": 36,
+"topic": "Term and Whole Life Insurance",
+"t": "A return-of-premium term plan (TROP) with annual premium ₹12,000 and term 30 years is held to maturity. Ignoring GST, the maturity benefit is:",
+"o": [
+"Nil",
+"₹3,60,000",
+"₹12,000",
+"₹3,60,000 plus accrued bonuses"
+],
+"a": 1,
+"e": "TROP refunds the total base premiums paid (₹12,000 × 30 = ₹3,60,000) on survival to maturity; it carries no bonus because it is a non-participating product, and GST and rider premiums are excluded from the refund."
+},
+{
+"n": 37,
+"topic": "Endowment and Money-Back Plans",
+"t": "The feature of a money-back policy that makes its premium higher than an endowment policy of the same sum assured and term is:",
+"o": [
+"Lower death cover",
+"Absence of bonus",
+"Periodic survival benefits paid during the term while full death cover continues",
+"Shorter policy term"
+],
+"a": 2,
+"e": "Because the insurer pays out part of the sum assured periodically yet continues to carry the full death risk, the money-back plan requires higher premiums than a plain endowment."
+},
+{
+"n": 38,
+"topic": "Unit Linked Insurance Products (ULIPs)",
+"t": "Which charge in a ULIP is deducted from the premium before units are allocated?",
+"o": [
+"Fund management charge",
+"Switching charge",
+"Mortality charge",
+"Premium allocation charge"
+],
+"a": 3,
+"e": "The premium allocation charge is a percentage of premium deducted upfront, with only the balance invested in units. Mortality and policy administration charges are recovered by cancelling units, and FMC is adjusted in the NAV."
+},
+{
+"n": 39,
+"topic": "Annuities and Pension Products",
+"t": "An 'annuity with return of purchase price' is attractive to annuitants mainly because:",
+"o": [
+"The purchase price is refunded to the nominee on the annuitant's death, leaving an estate",
+"It gives the highest annuity rate",
+"Annuity payments increase every year",
+"It can be surrendered at any time without penalty"
+],
+"a": 0,
+"e": "Return of purchase price ensures the capital is not lost on early death, but the annuity rate is lower than a pure life annuity because the insurer must return the corpus."
+},
+{
+"n": 40,
+"topic": "Riders and Health-Linked Life Products",
+"t": "Under IRDAI product norms, the premium for a non-health rider (such as accidental death benefit) attached to a non-linked policy should not exceed:",
+"o": [
+"10% of the base premium",
+"30% of the base premium",
+"50% of the base premium",
+"100% of the base premium"
+],
+"a": 1,
+"e": "Non-health riders are limited to 30% of the base policy premium each, while health riders may go up to 100% of the base premium; rider benefits (other than health) are also capped at the base sum assured."
+},
+{
+"n": 41,
+"topic": "Group Life Products",
+"t": "A group superannuation scheme managed by a life insurer is primarily intended to provide:",
+"o": [
+"Death-only cover to employees",
+"Gratuity payments as per the Payment of Gratuity Act",
+"Retirement pension to employees through accumulation of contributions",
+"Hospitalisation benefits for employees' families"
+],
+"a": 2,
+"e": "Superannuation schemes accumulate employer (and sometimes employee) contributions to provide a pension at retirement; the insurer manages the fund and typically offers annuities at retirement."
+},
+{
+"n": 42,
+"topic": "Product Design and Pricing",
+"t": "The 'risk premium' for a one-year term cover of ₹10,00,000 on a life whose probability of death in the year is 0.002 is:",
+"o": [
+"₹200",
+"₹1,000",
+"₹20,000",
+"₹2,000"
+],
+"a": 3,
+"e": "Risk (natural) premium = probability of death × sum assured = 0.002 × ₹10,00,000 = ₹2,000, before loading for expenses, interest and profit."
+},
+{
+"n": 43,
+"topic": "Regulatory Framework and Taxation",
+"t": "Which of the following statements about Section 10(10D) exemption for ULIPs is correct?",
+"o": [
+"ULIPs issued on or after 1 February 2021 with aggregate annual premium above ₹2.5 lakh lose the exemption on maturity proceeds",
+"All ULIP maturity proceeds are exempt irrespective of premium",
+"ULIP death benefits are taxable if premium exceeds ₹2.5 lakh",
+"Only ULIPs with a term below 10 years are exempt"
+],
+"a": 0,
+"e": "Finance Act 2021 made maturity/surrender proceeds of high-premium ULIPs (aggregate premium > ₹2.5 lakh p.a., issued on or after 1-2-2021) taxable as capital gains; death benefits stay exempt."
+},
+{
+"n": 44,
+"topic": "Introduction to Life Insurance Products",
+"t": "A standard individual term product named 'Saral Jeevan Bima' was mandated by IRDAI with a sum assured range of:",
+"o": [
+"₹1 lakh to ₹10 lakh",
+"₹5 lakh to ₹25 lakh",
+"₹10 lakh to ₹50 lakh",
+"₹25 lakh to ₹1 crore"
+],
+"a": 1,
+"e": "Saral Jeevan Bima is a standardised pure term plan with sum assured of ₹5 lakh to ₹25 lakh (in multiples of ₹50,000), entry age 18–65 and policy term 5–40 years, with a 45-day waiting period for non-accidental death."
+},
+{
+"n": 45,
+"topic": "Participating and Non-Participating Products",
+"t": "A terminal bonus under a participating policy is:",
+"o": [
+"Guaranteed and declared at policy inception",
+"Paid every year in cash",
+"A one-time bonus paid at the time of exit (death or maturity), reflecting the policy's share of accumulated surplus",
+"Deducted from the sum assured on surrender"
+],
+"a": 2,
+"e": "Terminal (final) bonus is non-guaranteed and paid only once, on maturity or death, for policies that have run for a minimum period; it is not added yearly like a reversionary bonus."
+},
+{
+"topic": "Taxation",
+"t": "Deduction for life insurance premium under Section 80C of the Income Tax Act is available up to an overall limit of:",
+"o": [
+"₹1 lakh",
+"₹1.5 lakh",
+"₹2 lakh",
+"₹2.5 lakh"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). ₹1,50,000 aggregate for all 80C items; premium qualifies only up to 10% of the sum assured for policies issued after 1 April 2012.",
+"r": "core",
+"n": 46
+},
+{
+"n": 47,
+"topic": "Term and Whole Life Insurance",
+"t": "Which statement about a convertible term assurance policy is INCORRECT?",
+"o": [
+"It can be converted into an endowment or whole life policy within a specified period",
+"Conversion is allowed without fresh evidence of health",
+"On conversion the premium changes to that of the new plan",
+"The option to convert can be exercised at any time till maturity of the term plan"
+],
+"a": 3,
+"e": "The conversion option must be exercised within a specified window (often before the last two years of the term), not at any time up to maturity. The other statements correctly describe convertible term plans."
+},
+{
+"n": 48,
+"topic": "Unit Linked Insurance Products (ULIPs)",
+"t": "A policyholder of a ULIP wants to move accumulated units from an equity fund to a debt fund without changing where future premiums are invested. The option to use is:",
+"o": [
+"Fund switch",
+"Premium redirection",
+"Partial withdrawal",
+"Top-up"
+],
+"a": 0,
+"e": "A switch transfers existing units between funds; premium redirection changes the allocation of future premiums. Most insurers allow a few free switches per year."
+},
+{
+"n": 49,
+"topic": "Annuities and Pension Products",
+"t": "Under the National Pension System, on exit at age 60 a subscriber must use at least what percentage of the corpus to buy an annuity from an empanelled life insurer?",
+"o": [
+"20%",
+"40%",
+"60%",
+"80%"
+],
+"a": 1,
+"e": "NPS rules require at least 40% of the accumulated corpus to be annuitised at normal exit; up to 60% may be withdrawn as a tax-free lump sum."
+},
+{
+"n": 50,
+"topic": "Regulatory Framework and Taxation",
+"t": "Where a life insurance claim requires no investigation, the IRDAI (Protection of Policyholders' Interests) framework of 2024 requires the insurer to settle the death claim within how many days of receiving all documents?",
+"o": [
+"7 days",
+"30 days",
+"15 days",
+"45 days"
+],
+"a": 2,
+"e": "The 2024 regulations tightened timelines: 15 days for claims not needing investigation and 45 days where investigation is warranted; delay attracts penal interest at bank rate plus 2%."
+}
+]

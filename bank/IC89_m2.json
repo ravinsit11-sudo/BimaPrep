@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Introduction to Management Accounting",
+"t": "The objective of financial management that is considered most appropriate for a company is:",
+"o": [
+"Maximisation of profit",
+"Maximisation of sales turnover",
+"Maximisation of shareholders' wealth",
+"Minimisation of cost"
+],
+"a": 2,
+"e": "Wealth maximisation considers the time value of money and risk, which profit maximisation ignores; it is reflected in the market value of the firm's shares."
+},
+{
+"n": 2,
+"topic": "Introduction to Management Accounting",
+"t": "Which of the following tools is NOT normally considered a management accounting technique?",
+"o": [
+"Budgetary control",
+"Standard costing",
+"Statutory audit",
+"Marginal costing"
+],
+"a": 2,
+"e": "Statutory audit is an independent external verification of financial statements; budgeting, standard costing and marginal costing are internal planning and control techniques."
+},
+{
+"n": 3,
+"topic": "Introduction to Management Accounting",
+"t": "The dividend decision of a company is concerned with:",
+"o": [
+"How much to invest in new business lines",
+"Which source of debt to use",
+"How to price insurance products",
+"How much of earnings to distribute and how much to retain"
+],
+"a": 3,
+"e": "The dividend decision balances shareholders' desire for current income against the firm's need to retain earnings for growth and solvency."
+},
+{
+"n": 4,
+"topic": "Cost Concepts and Classification",
+"t": "Cost per unit of a fixed cost behaves in which manner as output increases?",
+"o": [
+"Rises in proportion",
+"Falls progressively",
+"Remains constant",
+"Fluctuates randomly"
+],
+"a": 1,
+"e": "Because the total is fixed, dividing it over a larger volume reduces fixed cost per unit; this is the basis of economies of scale in overhead absorption."
+},
+{
+"n": 5,
+"topic": "Cost Concepts and Classification",
+"t": "The benefit forgone by using office premises owned by the insurer for its own branch rather than letting it out at ₹2 lakh per month is a/an:",
+"o": [
+"Imputed or opportunity cost",
+"Sunk cost",
+"Out-of-pocket cost",
+"Committed cost"
+],
+"a": 0,
+"e": "Opportunity cost is the value of the next best alternative sacrificed; it does not involve a cash outlay but is relevant for decision-making."
+},
+{
+"n": 6,
+"topic": "Cost Concepts and Classification",
+"t": "A semi-variable cost is one which:",
+"o": [
+"Is wholly fixed up to capacity and variable thereafter",
+"Contains both a fixed and a variable element",
+"Varies inversely with output",
+"Is incurred only in the short run"
+],
+"a": 1,
+"e": "Semi-variable (mixed) costs such as electricity with a fixed demand charge plus a usage charge have a fixed component and a part that varies with activity."
+},
+{
+"n": 7,
+"topic": "Marginal Costing and CVP Analysis",
+"t": "Fixed costs are ₹12 lakh and the P/V ratio is 30%. The break-even sales value is:",
+"o": [
+"₹40 lakh",
+"₹36 lakh",
+"₹3.6 lakh",
+"₹48 lakh"
+],
+"a": 0,
+"e": "Break-even sales = Fixed cost ÷ P/V ratio = 12,00,000 ÷ 0.30 = ₹40 lakh."
+},
+{
+"n": 8,
+"topic": "Marginal Costing and CVP Analysis",
+"t": "A company wants a profit of ₹9 lakh. Fixed costs are ₹15 lakh and the P/V ratio is 40%. Required sales are:",
+"o": [
+"₹37.5 lakh",
+"₹24 lakh",
+"₹22.5 lakh",
+"₹60 lakh"
+],
+"a": 3,
+"e": "Required sales = (Fixed cost + Desired profit) ÷ P/V ratio = (15 + 9) ÷ 0.40 = ₹60 lakh."
+},
+{
+"n": 9,
+"topic": "Marginal Costing and CVP Analysis",
+"t": "Sales in year 1 were ₹50 lakh with profit of ₹4 lakh; in year 2 sales were ₹70 lakh with profit of ₹10 lakh. The P/V ratio is:",
+"o": [
+"8%",
+"20%",
+"30%",
+"14.3%"
+],
+"a": 2,
+"e": "P/V ratio = Change in profit ÷ Change in sales = (10 − 4) ÷ (70 − 50) = 6 ÷ 20 = 30%, since fixed costs are assumed constant between the two years."
+},
+{
+"n": 10,
+"topic": "Introduction to Management Accounting",
+"t": "An insurer's finance head wants to decide whether to raise ₹200 crore through subordinated debt or fresh equity. This is primarily a/an:",
+"o": [
+"Financing decision",
+"Investment decision",
+"Dividend decision",
+"Working capital decision"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). Choosing the mix of debt and equity to fund the company is the financing (capital structure) decision; how the funds are then deployed would be the investment decision.",
+"r": "key"
+},
+{
+"n": 11,
+"topic": "Marginal Costing and CVP Analysis",
+"t": "When a limiting factor such as the number of skilled underwriters exists, the product to be given priority is the one with the highest:",
+"o": [
+"Selling price",
+"Total contribution",
+"P/V ratio",
+"Contribution per unit of the limiting factor"
+],
+"a": 3,
+"e": "To maximise total contribution under a scarce resource, rank products by contribution per unit of the key (limiting) factor, not by contribution per unit of product."
+},
+{
+"n": 12,
+"topic": "Marginal Costing and CVP Analysis",
+"t": "Under absorption costing, when production exceeds sales in a period, reported profit compared with marginal costing will be:",
+"o": [
+"Lower",
+"The same",
+"Zero",
+"Higher"
+],
+"a": 3,
+"e": "Absorption costing carries part of the fixed overhead forward in closing stock, so less fixed cost is charged against the period's revenue and profit is higher than under marginal costing."
+},
+{
+"n": 13,
+"topic": "Budgeting and Budgetary Control",
+"t": "Budgeted fixed overhead was ₹20 lakh and variable overhead ₹50 per policy for 40,000 policies. Actual output was 45,000 policies and actual total overhead was ₹43.5 lakh. The flexed budget allowance is:",
+"o": [
+"₹40 lakh",
+"₹43.5 lakh",
+"₹42.5 lakh",
+"₹45 lakh"
+],
+"a": 2,
+"e": "Flexed budget = Fixed ₹20 lakh + Variable 45,000 × ₹50 = ₹22.5 lakh, total ₹42.5 lakh. Actual of ₹43.5 lakh gives an adverse variance of ₹1 lakh."
+},
+{
+"n": 14,
+"topic": "Budgeting and Budgetary Control",
+"t": "The committee that coordinates the preparation of functional budgets and resolves conflicts between departments is the:",
+"o": [
+"Audit committee",
+"Remuneration committee",
+"Budget committee",
+"Investment committee"
+],
+"a": 2,
+"e": "The budget committee, usually chaired by the CEO or CFO with functional heads as members, issues the budget manual, reviews functional budgets and approves the master budget."
+},
+{
+"n": 15,
+"topic": "Standard Costing and Variance Analysis",
+"t": "Standard labour time for processing a claim is 2 hours at ₹300 per hour. During the month 1,500 claims were processed in 3,200 hours at a total wage cost of ₹9,28,000. The labour efficiency variance is:",
+"o": [
+"₹60,000 Adverse",
+"₹28,000 Adverse",
+"₹60,000 Favourable",
+"₹32,000 Adverse"
+],
+"a": 0,
+"e": "Standard hours = 1,500 × 2 = 3,000. Efficiency variance = (3,000 − 3,200) × 300 = ₹60,000 Adverse."
+},
+{
+"n": 16,
+"topic": "Standard Costing and Variance Analysis",
+"t": "With standard 2 hours at ₹300 per hour, 1,500 claims processed in 3,200 hours at a total cost of ₹9,28,000, the labour rate variance is:",
+"o": [
+"₹32,000 Adverse",
+"₹28,000 Favourable",
+"₹32,000 Favourable",
+"₹60,000 Adverse"
+],
+"a": 2,
+"e": "Actual rate = 9,28,000 ÷ 3,200 = ₹290. Rate variance = (300 − 290) × 3,200 = ₹32,000 Favourable."
+},
+{
+"n": 17,
+"topic": "Marginal Costing and CVP Analysis",
+"t": "A company has sales of ₹40 lakh, variable cost of ₹24 lakh and fixed cost of ₹10 lakh. Its P/V ratio is:",
+"o": [
+"25%",
+"60%",
+"40%",
+"15%"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). P/V ratio = Contribution ÷ Sales × 100 = (40 − 24) ÷ 40 × 100 = 40%. It shows the contribution earned per rupee of sales.",
+"r": "key"
+},
+{
+"n": 18,
+"topic": "Standard Costing and Variance Analysis",
+"t": "Budgeted fixed overhead for a period was ₹4,00,000; actual fixed overhead was ₹4,30,000. The fixed overhead expenditure variance is:",
+"o": [
+"₹30,000 Favourable",
+"₹30,000 Adverse",
+"Nil",
+"Cannot be determined without output data"
+],
+"a": 1,
+"e": "Expenditure (spending) variance = Budgeted fixed overhead − Actual fixed overhead = 4,00,000 − 4,30,000 = ₹30,000 Adverse; output data is needed only for the volume variance."
+},
+{
+"n": 19,
+"topic": "Standard Costing and Variance Analysis",
+"t": "Which variance is generally regarded as the responsibility of the purchase department rather than the production department?",
+"o": [
+"Material usage variance",
+"Labour efficiency variance",
+"Fixed overhead volume variance",
+"Material price variance"
+],
+"a": 3,
+"e": "Price paid for materials is controlled by purchasing; usage and efficiency are controlled by production, and volume variance relates to capacity utilisation."
+},
+{
+"n": 20,
+"topic": "Standard Costing and Variance Analysis",
+"t": "Sales budget: 10,000 units at ₹100. Actual: 11,000 units at ₹95. The sales price variance is:",
+"o": [
+"₹50,000 Adverse",
+"₹55,000 Adverse",
+"₹1,00,000 Favourable",
+"₹45,000 Favourable"
+],
+"a": 1,
+"e": "Sales price variance = (Actual price − Standard price) × Actual quantity = (95 − 100) × 11,000 = ₹55,000 Adverse."
+},
+{
+"n": 21,
+"topic": "Ratio Analysis",
+"t": "Which ratio measures how efficiently a firm uses its total assets to generate sales?",
+"o": [
+"Asset turnover ratio",
+"Gross profit ratio",
+"Interest coverage ratio",
+"Proprietary ratio"
+],
+"a": 0,
+"e": "Asset turnover = Sales ÷ Total assets; it is an activity ratio showing rupees of sales generated per rupee invested in assets."
+},
+{
+"n": 22,
+"topic": "Ratio Analysis",
+"t": "A firm has EBIT of ₹30 lakh and annual interest of ₹6 lakh. Its interest coverage ratio is:",
+"o": [
+"0.2 times",
+"6 times",
+"4 times",
+"5 times"
+],
+"a": 3,
+"e": "Interest coverage = EBIT ÷ Interest = 30 ÷ 6 = 5 times, indicating comfortable ability to service debt."
+},
+{
+"n": 23,
+"topic": "Ratio Analysis",
+"t": "Credit sales for the year are ₹73 lakh and average debtors are ₹8 lakh. Assuming 365 days, the average collection period is:",
+"o": [
+"40 days",
+"36 days",
+"45 days",
+"30 days"
+],
+"a": 0,
+"e": "Debtors turnover = 73 ÷ 8 = 9.125 times; collection period = 365 ÷ 9.125 = 40 days."
+},
+{
+"n": 24,
+"topic": "Ratio Analysis",
+"t": "Return on equity (ROE) is computed as:",
+"o": [
+"EBIT ÷ Total assets",
+"Net profit after tax and preference dividend ÷ Equity shareholders' funds",
+"Net profit ÷ Sales",
+"Dividend per share ÷ Market price"
+],
+"a": 1,
+"e": "ROE measures the return earned for equity shareholders on the funds they have contributed, after meeting interest, tax and preference dividend."
+},
+{
+"n": 25,
+"topic": "Capital Budgeting",
+"t": "A project costs ₹10 lakh and yields annual cash inflows of ₹2.5 lakh for 6 years. Its payback period is:",
+"o": [
+"4 years",
+"2.5 years",
+"6 years",
+"3 years"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). Payback = Initial investment ÷ Annual cash inflow = 10,00,000 ÷ 2,50,000 = 4 years.",
+"r": "key"
+},
+{
+"n": 26,
+"topic": "Ratio Analysis",
+"t": "If the current ratio is 2:1 and a firm pays off ₹5 lakh of creditors from cash, the current ratio will:",
+"o": [
+"Rise above 2:1",
+"Fall below 2:1",
+"Remain at 2:1",
+"Become 1:1"
+],
+"a": 0,
+"e": "Reducing both current assets and current liabilities by the same amount when the ratio exceeds 1 increases the ratio, e.g. (40−5)/(20−5) = 2.33:1."
+},
+{
+"n": 27,
+"topic": "Fund Flow and Cash Flow Statements",
+"t": "Which of the following is an application (use) of funds in a fund flow statement?",
+"o": [
+"Issue of share capital",
+"Redemption of debentures",
+"Sale of long-term investments",
+"Funds from operations"
+],
+"a": 1,
+"e": "Redeeming debentures uses working capital; issue of shares, sale of investments and funds from operations are sources."
+},
+{
+"n": 28,
+"topic": "Fund Flow and Cash Flow Statements",
+"t": "The primary difference between a cash flow statement and a fund flow statement is that the cash flow statement:",
+"o": [
+"Is based on changes in working capital",
+"Explains changes in cash and cash equivalents only",
+"Is prepared only by listed companies",
+"Ignores non-cash expenses"
+],
+"a": 1,
+"e": "A cash flow statement narrows the focus to cash and cash equivalents, whereas a fund flow statement explains changes in net working capital."
+},
+{
+"n": 29,
+"topic": "Fund Flow and Cash Flow Statements",
+"t": "Dividend received by a general insurance company on its investment portfolio is classified in its cash flow statement under:",
+"o": [
+"Investing activities",
+"Financing activities",
+"Operating activities",
+"Extraordinary items"
+],
+"a": 0,
+"e": "The IRDAI format and AS 3 treat dividends and interest received by an insurer on investments as cash flows from investing activities; premium and claims flows are operating."
+},
+{
+"n": 30,
+"topic": "Fund Flow and Cash Flow Statements",
+"t": "Opening debtors ₹12 lakh, closing debtors ₹15 lakh, sales for the year ₹90 lakh (all on credit). Cash collected from customers during the year is:",
+"o": [
+"₹93 lakh",
+"₹90 lakh",
+"₹78 lakh",
+"₹87 lakh"
+],
+"a": 3,
+"e": "Cash collected = Opening debtors + Sales − Closing debtors = 12 + 90 − 15 = ₹87 lakh."
+},
+{
+"n": 31,
+"topic": "Capital Budgeting",
+"t": "Which capital budgeting technique explicitly considers both the time value of money and all cash flows over the life of the project?",
+"o": [
+"Payback period",
+"Accounting rate of return",
+"Net present value",
+"Simple average return"
+],
+"a": 2,
+"e": "NPV discounts every cash flow over the project's life at the cost of capital; payback ignores post-payback flows and ARR ignores timing."
+},
+{
+"n": 32,
+"topic": "Capital Budgeting",
+"t": "A project costs ₹8 lakh and is expected to generate average annual accounting profit (after depreciation) of ₹1.2 lakh over its 5-year life with no salvage value. The accounting rate of return on average investment is:",
+"o": [
+"15%",
+"12%",
+"24%",
+"30%"
+],
+"a": 3,
+"e": "Average investment = (8 + 0) ÷ 2 = ₹4 lakh. ARR = 1.2 ÷ 4 = 30%. On original investment it would be 15%."
+},
+{
+"n": 33,
+"topic": "Capital Budgeting",
+"t": "A project has a present value of cash inflows of ₹13.2 lakh and an initial investment of ₹12 lakh. Its profitability index is:",
+"o": [
+"1.10",
+"0.91",
+"1.20",
+"0.10"
+],
+"a": 0,
+"e": "Profitability index = PV of inflows ÷ Initial outlay = 13.2 ÷ 12 = 1.10; a PI above 1 means the project has a positive NPV."
+},
+{
+"n": 34,
+"topic": "Capital Budgeting",
+"t": "An insurer is evaluating a new core policy administration system costing ₹20 crore. Which of the following cash flows is relevant to the decision?",
+"o": [
+"Depreciation on the new system",
+"₹50 lakh already spent on a feasibility study",
+"Allocated share of existing head-office rent",
+"Annual saving of ₹4 crore in processing cost"
+],
+"a": 3,
+"e": "Only incremental future cash flows are relevant; depreciation is non-cash, the feasibility study is sunk, and allocated existing rent does not change with the decision."
+},
+{
+"topic": "Reinsurance",
+"t": "The obligatory cession that Indian general insurers must make to GIC Re is currently:",
+"o": [
+"4%",
+"5%",
+"10%",
+"15%"
+],
+"a": 0,
+"e": "★ Core fact (asked across III papers). The obligatory cession was reduced to 4% from 1 April 2022.",
+"r": "core",
+"n": 35
+},
+{
+"n": 36,
+"topic": "Capital Budgeting",
+"t": "A project with an initial outlay of ₹10 lakh gives cash inflows of ₹4 lakh, ₹4 lakh and ₹4 lakh at the end of years 1 to 3. At 10% (PV factors 0.909, 0.826, 0.751), the NPV is approximately:",
+"o": [
+"₹(−)5,600",
+"₹2,00,000",
+"₹(−)56,000",
+"₹9,94,400"
+],
+"a": 0,
+"e": "PV of inflows = 4,00,000 × (0.909 + 0.826 + 0.751) = 4,00,000 × 2.486 = ₹9,94,400. NPV = 9,94,400 − 10,00,000 = ₹(−)5,600, so the project should be rejected."
+},
+{
+"n": 37,
+"topic": "Responsibility Accounting and Performance Evaluation",
+"t": "Return on investment (ROI) as a divisional performance measure can be decomposed into:",
+"o": [
+"Gross margin × Debt-equity ratio",
+"Net profit margin × Asset turnover",
+"Current ratio × Quick ratio",
+"EPS × P/E ratio"
+],
+"a": 1,
+"e": "The Du Pont analysis expresses ROI = (Profit ÷ Sales) × (Sales ÷ Investment), separating profitability from asset utilisation."
+},
+{
+"n": 38,
+"topic": "Responsibility Accounting and Performance Evaluation",
+"t": "A division currently earns an ROI of 20%. Its manager is offered a project yielding 16% while the company's cost of capital is 12%. Evaluating the manager purely on ROI may lead him to:",
+"o": [
+"Accept the project, benefiting the company",
+"Reject the project even though it adds value to the company",
+"Accept the project, harming the company",
+"Be indifferent to the project"
+],
+"a": 1,
+"e": "The project would dilute the divisional ROI below 20% even though it exceeds the 12% cost of capital; this dysfunctional incentive is why residual income or EVA is preferred."
+},
+{
+"n": 39,
+"topic": "Responsibility Accounting and Performance Evaluation",
+"t": "A transfer price set at the market price of the product is most appropriate when:",
+"o": [
+"No external market exists",
+"The selling division has large idle capacity",
+"There is a competitive external market for the intermediate product",
+"Head office wants to subsidise the buying division"
+],
+"a": 2,
+"e": "Where a competitive external market exists, market-based transfer prices lead both divisions to act in the company's interest and allow fair performance evaluation."
+},
+{
+"n": 40,
+"topic": "Responsibility Accounting and Performance Evaluation",
+"t": "A division has sales of ₹200 crore, operating profit of ₹20 crore and capital employed of ₹80 crore. Its ROI is:",
+"o": [
+"10%",
+"25%",
+"40%",
+"2.5%"
+],
+"a": 1,
+"e": "ROI = Operating profit ÷ Capital employed = 20 ÷ 80 = 25%. Alternatively margin 10% × turnover 2.5 = 25%."
+},
+{
+"n": 41,
+"topic": "Working Capital and Sources of Finance",
+"t": "A conservative working capital policy is characterised by:",
+"o": [
+"Low levels of current assets financed by short-term debt",
+"High levels of current assets financed largely by long-term funds",
+"Zero inventory and nil receivables",
+"Financing fixed assets with bank overdraft"
+],
+"a": 1,
+"e": "A conservative policy holds ample liquidity and uses long-term finance for most current assets, lowering risk at the cost of lower returns."
+},
+{
+"n": 42,
+"topic": "Working Capital and Sources of Finance",
+"t": "A company's annual sales are ₹120 crore and it holds a cash operating cycle of 60 days. Assuming 360 days, the working capital needed to support the cycle is approximately:",
+"o": [
+"₹10 crore",
+"₹20 crore",
+"₹30 crore",
+"₹2 crore"
+],
+"a": 1,
+"e": "Working capital ≈ Annual sales × Cycle days ÷ 360 = 120 × 60 ÷ 360 = ₹20 crore."
+},
+{
+"n": 43,
+"topic": "Working Capital and Sources of Finance",
+"t": "Which of the following is a feature of equity share capital as a source of finance?",
+"o": [
+"Fixed rate of dividend payable every year",
+"Dividend is tax-deductible for the company",
+"It carries no obligation to pay dividend and no maturity",
+"It ranks ahead of debentures on winding up"
+],
+"a": 2,
+"e": "Equity is permanent capital with residual claims; dividend is discretionary and not deductible, and equity ranks last on winding up."
+},
+{
+"n": 44,
+"topic": "Insurance Company Accounts and Financial Reporting",
+"t": "Under IRDAI's financial statement regulations, a life insurer's revenue account (policyholders' account) is prepared in:",
+"o": [
+"Form B-RA",
+"Form A-PL",
+"Form A-RA",
+"Form B-BS"
+],
+"a": 2,
+"e": "Life insurers use Form A-RA for the policyholders' revenue account, Form A-PL for the shareholders' profit and loss account and Form A-BS for the balance sheet."
+},
+{
+"topic": "Principles",
+"t": "The principle that allows an insurer who has paid a claim to step into the insured's shoes and recover from a liable third party is:",
+"o": [
+"Contribution",
+"Subrogation",
+"Indemnity",
+"Proximate cause"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). Subrogation is a corollary of indemnity; it does not apply to life or personal accident (benefit) policies.",
+"r": "core",
+"n": 45
+},
+{
+"n": 46,
+"topic": "Insurance Company Accounts and Financial Reporting",
+"t": "Gross direct premium ₹800 crore, reinsurance accepted ₹50 crore, reinsurance ceded ₹250 crore. Net written premium is:",
+"o": [
+"₹550 crore",
+"₹600 crore",
+"₹500 crore",
+"₹1,100 crore"
+],
+"a": 1,
+"e": "Net written premium = Gross direct + Reinsurance accepted − Reinsurance ceded = 800 + 50 − 250 = ₹600 crore."
+},
+{
+"n": 47,
+"topic": "Insurance Company Accounts and Financial Reporting",
+"t": "Net written premium is ₹600 crore; the unexpired risk reserve was ₹250 crore at the beginning of the year and ₹280 crore at the end. Net earned premium is:",
+"o": [
+"₹630 crore",
+"₹600 crore",
+"₹320 crore",
+"₹570 crore"
+],
+"a": 3,
+"e": "Net earned premium = Net written premium + Opening URR − Closing URR = 600 + 250 − 280 = ₹570 crore."
+},
+{
+"n": 48,
+"topic": "Insurance Company Accounts and Financial Reporting",
+"t": "The solvency ratio of an insurer is the ratio of:",
+"o": [
+"Net premium to net worth",
+"Total assets to total liabilities",
+"Available solvency margin to required solvency margin",
+"Claims paid to premium earned"
+],
+"a": 2,
+"e": "Solvency ratio = ASM ÷ RSM; IRDAI requires insurers to maintain a control level of 1.50 (150%) at all times."
+},
+{
+"n": 49,
+"topic": "Activity Based Costing and Pricing Decisions",
+"t": "Cost-plus pricing sets the selling price by:",
+"o": [
+"Matching the competitor's price",
+"Charging what the market will bear",
+"Discounting the marginal cost",
+"Adding a mark-up to the cost of the product"
+],
+"a": 3,
+"e": "Cost-plus pricing adds a desired profit margin to full cost (or marginal cost); it is simple but ignores demand and competition."
+},
+{
+"n": 50,
+"topic": "Activity Based Costing and Pricing Decisions",
+"t": "An insurer receives a one-off offer to cover a group of 5,000 lives at ₹600 per life. Variable cost is ₹450 per life and the insurer has spare capacity; fixed costs of ₹80 lakh are already covered by existing business. Accepting the offer will:",
+"o": [
+"Reduce profit by ₹7.5 lakh",
+"Increase profit by ₹30 lakh",
+"Have no effect on profit",
+"Increase profit by ₹7.5 lakh"
+],
+"a": 3,
+"e": "With spare capacity only variable cost is relevant: contribution = (600 − 450) × 5,000 = ₹7,50,000 added to profit, since fixed costs are unaffected."
+}
+]

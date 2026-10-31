@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Introduction to Reinsurance",
+"t": "An insurer's gross loss ratio has fluctuated between 45% and 130% over five years, while its net loss ratio has stayed between 60% and 80%. This illustrates the reinsurance function of:",
+"o": [
+"Capacity",
+"Stabilisation of results",
+"Catastrophe protection only",
+"Financing of new business"
+],
+"a": 1,
+"e": "By ceding large and catastrophe losses, reinsurance smooths the cedant's net results year to year, protecting its solvency and dividend capacity."
+},
+{
+"n": 2,
+"topic": "Introduction to Reinsurance",
+"t": "A reinsurer that accepts a large share of a cedant's treaty and then retrocedes 80% of it to other reinsurers is relying on the function of:",
+"o": [
+"Coinsurance",
+"Obligatory cession",
+"Fronting",
+"Retrocession to limit its own net exposure and obtain capacity"
+],
+"a": 3,
+"e": "Retrocession is the reinsurer's own reinsurance; it allows reinsurers to accept large lines and then protect their net account, just as cedants do."
+},
+{
+"n": 3,
+"topic": "Methods of Reinsurance: Facultative and Treaty",
+"t": "'Overriding commission' in reinsurance usually refers to:",
+"o": [
+"Commission deducted from claims",
+"The broker's fee on facultative placements",
+"An additional commission paid to the cedant on business it has itself reinsured or to cover its retrocession costs",
+"Commission paid to IRDAI"
+],
+"a": 2,
+"e": "An overriding (or over-rider) commission is an extra percentage, above the original commission, allowed to the cedant to cover its own administration or paid to a reinsurer that retrocedes business."
+},
+{
+"n": 4,
+"topic": "Methods of Reinsurance: Facultative and Treaty",
+"t": "A cedant has a fire surplus treaty that excludes risks of 'petrochemical refining'. It is offered a refinery risk. The correct approach is:",
+"o": [
+"Cede it under the cat XL",
+"Decline the risk, since no reinsurance is possible",
+"Cede it to the surplus treaty regardless of the exclusion",
+"Place the whole risk above its retention facultatively, since the treaty does not cover the class"
+],
+"a": 3,
+"e": "Risks excluded from the treaty must be reinsured facultatively if the cedant wishes to write them; ceding excluded business to the treaty would breach the contract."
+},
+{
+"n": 5,
+"topic": "Proportional Reinsurance",
+"t": "Under a 50% quota share treaty with a 35% ceding commission, the cedant's net premium retained from a policy with premium ₹2 lakh is:",
+"o": [
+"₹1 lakh",
+"₹1.35 lakh",
+"₹65,000",
+"₹70,000"
+],
+"a": 0,
+"e": "The cedant retains 50% of the premium (₹1 lakh) and cedes ₹1 lakh; the commission of ₹35,000 received on the cession is income to offset acquisition costs, not retained premium."
+},
+{
+"n": 6,
+"topic": "Proportional Reinsurance",
+"t": "A surplus treaty is based on 'sum insured' while the cedant sets its retention on 'PML'. A risk has sum insured ₹20 crore and PML 25%. The cedant retains ₹1 crore (PML basis). The gross line retained in sum-insured terms is:",
+"o": [
+"₹1 crore",
+"₹4 crore",
+"₹5 crore",
+"₹20 crore"
+],
+"a": 1,
+"e": "A PML retention of ₹1 crore on a risk with PML of 25% equals a gross line of ₹1 crore ÷ 25% = ₹4 crore of sum insured; the balance of ₹16 crore is ceded."
+},
+{
+"n": 7,
+"topic": "Proportional Reinsurance",
+"t": "Which of the following is correct about the reinsurer's 'portfolio' under a quota share versus a surplus treaty?",
+"o": [
+"Under quota share the reinsurer receives only small risks",
+"Under surplus the reinsurer gets a portfolio identical to the cedant's",
+"Under quota share the reinsurer's portfolio mirrors the cedant's, whereas under surplus it is skewed towards large risks",
+"Under both treaties the reinsurer sees only large risks"
+],
+"a": 2,
+"e": "Quota share cedes the same share of every risk, so the reinsurer gets a representative cross-section; surplus cedes only the top portion of large risks, giving the reinsurer an unbalanced, large-risk portfolio."
+},
+{
+"n": 8,
+"topic": "Reinsurance Pricing",
+"t": "An XL layer of ₹5 crore in excess of ₹2 crore is quoted at a rate on line of 12%. The reinsurance premium is:",
+"o": [
+"₹84 lakh",
+"₹12 lakh",
+"₹24 lakh",
+"₹60 lakh"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). Rate on line is applied to the limit of the layer: 12% × ₹5 crore = ₹60 lakh.",
+"r": "key"
+},
+{
+"n": 9,
+"topic": "Proportional Reinsurance",
+"t": "A 'variable quota share' treaty is one where:",
+"o": [
+"The reinsurer may change its share each quarter",
+"The cedant retains nothing",
+"The commission varies with the loss ratio",
+"The cession percentage varies according to the size or class of risk within an agreed scale"
+],
+"a": 3,
+"e": "Variable quota share allows the cession percentage to increase with sum insured bands, combining the simplicity of quota share with some of the retention flexibility of surplus."
+},
+{
+"n": 10,
+"topic": "Proportional Reinsurance",
+"t": "The cedant writes a ₹3 crore risk and cedes ₹2.4 crore to its surplus treaty. Premium on the risk is ₹3 lakh. Premium ceded to the surplus treaty is:",
+"o": [
+"₹2.4 lakh",
+"₹60,000",
+"₹1.2 lakh",
+"₹3 lakh"
+],
+"a": 0,
+"e": "The cession ratio is 2.4/3 = 80%, so 80% of the original premium (₹2.4 lakh) is ceded; premium and losses follow the sum-insured proportion."
+},
+{
+"n": 11,
+"topic": "Non-Proportional Reinsurance",
+"t": "A motor third-party XL cover is ₹5 crore in excess of ₹50 lakh 'each and every loss'. In one accident a bus injures 20 persons and the total awards amount to ₹3 crore. The cedant's net loss is:",
+"o": [
+"₹3 crore",
+"₹50 lakh",
+"₹2.5 crore",
+"₹10 lakh × 20"
+],
+"a": 1,
+"e": "All claims arising from one accident under one policy constitute one loss; the cedant bears the priority of ₹50 lakh and the reinsurer pays ₹2.5 crore."
+},
+{
+"n": 12,
+"topic": "Non-Proportional Reinsurance",
+"t": "'Rate on line' is to excess of loss as which of the following is to proportional reinsurance?",
+"o": [
+"Aggregate deductible",
+"Hours clause",
+"Original premium rate shared in the cession ratio",
+"Payback period"
+],
+"a": 2,
+"e": "XL cover has its own price (rate on line applied to the limit); proportional reinsurance has no separate price, the reinsurer simply receives its share of the original premium less commission."
+},
+{
+"n": 13,
+"topic": "Non-Proportional Reinsurance",
+"t": "An insurer's cat XL retention is ₹25 crore per event with a limit of ₹200 crore and one reinstatement at 100%. Two separate floods during the year each cause net losses of ₹150 crore. After both events the cedant:",
+"o": [
+"Recovers only for the first flood",
+"Recovers ₹150 crore for each flood",
+"Recovers ₹200 crore in total",
+"Recovers ₹125 crore for each event and must pay reinstatement premium to restore cover after the first"
+],
+"a": 3,
+"e": "Each event: ₹150 cr − ₹25 cr = ₹125 cr recovery; after the first loss the cedant pays reinstatement premium pro rata to the ₹125 cr used, and the restored limit responds to the second flood."
+},
+{
+"n": 14,
+"topic": "Non-Proportional Reinsurance",
+"t": "Which of the following is a reason why a stop loss cover is generally more expensive and harder to obtain than other XL covers?",
+"o": [
+"It protects the cedant's overall result, exposing the reinsurer to the cedant's rating adequacy and expense control, with high moral hazard",
+"It is prohibited for most classes",
+"It requires reinstatements",
+"It covers only catastrophes"
+],
+"a": 0,
+"e": "Because stop loss responds to the aggregate loss ratio, the reinsurer is exposed to poor pricing and loss control by the cedant; reinsurers therefore set high attachment points and co-reinsurance."
+},
+{
+"n": 15,
+"topic": "Non-Proportional Reinsurance",
+"t": "A 'per risk' XL treaty on a fire account covers losses of ₹8 crore in excess of ₹2 crore. A factory fire destroys two separately insured neighbouring risks, with losses of ₹3 crore and ₹1.5 crore. The reinsurer pays:",
+"o": [
+"₹2.5 crore",
+"₹1 crore",
+"₹4.5 crore",
+"Nil"
+],
+"a": 1,
+"e": "Per-risk XL applies the priority to each risk separately: risk 1 recovers ₹3 cr − ₹2 cr = ₹1 crore; risk 2 (₹1.5 cr) is below the priority, so nothing is recovered on it."
+},
+{
+"n": 16,
+"topic": "Reinsurance Programme Design and Retention",
+"t": "A cedant's Board sets a rule that the net loss from a 1-in-200-year catastrophe must not exceed 10% of net worth. With net worth of ₹800 crore and a modelled 1-in-200 gross loss of ₹500 crore, the cat XL retention should not exceed:",
+"o": [
+"₹200 crore",
+"₹500 crore",
+"₹80 crore",
+"₹50 crore"
+],
+"a": 2,
+"e": "10% of ₹800 crore = ₹80 crore; the cat programme should attach at or below this level, with a limit sufficient to cover the ₹500 crore modelled loss (i.e. about ₹420 crore above the retention)."
+},
+{
+"n": 17,
+"topic": "Reinsurance Regulation in India",
+"t": "For the financial year 2025-26 the obligatory cession to GIC Re on each general insurance policy, as notified by IRDAI, is:",
+"o": [
+"5%",
+"4%",
+"10%",
+"15%"
+],
+"a": 1,
+"e": "★ Key fact (repeated across the mocks of this paper). The obligatory cession was reduced from 5% to 4% with effect from FY 2022-23 and has been continued at 4% for subsequent years including 2025-26.",
+"r": "key"
+},
+{
+"n": 18,
+"topic": "Reinsurance Programme Design and Retention",
+"t": "The 'cession rate' or ratio of ceded premium to gross premium is a measure that a regulator uses to judge:",
+"o": [
+"The reinsurer's solvency",
+"The broker's efficiency",
+"The hours clause",
+"Whether the cedant retains an adequate share of its business or is acting mainly as a front"
+],
+"a": 3,
+"e": "A very high cession ratio suggests the insurer is passing most risk (and premium) abroad; IRDAI's regulations push cedants to maximise retention within the country commensurate with their strength."
+},
+{
+"n": 19,
+"topic": "Reinsurance Programme Design and Retention",
+"t": "Which of the following is NOT a consideration in choosing between proportional and non-proportional covers for a class?",
+"o": [
+"The name of the cedant's auditor",
+"The need for commission income to finance growth",
+"Whether the main exposure is from large individual risks or from accumulation of events",
+"The administrative capability to make individual cessions"
+],
+"a": 0,
+"e": "Programme design weighs financing needs, the nature of exposures, administration and cost; the identity of the auditor has no bearing on the structure."
+},
+{
+"n": 20,
+"topic": "Reinsurance Programme Design and Retention",
+"t": "An insurer has a quota share treaty, a surplus treaty and a risk XL. The usual order in which a loss on a large risk is applied is:",
+"o": [
+"Risk XL, then surplus, then quota share",
+"Surplus cession, then quota share on the retained portion, then risk XL on the net retention",
+"Quota share only",
+"Risk XL on the gross loss"
+],
+"a": 1,
+"e": "Proportional cessions (surplus and quota share) are applied first to arrive at the cedant's net retained loss; the risk XL, protecting the net account, responds last."
+},
+{
+"n": 21,
+"topic": "Reinsurance Pricing",
+"t": "A reinsurer prices a layer of ₹10 crore xs ₹5 crore. The cedant's five-year as-if losses to the layer total ₹4 crore and five-year as-if GNPI is ₹200 crore. Using a 100/80 loading, the rate is:",
+"o": [
+"4.0%",
+"2.0%",
+"2.5%",
+"1.6%"
+],
+"a": 2,
+"e": "Burning cost = 4/200 = 2%; loaded by 100/80 gives 2.5% of GNPI."
+},
+{
+"n": 22,
+"topic": "Reinsurance Pricing",
+"t": "Which of the following would most likely INCREASE the rate on line quoted for a catastrophe layer?",
+"o": [
+"Reducing the cedant's exposure in cyclone zones",
+"Buying a lower limit",
+"Raising the retention of the cedant",
+"Higher loss experience in the global cat market and reduced retrocession capacity"
+],
+"a": 3,
+"e": "Cat pricing is cyclical: after major global losses, reinsurer capital and retro capacity shrink and rates on line rise even for cedants with no losses."
+},
+{
+"n": 23,
+"topic": "Reinsurance Pricing",
+"t": "A 'minimum and deposit premium' of ₹2 crore with a rate of 4% on GNPI is agreed. Actual GNPI is ₹40 crore. The adjustment at year end is:",
+"o": [
+"No adjustment, as 4% × ₹40 crore equals the minimum",
+"₹2 crore additional premium",
+"₹40 lakh additional premium payable by the cedant",
+"₹40 lakh refund to the cedant"
+],
+"a": 0,
+"e": "4% × ₹40 crore = ₹1.6 crore, which is below the minimum of ₹2 crore; the minimum applies, so no refund is made and no further premium is due."
+},
+{
+"n": 24,
+"topic": "Reinsurance Pricing",
+"t": "The 'reinstatement premium' for a cat layer of ₹100 crore after a loss of ₹40 crore, where the annual premium is ₹8 crore and reinstatement is at 100% pro rata as to amount only, is:",
+"o": [
+"₹8 crore",
+"₹3.2 crore",
+"₹4 crore",
+"₹40 lakh"
+],
+"a": 1,
+"e": "Reinstatement premium = annual premium × (amount reinstated ÷ limit) = ₹8 crore × 40/100 = ₹3.2 crore."
+},
+{
+"n": 25,
+"topic": "Reinsurance Pricing",
+"t": "In the exposure rating method for property XL, the key input provided by the cedant is:",
+"o": [
+"The names of the cedant's largest policyholders",
+"A list of brokers",
+"A risk profile showing the number of risks, sums insured and premium in each sum-insured band",
+"The management expense ratio"
+],
+"a": 2,
+"e": "Exposure rating applies first-loss scales to the risk profile (sum insured bands with premium) to estimate what share of premium relates to the layer being priced."
+},
+{
+"n": 26,
+"topic": "Reinsurance Accounting",
+"t": "Under a proportional treaty on a 'clean cut' basis, the incoming reinsurer receives a 'loss portfolio' entry representing:",
+"o": [
+"Its share of premium",
+"A reserve of its own profit",
+"Commission on past business",
+"Its share of outstanding losses as at the date of entry, with liability for their settlement"
+],
+"a": 3,
+"e": "With a loss portfolio transfer the incoming reinsurer is credited with an amount equal to its share of outstanding losses and takes over liability for them, releasing the outgoing reinsurer."
+},
+{
+"n": 27,
+"topic": "Reinsurance Accounting",
+"t": "A premium reserve deposit of 40% was retained on ceded premium of ₹5 crore in Q1 of 2024-25 with interest at 5% p.a. The amount released in Q1 of 2025-26, including interest, is:",
+"o": [
+"₹2.1 crore",
+"₹2.5 crore",
+"₹5.25 crore",
+"₹2 crore"
+],
+"a": 0,
+"e": "Deposit = 40% × ₹5 crore = ₹2 crore; interest for one year at 5% = ₹10 lakh; total released ₹2.1 crore."
+},
+{
+"n": 28,
+"topic": "Reinsurance Pricing",
+"t": "Losses to an XL layer over the last 5 years total ₹6 crore and the gross net premium income (GNPI) of the protected account over the same years was ₹150 crore. The unloaded burning cost is:",
+"o": [
+"0.4%",
+"2.5%",
+"4%",
+"6%"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). Burning cost = ₹6 crore ÷ ₹150 crore = 4% of GNPI; this is then loaded (e.g. × 100/70) and adjusted for trends before quoting.",
+"r": "key"
+},
+{
+"n": 29,
+"topic": "Reinsurance Accounting",
+"t": "The difference between 'accounting year' and 'underwriting year' bases of treaty accounts is important for:",
+"o": [
+"Determining the hours clause",
+"Calculating profit commission and attributing losses to the correct treaty year",
+"Fixing the obligatory cession",
+"Setting the reinsurer's credit rating"
+],
+"a": 1,
+"e": "Profit commission and loss allocation depend on which year's account a transaction is booked to; underwriting-year accounting keeps each year open, while accounting-year (clean-cut) closes years with portfolio transfers."
+},
+{
+"n": 30,
+"topic": "Reinsurance Accounting",
+"t": "Which of the following items would be shown as a DEBIT to the reinsurer (i.e. due from the reinsurer) in a proportional treaty account?",
+"o": [
+"Interest received on deposits",
+"Premium ceded",
+"Commission on ceded premium and the reinsurer's share of paid claims",
+"Premium reserve released"
+],
+"a": 2,
+"e": "In the cedant's statement, premium ceded and reserves released are credits to the reinsurer; commission, claims paid and reserves retained are debits reducing the balance payable to it."
+},
+{
+"n": 31,
+"topic": "Reinsurance Claims",
+"t": "Under the 'losses occurring during' basis of an XL treaty, the reinsurer is liable for:",
+"o": [
+"Losses paid during the treaty period only",
+"Losses reported during the treaty period only",
+"Losses on policies attaching during the treaty period, whenever they occur",
+"Losses occurring during the treaty period, whatever the inception date of the original policy"
+],
+"a": 3,
+"e": "LOD treaties respond to loss events within the treaty year irrespective of policy attachment; this contrasts with risks-attaching (policies-issued) and claims-made bases."
+},
+{
+"n": 32,
+"topic": "Reinsurance Claims",
+"t": "Under a proportional treaty, a claim notified in the quarterly account is paid by the reinsurer:",
+"o": [
+"Immediately on notification",
+"As part of the net balance settled for that quarter, unless the cash loss provision applies",
+"Only after inspection of records",
+"At the end of the treaty year"
+],
+"a": 1,
+"e": "Routine claims flow through the quarterly account and are offset against premiums; only losses above the cash loss limit are settled on demand."
+},
+{
+"n": 33,
+"topic": "Reinsurance Claims",
+"t": "The cedant pays an original claim of ₹12 crore and incurs ₹80 lakh in legal costs. Its risk XL is ₹10 crore xs ₹5 crore and UNL includes loss expenses. The recovery is:",
+"o": [
+"₹12.8 crore",
+"₹7 crore",
+"₹7.8 crore",
+"₹10 crore"
+],
+"a": 2,
+"e": "UNL = ₹12 crore + ₹0.8 crore = ₹12.8 crore; recovery = ₹12.8 crore − ₹5 crore priority = ₹7.8 crore, within the ₹10 crore limit."
+},
+{
+"n": 34,
+"topic": "Treaty Wordings and Clauses",
+"t": "A 'claims-made' basis in a liability reinsurance treaty means the reinsurer covers:",
+"o": [
+"Claims paid during the treaty period",
+"Only claims admitted by the reinsurer",
+"Losses occurring during the treaty period",
+"Claims first made against the insured and notified during the treaty period, regardless of when the event occurred"
+],
+"a": 3,
+"e": "Claims-made covers attach on the date the claim is made/notified, limiting the reinsurer's long-tail exposure for liability classes; retroactive dates and extended reporting periods are usually specified."
+},
+{
+"topic": "Insurance Act 1938 – key sections",
+"t": "Nomination and assignment of a life insurance policy are governed respectively by which sections of the Insurance Act 1938?",
+"o": [
+"Sections 39 and 38",
+"Sections 38 and 39",
+"Sections 41 and 45",
+"Sections 45 and 41"
+],
+"a": 0,
+"e": "★ Core fact (asked across III papers). Section 39 deals with nomination; Section 38 with assignment and transfer.",
+"r": "core",
+"n": 35
+},
+{
+"n": 36,
+"topic": "Treaty Wordings and Clauses",
+"t": "The 'notice of loss' or 'loss advice' provision in a cat XL treaty typically requires the cedant to:",
+"o": [
+"Advise the reinsurer promptly of any event likely to produce a claim on the treaty and keep it informed of developments",
+"Wait until the loss is fully paid",
+"Advise losses only through IRDAI",
+"Advise every loss regardless of size"
+],
+"a": 0,
+"e": "Reinsurers need early notice to reserve and to decide on involvement; wordings require advice of any occurrence likely to involve the treaty, often with a threshold such as 50% of the priority."
+},
+{
+"n": 37,
+"topic": "Treaty Wordings and Clauses",
+"t": "A treaty is written 'for a period of 12 months at 1 April 2025 with provisional notice of cancellation'. Provisional notice of cancellation (PNOC) is used to:",
+"o": [
+"Terminate the treaty immediately",
+"Preserve either party's right to renegotiate terms at renewal, without necessarily ending the relationship",
+"Allow the cedant to cease cessions mid-year",
+"Notify IRDAI of termination"
+],
+"a": 1,
+"e": "PNOC, served before the notice deadline, keeps renewal options open; it is commonly withdrawn once renewal terms are agreed, and is not a final cancellation."
+},
+{
+"n": 38,
+"topic": "Treaty Wordings and Clauses",
+"t": "The 'honourable engagement' wording in an arbitration clause means that arbitrators:",
+"o": [
+"Must find in favour of the cedant",
+"Must apply strict rules of law and evidence",
+"May interpret the treaty according to custom and practice of the reinsurance market rather than strictly legal construction",
+"Must refer the dispute to IRDAI"
+],
+"a": 2,
+"e": "Reinsurance arbitration traditionally treats the contract as an honourable engagement, allowing arbitrators with market experience to decide according to commercial practice and the parties' intent."
+},
+{
+"n": 39,
+"topic": "Reinsurance Market and Intermediaries",
+"t": "Which of the following is correct about GIC Re's status in the Indian market?",
+"o": [
+"It is a subsidiary of LIC",
+"It writes only life reinsurance",
+"It is the only entity permitted to accept reinsurance in India",
+"It is the designated Indian reinsurer receiving obligatory cessions and is listed on Indian stock exchanges since 2017"
+],
+"a": 3,
+"e": "GIC Re is the national reinsurer entitled to obligatory cessions; it was listed in October 2017 through an IPO, and FRBs and other licensed Indian reinsurers may also accept business in India."
+},
+{
+"n": 40,
+"topic": "Reinsurance Market and Intermediaries",
+"t": "The 'security committee' of a cedant or broker performs the function of:",
+"o": [
+"Assessing the financial strength and acceptability of reinsurers before business is placed with them",
+"Investigating claims fraud",
+"Approving the hours clause",
+"Fixing commission rates"
+],
+"a": 0,
+"e": "Security committees review reinsurers' ratings, solvency, ownership and payment record, and set limits per reinsurer to manage counterparty credit risk."
+},
+{
+"n": 41,
+"topic": "Reinsurance Market and Intermediaries",
+"t": "A reinsurance intermediary 'placing on a net basis' means:",
+"o": [
+"The reinsurer pays brokerage separately",
+"Brokerage is deducted from the premium before remittance to the reinsurer",
+"No brokerage is paid",
+"The cedant pays brokerage to the reinsurer"
+],
+"a": 1,
+"e": "In reinsurance, brokerage (typically a percentage of premium) is usually deducted by the broker from the premium it passes to the reinsurer, so the reinsurer receives the net amount."
+},
+{
+"n": 42,
+"topic": "Reinsurance Regulation in India",
+"t": "Under the IRDAI (Re-insurance) Regulations, 2018, the retention requirement is that every Indian insurer shall:",
+"o": [
+"Retain only motor business",
+"Retain all business within India",
+"Maintain the maximum possible retention commensurate with its financial strength, quality of risks and volume of business",
+"Retain not more than 10% of each risk"
+],
+"a": 2,
+"e": "The regulations require cedants to maximise retention consistent with capital and portfolio, and to justify their retention levels in the programme filed with IRDAI."
+},
+{
+"n": 43,
+"topic": "Reinsurance Regulation in India",
+"t": "Under the IRDAI framework, a cedant placing business with a CBR must ensure, in addition to rating and solvency, that the CBR:",
+"o": [
+"Has a nominee on the cedant's Board",
+"Accepts the obligatory cession",
+"Has an office in Mumbai",
+"Is regulated by its home supervisor and has been transacting reinsurance business for a minimum number of years, with no history of unpaid Indian claims"
+],
+"a": 3,
+"e": "CBR eligibility requires home-country supervision, a track record of reinsurance business, minimum solvency and a satisfactory past record in settling claims of Indian cedants."
+},
+{
+"n": 44,
+"topic": "Reinsurance Regulation in India",
+"t": "IRDAI's regulations require the cedant's reinsurance programme to be approved by:",
+"o": [
+"The cedant's Board of Directors",
+"GIC Re",
+"The Reinsurance Advisory Committee",
+"The cedant's auditors"
+],
+"a": 0,
+"e": "Board approval ensures accountability for retention policy and reinsurer security; the Board-approved programme is then filed with IRDAI in the prescribed timeframe."
+},
+{
+"n": 45,
+"topic": "Reinsurance Regulation in India",
+"t": "Which of the following is correct regarding 'Lloyd's India' under the Insurance Act, 1938?",
+"o": [
+"It is treated as a Cross Border Reinsurer",
+"It is registered as a branch of Lloyd's and treated similarly to a Foreign Reinsurance Branch in the order of preference",
+"It can write direct policies to Indian consumers",
+"It replaces GIC Re as the Indian reinsurer"
+],
+"a": 1,
+"e": "Lloyd's India is a reinsurance branch recognised under the 2015 amendment and ranked with FRBs in the IRDAI order of preference, ahead of cross-border reinsurers."
+},
+{
+"topic": "IRDAI – regulator",
+"t": "IRDAI was constituted under the:",
+"o": [
+"Insurance Act 1938",
+"IRDA Act 1999",
+"General Insurance Business (Nationalisation) Act 1972",
+"LIC Act 1956"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). The IRDA Act 1999 established the Authority; it began functioning in April 2000 and is headquartered in Hyderabad.",
+"r": "core",
+"n": 46
+},
+{
+"n": 47,
+"topic": "Reinsurance Regulation in India",
+"t": "The obligatory cession notification by IRDAI typically specifies, apart from the percentage, that GIC Re shall pay the cedant:",
+"o": [
+"A commission equal to the broker's fee",
+"No commission",
+"A minimum commission depending on class of business, with the overall commission to be mutually agreed",
+"A fixed commission of 50%"
+],
+"a": 2,
+"e": "The annual obligatory cession notification prescribes minimum commission rates by class (lower for motor TP and oil/energy, higher for other classes) and allows higher rates by mutual agreement."
+},
+{
+"n": 48,
+"topic": "Alternative Risk Transfer and Life Reinsurance",
+"t": "Catastrophe bonds are typically issued through a:",
+"o": [
+"Government agency",
+"Captive insurer",
+"Reinsurance broker",
+"Special purpose vehicle (SPV) which holds investor funds in collateral trust and issues the reinsurance contract to the cedant"
+],
+"a": 3,
+"e": "The SPV sits between the cedant and investors: it collects bond proceeds, invests them in safe collateral and pays the cedant if the trigger is met, otherwise returns principal to investors."
+},
+{
+"n": 49,
+"topic": "Alternative Risk Transfer and Life Reinsurance",
+"t": "'Basis risk' in alternative risk transfer refers to:",
+"o": [
+"The risk that the payout under an index or parametric trigger does not match the cedant's actual loss",
+"The risk that premiums are too low",
+"The risk of currency fluctuation",
+"The risk that the reinsurer becomes insolvent"
+],
+"a": 0,
+"e": "Non-indemnity triggers pay on an index or parameter; the cedant can suffer a large loss without a payout (or vice versa), which is basis risk, the price paid for transparency and speed."
+},
+{
+"n": 50,
+"topic": "Alternative Risk Transfer and Life Reinsurance",
+"t": "Which of the following best describes a 'finite quota share' used by an insurer to support its solvency?",
+"o": [
+"A quota share with an unusually high reinsurer liability",
+"A quota share with a capped reinsurer liability and large ceding commission, providing surplus relief with limited risk transfer",
+"A quota share placed only with GIC Re",
+"A quota share covering only catastrophe losses"
+],
+"a": 1,
+"e": "Finite quota shares deliver capital relief through commission and ceded premium while the reinsurer's downside is limited by loss ratio caps and loss carry-forwards; regulators scrutinise the degree of risk transfer."
+}
+]

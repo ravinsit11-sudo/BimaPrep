@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Asset Liability Management",
+"t": "A life insurer has liabilities with a duration of 12 years and assets with a duration of 7 years. If interest rates fall sharply, the most likely consequence is:",
+"o": [
+"Liabilities rise in value more than assets, weakening the insurer's surplus",
+"Assets rise in value more than liabilities, strengthening the surplus",
+"Both assets and liabilities fall in value by the same proportion",
+"There is no effect because the insurer holds the bonds to maturity"
+],
+"a": 0,
+"e": "Price sensitivity rises with duration. With liability duration (12) exceeding asset duration (7), a rate fall increases the present value of liabilities more than that of assets, creating a duration gap loss."
+},
+{
+"n": 2,
+"topic": "Asset Liability Management",
+"t": "Under the IRDAI framework, the ALM policy of an insurer must be approved by:",
+"o": [
+"The Appointed Actuary alone",
+"The custodian of the insurer",
+"The Board of Directors of the insurer",
+"The Life Insurance Council"
+],
+"a": 2,
+"e": "IRDAI requires the Board to approve the ALM policy; the Appointed Actuary and the ALM/Risk committee implement and report on it, but the Board owns it."
+},
+{
+"n": 3,
+"topic": "Investment Alternatives",
+"t": "Which of the following investment avenues carries the lowest default (credit) risk for an Indian insurer?",
+"o": [
+"AA-rated corporate non-convertible debentures",
+"Equity shares of a Nifty 50 company",
+"Dated securities of the Central Government",
+"Commercial paper of a non-banking financial company"
+],
+"a": 2,
+"e": "Central Government securities are backed by the sovereign and are treated as free of default risk; corporate paper, NCDs and equity all carry issuer risk."
+},
+{
+"n": 4,
+"topic": "Investment Alternatives",
+"t": "An insurer wants an instrument that provides regular income, is listed, and gives exposure to completed income-generating infrastructure projects. The most suitable alternative is:",
+"o": [
+"Units of an equity index fund",
+"Units of an Infrastructure Investment Trust (InvIT)",
+"A 91-day Treasury Bill",
+"A fixed deposit with a scheduled commercial bank"
+],
+"a": 1,
+"e": "InvITs pool completed, revenue-earning infrastructure assets and distribute most of their cash flows to unit holders; IRDAI permits insurers to invest in listed REITs/InvITs within limits."
+},
+{
+"n": 5,
+"topic": "Security Market Analysis",
+"t": "The market in which existing securities are bought and sold among investors, without the issuer receiving any funds, is called the:",
+"o": [
+"Secondary market",
+"Primary market",
+"Money market",
+"Derivatives market"
+],
+"a": 0,
+"e": "The secondary market provides liquidity by letting investors trade securities already issued; fresh issues where the issuer receives money happen in the primary market."
+},
+{
+"n": 6,
+"topic": "Security Market Analysis",
+"t": "Which body regulates the securities market in India, including stock exchanges and mutual funds?",
+"o": [
+"Reserve Bank of India (RBI)",
+"Insurance Regulatory and Development Authority of India (IRDAI)",
+"Ministry of Corporate Affairs (MCA)",
+"Securities and Exchange Board of India (SEBI)"
+],
+"a": 3,
+"e": "SEBI, under the SEBI Act 1992, regulates stock exchanges, intermediaries and mutual funds. RBI regulates banks and the government securities market; IRDAI regulates insurers."
+},
+{
+"n": 7,
+"topic": "Fundamental Analysis",
+"t": "In fundamental analysis, the 'top-down' approach examines, in order:",
+"o": [
+"The company, then the industry, then the economy",
+"Price charts, then volumes, then moving averages",
+"The economy, then the industry, then the company",
+"The dividend, then the earnings, then the book value"
+],
+"a": 2,
+"e": "Top-down (EIC) analysis starts with macro-economic conditions, narrows to industry prospects and finally to company-specific factors; bottom-up reverses the order."
+},
+{
+"n": 8,
+"topic": "Asset Liability Management",
+"t": "A bond has a modified duration of 6 years and is priced at ₹1,020. If yields rise by 50 basis points, the approximate new price is:",
+"o": [
+"₹1,050.60",
+"₹1,014.90",
+"₹959.00",
+"₹989.40"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). Percentage price change ≈ −Modified duration × Δy = −6 × 0.005 = −3%. New price ≈ 1,020 × (1 − 0.03) = ₹989.40.",
+"r": "key"
+},
+{
+"n": 9,
+"topic": "Fundamental Analysis",
+"t": "A company has net profit of ₹240 crore and 60 crore equity shares outstanding. Its share trades at ₹120. The price-earnings (P/E) ratio is:",
+"o": [
+"4",
+"0.5",
+"20",
+"30"
+],
+"a": 3,
+"e": "EPS = 240/60 = ₹4; P/E = Price/EPS = 120/4 = 30 times."
+},
+{
+"n": 10,
+"topic": "Technical Analysis",
+"t": "Technical analysis differs from fundamental analysis in that it:",
+"o": [
+"Uses balance sheet data to compute the intrinsic value of a share",
+"Relies solely on macro-economic forecasts of GDP and inflation",
+"Is used only for government securities and never for equities",
+"Studies past price and volume patterns to forecast future prices rather than the intrinsic value of the security"
+],
+"a": 3,
+"e": "Technical analysts believe market action discounts everything and that price trends repeat, so they study charts and volumes; fundamental analysis looks at financial and economic data."
+},
+{
+"n": 11,
+"topic": "Technical Analysis",
+"t": "In charting, a 'support level' is a price level at which:",
+"o": [
+"Buying interest is strong enough to halt a decline in price",
+"Selling pressure is strong enough to stop a price rise",
+"Trading is suspended by the exchange",
+"The 200-day moving average always crosses the 50-day average"
+],
+"a": 0,
+"e": "Support is where demand historically absorbs supply and prices stop falling; resistance is the mirror image where supply halts a rise."
+},
+{
+"n": 12,
+"topic": "Portfolio Management",
+"t": "The sequence of steps in the portfolio management process is best described as:",
+"o": [
+"Buying securities, then deciding the investor's objectives, then measuring risk",
+"Evaluating performance first, then setting objectives based on past returns",
+"Setting objectives and constraints, forming a policy, constructing the portfolio, monitoring and revising it, and evaluating performance",
+"Constructing the portfolio once and never revising it"
+],
+"a": 2,
+"e": "Portfolio management is a continuous cycle that begins with objectives and constraints (the investment policy statement) and ends with evaluation that feeds back into revision."
+},
+{
+"n": 13,
+"topic": "Portfolio Management",
+"t": "Which of the following is a constraint, rather than an objective, in an insurer's investment policy statement?",
+"o": [
+"Target return of 8% per annum on the policyholders' fund",
+"Regulatory limits on the pattern of investment",
+"Maximising risk-adjusted return",
+"Achieving capital appreciation on the equity portfolio"
+],
+"a": 1,
+"e": "Objectives concern return and risk targets; constraints are limits such as liquidity, time horizon, tax, legal/regulatory requirements and unique circumstances."
+},
+{
+"n": 14,
+"topic": "IRDAI Investment Regulations",
+"t": "Under the IRDAI (Investment) Regulations, 2016, a life insurer must invest at least what percentage of its life fund (other than pension, annuity and unit-linked funds) in Central Government securities?",
+"o": [
+"15%",
+"40%",
+"50%",
+"25%"
+],
+"a": 3,
+"e": "The pattern for the life fund requires not less than 25% in Central Government securities, and not less than 50% in Central Government, State Government and other approved securities taken together."
+},
+{
+"n": 15,
+"topic": "IRDAI Investment Regulations",
+"t": "For the life fund, the minimum combined holding in Central Government securities, State Government securities and other approved securities prescribed by the IRDAI Investment Regulations is:",
+"o": [
+"25%",
+"50%",
+"30%",
+"75%"
+],
+"a": 1,
+"e": "The regulation sets a floor of 50% for government and other approved securities (including the 25% in Central Government securities) for the life fund."
+},
+{
+"n": 16,
+"topic": "IRDAI Investment Regulations",
+"t": "A life insurer is required to invest a minimum of 15% of its life fund in:",
+"o": [
+"Equity shares of listed companies",
+"Units of mutual funds",
+"Fixed deposits of scheduled banks",
+"Housing and infrastructure investments"
+],
+"a": 3,
+"e": "Life insurers must place not less than 15% of the life fund in approved housing and infrastructure investments; there is no minimum for equity, mutual funds or bank deposits."
+},
+{
+"n": 17,
+"topic": "IRDAI Investment Regulations",
+"t": "The investment pattern for a general insurer's investment assets under the IRDAI Investment Regulations requires a minimum of 20% in Central Government securities and a minimum of what percentage in Central and State Government securities together?",
+"o": [
+"30%",
+"50%",
+"25%",
+"40%"
+],
+"a": 0,
+"e": "For general, health and reinsurance businesses the floors are 20% in Central Government securities and 30% in Central plus State Government securities, with 15% in housing and infrastructure."
+},
+{
+"n": 18,
+"topic": "Fundamental Analysis",
+"t": "A company has total debt of ₹600 crore and shareholders' equity of ₹400 crore. Its debt-equity ratio is:",
+"o": [
+"1.5",
+"0.67",
+"0.6",
+"2.5"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). Debt-equity ratio = Total debt / Shareholders' equity = 600/400 = 1.5, indicating relatively high leverage.",
+"r": "key"
+},
+{
+"n": 19,
+"topic": "IRDAI Investment Regulations",
+"t": "An insurer's investment assets are ₹20,000 crore. Its investment policy must be approved by the Board and its investment operations overseen by an Investment Committee. Which of the following officers is NOT a mandatory member of the Investment Committee under IRDAI regulations?",
+"o": [
+"The Company Secretary",
+"The Chief Executive Officer",
+"The Appointed Actuary",
+"The Chief Investment Officer"
+],
+"a": 0,
+"e": "IRDAI requires the Investment Committee to include at least two non-executive directors, the CEO, CFO, CIO, Chief Risk Officer and the Appointed Actuary; the Company Secretary is not a prescribed member."
+},
+{
+"n": 20,
+"topic": "Solvency and Prudential Norms",
+"t": "The 'control level of solvency' prescribed by IRDAI, below which the Authority may initiate regulatory action against an insurer, is a solvency ratio of:",
+"o": [
+"100%",
+"150%",
+"200%",
+"125%"
+],
+"a": 1,
+"e": "Insurers must maintain a solvency ratio (available solvency margin divided by required solvency margin) of at least 1.5, i.e. 150%, at all times."
+},
+{
+"n": 21,
+"topic": "Solvency and Prudential Norms",
+"t": "An insurer's Available Solvency Margin is ₹1,800 crore and its Required Solvency Margin is ₹1,000 crore. The solvency ratio is:",
+"o": [
+"55.6%",
+"80%",
+"180%",
+"1.8%"
+],
+"a": 2,
+"e": "Solvency ratio = ASM / RSM = 1,800 / 1,000 = 1.80 or 180%, which is above the 150% control level."
+},
+{
+"n": 22,
+"topic": "Fixed Income and Money Market Instruments",
+"t": "A 10-year Government of India security carries a coupon of 7.26% payable half-yearly on a face value of ₹100. The coupon received every six months per ₹100 face value is:",
+"o": [
+"₹7.26",
+"₹1.815",
+"₹3.63",
+"₹14.52"
+],
+"a": 2,
+"e": "G-sec coupons are paid semi-annually, so each payment is half the annual rate: 7.26/2 = ₹3.63 per ₹100 face value."
+},
+{
+"n": 23,
+"topic": "Fixed Income and Money Market Instruments",
+"t": "Treasury Bills issued by the Government of India are available in which of the following tenors?",
+"o": [
+"30 days, 60 days and 90 days",
+"1 year, 2 years and 3 years",
+"7 days, 14 days and 28 days",
+"91 days, 182 days and 364 days"
+],
+"a": 3,
+"e": "RBI auctions T-Bills on behalf of the Central Government in 91-, 182- and 364-day maturities; they are zero-coupon instruments issued at a discount."
+},
+{
+"n": 24,
+"topic": "Fixed Income and Money Market Instruments",
+"t": "A bond's current yield is computed as:",
+"o": [
+"Annual coupon divided by the current market price",
+"Annual coupon divided by the face value",
+"Market price divided by the annual coupon",
+"Yield to maturity minus the coupon rate"
+],
+"a": 0,
+"e": "Current yield = annual coupon / market price. Coupon divided by face value is simply the coupon rate; YTM additionally accounts for capital gain or loss to maturity."
+},
+{
+"n": 25,
+"topic": "Fixed Income and Money Market Instruments",
+"t": "Which money market instrument is issued by corporates with a high credit rating as an unsecured promissory note, with a minimum tenor of 7 days?",
+"o": [
+"Commercial paper",
+"Certificate of deposit",
+"Treasury bill",
+"Call money"
+],
+"a": 0,
+"e": "Commercial paper is unsecured short-term paper issued by eligible corporates, PDs and FIs; certificates of deposit are issued by banks, T-bills by the government and call money is inter-bank overnight lending."
+},
+{
+"n": 26,
+"topic": "Risk and Return",
+"t": "The total risk of a security as measured by the standard deviation of its returns can be split into:",
+"o": [
+"Credit risk and reinvestment risk only",
+"Systematic risk and unsystematic risk",
+"Inflation risk and tax risk only",
+"Liquidity risk and currency risk only"
+],
+"a": 1,
+"e": "Total risk = systematic (market) risk, which cannot be diversified away, plus unsystematic (firm-specific) risk, which diversification eliminates."
+},
+{
+"n": 27,
+"topic": "Risk and Return",
+"t": "A share bought at ₹400 paid a dividend of ₹10 during the year and was sold at ₹450. The holding period return is:",
+"o": [
+"12.5%",
+"2.5%",
+"15%",
+"17.5%"
+],
+"a": 2,
+"e": "HPR = (Sale price − Purchase price + Dividend)/Purchase price = (450 − 400 + 10)/400 = 60/400 = 15%."
+},
+{
+"n": 28,
+"topic": "Fixed Income and Money Market Instruments",
+"t": "A 91-day Treasury Bill of face value ₹100 is purchased at ₹98.40. The annualised yield (on a 365-day basis) is approximately:",
+"o": [
+"1.60%",
+"5.87%",
+"6.52%",
+"6.42%"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). Yield = (100 − P)/P × 365/91 = (1.60/98.40) × 4.011 = 0.01626 × 4.011 = 6.52%.",
+"r": "key"
+},
+{
+"n": 29,
+"topic": "Risk and Return",
+"t": "Security X has an expected return of 12% with standard deviation 6%; Security Y has an expected return of 18% with standard deviation 12%. Using the coefficient of variation, which security carries less risk per unit of return?",
+"o": [
+"Y, because its coefficient of variation (0.67) is higher than X's (0.50)",
+"Both carry equal risk per unit of return",
+"X, because its coefficient of variation (0.50) is lower than Y's (0.67)",
+"Y, because its expected return is higher"
+],
+"a": 2,
+"e": "CV = standard deviation / expected return: X = 6/12 = 0.50, Y = 12/18 = 0.67. A lower CV means less risk per unit of expected return, so X is preferable on this measure."
+},
+{
+"n": 30,
+"topic": "Portfolio Theory and CAPM",
+"t": "According to the Capital Asset Pricing Model, the expected return on a security equals:",
+"o": [
+"Risk-free rate + Standard deviation × Market return",
+"Expected market return − Beta × Risk-free rate",
+"Dividend yield + Growth rate",
+"Risk-free rate + Beta × (Expected market return − Risk-free rate)"
+],
+"a": 3,
+"e": "CAPM prices only systematic risk: E(R) = Rf + β(Rm − Rf). Dividend yield plus growth is the dividend discount model, not CAPM."
+},
+{
+"n": 31,
+"topic": "Portfolio Theory and CAPM",
+"t": "The risk-free rate is 6.5% and the expected market return is 12.5%. A stock with a beta of 1.4 should, under CAPM, have an expected return of:",
+"o": [
+"17.5%",
+"14.9%",
+"12.5%",
+"8.4%"
+],
+"a": 1,
+"e": "E(R) = 6.5 + 1.4 × (12.5 − 6.5) = 6.5 + 1.4 × 6 = 6.5 + 8.4 = 14.9%."
+},
+{
+"n": 32,
+"topic": "Portfolio Theory and CAPM",
+"t": "In Markowitz portfolio theory, the risk reduction from combining two securities is greatest when the correlation coefficient between their returns is:",
+"o": [
+"+1",
+"−1",
+"0",
+"+0.5"
+],
+"a": 1,
+"e": "Diversification benefit rises as correlation falls; at perfect negative correlation (−1) it is possible to construct a portfolio with zero risk. At +1 there is no risk reduction."
+},
+{
+"n": 33,
+"topic": "Performance Measurement",
+"t": "A fund earned 14% over the year with a standard deviation of 10%; the risk-free rate was 6%. Its Sharpe ratio is:",
+"o": [
+"1.40",
+"0.60",
+"0.80",
+"1.25"
+],
+"a": 2,
+"e": "Sharpe ratio = (Rp − Rf)/σp = (14 − 6)/10 = 0.80. It measures excess return per unit of total risk."
+},
+{
+"n": 34,
+"topic": "Performance Measurement",
+"t": "The Treynor ratio differs from the Sharpe ratio in that it measures excess return per unit of:",
+"o": [
+"Total risk (standard deviation) rather than systematic risk (beta)",
+"Unsystematic risk rather than systematic risk",
+"Credit risk rather than market risk",
+"Systematic risk (beta) rather than total risk (standard deviation)"
+],
+"a": 3,
+"e": "Treynor = (Rp − Rf)/β uses beta; Sharpe uses standard deviation. Treynor suits well-diversified portfolios where only market risk matters."
+},
+{
+"n": 35,
+"topic": "Equity Management",
+"t": "The Gordon (constant growth) dividend discount model values a share as:",
+"o": [
+"Current dividend multiplied by the required return",
+"Earnings per share multiplied by the growth rate",
+"Next year's dividend divided by (required return minus growth rate)",
+"Book value per share plus retained earnings"
+],
+"a": 2,
+"e": "P0 = D1/(k − g), valid when the required return k exceeds the constant growth rate g."
+},
+{
+"n": 36,
+"topic": "Equity Management",
+"t": "A company is expected to pay a dividend of ₹6 next year, dividends are expected to grow at 5% per annum indefinitely and the investor's required return is 11%. The intrinsic value of the share is:",
+"o": [
+"₹54.55",
+"₹120",
+"₹60",
+"₹100"
+],
+"a": 3,
+"e": "P0 = D1/(k − g) = 6/(0.11 − 0.05) = 6/0.06 = ₹100."
+},
+{
+"n": 37,
+"topic": "Mutual Funds",
+"t": "The Net Asset Value (NAV) per unit of a mutual fund scheme is computed as:",
+"o": [
+"Total premium collected/Number of unit holders",
+"Face value of units + Entry load",
+"(Market value of scheme assets − Liabilities)/Number of units outstanding",
+"Market value of assets/Number of unit holders"
+],
+"a": 2,
+"e": "NAV = net assets (market value of investments plus receivables less accrued expenses and liabilities) divided by units outstanding, computed daily for open-ended schemes."
+},
+{
+"topic": "Intermediaries",
+"t": "The qualifying examination for an individual insurance agent conducted by the Insurance Institute of India is:",
+"o": [
+"IC-01",
+"IC-38",
+"IC-14",
+"IC-33"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). IC-38 is the agents' pre-recruitment examination; IC-01/02/11/14 are Licentiate papers.",
+"r": "core",
+"n": 38
+},
+{
+"n": 39,
+"topic": "Mutual Funds",
+"t": "A mutual fund scheme that allows investors to buy and redeem units from the fund at NAV-based prices on any business day, with no fixed maturity, is a:",
+"o": [
+"Close-ended scheme",
+"Exchange traded fund only",
+"Open-ended scheme",
+"Fixed maturity plan"
+],
+"a": 2,
+"e": "Open-ended schemes offer continuous sale and repurchase at NAV; close-ended schemes and FMPs have a fixed corpus and tenure and trade on the exchange after the initial offer."
+},
+{
+"n": 40,
+"topic": "Derivatives",
+"t": "A contract that gives the holder the right, but not the obligation, to buy an underlying asset at a specified price on or before a specified date is a:",
+"o": [
+"Put option",
+"Forward contract",
+"Interest rate swap",
+"Call option"
+],
+"a": 3,
+"e": "A call option confers the right to buy; a put confers the right to sell. Forwards and swaps are obligations on both parties."
+},
+{
+"n": 41,
+"topic": "Derivatives",
+"t": "Which of the following distinguishes a futures contract from a forward contract?",
+"o": [
+"Futures are privately negotiated and carry higher counterparty risk",
+"Futures are exchange-traded, standardised and settled daily through mark-to-market margins",
+"Forwards are guaranteed by a clearing corporation while futures are not",
+"Forwards require daily margin payments while futures do not"
+],
+"a": 1,
+"e": "Futures are standardised, exchange-traded and cleared through a clearing corporation with daily mark-to-market; forwards are bilateral OTC contracts with counterparty risk."
+},
+{
+"n": 42,
+"topic": "Valuation of Securities",
+"t": "A 3-year bond of face value ₹1,000 pays an annual coupon of 8%. If the market yield for similar bonds is 10%, the bond will trade:",
+"o": [
+"Below par, because the coupon is lower than the market yield",
+"Above par, because the coupon is lower than the market yield",
+"At par, because the face value is fixed",
+"Above par, because the bond has three years to maturity"
+],
+"a": 0,
+"e": "When the required yield exceeds the coupon rate the bond sells at a discount; the price would be about ₹950 (PV of three ₹80 coupons and ₹1,000 at 10%)."
+},
+{
+"topic": "Intermediaries",
+"t": "A corporate agent may tie up with a maximum of how many insurers in each line of business?",
+"o": [
+"3",
+"6",
+"9",
+"Unlimited"
+],
+"a": 2,
+"e": "★ Core fact (asked across III papers). Raised from 3 to 9 insurers per category (life, general, health) by the 2022 amendment to the Corporate Agents Regulations.",
+"r": "core",
+"n": 43
+},
+{
+"n": 44,
+"topic": "Valuation of Securities",
+"t": "A zero-coupon bond of face value ₹1,000 matures in 2 years. If the required yield is 8% per annum compounded annually, its price today is approximately:",
+"o": [
+"₹926",
+"₹857",
+"₹840",
+"₹1,000"
+],
+"a": 1,
+"e": "Price = 1,000/(1.08)^2 = 1,000/1.1664 = ₹857.34. Discounting for one year only would give ₹926."
+},
+{
+"n": 45,
+"topic": "Valuation of Securities",
+"t": "Under IRDAI accounting norms, debt securities held by a life insurer in the non-linked funds and classified as held to maturity are valued at:",
+"o": [
+"Last traded market price",
+"Amortised cost",
+"Face value regardless of purchase price",
+"Lower of cost or market value"
+],
+"a": 1,
+"e": "Debt securities in non-linked funds are carried at amortised cost (premium or discount amortised over the remaining term); equity is at fair value and ULIP assets at market value."
+},
+{
+"n": 46,
+"topic": "ULIP Fund Management and NAV",
+"t": "The NAV of a unit-linked fund on a valuation date is calculated as:",
+"o": [
+"(Market value of investments + current assets − current liabilities and provisions)/Number of units outstanding",
+"Total premiums received/Number of policies in force",
+"(Market value of investments + fund management charge)/Number of units",
+"Sum assured/Number of units outstanding"
+],
+"a": 0,
+"e": "IRDAI's ULIP regulations define NAV as net fund assets at market value divided by the units existing on the valuation date before any creation or redemption of units."
+},
+{
+"n": 47,
+"topic": "ULIP Fund Management and NAV",
+"t": "A ULIP policyholder holds 2,500 units in an equity fund whose NAV is ₹38.40. The fund value of the policy is:",
+"o": [
+"₹65,104",
+"₹1,06,000",
+"₹38,400",
+"₹96,000"
+],
+"a": 3,
+"e": "Fund value = units × NAV = 2,500 × 38.40 = ₹96,000."
+},
+{
+"n": 48,
+"topic": "ULIP Fund Management and NAV",
+"t": "Under IRDAI's unit-linked product regulations, the fund management charge on a unit-linked fund cannot exceed:",
+"o": [
+"1.35% per annum of the fund value",
+"2.50% per annum of the fund value",
+"0.50% per annum of the fund value",
+"5% of each premium paid"
+],
+"a": 0,
+"e": "The FMC is capped at 1.35% per annum of the fund value, charged daily through the NAV; the discontinued policy fund has a lower cap of 0.50%."
+},
+{
+"n": 49,
+"topic": "Forex and International Investments",
+"t": "If the exchange rate moves from ₹82 per US dollar to ₹85 per US dollar, the rupee has:",
+"o": [
+"Appreciated against the dollar",
+"Depreciated against the dollar",
+"Remained unchanged in real terms",
+"Been revalued by the RBI"
+],
+"a": 1,
+"e": "More rupees are now needed to buy one dollar, so the rupee has weakened (depreciated) and the dollar has strengthened."
+},
+{
+"n": 50,
+"topic": "Forex and International Investments",
+"t": "Under Section 27E of the Insurance Act, 1938, an insurer is prohibited from:",
+"o": [
+"Investing in Central Government securities",
+"Directly or indirectly investing policyholders' funds outside India",
+"Holding more than 10% of its funds in equity shares",
+"Appointing a custodian for its securities"
+],
+"a": 1,
+"e": "Section 27E bars insurers from investing policyholders' funds outside India; this is why Indian insurers' portfolios are almost entirely domestic."
+}
+]

@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Introduction",
+"t": "Which statement about group insurance is INCORRECT?",
+"o": [
+"Group term cover is normally renewable annually",
+"The master policyholder receives the policy and members receive certificates",
+"Group insurance pools risk over a large number of lives, lowering cost",
+"Each member of a group term scheme holds a separate contract with the insurer"
+],
+"a": 3,
+"e": "There is only one contract, between the insurer and the master policyholder. Members are beneficiaries under the master policy and hold certificates, not individual contracts."
+},
+{
+"n": 2,
+"topic": "Product Guideline",
+"t": "In a non-employer-employee group policy, IRDAI's guidelines require claim payments to be made:",
+"o": [
+"Directly to the member or the nominee (or, with safeguards, through the master policyholder as a pass-through) and never retained by the organiser",
+"Only to the group organiser, who distributes them at its discretion",
+"To the reinsurer for onward payment",
+"In instalments over five years"
+],
+"a": 0,
+"e": "The guidelines are designed to ensure benefits reach the member or nominee; the organiser cannot retain or appropriate any part of the claim."
+},
+{
+"n": 3,
+"topic": "Product Guideline",
+"t": "IRDAI guidelines require that any discount offered on a group policy because of the group's size or experience should:",
+"o": [
+"Be reflected in the premium rate charged, and not paid as cash or kind to the group organiser",
+"Be paid to the group organiser as an administrative fee",
+"Be retained by the insurer in a special reserve",
+"Be shared equally between the insurer and the intermediary"
+],
+"a": 0,
+"e": "Group discounts must benefit the members through lower premium; paying them to the organiser would amount to an unregulated inducement."
+},
+{
+"n": 4,
+"topic": "Product Guideline",
+"t": "A fund-based variable group product declares an 'additional interest rate' at the end of the financial year. Under IRDAI's norms this additional interest is:",
+"o": [
+"Payable only if the employer makes a fresh contribution",
+"Deducted from the policy account to cover expenses",
+"Credited to the policy account in addition to the minimum floor rate guaranteed under the policy, based on the fund's actual earnings",
+"Paid in cash to the employer"
+],
+"a": 2,
+"e": "Variable group products carry a guaranteed minimum floor rate and a non-guaranteed additional interest declared from investment performance; both accrue to the policy account held for the members' benefit."
+},
+{
+"n": 5,
+"topic": "Product Guideline",
+"t": "Which of the following groups would NOT be eligible for a group insurance policy under IRDAI guidelines?",
+"o": [
+"Members of a registered professional association",
+"Customers of a bank holding savings accounts",
+"Employees of a hospital",
+"A set of unrelated individuals brought together by an agent solely to obtain cheaper insurance"
+],
+"a": 3,
+"e": "A group must exist for a purpose other than buying insurance. Associations, bank customers and employees are legitimate groups; an ad hoc collection formed only for insurance is not."
+},
+{
+"n": 6,
+"topic": "Product Guideline",
+"t": "Under IRDAI norms, the commission or remuneration payable on a group insurance policy to an intermediary:",
+"o": [
+"Is unlimited since the premium is large",
+"Cannot exceed the limits prescribed under the regulations on payment of commission or remuneration",
+"Is fixed at 35% of first-year premium",
+"Must be paid by the master policyholder"
+],
+"a": 1,
+"e": "Group business is subject to the same regulatory ceilings on commission and remuneration; insurers may not pay the organiser or intermediary beyond those limits in any form."
+},
+{
+"n": 7,
+"topic": "Product Design and Schemes",
+"t": "A member of a defined benefit superannuation scheme is entitled to a pension of 1/60th of final pensionable salary for each year of service. With 30 years of service and final pensionable salary of ₹90,000 per month, the monthly pension is:",
+"o": [
+"₹30,000",
+"₹60,000",
+"₹45,000",
+"₹27,000"
+],
+"a": 2,
+"e": "Pension = 30/60 × ₹90,000 = ₹45,000 per month. In a DB scheme the employer must fund whatever is needed to secure this benefit."
+},
+{
+"n": 8,
+"topic": "Product Design and Schemes",
+"t": "A 'joint life last survivor' annuity purchased from a superannuation fund provides that:",
+"o": [
+"Annuity is paid for a fixed term of 20 years only",
+"Annuity stops on the death of the member and the purchase price is refunded",
+"Annuity is paid in a lump sum to both spouses at retirement",
+"Annuity continues (in full or a stated proportion) to the surviving spouse after the member's death, for the spouse's lifetime"
+],
+"a": 3,
+"e": "Last-survivor annuities protect the spouse's income; they pay a lower rate than a single-life annuity because the expected payment period is longer."
+},
+{
+"n": 9,
+"topic": "Product Design and Schemes",
+"t": "A 'hybrid' or cash balance pension scheme is best described as one in which:",
+"o": [
+"The member has a notional account credited with contributions and a guaranteed rate, but the employer bears the investment risk of meeting that guarantee",
+"The benefit is a pure final-salary formula",
+"The member bears all investment and annuity risk",
+"The scheme is funded entirely by the employees"
+],
+"a": 0,
+"e": "Hybrid schemes combine DC-style individual accounts with DB-style guarantees on the credited rate, so risk is shared between employer and member."
+},
+{
+"n": 10,
+"topic": "Tax Aspects of Group & Retirement Benefit Schemes",
+"t": "An employer's contribution to an approved gratuity fund is allowed as a business deduction under which section of the Income-tax Act, 1961?",
+"o": [
+"Section 36(1)(iv)",
+"Section 80C",
+"Section 40A(7)",
+"Section 36(1)(v)"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). Section 36(1)(v) allows contributions to an approved gratuity fund created under an irrevocable trust. Section 36(1)(iv) relates to recognised PF and approved superannuation funds, and Section 40A(7) disallows mere provisions for gratuity.",
+"r": "key"
+},
+{
+"n": 11,
+"topic": "Product Design and Schemes",
+"t": "Which rider is most commonly attached to an employer-employee group term policy?",
+"o": [
+"Waiver of premium on maturity",
+"Accidental death benefit rider paying an additional sum on death by accident",
+"Loyalty addition rider",
+"Guaranteed surrender value rider"
+],
+"a": 1,
+"e": "Group term schemes frequently add accidental death and disability benefits (and sometimes critical illness) at a small extra premium; term covers have no maturity or surrender value."
+},
+{
+"n": 12,
+"topic": "Product Design and Schemes",
+"t": "A 'conversion option' under a group term policy allows a member who leaves the group to:",
+"o": [
+"Convert his PF balance into an annuity",
+"Transfer his cover to another employee",
+"Take an individual policy from the same insurer within a specified period without fresh medical underwriting, usually up to the group sum assured",
+"Continue in the group policy by paying premium directly to the master policyholder"
+],
+"a": 2,
+"e": "The conversion privilege protects members whose health has deteriorated; because of anti-selection, insurers restrict the amount and the period within which the option must be exercised."
+},
+{
+"n": 13,
+"topic": "Tax Aspects of Group & Retirement Benefit Schemes",
+"t": "The employee's own contribution to an approved superannuation fund qualifies for deduction under:",
+"o": [
+"Section 80CCD(1B)",
+"Section 10(13)",
+"Section 36(1)(iv)",
+"Section 80C, within the overall ceiling of ₹1.5 lakh under Section 80CCE"
+],
+"a": 3,
+"e": "Section 80C(2)(vii) covers an employee's contribution to an approved superannuation fund. Section 36(1)(iv) is the employer's deduction and 10(13) exempts payments from the fund."
+},
+{
+"n": 14,
+"topic": "Tax Aspects of Group & Retirement Benefit Schemes",
+"t": "The monthly pension (annuity) received by a retired employee from an approved superannuation fund or from EPS 1995 is:",
+"o": [
+"Fully exempt from income-tax",
+"Taxable in the hands of the employee under the head 'Salaries'",
+"Taxable at a flat 10%",
+"Exempt up to ₹25 lakh"
+],
+"a": 1,
+"e": "Uncommuted pension is taxable as salary (with standard deduction available). Only the commuted portion enjoys exemption within the prescribed limits."
+},
+{
+"n": 15,
+"topic": "Tax Aspects of Group & Retirement Benefit Schemes",
+"t": "A non-government employee retires with 300 days of accumulated leave after 15 years' service; average salary of the last 10 months is ₹50,000 per month and he receives ₹6 lakh as leave encashment. The exempt amount under Section 10(10AA) is:",
+"o": [
+"₹5 lakh",
+"₹6 lakh",
+"₹25 lakh",
+"₹7.5 lakh"
+],
+"a": 0,
+"e": "Cash equivalent of leave (max 30 days per year = 450 days; actual 300 days) = 300/30 × ₹50,000 = ₹5 lakh; 10 months' salary = ₹5 lakh; ceiling ₹25 lakh; actual ₹6 lakh. Least = ₹5 lakh, so ₹1 lakh is taxable."
+},
+{
+"n": 16,
+"topic": "Tax Aspects of Group & Retirement Benefit Schemes",
+"t": "The employer's contribution to a recognised provident fund is taxable as a perquisite in the employee's hands to the extent it exceeds:",
+"o": [
+"8.33% of salary",
+"10% of salary",
+"12% of salary",
+"15% of salary"
+],
+"a": 2,
+"e": "Rule 6 of Part A of the Fourth Schedule treats employer contribution above 12% of salary as taxable; interest credited above the notified rate (9.5%) is also taxable."
+},
+{
+"n": 17,
+"topic": "Tax Aspects of Group & Retirement Benefit Schemes",
+"t": "From FY 2021-22, interest on an employee's own contribution to EPF is taxable if the contribution in a year exceeds:",
+"o": [
+"₹2.5 lakh (₹5 lakh where there is no employer contribution)",
+"₹1.5 lakh",
+"₹7.5 lakh",
+"₹10 lakh"
+],
+"a": 0,
+"e": "The Finance Act, 2021 made interest on employee PF contributions above ₹2.5 lakh per year taxable, with a higher ₹5 lakh threshold for funds without employer contribution (e.g. GPF)."
+},
+{
+"n": 18,
+"topic": "Tax Aspects of Group & Retirement Benefit Schemes",
+"t": "The deduction for the Central Government's contribution to the NPS account of its employee under Section 80CCD(2) is limited to:",
+"o": [
+"10% of salary",
+"12% of salary",
+"20% of gross total income",
+"14% of salary (basic plus DA)"
+],
+"a": 3,
+"e": "Section 80CCD(2) allows 14% of salary for Central Government (and, by extension, State Government) employer contributions; for other employers it is 10%, raised to 14% under the new tax regime from FY 2024-25."
+},
+{
+"n": 19,
+"topic": "Social Security Schemes",
+"t": "The annual premium for Pradhan Mantri Suraksha Bima Yojana (PMSBY), which provides ₹2 lakh accidental death and total disability cover, is:",
+"o": [
+"₹12",
+"₹100",
+"₹436",
+"₹20"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). PMSBY premium was raised from ₹12 to ₹20 per annum from June 2022. It covers persons aged 18 to 70 for ₹2 lakh on accidental death or total disability and ₹1 lakh for partial disability.",
+"r": "key"
+},
+{
+"n": 20,
+"topic": "AS 15 (Revised) and Ind AS 19",
+"t": "Under Ind AS 19, plan assets of a funded gratuity scheme are measured at:",
+"o": [
+"Historical cost",
+"Book value in the trustees' accounts",
+"Fair value at the reporting date",
+"Contributions paid less benefits paid"
+],
+"a": 2,
+"e": "Plan assets (including qualifying insurance policies) are measured at fair value and deducted from the obligation to arrive at the net defined benefit liability or asset."
+},
+{
+"n": 21,
+"topic": "AS 15 (Revised) and Ind AS 19",
+"t": "Which of the following is classified as an 'other long-term employee benefit' rather than a post-employment benefit?",
+"o": [
+"Long-service award payable after completing 20 years while in service",
+"Gratuity on retirement",
+"Pension from a superannuation fund",
+"Post-retirement medical benefit"
+],
+"a": 0,
+"e": "Benefits payable during employment but not within 12 months (long-service awards, sabbatical leave, long-term compensated absences) are other long-term benefits; the other three are post-employment benefits."
+},
+{
+"n": 22,
+"topic": "AS 15 (Revised) and Ind AS 19",
+"t": "Ind AS 19 requires, in addition to the disclosures under AS 15, a sensitivity analysis showing:",
+"o": [
+"The number of employees who resigned during the year",
+"The effect on the defined benefit obligation of reasonably possible changes in each significant actuarial assumption",
+"The insurer's solvency ratio",
+"The age of the oldest employee"
+],
+"a": 1,
+"e": "Ind AS 19 expands disclosure to include sensitivity of the DBO to changes in discount rate, salary growth and other key assumptions, plus the maturity profile of the obligation."
+},
+{
+"n": 23,
+"topic": "Investment Pattern for Retirement Benefit Schemes",
+"t": "Trustees of an approved gratuity fund invest the entire fund in a group gratuity policy of a life insurer. Which statement is correct?",
+"o": [
+"This violates Rule 67 because insurance policies are not permitted investments",
+"Such a contribution to an insurer's group policy is a permitted mode of investment, and the underlying investments are then governed by IRDAI's investment regulations",
+"The trustees must still hold 50% in government securities directly",
+"The fund loses its approval under Part C"
+],
+"a": 1,
+"e": "The notified pattern permits trustees to invest in insurer-managed gratuity or superannuation policies; the insurer then invests the pooled fund as per IRDAI norms."
+},
+{
+"n": 24,
+"topic": "Investment Pattern for Retirement Benefit Schemes",
+"t": "Under the 2015 Ministry of Finance investment pattern for non-government retirement funds, the band for Government securities and related investments is:",
+"o": [
+"25% to 35%",
+"35% to 45%",
+"45% to 50%",
+"60% to 75%"
+],
+"a": 2,
+"e": "Government securities 45-50%; debt instruments and term deposits 35-45%; short-term debt 0-5%; equity 5-15%; asset-backed and infrastructure trusts 0-5%."
+},
+{
+"n": 25,
+"topic": "Investment Pattern for Retirement Benefit Schemes",
+"t": "The rate of interest declared by EPFO on provident fund accumulations for the financial year 2024-25 was:",
+"o": [
+"8.10%",
+"8.25%",
+"8.50%",
+"8.65%"
+],
+"a": 1,
+"e": "The Central Board of Trustees retained 8.25% for 2024-25, the same as for 2023-24; 8.15% applied for 2022-23 and 8.10% for 2021-22."
+},
+{
+"n": 26,
+"topic": "Retirement Benefit Schemes",
+"t": "The statutory wage ceiling for contributions to the Employees' Pension Scheme, 1995 (in force since 1 September 2014) is:",
+"o": [
+"₹6,500 per month",
+"₹10,000 per month",
+"₹15,000 per month",
+"₹21,000 per month"
+],
+"a": 2,
+"e": "The ceiling was raised from ₹6,500 to ₹15,000 in September 2014; EPS contribution of 8.33% is computed on wages up to this limit unless the member has opted for higher pension."
+},
+{
+"n": 27,
+"topic": "Retirement Benefit Schemes",
+"t": "An employee's basic wages are ₹30,000 per month. The employer's contribution to the Employees' Deposit Linked Insurance scheme for him is:",
+"o": [
+"₹150",
+"₹125",
+"₹30",
+"₹75"
+],
+"a": 3,
+"e": "EDLI contribution is 0.5% of wages subject to the ₹15,000 ceiling: 0.5% × ₹15,000 = ₹75. The employee contributes nothing to EDLI."
+},
+{
+"n": 28,
+"topic": "Retirement Benefit Schemes",
+"t": "Under the Payment of Gratuity Act, the employer must pay gratuity within what period from the date it becomes payable, failing which simple interest is payable?",
+"o": [
+"30 days",
+"15 days",
+"60 days",
+"90 days"
+],
+"a": 0,
+"e": "Section 7(3) requires payment within 30 days; on delay the employer pays simple interest at the rate notified by the Central Government (10% per annum), unless the delay is due to the employee's fault."
+},
+{
+"n": 29,
+"topic": "AS 15 (Revised) and Ind AS 19",
+"t": "A company's gratuity plan has a defined benefit obligation of ₹150 lakh and plan assets of ₹120 lakh at the start of the year. With a discount rate of 7%, the net interest cost to be charged to profit or loss under Ind AS 19 is:",
+"o": [
+"₹10.5 lakh",
+"₹8.4 lakh",
+"₹30 lakh",
+"₹2.1 lakh"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). Ind AS 19 applies the discount rate to the net defined benefit liability: (150 − 120) × 7% = ₹2.1 lakh. Under AS 15 interest cost (₹10.5 lakh) and expected return on plan assets would be shown separately.",
+"r": "key"
+},
+{
+"n": 30,
+"topic": "Retirement Benefit Schemes",
+"t": "Under which circumstance may an employer wholly forfeit an employee's gratuity under Section 4(6) of the Payment of Gratuity Act?",
+"o": [
+"The employee resigns without serving notice",
+"The employee's services are terminated for riotous or disorderly conduct or an offence involving moral turpitude committed in the course of employment",
+"The employee joins a competitor after leaving",
+"The employee has less than 10 years of service"
+],
+"a": 1,
+"e": "Full forfeiture is allowed only for termination due to riotous/disorderly conduct, violence or moral turpitude offences. For wilful damage to property, forfeiture is limited to the extent of the loss caused."
+},
+{
+"n": 31,
+"topic": "Retirement Benefit Schemes",
+"t": "The minimum monthly member's pension guaranteed under the Employees' Pension Scheme, 1995 (since September 2014) is:",
+"o": [
+"₹500",
+"₹2,000",
+"₹3,000",
+"₹1,000"
+],
+"a": 3,
+"e": "The Government guarantees a minimum pension of ₹1,000 per month under EPS, funded through budgetary support where the formula pension falls short."
+},
+{
+"n": 32,
+"topic": "Retirement Benefit Schemes",
+"t": "Partial withdrawal from NPS Tier I is permitted for specified purposes (such as children's education, house purchase or critical illness) subject to which limits?",
+"o": [
+"Up to 50% of the total corpus at any time",
+"Up to 25% of the subscriber's own contributions, after 3 years of joining, up to 3 times during the subscription period",
+"Up to 10% of the corpus once every year",
+"Full withdrawal after 5 years"
+],
+"a": 1,
+"e": "PFRDA permits partial withdrawals of up to 25% of own contributions (excluding employer contribution and returns), after three years, a maximum of three times; such withdrawals are tax-exempt."
+},
+{
+"n": 33,
+"topic": "Retirement Benefit Schemes",
+"t": "For an employee of a seasonal establishment, gratuity under the Payment of Gratuity Act is computed at the rate of:",
+"o": [
+"15 days' wages for each season",
+"7 days' wages for each season",
+"30 days' wages for each season",
+"10 days' wages for each season"
+],
+"a": 1,
+"e": "Section 4(2) provides 15 days' wages per completed year for ordinary employees but 7 days' wages for each season for employees of seasonal establishments who are not employed throughout the year."
+},
+{
+"n": 34,
+"topic": "Valuation of Liabilities",
+"t": "In the valuation of a defined benefit obligation, 'interest cost' represents:",
+"o": [
+"The increase in the obligation because the benefits are one year closer to payment, i.e. the unwinding of the discount",
+"The interest earned on plan assets during the year",
+"The penalty payable for delayed gratuity",
+"The interest declared by the insurer on the policy account"
+],
+"a": 0,
+"e": "Interest cost = opening DBO × discount rate (adjusted for benefit payments). It arises simply because of the passage of time, not because of any new service."
+},
+{
+"n": 35,
+"topic": "Valuation of Liabilities",
+"t": "At the valuation date a gratuity scheme has a defined benefit obligation of ₹200 lakh and plan assets (an insurer's policy account) of ₹150 lakh. The employer's balance sheet will show:",
+"o": [
+"An asset of ₹50 lakh",
+"No liability since the scheme is funded",
+"A net defined benefit liability of ₹50 lakh",
+"A liability of ₹200 lakh"
+],
+"a": 2,
+"e": "The funded status is DBO less fair value of plan assets = ₹200 lakh − ₹150 lakh = ₹50 lakh deficit, recognised as a net liability."
+},
+{
+"n": 36,
+"topic": "Valuation of Liabilities",
+"t": "AS 15 (Revised) relaxes the requirement to use the Projected Unit Credit method with actuarial valuation for:",
+"o": [
+"All listed companies",
+"Enterprises employing fewer than 50 persons, which may use any other rational method of accrual",
+"Banks and insurance companies",
+"Enterprises with turnover above ₹50 crore"
+],
+"a": 1,
+"e": "AS 15 provides relaxations for small and medium-sized enterprises; in particular, an enterprise with fewer than 50 employees may accrue the liability by a rational method instead of a full actuarial valuation."
+},
+{
+"n": 37,
+"topic": "Valuation of Liabilities",
+"t": "Which of the following is a 'demographic' rather than a 'financial' assumption in an actuarial valuation of employee benefits?",
+"o": [
+"Discount rate",
+"Salary escalation rate",
+"Expected return on plan assets",
+"Rate of employee withdrawal (attrition)"
+],
+"a": 3,
+"e": "Demographic assumptions describe the future of the workforce (mortality, withdrawal, disability, retirement age); financial assumptions concern money (discount rate, salary growth, asset returns)."
+},
+{
+"topic": "Health insurance norms",
+"t": "The maximum waiting period for pre-existing diseases in health insurance, after the 2024 IRDAI changes, is:",
+"o": [
+"24 months",
+"36 months",
+"48 months",
+"60 months"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). Reduced from 48 to 36 months; the moratorium period after which claims cannot be contested (except fraud) is 60 months.",
+"r": "core",
+"n": 38
+},
+{
+"n": 39,
+"topic": "Group Insurance - Administration, Claims and Renewals",
+"t": "A group term policy earned premium of ₹10 lakh and incurred claims of ₹7.5 lakh during the year. The claims ratio is:",
+"o": [
+"133%",
+"75%",
+"25%",
+"7.5%"
+],
+"a": 1,
+"e": "Claims ratio = incurred claims ÷ earned premium = 7.5 ÷ 10 = 75%. This is the key figure used in experience rating at renewal."
+},
+{
+"n": 40,
+"topic": "Group Insurance - Administration, Claims and Renewals",
+"t": "If the renewal premium of a group term policy is not paid on the due date, the usual practice of life insurers is to:",
+"o": [
+"Cancel the policy immediately with no cover for claims after the due date",
+"Pay claims only after IRDAI approval",
+"Convert the policy into a paid-up policy",
+"Allow a grace period (commonly 30 days) during which cover continues and claims are paid subject to deduction of premium due"
+],
+"a": 3,
+"e": "A grace period protects members from inadvertent lapse of cover; if premium is still unpaid at the end of the grace period, the cover ceases."
+},
+{
+"n": 41,
+"topic": "Group Insurance - Administration, Claims and Renewals",
+"t": "At renewal, the insurer finds that a group of 200 lives had three deaths in the year against an expected 0.8. Which action is most consistent with sound group practice?",
+"o": [
+"Decline to renew the policy under any circumstances",
+"Re-rate the premium taking into account both the group's own experience and the insurer's standard rates, giving credibility to the group's experience according to its size",
+"Charge the full actual claims as premium for the next year",
+"Retain the same premium since group rates cannot change"
+],
+"a": 1,
+"e": "Small groups have volatile experience; insurers blend actual experience with standard rates using credibility weights that increase with group size, rather than reacting fully to one year's claims."
+},
+{
+"n": 42,
+"topic": "Group Insurance - Administration, Claims and Renewals",
+"t": "Which of the following documents evidences the cover of an individual member under a group policy and is useful at the time of a claim?",
+"o": [
+"The certificate of insurance issued to the member",
+"The insurer's annual report",
+"The employer's board resolution",
+"The reinsurance treaty"
+],
+"a": 0,
+"e": "The certificate of insurance states the member's name, sum assured, nominee and commencement date, and is the member-level proof of cover under the master policy."
+},
+{
+"n": 43,
+"topic": "Reinsurance for Group Insurance",
+"t": "Under the IRDAI (Re-insurance) Regulations, 2018, every insurer must file its reinsurance programme for the coming financial year with IRDAI:",
+"o": [
+"Within 90 days after the end of the financial year",
+"At least 45 days before the commencement of the financial year",
+"Only when a new treaty is signed",
+"Every five years"
+],
+"a": 1,
+"e": "The regulations require the Board-approved reinsurance programme to be filed at least 45 days before the start of the financial year, with the final treaty slips filed within 30 days of commencement."
+},
+{
+"n": 44,
+"topic": "Reinsurance for Group Insurance",
+"t": "Group term business is usually reinsured on which basis?",
+"o": [
+"Yearly renewable term (risk premium) basis, where the reinsurer charges a mortality rate on the sum at risk",
+"Original terms with the reinsurer sharing surrender values",
+"Stop-loss on the insurer's entire life fund",
+"Financial reinsurance to boost solvency"
+],
+"a": 0,
+"e": "Since group term has no savings element, risk-premium (YRT) reinsurance matching the sum at risk is the natural fit, with the insurer retaining the expense loadings."
+},
+{
+"n": 45,
+"topic": "Administration of Retirement Benefit Schemes",
+"t": "An establishment running its own provident fund trust exempted under Section 17 of the EPF & MP Act must, among other conditions:",
+"o": [
+"Pay interest to members at a rate not lower than that declared by EPFO, with any shortfall made good by the employer",
+"Invest only in the employer's own debentures",
+"Stop contributing to EPS 1995",
+"Obtain IRDAI registration as a pension fund"
+],
+"a": 0,
+"e": "Exempted trusts must match or exceed the EPFO rate, follow the notified investment pattern and file returns; EPS contributions still go to EPFO since EPS cannot be exempted."
+},
+{
+"topic": "Intermediaries",
+"t": "The qualifying examination for an individual insurance agent conducted by the Insurance Institute of India is:",
+"o": [
+"IC-01",
+"IC-38",
+"IC-14",
+"IC-33"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). IC-38 is the agents' pre-recruitment examination; IC-01/02/11/14 are Licentiate papers.",
+"r": "core",
+"n": 46
+},
+{
+"n": 47,
+"topic": "Administration of Retirement Benefit Schemes",
+"t": "The trustees of an approved superannuation fund are required to:",
+"o": [
+"Distribute surplus of the fund to the employer every year",
+"Pay the pension from the employer's bank account",
+"Obtain a licence from IRDAI to receive contributions",
+"Submit annual returns and accounts of the fund to the prescribed income-tax authority and ensure contributions are used only for the fund's objects"
+],
+"a": 3,
+"e": "Continued approval depends on trustees furnishing returns, keeping the fund separate from the employer and applying it solely for the beneficiaries. Surplus cannot be returned to the employer."
+},
+{
+"n": 48,
+"topic": "Social Security Schemes",
+"t": "Under PMJJBY, a new enrollee is not covered for death from natural causes during the first:",
+"o": [
+"30 days from enrolment (lien period); accidental death is covered from day one",
+"90 days from enrolment",
+"6 months from enrolment",
+"1 year from enrolment"
+],
+"a": 0,
+"e": "A 30-day lien period applies to fresh enrolments to curb anti-selection by persons already seriously ill; death due to accident is covered from the date of enrolment."
+},
+{
+"n": 49,
+"topic": "Social Security Schemes",
+"t": "The monthly contribution payable by an 18-year-old joining Atal Pension Yojana for a guaranteed pension of ₹5,000 per month is:",
+"o": [
+"₹42",
+"₹126",
+"₹210",
+"₹1,454"
+],
+"a": 2,
+"e": "At entry age 18, contributions are ₹42 per month per ₹1,000 of pension, so ₹210 for ₹5,000. Contributions rise steeply with entry age (₹1,454 at age 40)."
+},
+{
+"n": 50,
+"topic": "Social Security Schemes",
+"t": "The Maternity Benefit Act, 1961 as amended in 2017 provides paid maternity leave for the first two children of:",
+"o": [
+"12 weeks",
+"26 weeks",
+"16 weeks",
+"52 weeks"
+],
+"a": 1,
+"e": "The 2017 amendment increased paid leave from 12 to 26 weeks for the first two surviving children (12 weeks for the third child onwards and for adopting or commissioning mothers)."
+}
+]

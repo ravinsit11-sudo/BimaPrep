@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Business Enterprise and Its Environment",
+"t": "Which form of business organisation has unlimited liability for its owner and is unsuitable for carrying on insurance business?",
+"o": [
+"Sole proprietorship",
+"Public limited company",
+"Cooperative society",
+"Statutory corporation"
+],
+"a": 0,
+"e": "Insurance requires permanence and large capital with limited liability; sole proprietorships and partnerships cannot be registered as insurers under Section 2C of the Insurance Act."
+},
+{
+"n": 2,
+"topic": "Business Enterprise and Its Environment",
+"t": "The primary responsibility for an insurer's strategy and oversight of management rests with its:",
+"o": [
+"Appointed Actuary",
+"Chief Agency Officer",
+"Statutory auditor",
+"Board of Directors"
+],
+"a": 3,
+"e": "The board sets strategy, risk appetite and governance; the Appointed Actuary and auditors have specialised oversight roles but do not direct the enterprise."
+},
+{
+"n": 3,
+"topic": "Business Enterprise and Its Environment",
+"t": "Which of the following is NOT typically considered a function of a business enterprise's 'social responsibility'?",
+"o": [
+"Fair treatment of policyholders",
+"Compliance with environmental norms",
+"Maximising short-term share price by any means",
+"Supporting community welfare through CSR spending"
+],
+"a": 2,
+"e": "Social responsibility balances profit with obligations to customers, employees, community and environment; pursuing share price 'by any means' contradicts it."
+},
+{
+"n": 4,
+"topic": "Economic Foundations – Some Concepts",
+"t": "Net National Product (NNP) at market prices equals:",
+"o": [
+"GNP minus depreciation",
+"GDP plus depreciation",
+"GDP minus indirect taxes",
+"GNP plus net factor income from abroad"
+],
+"a": 0,
+"e": "NNP deducts capital consumption (depreciation) from GNP; GNP itself is GDP plus net factor income from abroad."
+},
+{
+"n": 5,
+"topic": "Economic Foundations – Some Concepts",
+"t": "The law of large numbers helps an insurer because as the number of independent similar exposures increases:",
+"o": [
+"The average premium rises",
+"Reinsurance becomes unnecessary",
+"Every risk becomes identical",
+"Actual loss experience converges toward expected loss, reducing relative uncertainty"
+],
+"a": 3,
+"e": "Pooling many independent risks makes aggregate outcomes predictable; it does not eliminate catastrophic correlated losses, which still need reinsurance."
+},
+{
+"n": 6,
+"topic": "Economic Foundations – Some Concepts",
+"t": "When the interest rate on government securities rises, the present value of a life insurer's long-term guaranteed liabilities:",
+"o": [
+"Falls",
+"Rises",
+"Remains unchanged",
+"Doubles"
+],
+"a": 0,
+"e": "Discounting future obligations at a higher rate lowers their present value, which is why rising rates generally ease solvency pressure on guaranteed products (though bond asset values also fall)."
+},
+{
+"n": 7,
+"topic": "Economic Foundations – Some Concepts",
+"t": "A public good such as national defence is NOT privately insurable or marketable mainly because it is:",
+"o": [
+"Too expensive",
+"Taxed at a high rate",
+"Produced only by foreign companies",
+"Non-rival and non-excludable, so free-riders cannot be prevented"
+],
+"a": 3,
+"e": "Non-excludability means no one can be denied the benefit for not paying; private markets under-provide such goods, so the state provides them – a reason for government-sponsored social insurance too."
+},
+{
+"n": 8,
+"topic": "Economic Foundations – Some Concepts",
+"t": "A country's GDP is ₹300 lakh crore and total insurance premium collected in the year is ₹12 lakh crore. Insurance penetration is:",
+"o": [
+"4%",
+"2.5%",
+"25%",
+"0.4%"
+],
+"a": 0,
+"e": "Penetration = 12/300 × 100 = 4%, roughly where India stands today against a world average of about 7%."
+},
+{
+"n": 9,
+"topic": "Economic Foundations – Some Concepts",
+"t": "Which statement about the relationship between savings and insurance is INCORRECT?",
+"o": [
+"Life insurance is a contractual form of saving that encourages regular thrift",
+"Low interest rates make guaranteed savings products harder to price",
+"Insurance premiums form part of gross domestic savings of households",
+"General insurance premiums are primarily a form of long-term household saving"
+],
+"a": 3,
+"e": "General insurance premiums buy annual protection and are consumed, not saved; life insurance (especially endowment and pension plans) is the savings-oriented segment."
+},
+{
+"n": 10,
+"topic": "Economic Foundations – Some Concepts",
+"t": "If the price of a term insurance plan rises by 10% and the quantity demanded falls by 25%, the demand for the product is:",
+"o": [
+"Perfectly inelastic",
+"Unit elastic",
+"Price inelastic",
+"Price elastic"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). Price elasticity = 25/10 = 2.5, which is greater than 1, so demand is elastic – buyers respond proportionately more than the price change.",
+"r": "key"
+},
+{
+"n": 11,
+"topic": "Political – Economic Environment and Insurance",
+"t": "The first private life insurers in the liberalised Indian market were registered by IRDA in:",
+"o": [
+"1991",
+"1999",
+"2000",
+"2005"
+],
+"a": 2,
+"e": "IRDA began registering private insurers in 2000, ending the 44-year LIC monopoly in life and the public-sector monopoly in general insurance."
+},
+{
+"n": 12,
+"topic": "Political – Economic Environment and Insurance",
+"t": "Foreign direct investment in Indian insurance companies was raised from 49% to 74% by the:",
+"o": [
+"Insurance Laws (Amendment) Act, 2015",
+"Finance Act, 2019",
+"IRDA Act, 1999",
+"Insurance (Amendment) Act, 2021"
+],
+"a": 3,
+"e": "The 2015 amendment raised FDI from 26% to 49%; the 2021 amendment took it to 74% with safeguards on Indian resident directors and key management."
+},
+{
+"n": 13,
+"topic": "Political – Economic Environment and Insurance",
+"t": "The repo rate is the rate at which:",
+"o": [
+"RBI lends short-term funds to banks against government securities",
+"Banks lend to each other overnight",
+"Insurers borrow from reinsurers",
+"Government borrows from the public"
+],
+"a": 0,
+"e": "Repo is RBI's main policy rate; changes transmit to bond yields and deposit rates, affecting insurers' investment returns and product guarantees."
+},
+{
+"n": 14,
+"topic": "Political – Economic Environment and Insurance",
+"t": "Which of the following is a direct way in which the central government acts as a risk carrier or co-funder in Indian insurance?",
+"o": [
+"Setting agents' commission",
+"Owning all reinsurance companies",
+"Approving every policy wording of private insurers",
+"Subsidising premium under PMFBY and funding PM-JAY with states"
+],
+"a": 3,
+"e": "Government shares premium under PMFBY (balance above the farmer's share) and funds PM-JAY in a 60:40 ratio with states, making it a major participant in the insurance ecosystem."
+},
+{
+"n": 15,
+"topic": "Political – Economic Environment and Insurance",
+"t": "The Securities and Exchange Board of India (SEBI) is relevant to insurers mainly because:",
+"o": [
+"Listed insurers must comply with its disclosure rules and insurers are large institutional investors in SEBI-regulated markets",
+"It licenses insurance agents",
+"It fixes premium rates for ULIPs",
+"It approves reinsurance treaties"
+],
+"a": 0,
+"e": "SEBI regulates capital markets; listed insurers follow its LODR norms, and insurers' equity investments operate within its framework, though IRDAI remains their primary regulator."
+},
+{
+"n": 16,
+"topic": "Political – Economic Environment and Insurance",
+"t": "An insurer with a large book of guaranteed-return traditional plans is most exposed if the government and RBI:",
+"o": [
+"Raise the fiscal deficit",
+"Reduce customs duty on imports",
+"Increase FDI limits",
+"Pursue a prolonged low-interest-rate regime"
+],
+"a": 3,
+"e": "Low yields for long periods make it hard to earn the returns promised under guarantees, creating asset-liability mismatch and capital strain."
+},
+{
+"n": 17,
+"topic": "Political – Economic Environment and Insurance",
+"t": "Which statement about the political-economic environment is INCORRECT?",
+"o": [
+"Political stability lowers the risk premium demanded by foreign investors in insurance JVs",
+"Tax incentives under Sections 80C and 80D influence life and health insurance demand",
+"Economic policy has no bearing on insurance since premiums are fixed by law",
+"Trade and industrial policy shape demand for marine and engineering insurance"
+],
+"a": 2,
+"e": "Premiums are not fixed by law (the general insurance tariff was dismantled in 2007); economic policy affects demand, investment returns and capital flows."
+},
+{
+"n": 18,
+"topic": "The Social Environment and Insurance",
+"t": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY) provides a life cover of ₹2 lakh to persons aged:",
+"o": [
+"18 to 50 years",
+"18 to 40 years",
+"21 to 60 years",
+"18 to 70 years"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). PMJJBY covers savings bank account holders aged 18–50 (cover continues to 55) for an annual premium of ₹436; PMSBY, the accident scheme, covers ages 18–70 for ₹20.",
+"r": "key"
+},
+{
+"n": 19,
+"topic": "The Social Environment and Insurance",
+"t": "The National Pension System (NPS) is regulated by:",
+"o": [
+"PFRDA",
+"IRDAI",
+"SEBI",
+"RBI"
+],
+"a": 0,
+"e": "The Pension Fund Regulatory and Development Authority regulates NPS and Atal Pension Yojana; life insurers participate as annuity service providers at exit."
+},
+{
+"n": 20,
+"topic": "The Social Environment and Insurance",
+"t": "Rapid urbanisation in India increases demand for which types of insurance most directly?",
+"o": [
+"Crop and livestock insurance",
+"Aviation insurance",
+"Marine hull insurance",
+"Motor, health and householders' insurance"
+],
+"a": 3,
+"e": "Urban living raises vehicle ownership, exposure to lifestyle diseases and dependence on private healthcare, and concentrates property risk."
+},
+{
+"n": 21,
+"topic": "The Social Environment and Insurance",
+"t": "The IRDAI (Rural, Social Sector and Motor Third Party Obligations) Regulations, 2024 shifted the rural obligation of insurers to a basis of:",
+"o": [
+"Coverage of a specified number of Gram Panchayats with life, property or other covers",
+"Percentage of total policies sold in rural areas",
+"Number of rural branches opened",
+"Premium collected from farmers only"
+],
+"a": 0,
+"e": "The 2024 regulations align obligations with the Insurance for All vision by measuring coverage of Gram Panchayats (with minimum percentages of lives/dwellings insured) rather than policy counts."
+},
+{
+"n": 22,
+"topic": "The Social Environment and Insurance",
+"t": "The 'social sector' under IRDAI's obligations includes:",
+"o": [
+"Only government employees",
+"High-income urban professionals",
+"Unorganised sector workers, informal sector workers, economically vulnerable and backward classes, and persons with disabilities",
+"Shareholders of insurance companies"
+],
+"a": 2,
+"e": "Social-sector obligations target segments usually excluded from formal insurance so that liberalisation serves inclusion as well as profit."
+},
+{
+"n": 23,
+"topic": "The Social Environment and Insurance",
+"t": "Increasing life expectancy in India (now above 70 years) creates for life insurers the risk known as:",
+"o": [
+"Mortality risk on term plans",
+"Credit risk on bonds",
+"Lapse risk on endowments",
+"Longevity risk on annuities and pensions"
+],
+"a": 3,
+"e": "When annuitants live longer than priced, insurers pay for more years; longevity risk is the mirror image of mortality risk and is growing with ageing."
+},
+{
+"n": 24,
+"topic": "The Social Environment and Insurance",
+"t": "A 45-year-old migrant construction worker with no bank account and irregular income wants protection for his family. Which combination is the most appropriate first step in the Indian ecosystem?",
+"o": [
+"Opening a Jan Dhan account and enrolling in PMJJBY and PMSBY",
+"A ULIP with ₹1 lakh annual premium",
+"A guaranteed-return endowment for 20 years",
+"A high-value term plan with medical underwriting only"
+],
+"a": 0,
+"e": "Jan Dhan accounts provide the banking rail through which PMJJBY (₹2 lakh life, ₹436) and PMSBY (₹2 lakh accident, ₹20) are auto-debited, giving affordable basic protection to low-income workers."
+},
+{
+"n": 25,
+"topic": "Technological Environment and Insurance",
+"t": "IRDAI's framework for web aggregators allows them to:",
+"o": [
+"Underwrite risks on behalf of insurers",
+"Settle claims directly",
+"Display and compare products of multiple insurers online and transmit leads",
+"Issue reinsurance cover"
+],
+"a": 2,
+"e": "Web aggregators are intermediaries that compare products and pass leads to insurers; underwriting and claims remain with the insurer."
+},
+{
+"n": 26,
+"topic": "Technological Environment and Insurance",
+"t": "Big data analytics in insurance refers to:",
+"o": [
+"Keeping policy records in large steel cabinets",
+"The IRDAI annual report",
+"A reinsurance treaty for large risks",
+"Analysing very large, varied and fast-moving data sets to price risk, detect fraud and personalise offers"
+],
+"a": 3,
+"e": "Big data combines structured and unstructured sources (telematics, social, claims, health records) with analytics to improve underwriting and detect anomalies."
+},
+{
+"n": 27,
+"topic": "The Legal Environment of Insurance",
+"t": "Under Section 146 of the Motor Vehicles Act, 1988, the insurance that is compulsory for every motor vehicle used in a public place is:",
+"o": [
+"Own damage cover",
+"Third-party liability cover",
+"Personal accident cover for passengers",
+"Comprehensive cover"
+],
+"a": 1,
+"e": "★ Key fact (repeated across the mocks of this paper). Only third-party liability (death, bodily injury and property damage to third parties) is statutorily compulsory; own-damage cover is optional.",
+"r": "key"
+},
+{
+"n": 28,
+"topic": "Technological Environment and Insurance",
+"t": "The 'Account Aggregator' framework regulated by RBI is useful to insurers for:",
+"o": [
+"Consent-based sharing of a customer's financial data (bank, insurance, securities) for underwriting and servicing",
+"Collecting premium in cash",
+"Pooling catastrophe risks",
+"Issuing agent licences"
+],
+"a": 0,
+"e": "Account Aggregators are consent managers that let customers share financial information digitally with regulated entities including insurers, enabling faster, data-driven decisions."
+},
+{
+"n": 29,
+"topic": "Technological Environment and Insurance",
+"t": "'Embedded insurance' means:",
+"o": [
+"Insurance clauses hidden in employment contracts",
+"Reinsurance embedded in the direct policy",
+"Cover offered as part of another product or transaction, such as travel cover bought with a flight ticket or gadget cover at checkout",
+"Insurance sold only through branch offices"
+],
+"a": 2,
+"e": "Embedded insurance leverages digital platforms and APIs to bundle cover at the point of sale of another product, widening reach at low acquisition cost."
+},
+{
+"n": 30,
+"topic": "Technological Environment and Insurance",
+"t": "Cloud computing offers insurers which principal benefit?",
+"o": [
+"Guaranteed elimination of all cyber risk",
+"Higher commission for agents",
+"Exemption from IRDAI outsourcing norms",
+"Scalable computing capacity on a pay-per-use basis without large upfront infrastructure investment"
+],
+"a": 3,
+"e": "Cloud provides flexibility and cost efficiency, but insurers remain responsible for data security and must comply with IRDAI's outsourcing and cyber-security requirements."
+},
+{
+"n": 31,
+"topic": "Technological Environment and Insurance",
+"t": "The Ayushman Bharat Digital Mission (ABDM) is relevant to health insurers because it:",
+"o": [
+"Mandates a single government health insurer",
+"Creates a unique health ID (ABHA) and interoperable digital health records that can speed claim verification with consent",
+"Fixes hospital tariffs nationwide",
+"Replaces TPAs with government officers"
+],
+"a": 1,
+"e": "ABDM's digital health infrastructure (ABHA, health records, registries) underpins initiatives like NHCX, enabling paperless, faster claims processing."
+},
+{
+"n": 32,
+"topic": "Environmental Risks and Insurance",
+"t": "The Kerala floods of 2018 and the Chennai floods of 2015 are frequently cited in Indian insurance to illustrate:",
+"o": [
+"Low claim ratios in motor insurance",
+"Concentration of flood losses and the large uninsured protection gap",
+"Success of marine cargo insurance",
+"Decline in reinsurance prices"
+],
+"a": 1,
+"e": "Both events caused economic losses running into tens of thousands of crores, with insured losses a small fraction, highlighting accumulation risk and under-insurance."
+},
+{
+"n": 33,
+"topic": "Environmental Risks and Insurance",
+"t": "The Intergovernmental Panel on Climate Change (IPCC) is:",
+"o": [
+"A reinsurer specialising in weather risks",
+"A UN body that assesses scientific evidence on climate change for policymakers",
+"An Indian ministry handling floods",
+"A rating agency for cat bonds"
+],
+"a": 1,
+"e": "IPCC assessment reports inform insurers' views on rising frequency and severity of extreme weather, which feeds into catastrophe modelling and pricing."
+},
+{
+"n": 34,
+"topic": "Environmental Risks and Insurance",
+"t": "Under the Public Liability Insurance Act, 1991, the owner must also contribute to the Environmental Relief Fund an amount:",
+"o": [
+"Equal to 10% of turnover",
+"Equal to the premium paid on the policy",
+"Equal to the sum insured",
+"Of ₹1 crore annually"
+],
+"a": 1,
+"e": "The Act requires a contribution equal to the premium to the Environmental Relief Fund, which supplements compensation to victims of accidents involving hazardous substances."
+},
+{
+"topic": "IRDAI – regulator",
+"t": "IRDAI was constituted under the:",
+"o": [
+"Insurance Act 1938",
+"IRDA Act 1999",
+"General Insurance Business (Nationalisation) Act 1972",
+"LIC Act 1956"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). The IRDA Act 1999 established the Authority; it began functioning in April 2000 and is headquartered in Hyderabad.",
+"r": "core",
+"n": 35
+},
+{
+"n": 36,
+"topic": "Environmental Risks and Insurance",
+"t": "Catastrophe modelling helps insurers mainly to:",
+"o": [
+"Determine agent commission",
+"Estimate probable maximum loss from events like earthquake or cyclone for pricing, reinsurance purchase and capital",
+"Calculate income-tax liability",
+"Design policy wordings for life cover"
+],
+"a": 1,
+"e": "Cat models combine hazard, exposure and vulnerability data to quantify tail losses, guiding retention and reinsurance decisions."
+},
+{
+"n": 37,
+"topic": "Environmental Risks and Insurance",
+"t": "A general insurer has fire exposures of ₹8,000 crore concentrated in one earthquake-prone zone. Its catastrophe model estimates a 1-in-200-year loss of 4% of exposure. If it wants to retain only ₹120 crore of such a loss, the catastrophe excess-of-loss reinsurance it should buy is approximately:",
+"o": [
+"₹200 crore excess of ₹120 crore",
+"₹320 crore excess of ₹120 crore",
+"₹120 crore excess of ₹200 crore",
+"₹80 crore excess of ₹240 crore"
+],
+"a": 0,
+"e": "Modelled loss = 4% of ₹8,000 crore = ₹320 crore; retaining ₹120 crore leaves ₹320 − ₹120 = ₹200 crore to transfer, i.e. a layer of ₹200 crore in excess of ₹120 crore."
+},
+{
+"n": 38,
+"topic": "The Legal Environment of Insurance",
+"t": "The Marine Insurance Act applicable in India was enacted in:",
+"o": [
+"1906",
+"1938",
+"1963",
+"1988"
+],
+"a": 2,
+"e": "India's Marine Insurance Act, 1963 is modelled on the English Act of 1906 and codifies insurable interest, warranties, subrogation and other marine principles."
+},
+{
+"n": 39,
+"topic": "The Legal Environment of Insurance",
+"t": "Under Section 10 of the Indian Contract Act, 1872, a contract entered into by a minor is:",
+"o": [
+"Valid",
+"Voidable at the minor's option",
+"Void ab initio",
+"Valid if ratified on attaining majority"
+],
+"a": 2,
+"e": "A minor lacks capacity, so the agreement is void from the start; this is why life proposals are made by a parent or guardian on a minor's life."
+},
+{
+"n": 40,
+"topic": "The Legal Environment of Insurance",
+"t": "The maximum penalty IRDAI may impose under Section 102 of the Insurance Act, 1938 for failure to comply with its directions is:",
+"o": [
+"₹10 lakh",
+"₹1 lakh per day up to ₹1 crore",
+"₹25 crore",
+"₹5 crore"
+],
+"a": 1,
+"e": "Section 102 provides for ₹1 lakh per day of default subject to a maximum of ₹1 crore; the 2015 amendment sharply raised penalties, with higher ceilings for graver contraventions under other sections."
+},
+{
+"n": 41,
+"topic": "The Legal Environment of Insurance",
+"t": "Under the Insurance Ombudsman Rules, 2017, a complaint can be made to the Ombudsman only if:",
+"o": [
+"The complainant has first approached the insurer and either got no reply within 30 days or is dissatisfied with the reply",
+"The claim exceeds ₹50 lakh",
+"The complainant is a corporate body",
+"A civil suit on the same matter is already pending"
+],
+"a": 0,
+"e": "The complainant must first make a written representation to the insurer; individuals (not corporates) can approach the Ombudsman for claims up to ₹50 lakh if no other forum is seized of the matter."
+},
+{
+"n": 42,
+"topic": "The Legal Environment of Insurance",
+"t": "Under the Employee's Compensation Act, 1923, an employer's liability to compensate an employee for injury arising out of and in the course of employment is:",
+"o": [
+"Dependent on proving employer's negligence",
+"A no-fault liability",
+"Limited to ₹50,000",
+"Payable only through ESIC"
+],
+"a": 1,
+"e": "The Act imposes no-fault liability for employment injury; employers commonly insure it through a Workmen's/Employee's Compensation policy unless covered by ESIC."
+},
+{
+"topic": "IRDAI – regulator",
+"t": "The minimum paid-up equity capital required to start a life or general insurance company in India is:",
+"o": [
+"₹50 crore",
+"₹100 crore",
+"₹200 crore",
+"₹500 crore"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). ₹100 crore for a direct insurer; ₹200 crore for a reinsurer (Section 6 of the Insurance Act).",
+"r": "core",
+"n": 43
+},
+{
+"n": 44,
+"topic": "The Legal Environment of Insurance",
+"t": "Under the Insurance Act, 1938, insurance agents are now:",
+"o": [
+"Licensed directly by IRDAI",
+"Appointed by insurers under Section 42 after qualifying examinations, as per IRDAI regulations",
+"Registered with the Ministry of Finance",
+"Appointed by the Life Insurance Council"
+],
+"a": 1,
+"e": "Since the 2015 amendment, licensing by IRDAI was replaced by appointment by the insurer, which is responsible for the agent's conduct; an agent may represent one life, one general and one health insurer."
+},
+{
+"n": 45,
+"topic": "The Legal Environment of Insurance",
+"t": "A proposer deliberately conceals a diagnosed heart condition. The policy is issued in March 2022 and the life assured dies in January 2024. Under Section 45, the insurer:",
+"o": [
+"Cannot repudiate, as two years have passed",
+"May repudiate on the ground of fraud, since three years from issue have not elapsed",
+"Must pay in full as concealment is irrelevant after one year",
+"Can repudiate only with IRDAI approval"
+],
+"a": 1,
+"e": "Within three years the insurer may repudiate on grounds of fraud or material misstatement (with reasons communicated in writing); after three years no challenge is possible."
+},
+{
+"n": 46,
+"topic": "Emerging Issues for Insurance Industry",
+"t": "Under IRDAI's 2024 Protection of Policyholders' Interests regulations, the free-look period for all policies is now:",
+"o": [
+"15 days",
+"30 days",
+"45 days",
+"7 days"
+],
+"a": 1,
+"e": "The free-look period was made a uniform 30 days from receipt of the policy document for all policies, replacing the earlier 15 days (30 for distance marketing)."
+},
+{
+"n": 47,
+"topic": "Emerging Issues for Insurance Industry",
+"t": "'Open architecture' in bancassurance refers to:",
+"o": [
+"Banks building their own insurance companies",
+"Banks and corporate agents being allowed to distribute products of multiple insurers rather than one",
+"Insurers sharing branch premises",
+"Architecture standards for insurer websites"
+],
+"a": 1,
+"e": "IRDAI's 2022 revision lets corporate agents tie up with up to nine insurers in each line, breaking the one-insurer exclusivity that limited customer choice."
+},
+{
+"n": 48,
+"topic": "Emerging Issues for Insurance Industry",
+"t": "IRDAI's 2024 regulations on life insurance products require that a special surrender value be payable:",
+"o": [
+"Only after five policy years",
+"After the first policy year, once one full year's premium is paid",
+"Only on policies above ₹10 lakh sum assured",
+"Only on unit-linked policies"
+],
+"a": 1,
+"e": "From 1 October 2024, surrender values must be paid even if the policy is surrendered after the first year, a consumer-protection shift that affects insurers' persistency economics."
+},
+{
+"n": 49,
+"topic": "Emerging Issues for Insurance Industry",
+"t": "Which development most expands reinsurance capacity available within India?",
+"o": [
+"Prohibition of foreign reinsurers",
+"Registration of foreign reinsurance branches (FRBs) and Lloyd's India, plus IFSC insurance offices at GIFT City",
+"Merger of the four public general insurers",
+"Abolition of obligatory cessions"
+],
+"a": 1,
+"e": "Since 2016 global reinsurers can operate branches in India, and IFSCA permits offices at GIFT City, supplementing GIC Re's capacity and retaining premium onshore."
+},
+{
+"n": 50,
+"topic": "Emerging Issues for Insurance Industry",
+"t": "Which of the following statements about emerging issues in Indian insurance is INCORRECT?",
+"o": [
+"IRDAI has removed the upper age limit of 65 years for purchasing health insurance",
+"IRDAI is moving from a rule-based to a principle-based regulatory approach",
+"Cyber insurance demand is falling because data breaches have become rare",
+"Pandemic experience (COVID-19) highlighted the need for pandemic risk pooling and business-interruption clarity"
+],
+"a": 2,
+"e": "Cyber incidents are increasing in frequency and cost, driving demand for cyber cover; the other statements correctly describe recent regulatory and market trends."
+}
+]

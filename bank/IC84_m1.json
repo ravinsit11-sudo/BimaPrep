@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Loss Reserving",
+"t": "Cumulative paid claims (₹ lakh) of a motor TP portfolio: AY 2022 – 400 at 12 months, 600 at 24 months, 660 at 36 months; AY 2023 – 500 at 12 months, 750 at 24 months; AY 2024 – 550 at 12 months. Using volume-weighted chain ladder factors and no tail, the projected ultimate for AY 2024 is:",
+"o": [
+"₹907.5 lakh",
+"₹825.0 lakh",
+"₹990.0 lakh",
+"₹605.0 lakh"
+],
+"a": 0,
+"e": "12–24 factor = (600+750)/(400+500) = 1.5; 24–36 factor = 660/600 = 1.1. Ultimate AY 2024 = 550 × 1.5 × 1.1 = ₹907.5 lakh."
+},
+{
+"n": 2,
+"topic": "Loss Reserving",
+"t": "An insurer earned ₹200 crore premium in an accident year. The a priori expected loss ratio is 70% and the cumulative development factor to ultimate at the valuation date is 2.5. The Bornhuetter-Ferguson IBNR is:",
+"o": [
+"₹56 crore",
+"₹140 crore",
+"₹84 crore",
+"₹35 crore"
+],
+"a": 2,
+"e": "Percentage unreported = 1 − 1/2.5 = 0.6. BF IBNR = 200 × 0.70 × 0.6 = ₹84 crore. Note the reported amount is not needed for the BF IBNR."
+},
+{
+"n": 3,
+"topic": "Loss Reserving",
+"t": "An actuary is reserving a very immature accident year where only 15% of ultimate claims are expected to be reported. Compared with the chain ladder method, the Bornhuetter-Ferguson method is preferred mainly because it:",
+"o": [
+"Always produces a lower reserve",
+"Uses only paid data and ignores case reserves",
+"Requires no assumption about the expected loss ratio",
+"Does not multiply the small, volatile reported amount by a large development factor"
+],
+"a": 3,
+"e": "At immature ages the chain ladder leverages a small reported figure by a large factor, so random fluctuations are magnified. BF blends in an a priori expectation and only applies the unreported fraction, giving a more stable estimate."
+},
+{
+"n": 4,
+"topic": "Loss Reserving",
+"t": "Under the average cost per claim (frequency-severity) method, an accident year is expected to produce 1,200 ultimate claims with a projected ultimate average severity of ₹50,000. Paid to date is ₹3.6 crore. The indicated total unpaid claim liability is:",
+"o": [
+"₹6.0 crore",
+"₹2.4 crore",
+"₹3.6 crore",
+"₹1.2 crore"
+],
+"a": 1,
+"e": "Ultimate claims = 1,200 × ₹50,000 = ₹6.0 crore. Unpaid = 6.0 − 3.6 = ₹2.4 crore (this includes both case reserves and IBNR)."
+},
+{
+"n": 5,
+"topic": "Loss Reserving",
+"t": "A general insurer's claims department strengthened case reserves on open motor TP claims during 2024 without any change in underlying claim costs. If the actuary applies incurred chain ladder factors derived from older years without adjustment, the projected ultimate for recent years will most likely be:",
+"o": [
+"Overstated, because higher case reserves are multiplied by historical factors that already allow for case development",
+"Understated, because paid development is slower than incurred development",
+"Unaffected, because the chain ladder method is independent of case reserve levels",
+"Overstated only if the paid method is used instead of the incurred method"
+],
+"a": 0,
+"e": "Historical incurred factors reflect upward development from previously weaker case reserves. Applying them to already-strengthened reserves double counts the development, overstating ultimates — the problem the Berquist-Sherman adjustment addresses."
+},
+{
+"n": 6,
+"topic": "Loss Reserving",
+"t": "Using the expected claims method, an actuary assumes an ultimate loss ratio of 65% on earned premium of ₹150 crore. Reported incurred claims to date are ₹80 crore. The IBNR reserve indicated is:",
+"o": [
+"₹97.5 crore",
+"₹52.0 crore",
+"₹30.0 crore",
+"₹17.5 crore"
+],
+"a": 3,
+"e": "Expected ultimate = 150 × 0.65 = ₹97.5 crore. IBNR = 97.5 − 80 = ₹17.5 crore. Under the expected claims method reported experience does not alter the ultimate, only the IBNR split."
+},
+{
+"n": 7,
+"topic": "Loss Reserving",
+"t": "The cumulative development factor to ultimate for an accident year at 24 months is 1.25 and reported claims are ₹64 crore. The estimated IBNR under the development method is:",
+"o": [
+"₹12.8 crore",
+"₹16.0 crore",
+"₹20.0 crore",
+"₹80.0 crore"
+],
+"a": 1,
+"e": "Ultimate = 64 × 1.25 = ₹80 crore. IBNR = 80 − 64 = ₹16 crore. Equivalently, 1 − 1/1.25 = 20% is unreported, and 20% of 80 = 16."
+},
+{
+"n": 8,
+"topic": "Credibility",
+"t": "In a Bühlmann model, K = 10. A risk has 40 years of observed data. The credibility assigned to its own experience is:",
+"o": [
+"0.80",
+"0.25",
+"0.75",
+"0.20"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). Z = n/(n + K) = 40/(40 + 10) = 0.80.",
+"r": "key"
+},
+{
+"n": 9,
+"topic": "Reinsurance",
+"t": "The principal difference between a quota share treaty and a surplus treaty is that under a surplus treaty:",
+"o": [
+"The reinsurer's share is fixed as a percentage of every risk",
+"The reinsurer pays only losses above a monetary deductible",
+"The ceded proportion varies from risk to risk depending on the cedant's retention",
+"The cedant receives no ceding commission"
+],
+"a": 2,
+"e": "A surplus treaty cedes only the amount above the cedant's retained line, so the ceded percentage differs for each risk. A quota share cedes a fixed percentage of all risks; the deductible description is excess of loss."
+},
+{
+"n": 10,
+"topic": "Reinsurance",
+"t": "A fire portfolio with gross premium of ₹50 crore is protected by a 40% quota share treaty with 25% ceding commission. The ceding commission received by the cedant is:",
+"o": [
+"₹12.5 crore",
+"₹20.0 crore",
+"₹7.5 crore",
+"₹5.0 crore"
+],
+"a": 3,
+"e": "Ceded premium = 40% × 50 = ₹20 crore. Ceding commission = 25% × 20 = ₹5 crore. The cedant retains ₹30 crore of premium."
+},
+{
+"n": 11,
+"topic": "Reinsurance",
+"t": "A per-risk excess of loss treaty is written as ₹50 lakh in excess of ₹25 lakh. On a single loss of ₹60 lakh, the reinsurer's payment is:",
+"o": [
+"₹50 lakh",
+"₹35 lakh",
+"₹60 lakh",
+"₹25 lakh"
+],
+"a": 1,
+"e": "The reinsurer pays the part of the loss above the ₹25 lakh retention up to the ₹50 lakh layer limit: 60 − 25 = ₹35 lakh. The cedant bears ₹25 lakh."
+},
+{
+"n": 12,
+"topic": "Reinsurance",
+"t": "A cedant has a 5-line surplus treaty with a retention of ₹2 crore. On a risk with sum insured ₹10 crore it retains one line and cedes the balance. A loss of ₹1 crore on this risk is shared as:",
+"o": [
+"Reinsurer ₹80 lakh, cedant ₹20 lakh",
+"Reinsurer ₹1 crore, cedant nil",
+"Reinsurer ₹50 lakh, cedant ₹50 lakh",
+"Reinsurer ₹20 lakh, cedant ₹80 lakh"
+],
+"a": 0,
+"e": "Ceded = 10 − 2 = ₹8 crore = 80% of the risk (within the 5-line capacity of ₹10 crore). All losses are shared in that proportion: reinsurer 80% × 1 crore = ₹80 lakh, cedant ₹20 lakh."
+},
+{
+"n": 13,
+"topic": "Reinsurance",
+"t": "From the cedant's perspective, the true cost of a reinsurance treaty is best measured as:",
+"o": [
+"The gross reinsurance premium paid",
+"The reinsurer's reported profit on the treaty",
+"Reinsurance premium paid less expected recoveries and ceding commission received",
+"The brokerage paid to the reinsurance intermediary"
+],
+"a": 2,
+"e": "The economic cost to the cedant is the net outflow: premium ceded minus the expected losses and commissions flowing back. The gross premium alone ignores the value of recoveries."
+},
+{
+"n": 14,
+"topic": "Reinsurance",
+"t": "A reinsurer is pricing a working excess of loss layer using the burning cost method. Trended losses to the layer over five years total ₹6 crore against trended subject premium of ₹100 crore for the same period. The reinsurer loads for expenses and profit by dividing by a permissible loss ratio of 80%. The reinsurance premium for next year's subject premium of ₹25 crore is:",
+"o": [
+"₹1.50 crore",
+"₹1.20 crore",
+"₹2.40 crore",
+"₹1.875 crore"
+],
+"a": 3,
+"e": "Burning cost = 6/100 = 6%. Loaded rate = 6%/0.80 = 7.5%. Premium = 7.5% × ₹25 crore = ₹1.875 crore."
+},
+{
+"n": 15,
+"topic": "Reinsurance",
+"t": "A facultative reinsurance certificate differs from a treaty in that it:",
+"o": [
+"Is always written on an excess of loss basis",
+"Covers an individual risk which the reinsurer may accept or decline after underwriting it",
+"Automatically covers all risks falling within agreed limits",
+"Is used only for casualty business"
+],
+"a": 1,
+"e": "Facultative reinsurance is placed risk by risk, with the reinsurer underwriting each submission. Treaties provide automatic cover for a defined class of business."
+},
+{
+"n": 16,
+"topic": "Reinsurance",
+"t": "Compared with a primary insurer writing the same class, an excess of loss reinsurer reserving its own book typically experiences:",
+"o": [
+"Longer reporting and settlement lags, hence higher development factors and greater reliance on IBNR",
+"Shorter lags because large losses are notified immediately",
+"Identical development patterns since the underlying claims are the same",
+"No need for IBNR because treaties are reported on a bordereau basis"
+],
+"a": 0,
+"e": "Excess losses pierce the retention only after they develop, and cedant reporting adds a further lag, so reinsurers see slower patterns and need relatively larger IBNR than the direct writer."
+},
+{
+"n": 17,
+"topic": "Reinsurance",
+"t": "A catastrophe layer of ₹20 crore in excess of ₹10 crore is placed for a premium of ₹2 crore. The rate on line and the payback period are:",
+"o": [
+"20% and 5 years",
+"6.67% and 15 years",
+"10% and 10 years",
+"2% and 50 years"
+],
+"a": 2,
+"e": "Rate on line = premium/limit = 2/20 = 10%. Payback period = limit/premium = 1/ROL = 10 years, i.e. the number of loss-free years needed to recover one full limit loss."
+},
+{
+"n": 18,
+"topic": "Credibility",
+"t": "Under classical (limited fluctuation) credibility, the number of claims required for full credibility so that the observed frequency is within ±5% of the true value with 90% probability (z = 1.645) is approximately:",
+"o": [
+"384",
+"1,082",
+"2,401",
+"271"
+],
+"a": 1,
+"e": "n = (z/k)² = (1.645/0.05)² = (32.9)² ≈ 1,082 claims, assuming Poisson claim counts."
+},
+{
+"n": 19,
+"topic": "Credibility",
+"t": "A class has 500 claims in the experience period and the full credibility standard is 2,000 claims. Using the square-root rule, the credibility assigned to the class experience is:",
+"o": [
+"0.50",
+"0.25",
+"0.75",
+"0.40"
+],
+"a": 0,
+"e": "Z = √(n/N_full) = √(500/2,000) = √0.25 = 0.50."
+},
+{
+"n": 20,
+"topic": "Loss Distributions and Simulation",
+"t": "Losses are uniformly distributed between ₹0 and ₹1,00,000. A policy pays losses up to a limit of ₹60,000. The expected payment per loss is:",
+"o": [
+"₹50,000",
+"₹60,000",
+"₹30,000",
+"₹42,000"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). E[min(X, 60,000)] = ∫₀^60,000 (1 − x/1,00,000) dx = 60,000 − 60,000²/(2 × 1,00,000) = 60,000 − 18,000 = ₹42,000.",
+"r": "key"
+},
+{
+"n": 21,
+"topic": "Credibility",
+"t": "For a Bühlmann credibility model, the expected value of the process variance is 800 and the variance of the hypothetical means is 200. With 6 years of observations the credibility factor is:",
+"o": [
+"0.25",
+"0.75",
+"0.40",
+"0.60"
+],
+"a": 3,
+"e": "K = EPV/VHM = 800/200 = 4. Z = n/(n+K) = 6/(6+4) = 0.60."
+},
+{
+"n": 22,
+"topic": "Credibility",
+"t": "An employer's own experience gives an expected claim cost of ₹1.20 lakh per employee-year and the manual (class) rate is ₹1.00 lakh. With credibility Z = 0.60, the credibility-weighted estimate is:",
+"o": [
+"₹1.08 lakh",
+"₹1.20 lakh",
+"₹1.12 lakh",
+"₹1.10 lakh"
+],
+"a": 2,
+"e": "Estimate = Z × observed + (1 − Z) × prior = 0.6 × 1.20 + 0.4 × 1.00 = 0.72 + 0.40 = ₹1.12 lakh."
+},
+{
+"n": 23,
+"topic": "Credibility",
+"t": "Which of the following statements about the Bühlmann credibility factor Z = n/(n + K) is INCORRECT?",
+"o": [
+"Z increases as the number of observations n increases",
+"Z approaches 1 but never reaches it for finite n",
+"A larger variance of hypothetical means (other things equal) raises Z",
+"A larger expected process variance (other things equal) raises Z"
+],
+"a": 3,
+"e": "K = EPV/VHM. A larger EPV increases K and therefore lowers Z, because noisy individual data deserves less weight. The other three statements are correct properties of the formula."
+},
+{
+"n": 24,
+"topic": "Credibility",
+"t": "If the full credibility standard is 1,082 claims for ±5% at 90% confidence, the standard for ±10% at the same confidence level is approximately:",
+"o": [
+"271 claims",
+"541 claims",
+"2,164 claims",
+"4,328 claims"
+],
+"a": 0,
+"e": "The standard varies with 1/k². Doubling k from 5% to 10% divides the requirement by 4: 1,082/4 ≈ 271 claims."
+},
+{
+"n": 25,
+"topic": "Credibility",
+"t": "The classical full credibility standard for claim counts at 99% confidence (z = 2.576) within ±2.5% is approximately:",
+"o": [
+"6,636",
+"10,617",
+"2,654",
+"1,082"
+],
+"a": 1,
+"e": "★ Key fact (repeated across the mocks of this paper). n = (2.576/0.025)² = (103.04)² ≈ 10,617 claims. Tighter tolerance and higher confidence both raise the standard sharply.",
+"r": "key"
+},
+{
+"n": 26,
+"topic": "Credibility",
+"t": "Annual claim counts for a risk are Poisson with parameter λ. The prior for λ is Gamma with shape α = 4 and rate β = 2 (prior mean 2). Over three years the risk produces 9 claims in total. The Bayesian estimate of next year's expected claim count is:",
+"o": [
+"3.0",
+"2.0",
+"2.6",
+"2.25"
+],
+"a": 2,
+"e": "Posterior shape = 4 + 9 = 13, posterior rate = 2 + 3 = 5. Posterior mean = 13/5 = 2.6. Check via Bühlmann: K = β = 2, Z = 3/5, estimate = 0.6 × 3 + 0.4 × 2 = 2.6."
+},
+{
+"n": 27,
+"topic": "Credibility",
+"t": "Least squares (Bühlmann) credibility is derived by:",
+"o": [
+"Requiring the estimate to be within a stated tolerance of the true mean with a given probability",
+"Choosing the linear estimator that minimises the expected squared error relative to the true hypothetical mean",
+"Maximising the likelihood of the observed data",
+"Equating the sample variance to the prior variance"
+],
+"a": 1,
+"e": "Bühlmann credibility finds the best linear approximation to the Bayesian estimate in a least-squares sense. The first option describes classical (limited fluctuation) credibility."
+},
+{
+"n": 28,
+"topic": "Investment Issues",
+"t": "Investment income on policyholder-supplied funds arises in property-liability insurance mainly because:",
+"o": [
+"Insurers invest their share capital in government securities",
+"IRDAI mandates a minimum investment return on premiums",
+"Premiums are received before claims and expenses are paid, leaving funds to invest in the interim",
+"Policyholders share in the insurer's investment profits through bonuses"
+],
+"a": 2,
+"e": "The time gap between premium receipt and claim payment (the 'float') lets insurers earn investment income on unearned premium and loss reserves. Bonuses are a life insurance feature."
+},
+{
+"n": 29,
+"topic": "Investment Issues",
+"t": "A general insurer reports a combined ratio of 104% and investment income equal to 8% of earned premium. Its operating ratio and underwriting result (as % of premium) are:",
+"o": [
+"Operating ratio 96%; underwriting loss of 4%",
+"Operating ratio 112%; underwriting profit of 4%",
+"Operating ratio 96%; underwriting profit of 4%",
+"Operating ratio 104%; underwriting loss of 8%"
+],
+"a": 0,
+"e": "Underwriting result = 100% − 104% = −4%. Operating ratio = combined ratio − investment income ratio = 104% − 8% = 96%, i.e. an overall operating profit of 4% of premium."
+},
+{
+"n": 30,
+"topic": "Investment Issues",
+"t": "Expected undiscounted losses for a liability line are 70% of premium and are paid on average two years after the premium is received. If the insurer earns 8% p.a., the discounted loss ratio is approximately:",
+"o": [
+"64.8%",
+"70.0%",
+"56.0%",
+"60.0%"
+],
+"a": 3,
+"e": "Discount factor = 1/1.08² = 1/1.1664 ≈ 0.857. Discounted loss ratio = 70% × 0.857 ≈ 60.0%. The 10-point difference is the investment income attributable to the premium."
+},
+{
+"n": 31,
+"topic": "Investment Issues",
+"t": "An insurer targets a 15% return on surplus. Its premium-to-surplus ratio is 2:1 and investment income (on surplus and policyholder funds, after tax) is expected to equal 9% of surplus. The underwriting profit margin required, as a percentage of premium, is:",
+"o": [
+"6%",
+"3%",
+"12%",
+"1.5%"
+],
+"a": 1,
+"e": "Underwriting must contribute 15% − 9% = 6% of surplus. With premium = 2 × surplus, 6% of surplus = 3% of premium."
+},
+{
+"n": 32,
+"topic": "Investment Issues",
+"t": "In the internal rate of return (IRR) model of insurance pricing, the rate of return is defined as the discount rate at which:",
+"o": [
+"Undiscounted underwriting profit equals the target profit load",
+"Investment income exactly offsets the underwriting loss",
+"The present value of surplus contributions equals the present value of surplus releases plus profits to shareholders",
+"The combined ratio equals 100%"
+],
+"a": 2,
+"e": "The IRR model views the policy as a project: shareholders commit surplus up front and receive it back with profit over time. The IRR is the rate that equates the PV of those cash flows."
+},
+{
+"n": 33,
+"topic": "Investment Issues",
+"t": "Two lines have identical expected undiscounted loss ratios and expense ratios. Line X settles claims within 6 months on average; Line Y settles after 4 years on average. Allowing for investment income, the underwriting profit provision required for Line Y should be:",
+"o": [
+"Lower than for Line X, since Y's longer payout earns more investment income",
+"Higher than for Line X, since Y carries more reserve risk and needs a larger margin",
+"The same, since underwriting results are independent of investment returns",
+"Lower only if interest rates are below the inflation rate"
+],
+"a": 0,
+"e": "Longer-tailed lines hold premiums longer and earn more investment income, so a smaller (even negative) underwriting margin can produce the same total return. Risk considerations may partly offset this but the basic effect is lower required margin."
+},
+{
+"n": 34,
+"topic": "Special Issues",
+"t": "Under IRDAI regulations, the control level of solvency that every general insurer in India must maintain at all times is a solvency ratio of:",
+"o": [
+"100%",
+"150%",
+"200%",
+"125%"
+],
+"a": 1,
+"e": "IRDAI requires available solvency margin to be at least 150% of the required solvency margin. Falling below triggers regulatory intervention."
+},
+{
+"topic": "IRDAI – regulator",
+"t": "The minimum paid-up equity capital required to start a life or general insurance company in India is:",
+"o": [
+"₹50 crore",
+"₹100 crore",
+"₹200 crore",
+"₹500 crore"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). ₹100 crore for a direct insurer; ₹200 crore for a reinsurer (Section 6 of the Insurance Act).",
+"r": "core",
+"n": 35
+},
+{
+"n": 36,
+"topic": "Special Issues",
+"t": "A general insurer has an available solvency margin of ₹600 crore against a required solvency margin of ₹400 crore. To raise its solvency ratio to 200% with no change in the RSM, additional capital needed is:",
+"o": [
+"₹100 crore",
+"₹400 crore",
+"₹50 crore",
+"₹200 crore"
+],
+"a": 3,
+"e": "Current ratio = 600/400 = 150%. ASM needed for 200% = 2 × 400 = ₹800 crore. Additional capital = 800 − 600 = ₹200 crore."
+},
+{
+"n": 37,
+"topic": "Special Issues",
+"t": "When valuing a property-casualty insurance company on an economic basis, the value is usually built up as:",
+"o": [
+"Book net worth plus unearned premium reserve",
+"Statutory surplus plus the undiscounted loss reserves",
+"Adjusted net worth plus the value of existing business plus the value of future new business",
+"Market capitalisation less goodwill"
+],
+"a": 2,
+"e": "Economic valuation restates the balance sheet to market values (adjusted net worth), adds the PV of profits in the in-force/runoff book, and adds the value of future business the franchise can generate."
+},
+{
+"n": 38,
+"topic": "Special Issues",
+"t": "In a risk-based capital formula, the asset risk charge is ₹300 crore and the underwriting risk charge is ₹400 crore, and these are combined using the square-root (covariance) adjustment. An off-balance-sheet charge of ₹100 crore is added outside the square root. The total RBC requirement is:",
+"o": [
+"₹600 crore",
+"₹800 crore",
+"₹700 crore",
+"₹500 crore"
+],
+"a": 0,
+"e": "√(300² + 400²) = √(90,000 + 160,000) = √250,000 = 500. Adding the ₹100 crore charge outside the square root gives ₹600 crore. The covariance adjustment recognises that the risks are unlikely to occur together."
+},
+{
+"n": 39,
+"topic": "Special Issues",
+"t": "The traditional 'Kenney rule' used as a rough solvency test for property insurers suggests that net written premium should not exceed:",
+"o": [
+"One time policyholders' surplus",
+"Two times policyholders' surplus",
+"Three times policyholders' surplus",
+"Five times policyholders' surplus"
+],
+"a": 1,
+"e": "Kenney proposed a 2:1 premium-to-surplus ratio as the maximum prudent leverage for property insurers. Risk-based capital later replaced such fixed ratios with risk-sensitive charges."
+},
+{
+"n": 40,
+"topic": "Special Issues",
+"t": "For an Indian general insurer, the required solvency margin is the higher of RSM-1 (based on premium) and RSM-2 (based on incurred claims). Suppose RSM-1 works out to 20% of net premium of ₹1,000 crore and RSM-2 to 30% of net incurred claims of ₹800 crore. If available solvency margin is ₹480 crore, the solvency ratio is:",
+"o": [
+"240%",
+"150%",
+"200%",
+"160%"
+],
+"a": 2,
+"e": "RSM-1 = 200 crore; RSM-2 = 240 crore; RSM = higher = ₹240 crore. Solvency ratio = 480/240 = 200%."
+},
+{
+"n": 41,
+"topic": "Special Issues",
+"t": "Which of the following is NOT a generally accepted objective of solvency regulation of insurers?",
+"o": [
+"Protecting policyholders against the insurer's inability to pay claims",
+"Maintaining public confidence in the insurance system",
+"Ensuring the orderly run-off or rehabilitation of a failing insurer",
+"Guaranteeing shareholders a minimum return on capital"
+],
+"a": 3,
+"e": "Solvency regulation exists for policyholder protection and system stability, not for protecting shareholder returns. Shareholders are expected to bear the residual risk."
+},
+{
+"n": 42,
+"topic": "Risk Classification",
+"t": "The primary actuarial purpose of risk classification in insurance pricing is to:",
+"o": [
+"Group risks with similar expected costs so that each pays a premium reflecting its expected loss, limiting adverse selection",
+"Maximise premium volume by charging all risks the highest justifiable rate",
+"Satisfy the statutory requirement that every tariff be approved by IRDAI",
+"Eliminate the need for credibility weighting of class experience"
+],
+"a": 0,
+"e": "Classification creates homogeneous groups so that prices are equitable and the insurer is not selected against by better-informed low-cost risks leaving and high-cost risks staying."
+},
+{
+"n": 43,
+"topic": "Risk Classification",
+"t": "The indicated pure premium for Class A is ₹2,400 and for the base class ₹2,000. The indicated class relativity for Class A is:",
+"o": [
+"0.83",
+"1.10",
+"1.20",
+"1.40"
+],
+"a": 2,
+"e": "Relativity = class pure premium / base pure premium = 2,400/2,000 = 1.20. Class A should be charged 20% above the base rate."
+},
+{
+"n": 44,
+"topic": "Risk Classification",
+"t": "Which of the following is NOT one of the standard criteria for selecting a rating variable?",
+"o": [
+"The variable should be objective and verifiable",
+"The variable should maximise the insurer's market share in the class",
+"Classes defined by the variable should be homogeneous and credible",
+"The variable should be socially acceptable and legally permissible"
+],
+"a": 1,
+"e": "The accepted criteria are actuarial/statistical (homogeneity, credibility, reliability), operational (objective, verifiable, low cost), and social/legal acceptability. Market share is not a classification criterion."
+},
+{
+"n": 45,
+"topic": "Risk Classification",
+"t": "A motor own-damage base rate is ₹1,000. The rating plan is multiplicative with an age-of-driver relativity of 1.30 and a territorial relativity of 0.90. The premium for a driver in that age band and territory is:",
+"o": [
+"₹1,200",
+"₹1,400",
+"₹1,220",
+"₹1,170"
+],
+"a": 3,
+"e": "Multiplicative plan: 1,000 × 1.30 × 0.90 = ₹1,170. In an additive plan the loadings would be added (e.g. +30% − 10% = +20%, giving ₹1,200), which is why plan structure matters."
+},
+{
+"topic": "IRDAI – regulator",
+"t": "The control level of solvency ratio that every insurer must maintain is:",
+"o": [
+"100%",
+"125%",
+"150%",
+"200%"
+],
+"a": 2,
+"e": "★ Core fact (asked across III papers). Available solvency margin must be at least 150% of the required solvency margin; falling below triggers IRDAI action.",
+"r": "core",
+"n": 46
+},
+{
+"n": 47,
+"topic": "Loss Distributions and Simulation",
+"t": "Claim frequency for a class is Poisson with mean 0.08 claims per exposure-year and claim severity has mean ₹50,000, independent of frequency. The pure premium per exposure is:",
+"o": [
+"₹400",
+"₹4,000",
+"₹6,250",
+"₹40,000"
+],
+"a": 1,
+"e": "Pure premium = expected frequency × expected severity = 0.08 × 50,000 = ₹4,000. Independence of frequency and severity is assumed in the collective risk model."
+},
+{
+"n": 48,
+"topic": "Loss Distributions and Simulation",
+"t": "Compared with the exponential distribution, the Pareto distribution is preferred for modelling liability claim severity mainly because it:",
+"o": [
+"Has a constant hazard rate suitable for small claims",
+"Is bounded above, matching policy limits",
+"Is always symmetric about its mean",
+"Has a heavier right tail, giving a higher probability of very large claims"
+],
+"a": 3,
+"e": "The Pareto tail decays as a power of x rather than exponentially, so it assigns more probability to extreme losses — a feature of liability and excess layers."
+},
+{
+"n": 49,
+"topic": "Loss Distributions and Simulation",
+"t": "Ground-up losses follow an exponential distribution with mean ₹20,000. A policy carries a straight deductible of ₹10,000. Using e^(−0.5) ≈ 0.6065, the expected payment per ground-up loss is approximately:",
+"o": [
+"₹10,000",
+"₹6,065",
+"₹12,130",
+"₹20,000"
+],
+"a": 2,
+"e": "For an exponential, E[(X − d)+] = θ e^(−d/θ) = 20,000 × e^(−0.5) ≈ 20,000 × 0.6065 = ₹12,130. The memoryless property means losses above the deductible are again exponential with mean ₹20,000."
+},
+{
+"n": 50,
+"topic": "Loss Distributions and Simulation",
+"t": "In Monte Carlo simulation of claim severity using the inverse transform method, a random claim amount is generated by:",
+"o": [
+"Multiplying a uniform random number by the mean severity",
+"Drawing a uniform (0,1) random number u and setting X = F⁻¹(u), where F is the severity distribution function",
+"Adding the mean to a standard normal random number times the standard deviation",
+"Taking the average of several uniform random numbers"
+],
+"a": 1,
+"e": "Since F(X) is uniform on (0,1), solving F(X) = u reproduces the target distribution exactly. The normal shortcut works only for normal severities."
+}
+]

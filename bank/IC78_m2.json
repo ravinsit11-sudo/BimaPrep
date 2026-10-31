@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Introduction to Miscellaneous Insurance",
+"t": "The principle under which the insured is placed in the same financial position as before the loss, and must not profit from it, is:",
+"o": [
+"Indemnity",
+"Subrogation",
+"Contribution",
+"Utmost good faith"
+],
+"a": 0,
+"e": "Indemnity limits recovery to the actual loss. Subrogation and contribution are corollaries that support indemnity; utmost good faith concerns disclosure."
+},
+{
+"n": 2,
+"topic": "Introduction to Miscellaneous Insurance",
+"t": "Under the IRDAI (Insurance Surveyors and Loss Assessors) Regulations as amended in 2020, a licensed surveyor must be appointed for a non-motor general insurance claim exceeding:",
+"o": [
+"₹20,000",
+"₹1,00,000",
+"₹50,000",
+"₹5,00,000"
+],
+"a": 1,
+"e": "The threshold is ₹50,000 for motor claims and ₹1 lakh for other classes of general insurance; below these the insurer may assess the loss in-house."
+},
+{
+"n": 3,
+"topic": "Introduction to Miscellaneous Insurance",
+"t": "A stock of ₹40 lakh is insured against burglary under Policy A for ₹10 lakh and Policy B for ₹30 lakh. A loss of ₹4 lakh occurs. Policy B's share under contribution is:",
+"o": [
+"₹2 lakh",
+"₹1 lakh",
+"₹3 lakh",
+"₹4 lakh"
+],
+"a": 2,
+"e": "Contribution is in proportion to sums insured: B pays 30/40 × ₹4 lakh = ₹3 lakh and A pays ₹1 lakh."
+},
+{
+"n": 4,
+"topic": "Burglary Insurance",
+"t": "Stock valued at ₹20 lakh is insured for ₹10 lakh under a full-value burglary policy. Burglars steal stock worth ₹4 lakh. The amount payable is:",
+"o": [
+"₹4 lakh",
+"₹2 lakh",
+"₹1 lakh",
+"₹3 lakh"
+],
+"a": 1,
+"e": "The policy is subject to average: payable = (10/20) × ₹4 lakh = ₹2 lakh, since the insured is 50% under-insured."
+},
+{
+"n": 5,
+"topic": "Burglary Insurance",
+"t": "A trader keeps stock in three godowns in the same city and wants a single sum insured covering all locations. The suitable policy is a:",
+"o": [
+"Declaration policy",
+"First-loss policy",
+"Floater policy",
+"Blanket fidelity policy"
+],
+"a": 2,
+"e": "A floater policy covers stocks at several specified locations under one sum insured, charged at the highest applicable rate plus a floater loading."
+},
+{
+"n": 6,
+"topic": "Money Insurance",
+"t": "After business hours the insured leaves cash in an unlocked drawer, and it is stolen overnight by burglars. Under Section II of a money policy the loss is:",
+"o": [
+"Not covered, since outside business hours money must be kept in a locked safe or strongroom",
+"Covered in full",
+"Covered up to ₹5,000",
+"Covered if the amount is below ₹10,000"
+],
+"a": 0,
+"e": "Section II covers money on premises during business hours and, outside business hours, only while in a locked safe or strongroom."
+},
+{
+"n": 7,
+"topic": "Money Insurance",
+"t": "Loss of money from a safe opened by use of its own key is excluded under a money policy unless:",
+"o": [
+"The key was a duplicate",
+"The key was obtained by violence or threat of violence",
+"The safe was separately insured",
+"The loss is below ₹1,000"
+],
+"a": 1,
+"e": "The 'key clause' excludes loss from a safe opened with its key or a duplicate, unless the key was obtained by violence or threat to the insured or an employee."
+},
+{
+"n": 8,
+"topic": "Money Insurance",
+"t": "At expiry of the money-in-transit section the insured declares actual carryings higher than the estimate on which the provisional premium was charged. The insurer:",
+"o": [
+"Refunds part of the premium",
+"Cancels the policy",
+"Charges additional premium on the excess carryings",
+"Ignores the declaration"
+],
+"a": 2,
+"e": "The in-transit premium is adjustable: additional premium is charged if actual carryings exceed the estimate, and a refund is allowed (subject to a minimum retention) if they are lower."
+},
+{
+"n": 9,
+"topic": "Money Insurance",
+"t": "A cashier leaves a bag of cash in a locked but unattended car while having tea; the bag is stolen. Under a money policy the loss is:",
+"o": [
+"Covered in full",
+"Covered up to 50%",
+"Covered under Section II",
+"Excluded, as loss from an unattended vehicle is not covered"
+],
+"a": 3,
+"e": "Money must be in the personal custody of the insured or an authorised employee throughout transit; the unattended-vehicle exclusion applies."
+},
+{
+"n": 10,
+"topic": "Fidelity Guarantee Insurance",
+"t": "In the proposal form the employer declared that accounts are audited every year. The audits are discontinued and a loss through an employee's fraud is discovered two years later. The insurer:",
+"o": [
+"Must pay in full",
+"May repudiate, as the declared system of checks was not maintained",
+"Must pay 50%",
+"Must pay if the police are informed"
+],
+"a": 1,
+"e": "The declared system of supervision and checks is the basis of the contract; failure to maintain it is a breach entitling the insurer to avoid liability."
+},
+{
+"n": 11,
+"topic": "Introduction to Miscellaneous Insurance",
+"t": "A policy carries a franchise of ₹5,000. The insured suffers an admissible loss of ₹6,000. How much is payable?",
+"o": [
+"₹1,000",
+"Nil",
+"₹6,000",
+"₹5,000"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). Under a franchise, once the loss exceeds the franchise amount the whole loss is paid; only losses up to ₹5,000 are not paid. Under an excess (deductible) of ₹5,000 only ₹1,000 would have been paid.",
+"r": "key"
+},
+{
+"n": 12,
+"topic": "Fidelity Guarantee Insurance",
+"t": "A bond required from an administrator appointed by a court to manage the estate of a deceased person is a:",
+"o": [
+"Customs bond",
+"Excise bond",
+"Administration (court) bond",
+"Contractor's performance bond"
+],
+"a": 2,
+"e": "Court bonds such as administration, receivership and liquidator bonds guarantee faithful performance of duties ordered by a court; customs and excise bonds are government bonds."
+},
+{
+"n": 13,
+"topic": "Fidelity Guarantee Insurance",
+"t": "A fidelity guarantee policy in which each employee is named in a schedule with a separate sum insured against his name is a:",
+"o": [
+"Blanket policy",
+"Positions policy",
+"Floating policy",
+"Collective policy"
+],
+"a": 3,
+"e": "A collective policy lists named employees with individual amounts; a floating policy has one floating sum over named employees, and a blanket policy covers unnamed staff."
+},
+{
+"n": 14,
+"topic": "Bankers Indemnity Insurance",
+"t": "Under Section D (Dishonesty of Employees) of the Bankers Indemnity policy, an employee's fraud committed in an earlier policy year but discovered in the current policy year is:",
+"o": [
+"Never covered",
+"Covered subject to the retroactive period, provided the insurer has been continuously on risk",
+"Covered only if the employee confesses",
+"Covered under Section A instead"
+],
+"a": 1,
+"e": "Section D operates on a discovery basis with a retroactive period; losses committed within that period and discovered during the current policy are covered."
+},
+{
+"n": 15,
+"topic": "Bankers Indemnity Insurance",
+"t": "Cash being carried by a bank's messenger to the currency chest is snatched on the road. The claim falls under:",
+"o": [
+"Section A – On Premises",
+"Section C – Forgery",
+"Section B – In Transit",
+"Section E – Hypothecated Goods"
+],
+"a": 2,
+"e": "Section B covers money and securities while in transit in the custody of the bank's employees or authorised persons."
+},
+{
+"n": 16,
+"topic": "Bankers Indemnity Insurance",
+"t": "Loss of securities despatched by the bank through registered post is covered under:",
+"o": [
+"Section D",
+"Section G",
+"Section A",
+"Section F – Registered Postal Sendings"
+],
+"a": 3,
+"e": "Section F covers loss of securities and instruments sent by registered post, subject to the limits stated."
+},
+{
+"n": 17,
+"topic": "Personal Accident Insurance",
+"t": "The weekly compensation under Temporary Total Disablement (TTD) in a PA policy is 1% of the capital sum insured, payable for a maximum of:",
+"o": [
+"52 weeks",
+"26 weeks",
+"78 weeks",
+"100 weeks"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). TTD benefit is 1% of CSI per week (subject to a weekly cap) for a maximum of 100 weeks for any one accident.",
+"r": "key"
+},
+{
+"n": 18,
+"topic": "Jewellers Block Insurance",
+"t": "Trade furniture, fixtures, fittings and showcases in a jeweller's showroom are insured under which section of the Jewellers Block policy?",
+"o": [
+"Section IV",
+"Section I",
+"Section II",
+"Section III"
+],
+"a": 0,
+"e": "Section IV covers furniture, fixtures and fittings against fire, burglary and allied perils, separately from stock covered under Sections I to III."
+},
+{
+"n": 19,
+"topic": "Jewellers Block Insurance",
+"t": "A jeweller's year-end stock-taking reveals a shortage of gold with no explanation of how it was lost. Under the Jewellers Block policy the shortage is:",
+"o": [
+"Covered under Section I",
+"Excluded, as unexplained loss / inventory shortage is not covered",
+"Covered at 50%",
+"Covered under Section II"
+],
+"a": 1,
+"e": "Losses revealed only by stock-taking, or losses that cannot be attributed to an insured peril, are specifically excluded."
+},
+{
+"n": 20,
+"topic": "Jewellers Block Insurance",
+"t": "Under Section II of the Jewellers Block policy (property in custody), the cover for property with employees and agents is subject to:",
+"o": [
+"No limit at all",
+"A limit equal to the Section I sum insured",
+"A specified limit per person or category named in the schedule",
+"A flat limit of ₹1 lakh"
+],
+"a": 2,
+"e": "Section II specifies the categories of persons (partners, employees, brokers, cutters, goldsmiths) and the maximum amount that may be entrusted to each."
+},
+{
+"n": 21,
+"topic": "Jewellers Block Insurance",
+"t": "Jewellery sent by a jeweller through ordinary (unregistered) post is lost in transit. Under the Jewellers Block policy the loss is:",
+"o": [
+"Covered under Section III",
+"Covered under Section II",
+"Covered under Section I",
+"Not covered, since Section III requires despatch by registered insured post, air freight or approved carriers"
+],
+"a": 3,
+"e": "Section III cover applies only to transit by the specified secure modes; ordinary post is not an insured mode of transit."
+},
+{
+"n": 22,
+"topic": "Package Policies",
+"t": "All-risks cover for jewellery and valuables under the Householder's policy is provided in:",
+"o": [
+"Section III",
+"Section I",
+"Section II",
+"Section X"
+],
+"a": 0,
+"e": "Section III covers jewellery and valuables on an all-risks basis, generally anywhere in India, while Section II covers burglary of contents at the dwelling."
+},
+{
+"n": 23,
+"topic": "Package Policies",
+"t": "The Office Package policy is principally designed for:",
+"o": [
+"Manufacturing factories",
+"Offices of professionals and firms engaged in clerical/administrative work",
+"Cinema halls",
+"Hotels and restaurants"
+],
+"a": 1,
+"e": "The office package combines fire, burglary, money, plate glass, electronic equipment, fidelity, PA and liability covers suited to office premises; factories need separate covers."
+},
+{
+"n": 24,
+"topic": "Package Policies",
+"t": "Which section of a Shopkeeper's package policy compensates loss of gross profit when the shop is closed following a fire?",
+"o": [
+"Fidelity guarantee section",
+"Personal accident section",
+"Business interruption (consequential loss) section",
+"Public liability section"
+],
+"a": 2,
+"e": "The business interruption section pays loss of gross profit and increased cost of working during the indemnity period following damage by an insured fire peril."
+},
+{
+"n": 25,
+"topic": "Package Policies",
+"t": "In Section I of the Householder's policy, the sum insured on the building should normally represent:",
+"o": [
+"Market value of the flat including land",
+"Agreed value fixed by a valuer",
+"Indemnity value after depreciation",
+"Reinstatement (reconstruction) cost of the building excluding land"
+],
+"a": 3,
+"e": "Building cover is on reinstatement value, i.e., cost of rebuilding; land value is not insured. Contents are insured on market value."
+},
+{
+"n": 26,
+"topic": "Package Policies",
+"t": "Which of the following is NOT a feature of a package policy?",
+"o": [
+"Each section runs for a different policy period",
+"A single policy document covering several risks",
+"A discount on premium for taking several sections",
+"Standardised covers under each section"
+],
+"a": 0,
+"e": "All sections of a package policy run concurrently for the same period under one document, with one renewal date and a package discount."
+},
+{
+"n": 27,
+"topic": "Fidelity Guarantee Insurance",
+"t": "An employee defalcates ₹2,00,000. Salary and commission of ₹30,000 are due to him from the employer, and the FG policy carries an excess of ₹20,000. The insurer pays:",
+"o": [
+"₹2,00,000",
+"₹1,70,000",
+"₹1,50,000",
+"₹1,80,000"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). Amounts due to the employee are set off first (₹2,00,000 − ₹30,000 = ₹1,70,000), then the excess is deducted (₹1,70,000 − ₹20,000 = ₹1,50,000).",
+"r": "key"
+},
+{
+"n": 28,
+"topic": "Specialised Covers",
+"t": "The sum insured under a plate glass policy should represent:",
+"o": [
+"The market value of the shop",
+"The cost of replacing the glass including charges for fixing",
+"The frontage area of the premises",
+"The annual rent of the premises"
+],
+"a": 1,
+"e": "Indemnity is by replacement; the sum insured should be the current cost of replacement glass plus fitting, so the insured is not under-insured."
+},
+{
+"n": 29,
+"topic": "Specialised Covers",
+"t": "A concert organiser cancels the event because of poor ticket sales. Under an event cancellation policy the claim is:",
+"o": [
+"Covered in full",
+"Covered at 50%",
+"Not covered, as lack of financial support or poor public response is excluded",
+"Covered if the weather was also bad"
+],
+"a": 2,
+"e": "Event cancellation responds to causes beyond the organiser's control (venue damage, adverse weather, non-appearance if extended); financial failure or lack of interest is excluded."
+},
+{
+"n": 30,
+"topic": "Specialised Covers",
+"t": "In aviation insurance, 'hull' insurance covers:",
+"o": [
+"Legal liability to passengers",
+"Liability of airport operators",
+"Loss of licence of pilots",
+"Physical loss of or damage to the aircraft itself"
+],
+"a": 3,
+"e": "Hull cover is the property section for the aircraft (and often spares); liabilities and loss of licence are separate covers."
+},
+{
+"n": 31,
+"topic": "Specialised Covers",
+"t": "Bloodstock insurance primarily covers:",
+"o": [
+"Death of a horse due to accident, illness or disease",
+"Loss of prize money",
+"Theft of saddles and tack",
+"Veterinary fees only"
+],
+"a": 0,
+"e": "Bloodstock (horse) insurance is a mortality cover; extensions may include theft, infertility or loss of use, but veterinary fees and prize money are not the core cover."
+},
+{
+"n": 32,
+"topic": "Specialised Covers",
+"t": "Besides loss of or damage to the set, a television insurance policy also provides:",
+"o": [
+"Medical expenses of viewers",
+"Third-party legal liability arising from the TV set or antenna",
+"Refund of cable subscription",
+"Theft of the antenna alone"
+],
+"a": 1,
+"e": "TV policies cover the set and antenna against fire, theft and accidental damage and include a small third-party liability section."
+},
+{
+"n": 33,
+"topic": "Personal Accident Insurance",
+"t": "Under a PA policy, total and irrecoverable loss of sight of both eyes entitles the insured to:",
+"o": [
+"50% of CSI",
+"75% of CSI",
+"100% of CSI",
+"25% of CSI"
+],
+"a": 2,
+"e": "Loss of both eyes, both limbs, or one eye and one limb is treated as permanent total disablement, paying 100% of the capital sum insured."
+},
+{
+"n": 34,
+"topic": "Personal Accident Insurance",
+"t": "For a death claim under a PA policy, the death must occur as a result of the accident within:",
+"o": [
+"1 month",
+"3 months",
+"6 months",
+"12 calendar months"
+],
+"a": 3,
+"e": "Death or disablement must result solely and directly from the accident within 12 calendar months of its occurrence to be payable."
+},
+{
+"topic": "Reinsurance",
+"t": "The obligatory cession that Indian general insurers must make to GIC Re is currently:",
+"o": [
+"4%",
+"5%",
+"10%",
+"15%"
+],
+"a": 0,
+"e": "★ Core fact (asked across III papers). The obligatory cession was reduced to 4% from 1 April 2022.",
+"r": "core",
+"n": 35
+},
+{
+"n": 36,
+"topic": "Personal Accident Insurance",
+"t": "A PA policy with CSI ₹10 lakh is renewed after three consecutive claim-free years. The cumulative bonus addition applicable to death/PTD/PPD benefits is:",
+"o": [
+"₹1.5 lakh",
+"₹3 lakh",
+"₹50,000",
+"₹5 lakh"
+],
+"a": 0,
+"e": "Cumulative bonus accrues at 5% of CSI per claim-free year up to 50%: 3 × 5% × ₹10 lakh = ₹1.5 lakh. It does not apply to TTD."
+},
+{
+"n": 37,
+"topic": "Personal Accident Insurance",
+"t": "A PA policy (CSI ₹5 lakh) is extended to cover medical expenses. The insured's admitted TTD claim is ₹20,000 and medical bills are ₹15,000. Medical expenses payable are:",
+"o": [
+"₹15,000",
+"₹8,000",
+"₹50,000",
+"Nil"
+],
+"a": 1,
+"e": "Medical expenses are limited to 40% of the admissible claim or 10% of CSI, whichever is less: 40% × ₹20,000 = ₹8,000 (less than ₹50,000)."
+},
+{
+"n": 38,
+"topic": "Personal Accident Insurance",
+"t": "A PA insured disappears after the sinking of a ferry and the body is not found. Under the disappearance provision, the death claim is:",
+"o": [
+"Not payable at all",
+"Payable only after seven years",
+"Payable on presumption of death if the body is not traced within the stipulated period (one year) after the conveyance accident",
+"Payable at 50%"
+],
+"a": 2,
+"e": "Disappearance following a conveyance accident is deemed accidental death after the stipulated period, subject to refund if the insured is later found alive."
+},
+{
+"n": 39,
+"topic": "Overseas Travel Insurance",
+"t": "Under an Overseas Mediclaim policy, treatment abroad for a pre-existing condition is:",
+"o": [
+"Fully covered",
+"Covered after 30 days",
+"Covered at 50%",
+"Excluded, except (in some products) emergency life-saving treatment up to a sub-limit"
+],
+"a": 3,
+"e": "Pre-existing diseases are excluded; some plans allow limited emergency life-saving measures, but routine treatment of a known condition is never covered."
+},
+{
+"n": 40,
+"topic": "Overseas Travel Insurance",
+"t": "The Corporate Frequent Traveller plan of the Overseas Mediclaim policy is:",
+"o": [
+"An annual multi-trip policy with a maximum duration per trip",
+"A single-trip policy",
+"A lifetime policy",
+"A policy for domestic travel only"
+],
+"a": 0,
+"e": "CFT covers an executive's multiple overseas trips during the year under one policy, subject to a cap on the number of days per trip."
+},
+{
+"n": 41,
+"topic": "Overseas Travel Insurance",
+"t": "The sum insured under an overseas travel medical policy is expressed in:",
+"o": [
+"Indian rupees",
+"US dollars",
+"Euros",
+"Special Drawing Rights"
+],
+"a": 1,
+"e": "Limits are in US dollars because medical expenses are incurred abroad, while the premium is collected in rupees."
+},
+{
+"n": 42,
+"topic": "Rural Insurance",
+"t": "Death of an insured cow due to Foot and Mouth disease is covered under a cattle policy only if:",
+"o": [
+"The animal is below three years",
+"The policy is for more than two years",
+"The animal was vaccinated against the disease and the vaccination certificate is produced",
+"The owner belongs to a BPL family"
+],
+"a": 2,
+"e": "Deaths due to specified diseases (FMD, anthrax, HS, BQ, rinderpest, CBPP) are excluded unless the animal was vaccinated, with proof."
+},
+{
+"topic": "Principles",
+"t": "The principle that allows an insurer who has paid a claim to step into the insured's shoes and recover from a liable third party is:",
+"o": [
+"Contribution",
+"Subrogation",
+"Indemnity",
+"Proximate cause"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). Subrogation is a corollary of indemnity; it does not apply to life or personal accident (benefit) policies.",
+"r": "core",
+"n": 43
+},
+{
+"n": 44,
+"topic": "Rural Insurance",
+"t": "In cattle insurance the sum insured is fixed on the basis of:",
+"o": [
+"The owner's own declaration",
+"A government notified tariff",
+"The highest price in the local market",
+"The market value of the animal as assessed by a qualified veterinarian"
+],
+"a": 3,
+"e": "A veterinary doctor certifies the health, age and market value of the animal, which forms the sum insured; the claim is the market value at death or SI, whichever is less."
+},
+{
+"n": 45,
+"topic": "Rural Insurance",
+"t": "Under Pradhan Mantri Fasal Bima Yojana, the farmer's share of premium for Kharif food and oilseed crops is:",
+"o": [
+"2% of the sum insured",
+"1.5% of the sum insured",
+"5% of the sum insured",
+"10% of the sum insured"
+],
+"a": 0,
+"e": "Farmers pay 2% for Kharif, 1.5% for Rabi and 5% for annual commercial/horticultural crops; the balance of the actuarial premium is subsidised by the Centre and State."
+},
+{
+"n": 46,
+"topic": "Liability Insurance",
+"t": "A pressure cooker manufactured by the insured explodes in a customer's kitchen and injures her. The appropriate policy is:",
+"o": [
+"Public liability (industrial)",
+"Product liability",
+"Professional indemnity",
+"Workmen's compensation"
+],
+"a": 1,
+"e": "Product liability covers injury or damage caused by defective products after they leave the insured's premises; public liability covers accidents at the insured's premises."
+},
+{
+"n": 47,
+"topic": "Liability Insurance",
+"t": "An employer's statutory liability to pay compensation to injured workers under the Employees' Compensation Act, 1923 is insured under:",
+"o": [
+"Public liability policy",
+"Product liability policy",
+"Workmen's (Employees') Compensation policy",
+"Directors' and Officers' liability policy"
+],
+"a": 2,
+"e": "The EC policy (Table A) indemnifies the employer for compensation payable under the Act and costs; it is not a public liability cover."
+},
+{
+"n": 48,
+"topic": "Liability Insurance",
+"t": "Under the Public Liability Insurance Act, 1991 the owner must contribute to the Environmental Relief Fund an amount:",
+"o": [
+"Equal to 10% of the premium",
+"Fixed at ₹10,000",
+"Equal to 50% of the premium",
+"Equal to the premium paid for the compulsory policy"
+],
+"a": 3,
+"e": "Section 7A requires a contribution to the ERF equal to the premium, collected by the insurer and remitted to the Fund, which meets relief beyond the insurer's limits."
+},
+{
+"n": 49,
+"topic": "Reinsurance",
+"t": "Reinsurance arranged individually for a single risk, which the reinsurer may accept or decline, is called:",
+"o": [
+"Facultative reinsurance",
+"Treaty reinsurance",
+"Pool reinsurance",
+"Retrocession"
+],
+"a": 0,
+"e": "Facultative cover is negotiated risk by risk; under a treaty the reinsurer must accept all cessions within the agreed scope."
+},
+{
+"n": 50,
+"topic": "Reinsurance",
+"t": "A reinsurance arrangement under which the reinsurer pays only that part of each loss exceeding ₹50 lakh, up to a further ₹5 crore, is a:",
+"o": [
+"Quota-share treaty",
+"Excess of loss treaty",
+"Surplus treaty",
+"Facultative proportional cession"
+],
+"a": 1,
+"e": "Excess of loss is non-proportional: the cedant retains losses up to the attachment point and the reinsurer pays above it up to the cover limit."
+}
+]

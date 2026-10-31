@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Introduction to Asset Management",
+"t": "Which of the following funds of a life insurer carries the investment risk entirely on the policyholder?",
+"o": [
+"Unit-linked fund",
+"Participating (with-profit) fund",
+"Non-participating fund",
+"Shareholders' fund"
+],
+"a": 0,
+"e": "In ULIPs the policyholder bears the investment risk through the NAV; in participating business the risk is shared, and in non-par business the insurer bears it."
+},
+{
+"n": 2,
+"topic": "Asset Liability Management",
+"t": "An insurer sells 10-year guaranteed-return single-premium policies and invests the proceeds in 3-year bonds. The principal ALM risk it faces is:",
+"o": [
+"Price risk, since it must sell the bonds before maturity",
+"Currency risk on the premiums",
+"No risk, because the bonds are of shorter tenor than the liabilities",
+"Reinvestment risk, since bond proceeds may be reinvested at lower rates before the liabilities fall due"
+],
+"a": 3,
+"e": "Short assets against long guaranteed liabilities create reinvestment risk; if rates fall, the guaranteed return cannot be earned on the reinvested proceeds."
+},
+{
+"n": 3,
+"topic": "Asset Liability Management",
+"t": "A bond with Macaulay duration of 5.25 years and a yield to maturity of 5% (annual compounding) has a modified duration of:",
+"o": [
+"5.51 years",
+"5.00 years",
+"5.25 years",
+"4.75 years"
+],
+"a": 1,
+"e": "Modified duration = Macaulay duration/(1 + y) = 5.25/1.05 = 5.00 years."
+},
+{
+"n": 4,
+"topic": "Asset Liability Management",
+"t": "Other things being equal, which bond has the longest duration?",
+"o": [
+"A 10-year zero-coupon bond",
+"A 10-year bond with a 12% coupon",
+"A 10-year bond with a 6% coupon",
+"A 5-year zero-coupon bond"
+],
+"a": 0,
+"e": "Duration rises with maturity and falls with coupon; a zero-coupon bond's duration equals its maturity, so the 10-year zero has the longest duration."
+},
+{
+"n": 5,
+"topic": "Investment Alternatives",
+"t": "Which of the following distinguishes a debenture from an equity share?",
+"o": [
+"A debenture carries voting rights while an equity share does not",
+"A debenture holder is paid after equity shareholders on liquidation",
+"A debenture is a creditor's claim with fixed interest, whereas an equity share is an ownership claim with variable dividends",
+"Debentures cannot be listed on a stock exchange"
+],
+"a": 2,
+"e": "Debenture holders are lenders with priority over shareholders and no voting rights; equity holders own the residual and vote."
+},
+{
+"n": 6,
+"topic": "Security Market Analysis",
+"t": "The efficient market hypothesis in its 'semi-strong' form states that security prices fully reflect:",
+"o": [
+"Only past price and volume data",
+"All publicly available information",
+"All information, including private (insider) information",
+"Only information in the company's annual report"
+],
+"a": 1,
+"e": "Weak form covers past prices, semi-strong covers all public information (so fundamental analysis cannot earn excess returns) and strong form covers private information too."
+},
+{
+"n": 7,
+"topic": "IRDAI Investment Regulations",
+"t": "A life insurer is required to invest a minimum of 15% of its life fund in:",
+"o": [
+"Equity shares of listed companies",
+"Units of mutual funds",
+"Fixed deposits of scheduled banks",
+"Housing and infrastructure investments"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). Life insurers must place not less than 15% of the life fund in approved housing and infrastructure investments; there is no minimum for equity, mutual funds or bank deposits.",
+"r": "key"
+},
+{
+"n": 8,
+"topic": "Security Market Analysis",
+"t": "A depository in the Indian securities market (such as NSDL or CDSL) performs the function of:",
+"o": [
+"Guaranteeing the credit quality of issuers",
+"Fixing the daily prices of securities",
+"Holding securities in electronic (dematerialised) form and effecting transfers through book entries",
+"Underwriting public issues"
+],
+"a": 2,
+"e": "Depositories enable scripless holding and transfer of securities through depository participants; price discovery happens on the exchange."
+},
+{
+"n": 9,
+"topic": "Fundamental Analysis",
+"t": "Which of the following is a leading indicator in economic analysis for investment decisions?",
+"o": [
+"New orders received by manufacturing companies",
+"Unemployment rate",
+"Corporate profits of the previous year",
+"Average duration of unemployment"
+],
+"a": 0,
+"e": "Leading indicators such as new orders and building permits move before the economy; unemployment and past profits are lagging or coincident."
+},
+{
+"n": 10,
+"topic": "Fundamental Analysis",
+"t": "The interest coverage ratio of a company is computed as:",
+"o": [
+"Interest expense divided by total debt",
+"Earnings before interest and tax divided by interest expense",
+"Net profit divided by interest expense",
+"Total debt divided by EBIT"
+],
+"a": 1,
+"e": "Interest coverage = EBIT/Interest; a higher ratio means the company can comfortably service its debt, which matters to bond investors."
+},
+{
+"n": 11,
+"topic": "Technical Analysis",
+"t": "A 'resistance level' on a price chart is a level at which:",
+"o": [
+"Buying has historically prevented the price from falling further",
+"The exchange imposes a circuit breaker",
+"The company announces its results",
+"Selling pressure has historically been sufficient to prevent the price from rising further"
+],
+"a": 3,
+"e": "Resistance is a ceiling formed by supply; support is the floor formed by demand. A breakout above resistance is seen as bullish."
+},
+{
+"n": 12,
+"topic": "Technical Analysis",
+"t": "In technical analysis, rising prices accompanied by rising trading volumes are generally interpreted as:",
+"o": [
+"A sign that the uptrend is about to reverse",
+"Confirmation of the strength of the uptrend",
+"Evidence of insider trading",
+"An indication that the stock is undervalued on fundamentals"
+],
+"a": 1,
+"e": "Volume confirms price: an advance on expanding volume indicates broad participation; an advance on shrinking volume is suspect."
+},
+{
+"n": 13,
+"topic": "Portfolio Management",
+"t": "An investment policy statement for an insurer's participating fund would most appropriately specify:",
+"o": [
+"The names of individual stocks to be bought each month",
+"The bonus rate to be declared for the next ten years",
+"Return objectives, risk tolerance, liquidity needs, time horizon, regulatory constraints and permitted asset classes",
+"The commission structure for agents"
+],
+"a": 2,
+"e": "An IPS sets objectives and constraints and the permissible investment universe; security selection is an implementation decision."
+},
+{
+"n": 14,
+"topic": "Portfolio Management",
+"t": "Which of the following is an example of an active investment strategy?",
+"o": [
+"Holding an index fund that tracks the Nifty 50",
+"Overweighting banking stocks because the manager expects credit growth to accelerate",
+"Buying and holding Central Government securities to maturity to match liabilities",
+"Rebalancing to fixed policy weights every quarter"
+],
+"a": 1,
+"e": "Sector overweighting based on a forecast is an active bet; indexing, buy-and-hold matching and mechanical rebalancing are passive."
+},
+{
+"n": 15,
+"topic": "IRDAI Investment Regulations",
+"t": "An insurer's investment policy must, under IRDAI regulations, be reviewed by the Board of Directors at least:",
+"o": [
+"Once every half year",
+"Once every five years",
+"Once every month",
+"Only when the CEO changes"
+],
+"a": 0,
+"e": "The Board-approved investment policy must be reviewed at least half-yearly, covering prudential norms, exposure limits and risk management."
+},
+{
+"n": 16,
+"topic": "Risk and Return",
+"t": "A share bought at ₹400 paid a dividend of ₹10 during the year and was sold at ₹450. The holding period return is:",
+"o": [
+"12.5%",
+"2.5%",
+"15%",
+"17.5%"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). HPR = (Sale price − Purchase price + Dividend)/Purchase price = (450 − 400 + 10)/400 = 60/400 = 15%.",
+"r": "key"
+},
+{
+"n": 17,
+"topic": "IRDAI Investment Regulations",
+"t": "Under IRDAI regulations, exposure of an insurer's investment assets to a single industrial sector (as per NIC classification) is generally capped at:",
+"o": [
+"15% of investment assets",
+"5% of investment assets",
+"35% of investment assets",
+"50% of investment assets"
+],
+"a": 0,
+"e": "Industry sector exposure is limited to 15% of investment assets; a separate higher limit applies to the financial and insurance activities sector."
+},
+{
+"n": 18,
+"topic": "IRDAI Investment Regulations",
+"t": "A life insurer proposes to lend ₹200 crore to a company in which its promoter holds a controlling stake, secured by that company's property. Under IRDAI norms this is:",
+"o": [
+"Permitted, since the loan is secured by property",
+"Permitted up to 25% of the life fund",
+"Permitted provided the loan tenor is below one year",
+"Not permitted, since investments in promoter group companies are restricted and loans to such companies are barred"
+],
+"a": 3,
+"e": "IRDAI prohibits insurers from investing in or lending to promoter-group companies beyond the tight 5% cap on listed exposures; a direct loan to a promoter-controlled company is not allowed."
+},
+{
+"n": 19,
+"topic": "Solvency and Prudential Norms",
+"t": "Which of the following statements about the Available Solvency Margin (ASM) of an insurer is correct?",
+"o": [
+"ASM is the total premium collected in the year",
+"ASM is the market value of equity investments only",
+"ASM equals 150% of the Required Solvency Margin by definition",
+"ASM is the excess of the value of admissible assets over the value of liabilities, computed as prescribed by IRDAI"
+],
+"a": 3,
+"e": "ASM = admissible assets − liabilities (including reserves); the ratio ASM/RSM must be at least 150%, but ASM is not defined as 150% of RSM."
+},
+{
+"n": 20,
+"topic": "Solvency and Prudential Norms",
+"t": "A general insurer's Required Solvency Margin is ₹2,400 crore. To stay at the control level of solvency, its Available Solvency Margin must be at least:",
+"o": [
+"₹2,400 crore",
+"₹4,800 crore",
+"₹1,600 crore",
+"₹3,600 crore"
+],
+"a": 3,
+"e": "Minimum ASM = 1.5 × RSM = 1.5 × 2,400 = ₹3,600 crore."
+},
+{
+"n": 21,
+"topic": "Fixed Income and Money Market Instruments",
+"t": "Central Government dated securities in India are issued through:",
+"o": [
+"Public issues managed by SEBI",
+"Direct sale by the Ministry of Finance at post offices",
+"Listing on the BSE without any auction",
+"Auctions conducted by the Reserve Bank of India on behalf of the Government"
+],
+"a": 3,
+"e": "RBI, as the Government's debt manager, conducts G-sec auctions through the E-Kuber platform; primary dealers underwrite the auctions."
+},
+{
+"n": 22,
+"topic": "Fixed Income and Money Market Instruments",
+"t": "The 'repo rate' in India is the rate at which:",
+"o": [
+"The RBI lends short-term funds to banks against government securities",
+"Banks lend to each other overnight without collateral",
+"The RBI absorbs surplus liquidity from banks",
+"Corporates issue commercial paper"
+],
+"a": 0,
+"e": "Repo is RBI's lending rate to banks under the liquidity adjustment facility; reverse repo is the rate at which RBI absorbs liquidity."
+},
+{
+"n": 23,
+"topic": "Fixed Income and Money Market Instruments",
+"t": "The credit spread on a corporate bond is:",
+"o": [
+"The difference between the bond's coupon and its current yield",
+"The yield of the corporate bond minus the yield of a government security of similar maturity",
+"The brokerage charged on bond purchases",
+"The difference between the bid and ask prices"
+],
+"a": 1,
+"e": "Credit spread compensates investors for default and liquidity risk relative to the risk-free government benchmark; it widens when credit conditions worsen."
+},
+{
+"n": 24,
+"topic": "Fixed Income and Money Market Instruments",
+"t": "Commercial paper in India can be issued for a maturity of:",
+"o": [
+"Minimum 7 days up to one year",
+"Minimum 1 year up to 3 years",
+"Minimum 1 day up to 14 days",
+"Fixed 91 days only"
+],
+"a": 0,
+"e": "Under RBI directions CP tenor is between 7 days and one year from issue, in minimum denominations of ₹5 lakh."
+},
+{
+"n": 25,
+"topic": "Risk and Return",
+"t": "Two assets have returns with standard deviations of 10% and 20% and a correlation of zero. A portfolio invested 50:50 in them has a standard deviation of approximately:",
+"o": [
+"11.18%",
+"15.00%",
+"5.00%",
+"22.36%"
+],
+"a": 0,
+"e": "σp² = (0.5²×10²) + (0.5²×20²) + 0 = 25 + 100 = 125; σp = √125 = 11.18%, well below the 15% simple average, showing diversification."
+},
+{
+"n": 26,
+"topic": "Risk and Return",
+"t": "Which of the following risks is NOT diversifiable by holding a large number of securities?",
+"o": [
+"Risk of a labour strike at a single company",
+"Risk of a product recall by one manufacturer",
+"Interest rate risk affecting the whole market",
+"Risk of fraud by a single company's management"
+],
+"a": 2,
+"e": "Market-wide factors such as interest rates are systematic and remain even in a well-diversified portfolio; the others are firm-specific."
+},
+{
+"n": 27,
+"topic": "Risk and Return",
+"t": "Liquidity risk of an investment refers to the risk that:",
+"o": [
+"The issuer will fail to pay interest",
+"Inflation will reduce the real return",
+"Interest rates will rise after purchase",
+"The asset cannot be sold quickly without a significant reduction in price"
+],
+"a": 3,
+"e": "Liquidity risk concerns the ease of converting an asset into cash at fair value; thinly traded corporate bonds and real estate carry high liquidity risk."
+},
+{
+"n": 28,
+"topic": "Portfolio Theory and CAPM",
+"t": "Under CAPM, a security with a beta of zero should earn an expected return equal to:",
+"o": [
+"Zero",
+"The risk-free rate",
+"The market return",
+"The market risk premium"
+],
+"a": 1,
+"e": "E(R) = Rf + 0 × (Rm − Rf) = Rf; a zero-beta asset carries no systematic risk and is rewarded only with the risk-free rate."
+},
+{
+"n": 29,
+"topic": "ULIP Fund Management and NAV",
+"t": "A ULIP policyholder holds 2,500 units in an equity fund whose NAV is ₹38.40. The fund value of the policy is:",
+"o": [
+"₹65,104",
+"₹1,06,000",
+"₹38,400",
+"₹96,000"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). Fund value = units × NAV = 2,500 × 38.40 = ₹96,000.",
+"r": "key"
+},
+{
+"n": 30,
+"topic": "Portfolio Theory and CAPM",
+"t": "The Arbitrage Pricing Theory differs from CAPM in that APT:",
+"o": [
+"Assumes all investors hold the market portfolio",
+"Uses standard deviation as the only measure of risk",
+"Allows expected returns to depend on several macro-economic risk factors rather than a single market factor",
+"Applies only to bonds"
+],
+"a": 2,
+"e": "APT is a multi-factor model where sensitivities to several systematic factors determine return; CAPM uses a single factor, the market."
+},
+{
+"n": 31,
+"topic": "Portfolio Theory and CAPM",
+"t": "A stock has an expected return of 13% and a beta of 1.2. The risk-free rate is 7% and the market return is 11%. According to CAPM the stock is:",
+"o": [
+"Undervalued, since its expected return (13%) exceeds the required return of 11.8%",
+"Overvalued, since its required return of 11.8% exceeds its expected return",
+"Correctly valued, since expected and required returns are equal",
+"Undervalued, since its beta exceeds 1"
+],
+"a": 0,
+"e": "Required return = 7 + 1.2 × (11 − 7) = 11.8%. Expected 13% > required 11.8%, so the stock plots above the SML and is undervalued."
+},
+{
+"n": 32,
+"topic": "Performance Measurement",
+"t": "A fund returned 16% with a beta of 1.25 when the risk-free rate was 6% and the market returned 12%. Its Jensen's alpha is:",
+"o": [
+"−2.5%",
+"+4.0%",
+"+2.5%",
+"+1.0%"
+],
+"a": 2,
+"e": "CAPM return = 6 + 1.25 × (12 − 6) = 13.5%; alpha = 16 − 13.5 = +2.5%."
+},
+{
+"n": 33,
+"topic": "Performance Measurement",
+"t": "A benchmark used to evaluate the performance of a bond fund managed by an insurer should ideally be:",
+"o": [
+"The Nifty 50 equity index",
+"The savings bank interest rate",
+"The fund's own return of the previous year",
+"A published bond index with a duration and credit profile similar to the fund's mandate"
+],
+"a": 3,
+"e": "Performance should be judged against an investable, relevant benchmark of similar risk; an equity index or bank rate would be inappropriate."
+},
+{
+"n": 34,
+"topic": "Equity Management",
+"t": "Growth investing as an equity style focuses on companies that:",
+"o": [
+"Trade below their book value",
+"Pay high dividends and have low P/E ratios",
+"Are in financial distress",
+"Are expected to grow earnings faster than the market, even if they trade at high P/E multiples"
+],
+"a": 3,
+"e": "Growth investors pay up for superior earnings growth; value investors seek low P/E, low P/B and high dividend yield stocks."
+},
+{
+"n": 35,
+"topic": "Equity Management",
+"t": "A company announces a 1:1 bonus issue. Immediately after the bonus, other things being equal, the share price and EPS would be expected to:",
+"o": [
+"Both double",
+"Remain unchanged, since bonus shares are free",
+"Price doubles and EPS halves",
+"Both roughly halve, leaving the shareholder's total wealth and the P/E ratio unchanged"
+],
+"a": 3,
+"e": "Bonus shares capitalise reserves without bringing in cash; the number of shares doubles, so price and EPS adjust proportionately and total value is unchanged."
+},
+{
+"n": 36,
+"topic": "Mutual Funds",
+"t": "An investor pays ₹1,02,000 to buy units of a mutual fund scheme whose NAV is ₹20.40 with no entry load. Units allotted are:",
+"o": [
+"5,100",
+"5,000",
+"4,900",
+"2,040"
+],
+"a": 1,
+"e": "Units = Amount/NAV = 1,02,000/20.40 = 5,000."
+},
+{
+"topic": "Taxation",
+"t": "Deduction for life insurance premium under Section 80C of the Income Tax Act is available up to an overall limit of:",
+"o": [
+"₹1 lakh",
+"₹1.5 lakh",
+"₹2 lakh",
+"₹2.5 lakh"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). ₹1,50,000 aggregate for all 80C items; premium qualifies only up to 10% of the sum assured for policies issued after 1 April 2012.",
+"r": "core",
+"n": 37
+},
+{
+"n": 38,
+"topic": "Mutual Funds",
+"t": "A Systematic Investment Plan (SIP) in a mutual fund benefits the investor through:",
+"o": [
+"A guaranteed NAV at the time of redemption",
+"Exemption from fund management charges",
+"Fixed interest at the bank deposit rate",
+"Rupee cost averaging, since a fixed amount buys more units when NAV is low and fewer when it is high"
+],
+"a": 3,
+"e": "SIP spreads purchases over time, averaging the cost per unit and reducing the risk of investing a lump sum at a market high."
+},
+{
+"n": 39,
+"topic": "Derivatives",
+"t": "An insurer holding ₹500 crore of 10-year G-secs fears that yields will rise over the next three months. Which derivative position would hedge the price risk?",
+"o": [
+"Buy (long) interest rate futures on the 10-year G-sec",
+"Buy call options on the Nifty 50",
+"Sell (short) exchange-traded interest rate futures on the 10-year G-sec",
+"Enter a swap to receive fixed and pay floating"
+],
+"a": 2,
+"e": "Rising yields lower bond prices; a short futures position gains when prices fall, offsetting the loss on the cash bonds."
+},
+{
+"n": 40,
+"topic": "Derivatives",
+"t": "A forward rate agreement (FRA) is:",
+"o": [
+"An exchange-traded contract to deliver government securities",
+"An over-the-counter contract fixing the interest rate on a notional amount for a future period, settled by paying the difference",
+"An agreement to buy foreign currency at today's spot rate",
+"An option to buy a bond at a fixed price"
+],
+"a": 1,
+"e": "An FRA locks in a future interest rate; at settlement, the difference between the agreed and the reference rate on the notional is exchanged."
+},
+{
+"n": 41,
+"topic": "Derivatives",
+"t": "The premium paid for an option is made up of:",
+"o": [
+"Intrinsic value plus time value",
+"Strike price plus spot price",
+"Intrinsic value minus time value",
+"Brokerage plus exchange fee"
+],
+"a": 0,
+"e": "Option premium = intrinsic value (if any) + time value; time value decays to zero at expiry."
+},
+{
+"n": 42,
+"topic": "Valuation of Securities",
+"t": "A 5-year bond of face value ₹1,000 with a 7% annual coupon is trading at ₹960. Its approximate yield to maturity is:",
+"o": [
+"7.0%",
+"7.3%",
+"8.0%",
+"9.2%"
+],
+"a": 2,
+"e": "Approximate YTM = [70 + (1,000 − 960)/5]/[(1,000 + 960)/2] = (70 + 8)/980 = 78/980 = 7.96% ≈ 8.0%."
+},
+{
+"n": 43,
+"topic": "Valuation of Securities",
+"t": "Which of the following statements about bond price sensitivity is incorrect?",
+"o": [
+"A bond with longer maturity is more sensitive to yield changes than a similar bond with shorter maturity",
+"A bond with a higher coupon is more sensitive to yield changes than a similar bond with a lower coupon",
+"For a given change in yield, the price rise when yields fall exceeds the price fall when yields rise",
+"Price sensitivity is approximately measured by modified duration"
+],
+"a": 1,
+"e": "Higher coupons return cash sooner, shortening duration and reducing sensitivity, so the first statement is wrong; the others correctly describe maturity, convexity and duration."
+},
+{
+"n": 44,
+"topic": "Valuation of Securities",
+"t": "Under IRDAI norms, investments held in a unit-linked fund are valued at:",
+"o": [
+"Market value (marked to market) on each valuation day",
+"Amortised cost",
+"Historical cost",
+"Face value"
+],
+"a": 0,
+"e": "ULIP assets are marked to market daily so that the NAV reflects current values; non-linked debt is held at amortised cost."
+},
+{
+"topic": "Taxation",
+"t": "Deduction for health insurance premium under Section 80D for an individual below 60 years (self and family) is up to:",
+"o": [
+"₹15,000",
+"₹25,000",
+"₹50,000",
+"₹75,000"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). ₹25,000; ₹50,000 where the insured is a senior citizen; an additional ₹25,000/₹50,000 for parents.",
+"r": "core",
+"n": 45
+},
+{
+"n": 46,
+"topic": "ULIP Fund Management and NAV",
+"t": "The NAV of a unit-linked fund rose from ₹22.00 to ₹24.20 over a year. The fund's return for the year, before any policy-level charges, is:",
+"o": [
+"2.2%",
+"9.09%",
+"10%",
+"12%"
+],
+"a": 2,
+"e": "Return = (24.20 − 22.00)/22.00 = 2.20/22.00 = 10%."
+},
+{
+"n": 47,
+"topic": "ULIP Fund Management and NAV",
+"t": "Which of the following is a reason why IRDAI requires each unit-linked fund to have a unique Segregated Fund Identification Number (SFIN)?",
+"o": [
+"To determine the agent's commission",
+"To allow each fund's NAV, portfolio and performance to be tracked and disclosed separately to policyholders and the regulator",
+"To fix the policy's sum assured",
+"To exempt the fund from the fund management charge cap"
+],
+"a": 1,
+"e": "SFIN uniquely identifies each segregated fund for disclosure of NAV and portfolio, enabling transparent comparison across insurers."
+},
+{
+"n": 48,
+"topic": "ULIP Fund Management and NAV",
+"t": "A ULIP fund has investments valued at ₹850 crore, current assets of ₹12 crore, current liabilities and provisions of ₹7 crore and 42.75 crore units outstanding. The NAV per unit is:",
+"o": [
+"₹20.16",
+"₹19.88",
+"₹20.33",
+"₹20.00"
+],
+"a": 3,
+"e": "NAV = (850 + 12 − 7)/42.75 = 855/42.75 = ₹20.00."
+},
+{
+"n": 49,
+"topic": "Forex and International Investments",
+"t": "An Indian reinsurer with liabilities payable in US dollars can reduce its currency mismatch by:",
+"o": [
+"Holding only rupee-denominated government securities",
+"Holding permitted US dollar denominated assets or entering into forward contracts to buy dollars",
+"Investing in Indian equity shares",
+"Ignoring the exposure because the rupee is stable"
+],
+"a": 1,
+"e": "Matching the currency of assets with liabilities or hedging through forwards neutralises exchange risk; rupee assets alone leave the mismatch open."
+},
+{
+"n": 50,
+"topic": "Forex and International Investments",
+"t": "Country risk (sovereign risk) in international investment refers to:",
+"o": [
+"The risk that political or economic events in the foreign country impair the investor's ability to recover the investment or its returns",
+"The risk that the investor's home currency appreciates",
+"The risk of fraud by the investor's own broker",
+"The risk that the domestic stock index falls"
+],
+"a": 0,
+"e": "Country risk covers expropriation, exchange controls, default and political instability abroad; currency risk is a separate exposure."
+}
+]

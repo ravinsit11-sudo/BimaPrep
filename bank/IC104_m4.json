@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Term and Whole Life Insurance",
+"t": "A term plan sold as 'cover up to age 99' is in substance closest to:",
+"o": [
+"A money-back plan",
+"A whole life assurance without savings element",
+"A deferred annuity",
+"A pure endowment"
+],
+"a": 1,
+"e": "Term cover that runs to a very advanced age virtually guarantees a death payout, so it functions like a non-par whole life policy, and its premium is correspondingly higher than ordinary term."
+},
+{
+"n": 2,
+"topic": "Endowment and Money-Back Plans",
+"t": "Under IRDAI norms for non-linked savings (endowment) products, the minimum sum assured on death for a regular-premium policy must be at least:",
+"o": [
+"5 times the annualised premium",
+"10 times the annualised premium",
+"7 times the annualised premium, and in no case less than 105% of total premiums paid till death",
+"Equal to the maturity sum assured only"
+],
+"a": 2,
+"e": "The 7-times rule (1.25 times for single premium) plus the 105%-of-premiums floor ensures a meaningful life cover in savings products; the 10-times rule was relaxed in 2019."
+},
+{
+"n": 3,
+"topic": "Unit Linked Insurance Products (ULIPs)",
+"t": "The benefit illustration that must accompany a ULIP sale shows projected values at gross investment returns of:",
+"o": [
+"4% and 8% per annum",
+"6% and 10% per annum",
+"5% and 12% per annum",
+"8% and 15% per annum"
+],
+"a": 0,
+"e": "IRDAI requires illustrations at 4% and 8% gross returns (not guarantees), showing all charges and the net yield, signed by both the prospect and the intermediary."
+},
+{
+"n": 4,
+"topic": "Annuities and Pension Products",
+"t": "A 'joint life annuity with 50% to the spouse' means:",
+"o": [
+"Both annuitants receive 50% each from the start",
+"The full annuity is paid while the primary annuitant lives, and half of it continues to the spouse after his death",
+"The annuity stops on the first death",
+"The purchase price is split equally"
+],
+"a": 1,
+"e": "Reversionary annuity options let the survivor continue to receive a stated proportion (50% or 100%) of the original annuity after the primary annuitant's death."
+},
+{
+"n": 5,
+"topic": "Riders and Health-Linked Life Products",
+"t": "Under IRDAI norms, the premium for health-related riders attached to a base life policy may be up to:",
+"o": [
+"30% of the base premium",
+"50% of the base premium",
+"100% of the base premium",
+"200% of the base premium"
+],
+"a": 2,
+"e": "Health riders (critical illness, hospital cash, etc.) can carry premiums up to 100% of the base policy premium, while other riders are limited to 30% each."
+},
+{
+"n": 6,
+"topic": "Regulatory Framework and Taxation",
+"t": "A non-ULIP policy issued in 2015 has a sum assured of ₹5,00,000 and an annual premium of ₹60,000. On maturity, the proceeds will be:",
+"o": [
+"Fully exempt under Section 10(10D)",
+"Taxable, because the premium exceeds 10% of the sum assured",
+"Exempt because premium is below ₹5 lakh",
+"Exempt up to ₹1.5 lakh"
+],
+"a": 1,
+"e": "For policies issued on or after 1 April 2012, Section 10(10D) exemption is lost if premium in any year exceeds 10% of the actual capital sum assured; here ₹60,000 is 12% of ₹5 lakh. Death benefits remain exempt."
+},
+{
+"n": 7,
+"topic": "Introduction to Life Insurance Products",
+"t": "The 'needs analysis' approach to selling life insurance products aims to:",
+"o": [
+"Sell the product with the highest commission",
+"Avoid underwriting",
+"Maximise the sum assured irrespective of affordability",
+"Identify the customer's protection, savings and retirement needs and recommend a suitable product"
+],
+"a": 3,
+"e": "Suitability assessment is required by IRDAI's conduct norms; a needs analysis matches products (term, endowment, pension, health) to the customer's life stage, dependants and financial goals."
+},
+{
+"n": 8,
+"topic": "Endowment and Money-Back Plans",
+"t": "A 'limited premium endowment' plan of term 25 years with premium paying term 10 years:",
+"o": [
+"Requires premiums for 10 years while cover and bonuses continue for 25 years",
+"Provides cover only for 10 years",
+"Pays the maturity amount at the end of 10 years",
+"Lapses after 10 years"
+],
+"a": 0,
+"e": "Limited pay plans front-load the premiums; after the PPT the policy stays fully in force till maturity, which suits people who expect their earning span to be shorter than the cover period."
+},
+{
+"n": 9,
+"topic": "Unit Linked Insurance Products (ULIPs)",
+"t": "The 'settlement option' under a ULIP allows the policyholder to:",
+"o": [
+"Settle the policy by surrendering before lock-in",
+"Receive the maturity fund value in periodic instalments over a period of up to five years, with units continuing to be invested",
+"Convert the fund into an annuity without charges",
+"Stop paying premiums after three years"
+],
+"a": 1,
+"e": "The settlement option spreads maturity proceeds over up to five years; investment risk continues during this period and insurers may charge only the FMC."
+},
+{
+"n": 10,
+"topic": "Annuities and Pension Products",
+"t": "Annuity income received by an individual from a life insurer is taxed as:",
+"o": [
+"Exempt under Section 10(10D)",
+"Long-term capital gains at 10%",
+"Income from other sources at the individual's slab rate",
+"Salary income"
+],
+"a": 2,
+"e": "Annuity instalments are taxable in the hands of the annuitant as income from other sources (or salary, in the case of employer superannuation); the exemption under Section 10(10D) applies only to life policy proceeds."
+},
+{
+"n": 11,
+"topic": "Participating and Non-Participating Products",
+"t": "Under the Insurance Act, 1938, the maximum share of surplus from a participating fund that may be allocated to shareholders is:",
+"o": [
+"5%",
+"10%",
+"25%",
+"50%"
+],
+"a": 1,
+"e": "★ Key fact (repeated across the mocks of this paper). Section 49 of the Insurance Act limits the shareholders' share of surplus in the participating business to 10%, so at least 90% of distributable surplus goes to with-profits policyholders as bonus.",
+"r": "key"
+},
+{
+"n": 12,
+"topic": "Riders and Health-Linked Life Products",
+"t": "A waiver of premium rider that triggers on critical illness of the life assured is useful because:",
+"o": [
+"It increases the sum assured",
+"It converts the policy into a health indemnity policy",
+"It refunds all past premiums",
+"It keeps the base policy in force when the life assured's earning capacity is impaired by serious illness"
+],
+"a": 3,
+"e": "WOP on CI waives future premiums so that savings and cover continue even when the policyholder cannot earn, complementing the lump-sum CI benefit."
+},
+{
+"n": 13,
+"topic": "Group Life Products",
+"t": "A group leave encashment scheme offered by a life insurer helps an employer to:",
+"o": [
+"Fund the liability for accumulated leave payable on retirement or separation, with the fund managed by the insurer",
+"Insure against theft of leave records",
+"Pay gratuity to retiring employees",
+"Provide pension to employees"
+],
+"a": 0,
+"e": "Like gratuity, leave encashment is an employee benefit liability that can be funded through an insurer-managed scheme with tax advantages; it usually also carries a small life cover."
+},
+{
+"n": 14,
+"topic": "Product Design and Pricing",
+"t": "Reinsurance is relevant to product design because it:",
+"o": [
+"Eliminates the need for underwriting",
+"Allows the insurer to retain only part of large sums assured and obtain pricing and underwriting support from reinsurers",
+"Replaces the Appointed Actuary",
+"Guarantees the policyholder's bonus"
+],
+"a": 1,
+"e": "Reinsurers share mortality risk above the insurer's retention limit and often supply risk rates, underwriting manuals and product expertise, particularly for term and health products."
+},
+{
+"n": 15,
+"topic": "Regulatory Framework and Taxation",
+"t": "Section 64VB of the Insurance Act, 1938 provides that:",
+"o": [
+"Agents may collect premium in cash without limit",
+"Every policy must have a nominee",
+"No risk may be assumed by an insurer unless the premium is received in advance",
+"Policies must be issued in Hindi"
+],
+"a": 2,
+"e": "Section 64VB prohibits assumption of risk before receipt of premium or guarantee of payment, which is why life cover commences only after the first premium is realised."
+},
+{
+"n": 16,
+"topic": "Participating and Non-Participating Products",
+"t": "Which of the following statements about the participating fund is correct?",
+"o": [
+"It is combined with the shareholders' fund for investment purposes",
+"It is managed by IRDAI",
+"It cannot invest in government securities",
+"It is maintained as a separate segregated fund, and its surplus belongs predominantly to policyholders"
+],
+"a": 3,
+"e": "Regulations require segregation of par, non-par and linked funds; par surplus is distributed at least 90:10 in favour of policyholders."
+},
+{
+"n": 17,
+"topic": "Unit Linked Insurance Products (ULIPs)",
+"t": "Which of the following is NOT a charge typically levied under a ULIP?",
+"o": [
+"Bonus loading charge",
+"Fund management charge",
+"Premium allocation charge",
+"Mortality charge"
+],
+"a": 0,
+"e": "ULIP charges comprise premium allocation, policy administration, fund management, mortality, switching, partial withdrawal, discontinuance and rider charges; 'bonus loading' is not a ULIP charge since ULIPs do not declare bonuses."
+},
+{
+"n": 18,
+"topic": "Term and Whole Life Insurance",
+"t": "A married woman proposes a term policy of ₹1 crore on her own life with a declared annual income of ₹6 lakh. The underwriter's main concern will be:",
+"o": [
+"Her age proof only",
+"Financial underwriting, i.e., whether the sum assured is reasonable relative to her income (typically a multiple of annual income)",
+"Her nominee's occupation",
+"The GST rate"
+],
+"a": 1,
+"e": "Financial underwriting checks that cover is proportionate to human life value (for example 15–25 times income depending on age) to prevent over-insurance and moral hazard."
+},
+{
+"n": 19,
+"topic": "Unit Linked Insurance Products (ULIPs)",
+"t": "A ULIP policyholder with regular annualised premium of ₹1,00,000 and age 30 must be offered a minimum sum assured on death of at least:",
+"o": [
+"₹5,00,000",
+"₹10,00,000",
+"₹7,00,000",
+"₹12,50,000"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). IRDAI requires a minimum death benefit of 7 times the annualised premium for regular premium policies (1.25 times for single premium), so ₹7,00,000; the earlier 10-times rule was reduced in 2019.",
+"r": "key"
+},
+{
+"n": 20,
+"topic": "Annuities and Pension Products",
+"t": "Under a deferred annuity with a single premium of ₹10 lakh and a guaranteed accumulation of 6% p.a. compounded for 5 years, the approximate vesting corpus is:",
+"o": [
+"₹13.00 lakh",
+"₹16.00 lakh",
+"₹13.38 lakh",
+"₹11.80 lakh"
+],
+"a": 2,
+"e": "₹10 lakh × (1.06)^5 = ₹10 lakh × 1.3382 ≈ ₹13.38 lakh; the corpus is then commuted (up to 60%) and/or converted into an annuity."
+},
+{
+"n": 21,
+"topic": "Riders and Health-Linked Life Products",
+"t": "Which statement about an accidental death benefit (ADB) rider is correct?",
+"o": [
+"It pays on death from any cause",
+"It has no age limit",
+"It pays twice the base sum assured on natural death",
+"The benefit is payable only if death occurs within a specified period (commonly 180 days) of the accident and is caused solely and directly by it"
+],
+"a": 3,
+"e": "ADB riders define 'accident' as a sudden, external, violent and visible cause, require death within a stated period of the accident, and usually cease at age 65 or 70."
+},
+{
+"n": 22,
+"topic": "Product Design and Pricing",
+"t": "'Expense of management' limits set by IRDAI affect product pricing because:",
+"o": [
+"They cap the total commission and operating expenses an insurer may charge against its business, constraining the expense loading in premiums",
+"They fix the bonus rate",
+"They determine the mortality table",
+"They set the GST rate"
+],
+"a": 0,
+"e": "IRDAI (Expenses of Management, including Commission) Regulations, 2024 cap overall expenses as a percentage of premium; pricing must stay consistent with the insurer's board-approved commission and expense policy."
+},
+{
+"n": 23,
+"topic": "Regulatory Framework and Taxation",
+"t": "Premium paid by an individual on a life policy on the life of which of the following persons is NOT eligible for deduction under Section 80C?",
+"o": [
+"Self",
+"Parents",
+"Children",
+"Spouse"
+],
+"a": 1,
+"e": "Section 80C allows deduction for premium on the life of self, spouse and children (including married and adult children) of an individual; premium on parents' lives does not qualify. For a HUF, any member's life qualifies."
+},
+{
+"n": 24,
+"topic": "Introduction to Life Insurance Products",
+"t": "The Point of Sales Person (POSP) channel for life insurance can sell:",
+"o": [
+"Any product including ULIPs",
+"Only group policies",
+"Simple pre-underwritten products such as pure term, non-linked endowment and immediate annuity with limited sum assured",
+"Only policies to NRIs"
+],
+"a": 2,
+"e": "POSP products are simple, standardised and largely automatically underwritten with capped sums assured, so they can be sold by persons with minimal training and no medical examination."
+},
+{
+"n": 25,
+"topic": "Endowment and Money-Back Plans",
+"t": "A policyholder of a 20-year endowment (SA ₹10 lakh, annual premium ₹48,000) surrenders in the 19th policy year after paying 18 premiums. The guaranteed surrender value on premiums (ignoring bonuses) is:",
+"o": [
+"₹4,32,000",
+"₹10,00,000",
+"₹8,64,000",
+"₹7,77,600"
+],
+"a": 3,
+"e": "In the last two policy years the GSV factor is 90% of total premiums paid: 90% × (18 × ₹48,000 = ₹8,64,000) = ₹7,77,600, plus the surrender value of accrued bonuses; the insurer pays the higher of GSV and SSV."
+},
+{
+"n": 26,
+"topic": "Unit Linked Insurance Products (ULIPs)",
+"t": "Under a unit linked pension product, IRDAI requires the insurer to offer:",
+"o": [
+"An assured benefit on vesting or death as disclosed at the outset (for example a non-zero guarantee or 105% of premiums), and the option to purchase annuity",
+"A minimum guaranteed return of 8%",
+"Only equity funds",
+"No death benefit during deferment"
+],
+"a": 0,
+"e": "Pension products, linked or non-linked, must provide an assured benefit that is disclosed at sale; the guarantee may be on vesting and/or death, and the vested corpus is partly annuitised."
+},
+{
+"n": 27,
+"topic": "Participating and Non-Participating Products",
+"t": "A 'bonus rate of ₹42 per thousand' declared on a policy with sum assured ₹8,00,000 adds how much to the policy for that year (simple reversionary)?",
+"o": [
+"₹3,360",
+"₹33,600",
+"₹42,000",
+"₹3,36,000"
+],
+"a": 1,
+"e": "Bonus = 42 × (8,00,000 ÷ 1,000) = 42 × 800 = ₹33,600, which vests and is paid on death or maturity."
+},
+{
+"n": 28,
+"topic": "Regulatory Framework and Taxation",
+"t": "Under Section 80C of the Income Tax Act, 1961, the maximum aggregate deduction available for life insurance premium together with other eligible investments is:",
+"o": [
+"₹1,00,000",
+"₹2,50,000",
+"₹2,00,000",
+"₹1,50,000"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). The overall ceiling under Section 80C (read with Section 80CCE) is ₹1,50,000 per financial year. The ₹50,000 additional deduction under Section 80CCD(1B) is only for NPS contributions.",
+"r": "key"
+},
+{
+"n": 29,
+"topic": "Annuities and Pension Products",
+"t": "Which of the following factors does NOT directly affect the annuity rate offered by an insurer?",
+"o": [
+"Age of the annuitant",
+"Prevailing long-term interest rates",
+"The annuitant's number of children",
+"Annuitant mortality assumptions"
+],
+"a": 2,
+"e": "Annuity pricing depends on expected lifetime (age, sex, mortality), investment return and expenses; family size is irrelevant unless a joint life option is chosen."
+},
+{
+"n": 30,
+"topic": "Group Life Products",
+"t": "Which of the following is a correct statement regarding group term insurance underwriting?",
+"o": [
+"Every member must undergo a medical examination",
+"Underwriting is not required for groups",
+"Only the master policyholder is medically examined",
+"The group is underwritten as a whole, considering size, nature of occupation, age profile and participation level, with individual evidence only above the free cover limit"
+],
+"a": 3,
+"e": "Group underwriting relies on the law of large numbers and compulsory or high participation to control anti-selection; individual underwriting applies only for cover beyond the free cover limit."
+},
+{
+"n": 31,
+"topic": "Product Design and Pricing",
+"t": "A 'margin for adverse deviation' added to pricing assumptions is intended to:",
+"o": [
+"Provide a cushion against actual experience being worse than the best-estimate assumptions",
+"Increase agent commission",
+"Reduce the reserve requirement",
+"Ensure the premium equals the net premium"
+],
+"a": 0,
+"e": "Prudent assumptions include margins so that unfavourable mortality, expense or investment experience does not immediately produce losses; the margins also generate surplus in par business."
+},
+{
+"n": 32,
+"topic": "Regulatory Framework and Taxation",
+"t": "The maximum compensation that an Insurance Ombudsman can award for a complaint relating to a life insurance policy is:",
+"o": [
+"₹10 lakh",
+"₹50 lakh",
+"₹30 lakh",
+"₹20 lakh"
+],
+"a": 1,
+"e": "The Insurance Ombudsman Rules were amended in 2021 to raise the limit from ₹30 lakh to ₹50 lakh (inclusive of relief and ex-gratia), and complaints may be filed online."
+},
+{
+"n": 33,
+"topic": "Term and Whole Life Insurance",
+"t": "Which of the following statements about term assurance is INCORRECT?",
+"o": [
+"Term plans are available with single, limited and regular premium payment options",
+"Term plans may offer a life-stage option to increase cover at marriage or birth of a child",
+"Term plans always acquire a surrender value after one year",
+"Term plans may be sold online directly to customers"
+],
+"a": 2,
+"e": "Pure term plans (other than return-of-premium and limited pay variants) generally have no surrender value because they build no reserve of significance; the other statements are correct."
+},
+{
+"topic": "Insurance Act 1938 – key sections",
+"t": "Section 41 of the Insurance Act 1938 prohibits:",
+"o": [
+"Assignment of a life policy",
+"Payment of any rebate of premium or commission as an inducement to buy insurance",
+"Nomination by a minor",
+"Issue of a policy without a medical examination"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). Section 41 bars rebating; contravention attracts a penalty of up to ₹10 lakh.",
+"r": "core",
+"n": 34
+},
+{
+"n": 35,
+"topic": "Unit Linked Insurance Products (ULIPs)",
+"t": "The minimum policy term for a unit linked insurance product (other than pension and some group products) under IRDAI norms is:",
+"o": [
+"3 years",
+"15 years",
+"10 years",
+"5 years"
+],
+"a": 3,
+"e": "ULIPs must have a minimum term of five years, consistent with the five-year lock-in, so that they function as long-term insurance-cum-investment contracts rather than short-term investments."
+},
+{
+"n": 36,
+"topic": "Riders and Health-Linked Life Products",
+"t": "The term of a rider attached to a base policy:",
+"o": [
+"Cannot exceed the term of the base policy, and the rider ceases when the base policy terminates",
+"Can exceed the base policy term",
+"Is always 10 years",
+"Is fixed by IRDAI at 5 years"
+],
+"a": 0,
+"e": "Riders are dependent on the base contract; they cannot outlive it and generally terminate if the base policy lapses, is surrendered or matures."
+},
+{
+"n": 37,
+"topic": "Annuities and Pension Products",
+"t": "Under the 2024 product framework, a life insurer may allow a pension policyholder, at vesting, to:",
+"o": [
+"Withdraw the entire corpus as a lump sum without any annuity",
+"Commute up to 60% and purchase an immediate annuity with the balance from the same insurer or, through the open market option, from another insurer",
+"Reinvest the entire corpus in a ULIP",
+"Transfer the corpus to a mutual fund"
+],
+"a": 1,
+"e": "The open market option lets the annuitant shop for the best annuity rate with the non-commuted portion, subject to the insurer's product terms."
+},
+{
+"n": 38,
+"topic": "Group Life Products",
+"t": "A group immediate annuity policy is typically purchased by:",
+"o": [
+"Individual pensioners",
+"Bank borrowers",
+"A superannuation or pension fund trust to provide annuities to its retiring members",
+"Students"
+],
+"a": 2,
+"e": "Trustees of superannuation or gratuity funds buy group annuities so that the insurer pays monthly pensions to retired employees, transferring longevity and investment risk to the insurer."
+},
+{
+"n": 39,
+"topic": "Product Design and Pricing",
+"t": "For a policy's reserve (mathematical reserve) under the gross premium valuation method, which of the following is correct?",
+"o": [
+"Reserve = present value of future premiums − present value of future benefits and expenses",
+"Reserve equals the surrender value",
+"Reserve equals the total premiums received",
+"Reserve = present value of future benefits and expenses − present value of future gross premiums"
+],
+"a": 3,
+"e": "The prospective reserve is the amount the insurer must hold today, together with future premiums, to meet future benefits and expenses; it grows over the term of a level-premium policy."
+},
+{
+"n": 40,
+"topic": "Regulatory Framework and Taxation",
+"t": "A life insurance policy may be assigned under Section 38 of the Insurance Act, 1938. An 'absolute assignment' results in:",
+"o": [
+"Transfer of all rights, title and interest in the policy to the assignee",
+"Transfer of rights only until a loan is repaid",
+"Automatic cancellation of the nomination with no effect on ownership",
+"Transfer of rights only on death of the assignor"
+],
+"a": 0,
+"e": "Absolute assignment permanently transfers ownership (and cancels existing nomination); a conditional assignment, such as to a bank for a loan, reverts to the assignor on fulfilment of the condition."
+},
+{
+"n": 41,
+"topic": "Introduction to Life Insurance Products",
+"t": "The 'Customer Information Sheet' (CIS) required under the 2024 policyholder protection norms is intended to:",
+"o": [
+"Replace the policy document",
+"Summarise the key features, benefits, exclusions, charges and claim process of the policy in simple language",
+"Serve as the proposal form",
+"Record the agent's commission"
+],
+"a": 1,
+"e": "The CIS is a one-page standardised summary issued with every policy so that the customer can easily understand what is covered, what is not, and how to claim; it does not replace the policy contract."
+},
+{
+"n": 42,
+"topic": "Endowment and Money-Back Plans",
+"t": "A 'with-profit' endowment and a 'without-profit' endowment of the same sum assured differ in that:",
+"o": [
+"The without-profit version has a higher premium",
+"Only the without-profit version has a maturity benefit",
+"The with-profit version has a higher premium but shares in surplus through bonuses",
+"The with-profit version has no death benefit"
+],
+"a": 2,
+"e": "Without-profit (non-par) endowments guarantee only the sum assured at a lower premium; with-profit endowments cost more but add bonuses that typically make the maturity amount much larger."
+},
+{
+"n": 43,
+"topic": "Unit Linked Insurance Products (ULIPs)",
+"t": "A ULIP fund with net assets of ₹250 crore and 10 crore units outstanding has a NAV of ₹25. If a policyholder's fund holds 4,000 units, his fund value is:",
+"o": [
+"₹10,000",
+"₹2,50,000",
+"₹40,000",
+"₹1,00,000"
+],
+"a": 3,
+"e": "Fund value = units × NAV = 4,000 × ₹25 = ₹1,00,000; charges are then recovered by cancelling units so the unit count falls over time."
+},
+{
+"n": 44,
+"topic": "Participating and Non-Participating Products",
+"t": "In a participating fund, 'surplus' arises mainly from:",
+"o": [
+"Actual mortality, investment returns and expenses being more favourable than the premium assumptions",
+"Policyholders paying GST",
+"IRDAI grants",
+"Reinsurance commission alone"
+],
+"a": 0,
+"e": "Surplus is the excess of assets over liabilities revealed at valuation, driven by mortality profit, interest profit and expense profit relative to the conservative pricing basis."
+},
+{
+"topic": "Insurance Act 1938 – key sections",
+"t": "Section 64VB of the Insurance Act 1938 requires that:",
+"o": [
+"Premium is received in advance before the risk is assumed",
+"Every policy carries a free-look clause",
+"Claims are settled within 30 days",
+"Agents hold a valid licence"
+],
+"a": 0,
+"e": "★ Core fact (asked across III papers). No risk may be assumed unless the premium has been received in advance or is guaranteed in the manner prescribed.",
+"r": "core",
+"n": 45
+},
+{
+"n": 46,
+"topic": "Annuities and Pension Products",
+"t": "Which statement about immediate annuities is INCORRECT?",
+"o": [
+"They are usually non-participating",
+"Once purchased, a pure life annuity can normally be surrendered at any time for its full purchase price",
+"They can be bought with the proceeds of a deferred pension plan",
+"Annuity rates once fixed at purchase remain constant for life under a level annuity"
+],
+"a": 1,
+"e": "Pure life annuities are generally irrevocable and cannot be surrendered (limited surrender exists only in options such as return of purchase price or on critical illness under Saral Pension). The other statements are correct."
+},
+{
+"n": 47,
+"topic": "Riders and Health-Linked Life Products",
+"t": "A cancer cover product offered by a life insurer that pays a percentage of sum assured on early-stage diagnosis and the balance on major-stage diagnosis is an example of:",
+"o": [
+"An indemnity health product",
+"A ULIP",
+"A benefit-based health product with staged payouts",
+"A group credit cover"
+],
+"a": 2,
+"e": "Such products pay fixed benefits by stage (for example 25% early stage, 100% major stage) irrespective of treatment cost, consistent with the benefit-based health products life insurers may offer."
+},
+{
+"n": 48,
+"topic": "Term and Whole Life Insurance",
+"t": "For a 30-year-old, a 30-year pure term cover of ₹1 crore costs about ₹10,000 a year, while a 30-year endowment of the same sum assured would cost several lakh rupees a year. The main reason is:",
+"o": [
+"Endowment policies carry higher GST",
+"Term plans are subsidised by IRDAI",
+"Term plans have no underwriting",
+"Endowment premiums include a large savings component to fund the certain payment of ₹1 crore by maturity"
+],
+"a": 3,
+"e": "Term premium reflects only mortality cost, while the endowment must accumulate the full sum assured by the maturity date whether or not the life assured dies."
+},
+{
+"n": 49,
+"topic": "Product Design and Pricing",
+"t": "The required solvency margin that an Indian life insurer must maintain (control level) is a solvency ratio of at least:",
+"o": [
+"150%",
+"125%",
+"100%",
+"200%"
+],
+"a": 0,
+"e": "IRDAI requires available solvency margin to be at least 150% of the required solvency margin; product pricing and capital strain of new business must respect this constraint."
+},
+{
+"n": 50,
+"topic": "Regulatory Framework and Taxation",
+"t": "Under the IRDAI 2024 product framework, a non-linked savings policy acquires a surrender value:",
+"o": [
+"Only after three full years' premiums",
+"After payment of the first full policy year's premium, with a special surrender value based on the paid-up value discounted at the 10-year G-Sec yield plus 50 basis points",
+"After five years",
+"Never, unless the policy is participating"
+],
+"a": 1,
+"e": "The Master Circular of June 2024 made policies eligible for surrender value after the first year, and set SSV at not less than the expected present value of paid-up sum assured and future benefits discounted at 10-year G-Sec yield + 50 bps."
+}
+]

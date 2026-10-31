@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Introduction to Miscellaneous Insurance",
+"t": "A jeweller does not disclose in the proposal that his shop suffered two burglaries in the previous two years. On a subsequent loss, the insurer:",
+"o": [
+"Must pay the claim in full",
+"May avoid the policy for non-disclosure of a material fact",
+"Must pay 50% of the claim",
+"Must pay the claim with a penalty loading"
+],
+"a": 1,
+"e": "Previous losses are material facts; breach of utmost good faith entitles the insurer to avoid the contract ab initio."
+},
+{
+"n": 2,
+"topic": "Introduction to Miscellaneous Insurance",
+"t": "When an insurer cancels a miscellaneous policy mid-term (for reasons other than fraud), the premium refund to the insured is:",
+"o": [
+"Nil",
+"On the short-period scale",
+"Pro-rata for the unexpired period",
+"50% of the annual premium"
+],
+"a": 2,
+"e": "Cancellation by the insurer attracts pro-rata refund; cancellation at the insured's request attracts refund on the short-period scale, which is less than pro-rata."
+},
+{
+"n": 3,
+"topic": "Burglary Insurance",
+"t": "Total stock value is ₹50 lakh and a first-loss burglary policy is taken for 25%. The full value is correctly declared. A burglary loss of ₹10 lakh occurs. The amount payable is:",
+"o": [
+"₹10 lakh",
+"₹2.5 lakh",
+"₹5 lakh",
+"₹12.5 lakh"
+],
+"a": 0,
+"e": "The first-loss sum insured is ₹12.5 lakh; the loss of ₹10 lakh is within it and, as the total value was correctly declared, average does not apply."
+},
+{
+"n": 4,
+"topic": "Burglary Insurance",
+"t": "Which of the following losses is excluded under a burglary policy?",
+"o": [
+"Goods stolen after burglars broke the window",
+"Loss or damage caused by fire or explosion",
+"Damage to the safe caused by burglars",
+"Theft of stock during a hold-up"
+],
+"a": 1,
+"e": "Loss by fire, explosion and perils insurable under a fire policy is excluded, even if caused by burglars; damage to premises and hold-up are within the burglary cover."
+},
+{
+"n": 5,
+"topic": "Burglary Insurance",
+"t": "A wholesaler whose stock values vary widely from month to month and who wishes to avoid over-paying premium should take a:",
+"o": [
+"First-loss policy",
+"Blanket policy",
+"Floater policy",
+"Declaration policy"
+],
+"a": 3,
+"e": "A declaration policy charges a provisional premium on the sum insured and adjusts it on the average of monthly declared values, suiting fluctuating stocks."
+},
+{
+"n": 6,
+"topic": "Money Insurance",
+"t": "Section I (money in transit) of a money policy covers money while in the custody of:",
+"o": [
+"The insured or his authorised employees",
+"A security agency only",
+"Bank staff only",
+"Courier companies"
+],
+"a": 0,
+"e": "Transit cover applies when money is carried by the insured or employees authorised by him; carriage by outside agencies under contract is excluded unless specifically agreed."
+},
+{
+"n": 7,
+"topic": "Introduction to Miscellaneous Insurance",
+"t": "A policy carries a franchise of ₹5,000. The insured suffers an admissible loss of ₹6,000. How much is payable?",
+"o": [
+"₹1,000",
+"Nil",
+"₹6,000",
+"₹5,000"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). Under a franchise, once the loss exceeds the franchise amount the whole loss is paid; only losses up to ₹5,000 are not paid. Under an excess (deductible) of ₹5,000 only ₹1,000 would have been paid.",
+"r": "key"
+},
+{
+"n": 8,
+"topic": "Money Insurance",
+"t": "Which of the following falls within the definition of 'money' under a money insurance policy?",
+"o": [
+"Share certificates",
+"Postal orders",
+"Gold coins",
+"Fixed deposit receipts"
+],
+"a": 1,
+"e": "Postal orders, cheques, drafts, currency notes and current postage stamps are 'money'; share certificates and FDRs are securities, and gold coins are property."
+},
+{
+"n": 9,
+"topic": "Money Insurance",
+"t": "The sum insured under Section II (money on premises / in safe) of a money policy should be:",
+"o": [
+"The annual cash turnover",
+"The average daily cash balance",
+"The maximum amount of money held in the safe or premises at any one time",
+"10% of annual carryings"
+],
+"a": 2,
+"e": "Section II is a first-loss type cover where the sum insured represents the maximum amount likely to be on the premises or in the safe at any time."
+},
+{
+"n": 10,
+"topic": "Money Insurance",
+"t": "A money policy has a limit of ₹2 lakh per carrying. An employee carrying ₹3 lakh is robbed. The amount payable is:",
+"o": [
+"₹3 lakh",
+"Nil",
+"₹1.5 lakh",
+"₹2 lakh"
+],
+"a": 3,
+"e": "Liability for any one loss in transit is restricted to the limit per carrying; the excess ₹1 lakh is borne by the insured."
+},
+{
+"n": 11,
+"topic": "Fidelity Guarantee Insurance",
+"t": "Under a floating FG policy covering ten named employees with a floating sum insured of ₹5 lakh, two employees jointly defraud ₹7 lakh. The insurer pays:",
+"o": [
+"₹5 lakh",
+"₹7 lakh",
+"₹10 lakh",
+"₹3.5 lakh"
+],
+"a": 0,
+"e": "The floating sum insured is the insurer's maximum liability for all losses in aggregate, irrespective of the number of employees involved."
+},
+{
+"n": 12,
+"topic": "Fidelity Guarantee Insurance",
+"t": "A fidelity guarantee policy that covers whoever holds a specified designation (such as 'cashier') rather than a named person is a:",
+"o": [
+"Collective policy",
+"Positions policy",
+"Individual policy",
+"Blanket policy"
+],
+"a": 1,
+"e": "A positions policy insures by position so that staff changes need not be endorsed; a blanket policy covers all staff without naming positions."
+},
+{
+"n": 13,
+"topic": "Fidelity Guarantee Insurance",
+"t": "After a claim has been paid in respect of an employee under a fidelity guarantee policy, the insurer normally:",
+"o": [
+"Doubles the sum insured on that employee",
+"Continues the cover unchanged",
+"Ceases the guarantee in respect of that employee",
+"Reduces the sum insured by 50%"
+],
+"a": 2,
+"e": "Once an employee's dishonesty is established, the guarantee on him is cancelled; the employer is expected to dismiss him and cover cannot continue."
+},
+{
+"n": 14,
+"topic": "Bankers Indemnity Insurance",
+"t": "A bank suffers loss because an appraiser it engaged to value gold ornaments pledged against loans deliberately over-valued spurious gold. The relevant section is:",
+"o": [
+"Section E – Hypothecated Goods",
+"Section G – Appraisers",
+"Section D – Dishonesty of Employees",
+"Section A – On Premises"
+],
+"a": 1,
+"e": "Appraisers are not employees; their infidelity is covered under the specific Section G of the Bankers Indemnity policy."
+},
+{
+"n": 15,
+"topic": "Bankers Indemnity Insurance",
+"t": "Section D (Dishonesty of Employees) of the Bankers Indemnity policy operates on:",
+"o": [
+"Occurrence basis",
+"Claims-made basis",
+"Discovery basis (loss discovered during the policy period)",
+"Accrual basis"
+],
+"a": 2,
+"e": "Employee fraud often comes to light long after commission, so the section covers losses discovered during the policy period, within the retroactive period."
+},
+{
+"n": 16,
+"topic": "Bankers Indemnity Insurance",
+"t": "Which of the following is excluded under the Bankers Indemnity policy?",
+"o": [
+"Cash lost in a robbery on the bank premises",
+"Forged cheques encashed by the bank",
+"Dishonesty of a bank employee",
+"Losses arising from the bank's own credit decisions, such as bad loans"
+],
+"a": 3,
+"e": "The policy covers fortuitous and fraudulent losses, not trading or credit losses that are inherent business risks of the bank."
+},
+{
+"n": 17,
+"topic": "Personal Accident Insurance",
+"t": "The weekly compensation under Temporary Total Disablement (TTD) in a PA policy is 1% of the capital sum insured, payable for a maximum of:",
+"o": [
+"52 weeks",
+"26 weeks",
+"78 weeks",
+"100 weeks"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). TTD benefit is 1% of CSI per week (subject to a weekly cap) for a maximum of 100 weeks for any one accident.",
+"r": "key"
+},
+{
+"n": 18,
+"topic": "Jewellers Block Insurance",
+"t": "Armed robbers enter a jewellery showroom during business hours and take gold from the counter. The loss is:",
+"o": [
+"Covered under Section I, as hold-up/robbery on premises is an insured peril",
+"Not covered at all",
+"Covered under Section II",
+"Covered only if an alarm was installed"
+],
+"a": 0,
+"e": "Section I covers property on the premises against fire, burglary, housebreaking, theft, hold-up and robbery, riot and allied perils."
+},
+{
+"n": 19,
+"topic": "Jewellers Block Insurance",
+"t": "The rating of a Jewellers Block policy mainly depends on:",
+"o": [
+"The turnover of the jeweller only",
+"Security measures (safe, alarm, guards), locality and claims experience",
+"The number of family members of the proprietor",
+"GST registration of the firm"
+],
+"a": 1,
+"e": "Underwriters assess the physical protections, strong-room quality, location risk, category of business and past losses to fix the rate."
+},
+{
+"n": 20,
+"topic": "Jewellers Block Insurance",
+"t": "During business hours, thieves break a locked display window of a jewellery shop and snatch items. Under the Jewellers Block policy the loss is:",
+"o": [
+"Not covered",
+"Covered under Section IV",
+"Covered under Section I",
+"Covered under Section III"
+],
+"a": 2,
+"e": "Property on the premises, including display during business hours, is covered under Section I against theft and burglary; the night-time safe warranty does not apply during business hours."
+},
+{
+"n": 21,
+"topic": "Jewellers Block Insurance",
+"t": "A goldsmith (karigar) to whom the jeweller entrusted gold for making ornaments suffers a theft at his workshop. The jeweller's claim is:",
+"o": [
+"Not covered under any section",
+"Covered under Section I",
+"Covered under Section IV",
+"Covered under Section II, if the goldsmith is within the categories and limits specified in the schedule"
+],
+"a": 3,
+"e": "Section II covers property in the custody of specified persons including goldsmiths and cutters, up to the per-person limits."
+},
+{
+"n": 22,
+"topic": "Package Policies",
+"t": "Accidental breakage of fixed plate glass in the doors and windows of a house is covered under which section of the Householder's policy?",
+"o": [
+"Section IV – Plate glass",
+"Section I – Fire",
+"Section II – Burglary",
+"Section V – Breakdown of domestic appliances"
+],
+"a": 0,
+"e": "Section IV provides plate glass cover for the dwelling; fire and burglary sections do not cover accidental breakage of glass."
+},
+{
+"n": 23,
+"topic": "Package Policies",
+"t": "A refrigerator's compressor fails after twelve years of use because of gradual deterioration. Under Section V (breakdown of domestic appliances) of the Householder's policy the claim is:",
+"o": [
+"Covered under Section V",
+"Not covered, as wear and tear and gradual deterioration are excluded",
+"Covered under Section I",
+"Covered under Section VI"
+],
+"a": 1,
+"e": "Breakdown cover responds to sudden and unforeseen mechanical or electrical breakdown, not to wear, tear or gradual deterioration."
+},
+{
+"n": 24,
+"topic": "Package Policies",
+"t": "Damage to a shop's illuminated signboard by a storm is covered under which section of the Shopkeeper's policy?",
+"o": [
+"Burglary section",
+"Fire section",
+"Neon sign / glow sign section",
+"Money section"
+],
+"a": 2,
+"e": "The shopkeeper's package has a specific neon/glow sign section covering accidental external damage, fire, lightning, storm, theft and riot."
+},
+{
+"n": 25,
+"topic": "Package Policies",
+"t": "A distinctive feature of the standard Bharat Griha Raksha home policy is that:",
+"o": [
+"It carries a compulsory excess of 5%",
+"It covers fire only",
+"The maximum sum insured is ₹10 lakh",
+"Under-insurance is waived (the average clause does not apply)"
+],
+"a": 3,
+"e": "Bharat Griha Raksha waives under-insurance, so claims are paid without proportionate reduction even if the sum insured is less than the value at risk."
+},
+{
+"n": 26,
+"topic": "Package Policies",
+"t": "Dishonesty of a salaried salesman handling the shop's cash is covered under which section of the Shopkeeper's policy?",
+"o": [
+"Fidelity guarantee section",
+"Burglary section",
+"Money section",
+"Personal accident section"
+],
+"a": 0,
+"e": "The fidelity section covers direct pecuniary loss through fraud or dishonesty of employees; money and burglary sections exclude employee dishonesty."
+},
+{
+"n": 27,
+"topic": "Reinsurance",
+"t": "A reinsurance arrangement under which the reinsurer pays only that part of each loss exceeding ₹50 lakh, up to a further ₹5 crore, is a:",
+"o": [
+"Quota-share treaty",
+"Excess of loss treaty",
+"Surplus treaty",
+"Facultative proportional cession"
+],
+"a": 1,
+"e": "★ Key fact (repeated across the mocks of this paper). Excess of loss is non-proportional: the cedant retains losses up to the attachment point and the reinsurer pays above it up to the cover limit.",
+"r": "key"
+},
+{
+"n": 28,
+"topic": "Specialised Covers",
+"t": "A golf tournament sponsor offers a ₹50 lakh car to any player scoring a hole-in-one. The insurance that indemnifies the sponsor if the feat is achieved is:",
+"o": [
+"Event cancellation insurance",
+"Prize indemnity (hole-in-one) insurance",
+"Sports personal accident",
+"Public liability"
+],
+"a": 1,
+"e": "Hole-in-one cover is a prize indemnity policy paying the sponsor the cost of the prize if the contingency occurs."
+},
+{
+"n": 29,
+"topic": "Specialised Covers",
+"t": "One earring of an insured pair is lost. Under the pair-and-set clause the insurer pays:",
+"o": [
+"The full value of the pair",
+"Nothing",
+"The proportionate value of the lost item, not the whole pair",
+"The full value less 10%"
+],
+"a": 2,
+"e": "The pair-and-set clause limits liability to the value of the lost or damaged part, ignoring any special value of the pair as a whole."
+},
+{
+"n": 30,
+"topic": "Specialised Covers",
+"t": "The tyres and bell of an insured pedal cycle are stolen while the cycle itself is left behind. The claim is:",
+"o": [
+"Covered in full",
+"Covered up to ₹500",
+"Covered at 50%",
+"Not covered, as theft of accessories alone is excluded unless the whole cycle is stolen"
+],
+"a": 3,
+"e": "Pedal cycle policies exclude loss of accessories unless the cycle is stolen at the same time."
+},
+{
+"n": 31,
+"topic": "Specialised Covers",
+"t": "Legal liability of an Indian air carrier to its passengers on international flights is governed by:",
+"o": [
+"The Carriage by Air Act, 1972 incorporating international conventions",
+"The Motor Vehicles Act, 1988",
+"The Public Liability Insurance Act, 1991",
+"The Indian Contract Act, 1872"
+],
+"a": 0,
+"e": "The Carriage by Air Act gives effect to the Warsaw/Montreal regime, fixing carriers' liability for passenger death, injury and baggage, which aviation liability policies insure."
+},
+{
+"n": 32,
+"topic": "Specialised Covers",
+"t": "Under a Neon Sign policy, loss of the sign by theft is:",
+"o": [
+"Always excluded",
+"Covered, as theft is an insured peril",
+"Covered only if a burglary policy also exists",
+"Covered under the fire policy"
+],
+"a": 1,
+"e": "Neon sign policies cover accidental external means, fire, lightning, external explosion, theft and riot; electrical breakdown of tubes is excluded."
+},
+{
+"n": 33,
+"topic": "Personal Accident Insurance",
+"t": "For PA rating, a paid driver employed by a transport company falls under:",
+"o": [
+"Risk Class I",
+"Risk Class III",
+"Risk Class II",
+"Risk Class IV"
+],
+"a": 2,
+"e": "Class II includes moderately hazardous occupations such as paid drivers, builders, engineers on site and cash-carrying employees; Class I is clerical/professional."
+},
+{
+"n": 34,
+"topic": "Personal Accident Insurance",
+"t": "An insured with CSI ₹6 lakh is temporarily totally disabled for 10 weeks. TTD compensation at 1% per week is:",
+"o": [
+"₹6,000",
+"₹30,000",
+"₹1,20,000",
+"₹60,000"
+],
+"a": 3,
+"e": "1% of ₹6 lakh = ₹6,000 per week × 10 weeks = ₹60,000, subject to any weekly cap in the policy."
+},
+{
+"topic": "Principles",
+"t": "In a life insurance contract, insurable interest must exist:",
+"o": [
+"At the time of the claim only",
+"At inception of the policy",
+"Both at inception and at claim",
+"At renewal each year"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). Life: at inception only. Marine: at the time of loss. Fire and motor: at both inception and loss.",
+"r": "core",
+"n": 35
+},
+{
+"n": 36,
+"topic": "Personal Accident Insurance",
+"t": "The age range for cover under a standard individual Personal Accident policy is generally:",
+"o": [
+"5 to 70 years",
+"18 to 60 years",
+"0 to 100 years",
+"10 to 65 years"
+],
+"a": 0,
+"e": "Standard PA covers persons aged 5 to 70 (children from 5 years as dependants); renewals beyond 70 are at the insurer's discretion with loading."
+},
+{
+"n": 37,
+"topic": "Personal Accident Insurance",
+"t": "A Group PA policy issued to an employer on an unnamed basis requires:",
+"o": [
+"Each employee's signature on the proposal",
+"The number of employees and their occupation categories for rating, with a list to be produced at the time of a claim",
+"Medical examination of each employee",
+"No record of employees"
+],
+"a": 1,
+"e": "Unnamed group cover is rated on the number and risk class of employees; the employer must establish membership of the group when a claim arises."
+},
+{
+"n": 38,
+"topic": "Personal Accident Insurance",
+"t": "Which of the following is NOT excluded under a Personal Accident policy?",
+"o": [
+"Suicide or self-inflicted injury",
+"Injury due to war or warlike operations",
+"Death from a snake bite",
+"Complications of pregnancy or childbirth"
+],
+"a": 2,
+"e": "A snake bite is an external, violent and visible means and therefore an accident; suicide, war and childbirth are standard exclusions."
+},
+{
+"n": 39,
+"topic": "Overseas Travel Insurance",
+"t": "The personal liability section of an overseas travel policy covers:",
+"o": [
+"Professional negligence of the insured",
+"Liability for a motor accident while driving a car abroad",
+"Employer's liability",
+"Third-party bodily injury or property damage caused accidentally by the insured in a private capacity"
+],
+"a": 3,
+"e": "Personal liability excludes professional, motor and employment-related liabilities and covers only private-capacity accidents to third parties."
+},
+{
+"n": 40,
+"topic": "Overseas Travel Insurance",
+"t": "The 'trip cancellation' benefit of an overseas travel policy reimburses:",
+"o": [
+"Prepaid non-refundable travel and accommodation costs when the trip is cancelled for covered reasons such as serious illness or death of a close relative",
+"Loss of enjoyment of the holiday",
+"Fines imposed by foreign authorities",
+"All expenses of the trip regardless of cause"
+],
+"a": 0,
+"e": "Only forfeited deposits and non-refundable bookings are reimbursed, and only for the specified causes; change of mind is excluded."
+},
+{
+"n": 41,
+"topic": "Overseas Travel Insurance",
+"t": "For checked-in baggage lost by the airline, the overseas travel insurer's payment is:",
+"o": [
+"The full sum insured regardless of circumstances",
+"Subject to the policy limit and in excess of compensation received from the airline",
+"Nil, since the airline is liable",
+"50% of the sum insured"
+],
+"a": 1,
+"e": "The carrier is primarily liable; the policy pays the balance up to its limit (with per-bag and per-item sub-limits) after the airline's compensation."
+},
+{
+"n": 42,
+"topic": "Rural Insurance",
+"t": "The insurable age range for milch cows under a standard cattle insurance scheme is:",
+"o": [
+"1 to 5 years",
+"3 to 15 years",
+"2 to 10 years",
+"5 to 20 years"
+],
+"a": 2,
+"e": "Milch cows are insured from 2 to 10 years and buffaloes from 3 to 12 years; other categories have their own ranges."
+},
+{
+"n": 43,
+"topic": "Rural Insurance",
+"t": "Which document is NOT normally required for a death claim under cattle insurance?",
+"o": [
+"The ear tag of the animal",
+"Post-mortem report",
+"Veterinary death certificate",
+"FIR with the police"
+],
+"a": 3,
+"e": "Death claims need the claim form, ear tag, veterinary certificate and post-mortem report; an FIR is relevant only for theft, if that extension is taken."
+},
+{
+"n": 44,
+"topic": "Rural Insurance",
+"t": "Cattle insurance policies may be issued for a maximum term of:",
+"o": [
+"3 years",
+"1 year",
+"5 years",
+"10 years"
+],
+"a": 0,
+"e": "Long-term policies of up to three years are permitted with a premium discount, in addition to annual policies."
+},
+{
+"n": 45,
+"topic": "Liability Insurance",
+"t": "A professional indemnity policy on claims-made basis has a retroactive date of 1 April 2022. A claim is made in 2025 for an act committed in 2021. The claim is:",
+"o": [
+"Covered",
+"Not covered, since the act precedes the retroactive date",
+"Covered at 50%",
+"Covered if reported promptly"
+],
+"a": 1,
+"e": "Claims-made cover responds only to acts committed on or after the retroactive date and claims made during the policy period."
+},
+{
+"n": 46,
+"topic": "Liability Insurance",
+"t": "A five-star hotel wishing to cover its liability to guests and visitors injured on its premises should buy a:",
+"o": [
+"Public liability (industrial risks) policy",
+"Product liability policy",
+"Public liability (non-industrial risks) policy",
+"Policy under the Public Liability Insurance Act"
+],
+"a": 2,
+"e": "Hotels, offices, shops and cinemas are non-industrial risks; factories and manufacturing units take the industrial PL policy."
+},
+{
+"topic": "Principles",
+"t": "Non-disclosure of a material fact by the proposer makes the contract:",
+"o": [
+"Void ab initio",
+"Voidable at the option of the insurer",
+"Illegal",
+"Automatically continued on revised terms"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). Breach of utmost good faith renders the contract voidable, not void; the insurer may elect to avoid it (subject to Section 45 for life).",
+"r": "core",
+"n": 47
+},
+{
+"n": 48,
+"topic": "Liability Insurance",
+"t": "Liability of company directors for wrongful acts committed in their managerial capacity is insured under:",
+"o": [
+"Public liability policy",
+"Professional indemnity for doctors",
+"Product liability policy",
+"Directors' and Officers' (D&O) liability policy"
+],
+"a": 3,
+"e": "D&O covers directors and officers (and the company for indemnification) against claims by shareholders, regulators and others for wrongful acts."
+},
+{
+"n": 49,
+"topic": "Reinsurance",
+"t": "A cedant's retention is ₹50 lakh and it has a nine-line surplus treaty. For a risk with sum insured ₹3 crore, the amount ceded to the surplus treaty is:",
+"o": [
+"₹2.5 crore",
+"₹3 crore",
+"₹50 lakh",
+"₹4.5 crore"
+],
+"a": 0,
+"e": "Treaty capacity is 9 × ₹50 lakh = ₹4.5 crore; the cedant retains ₹50 lakh and cedes the balance ₹2.5 crore."
+},
+{
+"n": 50,
+"topic": "Reinsurance",
+"t": "The order of preference for placing reinsurance cessions and the rules for cross-border reinsurers are laid down in:",
+"o": [
+"Section 64VB of the Insurance Act",
+"IRDAI (Re-insurance) Regulations, 2018",
+"The Public Liability Insurance Act, 1991",
+"The Companies Act, 2013"
+],
+"a": 1,
+"e": "The 2018 regulations (as amended) prescribe retention norms, obligatory cession and the order of preference among Indian reinsurers, foreign reinsurance branches and CBRs."
+}
+]
