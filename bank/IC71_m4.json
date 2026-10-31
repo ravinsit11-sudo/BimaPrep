@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Introduction to Indian Agriculture",
+"t": "The south-west monsoon normally sets in over Kerala around:",
+"o": [
+"1 June",
+"1 April",
+"15 July",
+"1 September"
+],
+"a": 0,
+"e": "The monsoon's normal onset over Kerala is 1 June, advancing to cover the country by mid-July; delayed onset or long breaks are key triggers of prevented sowing and mid-season adversity under PMFBY."
+},
+{
+"n": 2,
+"topic": "Risk in Agriculture",
+"t": "Which of the following describes a 'production risk' in agriculture?",
+"o": [
+"Change in the Minimum Support Price",
+"Imposition of a new tax on agricultural income",
+"Default by the buyer of produce",
+"Uncertainty in crop output due to weather, pests, diseases and other natural factors"
+],
+"a": 3,
+"e": "Production (yield) risk is the variability in physical output; it is the primary risk addressed by crop insurance. Price, policy and counterparty risks are separate categories."
+},
+{
+"n": 3,
+"topic": "Risk in Agriculture",
+"t": "A locust swarm destroying crops across several districts is an example of a loss that is:",
+"o": [
+"Idiosyncratic, affecting one farm at a time",
+"Uninsurable in all circumstances",
+"Covariate, affecting many insureds simultaneously",
+"A financial risk rather than a production risk"
+],
+"a": 2,
+"e": "Pest epidemics, drought and floods are covariate (systemic) production risks; pooling across regions and reinsurance are required to manage them."
+},
+{
+"n": 4,
+"topic": "Risk in Agriculture",
+"t": "Which of the following reduces moral hazard in crop insurance design?",
+"o": [
+"Allowing the farmer to declare his own yield",
+"Paying claims on the basis of area yield rather than individual farm yield",
+"Paying the full sum insured for any loss",
+"Removing all deductibles and excesses"
+],
+"a": 1,
+"e": "When payout depends on an index outside the individual's control, the farmer has no incentive to neglect his crop; deductibles and co-insurance serve the same purpose in individual policies."
+},
+{
+"n": 5,
+"topic": "History of Crop Insurance in India",
+"t": "The individual-approach cotton scheme of GIC in the 1970s was discontinued mainly because:",
+"o": [
+"Claims far exceeded premium (claims of about ₹37 lakh against premium of about ₹4.5 lakh) and loss assessment on individual farms proved impractical",
+"Farmers refused to pay any premium",
+"The Government nationalised cotton trade",
+"Cotton cultivation was banned"
+],
+"a": 0,
+"e": "The 1972–78 experiment covered about 3,110 farmers and produced a loss ratio of over 800%, convincing policy makers to adopt the area approach recommended by Prof. Dandekar."
+},
+{
+"n": 6,
+"topic": "History of Crop Insurance in India",
+"t": "The Pilot Crop Insurance Scheme (1979) was implemented by GIC and was confined to:",
+"o": [
+"All farmers of the country",
+"Non-loanee farmers only",
+"Horticultural crops only",
+"Loanee farmers, on an area approach, for selected crops in participating States"
+],
+"a": 3,
+"e": "PCIS (1979–84) covered loanee farmers growing cereals, millets, oilseeds, cotton, potato and gram in 13 States; premium and claims were shared 2:1 between GIC and the State."
+},
+{
+"n": 7,
+"topic": "History of Crop Insurance in India",
+"t": "Which statement about NAIS is INCORRECT?",
+"o": [
+"NAIS covered both loanee (compulsory) and non-loanee (voluntary) farmers",
+"NAIS was available to all farmers irrespective of holding size",
+"NAIS charged actuarial premium rates and provided upfront subsidy",
+"Claims under NAIS beyond premium collected were met by the Centre and States on a 50:50 basis"
+],
+"a": 2,
+"e": "NAIS charged flat administered rates (e.g. 3.5% for bajra and oilseeds, 2.5% other kharif, 1.5% wheat, 2% other rabi) with the Government funding excess claims ex-post; actuarial rating with upfront subsidy came with MNAIS."
+},
+{
+"n": 8,
+"topic": "History of Crop Insurance in India",
+"t": "The Pradhan Mantri Fasal Bima Yojana was approved by the Union Cabinet and launched for implementation from:",
+"o": [
+"Rabi 2014–15",
+"Kharif 2016",
+"Kharif 2014",
+"Kharif 2018"
+],
+"a": 1,
+"e": "PMFBY was announced in January 2016 and implemented from Kharif 2016, replacing NAIS and MNAIS; RWBCIS replaced WBCIS at the same time."
+},
+{
+"n": 9,
+"topic": "Crop Insurance Design Considerations",
+"t": "The main objective of making the Insurance Unit smaller (village/panchayat instead of block) in PMFBY is to:",
+"o": [
+"Reduce basis risk so that the area yield better reflects individual farmers' experience",
+"Reduce the number of crop cutting experiments required",
+"Increase premium rates",
+"Eliminate the need for reinsurance"
+],
+"a": 0,
+"e": "Smaller IUs make the index more homogeneous and closer to each farmer's loss, but they increase the number of CCEs required, hence the role of YES-TECH and smart sampling."
+},
+{
+"n": 10,
+"topic": "Crop Insurance - Yield Index based Underwriting and Claims",
+"t": "In a notified Insurance Unit the Threshold Yield for paddy is 2,000 kg/ha and the Actual Yield as per crop cutting experiments is 1,500 kg/ha. If a farmer's sum insured is ₹60,000, the claim payable is:",
+"o": [
+"₹45,000",
+"₹30,000",
+"₹60,000",
+"₹15,000"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). Claim = (TY − AY)/TY × Sum Insured = (2,000 − 1,500)/2,000 × ₹60,000 = 25% × ₹60,000 = ₹15,000.",
+"r": "key"
+},
+{
+"n": 11,
+"topic": "Crop Insurance Design Considerations",
+"t": "Which of the following is an argument FOR premium subsidy in crop insurance?",
+"o": [
+"Subsidy increases adverse selection",
+"Subsidy removes basis risk",
+"Subsidy reduces insurers' solvency requirements",
+"Actuarially fair premiums for systemic risk are beyond most small farmers' capacity, and insurance reduces the need for ad-hoc disaster relief"
+],
+"a": 3,
+"e": "Governments worldwide subsidise crop premium because voluntary uptake at full actuarial cost is low and a functioning scheme replaces unpredictable calamity relief with a rule-based payout."
+},
+{
+"n": 12,
+"topic": "Crop Insurance Design Considerations",
+"t": "Under PMFBY, the role of the State Government includes all of the following EXCEPT:",
+"o": [
+"Notifying crops, areas, indemnity levels and sum insured each season",
+"Conducting crop cutting experiments and furnishing yield data",
+"Underwriting the crop risk and paying claims to farmers from the State budget",
+"Paying its share of premium subsidy"
+],
+"a": 2,
+"e": "Risk is underwritten by the empanelled insurer selected through bidding; the State notifies the scheme, conducts CCEs, pays subsidy and supervises implementation (except under cup-and-cap, where losses above the cap are shared)."
+},
+{
+"n": 13,
+"topic": "Crop Insurance - Yield Index based Underwriting and Claims",
+"t": "Under PMFBY, which of the following is NOT an insured risk at the area-yield stage?",
+"o": [
+"Drought and dry spells",
+"Loss due to the farmer's failure to apply fertiliser",
+"Flood and inundation",
+"Pests and diseases"
+],
+"a": 1,
+"e": "Yield losses from non-preventable natural risks (drought, flood, pests, diseases, hail, storm, lightning, fire) are covered; losses from negligence, war, nuclear risks, malicious damage and theft are excluded."
+},
+{
+"n": 14,
+"topic": "Crop Insurance - Yield Index based Underwriting and Claims",
+"t": "The subsidy on premium under PMFBY for the general category States is shared between the Centre and the State in the ratio:",
+"o": [
+"50:50",
+"90:10",
+"75:25",
+"60:40"
+],
+"a": 0,
+"e": "The Centre and State share subsidy equally (50:50); for North-Eastern States the ratio is 90:10 in favour of the Centre, and the Central share is capped at specified actuarial rates since 2020."
+},
+{
+"n": 15,
+"topic": "Crop Insurance - Yield Index based Underwriting and Claims",
+"t": "For a loanee farmer who does not wish to be covered under PMFBY, the opt-out declaration must be submitted to the bank:",
+"o": [
+"Any time during the crop season",
+"After the claim is announced",
+"Only to the insurer directly",
+"At least seven days before the enrolment cut-off date"
+],
+"a": 3,
+"e": "Since Kharif 2020 the scheme is voluntary; loanee farmers who do not opt out in writing to the bank before the stipulated date (seven days prior to cut-off) are enrolled by default."
+},
+{
+"n": 16,
+"topic": "Traditional Crop Insurance: Underwriting and Claims",
+"t": "In a named-peril individual crop policy, a 'franchise' of 10% means:",
+"o": [
+"Losses below 10% of the sum insured are not paid, but once the loss exceeds 10% it is paid in full",
+"10% of every loss is deducted from each claim",
+"The farmer must pay 10% of the premium",
+"Cover is restricted to 10% of the crop area"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). A franchise is a threshold: below it nothing is payable, above it the whole loss is payable. A deductible (excess), in contrast, is subtracted from every claim.",
+"r": "key"
+},
+{
+"n": 17,
+"topic": "Crop Insurance - Yield Index based Underwriting and Claims",
+"t": "A farmer's Rabi gram crop is destroyed by unseasonal rain while lying cut in the field 10 days after harvest. Under PMFBY this loss is:",
+"o": [
+"Not covered since the crop had been harvested",
+"Covered only if the whole Insurance Unit suffers loss",
+"Covered as a post-harvest loss, assessed on an individual farm basis",
+"Covered only under RWBCIS"
+],
+"a": 2,
+"e": "Post-harvest cover applies for up to 14 days to crops left in cut and spread/small bundled condition against cyclone, cyclonic rain, unseasonal rain and hailstorm, with individual assessment on intimation within 72 hours."
+},
+{
+"n": 18,
+"topic": "Crop Insurance - Yield Index based Underwriting and Claims",
+"t": "Threshold Yield for soyabean in an IU is 1,500 kg/ha and CCEs give an Actual Yield of 900 kg/ha. The sum insured is ₹45,000 per hectare and the farmer has insured 3 hectares. The claim is:",
+"o": [
+"₹81,000",
+"₹54,000",
+"₹27,000",
+"₹1,35,000"
+],
+"a": 1,
+"e": "Shortfall = (1,500 − 900)/1,500 = 40%. Claim = 40% × ₹45,000 × 3 ha = ₹54,000."
+},
+{
+"n": 19,
+"topic": "Crop Insurance - Yield Index based Underwriting and Claims",
+"t": "Under PMFBY, when a farmer has received an on-account payment of ₹5,000 for mid-season adversity and the final area-yield claim works out to ₹12,000, the amount payable at the end of the season is:",
+"o": [
+"₹7,000",
+"₹12,000",
+"₹17,000",
+"₹5,000"
+],
+"a": 0,
+"e": "On-account payments are advances against the final claim and are adjusted; the farmer gets the balance of ₹12,000 − ₹5,000 = ₹7,000. If the final claim is less than the advance, no recovery is made."
+},
+{
+"n": 20,
+"topic": "Crop Insurance - Yield Index based Underwriting and Claims",
+"t": "Which of the following statements about PMFBY and tenant/sharecropper farmers is correct?",
+"o": [
+"Only land owners can be insured",
+"Tenant farmers are covered only under RWBCIS",
+"Sharecroppers must insure through the land owner's bank account",
+"Tenant farmers and sharecroppers are eligible for coverage on production of proof of tenancy or cultivation as prescribed by the State"
+],
+"a": 3,
+"e": "PMFBY covers all farmers including tenants and sharecroppers growing notified crops, subject to State-prescribed documentary proof, with claims paid to their own bank accounts."
+},
+{
+"n": 21,
+"topic": "Crop Insurance - Yield Index based Underwriting and Claims",
+"t": "The yield data for an Insurance Unit under PMFBY is to be submitted by the State to the insurer within how many days of the final harvest?",
+"o": [
+"Within 7 days of sowing",
+"Within six months of harvest",
+"Within one month of final harvest",
+"There is no time limit"
+],
+"a": 2,
+"e": "The guidelines require States to furnish CCE-based yield data within one month of the final harvest (within prescribed deadlines on the portal) so that insurers can settle claims within the stipulated time."
+},
+{
+"n": 22,
+"topic": "Weather Based Crop Insurance",
+"t": "The term sheet of RWBCIS is prepared by:",
+"o": [
+"The individual farmer",
+"The insurer, in consultation with the State and agricultural experts, and approved before notification",
+"The Reserve Bank of India",
+"The Coconut Development Board"
+],
+"a": 1,
+"e": "Term sheets setting the phases, indices, triggers, exits and payouts for each crop/area are designed by the insurer using agro-meteorological research and are notified by the State with the scheme."
+},
+{
+"n": 23,
+"topic": "Weather Based Crop Insurance",
+"t": "Under RWBCIS, a 'Back-up Weather Station' is used when:",
+"o": [
+"Data from the Reference Weather Station are missing, interrupted or found faulty",
+"The farmer disputes the claim",
+"The reinsurer demands additional data",
+"The crop is sown late"
+],
+"a": 0,
+"e": "Each notified area is mapped to an RWS and a BWS; the BWS data substitute for the RWS when the latter fails, ensuring that claims can still be computed."
+},
+{
+"n": 24,
+"topic": "Weather Based Crop Insurance",
+"t": "A phase-wise term sheet pays for deficit rainfall in three phases with maximum payouts of ₹8,000, ₹12,000 and ₹10,000 per hectare. If payouts computed from the data are ₹8,000, ₹3,000 and nil respectively, the total claim per hectare is:",
+"o": [
+"₹30,000",
+"₹8,000",
+"₹13,000",
+"₹11,000"
+],
+"a": 3,
+"e": "Phase payouts are summed subject to each phase's maximum: ₹8,000 + ₹3,000 + ₹0 = ₹11,000. The sum of phase maxima (₹30,000) is the overall cap, not the payout."
+},
+{
+"n": 25,
+"topic": "Crop Insurance - Yield Index based Underwriting and Claims",
+"t": "If more than 75% of the crop area in an Insurance Unit could not be sown due to adverse weather, PMFBY provides for:",
+"o": [
+"Payment of the full sum insured",
+"Payment of 25% of the sum insured with termination of cover for that crop",
+"Refund of the farmer's premium only",
+"Payment of 50% of the sum insured and continuation of cover"
+],
+"a": 1,
+"e": "★ Key fact (repeated across the mocks of this paper). Under the 'Prevented Sowing/Planting' provision, when the majority (over 75%) of the notified area could not be sown, the insured farmers receive 25% of the sum insured and the policy terminates for that season.",
+"r": "key"
+},
+{
+"n": 26,
+"topic": "Weather Based Crop Insurance",
+"t": "A limitation of weather-index insurance is that:",
+"o": [
+"Claims take longer than under yield-index insurance",
+"It requires crop cutting experiments",
+"Losses caused by perils unrelated to the indexed weather parameter, such as pest attacks, are not compensated",
+"It cannot be reinsured"
+],
+"a": 2,
+"e": "The index captures only the parameters in the term sheet; a crop destroyed by pests or hail in a year of normal rainfall gets no payout, which is one form of basis risk."
+},
+{
+"n": 27,
+"topic": "Weather Based Crop Insurance",
+"t": "Which of the following is a correct statement about RWBCIS premium?",
+"o": [
+"The farmer pays the full actuarial premium",
+"The farmer's share is the same as under PMFBY, with the balance of the actuarial premium subsidised by the Centre and State",
+"There is no premium; the Government pays everything",
+"The farmer pays 10% of sum insured"
+],
+"a": 1,
+"e": "RWBCIS applies the same farmer premium caps (2% Kharif, 1.5% Rabi, 5% commercial/horticultural) and the same subsidy-sharing arrangements as PMFBY."
+},
+{
+"n": 28,
+"topic": "Traditional Crop Insurance: Underwriting and Claims",
+"t": "In traditional individual-farm crop insurance, 'named-peril' means that:",
+"o": [
+"Only losses from the specific perils listed in the policy, such as fire, hail or flood, are covered",
+"Every cause of loss is covered",
+"Only the farmer named in the policy may claim",
+"Only crops named by the State are covered"
+],
+"a": 0,
+"e": "Named-peril cover is narrower than multi-peril (all-risk) cover; it is easier to assess and price because the cause of loss must be identified at survey."
+},
+{
+"n": 29,
+"topic": "Traditional Crop Insurance: Underwriting and Claims",
+"t": "Under an individual plantation policy, the insured is usually required to:",
+"o": [
+"Guarantee a minimum yield",
+"Sell the produce only to the insurer",
+"Insure the land value as well",
+"Maintain the plantation in a sound condition and take reasonable precautions to prevent loss"
+],
+"a": 3,
+"e": "The 'reasonable care' condition applies to all property-type insurances, including crops and plantations, so that neglected or diseased plantations are not insured at the expense of the pool."
+},
+{
+"n": 30,
+"topic": "Traditional Crop Insurance: Underwriting and Claims",
+"t": "Which of the following is an advantage of individual crop insurance over area-based schemes?",
+"o": [
+"Loss assessment is cheaper",
+"Moral hazard is lower",
+"The indemnity is linked to the loss actually suffered on the insured farm, so basis risk is absent",
+"Historical yield data are not needed for pricing"
+],
+"a": 2,
+"e": "Individual cover eliminates basis risk but at the cost of expensive farm-level assessment and higher moral hazard; pricing still needs loss experience data."
+},
+{
+"n": 31,
+"topic": "Agriculture Insurance in Other Countries",
+"t": "In Canada, crop insurance (production insurance) is delivered mainly through:",
+"o": [
+"Private insurers without any subsidy",
+"Provincial crown corporations with cost-sharing between federal and provincial governments and farmers",
+"Commercial banks",
+"The United Nations"
+],
+"a": 1,
+"e": "Canada's Crop Insurance Act (1959) set up federal-provincial cost sharing; each province runs its own agency (e.g. Agricorp in Ontario, AFSC in Alberta)."
+},
+{
+"n": 32,
+"topic": "Agriculture Insurance in Other Countries",
+"t": "Which country has become the world's largest or second-largest agricultural insurance market by premium through heavy central and provincial subsidies since 2007?",
+"o": [
+"China",
+"Kenya",
+"Philippines",
+"Mongolia"
+],
+"a": 0,
+"e": "China's subsidised multi-peril crop and livestock programme, launched nationally in 2007, grew to rival the USA in premium volume, with around 80% of premium paid by governments."
+},
+{
+"n": 33,
+"topic": "Livestock / Cattle Wealth in Indian Economy",
+"t": "Which State has the largest cattle population in India as per the 20th Livestock Census?",
+"o": [
+"Punjab",
+"Kerala",
+"Goa",
+"West Bengal"
+],
+"a": 3,
+"e": "West Bengal leads in cattle, followed by Uttar Pradesh and Madhya Pradesh; Uttar Pradesh has the largest buffalo population and Rajasthan the largest goat population."
+},
+{
+"n": 34,
+"topic": "Livestock / Cattle Wealth in Indian Economy",
+"t": "'Operation Flood', which transformed India into the largest milk producer, was spearheaded by:",
+"o": [
+"Reserve Bank of India",
+"Agriculture Insurance Company of India",
+"National Dairy Development Board under Dr. Verghese Kurien",
+"Food Corporation of India"
+],
+"a": 2,
+"e": "Operation Flood (1970–96), run by the NDDB on the Anand cooperative model, created a national milk grid and raised milk production and dairy farmers' incomes."
+},
+{
+"n": 35,
+"topic": "Types of Cattle & Buffaloes",
+"t": "Which indigenous cattle breed from Gujarat is known for high milk yield and has been exported to Brazil for dairy development?",
+"o": [
+"Hallikar",
+"Gir",
+"Ongole",
+"Deoni"
+],
+"a": 1,
+"e": "Gir, from Saurashtra, is a prominent milch breed widely used abroad. Ongole (Andhra Pradesh) is a dual-purpose/draught breed, Hallikar is draught and Deoni is dual-purpose."
+},
+{
+"n": 36,
+"topic": "Types of Cattle & Buffaloes",
+"t": "The normal gestation period of a buffalo is approximately:",
+"o": [
+"310 days",
+"280 days",
+"150 days",
+"365 days"
+],
+"a": 0,
+"e": "Buffaloes carry for about 310 days (10 to 10.5 months) compared with about 280 days for cows; the vet uses breeding history to assess productive value for insurance."
+},
+{
+"n": 37,
+"topic": "Cattle Insurance in India",
+"t": "In cattle insurance, 'market value' for fixing the sum insured depends mainly on:",
+"o": [
+"The weight of the animal alone",
+"The owner's annual income",
+"The price of fodder in the district",
+"Breed, age, milk yield and stage of lactation of the animal"
+],
+"a": 3,
+"e": "The vet assesses value from breed, age, lactation number, daily yield and local prices; the insurer may apply a value table per litre of milk yield for cows and buffaloes."
+},
+{
+"topic": "Insurance Act 1938 – key sections",
+"t": "Section 41 of the Insurance Act 1938 prohibits:",
+"o": [
+"Assignment of a life policy",
+"Payment of any rebate of premium or commission as an inducement to buy insurance",
+"Nomination by a minor",
+"Issue of a policy without a medical examination"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). Section 41 bars rebating; contravention attracts a penalty of up to ₹10 lakh.",
+"r": "core",
+"n": 38
+},
+{
+"n": 39,
+"topic": "Cattle Insurance in India",
+"t": "Under cattle insurance, when the insured animal dies, the owner must intimate the insurer and:",
+"o": [
+"Dispose of the carcass immediately without informing anyone",
+"Obtain a certificate from the gram panchayat only",
+"Preserve the carcass for post-mortem by a veterinary doctor and surrender the ear tag",
+"Sell the carcass to recover the loss"
+],
+"a": 2,
+"e": "Immediate intimation, a post-mortem certificate from a qualified vet and the ear tag are essential; where a post-mortem is impossible (e.g. flood), the insurer may accept alternative evidence."
+},
+{
+"n": 40,
+"topic": "Cattle Insurance in India",
+"t": "Under scheme (subsidised) cattle insurance for beneficiaries of government programmes, which concession is generally allowed on premium?",
+"o": [
+"No premium is charged at all",
+"A reduced premium rate (around 2.25% p.a.) compared to the non-scheme rate of about 4%",
+"Premium is doubled",
+"Premium is payable only after a claim"
+],
+"a": 1,
+"e": "Animals financed under IRDP/SGSY/NRLM-type schemes have been rated at concessional premiums because of the better selection and supervision involved; the beneficiary's share may be further subsidised."
+},
+{
+"n": 41,
+"topic": "Cattle Insurance in India",
+"t": "A cow insured for ₹40,000 is sold by the farmer for ₹35,000 and dies in the buyer's custody a week later. The policy had not been endorsed in favour of the buyer. The claim is:",
+"o": [
+"Not payable, as the original insured had no insurable interest at the time of death and the buyer is not the insured",
+"Payable to the seller",
+"Payable to the buyer for ₹35,000",
+"Payable to both in equal shares"
+],
+"a": 0,
+"e": "Cattle policies are not automatically assignable; without the insurer's endorsement, neither party can claim. Insurable interest must exist at the time of loss."
+},
+{
+"n": 42,
+"topic": "Poultry Insurance in India",
+"t": "Under poultry insurance, 'parent stock' or breeder birds are generally insurable up to:",
+"o": [
+"8 weeks",
+"26 weeks",
+"72 weeks",
+"120 weeks"
+],
+"a": 2,
+"e": "Breeder birds, like layers, are covered to about 72 weeks of age; broilers to 8 weeks. Hatchery eggs are not insured under the bird policy."
+},
+{
+"n": 43,
+"topic": "Poultry Insurance in India",
+"t": "A poultry claim for disease mortality is generally supported by:",
+"o": [
+"A police report only",
+"A veterinary post-mortem/disease report, mortality register and vaccination records",
+"The farmer's verbal statement",
+"A bank statement"
+],
+"a": 1,
+"e": "Daily mortality records, vaccination certificates and a vet's report establishing the cause of death are needed to compute mortality above the standard limit and to check exclusions."
+},
+{
+"n": 44,
+"topic": "Poultry Insurance in India",
+"t": "Which of the following is an exclusion under poultry insurance?",
+"o": [
+"Loss due to improper management, overcrowding or inadequate feed and water",
+"Death due to lightning",
+"Death due to flood",
+"Death due to disease beyond standard mortality"
+],
+"a": 0,
+"e": "Management failures, cannibalism, transit, theft, vaccinable diseases without vaccination and normal mortality are excluded; accidental and disease deaths above the excess are covered."
+},
+{
+"topic": "Insurance Act 1938 – key sections",
+"t": "Section 64VB of the Insurance Act 1938 requires that:",
+"o": [
+"Premium is received in advance before the risk is assumed",
+"Every policy carries a free-look clause",
+"Claims are settled within 30 days",
+"Agents hold a valid licence"
+],
+"a": 0,
+"e": "★ Core fact (asked across III papers). No risk may be assumed unless the premium has been received in advance or is guaranteed in the manner prescribed.",
+"r": "core",
+"n": 45
+},
+{
+"n": 46,
+"topic": "Miscellaneous Agriculture Insurance Schemes",
+"t": "Horticulture insurance for crops like mango and apple in India is most commonly offered through:",
+"o": [
+"The Comprehensive Crop Insurance Scheme",
+"Marine cargo policies",
+"Motor insurance add-ons",
+"Weather-index covers under RWBCIS and State-specific hail/weather products"
+],
+"a": 3,
+"e": "Fruit crops lack reliable CCE yield data, so RWBCIS-type weather products (temperature, humidity, unseasonal rain, hail) and State-run hail schemes (e.g. for apple in Himachal) are the main covers."
+},
+{
+"n": 47,
+"topic": "Miscellaneous Agriculture Insurance Schemes",
+"t": "Under the Livestock Insurance Scheme, a 'cattle unit' for the purpose of counting sheep, goats and pigs is:",
+"o": [
+"1 animal",
+"5 animals",
+"10 animals",
+"50 animals"
+],
+"a": 2,
+"e": "One cattle unit equals one cow/buffalo or ten sheep/goats/pigs; subsidy is limited to five cattle units per beneficiary."
+},
+{
+"n": 48,
+"topic": "Miscellaneous Agriculture Insurance Schemes",
+"t": "Honey bee (apiary) insurance covers:",
+"o": [
+"Fall in the price of honey",
+"Loss of bee colonies and hives due to fire, flood, storm, disease, pests and accidents",
+"Stings suffered by the beekeeper",
+"Theft of honey from the market"
+],
+"a": 1,
+"e": "Apiculture policies cover named perils affecting the colonies and hives, with sum insured based on the value of the colony plus hive and a standard mortality/loss excess."
+},
+{
+"n": 49,
+"topic": "Agriculture Reinsurance",
+"t": "A crop insurer with gross premium of ₹1,000 crore has a 50% quota share treaty. In a year with claims of ₹1,400 crore, the net claims retained by the insurer (ignoring other covers) are:",
+"o": [
+"₹700 crore",
+"₹1,400 crore",
+"₹400 crore",
+"₹500 crore"
+],
+"a": 0,
+"e": "Under quota share the reinsurer bears its fixed share of all claims: 50% × ₹1,400 crore = ₹700 crore, leaving ₹700 crore with the insurer, against which it also retains ₹500 crore of premium."
+},
+{
+"n": 50,
+"topic": "Agriculture Reinsurance",
+"t": "Which of the following is a feature of facultative reinsurance?",
+"o": [
+"The reinsurer must accept all risks within the treaty automatically",
+"It is used only for stop loss cover",
+"It is mandatory under the Insurance Act",
+"Each risk is offered and accepted individually, with the reinsurer free to decline"
+],
+"a": 3,
+"e": "Facultative reinsurance is risk-by-risk placement, used for large or unusual exposures (e.g. a large plantation or a special livestock portfolio); treaty reinsurance covers a defined class automatically."
+}
+]

@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Introduction to Underwriting",
+"t": "The principle that the insured should be placed in the same financial position after a loss as immediately before it, and not profit from it, is the principle of:",
+"o": [
+"Utmost good faith",
+"Indemnity",
+"Insurable interest",
+"Proximate cause"
+],
+"a": 1,
+"e": "Indemnity governs property and liability insurance and is implemented through sum insured, average, contribution and subrogation; personal accident covers are benefit policies and are an exception."
+},
+{
+"n": 2,
+"topic": "Introduction to Underwriting",
+"t": "Which of the following is NOT a function performed by the underwriting department?",
+"o": [
+"Deciding acceptance terms for proposals",
+"Adjudicating complaints as an independent Ombudsman",
+"Monitoring portfolio loss ratios",
+"Framing the insurer's reinsurance retention and treaty requirements with the reinsurance department"
+],
+"a": 1,
+"e": "Underwriting selects, prices, monitors and works with reinsurance; the Ombudsman is an external, independent authority."
+},
+{
+"n": 3,
+"topic": "Introduction to Underwriting",
+"t": "Section 64UM of the Insurance Act, 1938 relates to:",
+"o": [
+"Licensing of surveyors and the requirement to appoint a surveyor for claims above the prescribed threshold",
+"Advance payment of premium",
+"Solvency margin",
+"Registration of insurers"
+],
+"a": 0,
+"e": "Section 64UM governs surveyors and loss assessors; a licensed surveyor must assess claims above ₹50,000 for motor and ₹1 lakh for other classes."
+},
+{
+"n": 4,
+"topic": "Introduction to Underwriting",
+"t": "The amended obligation on insurers to obtain a licensed surveyor's report applies to motor claims exceeding:",
+"o": [
+"₹50,000",
+"₹5 lakh",
+"₹1 lakh",
+"₹20,000"
+],
+"a": 0,
+"e": "The threshold is ₹50,000 for motor claims and ₹1 lakh for other classes under the surveyor regulations as amended."
+},
+{
+"n": 5,
+"topic": "Methodology and Procedures of Underwriting",
+"t": "The 'duty of disclosure' of the proposer ends:",
+"o": [
+"When the contract is concluded, reviving at renewal or on any material alteration during the policy",
+"At the time of claim",
+"At the time of the first premium receipt",
+"Never"
+],
+"a": 0,
+"e": "Material facts must be disclosed up to conclusion of the contract; policy conditions typically require notification of material changes during currency and the duty revives at renewal."
+},
+{
+"n": 6,
+"topic": "Methodology and Procedures of Underwriting",
+"t": "Which of the following is NOT normally part of a policy document?",
+"o": [
+"The surveyor's licence",
+"Operative clause",
+"Schedule",
+"Conditions and exclusions"
+],
+"a": 0,
+"e": "A policy comprises the preamble/recital, operative clause, schedule, exclusions, conditions, warranties and endorsements; surveyor documents are claims-stage papers."
+},
+{
+"n": 7,
+"topic": "Methodology and Procedures of Underwriting",
+"t": "Under the 'contribution' condition, if the same loss of ₹6 lakh is covered by two fire policies with sums insured of ₹20 lakh (Insurer A) and ₹30 lakh (Insurer B), Insurer A's share is:",
+"o": [
+"₹3.6 lakh",
+"₹6 lakh",
+"₹3 lakh",
+"₹2.4 lakh"
+],
+"a": 3,
+"e": "By the sum insured (rateable proportion) method, A pays 6 × 20 ÷ 50 = ₹2.4 lakh and B pays ₹3.6 lakh."
+},
+{
+"n": 8,
+"topic": "Underwriting Profitability and Re-underwriting Strategies",
+"t": "A combined ratio of less than 100% indicates that the insurer:",
+"o": [
+"Is insolvent",
+"Has made an underwriting loss",
+"Has made an underwriting profit before investment income",
+"Has not met the solvency margin"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). When claims plus expenses are less than earned premium, the underwriting account is in profit; above 100% the insurer depends on investment income to remain profitable.",
+"r": "key"
+},
+{
+"n": 9,
+"topic": "Methodology and Procedures of Underwriting",
+"t": "Which of the following statements about 'renewal' of a general insurance policy is correct?",
+"o": [
+"The duty of disclosure does not apply at renewal",
+"The insurer is legally bound to renew every policy on the same terms",
+"Renewal does not require payment of premium",
+"Renewal is a fresh contract; the insurer may revise terms based on experience, subject to regulatory requirements for retail policies such as timely renewal notice"
+],
+"a": 3,
+"e": "Each renewal is a new contract to which utmost good faith applies; underwriters may re-price or change terms, although regulations protect retail/health policyholders from arbitrary refusal."
+},
+{
+"n": 10,
+"topic": "Principles of Rate Making",
+"t": "A 'rate' and a 'premium' differ in that:",
+"o": [
+"Premium is per unit and rate is the total",
+"The rate is the price per unit of exposure, while the premium is the rate multiplied by the number of exposure units",
+"They are identical",
+"Rate includes GST and premium does not"
+],
+"a": 1,
+"e": "Rate × exposure (e.g. per mille × sum insured ÷ 1,000) = premium; the rate is the building block of pricing."
+},
+{
+"n": 11,
+"topic": "Principles of Rate Making",
+"t": "Which of the following statements about 'unfair discrimination' in rating is correct?",
+"o": [
+"Rates must be identical irrespective of hazard",
+"Discrimination is prohibited only in life insurance",
+"Any difference in rates between two insureds is unfair discrimination",
+"Charging different rates to risks with genuinely different expected loss costs is fair; charging different rates to similar risks without actuarial basis is unfair"
+],
+"a": 3,
+"e": "Rate making seeks to distinguish risks on relevant factors; discrimination becomes unfair only when it is not justified by expected cost differences."
+},
+{
+"n": 12,
+"topic": "Principles of Rate Making",
+"t": "In a loss-ratio rate indication, the current average rate is ₹5,000, the projected loss ratio at current rates is 72% and the permissible loss ratio is 60%. The indicated new average rate is:",
+"o": [
+"₹4,167",
+"₹7,200",
+"₹5,600",
+"₹6,000"
+],
+"a": 3,
+"e": "Indicated change = 0.72 ÷ 0.60 − 1 = +20%; new average rate = ₹5,000 × 1.20 = ₹6,000."
+},
+{
+"n": 13,
+"topic": "Principles of Rate Making",
+"t": "The 'unexpired risk reserve' for marine hull business is traditionally maintained at:",
+"o": [
+"100% of net premium",
+"No reserve is required",
+"50% of net premium",
+"25% of net premium"
+],
+"a": 0,
+"e": "Because marine hull policies are typically for voyages or periods whose exposure runs beyond year end, the full net premium is reserved, versus 50% (or 1/365) for other classes."
+},
+{
+"n": 14,
+"topic": "Principles of Rate Making",
+"t": "Which of the following is the correct formula for the pure premium method when fixed expenses are nil?",
+"o": [
+"Rate = pure premium × (1 − V − Q)",
+"Rate = pure premium ÷ (1 − V − Q), where V is the variable expense ratio and Q is the profit and contingency loading",
+"Rate = pure premium + V + Q",
+"Rate = pure premium ÷ (V + Q)"
+],
+"a": 1,
+"e": "Dividing by the permissible loss ratio (1 − V − Q) grosses up the loss cost so that variable expenses and profit are provided as proportions of the final premium."
+},
+{
+"n": 15,
+"topic": "Principles of Rate Making",
+"t": "An insurer paid claims of ₹90 crore in the year; outstanding claims at the start were ₹40 crore and at the end ₹55 crore. Incurred claims for the year are:",
+"o": [
+"₹105 crore",
+"₹75 crore",
+"₹185 crore",
+"₹90 crore"
+],
+"a": 0,
+"e": "Incurred claims = paid + closing outstanding − opening outstanding = 90 + 55 − 40 = ₹105 crore."
+},
+{
+"n": 16,
+"topic": "Principles of Rate Making",
+"t": "An insurer's data for a class of risk shows 4,000 vehicle-years of exposure, 320 claims and total incurred losses of ₹9.6 crore. The pure premium per vehicle-year is:",
+"o": [
+"₹24,000",
+"₹2,400",
+"₹3,000",
+"₹30,000"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). Pure premium = total losses ÷ exposure = ₹9,60,00,000 ÷ 4,000 = ₹24,000. Equivalently frequency (0.08) × severity (₹3,00,000) = ₹24,000.",
+"r": "key"
+},
+{
+"n": 17,
+"topic": "Rating Approaches and Pricing Methods",
+"t": "In a per-mille fire rating schedule, a 'credit' is typically given for:",
+"o": [
+"Installation of an approved automatic sprinkler system",
+"Open storage of combustible waste",
+"Absence of fire extinguishers",
+"Presence of hazardous goods"
+],
+"a": 0,
+"e": "Fire extinguishing appliances (sprinklers, hydrants, detection) reduce expected loss and earn discounts in schedule rating; adverse features attract debits."
+},
+{
+"n": 18,
+"topic": "Rating Approaches and Pricing Methods",
+"t": "For a two-wheeler aged 3 years, the motor own-damage premium is computed on an IDV that reflects depreciation of:",
+"o": [
+"50%",
+"30%",
+"40%",
+"20%"
+],
+"a": 2,
+"e": "Per the IDV schedule, vehicles aged more than 3 years and up to 4 years carry 40% depreciation; the same schedule applies to two-wheelers and private cars."
+},
+{
+"n": 19,
+"topic": "Rating Approaches and Pricing Methods",
+"t": "A liability underwriter rates a product liability policy. The most relevant exposure measure is:",
+"o": [
+"Wages of employees",
+"Number of fire extinguishers",
+"Annual turnover of the products sold, along with the nature of products and territory of sale",
+"Sum insured of the factory building"
+],
+"a": 2,
+"e": "Product liability exposure grows with the volume and nature of products placed in the market; turnover and export territory (e.g. USA/Canada) drive the rate."
+},
+{
+"n": 20,
+"topic": "Rating Approaches and Pricing Methods",
+"t": "An insurer prices a group health scheme for 2,000 employees. Expected claims per member are ₹9,000, expenses are 15% of premium and profit margin is 5%. The indicated premium per member is:",
+"o": [
+"₹10,800",
+"₹11,250",
+"₹9,000",
+"₹10,350"
+],
+"a": 1,
+"e": "Premium = 9,000 ÷ (1 − 0.15 − 0.05) = 9,000 ÷ 0.80 = ₹11,250."
+},
+{
+"n": 21,
+"topic": "Rating Approaches and Pricing Methods",
+"t": "Which of the following statements about rating of marine hull risks is INCORRECT?",
+"o": [
+"Classification society status is a relevant factor",
+"Trading limits and past claims influence the rate",
+"Age, tonnage and type of vessel affect the rate",
+"Hull rates are expressed per employee of the shipping company"
+],
+"a": 3,
+"e": "Hull premium is a rate on the insured value of the vessel, reflecting vessel characteristics, management, trading area and experience; headcount is irrelevant."
+},
+{
+"n": 22,
+"topic": "Rating Approaches and Pricing Methods",
+"t": "Under the Arogya Sanjeevani standard health policy, room rent is limited to:",
+"o": [
+"No limit",
+"5% of sum insured per day",
+"1% of sum insured per day",
+"2% of sum insured per day subject to a maximum of ₹5,000"
+],
+"a": 3,
+"e": "Arogya Sanjeevani caps room rent at 2% of SI (max ₹5,000 per day) and ICU at 5% of SI (max ₹10,000 per day) with a 5% co-payment."
+},
+{
+"n": 23,
+"topic": "IRDAI File and Use Guidelines",
+"t": "Before the Use and File liberalisation, the period IRDA had to raise queries on a filed general insurance product, failing which the insurer could proceed, was typically:",
+"o": [
+"90 days",
+"30 days",
+"180 days",
+"7 days"
+],
+"a": 1,
+"e": "The File and Use guidelines provided a 30-day window for the Authority to respond to a filing."
+},
+{
+"n": 24,
+"topic": "IRDAI File and Use Guidelines",
+"t": "Under IRDAI's product framework, which of the following classes is treated as a 'commercial' line where terms may be customised?",
+"o": [
+"Personal accident for individuals",
+"Individual health",
+"Private car package",
+"Industrial fire risks of large enterprises"
+],
+"a": 3,
+"e": "Large industrial, engineering and liability risks are commercial lines; retail products for individuals and small businesses follow standardised, filed terms."
+},
+{
+"n": 25,
+"topic": "IRDAI File and Use Guidelines",
+"t": "Which of the following statements regarding IRDAI's prescribed standard products is correct?",
+"o": [
+"Standard products need no filing at all",
+"Standard products can be modified freely by each insurer",
+"Standard products like Bharat Griha Raksha have wordings prescribed by IRDAI, while insurers price them",
+"Standard products have both wording and price fixed by the government"
+],
+"a": 2,
+"e": "IRDAI mandated uniform wordings for standard products (BGR, BSUS, BLUS, Arogya Sanjeevani) to aid comparability, leaving pricing to each insurer subject to filing."
+},
+{
+"n": 26,
+"topic": "IRDAI File and Use Guidelines",
+"t": "The requirement that an insurer's product should not be 'against policyholder interest' is primarily enforced through:",
+"o": [
+"The agent's licence",
+"Reinsurance treaties",
+"Product filing review and policyholder protection regulations",
+"The General Insurance Council's annual report"
+],
+"a": 2,
+"e": "Product governance and the PPHI regulations together ensure terms are fair, clear and not detrimental to policyholders."
+},
+{
+"n": 27,
+"topic": "Applications of File and Use and Use and File Procedures",
+"t": "Which of the following is an advantage of Use and File for policyholders?",
+"o": [
+"Faster availability of innovative and need-based products in the market",
+"Uniform pricing across all insurers",
+"Lower claims payment",
+"Elimination of policy conditions"
+],
+"a": 0,
+"e": "Use and File reduces time-to-market, allowing insurers to respond quickly to emerging needs such as pandemic covers, EV add-ons or cyber products."
+},
+{
+"n": 28,
+"topic": "Principles of Rate Making",
+"t": "A rate revision is being prepared for a health product. Historical incurred claims are ₹60 crore; medical inflation is 8% per annum and the rates will apply two years later than the midpoint of the experience period. The trended losses are approximately:",
+"o": [
+"₹64.8 crore",
+"₹72.6 crore",
+"₹69.98 crore",
+"₹60.0 crore"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). Trended losses = 60 × (1.08)^2 = 60 × 1.1664 = ₹69.98 crore.",
+"r": "key"
+},
+{
+"n": 29,
+"topic": "Applications of File and Use and Use and File Procedures",
+"t": "A general insurer modifies the deductible structure of an existing filed commercial product. Under Use and File this modification:",
+"o": [
+"Must be approved by the Product Management Committee and filed with IRDAI in the prescribed manner",
+"Needs no internal approval",
+"Requires a new company registration",
+"Must be approved by the Ombudsman"
+],
+"a": 0,
+"e": "Modifications follow the same governance path as new products: PMC approval and filing with the Authority."
+},
+{
+"n": 30,
+"topic": "Applications of File and Use and Use and File Procedures",
+"t": "Which statement about Use and File is INCORRECT?",
+"o": [
+"IRDAI can direct withdrawal or modification of a product found non-compliant after launch",
+"Insurers must maintain records of PMC approvals",
+"The insurer's board remains responsible for product governance",
+"Products launched under Use and File are exempt from policyholder protection regulations"
+],
+"a": 3,
+"e": "Use and File changes the timing of filing, not the applicability of regulations; all products must comply with PPHI and other regulations."
+},
+{
+"n": 31,
+"topic": "Tools of Underwriting",
+"t": "A per-risk excess of loss treaty of ₹3 crore in excess of ₹2 crore applies. During a single factory fire the loss is ₹6 crore. The cedant's net loss (ignoring any other protection) is:",
+"o": [
+"₹1 crore",
+"₹2 crore",
+"₹6 crore",
+"₹3 crore"
+],
+"a": 3,
+"e": "The cedant bears the ₹2 crore retention plus the ₹1 crore above the layer limit (₹6 − ₹2 − ₹3), i.e. ₹3 crore; the reinsurer pays ₹3 crore."
+},
+{
+"n": 32,
+"topic": "Tools of Underwriting",
+"t": "The IRDAI (Re-insurance) Regulations, 2018 require Indian insurers to offer reinsurance cessions, in order of preference, first to:",
+"o": [
+"Lloyd's syndicates only",
+"Co-insurers",
+"Indian reinsurers (GIC Re) and then foreign reinsurance branches in India, before overseas reinsurers",
+"Foreign reinsurers abroad"
+],
+"a": 2,
+"e": "The order of preference is designed to retain premium within India: Indian reinsurers first, then FRBs/IIO entities, then cross-border reinsurers."
+},
+{
+"n": 33,
+"topic": "Tools of Underwriting",
+"t": "Which of the following is an 'underwriting guideline' rather than a 'policy condition'?",
+"o": [
+"Notification of loss within 7 days",
+"Internal instruction that no godown risk with thatched roof shall be accepted without head-office approval",
+"Condition of average",
+"Subrogation condition"
+],
+"a": 1,
+"e": "Underwriting guidelines are internal manuals governing acceptance; policy conditions are contractual terms binding on the insured."
+},
+{
+"n": 34,
+"topic": "Tools of Underwriting",
+"t": "Risk financing through 'retention' by a corporate client (e.g. a large deductible or captive) affects the underwriter's pricing because:",
+"o": [
+"It makes reinsurance compulsory",
+"It has no effect",
+"It removes attritional losses from the insurer, justifying a lower premium while the insurer covers large losses",
+"It increases the frequency of small claims"
+],
+"a": 2,
+"e": "Higher client retention changes the loss distribution facing the insurer; pricing should reflect the expected losses above the retention plus a reduced expense load."
+},
+{
+"n": 35,
+"topic": "Tools of Underwriting",
+"t": "The term 'Estimated Maximum Loss' (EML) is used by underwriters to:",
+"o": [
+"Compute the sum insured",
+"Estimate the loss expected under adverse but not extreme conditions, assuming normal functioning of fire protection, for retention decisions",
+"Determine the claim reserve",
+"Fix the agent's commission"
+],
+"a": 1,
+"e": "EML/PML estimates guide how much of a large risk the insurer can retain and how much needs reinsurance; they are not the sum insured."
+},
+{
+"topic": "Principles",
+"t": "The principle that allows an insurer who has paid a claim to step into the insured's shoes and recover from a liable third party is:",
+"o": [
+"Contribution",
+"Subrogation",
+"Indemnity",
+"Proximate cause"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). Subrogation is a corollary of indemnity; it does not apply to life or personal accident (benefit) policies.",
+"r": "core",
+"n": 36
+},
+{
+"n": 37,
+"topic": "Types of Policies",
+"t": "A 'floater' fire policy on stocks is appropriate when:",
+"o": [
+"Stocks are stored in a single godown",
+"The insured is a shipping company",
+"Only buildings are insured",
+"Stocks of the same insured move between several specified locations and the quantity at each location fluctuates"
+],
+"a": 3,
+"e": "A floater provides one sum insured floating over several locations, with premium at the highest rate applicable to any location plus a floater loading."
+},
+{
+"n": 38,
+"topic": "Types of Policies",
+"t": "Which of the following is covered under an Erection All Risks (EAR) policy but typically NOT under a CAR policy?",
+"o": [
+"Erection and testing of plant and machinery, including the testing/commissioning period",
+"Construction of a residential building",
+"Road laying",
+"Civil construction of a bridge"
+],
+"a": 0,
+"e": "EAR is designed for erection of machinery and includes the testing period; CAR is for civil engineering works."
+},
+{
+"n": 39,
+"topic": "Types of Policies",
+"t": "Under a marine cargo policy with Institute Cargo Clauses, cover at the destination ordinarily ends on delivery to the final warehouse or, at the latest, on expiry of a stated number of days after discharge at the final port, which is:",
+"o": [
+"30 days",
+"180 days",
+"60 days",
+"90 days"
+],
+"a": 2,
+"e": "The duration (transit) clause terminates cover 60 days after completion of discharge overside at the final port of discharge, if earlier than warehouse delivery."
+},
+{
+"n": 40,
+"topic": "Types of Policies",
+"t": "Under IRDAI's 2024 health insurance norms, the maximum waiting period that an insurer may impose for pre-existing diseases is:",
+"o": [
+"48 months",
+"12 months",
+"36 months",
+"24 months"
+],
+"a": 2,
+"e": "The maximum PED waiting period was reduced from 48 to 36 months, and the moratorium period after which claims cannot be contested (except fraud) was reduced to 60 months."
+},
+{
+"n": 41,
+"topic": "Types of Policies",
+"t": "A valued policy differs from an unvalued policy in that:",
+"o": [
+"It covers only partial losses",
+"The value of the subject matter is agreed at inception and paid in full on total loss without proof of value",
+"It is used only for stocks",
+"Claims are settled at market value at the time of loss"
+],
+"a": 1,
+"e": "Valued policies (common in marine cargo, hull and for artworks) fix the agreed value; unvalued policies require proof of value subject to the sum insured."
+},
+{
+"n": 42,
+"topic": "Underwriting Profitability and Re-underwriting Strategies",
+"t": "An insurer has net earned premium ₹600 crore, combined ratio 108% and investment income attributable to the technical account of ₹60 crore. The operating result is:",
+"o": [
+"Profit of ₹12 crore",
+"Loss of ₹12 crore",
+"Loss of ₹48 crore",
+"Profit of ₹60 crore"
+],
+"a": 0,
+"e": "Underwriting loss = 8% × 600 = ₹48 crore; adding investment income of ₹60 crore gives an operating profit of ₹12 crore."
+},
+{
+"n": 43,
+"topic": "Underwriting Profitability and Re-underwriting Strategies",
+"t": "Which of the following is an example of 'portfolio balance' in underwriting?",
+"o": [
+"Reinsuring 100% of every risk",
+"Spreading exposure across classes, geographies and risk sizes so that no single segment or event can threaten results",
+"Writing only one class of business",
+"Writing only risks in one city"
+],
+"a": 1,
+"e": "Diversification across lines, regions and sizes reduces volatility and dependence on any single catastrophe or segment."
+},
+{
+"topic": "Principles",
+"t": "In a life insurance contract, insurable interest must exist:",
+"o": [
+"At the time of the claim only",
+"At inception of the policy",
+"Both at inception and at claim",
+"At renewal each year"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). Life: at inception only. Marine: at the time of loss. Fire and motor: at both inception and loss.",
+"r": "core",
+"n": 44
+},
+{
+"n": 45,
+"topic": "Underwriting Profitability and Re-underwriting Strategies",
+"t": "A motor insurer's portfolio shows a loss ratio of 95% on commercial vehicles versus 65% on private cars. Which re-underwriting action is MOST appropriate?",
+"o": [
+"Apply a uniform 30% increase on all vehicles",
+"Exit private cars because they contribute less premium",
+"Stop collecting premium in advance",
+"Segment-level repricing and tighter selection for commercial vehicles (e.g. by vehicle type, age, usage) while nurturing the profitable private car book"
+],
+"a": 3,
+"e": "Re-underwriting targets the under-performing segment with data-driven corrections rather than penalising the whole book."
+},
+{
+"n": 46,
+"topic": "Underwriting Profitability and Re-underwriting Strategies",
+"t": "Which of the following statements about reserving and profitability is INCORRECT?",
+"o": [
+"Over-reserving increases current profit",
+"Adequate IBNR reserves are essential for a true picture of underwriting results",
+"Reserve adequacy is reviewed by the Appointed Actuary",
+"Under-reserving overstates current profit and understates future liabilities"
+],
+"a": 0,
+"e": "Over-reserving reduces, not increases, current profit; reserves are deducted from earned premium in arriving at the underwriting result."
+},
+{
+"n": 47,
+"topic": "Protection of Policyholders' Interests",
+"t": "Under the IRDAI framework for general insurance claims, after receipt of the surveyor's report the insurer must settle or reject the claim within:",
+"o": [
+"30 days",
+"15 days",
+"7 days",
+"45 days"
+],
+"a": 2,
+"e": "The 2024 timelines require the insurer to decide the claim within 7 days of receiving the survey report."
+},
+{
+"n": 48,
+"topic": "Protection of Policyholders' Interests",
+"t": "A policyholder dissatisfied with an insurer's final reply on a grievance may approach the Insurance Ombudsman within:",
+"o": [
+"Three years",
+"One year of the insurer's rejection or final reply",
+"30 days",
+"6 months"
+],
+"a": 1,
+"e": "The Ombudsman Rules require the complaint to be made within one year of the insurer's rejection or final response (or expiry of one month without reply)."
+},
+{
+"n": 49,
+"topic": "Research and Development in Underwriting, Rating and Product Innovation",
+"t": "Which of the following is an emerging risk for which Indian general insurers have developed new products in recent years?",
+"o": [
+"Steam boiler explosion",
+"Loss by fire",
+"Cyber liability and data breach",
+"Workmen's compensation"
+],
+"a": 2,
+"e": "Cyber insurance for corporates and individuals is a recent product area driven by digitalisation; the other options are long-established covers."
+},
+{
+"n": 50,
+"topic": "IT Applications in Underwriting",
+"t": "Artificial intelligence and machine learning assist underwriters mainly by:",
+"o": [
+"Replacing the Insurance Act",
+"Identifying patterns in large datasets for risk scoring, fraud detection and automated triage of proposals",
+"Fixing motor TP rates",
+"Issuing surveyor licences"
+],
+"a": 1,
+"e": "AI/ML models score risks and flag anomalies, supporting faster, more consistent underwriting decisions while complex cases are escalated to human underwriters."
+}
+]

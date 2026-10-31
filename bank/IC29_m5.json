@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Introduction to General Insurance Claims",
+"t": "When a loss falls within the operative clause, the insurer may still avoid liability if it proves that:",
+"o": [
+"An exclusion applies or a policy condition or warranty has been breached in a manner entitling it to repudiate",
+"The premium rate charged was inadequate",
+"The surveyor's fee exceeds the claim",
+"The insured has other assets to absorb the loss"
+],
+"a": 0,
+"e": "The burden of establishing an exclusion or breach rests on the insurer; the adequacy of premium or the insured's wealth is irrelevant."
+},
+{
+"n": 2,
+"topic": "Claims Management Overview",
+"t": "Which of the following is a key control against overpayment in claims?",
+"o": [
+"Dispensing with the discharge voucher",
+"Settling all claims at the surveyor's first estimate",
+"Allowing the surveyor to release payment",
+"Segregation of duties between claim assessment, approval and payment"
+],
+"a": 3,
+"e": "Separating assessment, sanction and disbursement reduces error and collusion; the other options weaken control."
+},
+{
+"n": 3,
+"topic": "Claims Management Overview",
+"t": "A claims manager wishes to benchmark the insurer's motor own-damage claim costs against the industry. The most appropriate external source is:",
+"o": [
+"The repairers' price lists",
+"The Insurance Ombudsman's annual report",
+"The insurer's own annual report",
+"Insurance Information Bureau of India (IIB) industry data"
+],
+"a": 3,
+"e": "IIB compiles industry-wide claims data for benchmarking and analytics; the other sources do not give comparable industry averages."
+},
+{
+"n": 4,
+"topic": "Dealing with the Claim Process",
+"t": "A claim is registered but the insured subsequently refuses to allow the surveyor to inspect the damaged property. The insurer may:",
+"o": [
+"Ask the reinsurer to inspect instead",
+"Settle on the basis of the insured's estimate",
+"Decline the claim for breach of the condition requiring the insured to provide all reasonable information and assistance",
+"Pay 75% as a non-standard claim"
+],
+"a": 2,
+"e": "Cooperation with the insurer's investigation is a policy condition; refusal of access prevents assessment and justifies repudiation."
+},
+{
+"n": 5,
+"topic": "Dealing with the Claim Process",
+"t": "The claim intimation register / claims system assigns a unique claim number mainly to:",
+"o": [
+"Calculate the renewal premium",
+"Track the claim through every stage, set the reserve and prevent duplicate registration",
+"Fix the surveyor's fees",
+"Decide the order of payment among claimants"
+],
+"a": 1,
+"e": "Unique identification is the backbone of control, MIS and audit of claims."
+},
+{
+"n": 6,
+"topic": "Dealing with the Claim Process",
+"t": "A claimant, after receiving a repudiation, approaches the insurer's Grievance Redressal Officer. Under IRDAI norms the insurer must:",
+"o": [
+"Refer the grievance to the surveyor for a decision",
+"Pay the claim automatically on receipt of the grievance",
+"Refuse to reconsider since the claim is already repudiated",
+"Acknowledge the grievance promptly and resolve it within the prescribed period, informing the complainant of the right to approach the Ombudsman if dissatisfied"
+],
+"a": 3,
+"e": "Every insurer must have a grievance mechanism with time-bound resolution; repudiation does not end the insured's right to review."
+},
+{
+"n": 7,
+"topic": "Dealing with the Claim Process",
+"t": "Where an insurer pays a property claim and the insured retains the salvage, the correct treatment is:",
+"o": [
+"The insured must pay the salvage value to the insurer later with interest",
+"The insurer pays the full assessed loss and ignores salvage",
+"The salvage value is deducted from the assessed loss before payment",
+"The reinsurer takes the salvage"
+],
+"a": 2,
+"e": "The insured cannot both keep salvage and receive its value; alternatively the insurer takes over the salvage and pays the gross loss."
+},
+{
+"n": 8,
+"topic": "Claims Reserving",
+"t": "A general insurer has net earned premium of ₹500 crore and net incurred claims of ₹375 crore. Its net incurred claims ratio is:",
+"o": [
+"25%",
+"133%",
+"80%",
+"75%"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). Incurred claims ratio = 375/500 = 75%; a lower ratio indicates better claims experience relative to premium earned.",
+"r": "key"
+},
+{
+"n": 9,
+"topic": "Claim Documentation",
+"t": "Under a motor policy, the claims official must verify the vehicle's permit and fitness certificate for:",
+"o": [
+"Commercial vehicles, where use without a valid permit or fitness certificate may be a breach of the policy's use and statutory requirements",
+"Private cars only",
+"Two-wheelers only",
+"No vehicles, since these documents are irrelevant to claims"
+],
+"a": 0,
+"e": "Permit and fitness are statutory for transport vehicles; private vehicles need only RC and the driver's licence."
+},
+{
+"n": 10,
+"topic": "Claim Documentation",
+"t": "In a marine cargo claim, a 'non-delivery certificate' issued by the carrier is required when:",
+"o": [
+"The invoice is lost by the consignee",
+"The whole consignment or a package has not been delivered, to establish the loss and support recovery from the carrier",
+"The vessel has arrived early",
+"The goods are delivered in damaged condition"
+],
+"a": 1,
+"e": "Non-delivery is proved by the carrier's certificate; damage on delivery is evidenced by a survey and the carrier's damage certificate."
+},
+{
+"n": 11,
+"topic": "Claim Documentation",
+"t": "A medical certificate from the attending doctor is a necessary document in a personal accident disablement claim because it:",
+"o": [
+"Establishes the nature, extent and duration of the disablement, on which the percentage benefit depends",
+"Fixes the capital sum insured",
+"Proves payment of premium",
+"Replaces the FIR"
+],
+"a": 0,
+"e": "The scale of benefits is tied to the nature of injury and period of disablement, which only medical evidence can establish."
+},
+{
+"n": 12,
+"topic": "Survey and Adjustment of Claim",
+"t": "Which of the following statements about a surveyor's report is INCORRECT?",
+"o": [
+"The surveyor decides whether the insurer should admit liability under the policy",
+"The surveyor should recommend measures for salvage and recovery",
+"The surveyor's fees are borne by the insurer appointing him",
+"The report should comment on the cause of loss and its relation to the insured perils"
+],
+"a": 0,
+"e": "The surveyor only reports and recommends; admission of liability is the insurer's decision."
+},
+{
+"n": 13,
+"topic": "Survey and Adjustment of Claim",
+"t": "Under Section 64UM, in-house assessment of a claim by an insurer's own employee without a licensed surveyor is permissible:",
+"o": [
+"Only for claims up to the monetary threshold prescribed by IRDAI regulations",
+"For all claims where the insured consents",
+"Never, since every claim must be surveyed",
+"For all motor claims irrespective of amount"
+],
+"a": 0,
+"e": "Below ₹50,000 (motor) and ₹1 lakh (others) insurers may assess in-house; above that a licensed surveyor's report is mandatory."
+},
+{
+"n": 14,
+"topic": "Survey and Adjustment of Claim",
+"t": "A surveyor conducting a loss assessment is expected to maintain confidentiality of:",
+"o": [
+"The names of the insurer's directors",
+"The IRDAI regulations",
+"The sum insured, which must be kept from the insurer",
+"The insured's business information obtained during the survey, disclosing it only to the appointing insurer"
+],
+"a": 3,
+"e": "The code of conduct requires surveyors not to disclose the insured's confidential information to any party other than the principal."
+},
+{
+"n": 15,
+"topic": "Principles Governing Assessment of Loss",
+"t": "A factory insured under Bharat Sookshma Udyam Suraksha for ₹4 crore has a value at risk of ₹4.5 crore when a fire causes a loss of ₹90 lakh. The claim payable (ignoring excess) is:",
+"o": [
+"₹45 lakh",
+"₹80 lakh, after applying average",
+"₹76.5 lakh",
+"₹90 lakh, since underinsurance of 11.1% is within the 15% waiver"
+],
+"a": 3,
+"e": "SI is 88.9% of value, so the shortfall is within 15% and average is not applied; under SFSP without waiver, only ₹80 lakh would be payable."
+},
+{
+"n": 16,
+"topic": "Principles Governing Assessment of Loss",
+"t": "In a marine cargo claim, the insured value of the consignment is fixed at CIF plus 10%. This additional 10% represents:",
+"o": [
+"The surveyor's fee",
+"The customs duty on the goods",
+"The anticipated profit and incidental expenses of the buyer, which the insurer agrees to indemnify",
+"The premium payable on the policy"
+],
+"a": 2,
+"e": "Marine policies are valued policies; the 10% uplift covers expected profit and charges so the insured is fully indemnified."
+},
+{
+"n": 17,
+"topic": "Principles Governing Assessment of Loss",
+"t": "The principle of indemnity is modified by which of the following policy features?",
+"o": [
+"Subrogation and contribution",
+"Condition of average",
+"Excess and franchise",
+"Reinstatement value clauses, agreed value policies and new-for-old covers"
+],
+"a": 3,
+"e": "RIV, agreed value and new-for-old can pay more than strict indemnity; excess, average, subrogation and contribution all reinforce indemnity."
+},
+{
+"n": 18,
+"topic": "Survey and Adjustment of Claim",
+"t": "Section 64UM of the Insurance Act, 1938 deals with:",
+"o": [
+"Licensing of surveyors and loss assessors and the requirement of survey reports for claims above the prescribed limit",
+"Investment of controlled funds of insurers",
+"Payment of premium before assumption of risk",
+"Limit on expenses of management of insurers"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). Section 64UM makes a report from a licensed surveyor mandatory for claims above the threshold set by regulation; premium in advance is Section 64VB.",
+"r": "key"
+},
+{
+"n": 19,
+"topic": "Principles Governing Assessment of Loss",
+"t": "Insurable interest must exist at the time of loss in fire insurance because:",
+"o": [
+"The insured can be indemnified only for a loss he has actually suffered",
+"IRDAI requires annual proof of interest",
+"The surveyor needs it to compute salvage",
+"The premium is computed on the value of the interest"
+],
+"a": 0,
+"e": "Without interest at the time of loss there is no financial loss to indemnify; in marine insurance too, interest must exist at the time of loss."
+},
+{
+"n": 20,
+"topic": "Practice of Loss Assessment",
+"t": "A surveyor valuing finished goods destroyed in a factory fire should normally assess them at:",
+"o": [
+"Replacement cost of raw materials only",
+"Cost of production (materials, labour and overheads), not at selling price including profit",
+"Invoice value of the last sale",
+"Selling price including profit margin"
+],
+"a": 1,
+"e": "Indemnity for a manufacturer's finished stock is the cost of manufacture; profit is recoverable only under a loss of profits policy."
+},
+{
+"n": 21,
+"topic": "Practice of Loss Assessment",
+"t": "In a motor own-damage claim, the metal parts of a 3.5-year-old car are replaced at a cost of ₹2 lakh. Under the tariff depreciation schedule (3 to 4 years: 25%), the admissible amount for these parts is:",
+"o": [
+"₹1,00,000",
+"₹1,80,000",
+"₹2,00,000",
+"₹1,50,000"
+],
+"a": 3,
+"e": "Depreciation of 25% on ₹2 lakh = ₹50,000, leaving ₹1.5 lakh; labour charges are paid in full without depreciation."
+},
+{
+"n": 22,
+"topic": "Practice of Loss Assessment",
+"t": "An 'adjustment' of a claim on a reinstatement basis where the sum insured is less than the reinstatement value usually results in:",
+"o": [
+"Settlement on market value without average",
+"Forfeiture of the claim",
+"Payment of the full reinstatement cost",
+"Application of average on the basis of reinstatement value, reducing the claim proportionately"
+],
+"a": 3,
+"e": "Under RIV, adequacy of sum insured is tested against the full cost of reinstatement, which is higher than market value, so underinsurance is more likely."
+},
+{
+"n": 23,
+"topic": "Practice of Loss Assessment",
+"t": "A surveyor allows 'reasonable expenses of extinguishing the fire and minimising the loss' because:",
+"o": [
+"These expenses are a form of ex gratia",
+"The fire brigade charges the insurer directly",
+"The policy covers the cost of mitigating an insured loss, and such action is in the interest of the insurer",
+"IRDAI mandates a 5% allowance on every claim"
+],
+"a": 2,
+"e": "Mitigation expenses reasonably incurred are part of the indemnity, as the insured is bound to act as a prudent uninsured would."
+},
+{
+"n": 24,
+"topic": "Special Features of Property Damage Claims",
+"t": "Under the Bharat Griha Raksha policy, home contents are automatically covered (without declaration) for:",
+"o": [
+"Nothing unless separately declared",
+"20% of the building sum insured, subject to a maximum of ₹10 lakh",
+"₹1 lakh only",
+"50% of the building sum insured without limit"
+],
+"a": 1,
+"e": "BGR gives in-built contents cover of 20% of the building SI up to ₹10 lakh; higher contents values must be declared."
+},
+{
+"n": 25,
+"topic": "Special Features in Claims (Motor, Marine and Miscellaneous)",
+"t": "In a marine cargo claim for particular average on goods, the insured value is ₹8 lakh, the sound arrived value is ₹10 lakh and the damaged value is ₹7 lakh. The claim under the Marine Insurance Act, 1963 is:",
+"o": [
+"₹1 lakh",
+"₹3 lakh",
+"₹8 lakh",
+"₹2.4 lakh"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). Depreciation = (10 − 7)/10 = 30%; the same proportion of the insured value is paid: 30% of ₹8 lakh = ₹2.4 lakh, so market fluctuations do not distort the indemnity.",
+"r": "key"
+},
+{
+"n": 26,
+"topic": "Special Features of Property Damage Claims",
+"t": "A fire loss of profits policy is taken with an indemnity period of 6 months. Following a fire, the business is interrupted for 9 months. The insurer is liable for:",
+"o": [
+"Loss of gross profit for 12 months",
+"No loss, since the interruption exceeded the indemnity period",
+"Loss of gross profit during the first 6 months only",
+"Loss of gross profit for the full 9 months"
+],
+"a": 2,
+"e": "The indemnity period is the maximum period for which loss is payable; selecting too short a period leaves the insured uncovered thereafter."
+},
+{
+"n": 27,
+"topic": "Special Features of Property Damage Claims",
+"t": "In an electronic equipment insurance claim, partial losses are usually settled:",
+"o": [
+"At 50% of the sum insured",
+"On a new replacement value basis without depreciation, while total losses are settled at actual value less depreciation",
+"Only at scrap value",
+"Always on depreciated value"
+],
+"a": 1,
+"e": "Engineering policies pay repairs new-for-old, but on total loss the indemnity is the actual value immediately before the loss."
+},
+{
+"n": 28,
+"topic": "Special Features of Property Damage Claims",
+"t": "A fidelity guarantee policy claim is admissible when:",
+"o": [
+"Goods are stolen by an outsider by forcible entry",
+"The insured suffers direct pecuniary loss due to fraud or dishonesty of an employee covered, discovered within the policy's discovery period",
+"An employee is injured at work",
+"Stock is lost in a fire caused by an employee's negligence"
+],
+"a": 1,
+"e": "Fidelity covers employee dishonesty; outside theft is burglary, injury is employees' compensation and fire is the fire policy."
+},
+{
+"n": 29,
+"topic": "Special Features of Insurance of Persons",
+"t": "If the insurer fails to give final authorisation for discharge within the time prescribed by the IRDAI health master circular, then:",
+"o": [
+"The TPA pays the additional charges",
+"The patient must wait until the insurer responds",
+"The claim is converted to reimbursement",
+"The hospital must discharge the patient and any additional charges for the delay are borne by the insurer, not the policyholder"
+],
+"a": 3,
+"e": "The 2024 circular requires final discharge authorisation within 3 hours, with delay costs falling on the insurer."
+},
+{
+"n": 30,
+"topic": "Special Features of Insurance of Persons",
+"t": "An insured with a personal accident policy (CSI ₹10 lakh) dies in a road accident. Which of the following statements is correct?",
+"o": [
+"100% of the CSI is payable to the nominee, irrespective of the medical expenses or earnings of the deceased",
+"The benefit is paid only if the insured was the driver",
+"The claim is reduced by 50% because the death occurred on a public road",
+"The benefit is limited to the actual funeral and medical expenses"
+],
+"a": 0,
+"e": "PA death benefit is a fixed sum; it is not an indemnity for expenses or dependency."
+},
+{
+"n": 31,
+"topic": "Special Features of Insurance of Persons",
+"t": "For the purpose of health insurance claims, an institution qualifies as a 'hospital' if, among other criteria, it has:",
+"o": [
+"Registration with the General Insurance Council",
+"At least 50 beds in all locations",
+"Only an outpatient department and pharmacy",
+"At least 10 inpatient beds in towns with population below 10 lakh and 15 beds elsewhere, with qualified nursing staff and a medical practitioner round the clock"
+],
+"a": 3,
+"e": "The standard definition also requires a fully equipped operation theatre and daily patient records; it is a key test of admissibility."
+},
+{
+"n": 32,
+"topic": "Special Features in Liability Claims",
+"t": "A self-employed shopkeeper aged 45 earning ₹30,000 per month dies in a motor accident. Under Pranay Sethi, the addition for future prospects is:",
+"o": [
+"50% of the established income",
+"25% of the established income",
+"40% of the established income",
+"10% of the established income"
+],
+"a": 1,
+"e": "For self-employed persons the addition is 40% below age 40, 25% between 40 and 50, and 10% between 50 and 60; salaried persons get 50%, 30% and 15% respectively."
+},
+{
+"n": 33,
+"topic": "Special Features in Liability Claims",
+"t": "Under the Public Liability Insurance Act, 1991, the owner must contribute to the Environment Relief Fund an amount:",
+"o": [
+"Equal to 10% of the sum insured",
+"Equal to the premium paid on the public liability policy",
+"Of ₹1 lakh per year",
+"Equal to the paid-up capital of the company"
+],
+"a": 1,
+"e": "The ERF contribution equals the premium and is collected by the insurer and remitted to the Fund, which pays relief beyond the policy limits."
+},
+{
+"topic": "Policyholder protection",
+"t": "Under the IRDAI (Protection of Policyholders' Interests) Regulations 2024, the free-look period for a policy with a term of one year or more is:",
+"o": [
+"15 days",
+"30 days",
+"45 days",
+"60 days"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). 30 days from receipt of the policy document, irrespective of the sales channel.",
+"r": "core",
+"n": 34
+},
+{
+"n": 35,
+"topic": "Special Features in Liability Claims",
+"t": "A claim under a workmen's/employees' compensation policy is paid by the insurer:",
+"o": [
+"To the employer (the insured) or directly as deposited with the Commissioner, to meet the employer's liability under the Act",
+"To the trade union",
+"To the Insurance Ombudsman",
+"Directly to the employee's bank account without reference to the employer"
+],
+"a": 0,
+"e": "The policy indemnifies the employer's statutory liability; death compensation under the Act must be deposited with the Commissioner."
+},
+{
+"n": 36,
+"topic": "Special Features in Claims (Motor, Marine and Miscellaneous)",
+"t": "Under the Motor Vehicles Act, 1988, an insurer can defend a third-party claim on the ground that:",
+"o": [
+"The owner had not paid the own-damage premium",
+"The accident occurred at night",
+"The vehicle was being driven by a person not duly licensed, or was used for a purpose not permitted by the permit, or the policy was obtained by non-disclosure",
+"The claimant was a pedestrian"
+],
+"a": 2,
+"e": "Section 150 lists the statutory defences; even then the insurer may have to 'pay and recover' from the owner where the claimant is an innocent third party."
+},
+{
+"n": 37,
+"topic": "Special Features in Claims (Motor, Marine and Miscellaneous)",
+"t": "A claim is lodged under a marine cargo policy for a consignment that was delayed by 20 days due to a port strike and lost market value as a result. The claim is:",
+"o": [
+"Admissible under ICC (A) as an all-risks loss",
+"Not admissible, as loss caused by delay is excluded under all Institute Cargo Clauses even if the delay results from an insured peril",
+"Admissible if the carrier admits liability",
+"Admissible at 50% of the market loss"
+],
+"a": 1,
+"e": "Delay, inherent vice and insolvency of carriers are standard cargo exclusions; the loss of market is not physical loss or damage."
+},
+{
+"n": 38,
+"topic": "Special Features in Claims (Motor, Marine and Miscellaneous)",
+"t": "Under a standard private car package policy, the compulsory deductible for a car with engine capacity above 1500 cc is:",
+"o": [
+"₹100",
+"₹2,000",
+"₹500",
+"₹1,000"
+],
+"a": 1,
+"e": "Compulsory excess is ₹1,000 for cars up to 1500 cc and ₹2,000 above 1500 cc; ₹100 applies to two-wheelers."
+},
+{
+"n": 39,
+"topic": "Speed and Quality in Settlement of Claims",
+"t": "A key reason insurers set a target TAT for appointing surveyors is that:",
+"o": [
+"Interest on the claim stops once the surveyor is appointed",
+"The reinsurer refuses late claims",
+"Delay in survey allows evidence to deteriorate and salvage to lose value, increasing both the loss and disputes",
+"Surveyors charge lower fees for early appointment"
+],
+"a": 2,
+"e": "Prompt survey preserves evidence and mitigates loss; interest obligations relate to settlement, not survey appointment."
+},
+{
+"n": 40,
+"topic": "Speed and Quality in Settlement of Claims",
+"t": "Which of the following is NOT a regulatory requirement for claims under the IRDAI protection of policyholders' interests regulations?",
+"o": [
+"Paying interest for delay beyond the prescribed period",
+"Communicating the status of the claim at every stage",
+"Mandatory payment of 10% of the claim as compensation for inconvenience",
+"Calling for all documents at one time"
+],
+"a": 2,
+"e": "Status updates, single document requisition and interest for delay are prescribed; there is no fixed inconvenience compensation."
+},
+{
+"n": 41,
+"topic": "Disputes in Claims",
+"t": "Before a complaint can be lodged with the Insurance Ombudsman, the complainant must:",
+"o": [
+"Have made a written representation to the insurer and either received an unsatisfactory reply or no reply within 30 days",
+"Obtain permission from IRDAI",
+"File a suit in a civil court",
+"Deposit 10% of the claim amount as fees"
+],
+"a": 0,
+"e": "The Ombudsman is a second-level forum; direct complaints without first approaching the insurer are not entertained."
+},
+{
+"n": 42,
+"topic": "Disputes in Claims",
+"t": "A complaint before a consumer commission regarding a repudiated insurance claim must be filed within:",
+"o": [
+"One year from the date of loss",
+"Two years from the date on which the cause of action arose",
+"Three years from the date of policy issue",
+"Six months from the repudiation"
+],
+"a": 1,
+"e": "Section 69 of the Consumer Protection Act, 2019 prescribes two years, with power to condone delay for sufficient cause."
+},
+{
+"topic": "Policyholder protection",
+"t": "An Insurance Ombudsman can entertain a complaint where the value of the claim, including expenses, does not exceed:",
+"o": [
+"₹20 lakh",
+"₹30 lakh",
+"₹50 lakh",
+"₹1 crore"
+],
+"a": 2,
+"e": "★ Core fact (asked across III papers). The limit was raised to ₹50 lakh by the amended Insurance Ombudsman Rules.",
+"r": "core",
+"n": 43
+},
+{
+"n": 44,
+"topic": "Disputes in Claims",
+"t": "A motor accident claim under Section 166 of the Motor Vehicles Act, 1988 is decided by:",
+"o": [
+"The Motor Accidents Claims Tribunal",
+"The District Consumer Commission",
+"The IRDAI",
+"The Insurance Ombudsman"
+],
+"a": 0,
+"e": "MACTs have exclusive jurisdiction over third-party compensation claims; appeals lie to the High Court."
+},
+{
+"n": 45,
+"topic": "Frauds in Claims",
+"t": "Which of the following measures is most effective in detecting duplicate health claims across insurers?",
+"o": [
+"Settling only cashless claims",
+"Requiring claims to be filed through agents",
+"Asking the policyholder to declare on oath",
+"Matching claim data against the industry-wide database maintained by IIB"
+],
+"a": 3,
+"e": "Cross-insurer databases reveal the same hospitalisation being claimed from multiple insurers; self-declarations are easily falsified."
+},
+{
+"n": 46,
+"topic": "Frauds in Claims",
+"t": "An insurer discovers after payment that a motor theft claim was supported by a forged FIR. The appropriate actions include:",
+"o": [
+"Cancelling all policies in that town",
+"Writing off the loss as a cost of business",
+"Referring the matter to the Ombudsman",
+"Recovering the amount paid, lodging a police complaint and reporting the fraud as required under the fraud monitoring framework"
+],
+"a": 3,
+"e": "Fraud must be pursued through recovery and prosecution and reported; it is not a matter for the Ombudsman."
+},
+{
+"n": 47,
+"topic": "Claims Reserving",
+"t": "For claims reserving, insurers arrange data into 'run-off triangles' by:",
+"o": [
+"Surveyor against claim amount",
+"Accident (or underwriting) year against development year, to observe how claims mature over time",
+"Policy number against premium",
+"Region against claim count"
+],
+"a": 1,
+"e": "Triangles reveal development patterns that methods such as chain ladder use to project ultimate claims."
+},
+{
+"n": 48,
+"topic": "Claims Reserving",
+"t": "Which of the following statements about outstanding claims reserves in India is correct?",
+"o": [
+"Reserves for outstanding claims are not discounted for the time value of money",
+"Reserves are held only for claims above ₹1 lakh",
+"Reserves may be discounted at the bank rate",
+"Reserves are fixed at 5% of premium for all classes"
+],
+"a": 0,
+"e": "IRDAI requires undiscounted reserves for general insurance claims, ensuring prudence and comparability."
+},
+{
+"n": 49,
+"topic": "Information Technology in Claims",
+"t": "The use of optical character recognition (OCR) and document digitisation in claims helps mainly by:",
+"o": [
+"Fixing the sum insured",
+"Replacing the Appointed Actuary",
+"Automatically extracting data from bills and reports, reducing manual entry errors and speeding processing",
+"Eliminating the need for KYC"
+],
+"a": 2,
+"e": "OCR feeds structured data into the claims system; regulatory requirements such as KYC remain."
+},
+{
+"n": 50,
+"topic": "Information Technology in Claims",
+"t": "Which of the following is a cyber-security concern specific to digital claims processing?",
+"o": [
+"Unauthorised access to or alteration of claims data and payment instructions",
+"Shortage of licensed surveyors",
+"Underinsurance by policyholders",
+"Delay in surveyor appointment"
+],
+"a": 0,
+"e": "Digital claims systems hold sensitive data and trigger payments, making access control and audit trails critical under IRDAI cyber-security guidelines."
+}
+]

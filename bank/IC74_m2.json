@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Introduction to Liability Insurance",
+"t": "Legal liability which a liability policy may insure can arise from:",
+"o": [
+"Contract only",
+"Tort, contract and statute",
+"Statute only",
+"Criminal law only"
+],
+"a": 1,
+"e": "Liability may be imposed by the law of torts, assumed under contract or created by statutes such as the PLI Act or EC Act; criminal penalties are not insurable."
+},
+{
+"n": 2,
+"topic": "Statutory Liability in India",
+"t": "The Public Liability Insurance Act, 1991 applies to:",
+"o": [
+"Owners handling hazardous substances in quantities exceeding those notified by the Central Government",
+"All factories registered under the Factories Act",
+"All owners of motor vehicles",
+"All hospitals and nursing homes"
+],
+"a": 0,
+"e": "The Act targets 'owners' who handle notified hazardous substances above threshold quantities, requiring them to insure against no-fault liability to victims of accidents."
+},
+{
+"n": 3,
+"topic": "Products Liability Insurance",
+"t": "The premium for a products liability policy in India is normally computed on the basis of:",
+"o": [
+"The number of product lines",
+"The number of employees",
+"The insured's annual turnover (gross sales)",
+"The value of plant and machinery"
+],
+"a": 2,
+"e": "Turnover reflects the volume of products put into circulation and hence the exposure; the rate varies by product hazard and is loaded for the limits chosen."
+},
+{
+"n": 4,
+"topic": "Employers' Liability and Employees' Compensation Insurance",
+"t": "Claims for compensation under the Employees' Compensation Act, 1923 are adjudicated by:",
+"o": [
+"The Labour Court",
+"The Commissioner for Employees' Compensation",
+"The District Consumer Commission",
+"The Civil Court"
+],
+"a": 1,
+"e": "The Act bars civil suits and vests the settlement of compensation questions in the Commissioner appointed by the State Government, with appeal to the High Court on substantial questions of law."
+},
+{
+"n": 5,
+"topic": "Cyber and Other Specialised Liability Covers",
+"t": "Which of the following is a third-party coverage in a cyber insurance policy?",
+"o": [
+"The insured's own loss of income during a network outage",
+"Payment of a ransom demand following a ransomware attack",
+"Cost of restoring the insured's own data",
+"Liability to customers for unauthorised disclosure of their personal data"
+],
+"a": 3,
+"e": "Privacy and network security liability respond to claims by others; the remaining items are first-party losses suffered by the insured."
+},
+{
+"n": 6,
+"topic": "Underwriting and Claims in Liability Insurance",
+"t": "The 'jurisdiction clause' in an Indian liability policy specifies:",
+"o": [
+"The rate of premium applicable",
+"The geographical area where the accident must occur",
+"The courts whose judgments the policy will respond to, usually Indian courts only",
+"The exclusions applicable to the policy"
+],
+"a": 2,
+"e": "The jurisdiction clause limits cover to claims brought in Indian courts; territorial limits separately specify where the accident must occur. Worldwide jurisdiction is a chargeable extension."
+},
+{
+"n": 7,
+"topic": "Reinsurance of Liability Business",
+"t": "Facultative reinsurance is characterised by:",
+"o": [
+"Individual risk-by-risk placement which the reinsurer is free to accept or decline",
+"Automatic cession of all risks within agreed limits",
+"Compulsory acceptance by the reinsurer",
+"Protection of the annual loss ratio"
+],
+"a": 0,
+"e": "Facultative cover is negotiated for each risk, used for large or unusual liability exposures outside treaty capacity or treaty exclusions."
+},
+{
+"n": 8,
+"topic": "Law of Torts and Legal Liability",
+"t": "The doctrine of 'absolute liability' laid down by the Supreme Court in M.C. Mehta v Union of India (1987) differs from Rylands v Fletcher in that:",
+"o": [
+"An enterprise engaged in hazardous activity is absolutely liable with none of the exceptions available under the strict liability rule",
+"The defendant can plead act of God",
+"Liability arises only on proof of negligence",
+"The enterprise is never liable to the public"
+],
+"a": 0,
+"e": "The Oleum gas leak judgment held that hazardous enterprises owe an absolute, non-delegable duty and cannot escape by pleading the Rylands exceptions; damages may also be exemplary."
+},
+{
+"n": 9,
+"topic": "Statutory Liability in India",
+"t": "An application for relief under the Public Liability Insurance Act, 1991 is to be made to:",
+"o": [
+"The Civil Court of the district",
+"The High Court",
+"The Collector of the district",
+"The Insurance Ombudsman"
+],
+"a": 2,
+"e": "The Collector receives applications, holds an inquiry and awards relief, which is paid by the insurer up to the policy limits and thereafter from the Environment Relief Fund."
+},
+{
+"n": 10,
+"topic": "Statutory Liability in India",
+"t": "Under Section 3 of the Public Liability Insurance Act, 1991, a claimant seeking relief is NOT required to prove:",
+"o": [
+"Any wrongful act, neglect or default of the owner",
+"That an accident occurred",
+"That death or injury resulted",
+"That a hazardous substance was being handled"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). Section 3 imposes no-fault liability on the owner; the claimant must only establish the accident involving the hazardous substance and the resulting injury or damage.",
+"r": "key"
+},
+{
+"n": 11,
+"topic": "Public Liability Insurance",
+"t": "A public liability policy is rated at ₹0.30 per mille (0.03%) of annual turnover. The insured's turnover is ₹50 crore. Ignoring loadings for limits, the premium is:",
+"o": [
+"₹15,000",
+"₹1,50,00,000",
+"₹15,00,000",
+"₹1,50,000"
+],
+"a": 3,
+"e": "₹50 crore × 0.30/1000 = ₹50,00,00,000 × 0.0003 = ₹1,50,000."
+},
+{
+"n": 12,
+"topic": "Products Liability Insurance",
+"t": "Expenses incurred by a manufacturer in withdrawing a batch of products from the market because of a suspected defect are:",
+"o": [
+"Covered under the standard products liability policy",
+"Excluded, and need a separate product recall policy",
+"Covered under the vendors' extension",
+"Covered under the public liability policy"
+],
+"a": 1,
+"e": "The products liability policy covers third-party injury/damage caused by the product; recall, withdrawal and replacement costs are excluded and are insured separately."
+},
+{
+"n": 13,
+"topic": "Professional Indemnity Insurance",
+"t": "Professional indemnity insurance is designed for:",
+"o": [
+"Manufacturers of consumer goods",
+"Retail shopkeepers",
+"Chartered accountants, architects, engineers, doctors and lawyers",
+"Goods transport operators"
+],
+"a": 2,
+"e": "PI responds to liability for negligent advice or services by professionals; manufacturers need products liability and transporters need carriers' legal liability."
+},
+{
+"n": 14,
+"topic": "Employers' Liability and Employees' Compensation Insurance",
+"t": "An employee aged 25 (relevant factor 216.91) earning ₹12,000 per month suffers permanent total disablement. Compensation under the Employees' Compensation Act is:",
+"o": [
+"₹13,01,460",
+"₹15,61,752",
+"₹1,40,000",
+"₹26,02,920"
+],
+"a": 1,
+"e": "PTD compensation = 60% × ₹12,000 × 216.91 = ₹7,200 × 216.91 = ₹15,61,752, higher than the statutory minimum of ₹1,40,000."
+},
+{
+"n": 15,
+"topic": "Directors' and Officers' Liability Insurance",
+"t": "The 'severability' clause in a D&O policy ensures that:",
+"o": [
+"All directors lose cover if one director made a misrepresentation in the proposal",
+"Each director has a separate limit of indemnity",
+"All claims in a year are aggregated",
+"The knowledge or misconduct of one insured person is not imputed to other insured persons for determining cover"
+],
+"a": 3,
+"e": "Severability protects innocent directors from losing cover because of another director's fraud or non-disclosure, applying the exclusions on an individual basis."
+},
+{
+"n": 16,
+"topic": "Commercial General Liability Policy",
+"t": "Which CGL exclusion contains an exception for liability assumed under an 'insured contract'?",
+"o": [
+"The contractual liability exclusion",
+"The pollution exclusion",
+"The liquor liability exclusion",
+"The war exclusion"
+],
+"a": 0,
+"e": "Liability assumed by contract is excluded, except for 'insured contracts' such as leases of premises, sidetrack agreements and indemnity agreements for tort liability to third parties."
+},
+{
+"n": 17,
+"topic": "Reinsurance of Liability Business",
+"t": "The percentage of obligatory cession to GIC Re applicable to Indian general insurers since financial year 2022-23 is:",
+"o": [
+"5%",
+"10%",
+"4%",
+"20%"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). IRDAI reduced the obligatory cession from 5% to 4% with effect from 1 April 2022, and this level has continued for subsequent years.",
+"r": "key"
+},
+{
+"n": 18,
+"topic": "Cyber and Other Specialised Liability Covers",
+"t": "Under the New Drugs and Clinical Trials Rules, 2019 the primary responsibility for compensating a trial participant who suffers injury or death related to the trial rests with:",
+"o": [
+"The hospital where the trial is conducted",
+"The sponsor of the clinical trial",
+"The IRDAI",
+"The Ethics Committee"
+],
+"a": 1,
+"e": "The sponsor must provide medical management and compensation as determined by the Ethics Committee/DCGI, which is why sponsors buy clinical trials liability insurance."
+},
+{
+"n": 19,
+"topic": "Reinsurance of Liability Business",
+"t": "A 'working' excess of loss cover is one where:",
+"o": [
+"The retention is set low enough that the cover is expected to be hit by claims in most years",
+"Only catastrophic events are protected",
+"Risks are shared proportionally",
+"The annual loss ratio is protected"
+],
+"a": 0,
+"e": "Working XL layers attach at a level where losses are frequent and priced on experience, unlike high catastrophe layers that respond rarely."
+},
+{
+"n": 20,
+"topic": "Introduction to Liability Insurance",
+"t": "'Pure economic loss' refers to:",
+"o": [
+"Physical damage to property",
+"Bodily injury to a person",
+"Financial loss not flowing from bodily injury or property damage, generally excluded in public liability but covered in professional indemnity",
+"Fines imposed by a court"
+],
+"a": 2,
+"e": "Public liability policies respond to BI/PD and consequential loss; a PI policy is needed for financial loss from negligent advice because that is the professional's core exposure."
+},
+{
+"n": 21,
+"topic": "Law of Torts and Legal Liability",
+"t": "The maxim 'volenti non fit injuria' provides that:",
+"o": [
+"Ignorance of the law is no defence",
+"Liability is strict",
+"An employer is liable for his servants",
+"No injury is done to one who voluntarily consents to the risk, and this is a complete defence"
+],
+"a": 3,
+"e": "Where the claimant knowingly and freely accepted the risk (e.g. a spectator at a motor race), the defendant is not liable; the defence is narrowly applied against employees."
+},
+{
+"n": 22,
+"topic": "Statutory Liability in India",
+"t": "Under the Employees' Compensation Act, 1923, an occupational disease listed in Schedule III contracted by an employee in the specified employment is:",
+"o": [
+"Not compensable at all",
+"Compensable only on proof of the employer's negligence",
+"Compensable only if listed in Part A",
+"Deemed to be an injury by accident arising out of and in the course of employment"
+],
+"a": 3,
+"e": "Section 3(2) treats the contracting of a scheduled occupational disease as an accident, subject to the minimum employment periods for Parts A, B and C."
+},
+{
+"n": 23,
+"topic": "Public Liability Insurance",
+"t": "'Third parties' under a public liability policy do NOT include:",
+"o": [
+"Visitors to the insured's premises",
+"Owners of neighbouring property",
+"Employees of the insured injured in the course of employment",
+"Customers of the insured"
+],
+"a": 2,
+"e": "Employees' injuries are excluded and insured under an employees' compensation / employers' liability policy; all other members of the public are third parties."
+},
+{
+"n": 24,
+"topic": "Products Liability Insurance",
+"t": "A products liability policy has an AOA limit of ₹50 lakh and a compulsory excess of ₹25,000 for each claim. A claim is settled at ₹40 lakh. The insurer pays:",
+"o": [
+"₹39,75,000",
+"₹40,00,000",
+"₹37,50,000",
+"₹35,00,000"
+],
+"a": 0,
+"e": "The excess is borne by the insured on every claim: ₹40,00,000 − ₹25,000 = ₹39,75,000, which is within the AOA limit."
+},
+{
+"n": 25,
+"topic": "Professional Indemnity Insurance",
+"t": "The purpose of a compulsory excess in a professional indemnity policy is to:",
+"o": [
+"Increase the premium income of the insurer",
+"Make the insured bear part of every claim, discouraging small claims and encouraging care",
+"Exclude large claims",
+"Limit the policy to one claim per year"
+],
+"a": 1,
+"e": "An excess aligns the professional's interest with careful practice and removes administratively expensive small claims; it is usually a percentage of the AOA limit."
+},
+{
+"n": 26,
+"topic": "Public Liability Insurance",
+"t": "A public liability policy has an AOA limit of ₹1 crore and an AOY limit of ₹3 crore. During the year four accidents give rise to admitted liabilities of ₹80 lakh, ₹1.2 crore, ₹90 lakh and ₹60 lakh. Ignoring excess, the total amount payable by the insurer is:",
+"o": [
+"₹3.5 crore",
+"₹3 crore",
+"₹3.3 crore",
+"₹2.7 crore"
+],
+"a": 1,
+"e": "★ Key fact (repeated across the mocks of this paper). The second accident is capped at the AOA of ₹1 crore, giving ₹80L + ₹1cr + ₹90L + ₹60L = ₹3.3 crore, which is then capped at the AOY aggregate of ₹3 crore.",
+"r": "key"
+},
+{
+"n": 27,
+"topic": "Employers' Liability and Employees' Compensation Insurance",
+"t": "The half-monthly payment for temporary disablement under the Employees' Compensation Act is:",
+"o": [
+"25% of the monthly wages",
+"50% of the monthly wages",
+"60% of the monthly wages",
+"100% of the monthly wages"
+],
+"a": 0,
+"e": "Section 4(1)(d) provides a half-monthly payment of 25% of monthly wages during temporary total or partial disablement, after a waiting period of three days."
+},
+{
+"n": 28,
+"topic": "Directors' and Officers' Liability Insurance",
+"t": "'Side C' (entity cover) in a D&O policy of a listed company covers:",
+"o": [
+"All claims of any nature against the company",
+"Securities claims brought against the company itself",
+"Employment claims by employees",
+"Product liability claims"
+],
+"a": 1,
+"e": "Entity cover is limited to securities claims (e.g. shareholder suits for misstatement) so that the policy is not diluted by general corporate liabilities."
+},
+{
+"n": 29,
+"topic": "Commercial General Liability Policy",
+"t": "The 'products-completed operations aggregate limit' in the CGL policy is:",
+"o": [
+"The limit for any one occurrence",
+"The medical payments limit",
+"The personal injury limit",
+"A separate annual aggregate limit for claims arising from the insured's products and completed work"
+],
+"a": 3,
+"e": "The CGL has two aggregates: the general aggregate for premises/operations and a separate aggregate for the products-completed operations hazard."
+},
+{
+"n": 30,
+"topic": "Cyber and Other Specialised Liability Covers",
+"t": "The IRDAI guidance of 2021 on a model cyber insurance product for individuals contemplates cover for:",
+"o": [
+"Corporate network security only",
+"Business interruption of enterprises only",
+"Identity theft, cyber stalking, social media liability, malware and phishing losses of individuals",
+"No risks, as retail cyber insurance is not permitted"
+],
+"a": 2,
+"e": "The guidance encouraged insurers to offer standardised retail cyber covers addressing the risks individuals face online, including liability from their social media use."
+},
+{
+"n": 31,
+"topic": "Underwriting and Claims in Liability Insurance",
+"t": "A 'notification of circumstances' provision in a claims-made policy means that:",
+"o": [
+"Circumstances are rejected unless a claim has been filed",
+"Notification is not allowed until a suit is received",
+"The insured may notify circumstances likely to give rise to a claim, and any resulting claim is deemed made in that policy period",
+"The insurer may cancel the policy on notification"
+],
+"a": 2,
+"e": "This 'deeming' provision protects the insured when cover later lapses or changes, and lets the insurer reserve for the likely claim."
+},
+{
+"n": 32,
+"topic": "Reinsurance of Liability Business",
+"t": "A 'reinstatement' provision in an excess of loss treaty:",
+"o": [
+"Converts the treaty to quota share",
+"Converts the treaty to stop loss",
+"Increases the cedant's retention",
+"Restores the exhausted layer limit on payment of an additional premium"
+],
+"a": 3,
+"e": "XL cover is limited per loss and in aggregate; reinstatements (free or paid) replenish the limit so protection continues after a large loss."
+},
+{
+"n": 33,
+"topic": "Introduction to Liability Insurance",
+"t": "The distinction between a tort and a crime is that:",
+"o": [
+"A tort is punished by the State",
+"A tort is a civil wrong remedied by damages to the injured party, whereas a crime is punished by the State",
+"Both are identical in law",
+"A tort requires a prior contract"
+],
+"a": 1,
+"e": "The same act (e.g. rash driving) may be both; insurance responds only to the civil (compensatory) consequences, never to criminal punishment."
+},
+{
+"topic": "IRDAI – regulator",
+"t": "The permitted limit of foreign direct investment in an Indian insurance company is currently:",
+"o": [
+"26%",
+"49%",
+"74%",
+"100%"
+],
+"a": 2,
+"e": "★ Core fact (asked across III papers). Raised from 49% to 74% by the Insurance (Amendment) Act 2021; intermediaries may have 100%.",
+"r": "core",
+"n": 34
+},
+{
+"n": 35,
+"topic": "Law of Torts and Legal Liability",
+"t": "The tort of 'nuisance' is:",
+"o": [
+"Unlawful interference with a person's use or enjoyment of land",
+"Direct physical contact with a person",
+"Publication of a false statement injuring reputation",
+"Breach of a contractual obligation"
+],
+"a": 0,
+"e": "Nuisance covers smoke, noise, vibration, smell etc. affecting neighbours; it is a common source of public liability claims against factories."
+},
+{
+"n": 36,
+"topic": "Statutory Liability in India",
+"t": "An application for relief under the Public Liability Insurance Act, 1991 must be made within:",
+"o": [
+"One year of the accident",
+"Five years of the accident",
+"Three years of the accident",
+"No time limit"
+],
+"a": 1,
+"e": "Section 6(3) requires the application to be made within five years of the occurrence of the accident."
+},
+{
+"n": 37,
+"topic": "Public Liability Insurance",
+"t": "Under the Indian industrial public liability policy, liability arising from 'Act of God' perils such as earthquake and flood is:",
+"o": [
+"Covered automatically",
+"Excluded with no option to cover",
+"Available as an extension on payment of additional premium",
+"Covered only for fire"
+],
+"a": 2,
+"e": "Act of God perils are an optional extension; several other extensions (e.g. transportation, technical collaborators) are also available at extra premium."
+},
+{
+"n": 38,
+"topic": "Products Liability Insurance",
+"t": "'Products' under a products liability policy include:",
+"o": [
+"Goods manufactured, sold, supplied, installed, repaired or serviced by the insured, including containers and packaging",
+"Only goods manufactured by the insured",
+"Only food and beverages",
+"Only goods exported"
+],
+"a": 0,
+"e": "The definition is broad so that packaging defects, labelling and installation work are within cover; what matters is that the insured put the item into circulation."
+},
+{
+"n": 39,
+"topic": "Professional Indemnity Insurance",
+"t": "A professional indemnity policy for a medical establishment covers:",
+"o": [
+"The hospital's own loss of income during closure",
+"Fines imposed by the State medical council",
+"Criminal prosecution costs of a doctor",
+"The hospital's liability for errors or omissions of its professional staff in treating patients"
+],
+"a": 3,
+"e": "Medical establishment PI indemnifies the hospital for vicarious and direct liability for professional negligence; individual doctors buy their own PI."
+},
+{
+"n": 40,
+"topic": "Employers' Liability and Employees' Compensation Insurance",
+"t": "An employer's liability to an employee under common law arises when:",
+"o": [
+"Automatically on any injury at work",
+"Only under the Employees' Compensation Act",
+"Never, since statute replaces common law",
+"The employer has failed in the duty of care — safe system of work, competent staff and safe plant — causing injury"
+],
+"a": 3,
+"e": "Common-law liability is fault-based and unlimited, which is why Table A of the EC policy adds common law to the statutory cover."
+},
+{
+"n": 41,
+"topic": "Directors' and Officers' Liability Insurance",
+"t": "The 'prior and pending litigation' exclusion in a D&O policy:",
+"o": [
+"Excludes claims arising from litigation pending before the policy's continuity date",
+"Excludes all claims made in the first year",
+"Excludes bodily injury claims",
+"Excludes claims by shareholders"
+],
+"a": 0,
+"e": "It prevents insureds from buying cover for disputes already under way; the date is usually the inception of the first continuous D&O policy."
+},
+{
+"n": 42,
+"topic": "Commercial General Liability Policy",
+"t": "Under 'Who Is An Insured' in the CGL form, employees of the named insured are:",
+"o": [
+"Never insureds",
+"Insureds only if they are officers",
+"Insureds for acts within the scope of their employment, with certain exceptions",
+"Insureds only when dealing with customers"
+],
+"a": 2,
+"e": "Employees are covered for business acts, but not for injury to co-employees or for professional health-care services, which are carved out."
+},
+{
+"n": 43,
+"topic": "Cyber and Other Specialised Liability Covers",
+"t": "An event liability policy covers:",
+"o": [
+"Loss from cancellation of the event",
+"The organiser's legal liability for third-party bodily injury or property damage at the event",
+"Loss due to adverse weather",
+"Non-appearance of a performer"
+],
+"a": 1,
+"e": "Event liability is a public liability cover for the organiser; cancellation, weather and non-appearance are first-party contingency covers."
+},
+{
+"topic": "Policyholder protection",
+"t": "Under the IRDAI (Protection of Policyholders' Interests) Regulations 2024, the free-look period for a policy with a term of one year or more is:",
+"o": [
+"15 days",
+"30 days",
+"45 days",
+"60 days"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). 30 days from receipt of the policy document, irrespective of the sales channel.",
+"r": "core",
+"n": 44
+},
+{
+"n": 45,
+"topic": "Underwriting and Claims in Liability Insurance",
+"t": "A 'reservation of rights' letter is issued when the insurer:",
+"o": [
+"Agrees to defend the claim while reserving the right to deny indemnity if facts show the claim is outside cover",
+"Denies the claim outright",
+"Accepts the claim in full",
+"Pursues subrogation against a third party"
+],
+"a": 0,
+"e": "It allows the insurer to investigate and defend without being held to have waived a coverage defence."
+},
+{
+"n": 46,
+"topic": "Reinsurance of Liability Business",
+"t": "A 'stop loss' treaty protects the cedant against:",
+"o": [
+"A single large loss on one risk",
+"Accumulation from one event",
+"Small risks only",
+"The annual aggregate loss ratio of a class exceeding an agreed percentage"
+],
+"a": 3,
+"e": "Stop loss responds when total losses for the year exceed, say, 90% of premium, protecting against frequency rather than severity."
+},
+{
+"n": 47,
+"topic": "Introduction to Liability Insurance",
+"t": "Under the principle of indemnity in liability insurance, the insured is placed:",
+"o": [
+"In a better financial position than before the claim",
+"In the same financial position by payment of the damages and costs for which he is legally liable, within the limit",
+"In a worse position",
+"In a position where only costs are reimbursed"
+],
+"a": 1,
+"e": "The insurer pays what the insured is legally liable to pay, not more; the limit of indemnity caps the recovery."
+},
+{
+"n": 48,
+"topic": "Statutory Liability in India",
+"t": "Under Chapter VI of the Consumer Protection Act, 2019, a product liability action may be brought against:",
+"o": [
+"The product manufacturer only",
+"The product seller only",
+"A product manufacturer, product service provider or product seller",
+"The importer only"
+],
+"a": 2,
+"e": "The 2019 Act introduced statutory product liability and specifies the circumstances in which each of the three categories is liable for harm caused by a defective product or deficient service."
+},
+{
+"n": 49,
+"topic": "Public Liability Insurance",
+"t": "A public liability policy has an AOA limit of ₹2 crore with an AOA:AOY ratio of 1:2. Three separate accidents result in liabilities of ₹1.5 crore, ₹2.5 crore and ₹1 crore. The insurer's total payment is:",
+"o": [
+"₹5 crore",
+"₹4.5 crore",
+"₹4 crore",
+"₹3.5 crore"
+],
+"a": 2,
+"e": "AOY = ₹4 crore. Payments: ₹1.5 cr + ₹2 cr (capped at AOA) + ₹1 cr = ₹4.5 cr, limited to the AOY of ₹4 crore."
+},
+{
+"n": 50,
+"topic": "Cyber and Other Specialised Liability Covers",
+"t": "'Cyber business interruption' cover indemnifies:",
+"o": [
+"Third-party claims for loss of income",
+"The insured's own loss of net income from interruption of its network caused by a cyber event",
+"Regulatory penalties",
+"Defamation on social media"
+],
+"a": 1,
+"e": "It is a first-party time-element cover, usually subject to a waiting period expressed in hours and an indemnity period."
+}
+]

@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Introduction to Health Insurance and the Health System in India",
+"t": "The National Health Mission (NHM) of the Government of India was formed in 2013 by bringing together:",
+"o": [
+"CGHS and ESIS",
+"PM-JAY and RSBY",
+"The National Rural Health Mission and the National Urban Health Mission",
+"AYUSH and allopathic services"
+],
+"a": 2,
+"e": "NRHM (2005) and NUHM (2013) were subsumed under NHM to strengthen public health delivery; PM-JAY is a separate financing scheme."
+},
+{
+"n": 2,
+"topic": "Health Financing Models and Health Financing in India",
+"t": "Under the 'National Health Insurance' (single-payer) model, as in Canada:",
+"o": [
+"The government both finances and directly provides all care through public hospitals",
+"A single public insurer pays for care delivered largely by private providers",
+"Employers must set up their own sickness funds",
+"Patients pay providers directly and claim nothing"
+],
+"a": 1,
+"e": "The single-payer model separates financing (public) from provision (mainly private), unlike Beveridge where both are public, and Bismarck where multiple sickness funds exist."
+},
+{
+"n": 3,
+"topic": "Health Financing Models and Health Financing in India",
+"t": "Which of the following is a correct statement about out-of-pocket (OOP) health expenditure in India?",
+"o": [
+"OOP spending has historically been the single largest source of health financing in India, pushing many households into poverty each year",
+"OOP spending is negligible because of government hospitals",
+"OOP spending is mostly on in-patient care in public hospitals",
+"OOP spending is fully reimbursed through Section 80D"
+],
+"a": 0,
+"e": "National Health Accounts show OOP as the largest component of total health expenditure, though its share has declined below 50% in recent years; Section 80D only gives a tax deduction."
+},
+{
+"n": 4,
+"topic": "Health Financing Models and Health Financing in India",
+"t": "The National Health Policy, 2017 set a target of raising public health expenditure to what share of GDP?",
+"o": [
+"1.0% by 2020",
+"5% by 2030",
+"10% by 2030",
+"2.5% by 2025"
+],
+"a": 3,
+"e": "NHP 2017 targets public health spending of 2.5% of GDP by 2025, up from around 1.2–1.5% at the time."
+},
+{
+"n": 5,
+"topic": "Health Financing Models and Health Financing in India",
+"t": "Ayushman Bharat PM-JAY identifies beneficiary families primarily on the basis of:",
+"o": [
+"Deprivation and occupational criteria from the Socio-Economic Caste Census (SECC) 2011 data, with State additions",
+"Income tax returns",
+"Ration card colour alone",
+"Health insurance history"
+],
+"a": 0,
+"e": "PM-JAY uses SECC 2011 deprivation criteria (rural) and occupational categories (urban), and States may extend coverage; in 2024 all citizens aged 70 and above were added regardless of income."
+},
+{
+"n": 6,
+"topic": "Health Financing Models and Health Financing in India",
+"t": "Under the ESI Scheme, the rates of contribution as a percentage of wages are:",
+"o": [
+"Employee 1.75%, employer 4.75%",
+"Employee 0.75%, employer 3.25%",
+"Employee 1%, employer 3%",
+"Employee 2%, employer 2%"
+],
+"a": 1,
+"e": "Contribution rates were reduced to 0.75% (employee) and 3.25% (employer) from July 2019; the earlier rates were 1.75% and 4.75%."
+},
+{
+"n": 7,
+"topic": "Customer Service in Health Insurance",
+"t": "Under the 2024 Master Circular on health insurance, an insurer must decide on a cashless pre-authorisation request within:",
+"o": [
+"1 hour",
+"30 minutes",
+"3 hours",
+"6 hours"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). Cashless authorisation must be decided within 1 hour of the request and final discharge authorisation within 3 hours; delay beyond 3 hours makes any extra hospital charges the insurer's cost.",
+"r": "key"
+},
+{
+"n": 8,
+"topic": "Health Insurance Products in India",
+"t": "'Co-payment' in a health insurance policy means:",
+"o": [
+"The insurer and reinsurer share each claim",
+"Premium paid jointly by husband and wife",
+"A fixed percentage of each admissible claim that the insured must bear, which does not reduce the sum insured",
+"Payment made by the TPA to the hospital"
+],
+"a": 2,
+"e": "Co-pay is the insured's share of each claim expressed as a percentage; unlike a deductible it is not a fixed amount and it is not deducted from the sum insured."
+},
+{
+"n": 9,
+"topic": "Health Insurance Products in India",
+"t": "A health policy that is taken by an employer for employees and allows them to continue cover individually after leaving the organisation is said to offer:",
+"o": [
+"Subrogation",
+"Experience rating",
+"Facultative cover",
+"Conversion or migration rights to an individual policy"
+],
+"a": 3,
+"e": "IRDAI requires group policyholders' members to be offered migration to an individual or floater policy with continuity credit when they leave the group."
+},
+{
+"n": 10,
+"topic": "Health Insurance Products in India",
+"t": "Which of the following statements about a 'deductible' is correct?",
+"o": [
+"It is a percentage of every claim borne by the insured",
+"It is a fixed amount that the insured must bear before the insurer's liability begins, and it lowers the premium",
+"It is always equal to the sum insured",
+"It is paid by the insurer to the hospital"
+],
+"a": 1,
+"e": "A deductible is a fixed threshold amount; higher deductibles reduce premium because small claims are eliminated. A percentage share is a co-pay."
+},
+{
+"n": 11,
+"topic": "Health Insurance Products in India",
+"t": "Mrs Nair's family floater of ₹6 lakh covers herself, her husband and two children. Her husband is hospitalised with a bill of ₹4.5 lakh in May. In November her son is hospitalised with a bill of ₹2 lakh. Assuming no restoration benefit and all expenses admissible, the son's claim will be paid to the extent of:",
+"o": [
+"₹1.5 lakh",
+"₹2 lakh",
+"₹1 lakh",
+"Nil"
+],
+"a": 0,
+"e": "The floater sum insured of ₹6 lakh is shared; after ₹4.5 lakh is used, only ₹1.5 lakh remains for the rest of the policy year."
+},
+{
+"n": 12,
+"topic": "Health Insurance Products in India",
+"t": "A 'long-term' health insurance policy under IRDAI norms may be issued for a term of:",
+"o": [
+"Up to three years, with the premium fixed for the policy term",
+"Exactly one year only",
+"Up to ten years",
+"Lifetime at a single premium"
+],
+"a": 0,
+"e": "Health products may be offered for terms of one to three years; premiums are guaranteed for the term and may be paid annually or in advance with discounts."
+},
+{
+"n": 13,
+"topic": "Health Insurance Products in India",
+"t": "The 'Saral Suraksha Bima' standard product introduced by IRDAI in 2021 is a:",
+"o": [
+"Standard indemnity health policy",
+"Standard personal accident policy covering death, permanent disablement and related benefits",
+"Standard critical illness policy",
+"Standard travel policy"
+],
+"a": 1,
+"e": "Saral Suraksha Bima is the standard personal accident product; Arogya Sanjeevani is the standard indemnity health product."
+},
+{
+"n": 14,
+"topic": "Health Insurance Products in India",
+"t": "Which of the following is a typical feature of a senior citizen health insurance product in India?",
+"o": [
+"No premium is charged after age 80",
+"Compulsory pre-acceptance medical tests at the proposer's cost in all cases",
+"Coverage limited to accidents only",
+"Higher co-payment, longer waiting periods and higher premiums reflecting higher morbidity"
+],
+"a": 3,
+"e": "Senior citizen products price for higher claim frequency through co-pay and loadings; pre-policy check-up costs must be at least partly borne by the insurer when the proposal is accepted."
+},
+{
+"n": 15,
+"topic": "Health Insurance Underwriting",
+"t": "'Morbidity' in health insurance underwriting refers to:",
+"o": [
+"The probability of death at a given age",
+"The incidence or prevalence of illness or injury in a population",
+"The number of hospital beds per thousand population",
+"The rate of lapsation of policies"
+],
+"a": 1,
+"e": "Morbidity measures sickness, which drives health claims; mortality (probability of death) is the key measure for life insurance."
+},
+{
+"n": 16,
+"topic": "Health Insurance Underwriting",
+"t": "When a proposal is accepted after a pre-policy medical examination, IRDAI norms require that the cost of the examination be:",
+"o": [
+"Borne at least 50% by the insurer",
+"Borne fully by the proposer in all cases",
+"Borne by the TPA",
+"Refunded by the hospital"
+],
+"a": 0,
+"e": "Insurers must bear at least 50% of the cost of pre-insurance medical tests when the proposal is accepted; if declined, the cost may fall on the proposer as per the proposal terms."
+},
+{
+"n": 17,
+"topic": "Health Insurance Underwriting",
+"t": "A proposal form answer regarding past hospitalisation is left blank by the proposer and the insurer issues the policy without seeking clarification. Four years later a claim for the undisclosed condition arises. Which statement is correct?",
+"o": [
+"The insurer can reject the claim because the fact was material",
+"The policy becomes void ab initio",
+"The claim is payable only after a fresh waiting period",
+"Having issued the policy without raising a query on the blank answer, the insurer is generally deemed to have waived the information and cannot rely on non-disclosure"
+],
+"a": 3,
+"e": "Courts have held that an insurer that accepts an incomplete proposal without enquiry waives the right to the information; underwriters must therefore ensure proposals are complete before acceptance."
+},
+{
+"n": 18,
+"topic": "Health Insurance Products in India",
+"t": "Mr Arora holds a base policy of ₹3 lakh and a super top-up of ₹10 lakh with an aggregate deductible of ₹3 lakh. In one year he has three hospitalisations costing ₹2 lakh, ₹1.5 lakh and ₹2.5 lakh. How much will the super top-up pay in total?",
+"o": [
+"₹1.5 lakh",
+"₹2.5 lakh",
+"₹3 lakh",
+"₹4 lakh"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). Total claims are ₹6 lakh; a super top-up applies the deductible to aggregate annual claims, so it pays ₹6 lakh − ₹3 lakh = ₹3 lakh. An ordinary top-up would have paid nothing because no single claim exceeded ₹3 lakh.",
+"r": "key"
+},
+{
+"n": 19,
+"topic": "Health Insurance Underwriting",
+"t": "Which of the following is an example of 'financial underwriting' in health insurance?",
+"o": [
+"Reviewing the proposer's ECG report",
+"Loading the premium for hypertension",
+"Imposing a waiting period for hernia",
+"Checking whether the sum insured proposed is reasonable in relation to the proposer's income and needs, particularly for benefit products"
+],
+"a": 3,
+"e": "Financial underwriting guards against over-insurance and moral hazard in fixed-benefit covers such as hospital cash and critical illness; the other options are medical underwriting actions."
+},
+{
+"n": 20,
+"topic": "Health Insurance Underwriting",
+"t": "A proposer, when asked about tobacco use, states 'occasional'. For underwriting purposes, the most appropriate course is:",
+"o": [
+"Obtain details of quantity, frequency and duration, as even occasional use affects morbidity rating",
+"Treat as a non-user",
+"Decline the proposal",
+"Ignore the answer since tobacco is not relevant to health cover"
+],
+"a": 0,
+"e": "Tobacco use is a significant morbidity factor; underwriters seek specifics to classify the risk correctly, rather than assuming either extreme."
+},
+{
+"n": 21,
+"topic": "Health Insurance Underwriting",
+"t": "Group health underwriting typically relies LEAST on:",
+"o": [
+"Age profile of the group",
+"Claims experience of the group in previous years",
+"Individual medical examination of every member",
+"Nature of industry and occupation"
+],
+"a": 2,
+"e": "Groups are underwritten on aggregate parameters; individual medical examination is impractical and generally unnecessary for bona fide groups."
+},
+{
+"n": 22,
+"topic": "Health Insurance Policy Forms and Clauses",
+"t": "Under standard policy wording, 'medically necessary treatment' means treatment that is:",
+"o": [
+"Chosen by the insured for convenience",
+"Available only at network hospitals",
+"Required for the medical management of the illness, prescribed by a medical practitioner, and not experimental or for convenience of the patient or doctor",
+"Recommended by the TPA"
+],
+"a": 2,
+"e": "The definition requires the treatment to be necessary, of appropriate intensity and duration, prescribed by a qualified practitioner and conforming to professional standards."
+},
+{
+"n": 23,
+"topic": "Health Insurance Policy Forms and Clauses",
+"t": "'Post-hospitalisation medical expenses' are those incurred:",
+"o": [
+"After discharge for the same condition, within the period specified in the policy (e.g. 60 days)",
+"Before admission for any illness",
+"During hospitalisation for a different illness",
+"Only at the same network hospital"
+],
+"a": 0,
+"e": "Post-hospitalisation expenses are payable for a stated period after discharge, provided they relate to the admitted condition and the in-patient claim is accepted."
+},
+{
+"n": 24,
+"topic": "Health Insurance Policy Forms and Clauses",
+"t": "Under the 2024 framework, AYUSH (Ayurveda, Yoga, Unani, Siddha, Homeopathy) in-patient treatment must be covered:",
+"o": [
+"Only up to 10% of sum insured",
+"Up to the full sum insured without any sub-limit, at AYUSH hospitals meeting the standard definition",
+"Only in government hospitals",
+"Only for day care"
+],
+"a": 1,
+"e": "IRDAI's 2024 Master Circular removed sub-limits on AYUSH treatment, placing it on par with allopathic treatment in qualifying AYUSH hospitals."
+},
+{
+"n": 25,
+"topic": "Health Insurance Underwriting",
+"t": "A 35-year-old proposer with no medical history applies for ₹5 lakh cover. Most insurers would:",
+"o": [
+"Accept on the basis of the declaration in the proposal form without medical examination, as he is within the 'no medical' age and sum insured limits",
+"Insist on full medical tests",
+"Decline because he is self-employed",
+"Issue only a group policy"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). Insurers set age and sum insured thresholds below which healthy proposers are accepted on declaration; tests are called for beyond those limits or on adverse disclosures.",
+"r": "key"
+},
+{
+"n": 26,
+"topic": "Health Insurance Policy Forms and Clauses",
+"t": "A policy excludes 'treatment for refractive error'. Under standard exclusion Excl15, correction of eyesight is excluded if the refractive error is less than:",
+"o": [
+"5.0 dioptres",
+"10 dioptres",
+"7.5 dioptres",
+"12 dioptres"
+],
+"a": 2,
+"e": "Standard exclusion Excl15 excludes refractive error correction below 7.5 dioptres; higher corrections may be covered."
+},
+{
+"n": 27,
+"topic": "Health Insurance Policy Forms and Clauses",
+"t": "Mr Das has a policy with room rent limit of 1% of sum insured (SI ₹5 lakh) and ICU limit of 2% of SI. He stays 3 days in ICU at ₹12,000 per day and 4 days in a room at ₹6,000 per day. The maximum room and ICU charges payable are:",
+"o": [
+"₹60,000",
+"₹40,000",
+"₹36,000",
+"₹50,000"
+],
+"a": 3,
+"e": "ICU limit = ₹10,000/day × 3 = ₹30,000; room limit = ₹5,000/day × 4 = ₹20,000; total ₹50,000 against actual ₹60,000, with proportionate deduction possibly applying to associated charges."
+},
+{
+"n": 28,
+"topic": "Health Insurance Policy Forms and Clauses",
+"t": "'Cumulative bonus' in a health policy is:",
+"o": [
+"A refund of premium at the end of the year",
+"Interest on premium paid in advance",
+"An increase in sum insured for every claim-free year, subject to a maximum, without extra premium",
+"A discount given for buying online"
+],
+"a": 2,
+"e": "Cumulative bonus rewards claim-free renewal by enhancing cover; it is reduced on a claim in the same proportion in most policies."
+},
+{
+"n": 29,
+"topic": "Health Insurance Data, Pricing and Reserving",
+"t": "The office premium is built from the pure premium by adding loadings for:",
+"o": [
+"Reinsurance recoveries and investment income",
+"Hospital tariffs only",
+"Claims already paid",
+"Expenses, commission, profit margin and contingencies"
+],
+"a": 3,
+"e": "Gross premium = risk premium plus loadings for acquisition and management expenses, profit and contingency; investment income reduces rather than adds to premium."
+},
+{
+"n": 30,
+"topic": "Health Insurance Data, Pricing and Reserving",
+"t": "A pure premium of ₹4,000 is to be loaded for expenses of 25% and profit of 5% of gross premium. The gross premium is:",
+"o": [
+"₹5,200",
+"₹5,333",
+"₹5,714",
+"₹6,000"
+],
+"a": 2,
+"e": "When loadings are expressed as a percentage of gross premium, gross = pure ÷ (1 − 0.25 − 0.05) = 4,000 ÷ 0.70 = ₹5,714 (approx.)."
+},
+{
+"n": 31,
+"topic": "Health Insurance Data, Pricing and Reserving",
+"t": "'Credibility' in health insurance pricing refers to:",
+"o": [
+"The reputation of the insurer",
+"The accuracy of hospital bills",
+"The solvency margin of the insurer",
+"The weight given to a group's own experience versus the broader book or manual rate, depending on the volume of data"
+],
+"a": 3,
+"e": "Credibility theory blends a group's own claims experience with class rates; larger groups with more claims receive higher credibility."
+},
+{
+"n": 32,
+"topic": "Health Insurance Data, Pricing and Reserving",
+"t": "The Ayushman Bharat Digital Mission (ABDM) provides individuals with a unique health identifier known as:",
+"o": [
+"Aadhaar Health Number",
+"PAN Health ID",
+"NHCX code",
+"ABHA (Ayushman Bharat Health Account) number"
+],
+"a": 3,
+"e": "ABHA is the 14-digit health ID under ABDM that links health records; NHCX is the National Health Claims Exchange for standardised claim data exchange between hospitals and insurers."
+},
+{
+"n": 33,
+"topic": "Health Insurance Data, Pricing and Reserving",
+"t": "Which of the following is a correct statement about health claims reserving?",
+"o": [
+"Health claims have a very long tail, so IBNR is rarely needed",
+"Reserves are not required for cashless claims",
+"Reserves are set equal to premium received",
+"Health claims are short-tail, but IBNR is still significant because many claims are intimated after discharge and settled in subsequent months"
+],
+"a": 3,
+"e": "Health is short-tail compared with liability business, yet reporting and settlement lags mean a substantial IBNR provision is required at year end."
+},
+{
+"n": 34,
+"topic": "Regulatory and Legal Aspects of Health Insurance",
+"t": "The requirement that an insured must have an insurable interest in the person insured is satisfied in health insurance when the proposer insures:",
+"o": [
+"A neighbour",
+"Any person with the proposer's consent",
+"Self, spouse, dependent children and parents",
+"Only self"
+],
+"a": 2,
+"e": "A person has unlimited insurable interest in his own life and health and a recognised interest in close family members; insurers generally permit cover for self, spouse, children, parents and parents-in-law."
+},
+{
+"n": 35,
+"topic": "Regulatory and Legal Aspects of Health Insurance",
+"t": "The solvency ratio that every insurer in India, including stand-alone health insurers, must maintain at all times is:",
+"o": [
+"100%",
+"125%",
+"150%",
+"200%"
+],
+"a": 2,
+"e": "The control level of solvency prescribed by IRDAI is 150% (assets to required solvency margin); falling below triggers regulatory action."
+},
+{
+"n": 36,
+"topic": "Regulatory and Legal Aspects of Health Insurance",
+"t": "Since 2022, health insurance products of general and health insurers are introduced under which regulatory approach?",
+"o": [
+"Prior approval ('File and Use') for every product",
+"No filing at all",
+"'Use and File', where products are launched after Board approval and filed with IRDAI within a specified period",
+"Approval by the Insurance Ombudsman"
+],
+"a": 2,
+"e": "IRDAI extended 'Use and File' to health products in 2022, allowing faster launches subject to internal product management committee approval and subsequent filing."
+},
+{
+"topic": "Policyholder protection",
+"t": "An Insurance Ombudsman can entertain a complaint where the value of the claim, including expenses, does not exceed:",
+"o": [
+"₹20 lakh",
+"₹30 lakh",
+"₹50 lakh",
+"₹1 crore"
+],
+"a": 2,
+"e": "★ Core fact (asked across III papers). The limit was raised to ₹50 lakh by the amended Insurance Ombudsman Rules.",
+"r": "core",
+"n": 37
+},
+{
+"n": 38,
+"topic": "Regulatory and Legal Aspects of Health Insurance",
+"t": "The minimum paid-up capital required for registration of a Third Party Administrator under IRDAI's TPA regulations is:",
+"o": [
+"₹1 crore",
+"₹2 crore",
+"₹4 crore",
+"₹10 crore"
+],
+"a": 2,
+"e": "TPAs must have a minimum paid-up capital of ₹4 crore and maintain a minimum net worth of ₹1 crore at all times; registration is renewable every three years."
+},
+{
+"n": 39,
+"topic": "Regulatory and Legal Aspects of Health Insurance",
+"t": "Under the HIV and AIDS (Prevention and Control) Act, 2017, an insurer:",
+"o": [
+"May exclude HIV-positive persons from all cover",
+"Must offer free policies to HIV-positive persons",
+"Must treat HIV as a pre-existing disease with a 10-year waiting period",
+"Cannot deny health insurance on the ground of HIV status alone; HIV/AIDS must be covered subject to underwriting on actuarial basis"
+],
+"a": 3,
+"e": "The Act prohibits discrimination in insurance on the basis of HIV status, and IRDAI's standard exclusions removed HIV/AIDS from permissible exclusions."
+},
+{
+"n": 40,
+"topic": "Regulatory and Legal Aspects of Health Insurance",
+"t": "Under Section 80D of the Income-tax Act, 1961, the maximum deduction for health insurance premium paid by an individual below 60 for self and family (excluding parents) is:",
+"o": [
+"₹25,000",
+"₹15,000",
+"₹50,000",
+"₹75,000"
+],
+"a": 0,
+"e": "The limit is ₹25,000 (₹50,000 if the individual or spouse is a senior citizen), inclusive of ₹5,000 for preventive health check-up; a further ₹25,000/₹50,000 is available for parents."
+},
+{
+"n": 41,
+"topic": "Regulatory and Legal Aspects of Health Insurance",
+"t": "Which of the following statements regarding cancellation of a health policy is correct under IRDAI norms?",
+"o": [
+"The insurer may cancel the policy at any time with 15 days' notice",
+"The policyholder may cancel at any time with 7 days' notice and receive a refund of premium for the unexpired period (proportionate if no claim), while the insurer may cancel only for established fraud or misrepresentation",
+"Neither party may cancel once the policy is issued",
+"The insurer may cancel if a claim is made in the first year"
+],
+"a": 1,
+"e": "The 2024 norms allow policyholder-initiated cancellation with pro-rata refund if no claim has been made, while insurer cancellation is restricted to fraud or material non-disclosure."
+},
+{
+"n": 42,
+"topic": "Customer Service in Health Insurance",
+"t": "The typical claim process for a cashless hospitalisation at a network hospital begins with:",
+"o": [
+"A pre-authorisation request sent by the hospital to the insurer/TPA with the treating doctor's details and estimate",
+"Payment of the full bill by the insured",
+"Filing a complaint with the Ombudsman",
+"Submission of discharge summary"
+],
+"a": 0,
+"e": "Pre-authorisation is the first step in cashless; the insurer or TPA evaluates coverage and approves an initial amount, with final settlement at discharge."
+},
+{
+"n": 43,
+"topic": "Customer Service in Health Insurance",
+"t": "Which of the following is a correct statement about settlement of reimbursement claims under IRDAI's policyholder protection norms?",
+"o": [
+"The insurer may ask for documents in instalments without limit",
+"Claims can be rejected by the TPA directly",
+"The insurer must call for all required documents at one time and not raise piecemeal queries, and settle or reject within the stipulated timeline after the last necessary document",
+"Reimbursement claims need not be acknowledged"
+],
+"a": 2,
+"e": "Regulations require a single, complete requirement list and time-bound settlement; piecemeal queries are a recognised service failure."
+},
+{
+"topic": "Policyholder protection",
+"t": "The IRDAI portal through which a policyholder can escalate an unresolved grievance against an insurer is:",
+"o": [
+"Bima Sugam",
+"Bima Bharosa",
+"Bima Vahak",
+"Bima Vistaar"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). Bima Bharosa (formerly IGMS) is the grievance portal; Bima Sugam is the marketplace, Bima Vahak the women-led distribution channel and Bima Vistaar the combined rural product.",
+"r": "core",
+"n": 44
+},
+{
+"n": 45,
+"topic": "Customer Service in Health Insurance",
+"t": "In case of death of a patient during hospitalisation under a cashless claim, the 2024 Master Circular requires the insurer to:",
+"o": [
+"Wait for the legal heir certificate before any action",
+"Immediately attend to the claim request so that the mortal remains are released from the hospital without delay",
+"Reject the cashless request and ask for reimbursement",
+"Refer the case to the Ombudsman"
+],
+"a": 1,
+"e": "IRDAI specifically directs insurers to process such requests at once so that families are not made to wait for release of the body over settlement formalities."
+},
+{
+"n": 46,
+"topic": "Customer Service in Health Insurance",
+"t": "'Grievance' as defined in IRDAI's policyholder protection framework is:",
+"o": [
+"Any request for information about a product",
+"An expression of dissatisfaction about an action or lack of action, or the standard of service of an insurer or intermediary",
+"A claim under a policy",
+"A request for a duplicate policy copy"
+],
+"a": 1,
+"e": "A grievance is a complaint about service or conduct; simple enquiries or requests do not qualify as grievances for the redressal timelines."
+},
+{
+"n": 47,
+"topic": "Health Insurance Fraud",
+"t": "IRDAI's Insurance Fraud Monitoring Framework requires every insurer to:",
+"o": [
+"Appoint an external detective agency",
+"Lay down an anti-fraud policy approved by its Board, with procedures for detection, investigation and reporting of fraud",
+"Reject 10% of claims every year",
+"Share all claim data with the police"
+],
+"a": 1,
+"e": "The 2013 framework mandates a Board-approved anti-fraud policy, fraud monitoring units and reporting to IRDAI; it does not prescribe rejection quotas."
+},
+{
+"n": 48,
+"topic": "Health Insurance Fraud",
+"t": "Which of the following is an example of fraud by an intermediary?",
+"o": [
+"A hospital charging for unused consumables",
+"An agent backdating a proposal or concealing an insured's illness to secure the policy",
+"A patient submitting duplicate bills",
+"A reinsurer delaying recoveries"
+],
+"a": 1,
+"e": "Intermediary fraud involves agents or brokers manipulating proposals, forging documents or misappropriating premium; the other options describe provider and policyholder conduct."
+},
+{
+"n": 49,
+"topic": "Reinsurance",
+"t": "'Retention' in reinsurance means:",
+"o": [
+"The amount of risk the insurer keeps for its own account before ceding to reinsurers",
+"The commission paid by the reinsurer",
+"The reinsurer's share of premium",
+"The time for which the treaty remains in force"
+],
+"a": 0,
+"e": "Retention is the ceding insurer's own net share; it is set according to capital, risk appetite and portfolio size."
+},
+{
+"n": 50,
+"topic": "Reinsurance",
+"t": "Under a surplus treaty, the reinsurer's share of a risk is:",
+"o": [
+"The amount exceeding the insurer's retention, up to a stated number of 'lines'",
+"A fixed percentage of every risk",
+"Only losses above an agreed amount per claim",
+"Only aggregate losses above a loss ratio"
+],
+"a": 0,
+"e": "Surplus treaties are proportional but cede only the part of each risk above retention; quota share cedes a flat percentage and excess of loss is non-proportional."
+}
+]

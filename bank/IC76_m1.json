@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Introduction and History of Aviation Insurance",
+"t": "The world's first official airmail flight, flown by Henri Pequet in February 1911, took place between which two places?",
+"o": [
+"Allahabad and Naini",
+"London and Paris",
+"New York and Washington",
+"Berlin and Hamburg"
+],
+"a": 0,
+"e": "The first official airmail flight carried about 6,500 letters from Allahabad to Naini across the Yamuna in 1911, an early milestone of Indian aviation."
+},
+{
+"n": 2,
+"topic": "Aviation Industry, Aircraft and Operations",
+"t": "Most bird-strike incidents affecting aircraft occur at altitudes below approximately:",
+"o": [
+"1,000 feet",
+"10,000 feet",
+"15,000 feet",
+"3,000 feet"
+],
+"a": 3,
+"e": "Bird activity is concentrated near the ground, so the great majority of strikes happen below about 3,000 ft during take-off, climb, approach and landing."
+},
+{
+"n": 3,
+"topic": "Aviation Industry, Aircraft and Operations",
+"t": "The Flight Data Recorder (popularly called the 'black box') is in fact painted in which colour to aid recovery after an accident?",
+"o": [
+"Black",
+"White",
+"Bright orange",
+"Yellow"
+],
+"a": 2,
+"e": "Despite its name, the FDR (and the Cockpit Voice Recorder) is painted bright orange with reflective strips so that it can be located in wreckage."
+},
+{
+"n": 4,
+"topic": "Aviation Industry, Aircraft and Operations",
+"t": "The primary purpose of TCAS fitted on commercial aircraft is to:",
+"o": [
+"Warn of terrain ahead of the aircraft",
+"Record cockpit conversations",
+"Warn of and help avoid collision with other aircraft",
+"Measure fuel contamination"
+],
+"a": 2,
+"e": "The Traffic Alert and Collision Avoidance System interrogates transponders of nearby aircraft and issues resolution advisories to avoid mid-air collision; terrain warning is the function of EGPWS."
+},
+{
+"n": 5,
+"topic": "Aviation Insurance Market and Classification of Risks",
+"t": "The International Union of Aerospace Insurers (IUAI), the worldwide association of aviation insurers, was founded in:",
+"o": [
+"1919",
+"1945",
+"1967",
+"1934"
+],
+"a": 3,
+"e": "IUAI was formed in 1934 to represent aviation insurers, exchange information and present a common view to industry bodies such as ICAO and IATA."
+},
+{
+"n": 6,
+"topic": "Aviation Insurance Market and Classification of Risks",
+"t": "A helicopter operator carrying crew to offshore oil platforms would normally be classified by an aviation underwriter under which category of risk?",
+"o": [
+"Scheduled airline",
+"Airport operator",
+"Aircraft manufacturer",
+"General aviation / aerial work"
+],
+"a": 3,
+"e": "Offshore and other specialised operations fall within general aviation/aerial work, which is rated separately from scheduled airlines because of its distinct hazard profile."
+},
+{
+"n": 7,
+"topic": "Hull Insurance",
+"t": "Which of the following is a standard exclusion under Section I (hull) of AVN 1C?",
+"o": [
+"Damage caused by a bird strike in flight",
+"Damage caused by hail while parked",
+"Damage from a heavy landing",
+"Wear, tear and gradual deterioration of the aircraft"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). Hull cover is for accidental loss or damage; wear and tear, deterioration and internal breakdown of a unit are not fortuitous and are excluded, while bird strikes, hail and heavy landings are accidental.",
+"r": "key"
+},
+{
+"n": 8,
+"topic": "Hull Insurance",
+"t": "Under an aircraft hull policy written on an 'agreed value' basis, in the event of a total loss the insurer pays:",
+"o": [
+"The agreed value stated in the policy, without applying average",
+"The market value of the aircraft on the date of loss",
+"The purchase price less depreciation",
+"The repair cost estimated by the manufacturer"
+],
+"a": 0,
+"e": "The agreed value is fixed at inception and is paid in full on total loss; the condition of average (under-insurance) does not apply to agreed value hull policies."
+},
+{
+"n": 9,
+"topic": "Hull Insurance",
+"t": "Under standard aircraft hull insurance practice, the policy deductible applies to:",
+"o": [
+"Partial losses only, not to total losses",
+"Total losses only",
+"Both partial and total losses",
+"Liability claims from passengers"
+],
+"a": 0,
+"e": "The hull deductible is deducted from partial-loss claims; it is waived when the aircraft becomes a total (or constructive total) loss."
+},
+{
+"n": 10,
+"topic": "Hull Insurance",
+"t": "An aircraft insured for an agreed value of ₹120 crore suffers accidental damage costing ₹3.2 crore to repair. The policy carries a deductible of ₹50 lakh on partial losses. The amount payable by insurers is:",
+"o": [
+"₹3.2 crore",
+"₹2.5 crore",
+"₹2.7 crore",
+"₹3.7 crore"
+],
+"a": 2,
+"e": "The deductible of ₹50 lakh is subtracted from the partial loss of ₹3.2 crore, leaving ₹2.7 crore payable; the agreed value is irrelevant to a partial loss."
+},
+{
+"n": 11,
+"topic": "Hull Insurance",
+"t": "A jet engine fails during cruise because of an internal fatigue crack in a turbine blade. The failure throws debris that damages the wing. Under AVN 1C Section I, which statement is correct?",
+"o": [
+"Both the engine failure and the wing damage are excluded",
+"The engine unit's internal failure is excluded, but the resulting accidental damage to the wing is covered",
+"Both are covered because the failure occurred in flight",
+"Only the engine is covered as the wing damage is consequential loss"
+],
+"a": 1,
+"e": "AVN 1C excludes wear and tear, breakdown or defect within a 'unit' and its consequences within that unit, but covers accidental damage to other parts of the aircraft caused by the failure."
+},
+{
+"n": 12,
+"topic": "Hull Insurance",
+"t": "When accidental damage to an insured aircraft is established under a hull policy, the insurers have the option to:",
+"o": [
+"Pay for, repair or replace the damaged aircraft",
+"Cancel the policy and return the premium",
+"Replace the aircraft only with a new one of the same type",
+"Refuse the claim if the pilot was at fault"
+],
+"a": 0,
+"e": "The standard hull wording gives insurers the choice to pay for, replace or repair the loss, subject to the amount insured and deductible; pilot negligence is not an exclusion."
+},
+{
+"n": 13,
+"topic": "Hull Insurance",
+"t": "For the purpose of an aircraft hull policy, 'Flight' is defined as the period:",
+"o": [
+"From engine start to engine shut-down",
+"From push-back from the gate to arrival at the destination gate",
+"Only while the aircraft is airborne above 500 feet",
+"From the moment the aircraft moves forward in taking off (or attempting to) until it completes its landing run"
+],
+"a": 3,
+"e": "The policy distinguishes Flight, Taxiing, Moored and Ground risks; Flight begins with the take-off run and ends when the landing run is completed, which matters for premium rating and lay-up returns."
+},
+{
+"n": 14,
+"topic": "Aviation Liability Insurance",
+"t": "'Passenger Legal Liability' (PLL) cover under an aircraft policy indemnifies the operator for:",
+"o": [
+"Damage to the aircraft caused by passengers",
+"Liability to persons on the ground struck by the aircraft",
+"Legal liability for bodily injury to passengers and loss of their baggage",
+"Compensation to crew members injured on duty"
+],
+"a": 2,
+"e": "PLL (Section III of AVN 1C) covers liability to fare-paying and other passengers for injury, death and baggage; third parties on the ground fall under Section II and crew are excluded as employees."
+},
+{
+"n": 15,
+"topic": "Aviation Liability Insurance",
+"t": "A 'Combined Single Limit' (CSL) in an airline liability policy means:",
+"o": [
+"Separate limits for passengers and third parties that are added together",
+"The limit applicable to each individual passenger",
+"One overall limit per occurrence covering passenger, third-party, baggage and cargo liabilities together",
+"The total of all limits over the whole policy year"
+],
+"a": 2,
+"e": "A CSL is a single limit any one occurrence shared by all liability heads, giving the airline flexibility rather than fixed sub-limits for each type of claimant."
+},
+{
+"n": 16,
+"topic": "Aviation Liability Insurance",
+"t": "An airline carries liability cover with a Combined Single Limit of ₹2,000 crore any one occurrence. A crash results in passenger claims of ₹1,500 crore and third-party property claims of ₹800 crore. Insurers will pay:",
+"o": [
+"₹2,300 crore",
+"₹2,000 crore",
+"₹1,500 crore",
+"₹800 crore"
+],
+"a": 1,
+"e": "The combined claims of ₹2,300 crore exceed the single per-occurrence limit, so insurers' liability is capped at ₹2,000 crore; the balance falls on the airline."
+},
+{
+"n": 17,
+"topic": "Aviation Liability Insurance",
+"t": "The key legal distinction between an airline's liability to its passengers and its liability to third parties on the ground is that:",
+"o": [
+"Third-party liability is always unlimited while passenger liability is always nil",
+"Passenger liability arises under the contract of carriage governed by conventions, while third-party liability arises in tort",
+"Passenger liability is governed by motor vehicle law",
+"Third-party liability is governed by the Warsaw Convention"
+],
+"a": 1,
+"e": "Passengers have a contract of carriage to which the Warsaw/Montreal regime applies; persons on the ground have no contract and claim in tort (or under the Rome Convention where applicable)."
+},
+{
+"n": 18,
+"topic": "Reinsurance",
+"t": "A surplus treaty with a retention of ₹5 crore and nine lines gives the cedant automatic capacity of:",
+"o": [
+"₹9 crore",
+"₹45 crore",
+"₹50 crore",
+"₹14 crore"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). Capacity = retention + (lines × retention) = ₹5 crore + 9 × ₹5 crore = ₹50 crore; the treaty absorbs ₹45 crore above the retention.",
+"r": "key"
+},
+{
+"n": 19,
+"topic": "Aviation Liability Insurance",
+"t": "Section II of the AVN 1C London Aircraft Insurance Policy provides cover for:",
+"o": [
+"Loss of or damage to the aircraft",
+"Legal liability to passengers",
+"Legal liability to third parties other than passengers",
+"Personal accident benefits to crew"
+],
+"a": 2,
+"e": "AVN 1C has Section I (hull), Section II (third-party liability excluding passengers), Section III (passenger liability), Section IV (general exclusions) and Section V (conditions)."
+},
+{
+"n": 20,
+"topic": "Policy Wordings, Clauses and Endorsements",
+"t": "AVN 48B is the standard aviation market clause which:",
+"o": [
+"Extends the hull policy to cover war risks",
+"Covers noise and pollution liabilities",
+"Protects the interests of lessors and financiers",
+"Excludes war, hijacking and other perils from the policy"
+],
+"a": 3,
+"e": "AVN 48B, the War, Hijacking and Other Perils Exclusion Clause, removes war, nuclear detonation, strikes/riots, terrorism, sabotage, confiscation and hijacking from the basic policy."
+},
+{
+"n": 21,
+"topic": "Policy Wordings, Clauses and Endorsements",
+"t": "The Extended Coverage Endorsement AVN 52E is used to:",
+"o": [
+"Exclude all terrorism liabilities permanently",
+"Write back into the liability policy most of the perils excluded by AVN 48B, except nuclear detonation",
+"Extend hull cover to spare engines",
+"Add loss of licence benefits for pilots"
+],
+"a": 1,
+"e": "AVN 52E reinstates war, hijacking, terrorism and similar liability perils (subject to limits and cancellation provisions) but cannot write back the nuclear detonation exclusion in paragraph (b) of AVN 48B."
+},
+{
+"n": 22,
+"topic": "Policy Wordings, Clauses and Endorsements",
+"t": "Under AVN 46B, the Noise and Pollution and Other Perils Exclusion Clause, claims for noise or pollution are nevertheless covered when caused by:",
+"o": [
+"Routine engine testing on the ground",
+"Normal flight over residential areas",
+"A crash, fire, explosion or collision, or a recorded in-flight emergency causing abnormal operation",
+"Scheduled maintenance activities"
+],
+"a": 2,
+"e": "AVN 46B excludes noise, vibration, sonic boom, pollution and interference with property, but the exclusion does not apply where these result from a crash, fire, explosion, collision or a recorded in-flight emergency."
+},
+{
+"n": 23,
+"topic": "Policy Wordings, Clauses and Endorsements",
+"t": "The Nuclear Risks Exclusion Clause used in aviation policies is designated:",
+"o": [
+"AVN 1C",
+"AVN 38B",
+"AVN 67B",
+"AVN 2000A"
+],
+"a": 1,
+"e": "AVN 38B excludes loss or liability arising from ionising radiation or radioactive contamination, with a limited exception for radioactive isotopes carried as cargo in accordance with regulations."
+},
+{
+"n": 24,
+"topic": "Policy Wordings, Clauses and Endorsements",
+"t": "An aircraft is financed by a bank and leased to an Indian airline. The endorsement which records the bank's and lessor's interests in the policy and protects them against invalidation by the airline's breach of warranty is:",
+"o": [
+"AVN 46B",
+"AVN 48B",
+"AVN 67B",
+"AVS 103"
+],
+"a": 2,
+"e": "AVN 67B (Airline Finance/Lease Contract Endorsement) names the contract parties, provides hull payment to them as their interest may appear and gives them notice rights before cancellation."
+},
+{
+"n": 25,
+"topic": "Other Aviation Covers",
+"t": "A Loss of Licence policy for a commercial pilot provides a benefit when the pilot's licence is:",
+"o": [
+"Suspended by DGCA for a disciplinary violation",
+"Withdrawn or not renewed on medical grounds, making the pilot unfit to fly",
+"Lost physically and has to be replaced",
+"Surrendered on voluntary retirement"
+],
+"a": 1,
+"e": "Loss of Licence insurance pays a lump sum (permanent) or periodic benefit (temporary) when a pilot fails the required medical standard; disciplinary suspension and voluntary surrender are not insured events."
+},
+{
+"n": 26,
+"topic": "Other Aviation Covers",
+"t": "The standard Airport Owners and Operators Liability policy (Ariel form) is divided into three sections covering, respectively:",
+"o": [
+"Hull, passengers and cargo",
+"Premises liability, hangarkeepers' liability and products liability",
+"War risks, terrorism and nuclear risks",
+"Employees, directors and contractors"
+],
+"a": 1,
+"e": "The Ariel wording covers (1) liability arising from the airport premises and operations, (2) liability for aircraft in the operator's care, custody or control, and (3) liability for products sold or supplied, such as fuel."
+},
+{
+"n": 27,
+"topic": "Other Aviation Covers",
+"t": "'Grounding' cover under an aviation products liability policy for a manufacturer responds when:",
+"o": [
+"Aircraft of a particular type are withdrawn from flight by an airworthiness authority because of a suspected defect in the insured's product",
+"An airline grounds a single aircraft for routine maintenance",
+"Weather conditions prevent flights",
+"A pilot refuses to fly an aircraft"
+],
+"a": 0,
+"e": "Grounding liability covers the manufacturer's liability for loss of use suffered by operators when a type is grounded for safety reasons attributable to its product, a potentially huge exposure."
+},
+{
+"n": 28,
+"topic": "Aviation Insurance Market and Classification of Risks",
+"t": "A broker places an airline risk and obtains written lines totalling 125%. An underwriter who wrote a 25% line will have a signed line of:",
+"o": [
+"25%",
+"20%",
+"31.25%",
+"12.5%"
+],
+"a": 1,
+"e": "★ Key fact (repeated across the mocks of this paper). Lines are signed down proportionately: 25% × 100/125 = 20%.",
+"r": "key"
+},
+{
+"n": 29,
+"topic": "Other Aviation Covers",
+"t": "Hangarkeepers' liability insurance protects a maintenance organisation or airport operator against:",
+"o": [
+"Legal liability for damage to aircraft belonging to others while in its care, custody or control",
+"Loss of its own hangar building by fire",
+"Injury to its own employees in the hangar",
+"Loss of revenue when the hangar is unusable"
+],
+"a": 0,
+"e": "Hangarkeepers' cover is a bailee liability cover for customers' aircraft held for maintenance, storage or servicing; the operator's own property is insured separately."
+},
+{
+"n": 30,
+"topic": "Other Aviation Covers",
+"t": "Under the Hull War and Allied Perils policy LSW 555D, which of the following is NOT covered?",
+"o": [
+"Confiscation of the aircraft by the government of the country of registration",
+"Hijacking of the aircraft",
+"Damage by a terrorist act",
+"Damage during riots or civil commotion"
+],
+"a": 0,
+"e": "Hull war covers war, terrorism, hijacking, riots and confiscation by foreign governments, but confiscation, nationalisation or requisition by the state of registration (or the operator's own state) is excluded."
+},
+{
+"n": 31,
+"topic": "Underwriting and Rating",
+"t": "In underwriting a corporate jet, the factor an aviation underwriter is most concerned with regarding the pilot is:",
+"o": [
+"The pilot's age only",
+"The pilot's nationality",
+"Whether the pilot owns shares in the company",
+"Total flying hours and hours on the particular aircraft type"
+],
+"a": 3,
+"e": "Pilot experience, especially hours on type, is the single most important human factor in general aviation underwriting, and pilots are often named or warranted in the policy."
+},
+{
+"n": 32,
+"topic": "Underwriting and Rating",
+"t": "An airline insures a fleet of 10 aircraft, each with an agreed value of ₹300 crore, at an annual hull rate of 0.30% on value. The annual hull premium is:",
+"o": [
+"₹90 lakh",
+"₹9 crore",
+"₹3 crore",
+"₹30 crore"
+],
+"a": 1,
+"e": "Total agreed value is ₹3,000 crore; 0.30% of ₹3,000 crore is ₹9 crore. Hull premium is conventionally expressed as a percentage rate on insured value."
+},
+{
+"n": 33,
+"topic": "Underwriting and Rating",
+"t": "A 'lay-up return' in an aircraft hull policy refers to:",
+"o": [
+"Partial return of premium when the aircraft is withdrawn from flying for a continuous period, as only ground risks remain",
+"Return of premium when the aircraft is sold",
+"Return of premium when the pilot retires",
+"Refund of the deductible after a claim-free year"
+],
+"a": 0,
+"e": "Because flight risk is removed while the aircraft is laid up for a stated minimum consecutive period, the policy returns a portion of premium (typically a percentage of the pro-rata premium) subject to no claims."
+},
+{
+"n": 34,
+"topic": "Underwriting and Rating",
+"t": "The 'Additions and Deletions' clause in an airline fleet policy provides that:",
+"o": [
+"Aircraft can be added or removed only at renewal",
+"Aircraft acquired during the period are automatically covered subject to notification and pro-rata premium adjustment",
+"New aircraft must be insured under a separate policy",
+"Deleted aircraft continue to be covered until expiry"
+],
+"a": 1,
+"e": "The clause gives automatic cover for additions to the fleet on existing terms, with premium adjusted pro rata for the period on risk and returned pro rata for deletions."
+},
+{
+"n": 35,
+"topic": "Aviation Law and International Conventions",
+"t": "The Warsaw Convention 1929 originally limited an air carrier's liability for death or injury of a passenger to:",
+"o": [
+"250,000 Poincaré francs",
+"125,000 Poincaré francs",
+"100,000 SDR",
+"US $75,000"
+],
+"a": 1,
+"e": "Warsaw 1929 fixed the limit at 125,000 gold francs; the Hague Protocol 1955 doubled it to 250,000 francs, and the Montreal Agreement 1966 raised it to US $75,000 for flights touching the USA."
+},
+{
+"n": 36,
+"topic": "Aviation Law and International Conventions",
+"t": "The Hague Protocol 1955 amended the Warsaw Convention mainly by:",
+"o": [
+"Introducing strict liability without any limit",
+"Replacing gold francs with SDRs",
+"Doubling the passenger liability limit to 250,000 francs and simplifying documentation",
+"Creating a fifth jurisdiction for claims"
+],
+"a": 2,
+"e": "The Hague Protocol doubled the passenger limit and redefined wilful misconduct; SDRs came with the 1975 Montreal Protocols and the fifth jurisdiction with the 1999 Montreal Convention."
+},
+{
+"topic": "Intermediaries",
+"t": "The qualifying examination for an individual insurance agent conducted by the Insurance Institute of India is:",
+"o": [
+"IC-01",
+"IC-38",
+"IC-14",
+"IC-33"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). IC-38 is the agents' pre-recruitment examination; IC-01/02/11/14 are Licentiate papers.",
+"r": "core",
+"n": 37
+},
+{
+"n": 38,
+"topic": "Aviation Law and International Conventions",
+"t": "Under the Montreal Convention 1999, the carrier's liability for passenger death or injury is structured as:",
+"o": [
+"A single fixed limit that cannot be exceeded",
+"Liability only if the passenger proves negligence",
+"No liability unless wilful misconduct is proved",
+"Two tiers: strict liability up to a first tier (originally 100,000 SDR) and unlimited liability above it unless the carrier proves it was not negligent"
+],
+"a": 3,
+"e": "Montreal 1999 removed the Warsaw cap: the carrier cannot contest claims up to the first tier, and beyond it is liable unless it proves the damage was not due to its negligence or was solely due to a third party."
+},
+{
+"n": 39,
+"topic": "Aviation Law and International Conventions",
+"t": "The 'fifth jurisdiction' introduced by the Montreal Convention 1999 allows a passenger's claim to be brought in the country of:",
+"o": [
+"The passenger's principal and permanent residence (subject to conditions)",
+"The aircraft manufacturer",
+"The insurer's head office",
+"Any ICAO member state"
+],
+"a": 0,
+"e": "Warsaw allowed four fora (carrier's domicile, principal place of business, place of contract, destination); Montreal added the passenger's principal residence provided the carrier operates services there."
+},
+{
+"n": 40,
+"topic": "Aviation Law and International Conventions",
+"t": "The Chicago Convention 1944 is important to aviation insurers because it:",
+"o": [
+"Fixed airline liability limits to passengers",
+"Established ICAO and the framework of international standards for civil aviation, including accident investigation (Annex 13)",
+"Created the Lloyd's aviation market",
+"Regulated aviation reinsurance contracts"
+],
+"a": 1,
+"e": "The Chicago Convention set up ICAO (headquartered in Montreal) and the Annexes containing standards on airworthiness, operations, licensing and accident investigation; liability limits come from the Warsaw/Montreal regime."
+},
+{
+"n": 41,
+"topic": "Aviation Law and International Conventions",
+"t": "In India, the liability of air carriers under the Warsaw Convention, the Hague Protocol and the Montreal Convention is given statutory effect by:",
+"o": [
+"The Aircraft Act 1934",
+"The Insurance Act 1938",
+"The Carriage by Air Act 1972, as amended in 2009",
+"The Motor Vehicles Act 1988"
+],
+"a": 2,
+"e": "The Carriage by Air Act 1972 incorporates Warsaw and Hague in its Schedules, and the 2009 amendment added the Montreal Convention 1999 as the Third Schedule after India's accession."
+},
+{
+"n": 42,
+"topic": "Claims and Accident Investigation",
+"t": "According to ICAO Annex 13, an 'accident' is an occurrence associated with the operation of an aircraft which takes place:",
+"o": [
+"Only while the aircraft is airborne",
+"Only during take-off and landing",
+"Only when the aircraft is on an international flight",
+"Between the time any person boards the aircraft with the intention of flight until all such persons have disembarked"
+],
+"a": 3,
+"e": "Annex 13 defines an accident by reference to the boarding-to-disembarkation window and the outcome: a person fatally or seriously injured, substantial damage to the aircraft, or the aircraft missing."
+},
+{
+"n": 43,
+"topic": "Claims and Accident Investigation",
+"t": "In India, the investigation of civil aircraft accidents and serious incidents is the responsibility of:",
+"o": [
+"The Airports Authority of India",
+"The Bureau of Civil Aviation Security",
+"The Aircraft Accident Investigation Bureau (AAIB)",
+"The Insurance Regulatory and Development Authority of India"
+],
+"a": 2,
+"e": "AAIB, set up in 2012 under the Ministry of Civil Aviation, investigates accidents under the Aircraft (Investigation of Accidents and Incidents) Rules; DGCA regulates safety while BCAS handles security."
+},
+{
+"n": 44,
+"topic": "Claims and Accident Investigation",
+"t": "When hull insurers pay a total loss on an aircraft under an agreed value policy, the salvage of the wreckage:",
+"o": [
+"Remains the property of the insured",
+"Is shared equally between insured and insurers",
+"Is handed to the airport authority",
+"Belongs to the insurers, who may dispose of it"
+],
+"a": 3,
+"e": "On payment of a total loss insurers acquire the insured's rights in the salvage; the insured cannot abandon the aircraft without insurers' consent."
+},
+{
+"n": 45,
+"topic": "Claims and Accident Investigation",
+"t": "Following an accident, the standard aircraft policy conditions require the insured to:",
+"o": [
+"Admit liability promptly to injured parties so as to limit litigation",
+"Repair the aircraft before informing insurers",
+"Settle passenger claims and then recover from insurers",
+"Give immediate notice to insurers and refrain from admitting liability or making any offer without insurers' consent"
+],
+"a": 3,
+"e": "The conditions require prompt notice, cooperation and no admission of liability, so that insurers control the defence and settlement of claims."
+},
+{
+"topic": "Intermediaries",
+"t": "A corporate agent may tie up with a maximum of how many insurers in each line of business?",
+"o": [
+"3",
+"6",
+"9",
+"Unlimited"
+],
+"a": 2,
+"e": "★ Core fact (asked across III papers). Raised from 3 to 9 insurers per category (life, general, health) by the 2022 amendment to the Corporate Agents Regulations.",
+"r": "core",
+"n": 46
+},
+{
+"n": 47,
+"topic": "Reinsurance",
+"t": "Compared with other classes, aviation insurance has traditionally relied heavily on which form of reinsurance for large airline fleets?",
+"o": [
+"Facultative reinsurance placed risk by risk",
+"Quota share treaties only",
+"Stop-loss treaties",
+"No reinsurance, as insurers retain the whole risk"
+],
+"a": 0,
+"e": "Because each airline programme is large and individually underwritten, insurers commonly place facultative reinsurance, supplemented by treaty and excess of loss protection."
+},
+{
+"n": 48,
+"topic": "Reinsurance",
+"t": "An Indian insurer cedes 80% of an aviation hull risk under a quota share treaty. A loss of ₹10 crore occurs. The insurer's net retained loss is:",
+"o": [
+"₹2 crore",
+"₹8 crore",
+"₹10 crore",
+"₹1 crore"
+],
+"a": 0,
+"e": "Under quota share the cedant retains the same proportion of every loss as of every premium; 20% of ₹10 crore is ₹2 crore."
+},
+{
+"n": 49,
+"topic": "Reinsurance",
+"t": "A catastrophe excess of loss treaty protects an aviation insurer against:",
+"o": [
+"Each individual small partial loss",
+"An accumulation of losses from one event (e.g. a crash involving many claims) exceeding its retention",
+"Reduction in premium income",
+"Losses on its investment portfolio"
+],
+"a": 1,
+"e": "Cat XL responds when the aggregate loss from a single occurrence exceeds the cedant's retention, up to the treaty limit; risk XL deals with single risks and stop loss with annual results."
+},
+{
+"n": 50,
+"topic": "Reinsurance",
+"t": "A 'claims co-operation clause' in an aviation reinsurance contract requires the ceding insurer to:",
+"o": [
+"Settle all claims without reference to the reinsurer",
+"Pay the reinsurer a fee for each claim",
+"Transfer the claim file entirely to the reinsurer",
+"Notify the reinsurer of significant claims and consult it before settlement"
+],
+"a": 3,
+"e": "The clause obliges the cedant to notify and co-operate with reinsurers on claims likely to involve them; a 'claims control' clause goes further and gives reinsurers the right to control settlement."
+}
+]

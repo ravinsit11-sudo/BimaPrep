@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Sources of Law",
+"t": "An Ordinance promulgated by the President under Article 123 of the Constitution ceases to operate:",
+"o": [
+"only when repealed by a later Act",
+"immediately on the next sitting of Parliament",
+"six weeks after the reassembly of Parliament, unless approved earlier",
+"six months after promulgation"
+],
+"a": 2,
+"e": "An Ordinance has the force of an Act but lapses six weeks after Parliament reassembles unless both Houses approve it; the 2014 Insurance Laws (Amendment) Ordinance was later replaced by the 2015 Act."
+},
+{
+"n": 2,
+"topic": "Sources of Law",
+"t": "Regulations framed by IRDAI under Section 114A of the Insurance Act, 1938 are an example of:",
+"o": [
+"judicial precedent",
+"constitutional law",
+"customary law",
+"subordinate (delegated) legislation"
+],
+"a": 3,
+"e": "Rules by the Central Government and regulations by IRDAI are made under powers delegated by the parent Act; they must be laid before Parliament and cannot go beyond the Act."
+},
+{
+"n": 3,
+"topic": "Administration of Justice in India",
+"t": "A High Court's power to issue writs for enforcement of fundamental rights and for any other purpose is conferred by:",
+"o": [
+"Article 226",
+"Article 32",
+"Article 136",
+"Article 141"
+],
+"a": 0,
+"e": "Article 226 gives High Courts writ jurisdiction, which is wider than the Supreme Court's Article 32 power as it extends to 'any other purpose' beyond fundamental rights."
+},
+{
+"n": 4,
+"topic": "Administration of Justice in India",
+"t": "Under the Limitation Act, 1963, a suit to recover money payable on a life insurance policy must generally be filed within:",
+"o": [
+"one year",
+"three years",
+"two years",
+"twelve years"
+],
+"a": 1,
+"e": "Article 44 of the Schedule prescribes three years, counted from the date of death or, where the claim is denied earlier, from the date of such denial."
+},
+{
+"n": 5,
+"topic": "Law of Contract",
+"t": "Under Section 23 of the Indian Contract Act, an agreement whose object is unlawful is:",
+"o": [
+"void",
+"voidable at the option of the promisee",
+"valid but unenforceable",
+"valid if consideration has passed"
+],
+"a": 0,
+"e": "Every agreement whose object or consideration is unlawful, immoral or opposed to public policy is void; a policy taken on a life in which there is no insurable interest is void as a wager."
+},
+{
+"n": 6,
+"topic": "Law of Contract",
+"t": "Where both parties to an agreement are under a mistake as to a matter of fact essential to the agreement, the agreement is:",
+"o": [
+"illegal under Section 23",
+"void under Section 20",
+"voidable under Section 19",
+"valid under Section 22"
+],
+"a": 1,
+"e": "A bilateral mistake of fact essential to the agreement makes it void (S.20); a unilateral mistake (S.22) or a mistake of law (S.21) does not render it voidable."
+},
+{
+"n": 7,
+"topic": "Law of Contract",
+"t": "Which of the following statements about contingent contracts under Sections 31-36 of the Indian Contract Act is INCORRECT?",
+"o": [
+"A contract contingent on an impossible event is void",
+"Its performance depends on the happening or non-happening of a collateral event",
+"A contingent contract is the same as a wagering agreement and is therefore void",
+"A life insurance contract is a contingent contract"
+],
+"a": 2,
+"e": "A contingent contract is valid and enforceable, whereas a wager is void under S.30; insurance is distinguished from a wager by insurable interest and the insured's genuine interest in the event not happening."
+},
+{
+"n": 8,
+"topic": "Life Insurance Contract-I",
+"t": "A creditor has insurable interest in the life of his debtor:",
+"o": [
+"only if the debtor is a relative",
+"only after the debt becomes time-barred",
+"for an unlimited amount",
+"to the extent of the debt outstanding"
+],
+"a": 3,
+"e": "A creditor stands to lose financially on the debtor's death, so insurable interest exists, but it is limited to the amount of the debt together with interest and the cost of insurance."
+},
+{
+"n": 9,
+"topic": "Life Insurance Contract-II",
+"t": "Under Section 113 of the Insurance Act, 1938 (as amended in 2015), a life policy acquires a guaranteed surrender value once premiums have been paid for at least:",
+"o": [
+"one year",
+"three consecutive years",
+"five years",
+"two consecutive years"
+],
+"a": 3,
+"e": "The 2015 amendment reduced the period from three years to two consecutive years; IRDAI product regulations now require a surrender value even after the first year's premium."
+},
+{
+"n": 10,
+"topic": "Life Insurance Contract-II",
+"t": "Where an insurer repudiates a policy on the ground of fraud under Section 45(2), it must:",
+"o": [
+"communicate the grounds and materials in writing to the policyholder or his legal representatives, nominees or assignees",
+"obtain prior approval of IRDAI",
+"obtain a court decree before repudiation",
+"refund all premiums paid with interest"
+],
+"a": 0,
+"e": "Repudiation on fraud must be supported by written reasons and materials communicated to the insured or those claiming under him; the burden of proving fraud rests on the insurer."
+},
+{
+"n": 11,
+"topic": "Law of Contract",
+"t": "Section 2(h) of the Indian Contract Act, 1872 defines a contract as:",
+"o": [
+"a proposal which has been accepted",
+"an agreement enforceable by law",
+"every promise forming consideration for each other",
+"a set of reciprocal promises"
+],
+"a": 1,
+"e": "★ Key fact (repeated across the mocks of this paper). A contract is an agreement enforceable by law; an agreement is every promise and set of promises forming consideration for each other (S.2(e)), and a promise is an accepted proposal (S.2(b)).",
+"r": "key"
+},
+{
+"n": 12,
+"topic": "Life Insurance Contract-II",
+"t": "An insurer repudiates a policy within three years for a misstatement of a material fact that was not fraudulent. Under Section 45(3) the insurer must:",
+"o": [
+"retain all premiums as forfeited",
+"refund the premiums collected till the date of repudiation within 90 days",
+"pay the sum assured less unpaid premiums",
+"pay only the surrender value"
+],
+"a": 1,
+"e": "Where repudiation is on misstatement or suppression not amounting to fraud, the premiums paid must be refunded to the insured or his nominee within 90 days of repudiation."
+},
+{
+"n": 13,
+"topic": "Life Insurance Contract-II",
+"t": "A policy was issued on 15 June 2022 and a critical illness rider was added on 15 June 2024. On 1 July 2026 the insurer finds that a material fact was fraudulently suppressed when the rider was added. Which is correct?",
+"o": [
+"Neither can be questioned as the base policy is over three years old",
+"Both the base policy and the rider can be repudiated for fraud",
+"The rider can be questioned, since three years from its addition have not elapsed, but the base policy issued in 2022 cannot be questioned for fraud",
+"Only the base policy can be repudiated"
+],
+"a": 2,
+"e": "Section 45 runs separately from the date of each rider; the rider is within three years of its addition, whereas the base policy, being more than three years old, cannot be called in question on any ground."
+},
+{
+"n": 14,
+"topic": "Group Life and Other Insurance Schemes",
+"t": "Under the Payment of Gratuity Act, 1972, gratuity becomes payable on termination of employment after continuous service of not less than:",
+"o": [
+"three years in all cases",
+"one year for employees in factories",
+"ten years in all cases",
+"five years, except where termination is due to death or disablement"
+],
+"a": 3,
+"e": "Five years' continuous service is the qualifying condition, which is waived where employment ends because of death or disablement; group gratuity policies are used to fund this liability."
+},
+{
+"n": 15,
+"topic": "Group Life and Other Insurance Schemes",
+"t": "In group insurance, the document given to an individual member evidencing his cover is called the:",
+"o": [
+"certificate of insurance",
+"master policy",
+"endorsement",
+"cover note"
+],
+"a": 0,
+"e": "The master policy is issued to the group organiser; each member receives a certificate stating the benefit, which is not itself a contract between the member and the insurer."
+},
+{
+"n": 16,
+"topic": "Group Life and Other Insurance Schemes",
+"t": "The maximum assurance benefit presently payable under the Employees' Deposit Linked Insurance Scheme is:",
+"o": [
+"₹6 lakh",
+"₹7 lakh",
+"₹3.6 lakh",
+"₹10 lakh"
+],
+"a": 1,
+"e": "EDLI benefit was raised to a maximum of ₹7 lakh (with a minimum of ₹2.5 lakh) by the 2021 amendment to the scheme."
+},
+{
+"n": 17,
+"topic": "Life Insurance Policies as Property",
+"t": "A conditional assignment of a life policy is one in which:",
+"o": [
+"the insurer must approve the assignee",
+"the assignee can enforce only half the benefit",
+"the policy reverts to the assignor on the happening of a specified event, such as the assignee predeceasing the life assured",
+"the assignment is valid only for one year"
+],
+"a": 2,
+"e": "Section 38 permits conditional assignments; a common form provides for reversion to the life assured if the assignee dies before him, which is useful in family arrangements."
+},
+{
+"n": 18,
+"topic": "Life Insurance Policies as Property",
+"t": "Under Section 38 (as amended), an insurer may decline to act on an assignment if it believes the transfer is not bona fide or is against the policyholder's interest. In that case the insurer must:",
+"o": [
+"refuse without assigning any reason",
+"cancel the policy",
+"refer the matter to a civil court",
+"record its reasons in writing and communicate them to the policyholder within 30 days, who may appeal to IRDAI"
+],
+"a": 3,
+"e": "The 2015 amendment introduced this safeguard against trading in policies; the refusal must be reasoned and communicated within 30 days, and the policyholder may prefer a claim to the Authority."
+},
+{
+"n": 19,
+"topic": "Rights under Life Insurance Policies",
+"t": "Under the IRDAI (Insurance Products) Regulations, 2024, a lapsed non-linked policy can be revived within:",
+"o": [
+"two years from the date of the first unpaid premium",
+"three years from the date of lapse",
+"five years from the date of the first unpaid premium",
+"one year from the end of the grace period"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). The revival period is five years from the first unpaid premium, subject to the policy terms and evidence of continued insurability.",
+"r": "key"
+},
+{
+"n": 20,
+"topic": "Life Insurance Policies as Property",
+"t": "Under Section 39(7), if the nominee is a parent, spouse or child of the policyholder, the nominee is:",
+"o": [
+"beneficially entitled to the policy money, not merely a collector for the legal heirs",
+"not entitled if a will exists",
+"entitled only to collect and distribute to the heirs",
+"entitled to only half the money"
+],
+"a": 0,
+"e": "The 2015 amendment made such 'beneficial nominees' owners of the money; for other nominees the earlier position (collector on behalf of the heirs, Sarbati Devi case) continues."
+},
+{
+"n": 21,
+"topic": "Life Insurance Policies as Property",
+"t": "A policy was effected under the Married Women's Property Act, 1874 with the wife as sole beneficiary. The life assured now wants to surrender it and take the money himself. He:",
+"o": [
+"can surrender it with the agent's consent",
+"cannot do so, because the policy is held in trust and the proceeds belong to the beneficiary",
+"can surrender it after giving one month's notice to the insurer",
+"can surrender it as he paid all the premiums"
+],
+"a": 1,
+"e": "Once an MWP policy is issued the life assured loses control over it; the trustees act for the beneficiaries and the proceeds can neither be surrendered nor assigned for the husband's benefit."
+},
+{
+"n": 22,
+"topic": "Rights under Life Insurance Policies",
+"t": "A loan granted by the insurer against a life insurance policy is secured by:",
+"o": [
+"the premiums paid to date",
+"the personal guarantee of the agent",
+"the surrender value of the policy",
+"the full sum assured"
+],
+"a": 2,
+"e": "Policy loans are granted up to a percentage of the surrender value, and if loan plus interest exceeds the surrender value the policy may be foreclosed."
+},
+{
+"n": 23,
+"topic": "Rights under Life Insurance Policies",
+"t": "Policyholder money that remains unclaimed with an insurer for more than ten years must be transferred to the:",
+"o": [
+"IRDAI Fund",
+"Consolidated Fund of India",
+"Investor Education and Protection Fund",
+"Senior Citizens' Welfare Fund"
+],
+"a": 3,
+"e": "Under the Senior Citizens' Welfare Fund rules, unclaimed insurance amounts outstanding for over ten years are transferred to the Fund, though the claimant may still claim them for up to 25 years."
+},
+{
+"n": 24,
+"topic": "Rights under Life Insurance Policies",
+"t": "A policyholder paid premiums for four years on a 20-year endowment policy and then stopped. Two years later he does not wish to revive. His right under the policy is to:",
+"o": [
+"have the policy continued as a paid-up policy for a reduced sum assured",
+"receive the full sum assured at maturity",
+"receive a refund of all premiums with interest",
+"nothing, since the policy has lapsed"
+],
+"a": 0,
+"e": "Once a policy has acquired a surrender value, non-payment converts it into a paid-up policy (reduced sum assured in proportion to premiums paid) instead of lapsing without value."
+},
+{
+"n": 25,
+"topic": "Claim Settlements",
+"t": "An 'early death claim' in life insurance practice refers to a claim where death occurs within:",
+"o": [
+"five years from the proposal date",
+"three years from the date of commencement or revival of the policy",
+"one year from the date of issue only",
+"six months from the policy anniversary"
+],
+"a": 1,
+"e": "Early claims attract investigation because Section 45 still permits repudiation for non-disclosure within three years; claims after that period are normally settled without such enquiry."
+},
+{
+"n": 26,
+"topic": "Tax Laws",
+"t": "The maximum aggregate deduction available under Section 80C of the Income-tax Act, 1961 (including life insurance premiums) is:",
+"o": [
+"₹1,50,000",
+"₹2,50,000",
+"₹2,00,000",
+"₹1,00,000"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). The overall ceiling under S.80C is ₹1.5 lakh per year under the old tax regime, covering life insurance premium, PPF, ELSS and other eligible items together.",
+"r": "key"
+},
+{
+"n": 27,
+"topic": "Claim Settlements",
+"t": "Where a death claim requires investigation, the IRDAI timeline for completing the investigation and settling the claim is:",
+"o": [
+"15 days",
+"90 days",
+"45 days from receipt of the claim intimation and documents",
+"180 days"
+],
+"a": 2,
+"e": "The 2024 master circular prescribes 45 days where investigation is warranted, against 15 days where it is not."
+},
+{
+"n": 28,
+"topic": "Claim Settlements",
+"t": "A life assured dies leaving a minor nominee, and no appointee was named in the nomination. The insurer will pay the claim to:",
+"o": [
+"the minor directly",
+"the agent on behalf of the minor",
+"the eldest adult relative of the deceased",
+"the legal guardian of the minor"
+],
+"a": 3,
+"e": "A minor cannot give a valid discharge; where no appointee exists the insurer pays to the natural or court-appointed guardian, which is why insurers insist on an appointee for minor nominees."
+},
+{
+"n": 29,
+"topic": "Claim Settlements",
+"t": "Which of the following statements regarding interest on delayed claim settlement is CORRECT?",
+"o": [
+"Interest at bank rate plus 2% is payable from the date the claim became payable until the date of actual payment",
+"Interest is payable only if the claimant files a complaint",
+"No interest is payable if the delay is less than six months",
+"Interest is payable at the policy's bonus rate"
+],
+"a": 0,
+"e": "The policyholder protection regulations make the interest mandatory and automatic for any delay beyond the prescribed settlement period; it does not depend on a complaint."
+},
+{
+"n": 30,
+"topic": "Tax Laws",
+"t": "Under Section 194DA of the Income-tax Act, tax is deducted at source on the income component of a life insurance payout that is not exempt under Section 10(10D). With effect from 1 October 2024 the rate is:",
+"o": [
+"5%",
+"2%",
+"10%",
+"1%"
+],
+"a": 1,
+"e": "Finance (No. 2) Act 2024 reduced the TDS rate under S.194DA from 5% to 2%; TDS applies only where the aggregate payment is ₹1 lakh or more and the proceeds are taxable."
+},
+{
+"n": 31,
+"topic": "Tax Laws",
+"t": "A unit-linked policy issued in March 2022 carries an annual premium of ₹3,00,000. On maturity, the proceeds will be:",
+"o": [
+"exempt because the policy was issued before 2023",
+"fully exempt under Section 10(10D)",
+"taxable, as the annual premium exceeds ₹2,50,000",
+"taxable only to the extent of 10% of the premium"
+],
+"a": 2,
+"e": "For ULIPs issued on or after 1 February 2021 with aggregate annual premium above ₹2.5 lakh, the exemption under S.10(10D) is withdrawn and gains are taxed as capital gains; death benefit remains exempt."
+},
+{
+"n": 32,
+"topic": "Tax Laws",
+"t": "The sum received by a company on maturity of a keyman insurance policy taken on its managing director is:",
+"o": [
+"taxable in the hands of the managing director only",
+"exempt under Section 10(10D)",
+"exempt up to ₹1.5 lakh",
+"taxable as income of the company, being excluded from Section 10(10D)"
+],
+"a": 3,
+"e": "Section 10(10D) expressly excludes sums received under a keyman insurance policy, while the premium paid is allowed as business expenditure."
+},
+{
+"n": 33,
+"topic": "Insurance Intermediaries",
+"t": "The minimum capital required for registration of a composite insurance broker under IRDAI regulations is:",
+"o": [
+"₹5 crore",
+"₹4 crore",
+"₹75 lakh",
+"₹1 crore"
+],
+"a": 0,
+"e": "Direct brokers need ₹75 lakh, reinsurance brokers ₹4 crore and composite brokers ₹5 crore of capital."
+},
+{
+"n": 34,
+"topic": "Insurance Intermediaries",
+"t": "After the 2022 amendment to the Corporate Agents Regulations, a corporate agent may have arrangements with up to:",
+"o": [
+"one life insurer",
+"nine life insurers",
+"three life insurers",
+"an unlimited number of life insurers"
+],
+"a": 1,
+"e": "The limit was raised from three to nine insurers in each of the life, general and health categories to widen distribution choice for customers."
+},
+{
+"n": 35,
+"topic": "Insurance Intermediaries",
+"t": "Under Section 42(3) of the Insurance Act, which of the following persons is disqualified from being appointed as an insurance agent?",
+"o": [
+"A person above 60 years of age",
+"A person who has not graduated",
+"A person convicted of criminal misappropriation or cheating within the last five years",
+"A woman who is married"
+],
+"a": 2,
+"e": "Disqualifications include minority, unsoundness of mind, conviction for misappropriation, breach of trust, cheating or forgery (unless five years have passed), and failure to pass the examination."
+},
+{
+"topic": "Reinsurance",
+"t": "The obligatory cession that Indian general insurers must make to GIC Re is currently:",
+"o": [
+"4%",
+"5%",
+"10%",
+"15%"
+],
+"a": 0,
+"e": "★ Core fact (asked across III papers). The obligatory cession was reduced to 4% from 1 April 2022.",
+"r": "core",
+"n": 36
+},
+{
+"n": 37,
+"topic": "Legal Status of Individuals",
+"t": "A partnership firm registered under the Indian Partnership Act, 1932:",
+"o": [
+"cannot take any insurance policy",
+"is a legal person distinct from its partners",
+"can take a policy only in the name of the senior-most partner",
+"is not a separate legal person, but partners have insurable interest in each other's lives"
+],
+"a": 3,
+"e": "A firm is only the collective name of its partners; because each partner may suffer financial loss on the death of another, partnership insurance on the lives of partners is valid."
+},
+{
+"n": 38,
+"topic": "Legal Status of Individuals",
+"t": "A policy on the life of a minor child proposed by the father:",
+"o": [
+"is valid, and the policy vests in the child on attaining majority",
+"requires the sanction of a court",
+"is void because the child cannot contract",
+"is valid only up to a sum assured of ₹1 lakh"
+],
+"a": 0,
+"e": "The parent has insurable interest and is the contracting party; on the child attaining majority the policy ordinarily vests in him and he becomes the policyholder."
+},
+{
+"n": 39,
+"topic": "Nationalisation of Life Insurance",
+"t": "The general insurance business in India was nationalised under the General Insurance Business (Nationalisation) Act, 1972 with effect from:",
+"o": [
+"1 April 1971",
+"1 January 1973",
+"1 September 1956",
+"19 April 2000"
+],
+"a": 1,
+"e": "The GIBNA 1972 took effect on 1 January 1973, bringing 107 insurers under the General Insurance Corporation of India and its four subsidiaries."
+},
+{
+"n": 40,
+"topic": "Nationalisation of Life Insurance",
+"t": "Section 37 of the Life Insurance Corporation Act, 1956 provides that:",
+"o": [
+"LIC policies are exempt from income-tax",
+"LIC must pay 10% of its surplus to the Government",
+"sums assured by LIC policies, including bonuses declared, are guaranteed by the Central Government",
+"LIC has the exclusive privilege of life insurance business"
+],
+"a": 2,
+"e": "The sovereign guarantee under S.37 is a distinctive feature of LIC policies; the exclusive privilege was in S.30 and was removed by the IRDA Act, 1999."
+},
+{
+"n": 41,
+"topic": "Protection of Interest of Consumers",
+"t": "A policyholder can approach the Insurance Ombudsman only if he has first made a written representation to the insurer and:",
+"o": [
+"the insurer has agreed in writing to the reference",
+"the matter is pending before a consumer commission",
+"the claim value is below ₹1 lakh",
+"the insurer rejected it, gave an unsatisfactory reply, or did not reply within 30 days"
+],
+"a": 3,
+"e": "The Rules require prior approach to the insurer; the complaint must also not be pending before any court, consumer forum or arbitrator on the same subject."
+},
+{
+"n": 42,
+"topic": "Protection of Interest of Consumers",
+"t": "Under the Consumer Protection Act, 2019, a complaint must be filed within how long from the date on which the cause of action arose?",
+"o": [
+"two years",
+"one year",
+"three years",
+"six months"
+],
+"a": 0,
+"e": "Section 69 prescribes two years, though the Commission may condone delay for sufficient cause recorded in writing."
+},
+{
+"n": 43,
+"topic": "Protection of Interest of Consumers",
+"t": "A nominee disputes a repudiated death claim of ₹1.5 crore under the Consumer Protection Act, 2019. The complaint should be filed before the:",
+"o": [
+"Insurance Ombudsman",
+"State Commission",
+"District Commission",
+"National Commission"
+],
+"a": 1,
+"e": "Under the 2021 rules the State Commission hears complaints valued above ₹50 lakh and up to ₹2 crore; the Ombudsman's limit is ₹50 lakh."
+},
+{
+"n": 44,
+"topic": "Protection of Interest of Consumers",
+"t": "The Insurance Ombudsman is required to pass an award within:",
+"o": [
+"thirty days of the hearing",
+"six months of receipt of the complaint",
+"three months of receipt of all requirements from the complainant",
+"one month of receipt of the complaint"
+],
+"a": 2,
+"e": "Where mediation fails, the Ombudsman must pass a speaking award within three months of receiving all requirements, and the insurer must comply within 30 days."
+},
+{
+"topic": "Principles",
+"t": "The principle that allows an insurer who has paid a claim to step into the insured's shoes and recover from a liable third party is:",
+"o": [
+"Contribution",
+"Subrogation",
+"Indemnity",
+"Proximate cause"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). Subrogation is a corollary of indemnity; it does not apply to life or personal accident (benefit) policies.",
+"r": "core",
+"n": 45
+},
+{
+"n": 46,
+"topic": "Life Insurance Legislation",
+"t": "Under Section 3 of the Insurance Act, 1938, no person can carry on insurance business in India unless:",
+"o": [
+"it has a licence from the Reserve Bank of India",
+"it is a company owned by the Central Government",
+"it has been in existence for at least five years",
+"it holds a certificate of registration issued by IRDAI"
+],
+"a": 3,
+"e": "Registration with the Authority under S.3 is mandatory and class-specific (life, general, health, reinsurance), and can be suspended or cancelled for breaches."
+},
+{
+"n": 47,
+"topic": "Life Insurance Legislation",
+"t": "The minimum control level of solvency (ratio of available to required solvency margin) that an Indian insurer must maintain is:",
+"o": [
+"150%",
+"125%",
+"100%",
+"200%"
+],
+"a": 0,
+"e": "Section 64VA read with IRDAI regulations requires a solvency ratio of 1.5; falling below it triggers regulatory action including restrictions on new business."
+},
+{
+"n": 48,
+"topic": "Life Insurance Legislation",
+"t": "Which statement about Sections 38 and 39 of the Insurance Act after the 2015 amendment is INCORRECT?",
+"o": [
+"A nomination in favour of a spouse makes the spouse beneficially entitled",
+"Partial assignment of a policy is not permitted",
+"A nomination may be made at any time before the policy matures",
+"An assignment may be absolute or conditional"
+],
+"a": 1,
+"e": "The amended S.38 expressly allows assignment of the policy either wholly or in part; the other three statements correctly reflect the amended provisions."
+},
+{
+"n": 49,
+"topic": "Insurance Regulatory and Development Authority Act, 1999",
+"t": "The Insurance Regulatory and Development Authority was constituted under the IRDA Act, 1999 with effect from:",
+"o": [
+"1 September 1999",
+"26 December 2014",
+"19 April 2000",
+"1 January 2000"
+],
+"a": 2,
+"e": "The Act received assent in December 1999 and the Authority was established on 19 April 2000, replacing the Controller of Insurance; it was renamed IRDAI by the 2015 amendment."
+},
+{
+"n": 50,
+"topic": "Insurance Regulatory and Development Authority Act, 1999",
+"t": "The head office of IRDAI is located at:",
+"o": [
+"New Delhi",
+"Mumbai",
+"Pune",
+"Hyderabad"
+],
+"a": 3,
+"e": "Section 3(4) requires the head office to be at a place decided by the Central Government; it was moved from Delhi to Hyderabad in 2001."
+}
+]

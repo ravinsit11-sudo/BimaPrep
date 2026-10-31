@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Elementary Principles of Accounts",
+"t": "A life insurer writes off a stapler costing ₹150 as an expense in the year of purchase rather than capitalising and depreciating it. This treatment is justified by the concept of:",
+"o": [
+"Materiality",
+"Going concern",
+"Dual aspect",
+"Realisation"
+],
+"a": 0,
+"e": "Materiality permits insignificant items to be expensed immediately since strict capitalisation would not change the decisions of users of the accounts."
+},
+{
+"n": 2,
+"topic": "Elementary Principles of Accounts",
+"t": "A sole trader's opening capital was ₹10 lakh. During the year the business earned a profit of ₹3 lakh and the owner withdrew ₹1 lakh. The closing capital is:",
+"o": [
+"₹14 lakh",
+"₹11 lakh",
+"₹13 lakh",
+"₹12 lakh"
+],
+"a": 3,
+"e": "Closing capital = Opening capital + Profit minus Drawings = 10 + 3 minus 1 = ₹12 lakh."
+},
+{
+"n": 3,
+"topic": "Life Assurance Business: Important Types of Life Assurance Policies",
+"t": "The surplus arising in the non-participating fund of a life insurer, after providing for reserves, belongs to:",
+"o": [
+"Non-participating policyholders as bonus",
+"The Senior Citizens' Welfare Fund",
+"Participating policyholders",
+"The shareholders"
+],
+"a": 3,
+"e": "Non-participating policies carry only guaranteed benefits; any surplus in that segment is transferable to shareholders, unlike the 90:10 sharing in the participating fund."
+},
+{
+"n": 4,
+"topic": "Accounting Procedures: Premium Accounting",
+"t": "Premiums collected by a life insurer through agents, banks and online channels must be reconciled regularly primarily to ensure that:",
+"o": [
+"Agents receive higher commission",
+"IRDAI approves new products",
+"Premium rates are competitive",
+"Every receipt is credited to the correct policy and banked promptly, preventing misappropriation and lapses"
+],
+"a": 3,
+"e": "Collection reconciliation (policy-wise, channel-wise and bank-wise) is a key internal control over premium accounting, protecting both policyholder records and cash."
+},
+{
+"n": 5,
+"topic": "Accounting Procedures: Premium Accounting",
+"t": "Which of the following is correct about the presentation of premium in the Revenue Account of a life insurer?",
+"o": [
+"Premium is shown gross of GST",
+"Premium is shown net of commission",
+"Premium is shown net of GST but gross of reinsurance ceded, with reinsurance deducted separately in Schedule 1",
+"Premium includes interest on policy loans"
+],
+"a": 2,
+"e": "Taxes collected are excluded from premium; Schedule 1 presents gross premium and then deducts reinsurance ceded to give net premium carried to the Revenue Account."
+},
+{
+"n": 6,
+"topic": "Accounting Procedures: Premium Accounting",
+"t": "A policy has a half-yearly premium of ₹18,000. The policyholder wishes to switch to the monthly mode, for which the insurer applies a total annual loading of 5% over the yearly-mode premium of ₹35,000. What is the monthly premium?",
+"o": [
+"₹3,000",
+"₹3,150",
+"₹2,916.67",
+"₹3,062.50"
+],
+"a": 3,
+"e": "Monthly-mode annual outgo = 35,000 × 1.05 = ₹36,750; monthly instalment = 36,750 / 12 = ₹3,062.50. The half-yearly figure is irrelevant to the computation."
+},
+{
+"n": 7,
+"topic": "Accounting Procedures: Premium Accounting",
+"t": "Premium deposits received where the proposal is still under consideration are shown by a life insurer as:",
+"o": [
+"Premium income of the year",
+"Investment income",
+"A liability (proposal deposits / premium received in advance) until the policy is issued",
+"Commission payable"
+],
+"a": 2,
+"e": "Until the risk is accepted and the policy issued, the money received is not premium income but a deposit held on behalf of the proposer, refundable if the proposal is declined."
+},
+{
+"n": 8,
+"topic": "Accounting Procedures: Disbursements",
+"t": "Under the IRDAI (Protection of Policyholders' Interests, Operations and Allied Matters of Insurers) Regulations, 2024, a life insurance claim that does not require investigation must be settled within:",
+"o": [
+"7 days of receipt of all documents",
+"90 days of receipt of all documents",
+"45 days of receipt of all documents",
+"15 days of receipt of all documents"
+],
+"a": 3,
+"e": "Claims not needing investigation must be settled within 15 days of receipt of all requirements; where investigation is warranted, the overall limit is 45 days."
+},
+{
+"n": 9,
+"topic": "Accounting Procedures: Disbursements",
+"t": "Section 45 of the Insurance Act, 1938 (as amended in 2015) provides that no life policy can be called in question on any ground after the expiry of:",
+"o": [
+"Three years from the date of issue, revival or rider addition, whichever is later",
+"Two years from the date of issue",
+"Five years from the date of issue",
+"One year from the date of the first premium"
+],
+"a": 0,
+"e": "After three years from the later of policy issue, commencement of risk, revival or rider addition, the insurer cannot repudiate a claim even on grounds of fraud."
+},
+{
+"n": 10,
+"topic": "Accounting Procedures: Premium Accounting",
+"t": "A yearly-mode premium on a life policy falls due on 10 June. Up to which date can the premium be paid within the grace period?",
+"o": [
+"25 June",
+"10 July",
+"10 August",
+"9 September"
+],
+"a": 1,
+"e": "★ Key fact (repeated across the mocks of this paper). The grace period is 30 days for yearly, half-yearly and quarterly modes (15 days for monthly mode), so the premium due on 10 June may be paid up to 10 July without the policy lapsing.",
+"r": "key"
+},
+{
+"n": 11,
+"topic": "Accounting Procedures: Disbursements",
+"t": "Commission on a policy becomes payable to an agent:",
+"o": [
+"When the proposal form is signed",
+"On the policy anniversary only",
+"When the related premium is received by the insurer, and it is accounted in the same period as the premium",
+"Only after the free-look period of the policy expires"
+],
+"a": 2,
+"e": "Commission is linked to premium and is recognised as an expense in the period in which the related premium is recognised, so that costs and revenue are matched."
+},
+{
+"n": 12,
+"topic": "Accounting Procedures: Disbursements",
+"t": "A participating policy with sum assured ₹10,00,000 has vested simple reversionary bonuses of ₹60 per ₹1,000 for each of 12 years, and the insurer pays a terminal bonus of ₹1,00,000. The total maturity payout is:",
+"o": [
+"₹17,20,000",
+"₹11,72,000",
+"₹16,20,000",
+"₹18,20,000"
+],
+"a": 3,
+"e": "Reversionary bonus = 1,000 × 60 × 12 = ₹7,20,000; maturity payout = 10,00,000 + 7,20,000 + 1,00,000 = ₹18,20,000."
+},
+{
+"n": 13,
+"topic": "Accounting Procedure: Expenses of Management",
+"t": "Which of the following expenses is an indirect expense requiring apportionment across business segments of a life insurer?",
+"o": [
+"Stamp duty on policies",
+"Medical fees on individual proposals",
+"Salary of the chief financial officer",
+"Commission on first year premium"
+],
+"a": 2,
+"e": "The CFO's salary serves the whole company and must be apportioned on a reasonable basis; stamp duty, medical fees and commission are directly attributable to specific policies or segments."
+},
+{
+"n": 14,
+"topic": "Accounting Procedure: Expenses of Management",
+"t": "Which of the following items would NOT appear in Schedule 3 (Operating expenses related to insurance business)?",
+"o": [
+"Legal and professional charges",
+"Communication expenses",
+"Agents' commission on renewal premium",
+"Advertisement and publicity"
+],
+"a": 2,
+"e": "Commission is reported separately in Schedule 2; Schedule 3 covers employee costs, travel, training, rent, repairs, printing, communication, legal, audit, advertisement, depreciation and similar operating expenses."
+},
+{
+"n": 15,
+"topic": "Accounting Procedure: Expenses of Management",
+"t": "A life insurer apportions head office expenses of ₹120 crore to segments in the ratio of premium. Premium of the participating, non-participating and linked segments is ₹3,000 crore, ₹4,500 crore and ₹2,500 crore respectively. The expense apportioned to the linked segment is:",
+"o": [
+"₹30 crore",
+"₹36 crore",
+"₹54 crore",
+"₹40 crore"
+],
+"a": 0,
+"e": "Linked share = 2,500 / (3,000 + 4,500 + 2,500) = 2,500 / 10,000 = 25%; 25% of ₹120 crore = ₹30 crore."
+},
+{
+"n": 16,
+"topic": "Investments",
+"t": "Under the IRDAI investment regulations, which of the following is classified as an approved security?",
+"o": [
+"Equity shares of an unlisted private company",
+"Units of a real estate fund",
+"Central and State Government securities and securities guaranteed by them",
+"Corporate bonds rated BBB"
+],
+"a": 2,
+"e": "Approved securities comprise Government securities and securities guaranteed as to principal and interest by the Government; they form the core of the mandated minimum holdings."
+},
+{
+"n": 17,
+"topic": "Investments",
+"t": "Which section of the Insurance Act, 1938 governs the manner in which the controlled fund of a life insurer is to be invested?",
+"o": [
+"Section 27A",
+"Section 10",
+"Section 31B",
+"Section 64V"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). Section 27A (read with Section 27) prescribes how the assets of a life insurer are to be invested and empowers IRDAI to specify the pattern. Section 64V deals with valuation of assets and liabilities.",
+"r": "key"
+},
+{
+"n": 18,
+"topic": "Investments",
+"t": "Investment income of a life insurer is allocated between policyholders' and shareholders' funds on the basis of:",
+"o": [
+"Equal division",
+"Premium income only",
+"The number of policies",
+"The funds (investment assets) actually belonging to each, tracked through segregated investment accounts"
+],
+"a": 3,
+"e": "Investments are earmarked fund-wise (shareholders, policyholders non-linked, linked); income follows the fund to which the investment belongs, as required by Section 10 of the Insurance Act on separation of funds."
+},
+{
+"n": 19,
+"topic": "Investments",
+"t": "Which statement about investment in a single investee company by a life insurer is correct?",
+"o": [
+"Exposure is restricted by the regulations to a prescribed percentage of the investee's capital and of the insurer's fund to limit concentration risk",
+"There is no limit as long as the company is listed",
+"Insurers may invest only in public sector companies",
+"The limit applies only to the shareholders' fund"
+],
+"a": 0,
+"e": "The regulations impose investee company, group and industry sector exposure norms on all funds to diversify risk; concentration beyond the limits is not permitted."
+},
+{
+"n": 20,
+"topic": "Investments",
+"t": "A life insurer sells equity shares held in the non-linked policyholders' fund. The shares had cost ₹50 crore, had a fair value of ₹70 crore at the last balance sheet date (₹20 crore in the Fair Value Change Account), and are sold for ₹75 crore. What profit on sale is credited to the Revenue Account?",
+"o": [
+"₹5 crore",
+"₹20 crore",
+"₹25 crore",
+"₹75 crore"
+],
+"a": 2,
+"e": "Profit on sale is sale proceeds minus cost = 75 minus 50 = ₹25 crore, recognised in the Revenue Account; the ₹20 crore earlier parked in the Fair Value Change Account is reversed on realisation."
+},
+{
+"n": 21,
+"topic": "Investments",
+"t": "Which of the following statements about the Life Fund investment pattern is incorrect?",
+"o": [
+"At least 25% must be in Central Government securities",
+"At least 50% must be in Central, State and other approved securities",
+"At least 15% must be in housing and infrastructure",
+"Up to 50% may be in other investments"
+],
+"a": 3,
+"e": "Other investments are limited to 15% of the Life Fund, not 50%; the remaining statements correctly describe the mandated minimums."
+},
+{
+"n": 22,
+"topic": "Final Accounts: Revenue Account and Balance Sheet",
+"t": "Which of the following is NOT a source of funds in the balance sheet of a life insurer (Form A-BS)?",
+"o": [
+"Shareholders' funds",
+"Policyholders' funds",
+"Funds for future appropriations",
+"Fixed assets"
+],
+"a": 3,
+"e": "Fixed assets appear under application of funds along with investments, loans and net current assets; sources of funds comprise shareholders' funds, borrowings, policyholders' funds and FFA."
+},
+{
+"n": 23,
+"topic": "Final Accounts: Revenue Account and Balance Sheet",
+"t": "Provisions for taxation, proposed dividend and other provisions of a life insurer are reported in:",
+"o": [
+"Schedule 13",
+"Schedule 15",
+"Schedule 14",
+"Schedule 6"
+],
+"a": 2,
+"e": "Schedule 14 contains provisions; Schedule 13 is current liabilities, Schedule 15 miscellaneous expenditure not written off, and Schedule 6 reserves and surplus."
+},
+{
+"n": 24,
+"topic": "Final Accounts: Revenue Account and Balance Sheet",
+"t": "Which of the following statements about the Revenue Account of a life insurer is incorrect?",
+"o": [
+"It is prepared separately for each business segment such as participating, non-participating, linked and pension",
+"It includes investment income on policyholders' funds",
+"It shows dividend paid to shareholders",
+"Its surplus can be transferred to shareholders or to funds for future appropriations"
+],
+"a": 2,
+"e": "Dividend to shareholders is an appropriation in the shareholders' Profit and Loss Account, never in the policyholders' Revenue Account; the other statements are correct."
+},
+{
+"n": 25,
+"topic": "Final Accounts: Revenue Account and Balance Sheet",
+"t": "Under Section 10 of the Insurance Act, 1938, a life insurer is required to:",
+"o": [
+"Keep a separate account of all receipts and payments of life insurance business and maintain the life fund separately from other funds",
+"Invest all funds in government securities",
+"Submit its budget to IRDAI",
+"Pay 10% of profits to the Life Insurance Council"
+],
+"a": 0,
+"e": "Section 10 mandates separation of accounts and funds, so that the life fund is held absolutely for life policyholders and is not applied for other purposes."
+},
+{
+"n": 26,
+"topic": "Final Accounts: Revenue Account and Balance Sheet",
+"t": "A life insurer's balance sheet shows policyholders' assets of ₹45,000 crore and policyholders' liabilities of ₹43,000 crore, with inadmissible assets of ₹200 crore within the policyholders' assets. Ignoring other items, the available solvency margin contributed by the policyholders' fund is:",
+"o": [
+"₹2,000 crore",
+"₹200 crore",
+"₹2,200 crore",
+"₹1,800 crore"
+],
+"a": 3,
+"e": "ASM = Admissible assets minus liabilities = (45,000 minus 200) minus 43,000 = ₹1,800 crore. Inadmissible assets are excluded from the solvency computation."
+},
+{
+"n": 27,
+"topic": "Budget and Budgetary Control",
+"t": "A rolling (continuous) budget is one which:",
+"o": [
+"Is prepared once every five years",
+"Is continuously updated by adding a new period as the latest period expires, so a full-year horizon is always maintained",
+"Covers only cash transactions",
+"Cannot be revised during the year"
+],
+"a": 1,
+"e": "Rolling budgets keep the plan current by extending it period by period, which suits businesses facing rapid change."
+},
+{
+"n": 28,
+"topic": "Taxation (Current Scenario)",
+"t": "Under Section 115B of the Income-tax Act, 1961, profits and gains of life insurance business are taxed at the rate of:",
+"o": [
+"22%",
+"30%",
+"10%",
+"12.5%"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). Section 115B prescribes a concessional rate of 12.5% on profits of life insurance business, computed under Section 44 and the First Schedule; other income of the company is taxed at normal corporate rates.",
+"r": "key"
+},
+{
+"n": 29,
+"topic": "Budget and Budgetary Control",
+"t": "Which of the following is a limitation of budgetary control?",
+"o": [
+"It helps delegation of authority",
+"Budgets are based on estimates and may become unrealistic if conditions change",
+"It coordinates the activities of departments",
+"It fixes responsibility for performance"
+],
+"a": 1,
+"e": "Because budgets rest on forecasts, they can mislead if not revised; rigid adherence and the cost of the system are other limitations, while the remaining options are advantages."
+},
+{
+"n": 30,
+"topic": "Budget and Budgetary Control",
+"t": "A department has a budget of ₹2.4 crore for the year and has spent ₹1.5 crore by the end of six months. Its budget utilisation at the half-year stage is:",
+"o": [
+"50%",
+"62.5%",
+"37.5%",
+"75%"
+],
+"a": 1,
+"e": "Utilisation = 1.5 / 2.4 = 62.5% of the annual budget, which is ahead of the 50% pro-rata benchmark and warrants review."
+},
+{
+"n": 31,
+"topic": "Innovative Concepts in Financial Reporting",
+"t": "Market consistent embedded value (MCEV) differs from traditional embedded value chiefly in that it:",
+"o": [
+"Ignores the value of in-force business",
+"Values assets and liabilities using market-consistent assumptions and explicitly allows for the cost of options and guarantees",
+"Is reported only by mutual insurers",
+"Uses the statutory solvency margin as the only measure"
+],
+"a": 1,
+"e": "MCEV uses market-consistent discount rates and stochastic valuation of options and guarantees, replacing the single risk discount rate of traditional EV methodology."
+},
+{
+"n": 32,
+"topic": "Innovative Concepts in Financial Reporting",
+"t": "Under IFRS 17 / Ind AS 117, the premium allocation approach (PAA) is a simplified measurement model generally permitted for:",
+"o": [
+"Long-term participating contracts",
+"Contracts with a coverage period of one year or less, or where it gives a reasonable approximation of the general model",
+"Unit linked contracts only",
+"Reinsurance contracts only"
+],
+"a": 1,
+"e": "The PAA simplifies measurement of the liability for remaining coverage for short-duration contracts; most long-term life contracts use the general (building block) model or the variable fee approach."
+},
+{
+"n": 33,
+"topic": "Accounting Standard (Applicable to Life Insurance Companies)",
+"t": "AS 1 requires an enterprise to disclose:",
+"o": [
+"All significant accounting policies adopted in preparing the financial statements",
+"The names of all employees",
+"The list of all policyholders",
+"The investment limits set by IRDAI"
+],
+"a": 0,
+"e": "AS 1 (Disclosure of Accounting Policies) requires significant policies and any change in them to be disclosed so that users can understand the basis of preparation."
+},
+{
+"n": 34,
+"topic": "Accounting Standard (Applicable to Life Insurance Companies)",
+"t": "A major fire destroys an insurer's regional office after the balance sheet date but before the accounts are approved. Under AS 4 this is:",
+"o": [
+"An adjusting event requiring the assets to be written down in the accounts",
+"A non-adjusting event to be disclosed if material, as it does not relate to conditions existing at the balance sheet date",
+"To be ignored completely",
+"An extraordinary item of the previous year"
+],
+"a": 1,
+"e": "AS 4 distinguishes adjusting events (conditions existing at the balance sheet date) from non-adjusting events arising afterwards, which are disclosed but not adjusted."
+},
+{
+"topic": "Insurance Act 1938 – key sections",
+"t": "Nomination and assignment of a life insurance policy are governed respectively by which sections of the Insurance Act 1938?",
+"o": [
+"Sections 39 and 38",
+"Sections 38 and 39",
+"Sections 41 and 45",
+"Sections 45 and 41"
+],
+"a": 0,
+"e": "★ Core fact (asked across III papers). Section 39 deals with nomination; Section 38 with assignment and transfer.",
+"r": "core",
+"n": 35
+},
+{
+"n": 36,
+"topic": "Accounting Standard (Applicable to Life Insurance Companies)",
+"t": "Transactions between a life insurer and its promoter group companies must be disclosed under:",
+"o": [
+"AS 18 - Related Party Disclosures",
+"AS 7 - Construction Contracts",
+"AS 2 - Valuation of Inventories",
+"AS 16 - Borrowing Costs"
+],
+"a": 0,
+"e": "AS 18 requires disclosure of related party relationships and transactions, which is particularly relevant for insurers with bank or corporate promoters providing distribution and services."
+},
+{
+"n": 37,
+"topic": "Financial Analysis",
+"t": "The claims ratio (benefits paid to net premium) of a life insurer is best interpreted:",
+"o": [
+"In isolation, as a higher ratio always means poor underwriting",
+"Together with the age of the book, since a mature portfolio naturally pays more maturity and survival benefits",
+"Only for term insurance products",
+"As a measure of solvency"
+],
+"a": 1,
+"e": "In life insurance a rising benefits ratio often reflects a maturing book rather than adverse mortality, so it must be read with persistency, product mix and valuation movements."
+},
+{
+"n": 38,
+"topic": "Financial Analysis",
+"t": "A company has long-term debt of ₹600 crore and shareholders' funds of ₹1,500 crore. Its debt-equity ratio is:",
+"o": [
+"0.4",
+"2.5",
+"0.6",
+"1.4"
+],
+"a": 0,
+"e": "Debt-equity ratio = Long-term debt / Shareholders' funds = 600 / 1,500 = 0.4."
+},
+{
+"n": 39,
+"topic": "Financial Analysis",
+"t": "Trend analysis of financial statements involves:",
+"o": [
+"Comparing figures of several years with a base year to identify direction and rate of change",
+"Comparing two companies for one year only",
+"Computing only liquidity ratios",
+"Preparing a cash budget"
+],
+"a": 0,
+"e": "Trend analysis expresses successive years' figures as percentages of a base year, revealing growth patterns in premium, expenses, claims and surplus."
+},
+{
+"n": 40,
+"topic": "Financial Analysis",
+"t": "A life insurer's operating expenses grew from ₹800 crore to ₹920 crore while premium grew from ₹8,000 crore to ₹10,000 crore. Which statement is correct?",
+"o": [
+"The expense ratio rose from 10% to 11.5%",
+"The expense ratio fell from 10% to 9.2%",
+"The expense ratio was unchanged at 10%",
+"The expense ratio fell from 11.5% to 8%"
+],
+"a": 1,
+"e": "Expense ratio moved from 800 / 8,000 = 10% to 920 / 10,000 = 9.2%; expenses grew 15% but premium grew 25%, improving efficiency."
+},
+{
+"n": 41,
+"topic": "Management Environment in India",
+"t": "Under Section 6 of the Insurance Act, 1938, the minimum paid-up equity capital required to carry on life insurance business in India is:",
+"o": [
+"₹50 crore",
+"₹100 crore",
+"₹200 crore",
+"₹500 crore"
+],
+"a": 1,
+"e": "A life or general insurer needs minimum paid-up capital of ₹100 crore, while a reinsurer needs ₹200 crore."
+},
+{
+"n": 42,
+"topic": "Management Environment in India",
+"t": "The Insurance Ombudsman scheme in India provides:",
+"o": [
+"A forum for policyholders to resolve complaints against insurers up to a specified monetary limit, free of cost",
+"Licensing of new insurers",
+"Approval of insurance products",
+"Investment of policyholders' funds"
+],
+"a": 0,
+"e": "The Insurance Ombudsman offers cost-free, speedy resolution of individual grievances (currently up to ₹50 lakh) as an alternative to litigation, strengthening consumer confidence."
+},
+{
+"n": 43,
+"topic": "Application of Financial Management Concepts in the Insurance Industry",
+"t": "The cost of equity capital is generally higher than the cost of debt because:",
+"o": [
+"Equity dividends are tax deductible",
+"Equity holders bear greater risk and rank after creditors, so they demand a higher return",
+"Debt has no maturity date",
+"Equity cannot be issued at a premium"
+],
+"a": 1,
+"e": "Residual claimants require a risk premium, and interest on debt is tax deductible whereas dividends are not, making debt cheaper for the company."
+},
+{
+"n": 44,
+"topic": "Application of Financial Management Concepts in the Insurance Industry",
+"t": "Which statement about the required solvency margin (RSM) of a life insurer is correct?",
+"o": [
+"It is a fixed ₹50 crore for all insurers",
+"It is computed by applying prescribed factors to mathematical reserves and sum at risk, subject to a minimum amount",
+"It equals total premium income",
+"It is computed by the statutory auditor"
+],
+"a": 1,
+"e": "RSM is the higher of the statutory minimum and the amount derived from percentages of mathematical reserves and sum at risk by product class, determined by the Appointed Actuary."
+},
+{
+"n": 45,
+"topic": "Application of Financial Management Concepts in the Insurance Industry",
+"t": "A project requires an outlay of ₹50 lakh and will return a single cash inflow of ₹60.5 lakh after two years. At a cost of capital of 10%, its NPV is:",
+"o": [
+"Zero",
+"₹10.5 lakh",
+"₹5 lakh",
+"Negative ₹5 lakh"
+],
+"a": 0,
+"e": "Present value of inflow = 60.5 / (1.10)^2 = 60.5 / 1.21 = ₹50 lakh, equal to the outlay, so NPV = 0 and the IRR is exactly 10%."
+},
+{
+"n": 46,
+"topic": "Taxation (Current Scenario)",
+"t": "For a unit linked policy issued on or after 1 February 2021, the Section 10(10D) exemption on maturity proceeds is not available if the aggregate annual premium exceeds:",
+"o": [
+"₹1 lakh",
+"₹2.5 lakh",
+"₹5 lakh",
+"₹10 lakh"
+],
+"a": 1,
+"e": "The Finance Act, 2021 withdrew the exemption for ULIPs with aggregate premium above ₹2.5 lakh per year; a separate ₹5 lakh limit applies to other policies issued on or after 1 April 2023."
+},
+{
+"topic": "IRDAI – regulator",
+"t": "IRDAI was constituted under the:",
+"o": [
+"Insurance Act 1938",
+"IRDA Act 1999",
+"General Insurance Business (Nationalisation) Act 1972",
+"LIC Act 1956"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). The IRDA Act 1999 established the Authority; it began functioning in April 2000 and is headquartered in Hyderabad.",
+"r": "core",
+"n": 47
+},
+{
+"n": 48,
+"topic": "Taxation (Current Scenario)",
+"t": "Tax deducted at source on insurance commission paid to an agent under Section 194D, with effect from 1 April 2025, is at the rate of:",
+"o": [
+"2%",
+"5%",
+"10%",
+"20%"
+],
+"a": 0,
+"e": "The Finance (No. 2) Act, 2024 reduced the TDS rate on insurance commission under Section 194D for non-company payees from 5% to 2% from 1 April 2025, subject to the threshold limit."
+},
+{
+"n": 49,
+"topic": "Anti-Money Laundering Guidelines and Prevention of Money Laundering (PML) Act",
+"t": "Under Rule 114B of the Income-tax Rules, a person must quote PAN when paying life insurance premium in cash aggregating in a financial year to more than:",
+"o": [
+"₹20,000",
+"₹50,000",
+"₹1,00,000",
+"₹2,00,000"
+],
+"a": 1,
+"e": "Rule 114B requires PAN for cash premium payments exceeding ₹50,000 in a year; the IRDAI AML guidelines also require insurers to monitor cash premiums closely."
+},
+{
+"n": 50,
+"topic": "Anti-Money Laundering Guidelines and Prevention of Money Laundering (PML) Act",
+"t": "The international body that sets standards for combating money laundering and terrorist financing, whose recommendations underpin India's AML framework, is:",
+"o": [
+"The Basel Committee",
+"The Financial Action Task Force (FATF)",
+"The International Association of Insurance Supervisors",
+"The World Trade Organisation"
+],
+"a": 1,
+"e": "FATF recommendations guide national AML/CFT regimes; India is a FATF member and its PMLA framework and IRDAI guidelines follow those standards."
+}
+]

@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Introduction to Fire Insurance and Fire Hazards",
+"t": "General insurance business in India, including fire insurance, was nationalised under the General Insurance Business (Nationalisation) Act, 1972, with effect from:",
+"o": [
+"1 September 1956",
+"1 April 1973",
+"1 January 1972",
+"1 January 1973"
+],
+"a": 3,
+"e": "GIBNA 1972 brought 107 insurers under the General Insurance Corporation of India and its four subsidiaries with effect from 1 January 1973; 1 September 1956 was the date of life insurance nationalisation."
+},
+{
+"n": 2,
+"topic": "Standard Fire and Special Perils Policy – Coverage and Exclusions",
+"t": "A batch of timber being seasoned inside a kiln catches fire within the kiln due to excessive heat. Under the fire peril of the SFSP policy, loss to the timber is:",
+"o": [
+"Covered in full",
+"Covered subject to 5% excess",
+"Excluded, since property undergoing any heating or drying process is not covered for the fire peril",
+"Covered under the explosion peril"
+],
+"a": 2,
+"e": "The fire peril excludes loss to property undergoing a heating or drying process; however, if the fire spread beyond the kiln, damage to other property would be covered."
+},
+{
+"n": 3,
+"topic": "Standard Fire and Special Perils Policy – Coverage and Exclusions",
+"t": "A stray buffalo wanders into an insured godown and knocks down a stack of goods, damaging them. Under the SFSP policy this loss is:",
+"o": [
+"Excluded as not being a fire peril",
+"Covered under the impact damage peril, since the animal did not belong to the insured",
+"Covered only under the burglary policy",
+"Excluded as an Act of God"
+],
+"a": 1,
+"e": "Impact damage covers impact by rail/road vehicles or animals not belonging to or under the control of the insured or his employees."
+},
+{
+"n": 4,
+"topic": "Standard Fire and Special Perils Policy – Coverage and Exclusions",
+"t": "Which of the following perils is excluded from the basic SFSP policy and must be added by endorsement for additional premium?",
+"o": [
+"Riot, strike and malicious damage",
+"Bursting of water tanks",
+"Aircraft damage",
+"Earthquake and volcanic eruption"
+],
+"a": 3,
+"e": "Earthquake (fire and shock) is excluded from the SFSP policy and available as an add-on; RSMD, bursting of tanks and aircraft damage are among the twelve named perils."
+},
+{
+"n": 5,
+"topic": "Standard Fire and Special Perils Policy – Coverage and Exclusions",
+"t": "The excess under the SFSP policy applies:",
+"o": [
+"To each and every loss separately",
+"Once per policy year irrespective of the number of losses",
+"Only to losses exceeding ₹1 lakh",
+"Only to stocks, not to buildings"
+],
+"a": 0,
+"e": "The excess is deducted from each and every loss; where several losses occur in a year, each attracts the excess separately."
+},
+{
+"n": 6,
+"topic": "Standard Fire and Special Perils Policy – Coverage and Exclusions",
+"t": "Loss or damage caused by ionising radiation or contamination by radioactivity from nuclear fuel or nuclear waste is treated under the SFSP policy as:",
+"o": [
+"A named peril",
+"Covered under the explosion peril",
+"A general exclusion",
+"Covered subject to a 5% excess"
+],
+"a": 2,
+"e": "Nuclear perils are excluded from all standard property policies because of their catastrophic potential; such exposures are handled through specialised nuclear pools."
+},
+{
+"n": 7,
+"topic": "Standard Fire and Special Perils Policy – Coverage and Exclusions",
+"t": "A landslide damages an insured warehouse in a hill station and the loss is assessed at ₹5,00,000. After the SFSP policy excess, the amount payable is:",
+"o": [
+"₹4,90,000",
+"₹4,75,000",
+"₹5,00,000",
+"₹4,50,000"
+],
+"a": 1,
+"e": "Subsidence and landslide are AOG perils with an excess of 5% of the claim amount subject to a minimum of ₹10,000; 5% of ₹5,00,000 is ₹25,000, leaving ₹4,75,000."
+},
+{
+"n": 8,
+"topic": "Special Policies and Add-on Covers",
+"t": "Which of the following statements about Declaration policies is correct?",
+"o": [
+"They can be issued for short periods of 3 or 6 months",
+"They are issued with a provisional premium of 50% of the annual premium",
+"The sum insured may be reduced by the insured during the policy period",
+"They are issued for a full period of 12 months and cannot be issued for short periods"
+],
+"a": 3,
+"e": "Declaration policies are annual contracts; the provisional premium is 75% of the annual premium, the sum insured cannot be reduced mid-term, and short-period issue is not permitted."
+},
+{
+"n": 9,
+"topic": "Standard Fire and Special Perils Policy – Coverage and Exclusions",
+"t": "A factory suffers flood damage assessed at ₹3,00,000 under an SFSP policy. Applying the standard policy excess for Act of God perils, the amount payable is:",
+"o": [
+"₹2,90,000",
+"₹2,70,000",
+"₹2,85,000",
+"₹3,00,000"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). For AOG perils (lightning, STFI, subsidence and landslide) the excess is 5% of the claim amount subject to a minimum of ₹10,000. 5% of ₹3,00,000 is ₹15,000, which exceeds the minimum, so ₹2,85,000 is payable.",
+"r": "key"
+},
+{
+"n": 10,
+"topic": "Special Policies and Add-on Covers",
+"t": "A timber depot located at the edge of a reserved forest should, in addition to the SFSP policy, obtain the add-on cover for:",
+"o": [
+"Bush fire",
+"Missile testing",
+"Forest fire",
+"Leakage from sprinklers"
+],
+"a": 2,
+"e": "Forest fire is excluded from the bush fire peril of the SFSP policy and must be added by endorsement where the risk is exposed to forest areas."
+},
+{
+"n": 11,
+"topic": "Special Policies and Add-on Covers",
+"t": "The add-on cover for 'deterioration of stocks in cold storage' under the fire policy typically responds when stocks deteriorate due to:",
+"o": [
+"Any power failure from whatever cause",
+"Failure of power supply following damage by an insured peril at the premises of the power station or the insured's own premises",
+"Mechanical breakdown of the refrigeration plant",
+"Contamination by refrigerant leakage"
+],
+"a": 1,
+"e": "The fire add-on is tied to insured perils; deterioration following refrigeration machinery breakdown is covered under a separate deterioration of stocks policy attached to machinery breakdown."
+},
+{
+"n": 12,
+"topic": "Special Policies and Add-on Covers",
+"t": "A floater policy under the fire tariff can be issued to cover:",
+"o": [
+"Buildings at several locations",
+"Plant and machinery at several locations",
+"Buildings and stocks together",
+"Stocks at various specified locations under a single sum insured"
+],
+"a": 3,
+"e": "Floater policies are available only for stocks, whose location varies; buildings and machinery are fixed and must be insured location-wise."
+},
+{
+"n": 13,
+"topic": "Standard Products – Bharat Griha Raksha, Bharat Sookshma Udyam Suraksha and Bharat Laghu Udyam Suraksha",
+"t": "Under Bharat Sookshma Udyam Suraksha, start-up expenses after an insured loss are included in the base cover up to:",
+"o": [
+"₹1 lakh",
+"₹5 lakh",
+"5% of the claim amount",
+"₹25,000"
+],
+"a": 0,
+"e": "The product builds in start-up expenses up to ₹1 lakh, along with other in-built covers such as removal of debris and professional fees, which are add-ons under the SFSP policy."
+},
+{
+"n": 14,
+"topic": "Standard Products – Bharat Griha Raksha, Bharat Sookshma Udyam Suraksha and Bharat Laghu Udyam Suraksha",
+"t": "Under Bharat Sookshma Udyam Suraksha, cash kept at the insured premises is automatically covered against the insured perils up to:",
+"o": [
+"₹5 lakh",
+"₹1 lakh",
+"₹50,000",
+"Nil – money is excluded"
+],
+"a": 2,
+"e": "The product includes specific contents such as money up to ₹50,000, deeds and documents up to ₹50,000, and employees' personal effects up to ₹15,000 per person, without separate declaration."
+},
+{
+"n": 15,
+"topic": "Standard Products – Bharat Griha Raksha, Bharat Sookshma Udyam Suraksha and Bharat Laghu Udyam Suraksha",
+"t": "A jewellery showroom with building, fixtures and stock valued at a total of ₹8 crore at one location seeks fire cover under the IRDAI standard products. The appropriate product is:",
+"o": [
+"Bharat Griha Raksha",
+"Bharat Laghu Udyam Suraksha",
+"Bharat Sookshma Udyam Suraksha",
+"Industrial All Risks"
+],
+"a": 1,
+"e": "Bharat Laghu Udyam Suraksha is designed for enterprises with value at risk above ₹5 crore and up to ₹50 crore; Sookshma is for up to ₹5 crore and Griha Raksha for homes."
+},
+{
+"n": 16,
+"topic": "Policy Conditions and Warranties",
+"t": "The main purpose of the condition of average in a fire policy is to:",
+"o": [
+"Reduce the premium for large risks",
+"Allow the insurer to cancel underinsured policies",
+"Share losses between several insurers",
+"Discourage underinsurance by making the insured bear a proportionate share of any loss when the sum insured is less than the value at risk"
+],
+"a": 3,
+"e": "Since fire premium is charged on the sum insured, underinsurance would let the insured pay less premium while recovering partial losses in full; average corrects this inequity."
+},
+{
+"n": 17,
+"topic": "Policy Conditions and Warranties",
+"t": "An insurer pays a fire claim of ₹8 lakh and later recovers ₹10 lakh from the negligent third party through subrogation. The excess recovery of ₹2 lakh:",
+"o": [
+"Belongs to the insured, since the insurer cannot recover more than it has paid",
+"Is retained by the insurer as profit",
+"Is shared equally between insurer and insured",
+"Must be paid to IRDAI"
+],
+"a": 0,
+"e": "Subrogation is a corollary of indemnity: the insurer is entitled only to recoup what it paid, and any surplus recovery belongs to the insured."
+},
+{
+"n": 18,
+"topic": "Fire Claims",
+"t": "A trader's stock is destroyed by fire. Books show opening stock ₹20 lakh, purchases to the date of fire ₹50 lakh and sales ₹60 lakh at a uniform gross profit of 20% on sales. Salvage realised ₹2 lakh. The net stock loss is:",
+"o": [
+"₹20 lakh",
+"₹22 lakh",
+"₹8 lakh",
+"₹10 lakh"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). Cost of goods sold = ₹60 lakh × 80% = ₹48 lakh. Stock at date of fire = 20 + 50 − 48 = ₹22 lakh; less salvage ₹2 lakh gives a net loss of ₹20 lakh.",
+"r": "key"
+},
+{
+"n": 19,
+"topic": "Policy Conditions and Warranties",
+"t": "For the contribution condition of a fire policy to operate, the policies concerned must:",
+"o": [
+"Be issued by the same insurer",
+"Have identical sums insured",
+"Cover the same subject matter, the same peril and the same interest, and be in force at the time of loss",
+"Have been issued on the same date"
+],
+"a": 2,
+"e": "Contribution applies only among policies that overlap in subject matter, peril and insurable interest; a landlord's and a tenant's policies on the same building do not contribute, as the interests differ."
+},
+{
+"n": 20,
+"topic": "Policy Conditions and Warranties",
+"t": "A building worth ₹1 crore is insured for ₹40 lakh with Insurer A and ₹40 lakh with Insurer B. A fire causes a loss of ₹20 lakh. Ignoring excess, Insurer A pays:",
+"o": [
+"₹10 lakh",
+"₹8 lakh",
+"₹4 lakh",
+"₹16 lakh"
+],
+"a": 1,
+"e": "Total insurance is ₹80 lakh against value ₹1 crore, so average reduces the recoverable loss to ₹16 lakh; this is shared equally by the two insurers, so A pays ₹8 lakh."
+},
+{
+"n": 21,
+"topic": "Policy Conditions and Warranties",
+"t": "An insured wishes to increase the sum insured on stocks mid-term as stock levels have risen. The correct procedure is:",
+"o": [
+"Take a fresh policy for the additional amount from a different insurer",
+"Wait until renewal, as mid-term changes are not allowed",
+"Inform the insurer after the loss",
+"Request an endorsement increasing the sum insured, paying additional premium pro-rata for the unexpired period"
+],
+"a": 3,
+"e": "Mid-term increases in sum insured are effected by endorsement and attract pro-rata additional premium; declaration or escalation covers can be used where fluctuations are expected."
+},
+{
+"n": 22,
+"topic": "Rating and Fire Tariff",
+"t": "The annual premium on a risk is ₹10,000. For a policy required for 9 months, the premium under the short period scale is:",
+"o": [
+"₹8,500",
+"₹7,500",
+"₹9,000",
+"₹10,000"
+],
+"a": 0,
+"e": "The short period scale charges 85% of the annual premium for a period of up to 9 months; beyond 9 months the full annual premium applies."
+},
+{
+"n": 23,
+"topic": "Rating and Fire Tariff",
+"t": "Stocks worth ₹75 lakh are insured at a rate of ₹0.80 per mille. The basic premium (before GST) is:",
+"o": [
+"₹60,000",
+"₹600",
+"₹6,000",
+"₹9,375"
+],
+"a": 2,
+"e": "₹75,00,000 ÷ 1,000 × 0.80 = ₹6,000. The per mille rate is applied per ₹1,000 of sum insured."
+},
+{
+"n": 24,
+"topic": "Rating and Fire Tariff",
+"t": "A single fire policy covers a factory at Pune and a godown at Nashik. For rating purposes:",
+"o": [
+"The Pune rate applies to both locations",
+"Each location is rated separately according to its own occupancy, construction and protection",
+"The higher of the two rates applies to both locations with a 10% loading",
+"An average of the two rates applies"
+],
+"a": 1,
+"e": "A specified-location policy rates each risk on its own merits; the 'highest rate plus 10%' rule applies only to floater policies on stocks."
+},
+{
+"n": 25,
+"topic": "Rating and Fire Tariff",
+"t": "Under the All India Fire Tariff 2001, a captive power plant situated outside the compound of the factory it serves is rated under the section for:",
+"o": [
+"Storage risks",
+"Industrial/manufacturing risks",
+"Dwellings, offices and shops",
+"Utilities located outside the compounds of industrial/manufacturing risks"
+],
+"a": 3,
+"e": "The tariff has a separate section for utilities such as power plants, water treatment and effluent plants that are outside industrial compounds; inside the compound they take the industrial rate."
+},
+{
+"n": 26,
+"topic": "Underwriting and Documentation",
+"t": "A house is mortgaged to a housing finance company for ₹30 lakh while its value is ₹80 lakh. Which statement about insurable interest is correct?",
+"o": [
+"Both the mortgagor and the mortgagee have insurable interest; the mortgagor for the full value and the mortgagee to the extent of the loan",
+"Only the mortgagee has insurable interest until the loan is repaid",
+"Only the mortgagor has insurable interest",
+"Neither has insurable interest until the mortgage is registered"
+],
+"a": 0,
+"e": "The owner (mortgagor) retains full interest in the property, while the lender has an interest limited to the outstanding debt; this is why the agreed bank clause is used."
+},
+{
+"n": 27,
+"topic": "Underwriting and Documentation",
+"t": "In a fire policy document, the details of the insured, the property, the sum insured, the premium and the period of insurance are set out in the:",
+"o": [
+"Preamble",
+"Operative clause",
+"Schedule",
+"Attestation clause"
+],
+"a": 2,
+"e": "The schedule individualises the standard printed policy; the operative clause states the insurer's promise and the attestation clause carries the signature of the authorised official."
+},
+{
+"n": 28,
+"topic": "Rating and Fire Tariff",
+"t": "A shop is insured for ₹50 lakh at a rate of ₹1.20 per mille. The total premium payable including GST at 18% is:",
+"o": [
+"₹6,000",
+"₹6,600",
+"₹7,200",
+"₹7,080"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). Basic premium = 50,00,000 ÷ 1,000 × 1.20 = ₹6,000; GST at 18% = ₹1,080, giving a total of ₹7,080.",
+"r": "key"
+},
+{
+"n": 29,
+"topic": "Underwriting and Documentation",
+"t": "Indian general insurers are required to cede a fixed percentage of every fire policy to GIC Re as obligatory cession. For recent financial years this percentage has been:",
+"o": [
+"20%",
+"4%",
+"10%",
+"15%"
+],
+"a": 1,
+"e": "The obligatory cession to the Indian reinsurer was reduced over the years and has been fixed at 4% of each policy since FY 2022-23; the balance is placed under treaties and facultative arrangements."
+},
+{
+"n": 30,
+"topic": "Underwriting and Documentation",
+"t": "Which statement about assignment of a fire policy is correct?",
+"o": [
+"A fire policy may be freely assigned like a marine policy",
+"Assignment is automatic on sale of the property",
+"Assignment is prohibited under all circumstances",
+"A fire policy is a personal contract and can be assigned only with the consent of the insurer, usually by endorsement"
+],
+"a": 3,
+"e": "Unlike marine cargo policies, fire policies are not freely assignable because the identity and moral hazard of the insured matter; transfer of interest without consent terminates cover."
+},
+{
+"n": 31,
+"topic": "Fire Claims",
+"t": "Which statement correctly describes the status of a surveyor's report in a fire claim?",
+"o": [
+"The report is advisory; the insurer takes the decision on liability and quantum and may seek clarifications or an additional report",
+"The report is binding on both the insurer and the insured",
+"The insured may reject the report and appoint another surveyor",
+"The report must be approved by IRDAI before payment"
+],
+"a": 0,
+"e": "The licensed surveyor assesses the loss independently, but the decision to admit or reject a claim rests with the insurer, which must record reasons if it departs from the report."
+},
+{
+"n": 32,
+"topic": "Fire Claims",
+"t": "Part of an insured building is damaged by fire. On the indemnity basis the claim is assessed as:",
+"o": [
+"The full sum insured on the building",
+"Cost of rebuilding the entire building",
+"Reasonable cost of repairing the damaged portion, less an allowance for betterment where new materials improve on the old",
+"Market value of the whole building"
+],
+"a": 2,
+"e": "Partial losses are settled at the cost of repair; any improvement in the property beyond its pre-loss condition (betterment) is deducted so that the insured is not placed in a better position."
+},
+{
+"n": 33,
+"topic": "Fire Claims",
+"t": "Stock insured for ₹10 lakh is valued at ₹12.5 lakh at the time of a fire. The gross loss is ₹5 lakh and salvage is sold for ₹1 lakh. After average and the ₹10,000 policy excess, the amount payable is:",
+"o": [
+"₹4,00,000",
+"₹3,10,000",
+"₹3,90,000",
+"₹3,20,000"
+],
+"a": 1,
+"e": "Net loss after salvage = ₹4 lakh. Average: ₹4 lakh × 10/12.5 = ₹3,20,000. Less excess ₹10,000 gives ₹3,10,000."
+},
+{
+"topic": "Policyholder protection",
+"t": "Under the IRDAI (Protection of Policyholders' Interests) Regulations 2024, the free-look period for a policy with a term of one year or more is:",
+"o": [
+"15 days",
+"30 days",
+"45 days",
+"60 days"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). 30 days from receipt of the policy document, irrespective of the sales channel.",
+"r": "core",
+"n": 34
+},
+{
+"n": 35,
+"topic": "Fire Claims",
+"t": "In a fire claim on a manufacturer's finished goods, the loss is normally valued at:",
+"o": [
+"Selling price including profit",
+"Selling price less trade discount",
+"Replacement cost of raw materials only",
+"Cost of production (materials, labour and overheads) at the time of loss"
+],
+"a": 3,
+"e": "Finished goods are indemnified at their cost of manufacture, not at selling price; the lost profit element is recoverable only under a consequential loss policy."
+},
+{
+"n": 36,
+"topic": "Fire Claims",
+"t": "A fire-damaged roof is replaced with a superior and more expensive roofing material at the insured's request. Under an indemnity (market value) basis of settlement, the additional cost of the improvement is:",
+"o": [
+"Borne by the insured as betterment",
+"Paid by the insurer as part of reinstatement",
+"Shared equally between insurer and insured",
+"Paid by the insurer if the sum insured is adequate"
+],
+"a": 0,
+"e": "Indemnity restores the insured to the pre-loss position, no better; the extra cost of superior materials is betterment and is deducted from the claim."
+},
+{
+"n": 37,
+"topic": "Consequential Loss Insurance – Principles and Concepts",
+"t": "Which of the following expenses varies directly with turnover and is therefore usually treated as an uninsured working expense under a CL policy?",
+"o": [
+"Depreciation of plant",
+"Directors' fees",
+"Carriage outward and freight on goods sold",
+"Interest on term loans"
+],
+"a": 2,
+"e": "Freight, packing, purchases and bad debts rise and fall with sales; depreciation, directors' fees and interest continue regardless and are standing charges."
+},
+{
+"n": 38,
+"topic": "Consequential Loss Insurance – Principles and Concepts",
+"t": "The purpose of the increased cost of working item in a consequential loss policy is to:",
+"o": [
+"Cover the cost of repairing damaged machinery",
+"Reimburse additional expenditure reasonably incurred to avoid or diminish the reduction in turnover during the indemnity period",
+"Pay the wages of workers laid off",
+"Cover the premium for the material damage policy"
+],
+"a": 1,
+"e": "ICOW encourages the insured to mitigate the interruption, e.g. by working overtime or hiring premises; repair costs belong to the material damage policy."
+},
+{
+"n": 39,
+"topic": "Consequential Loss Insurance – Principles and Concepts",
+"t": "'Shortage in turnover' under a consequential loss policy is:",
+"o": [
+"The difference between the sum insured and the turnover achieved",
+"The decline in turnover compared with the previous policy year",
+"The difference between turnover in the policy year and the financial year",
+"The amount by which the turnover during the indemnity period falls short of the standard turnover, in consequence of the damage"
+],
+"a": 3,
+"e": "Shortage is measured against the (trend-adjusted) standard turnover for the corresponding period, and only the part attributable to the damage is indemnified."
+},
+{
+"n": 40,
+"topic": "Consequential Loss Insurance – Principles and Concepts",
+"t": "A company's last financial year shows: turnover ₹100 lakh, opening stock ₹15 lakh, closing stock ₹20 lakh and uninsured working expenses ₹65 lakh. On the difference basis, gross profit is:",
+"o": [
+"₹40 lakh",
+"₹35 lakh",
+"₹30 lakh",
+"₹45 lakh"
+],
+"a": 0,
+"e": "Gross profit = (turnover + closing stock) − (opening stock + uninsured working expenses) = (100 + 20) − (15 + 65) = ₹40 lakh."
+},
+{
+"n": 41,
+"topic": "Consequential Loss Policy – Coverage, Specification and Extensions",
+"t": "A cement plant whose production can be measured in tonnes may arrange its consequential loss policy on the 'output basis', under which:",
+"o": [
+"Loss is measured by wages lost",
+"Loss is measured by the number of days the plant is shut",
+"Shortage is measured in units of output rather than in money value of sales, with the rate of gross profit applied per unit",
+"Only standing charges are insured"
+],
+"a": 2,
+"e": "The output basis suits businesses with a homogeneous product and stock buffers, since output loss is immediate even if sales from stock continue; the turnover basis remains the norm."
+},
+{
+"n": 42,
+"topic": "Consequential Loss Policy – Coverage, Specification and Extensions",
+"t": "A Machinery Loss of Profits (MLOP) policy differs from a consequential loss (fire) policy in that the interruption must result from:",
+"o": [
+"Fire and special perils",
+"Riot and strike",
+"Non-availability of raw materials",
+"An accident indemnifiable under the machinery breakdown or boiler explosion policy"
+],
+"a": 3,
+"e": "MLOP follows the machinery breakdown material damage cover and is usually subject to a time excess; a CL (fire) policy follows the SFSP material damage cover."
+},
+{
+"n": 43,
+"topic": "Consequential Loss Policy – Coverage, Specification and Extensions",
+"t": "Which statement about insuring wages under a consequential loss policy is correct?",
+"o": [
+"Wages may be insured either as part of gross profit (as a standing charge) or as a separate item on the pro-rata or dual basis",
+"Wages can never be insured under a CL policy",
+"Wages are always covered at 100% throughout the indemnity period",
+"Wages are covered only through the lay-off extension"
+],
+"a": 0,
+"e": "Salaries of permanent staff are usually a standing charge within gross profit, while wages of workers may be insured separately on a basis reflecting how long the insured intends to retain them."
+},
+{
+"topic": "Policyholder protection",
+"t": "An Insurance Ombudsman can entertain a complaint where the value of the claim, including expenses, does not exceed:",
+"o": [
+"₹20 lakh",
+"₹30 lakh",
+"₹50 lakh",
+"₹1 crore"
+],
+"a": 2,
+"e": "★ Core fact (asked across III papers). The limit was raised to ₹50 lakh by the amended Insurance Ombudsman Rules.",
+"r": "core",
+"n": 44
+},
+{
+"n": 45,
+"topic": "Consequential Loss Claims",
+"t": "A CL policy has a sum insured of ₹60 lakh and an indemnity period of 18 months. Gross profit on the adjusted annual turnover is ₹40 lakh. An assessed loss of ₹9 lakh is payable as:",
+"o": [
+"₹6 lakh",
+"₹4.5 lakh",
+"₹9 lakh",
+"₹8 lakh"
+],
+"a": 2,
+"e": "The required sum insured is ₹40 lakh × 18/12 = ₹60 lakh, which equals the actual sum insured, so no average applies and the full ₹9 lakh is paid."
+},
+{
+"n": 46,
+"topic": "Consequential Loss Claims",
+"t": "A small fire damages a machine and the material damage claim of ₹8,000 is not paid because it falls within the ₹10,000 excess under the SFSP policy. The resulting interruption causes a gross profit loss of ₹3 lakh. Under the material damage proviso, the CL claim is:",
+"o": [
+"Not payable, as no material damage claim was paid",
+"Payable at 50%",
+"Payable only if the excess is waived",
+"Payable, since the proviso is satisfied where the material damage claim would have been paid but for the operation of an excess"
+],
+"a": 3,
+"e": "The proviso expressly treats a material damage claim rejected solely because of an excess or deductible as satisfying the link between the two policies."
+},
+{
+"n": 47,
+"topic": "Industrial All Risks Policy",
+"t": "The sum insured under the business interruption section of an Industrial All Risks policy is normally based on:",
+"o": [
+"Gross profit for the selected indemnity period, as under a CL policy",
+"Turnover of the last financial year",
+"Total value of plant and machinery",
+"Net profit only"
+],
+"a": 0,
+"e": "Section II of the IAR policy follows consequential loss principles, with gross profit (adjusted for indemnity periods over 12 months) as the sum insured and average applying."
+},
+{
+"n": 48,
+"topic": "Industrial All Risks Policy",
+"t": "The Industrial All Risks policy is intended for:",
+"o": [
+"Residential housing societies",
+"Shops and offices in commercial complexes",
+"Industrial and manufacturing risks with large sums insured",
+"Storage risks of traders only"
+],
+"a": 2,
+"e": "IAR was designed for large manufacturing units with multiple exposures; dwellings, shops and offices are insured under SFSP or the standard products such as Bharat Griha Raksha."
+},
+{
+"n": 49,
+"topic": "Fire Protection and Loss Prevention",
+"t": "A fire hydrant system installed at an industrial premises in accordance with the TAC Fire Protection Manual essentially comprises:",
+"o": [
+"Portable extinguishers placed at every 15 metres",
+"A dedicated water storage, fire pumps, a ring main of piping and hydrant outlets with hoses and branch pipes",
+"Automatic smoke detectors connected to the fire brigade",
+"Fire-resistant doors on all openings"
+],
+"a": 1,
+"e": "A hydrant installation provides pressurised water for manual fire fighting; the manual specifies tank capacity, pump duty, pipe sizes and hydrant spacing, and compliance earns a tariff discount."
+},
+{
+"n": 50,
+"topic": "Fire Protection and Loss Prevention",
+"t": "A fire detector that operates when the temperature in its vicinity rises faster than a set rate per minute, irrespective of the absolute temperature, is a:",
+"o": [
+"Ionisation smoke detector",
+"Photoelectric smoke detector",
+"Fixed-temperature heat detector",
+"Rate-of-rise heat detector"
+],
+"a": 3,
+"e": "Rate-of-rise detectors respond to rapid temperature increase and suit areas where smoke detectors would give false alarms; fixed-temperature detectors operate only at a preset temperature."
+}
+]

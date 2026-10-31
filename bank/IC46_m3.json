@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Fundamentals of Accounting",
+"t": "Under the historical cost concept, land bought in 2010 for ₹2 crore and now worth ₹9 crore is normally shown in the books at:",
+"o": [
+"₹9 crore",
+"₹7 crore, the appreciation only",
+"₹5.5 crore, the average of the two",
+"₹2 crore"
+],
+"a": 3,
+"e": "Assets are recorded at acquisition cost and not written up for market appreciation unless a formal revaluation is adopted; this keeps the figures objective and verifiable."
+},
+{
+"n": 2,
+"topic": "Fundamentals of Accounting",
+"t": "Which of the following is a real account?",
+"o": [
+"Capital account",
+"Furniture account",
+"Rent account",
+"Commission received account"
+],
+"a": 1,
+"e": "Real accounts relate to tangible or intangible assets; rent and commission are nominal accounts and capital is a personal account of the owner."
+},
+{
+"n": 3,
+"topic": "Fundamentals of Accounting",
+"t": "The convention of materiality permits an accountant to:",
+"o": [
+"Ignore a ₹50 lakh claim because the insurer disputes it",
+"Omit liabilities that are difficult to estimate",
+"Record the proprietor's household expenses as business expenses",
+"Charge a ₹600 calculator to expenses in the year of purchase rather than capitalise and depreciate it"
+],
+"a": 3,
+"e": "Materiality allows insignificant items to be treated expediently; it never permits omission of significant liabilities or mixing of personal and business transactions."
+},
+{
+"n": 4,
+"topic": "Accounting Process and Books of Accounts",
+"t": "The process of transferring entries from the journal or subsidiary books to the respective accounts in the ledger is called:",
+"o": [
+"Casting",
+"Balancing",
+"Journalising",
+"Posting"
+],
+"a": 3,
+"e": "Journalising is the initial recording, posting is the transfer to ledger accounts, casting is totalling and balancing is ascertaining the net balance of an account."
+},
+{
+"n": 5,
+"topic": "Accounting Process and Books of Accounts",
+"t": "Closing entries at the end of the accounting year are passed to:",
+"o": [
+"Carry forward the balances of asset accounts to the next year",
+"Transfer the balances of nominal accounts to the trading and profit and loss account",
+"Record transactions that were omitted during the year",
+"Rectify errors located after preparing the trial balance"
+],
+"a": 1,
+"e": "Nominal accounts (expenses and incomes) are closed by transfer to the P&L account; real and personal account balances are carried forward through the balance sheet."
+},
+{
+"n": 6,
+"topic": "Accounting Process and Books of Accounts",
+"t": "Goods returned by a customer who had bought them on credit are recorded in the:",
+"o": [
+"Sales book",
+"Sales returns book",
+"Purchases returns book",
+"Cash book"
+],
+"a": 1,
+"e": "Sales returns (returns inward) are recorded in the sales returns book, from which the customer's account is credited and the sales returns account debited."
+},
+{
+"n": 7,
+"topic": "Accounting Process and Books of Accounts",
+"t": "A sum of ₹9,000 paid for repairs to a vehicle was wrongly debited to the vehicle account. The rectifying entry is:",
+"o": [
+"Debit cash account ₹9,000; credit vehicle account ₹9,000",
+"Debit repairs account ₹9,000; credit suspense account ₹9,000",
+"Debit repairs account ₹9,000; credit vehicle account ₹9,000",
+"Debit vehicle account ₹9,000; credit repairs account ₹9,000"
+],
+"a": 2,
+"e": "The vehicle account was wrongly debited, so it must be credited, and the expense that should have been debited (repairs) is now debited; the trial balance was unaffected so no suspense account is involved."
+},
+{
+"n": 8,
+"topic": "Accounting Process and Books of Accounts",
+"t": "A truck costing ₹12,00,000 with an estimated life of 8 years and scrap value of ₹80,000 is depreciated under the straight-line method. The annual rate of depreciation on cost (approximately) is:",
+"o": [
+"15.00%",
+"11.67%",
+"12.50%",
+"10.00%"
+],
+"a": 1,
+"e": "Annual depreciation = (12,00,000 − 80,000)/8 = ₹1,40,000, which is 1,40,000/12,00,000 = 11.67% of original cost."
+},
+{
+"n": 9,
+"topic": "Accounting Process and Books of Accounts",
+"t": "The main purpose of preparing a bank reconciliation statement is to:",
+"o": [
+"Explain the difference between the bank balance as per the cash book and as per the bank statement on a given date",
+"Compute interest earned on the bank balance",
+"Detect fraud committed by the bank",
+"Replace the bank column of the cash book"
+],
+"a": 0,
+"e": "A BRS identifies timing differences (unpresented or uncredited cheques) and errors or omissions in either record, thereby confirming the accuracy of the cash book."
+},
+{
+"n": 10,
+"topic": "Accounting Process and Books of Accounts",
+"t": "A trial balance agrees even though the purchase of furniture for ₹40,000 has been debited to the purchases account. This is an example of:",
+"o": [
+"Error of omission",
+"Error of principle",
+"Compensating error",
+"Error of casting"
+],
+"a": 1,
+"e": "★ Key fact (repeated across the mocks of this paper). Treating a capital expenditure as revenue expenditure violates an accounting principle; since both debit and credit are of the same amount, the trial balance still agrees.",
+"r": "key"
+},
+{
+"n": 11,
+"topic": "Accounting Process and Books of Accounts",
+"t": "Which of the following statements regarding a trial balance is INCORRECT?",
+"o": [
+"It facilitates the preparation of final accounts",
+"It helps in detecting arithmetical errors in posting",
+"It is a list of ledger balances prepared on a particular date",
+"An agreed trial balance is conclusive proof that the books are free from all errors"
+],
+"a": 3,
+"e": "Agreement of a trial balance proves only arithmetical accuracy; errors of principle, omission, commission in the wrong account and compensating errors remain undetected."
+},
+{
+"n": 12,
+"topic": "Financial Statements and Accounting Standards",
+"t": "Under AS 9, revenue from the sale of goods is recognised when:",
+"o": [
+"Cash is received from the customer",
+"Significant risks and rewards of ownership have been transferred and no significant uncertainty exists about collection",
+"The goods are manufactured and ready for despatch",
+"The sales order is received from the customer"
+],
+"a": 1,
+"e": "AS 9 is based on transfer of property/risks and rewards and reasonable certainty of ultimate collection, not on receipt of cash or order."
+},
+{
+"n": 13,
+"topic": "Financial Statements and Accounting Standards",
+"t": "Under AS 22 (Accounting for Taxes on Income), a deferred tax asset arising from unabsorbed depreciation or carried-forward losses is recognised only when:",
+"o": [
+"The company has made a profit in the current year",
+"There is virtual certainty supported by convincing evidence that sufficient future taxable income will be available",
+"The auditors give an unqualified opinion",
+"The tax authorities have assessed the loss"
+],
+"a": 1,
+"e": "AS 22 applies a stricter 'virtual certainty' test for DTA on losses, as against 'reasonable certainty' for other timing differences, because of the prudence principle."
+},
+{
+"n": 14,
+"topic": "Financial Statements and Accounting Standards",
+"t": "AS 18 requires disclosure of:",
+"o": [
+"Events after the balance sheet date",
+"Transactions between the reporting enterprise and its related parties, including key management personnel",
+"The method of valuing inventories",
+"Segment-wise revenue and results"
+],
+"a": 1,
+"e": "AS 18 ensures users are aware of transactions that may not have been at arm's length; segment reporting, inventories and subsequent events are covered by AS 17, AS 2 and AS 4."
+},
+{
+"n": 15,
+"topic": "Financial Statements and Accounting Standards",
+"t": "Under AS 3, dividend paid to shareholders by a company is classified as a cash flow from:",
+"o": [
+"Financing activities",
+"Extraordinary items",
+"Investing activities",
+"Operating activities"
+],
+"a": 0,
+"e": "Dividends paid and the issue or redemption of share capital and borrowings are financing activities since they relate to the providers of capital."
+},
+{
+"n": 16,
+"topic": "Financial Statements and Accounting Standards",
+"t": "Under AS 26, which of the following should NOT be recognised as an intangible asset?",
+"o": [
+"A purchased software licence with a five-year term",
+"Internally generated goodwill",
+"A patent acquired from another company",
+"Copyright purchased for a specified consideration"
+],
+"a": 1,
+"e": "Internally generated goodwill, brands and customer lists are expressly excluded because their cost cannot be reliably measured; acquired intangibles meeting the recognition criteria are capitalised."
+},
+{
+"n": 17,
+"topic": "Company Accounts and Corporate Governance",
+"t": "Under Section 123 of the Companies Act 2013, dividend can be declared by a company out of:",
+"o": [
+"Current year profits after providing for depreciation, or accumulated profits of previous years transferred to free reserves",
+"Capital reserve arising on revaluation of assets",
+"Securities premium account",
+"Share application money pending allotment"
+],
+"a": 0,
+"e": "Dividend must come from profits after depreciation; capital profits such as revaluation surplus and securities premium cannot be distributed."
+},
+{
+"n": 18,
+"topic": "Solvency Margin and Capital",
+"t": "Under Section 6 of the Insurance Act 1938, the minimum paid-up equity capital required to carry on general insurance business in India is:",
+"o": [
+"₹200 crore",
+"₹100 crore",
+"₹500 crore",
+"₹50 crore"
+],
+"a": 1,
+"e": "★ Key fact (repeated across the mocks of this paper). A life or general insurer needs ₹100 crore of paid-up equity capital, whereas a reinsurer needs ₹200 crore.",
+"r": "key"
+},
+{
+"n": 19,
+"topic": "Company Accounts and Corporate Governance",
+"t": "A capital redemption reserve must be created when a company:",
+"o": [
+"Redeems preference shares or buys back shares out of profits otherwise available for dividend",
+"Issues shares at a premium",
+"Declares an interim dividend",
+"Issues debentures at a discount"
+],
+"a": 0,
+"e": "To preserve the capital base, an amount equal to the nominal value of shares redeemed or bought back out of free reserves is transferred to CRR, which may be used only for bonus shares."
+},
+{
+"n": 20,
+"topic": "Company Accounts and Corporate Governance",
+"t": "Under Schedule II of the Companies Act 2013, depreciation is based on:",
+"o": [
+"The useful life of the asset, with the residual value ordinarily not exceeding 5% of original cost",
+"The replacement cost of the asset",
+"A uniform 10% rate for all assets",
+"Fixed rates prescribed by the Income-tax Act"
+],
+"a": 0,
+"e": "Schedule II prescribes indicative useful lives and allows a residual value of up to 5% unless justified; income tax rates are separate and used only for tax computation."
+},
+{
+"n": 21,
+"topic": "Company Accounts and Corporate Governance",
+"t": "Which of the following statements about bonus shares is correct?",
+"o": [
+"They must be fully paid in cash by the allottees",
+"They increase the total shareholders' funds of the company",
+"They are issued only to preference shareholders",
+"They capitalise accumulated profits or reserves without any cash inflow to the company"
+],
+"a": 3,
+"e": "A bonus issue converts free reserves or securities premium into share capital; total equity remains unchanged and no cash is received."
+},
+{
+"n": 22,
+"topic": "Financial Statements of General Insurers",
+"t": "Under Section 15 of the Insurance Act 1938, the audited accounts and statements must be furnished to IRDAI within:",
+"o": [
+"Six months from the end of the period to which they relate",
+"Three months from the end of the financial year",
+"Twelve months from the end of the financial year",
+"Thirty days from the end of the financial year"
+],
+"a": 0,
+"e": "Section 15 requires the audited returns to be submitted within six months of year-end, with IRDAI empowered to extend the period in specific cases."
+},
+{
+"n": 23,
+"topic": "Financial Statements of General Insurers",
+"t": "Under the IRDAI (Expenses of Management of Insurers transacting General or Health Insurance Business) Regulations 2023, the overall limit of expenses of management for a general insurer is:",
+"o": [
+"15% of gross written premium in India",
+"20% of net written premium",
+"30% of gross written premium in India",
+"40% of gross written premium in India"
+],
+"a": 2,
+"e": "The 2023 regulations replaced segment-wise limits with a single cap of 30% of GWP for general insurers (35% for standalone health insurers), with commission subsumed within this limit."
+},
+{
+"n": 24,
+"topic": "Financial Statements of General Insurers",
+"t": "Operating expenses related to insurance business (Schedule 4) that cannot be directly identified with a segment are apportioned among revenue accounts:",
+"o": [
+"In the ratio of claims paid",
+"Equally among fire, marine and miscellaneous",
+"On a reasonable and consistent basis such as net premium or gross premium, as per the insurer's disclosed policy",
+"Entirely to the miscellaneous revenue account"
+],
+"a": 2,
+"e": "IRDAI requires a reasonable, consistent and disclosed basis of apportionment; the common practice is in proportion to gross direct premium of each segment."
+},
+{
+"n": 25,
+"topic": "Financial Statements of General Insurers",
+"t": "In the balance sheet of a general insurer (Form B-BS), 'Sources of Funds' comprise:",
+"o": [
+"Current liabilities and provisions only",
+"Investments, loans and fixed assets",
+"Share capital, reserves and surplus, fair value change account and borrowings",
+"Cash and bank balances and advances"
+],
+"a": 2,
+"e": "The balance sheet is in vertical form: sources of funds are shareholders' funds and borrowings, while application of funds shows investments, loans, fixed assets and net current assets."
+},
+{
+"n": 26,
+"topic": "Taxation and Audit",
+"t": "Under Section 12 of the Insurance Act 1938, the accounts and balance sheet of an insurer must be audited annually by:",
+"o": [
+"The Appointed Actuary of the insurer",
+"An officer of IRDAI",
+"An internal auditor appointed by the Board",
+"An auditor qualified under the Companies Act 2013"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). Section 12 requires an annual audit by a qualified auditor; IRDAI additionally issues guidelines on eligibility and rotation of statutory auditors of insurers.",
+"r": "key"
+},
+{
+"n": 27,
+"topic": "Financial Statements of General Insurers",
+"t": "Outstanding premium due from policyholders that is more than 30 days old is relevant because:",
+"o": [
+"It must be written off immediately in the revenue account",
+"It is credited to premium earned only on receipt",
+"It is shown as a contingent liability",
+"It is generally disallowed as an admissible asset for solvency purposes"
+],
+"a": 3,
+"e": "Under Section 64VB premium should be collected in advance; receivables beyond the permitted period (e.g. government business) are treated as inadmissible for solvency."
+},
+{
+"n": 28,
+"topic": "Financial Statements of General Insurers",
+"t": "Which schedule of a general insurer's balance sheet shows 'Reserve for unexpired risk' and 'Provision for outstanding claims'?",
+"o": [
+"Schedule 6 – Reserves and surplus",
+"Schedule 14 – Provisions",
+"Schedule 12 – Advances and other assets",
+"Schedule 13 – Current liabilities"
+],
+"a": 1,
+"e": "Technical liabilities (URR, outstanding claims, premium deficiency, taxation) are presented in Schedule 14; Schedule 6 holds shareholders' reserves and Schedule 13 current liabilities such as agents' balances and premium received in advance."
+},
+{
+"n": 29,
+"topic": "Financial Statements of General Insurers",
+"t": "A general insurer's miscellaneous revenue account shows premium earned (net) ₹1,200 crore, claims incurred (net) ₹900 crore, net commission ₹60 crore, operating expenses ₹270 crore and investment income allocated to policyholders ₹150 crore. The operating result of the segment is:",
+"o": [
+"Loss of ₹30 crore",
+"Profit of ₹270 crore",
+"Profit of ₹120 crore",
+"Loss of ₹120 crore"
+],
+"a": 2,
+"e": "Operating result = 1,200 + 150 − 900 − 60 − 270 = ₹120 crore profit; without investment income the segment would have an underwriting loss of ₹30 crore."
+},
+{
+"n": 30,
+"topic": "Reserves, Provisions and Reinsurance Accounting",
+"t": "The provision for outstanding claims at the balance sheet date of a general insurer should include:",
+"o": [
+"Only claims under litigation",
+"Only claims that have been admitted and are awaiting payment",
+"Claims reported but not settled, plus claims incurred but not reported (IBNR) and incurred but not enough reported (IBNER)",
+"Claims expected on policies to be issued next year"
+],
+"a": 2,
+"e": "Outstanding claims are provided on a case-by-case basis for reported claims, supplemented by actuarially estimated IBNR/IBNER to cover reporting and development lags."
+},
+{
+"n": 31,
+"topic": "Reserves, Provisions and Reinsurance Accounting",
+"t": "Who is responsible for certifying the adequacy of IBNR reserves of a general insurer?",
+"o": [
+"The company secretary",
+"The statutory auditor",
+"The Chief Financial Officer",
+"The Appointed Actuary"
+],
+"a": 3,
+"e": "IRDAI requires the Appointed Actuary to estimate and certify IBNR and premium deficiency reserves; the auditor relies on this certificate while auditing the financial statements."
+},
+{
+"n": 32,
+"topic": "Reserves, Provisions and Reinsurance Accounting",
+"t": "A 'bordereau' in reinsurance accounting is:",
+"o": [
+"A periodic statement listing the risks ceded or claims advised under a treaty, furnished by the cedant to the reinsurer",
+"The reinsurer's share of the insurer's equity capital",
+"The deposit retained by the cedant from reinsurance premium",
+"A certificate of solvency issued by IRDAI"
+],
+"a": 0,
+"e": "Bordereaux provide the reinsurer with details of ceded risks, premiums and claims; the premium reserve deposit is a separate concept."
+},
+{
+"n": 33,
+"topic": "Reserves, Provisions and Reinsurance Accounting",
+"t": "A sliding-scale commission in a proportional treaty means that:",
+"o": [
+"Commission is fixed at the rate charged on direct business",
+"Commission increases each year regardless of results",
+"Commission is paid only when the treaty makes a loss",
+"The commission rate varies inversely with the loss ratio of the treaty between agreed minimum and maximum"
+],
+"a": 3,
+"e": "A sliding scale rewards the cedant with higher commission when the loss ratio is low and reduces it when results deteriorate, aligning the interests of both parties."
+},
+{
+"n": 34,
+"topic": "Reserves, Provisions and Reinsurance Accounting",
+"t": "A stop loss reinsurance treaty protects the cedant against:",
+"o": [
+"Fluctuations in investment income",
+"A single large loss on an individual risk",
+"The insolvency of its reinsurers",
+"The aggregate loss ratio of a class of business exceeding an agreed percentage in a year"
+],
+"a": 3,
+"e": "Stop loss (excess of loss ratio) cover responds when total losses for the year exceed an agreed percentage of premium, unlike per-risk or per-event excess of loss."
+},
+{
+"topic": "Policyholder protection",
+"t": "An Insurance Ombudsman can entertain a complaint where the value of the claim, including expenses, does not exceed:",
+"o": [
+"₹20 lakh",
+"₹30 lakh",
+"₹50 lakh",
+"₹1 crore"
+],
+"a": 2,
+"e": "★ Core fact (asked across III papers). The limit was raised to ₹50 lakh by the amended Insurance Ombudsman Rules.",
+"r": "core",
+"n": 35
+},
+{
+"n": 36,
+"topic": "Reserves, Provisions and Reinsurance Accounting",
+"t": "A general insurer's fire treaty has a premium reserve deposit of 40% retained from the reinsurer's premium and released after 12 months with interest. In the cedant's books, the amount retained is shown as:",
+"o": [
+"Premium income of the cedant",
+"An investment in the reinsurer's shares",
+"A deduction from claims incurred",
+"A liability to the reinsurer (balances due to reinsurers / deposits)"
+],
+"a": 3,
+"e": "Premium reserve withheld belongs to the reinsurer and is released later; the cedant holds it as a liability and pays the agreed interest, which is an expense."
+},
+{
+"n": 37,
+"topic": "Solvency Margin and Capital",
+"t": "The Required Solvency Margin of a general insurer is determined as:",
+"o": [
+"The average of RSM-1 and RSM-2",
+"The higher of RSM-1 (premium-based) and RSM-2 (claims-based), subject to the statutory minimum",
+"RSM-1 only, since premiums are more reliable than claims",
+"The sum of RSM-1 and RSM-2"
+],
+"a": 1,
+"e": "Both measures are computed segment-wise with prescribed factors; the larger aggregate becomes the RSM, with a floor of ₹50 crore (₹100 crore for reinsurers)."
+},
+{
+"n": 38,
+"topic": "Solvency Margin and Capital",
+"t": "The percentage applied to incurred claims (after factors) to arrive at RSM-2 for general insurers is:",
+"o": [
+"50%",
+"20%",
+"15%",
+"30%"
+],
+"a": 3,
+"e": "RSM-1 applies 20% to premiums and RSM-2 applies 30% to incurred claims (gross claims adjusted by prescribed factors or net claims, whichever is higher)."
+},
+{
+"n": 39,
+"topic": "Solvency Margin and Capital",
+"t": "Minimum paid-up equity capital required for a company carrying on exclusively reinsurance business in India is:",
+"o": [
+"₹500 crore",
+"₹100 crore",
+"₹200 crore",
+"₹50 crore"
+],
+"a": 2,
+"e": "Section 6 of the Insurance Act prescribes ₹200 crore for reinsurers against ₹100 crore for life and general insurers."
+},
+{
+"n": 40,
+"topic": "Solvency Margin and Capital",
+"t": "If a general insurer's solvency ratio falls below the control level, IRDAI may:",
+"o": [
+"Direct the insurer to submit a financial plan to restore the solvency position within a specified period",
+"Take over the investments of the insurer",
+"Require the insurer to stop paying claims",
+"Automatically cancel the insurer's registration on the same day"
+],
+"a": 0,
+"e": "Section 64VA empowers IRDAI to call for a financial plan and impose directions such as restrictions on new business; deregistration is a last resort, not automatic."
+},
+{
+"n": 41,
+"topic": "Regulation of Investments",
+"t": "The maximum exposure of an insurer to companies belonging to a single group (other than infrastructure) is:",
+"o": [
+"5% of investment assets",
+"25% of investment assets",
+"2% of investment assets",
+"15% of investment assets"
+],
+"a": 0,
+"e": "Group exposure is capped at 5% of investment assets (10% for infrastructure investments), lower than the 15% industry-sector limit."
+},
+{
+"n": 42,
+"topic": "Regulation of Investments",
+"t": "Investment by an insurer in the companies of its promoter group is:",
+"o": [
+"Restricted to 5% of investment assets, with investments in unlisted promoter-group companies not permitted",
+"Permitted only in unlisted securities",
+"Freely permitted without any limit",
+"Mandatory to the extent of 10%"
+],
+"a": 0,
+"e": "To prevent conflicts of interest, promoter-group exposure is tightly capped and such investments are reported to IRDAI; loans to promoter group entities are prohibited."
+},
+{
+"n": 43,
+"topic": "Regulation of Investments",
+"t": "For a debt instrument to qualify as an 'approved investment', its minimum credit rating by a SEBI-registered rating agency should generally be:",
+"o": [
+"BBB or equivalent",
+"A or equivalent",
+"AA or equivalent",
+"AAA only"
+],
+"a": 2,
+"e": "Debt rated AA and above is approved; instruments rated between A and below AA fall under other investments subject to the 15% cap, and below A are not permitted."
+},
+{
+"n": 44,
+"topic": "Regulation of Investments",
+"t": "An insurer's investment in equity shares of a listed company is shown in the balance sheet at:",
+"o": [
+"Average of the year's highest and lowest prices",
+"Face value plus accrued dividend",
+"Fair value based on the last quoted closing price on the primary exchange (NSE), with BSE as secondary",
+"Original cost in all cases"
+],
+"a": 2,
+"e": "IRDAI prescribes NSE as the primary exchange for valuation; where a scrip is not traded on NSE, the BSE closing price is used, and unrealised changes go to the fair value change account."
+},
+{
+"n": 45,
+"topic": "Regulation of Investments",
+"t": "Which of the following is a function of the Investment Committee of an insurer?",
+"o": [
+"Approving individual insurance claims above ₹1 crore",
+"Laying down the operational framework for investment operations and monitoring compliance with the investment policy",
+"Appointing the statutory auditor",
+"Fixing premium rates for new products"
+],
+"a": 1,
+"e": "The committee frames the investment policy, approves investment limits, reviews performance and risk, and reports to the Board; claims, audit appointment and pricing lie elsewhere."
+},
+{
+"n": 46,
+"topic": "Taxation and Audit",
+"t": "IRDAI's guidelines on statutory auditors of insurers require that:",
+"o": [
+"The auditors are appointed by IRDAI directly",
+"Only government-owned audit firms may be appointed",
+"A general insurer has a maximum of two joint statutory auditors, each eligible for a limited tenure followed by a cooling-off period",
+"The Appointed Actuary also acts as statutory auditor"
+],
+"a": 2,
+"e": "IRDAI prescribes eligibility, tenure (generally five years) and rotation for joint auditors; appointment remains with the shareholders on the audit committee's recommendation."
+},
+{
+"topic": "Policyholder protection",
+"t": "The IRDAI portal through which a policyholder can escalate an unresolved grievance against an insurer is:",
+"o": [
+"Bima Sugam",
+"Bima Bharosa",
+"Bima Vahak",
+"Bima Vistaar"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). Bima Bharosa (formerly IGMS) is the grievance portal; Bima Sugam is the marketplace, Bima Vahak the women-led distribution channel and Bima Vistaar the combined rural product.",
+"r": "core",
+"n": 47
+},
+{
+"n": 48,
+"topic": "Analysis of Financial Statements",
+"t": "The expense ratio of a general insurer is normally computed as:",
+"o": [
+"Operating expenses ÷ claims paid",
+"(Operating expenses + net commission) ÷ net written premium",
+"Net commission ÷ investment income",
+"Operating expenses ÷ shareholders' funds"
+],
+"a": 1,
+"e": "The expense ratio measures the cost of acquiring and administering business relative to premium retained, and together with the loss ratio gives the combined ratio."
+},
+{
+"n": 49,
+"topic": "Analysis of Financial Statements",
+"t": "A general insurer earned profit after tax of ₹300 crore on average shareholders' funds of ₹2,500 crore. Its return on equity is:",
+"o": [
+"12%",
+"8.33%",
+"30%",
+"15%"
+],
+"a": 0,
+"e": "Return on equity = profit after tax ÷ average net worth = 300/2,500 = 12%."
+},
+{
+"n": 50,
+"topic": "Analysis of Financial Statements",
+"t": "Which of the following ratios is a measure of an insurer's reliance on investment income to offset underwriting losses?",
+"o": [
+"Current ratio",
+"Debt-equity ratio",
+"Operating ratio (combined ratio less investment income ratio)",
+"Retention ratio"
+],
+"a": 2,
+"e": "The operating ratio adjusts the combined ratio for investment income relative to premium; a combined ratio above 100% with an operating ratio below 100% shows investment income is subsidising underwriting."
+}
+]

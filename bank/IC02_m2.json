@@ -1,1 +1,657 @@
-[{"n": 1, "topic": "Plans - annuities and pension", "t": "A person buys an immediate annuity for ₹10,00,000 at an annuity rate of 6.5% per annum payable yearly. The annual annuity is", "o": ["₹60,000", "₹70,000", "₹6,500", "₹65,000"], "a": 3, "e": "₹10,00,000 × 6.5% = ₹65,000 per annum."}, {"n": 2, "topic": "Plans - riders", "t": "Under IRDAI product regulations, the premium for all riders other than health/critical illness riders attached to a policy cannot exceed", "o": ["50% of the base premium", "100% of the base premium", "30% of the base premium", "10% of the base premium"], "a": 2, "e": "Non-health riders are capped at 30% of base premium while health riders may go up to 100%."}, {"n": 3, "topic": "Plans - term and whole life", "t": "A convertible term assurance allows the policyholder to", "o": ["Convert the policy into an annuity at any time", "Increase the sum assured without limit", "Transfer the policy to another insurer", "Convert to an endowment or whole life plan without fresh medical evidence"], "a": 3, "e": "The conversion option within a specified period lets the life assured switch to a permanent plan without proving insurability again."}, {"n": 4, "topic": "Underwriting", "t": "Backdating a policy within the same financial year is usually requested to", "o": ["Avoid payment of GST", "Obtain the premium rate applicable to a lower age", "Extend the days of grace", "Skip the medical examination"], "a": 1, "e": "Dating the policy back to before the last birthday reduces the age at entry and premium; interest on the backdated premium is charged."}, {"n": 5, "topic": "Policy documents and conditions", "t": "A life assured who has paid total premiums of ₹1,20,000 dies by suicide 8 months after the policy commenced. The amount payable is at least", "o": ["₹96,000", "₹1,20,000", "₹60,000", "Nil"], "a": 0, "e": "80% of ₹1,20,000 = ₹96,000 is the minimum payable under the suicide clause."}, {"n": 6, "topic": "Policy documents and conditions", "t": "The policy document is best described as", "o": ["Evidence of the contract between the insurer and policyholder", "The contract of insurance itself", "A receipt for the first premium", "A statutory licence issued by IRDAI"], "a": 0, "e": "The contract is formed on acceptance of the proposal; the policy bond merely records its terms and is evidence of it."}, {"n": 7, "topic": "Plans - endowment and money-back", "t": "A money-back policy for ₹2,00,000 pays 20% of the sum assured at the end of years 5 and 10. The life assured dies in year 12. The death benefit (excluding bonus) is", "o": ["₹1,20,000", "₹1,60,000", "₹80,000", "₹2,00,000"], "a": 3, "e": "In a money-back plan the full sum assured is paid on death regardless of survival benefits already paid."}, {"n": 8, "topic": "Underwriting", "t": "Which of the following is treated as standard age proof by Indian life insurers?", "o": ["Horoscope", "Ration card", "Passport", "Self-declaration affidavit"], "a": 2, "e": "Passport, school leaving certificate, birth certificate and PAN card are standard proofs; horoscopes, ration cards and affidavits are non-standard."}, {"n": 9, "topic": "Plans - riders", "t": "Under an accidental death benefit rider, the insurer pays", "o": ["An additional sum assured if death occurs due to accident within the specified period", "The sum assured in instalments", "Hospital expenses following an accident", "Premiums for the next five years"], "a": 0, "e": "The rider pays an extra benefit (often equal to the base sum assured) on accidental death, typically within 180 days of the accident."}, {"n": 10, "topic": "Plans - annuities and pension", "t": "An immediate annuity is", "o": ["Purchased by regular premiums over many years", "Another name for a term insurance plan", "Payable only to persons above 80", "Purchased by a single lump sum with payments starting from the next period"], "a": 3, "e": "The purchase price is paid once and the annuity instalments commence immediately after the chosen frequency interval."}, {"n": 11, "topic": "Plans - term and whole life", "t": "Which of the following provides the highest sum assured per rupee of premium?", "o": ["Money-back plan", "Endowment assurance", "Term insurance", "Whole life with profits"], "a": 2, "e": "Term insurance has no savings element and pays only on death within the term, making it the cheapest form of cover."}, {"n": 12, "topic": "Underwriting", "t": "A sub-standard life whose extra mortality is expected to decrease over time is best handled by", "o": ["A lien that reduces over the early policy years", "A permanent extra premium", "Declining the proposal", "Reducing the policy term"], "a": 0, "e": "A diminishing lien reduces the sum payable on death in early years and tapers off, suiting a risk that improves with time."}, {"n": 13, "topic": "Premium concepts", "t": "A yearly premium falls due on 15 March 2026. The grace period for the policy ends on", "o": ["31 March 2026", "15 April 2026", "30 March 2026", "14 April 2026"], "a": 3, "e": "Thirty days of grace counted from the due date of 15 March end on 14 April 2026."}, {"n": 14, "topic": "Policy documents and conditions", "t": "Under the 2024 IRDAI product regulations, the Special Surrender Value must be at least equal to", "o": ["30% of total premiums paid", "Guaranteed surrender value plus terminal bonus", "The total premiums paid with interest", "The expected present value of the paid-up sum assured, paid-up future benefits and accrued benefits"], "a": 3, "e": "SSV is computed as the present value of paid-up benefits discounted at not more than the 10-year G-Sec yield plus 50 basis points."}, {"n": 15, "topic": "Claims", "t": "Under the IRDAI Protection of Policyholders' Interests Regulations 2024, a death claim not requiring investigation must be settled within", "o": ["15 days of receipt of all documents", "30 days of receipt of all documents", "60 days of intimation", "90 days of intimation"], "a": 0, "e": "The 2024 regulations tightened the earlier 30-day norm to 15 days, and to 45 days where investigation is required."}, {"n": 16, "topic": "Premium concepts", "t": "An occupational extra of ₹2 per ₹1,000 sum assured is charged on a policy for ₹5,00,000. The extra premium per year is", "o": ["₹500", "₹2,000", "₹1,000", "₹250"], "a": 2, "e": "₹2 × 500 (thousands of sum assured) = ₹1,000 per annum."}, {"n": 17, "topic": "Premium concepts", "t": "Under the level premium system, the excess premium collected in the early policy years is used to", "o": ["Build a reserve to meet higher mortality cost in later years", "Pay the agent's renewal commission", "Refund the policyholder at maturity", "Pay stamp duty on the policy"], "a": 0, "e": "Because actual mortality cost rises with age, the level premium overcharges early and undercharges later; the early excess is held as reserve."}, {"n": 18, "topic": "Plans - ULIP", "t": "If a ULIP policyholder stops paying premiums during the lock-in period and does not revive, the fund value moves to the", "o": ["Discontinued policy fund", "Insurer's shareholders' fund", "Terminal bonus pool", "Paid-up account earning no interest"], "a": 0, "e": "The discontinuance fund earns at least the minimum guaranteed rate and the proceeds are paid out only at the end of the lock-in."}, {"n": 19, "topic": "Policy documents and conditions", "t": "A policy issued on 1 April 2022 lapsed and was revived on 1 June 2024. The three-year period under Section 45 runs up to", "o": ["1 April 2025", "1 June 2025", "1 April 2027", "1 June 2027"], "a": 3, "e": "Section 45 counts three years from the latest of issue, revival or rider addition, so from revival on 1 June 2024 to 1 June 2027."}, {"n": 20, "topic": "Policy documents and conditions", "t": "A policy has a surrender value of ₹1,50,000. If the insurer grants loans up to 90% of surrender value, the maximum loan is", "o": ["₹1,50,000", "₹1,20,000", "₹1,35,000", "₹1,00,000"], "a": 2, "e": "90% of ₹1,50,000 = ₹1,35,000; the policy is assigned to the insurer as security."}, {"n": 21, "topic": "Underwriting", "t": "Moral hazard in life insurance underwriting refers to", "o": ["The physical condition of the life to be assured", "Travel to high-risk countries", "Hazardous occupations like mining", "The proposer's intention or circumstances that increase the risk, such as speculation or concealment"], "a": 3, "e": "Moral hazard concerns the character and motives of the proposer; agents and officials submit confidential reports to assess it."}, {"n": 22, "topic": "Premium concepts", "t": "The three basic elements used in computing a life insurance premium are", "o": ["Age, gender and occupation", "Sum assured, term and bonus", "Mortality, interest and expenses", "Commission, tax and profit"], "a": 2, "e": "The premium is built from expected mortality cost, discounted at an assumed interest rate, with a loading for expenses."}, {"n": 23, "topic": "Claims", "t": "A nominee's death claim is repudiated for non-disclosure of a heart ailment, with the policy having run two years. The nominee may escalate to the Insurance Ombudsman provided the claim amount does not exceed", "o": ["₹20 lakh", "₹30 lakh", "₹50 lakh", "₹1 crore"], "a": 2, "e": "The Insurance Ombudsman Rules allow complaints up to ₹50 lakh, to be filed within one year of the insurer's final reply."}, {"n": 24, "topic": "Indian life insurance market", "t": "Which distribution channel involves an intermediary who represents the customer rather than the insurer?", "o": ["Individual agent", "Point of Sales Person", "Corporate agent", "Insurance broker"], "a": 3, "e": "A broker is licensed to represent the client and can place business with any insurer, whereas agents represent a specific insurer."}, {"n": 25, "topic": "Bonus", "t": "Under a compound reversionary bonus system, the bonus is calculated on", "o": ["Sum assured only", "Premiums paid", "Sum assured plus bonuses already vested", "The surrender value"], "a": 2, "e": "Compound bonus is declared on the sum assured together with previously attached bonuses, so bonuses earn bonuses."}, {"n": 26, "topic": "Indian life insurance market", "t": "Which Act opened the Indian insurance sector to private and foreign participation and set up the regulator?", "o": ["Insurance Act 1938", "LIC Act 1956", "IRDA Act 1999", "Insurance Laws (Amendment) Act 2015"], "a": 2, "e": "The IRDA Act 1999 constituted the regulator and amended the Insurance Act to allow private insurers, who started operations from 2000."}, {"n": 27, "topic": "Taxation", "t": "A taxable maturity payout of ₹5,00,000 is made on a policy where total premiums paid were ₹3,00,000. TDS under Section 194DA at the rate applicable from 1 October 2024 is", "o": ["₹10,000", "₹25,000", "₹4,000", "₹2,000"], "a": 2, "e": "TDS is 2% on the income component (₹5,00,000 − ₹3,00,000 = ₹2,00,000), i.e., ₹4,000."}, {"n": 28, "topic": "Policy servicing", "t": "Which of the following alterations is normally NOT permitted after issue of a policy?", "o": ["Change from quarterly to yearly mode", "Reduction in sum assured", "Increase in sum assured", "Change of a non-standard plan to a plan with lower risk"], "a": 2, "e": "An increase in sum assured would require fresh underwriting, so insurers generally require a new policy instead."}, {"n": 29, "topic": "Policy servicing", "t": "NACH used for collecting life insurance premiums is operated by", "o": ["Reserve Bank of India", "IRDAI", "National Payments Corporation of India", "Life Insurance Council"], "a": 2, "e": "National Automated Clearing House is an NPCI platform through which the insurer debits premiums against the customer's mandate."}, {"n": 30, "topic": "Policy servicing", "t": "A change of address request from a policyholder should be processed", "o": ["Only with the agent's recommendation", "Only along with a change of nomination", "Only at the time of claim", "On a written or authenticated request from the policyholder with proof, and recorded by endorsement/system update"], "a": 3, "e": "Address change is a routine servicing request requiring the policyholder's authenticated request and KYC proof of the new address."}, {"n": 31, "topic": "Indian life insurance market", "t": "Bancassurance in India refers to", "o": ["Banks distributing insurance products as corporate agents of insurers", "Banks underwriting insurance risk on their own balance sheet", "Insurers accepting deposits like banks", "Insurers lending to banks against policies"], "a": 0, "e": "In bancassurance, a bank acts as a corporate agent and sells the insurer's products to its customer base through its branch network."}, {"n": 32, "topic": "Agents and ethics", "t": "Under IRDAI's agent regulations, an individual agent may hold appointment with", "o": ["Any number of life insurers", "Two life insurers", "One life insurer, one general insurer and one health insurer", "Only one insurer of any type"], "a": 2, "e": "An individual agent can be appointed by at most one insurer in each of the life, general and health segments (composite agency)."}, {"n": 33, "topic": "Policy documents and conditions", "t": "A policy assigned under the Married Women's Property Act 1874 (Section 6)", "o": ["Can be surrendered freely by the policyholder", "Forms a trust for the benefit of wife and/or children and is protected from the husband's creditors", "Needs no trustee", "Cannot be taken by salaried persons"], "a": 1, "e": "An MWP Act policy creates a trust; the proceeds belong to the beneficiaries and are beyond the reach of the policyholder's creditors."}, {"n": 34, "topic": "Plans - group and micro insurance", "t": "In group insurance, the document issued to the employer or group organiser evidencing the contract is the", "o": ["Master policy", "Certificate of insurance", "Proposal form", "Cover note"], "a": 0, "e": "The master policy is issued to the group policyholder; individual members receive certificates of insurance."}, {"n": 35, "topic": "Underwriting", "t": "Section 64VB of the Insurance Act provides that", "o": ["Policies must be stamped within 30 days", "No risk can be assumed unless the premium is received in advance", "Agents must be licensed", "Claims must be paid within 30 days"], "a": 1, "e": "Risk commences only after the premium is actually received by the insurer, except where IRDAI permits otherwise."}, {"n": 36, "topic": "Plans - ULIP", "t": "A ULIP policyholder pays ₹50,000. After a 5% premium allocation charge, units are purchased at a NAV of ₹20. The number of units allotted is", "o": ["2,500", "2,375", "2,250", "2,625"], "a": 1, "e": "₹50,000 less 5% = ₹47,500 invested; ₹47,500 ÷ ₹20 = 2,375 units."}, {"n": 37, "topic": "Policy documents and conditions", "t": "An endowment policy for ₹5,00,000 with a 20-year term has had 8 annual premiums paid, with vested bonus of ₹60,000. If the policy becomes paid-up, the reduced paid-up sum assured including bonus is", "o": ["₹2,00,000", "₹2,60,000", "₹3,10,000", "₹5,60,000"], "a": 1, "e": "Paid-up value = (8/20) × ₹5,00,000 = ₹2,00,000 plus vested bonus ₹60,000 = ₹2,60,000; no further bonuses accrue."}, {"n": 38, "topic": "Bonus", "t": "Under the Insurance Act, the surplus in a participating life fund is distributed between policyholders and shareholders in the ratio of not less than", "o": ["50:50", "75:25", "80:20", "90:10"], "a": 3, "e": "At least 90% of the distributable surplus of the participating fund must go to policyholders as bonus."}, {"n": 39, "topic": "Taxation", "t": "The maximum deduction available under Section 80C of the Income-tax Act, including life insurance premiums, is", "o": ["₹1,00,000", "₹2,00,000", "₹1,50,000", "₹2,50,000"], "a": 2, "e": "Section 80C caps the aggregate deduction at ₹1.5 lakh; premium qualifies only up to 10% of sum assured for policies issued after 1 April 2012."}, {"n": 40, "topic": "Plans - annuities and pension", "t": "The 'annuity with return of purchase price' option means", "o": ["The annuity is refunded if the annuitant lives beyond 100", "The purchase price is returned if the annuitant survives 20 years", "Annuity payments double every 10 years", "On death of the annuitant, the purchase price is paid to the nominee"], "a": 3, "e": "This option guarantees the capital to the nominee on the annuitant's death in exchange for a lower annuity rate."}, {"n": 41, "topic": "Premium concepts", "t": "The rebate allowed on the yearly mode of premium payment exists mainly because", "o": ["Yearly mode attracts lower GST", "Agents earn lower commission on yearly policies", "IRDAI mandates a 10% discount on annual premiums", "The insurer saves administrative cost and earns interest on the money earlier"], "a": 3, "e": "Fewer collections per year reduce handling cost and the insurer receives the full year's premium up front, which is passed on as a mode rebate."}, {"n": 42, "topic": "Plans - group and micro insurance", "t": "Employees' Deposit Linked Insurance (EDLI) is a group life scheme linked to the", "o": ["Public Provident Fund", "Employees' Provident Fund", "National Pension System", "Gratuity Act"], "a": 1, "e": "EDLI provides life cover to EPF members; employers may opt for an insurer's group scheme in lieu of the statutory EDLI."}, {"n": 43, "topic": "Underwriting", "t": "Non-medical underwriting means", "o": ["Risk is accepted without a medical examination, within age and sum assured limits", "The proposer has no illness", "The insurer waives the proposal form", "Premiums are lower because no medical costs are incurred"], "a": 0, "e": "For young lives and moderate sums assured, insurers rely on the proposal declarations and agent's report instead of a medical report."}, {"n": 44, "topic": "Policy documents and conditions", "t": "Revival of a lapsed policy generally requires", "o": ["Only a fresh proposal form", "Consent of the nominee", "Only payment of the latest premium", "Payment of arrears of premium with interest and evidence of continued insurability"], "a": 3, "e": "The insurer collects all unpaid premiums with interest and may call for a Declaration of Good Health or medical reports."}, {"n": 45, "topic": "Policy documents and conditions", "t": "If a policy is returned within the free-look period, the insurer refunds the premium after deducting", "o": ["Nothing; the full premium is refunded", "50% of the premium", "The agent's commission only", "Proportionate risk premium, medical examination expenses and stamp duty"], "a": 3, "e": "Only the cost of cover for the period, medical costs and stamp duty may be deducted from the refund."}, {"n": 46, "topic": "Taxation", "t": "Under Section 10(10D) as amended by Finance Act 2023, maturity proceeds of a non-ULIP life policy issued on or after 1 April 2023 are taxable if the aggregate annual premium exceeds", "o": ["₹1,50,000", "₹2,50,000", "₹5,00,000", "₹10,00,000"], "a": 2, "e": "The ₹5 lakh aggregate premium cap applies to non-linked policies; death benefits remain fully exempt."}, {"n": 47, "topic": "Claims", "t": "Which document is specifically required for a death claim where death occurred in an accident?", "o": ["Discharge voucher only", "FIR, post-mortem report and police inquest report", "Age proof", "Agent's confidential report"], "a": 1, "e": "Accidental deaths require police and post-mortem records in addition to the usual death certificate, claim form and policy bond."}, {"n": 48, "topic": "Claims", "t": "For settling a maturity claim, insurers generally send an intimation to the policyholder in advance and require", "o": ["A death certificate", "The original policy document and a signed discharge voucher with bank details", "Consent of the nominee", "A medical report"], "a": 1, "e": "Maturity is a known date; the policyholder returns the discharged policy bond and NEFT details so payment can be made on the due date."}, {"n": 49, "topic": "Indian life insurance market", "t": "The solvency ratio that an Indian life insurer is required to maintain at all times is", "o": ["150%", "100%", "200%", "125%"], "a": 0, "e": "IRDAI requires a minimum solvency margin of 150% (control level of solvency) to ensure the insurer can meet its liabilities."}, {"n": 50, "topic": "Policy documents and conditions", "t": "If the nominee is a minor, the policyholder should", "o": ["Appoint an appointee to receive the money during minority", "Not nominate until the child is 18", "Assign the policy to the minor", "Nominate the insurer"], "a": 0, "e": "An appointee (a major) is named to receive the claim on behalf of the minor nominee if the life assured dies while the nominee is a minor."}]
+[
+{
+"n": 1,
+"topic": "Plans - annuities and pension",
+"t": "A person buys an immediate annuity for ₹10,00,000 at an annuity rate of 6.5% per annum payable yearly. The annual annuity is",
+"o": [
+"₹60,000",
+"₹70,000",
+"₹6,500",
+"₹65,000"
+],
+"a": 3,
+"e": "₹10,00,000 × 6.5% = ₹65,000 per annum."
+},
+{
+"n": 2,
+"topic": "Plans - riders",
+"t": "Under IRDAI product regulations, the premium for all riders other than health/critical illness riders attached to a policy cannot exceed",
+"o": [
+"50% of the base premium",
+"100% of the base premium",
+"30% of the base premium",
+"10% of the base premium"
+],
+"a": 2,
+"e": "Non-health riders are capped at 30% of base premium while health riders may go up to 100%."
+},
+{
+"n": 3,
+"topic": "Underwriting",
+"t": "Backdating a policy within the same financial year is usually requested to",
+"o": [
+"Avoid payment of GST",
+"Obtain the premium rate applicable to a lower age",
+"Extend the days of grace",
+"Skip the medical examination"
+],
+"a": 1,
+"e": "Dating the policy back to before the last birthday reduces the age at entry and premium; interest on the backdated premium is charged."
+},
+{
+"n": 4,
+"topic": "Policy documents and conditions",
+"t": "A life assured who has paid total premiums of ₹1,20,000 dies by suicide 8 months after the policy commenced. The amount payable is at least",
+"o": [
+"₹96,000",
+"₹1,20,000",
+"₹60,000",
+"Nil"
+],
+"a": 0,
+"e": "80% of ₹1,20,000 = ₹96,000 is the minimum payable under the suicide clause."
+},
+{
+"n": 5,
+"topic": "Plans - endowment and money-back",
+"t": "A money-back policy for ₹2,00,000 pays 20% of the sum assured at the end of years 5 and 10. The life assured dies in year 12. The death benefit (excluding bonus) is",
+"o": [
+"₹1,20,000",
+"₹1,60,000",
+"₹80,000",
+"₹2,00,000"
+],
+"a": 3,
+"e": "In a money-back plan the full sum assured is paid on death regardless of survival benefits already paid."
+},
+{
+"n": 6,
+"topic": "Underwriting",
+"t": "Which of the following is treated as standard age proof by Indian life insurers?",
+"o": [
+"Horoscope",
+"Ration card",
+"Passport",
+"Self-declaration affidavit"
+],
+"a": 2,
+"e": "Passport, school leaving certificate, birth certificate and PAN card are standard proofs; horoscopes, ration cards and affidavits are non-standard."
+},
+{
+"n": 7,
+"topic": "Plans - term and whole life",
+"t": "Which of the following provides the highest sum assured per rupee of premium?",
+"o": [
+"Money-back plan",
+"Endowment assurance",
+"Term insurance",
+"Whole life with profits"
+],
+"a": 2,
+"e": "Term insurance has no savings element and pays only on death within the term, making it the cheapest form of cover."
+},
+{
+"n": 8,
+"topic": "Underwriting",
+"t": "A sub-standard life whose extra mortality is expected to decrease over time is best handled by",
+"o": [
+"A lien that reduces over the early policy years",
+"A permanent extra premium",
+"Declining the proposal",
+"Reducing the policy term"
+],
+"a": 0,
+"e": "A diminishing lien reduces the sum payable on death in early years and tapers off, suiting a risk that improves with time."
+},
+{
+"n": 9,
+"topic": "Premium concepts",
+"t": "A yearly premium falls due on 15 March 2026. The grace period for the policy ends on",
+"o": [
+"31 March 2026",
+"15 April 2026",
+"30 March 2026",
+"14 April 2026"
+],
+"a": 3,
+"e": "Thirty days of grace counted from the due date of 15 March end on 14 April 2026."
+},
+{
+"n": 10,
+"topic": "Indian life insurance market",
+"t": "Under the Insurance Act 1938, the minimum paid-up equity capital required to register as a life insurer in India is",
+"o": [
+"₹50 crore",
+"₹200 crore",
+"₹500 crore",
+"₹100 crore"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). Section 6 of the Insurance Act prescribes a minimum paid-up equity capital of ₹100 crore for a life or general insurer.",
+"r": "key"
+},
+{
+"n": 11,
+"topic": "Policy documents and conditions",
+"t": "Under the 2024 IRDAI product regulations, the Special Surrender Value must be at least equal to",
+"o": [
+"30% of total premiums paid",
+"Guaranteed surrender value plus terminal bonus",
+"The total premiums paid with interest",
+"The expected present value of the paid-up sum assured, paid-up future benefits and accrued benefits"
+],
+"a": 3,
+"e": "SSV is computed as the present value of paid-up benefits discounted at not more than the 10-year G-Sec yield plus 50 basis points."
+},
+{
+"n": 12,
+"topic": "Claims",
+"t": "Under the IRDAI Protection of Policyholders' Interests Regulations 2024, a death claim not requiring investigation must be settled within",
+"o": [
+"15 days of receipt of all documents",
+"30 days of receipt of all documents",
+"60 days of intimation",
+"90 days of intimation"
+],
+"a": 0,
+"e": "The 2024 regulations tightened the earlier 30-day norm to 15 days, and to 45 days where investigation is required."
+},
+{
+"n": 13,
+"topic": "Premium concepts",
+"t": "An occupational extra of ₹2 per ₹1,000 sum assured is charged on a policy for ₹5,00,000. The extra premium per year is",
+"o": [
+"₹500",
+"₹2,000",
+"₹1,000",
+"₹250"
+],
+"a": 2,
+"e": "₹2 × 500 (thousands of sum assured) = ₹1,000 per annum."
+},
+{
+"n": 14,
+"topic": "Premium concepts",
+"t": "Under the level premium system, the excess premium collected in the early policy years is used to",
+"o": [
+"Build a reserve to meet higher mortality cost in later years",
+"Pay the agent's renewal commission",
+"Refund the policyholder at maturity",
+"Pay stamp duty on the policy"
+],
+"a": 0,
+"e": "Because actual mortality cost rises with age, the level premium overcharges early and undercharges later; the early excess is held as reserve."
+},
+{
+"n": 15,
+"topic": "Plans - ULIP",
+"t": "If a ULIP policyholder stops paying premiums during the lock-in period and does not revive, the fund value moves to the",
+"o": [
+"Discontinued policy fund",
+"Insurer's shareholders' fund",
+"Terminal bonus pool",
+"Paid-up account earning no interest"
+],
+"a": 0,
+"e": "The discontinuance fund earns at least the minimum guaranteed rate and the proceeds are paid out only at the end of the lock-in."
+},
+{
+"n": 16,
+"topic": "Policy documents and conditions",
+"t": "A policy issued on 1 April 2022 lapsed and was revived on 1 June 2024. The three-year period under Section 45 runs up to",
+"o": [
+"1 April 2025",
+"1 June 2025",
+"1 April 2027",
+"1 June 2027"
+],
+"a": 3,
+"e": "Section 45 counts three years from the latest of issue, revival or rider addition, so from revival on 1 June 2024 to 1 June 2027."
+},
+{
+"n": 17,
+"topic": "Policy documents and conditions",
+"t": "A policy has a surrender value of ₹1,50,000. If the insurer grants loans up to 90% of surrender value, the maximum loan is",
+"o": [
+"₹1,50,000",
+"₹1,20,000",
+"₹1,35,000",
+"₹1,00,000"
+],
+"a": 2,
+"e": "90% of ₹1,50,000 = ₹1,35,000; the policy is assigned to the insurer as security."
+},
+{
+"n": 18,
+"topic": "Premium concepts",
+"t": "The three basic elements used in computing a life insurance premium are",
+"o": [
+"Age, gender and occupation",
+"Sum assured, term and bonus",
+"Mortality, interest and expenses",
+"Commission, tax and profit"
+],
+"a": 2,
+"e": "The premium is built from expected mortality cost, discounted at an assumed interest rate, with a loading for expenses."
+},
+{
+"n": 19,
+"topic": "Claims",
+"t": "A nominee's death claim is repudiated for non-disclosure of a heart ailment, with the policy having run two years. The nominee may escalate to the Insurance Ombudsman provided the claim amount does not exceed",
+"o": [
+"₹20 lakh",
+"₹30 lakh",
+"₹50 lakh",
+"₹1 crore"
+],
+"a": 2,
+"e": "The Insurance Ombudsman Rules allow complaints up to ₹50 lakh, to be filed within one year of the insurer's final reply."
+},
+{
+"n": 20,
+"topic": "Annuities and pension",
+"t": "A person buys an immediate annuity with ₹20,00,000 at an annuity rate of 7% per annum payable monthly. The approximate monthly annuity is",
+"o": [
+"₹11,667",
+"₹14,000",
+"₹1,40,000",
+"₹7,000"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). ₹20,00,000 × 7% = ₹1,40,000 per year, i.e. about ₹11,667 per month.",
+"r": "key"
+},
+{
+"n": 21,
+"topic": "Indian life insurance market",
+"t": "Which distribution channel involves an intermediary who represents the customer rather than the insurer?",
+"o": [
+"Individual agent",
+"Point of Sales Person",
+"Corporate agent",
+"Insurance broker"
+],
+"a": 3,
+"e": "A broker is licensed to represent the client and can place business with any insurer, whereas agents represent a specific insurer."
+},
+{
+"n": 22,
+"topic": "Bonus",
+"t": "Under a compound reversionary bonus system, the bonus is calculated on",
+"o": [
+"Sum assured only",
+"Premiums paid",
+"Sum assured plus bonuses already vested",
+"The surrender value"
+],
+"a": 2,
+"e": "Compound bonus is declared on the sum assured together with previously attached bonuses, so bonuses earn bonuses."
+},
+{
+"n": 23,
+"topic": "Indian life insurance market",
+"t": "Which Act opened the Indian insurance sector to private and foreign participation and set up the regulator?",
+"o": [
+"Insurance Act 1938",
+"LIC Act 1956",
+"IRDA Act 1999",
+"Insurance Laws (Amendment) Act 2015"
+],
+"a": 2,
+"e": "The IRDA Act 1999 constituted the regulator and amended the Insurance Act to allow private insurers, who started operations from 2000."
+},
+{
+"n": 24,
+"topic": "Taxation",
+"t": "A taxable maturity payout of ₹5,00,000 is made on a policy where total premiums paid were ₹3,00,000. TDS under Section 194DA at the rate applicable from 1 October 2024 is",
+"o": [
+"₹10,000",
+"₹25,000",
+"₹4,000",
+"₹2,000"
+],
+"a": 2,
+"e": "TDS is 2% on the income component (₹5,00,000 − ₹3,00,000 = ₹2,00,000), i.e., ₹4,000."
+},
+{
+"n": 25,
+"topic": "Policy servicing",
+"t": "Which of the following alterations is normally NOT permitted after issue of a policy?",
+"o": [
+"Change from quarterly to yearly mode",
+"Reduction in sum assured",
+"Increase in sum assured",
+"Change of a non-standard plan to a plan with lower risk"
+],
+"a": 2,
+"e": "An increase in sum assured would require fresh underwriting, so insurers generally require a new policy instead."
+},
+{
+"n": 26,
+"topic": "Policy conditions",
+"t": "If the life assured under a ULIP commits suicide within 12 months of commencement, the nominee is entitled to",
+"o": [
+"nothing",
+"80% of total premiums paid",
+"the full sum assured",
+"the fund value as on the date of intimation of death"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). For linked policies the suicide clause provides the fund value on intimation; for non-linked policies it is at least 80% of premiums paid or surrender value.",
+"r": "key"
+},
+{
+"n": 27,
+"topic": "Policy servicing",
+"t": "NACH used for collecting life insurance premiums is operated by",
+"o": [
+"Reserve Bank of India",
+"IRDAI",
+"National Payments Corporation of India",
+"Life Insurance Council"
+],
+"a": 2,
+"e": "National Automated Clearing House is an NPCI platform through which the insurer debits premiums against the customer's mandate."
+},
+{
+"n": 28,
+"topic": "Policy servicing",
+"t": "A change of address request from a policyholder should be processed",
+"o": [
+"Only with the agent's recommendation",
+"Only along with a change of nomination",
+"Only at the time of claim",
+"On a written or authenticated request from the policyholder with proof, and recorded by endorsement/system update"
+],
+"a": 3,
+"e": "Address change is a routine servicing request requiring the policyholder's authenticated request and KYC proof of the new address."
+},
+{
+"n": 29,
+"topic": "Indian life insurance market",
+"t": "Bancassurance in India refers to",
+"o": [
+"Banks distributing insurance products as corporate agents of insurers",
+"Banks underwriting insurance risk on their own balance sheet",
+"Insurers accepting deposits like banks",
+"Insurers lending to banks against policies"
+],
+"a": 0,
+"e": "In bancassurance, a bank acts as a corporate agent and sells the insurer's products to its customer base through its branch network."
+},
+{
+"n": 30,
+"topic": "Agents and ethics",
+"t": "Under IRDAI's agent regulations, an individual agent may hold appointment with",
+"o": [
+"Any number of life insurers",
+"Two life insurers",
+"One life insurer, one general insurer and one health insurer",
+"Only one insurer of any type"
+],
+"a": 2,
+"e": "An individual agent can be appointed by at most one insurer in each of the life, general and health segments (composite agency)."
+},
+{
+"n": 31,
+"topic": "Policy documents and conditions",
+"t": "A policy assigned under the Married Women's Property Act 1874 (Section 6)",
+"o": [
+"Can be surrendered freely by the policyholder",
+"Forms a trust for the benefit of wife and/or children and is protected from the husband's creditors",
+"Needs no trustee",
+"Cannot be taken by salaried persons"
+],
+"a": 1,
+"e": "An MWP Act policy creates a trust; the proceeds belong to the beneficiaries and are beyond the reach of the policyholder's creditors."
+},
+{
+"n": 32,
+"topic": "Plans - group and micro insurance",
+"t": "In group insurance, the document issued to the employer or group organiser evidencing the contract is the",
+"o": [
+"Master policy",
+"Certificate of insurance",
+"Proposal form",
+"Cover note"
+],
+"a": 0,
+"e": "The master policy is issued to the group policyholder; individual members receive certificates of insurance."
+},
+{
+"n": 33,
+"topic": "Underwriting",
+"t": "Section 64VB of the Insurance Act provides that",
+"o": [
+"Policies must be stamped within 30 days",
+"No risk can be assumed unless the premium is received in advance",
+"Agents must be licensed",
+"Claims must be paid within 30 days"
+],
+"a": 1,
+"e": "Risk commences only after the premium is actually received by the insurer, except where IRDAI permits otherwise."
+},
+{
+"n": 34,
+"topic": "Plans - ULIP",
+"t": "A ULIP policyholder pays ₹50,000. After a 5% premium allocation charge, units are purchased at a NAV of ₹20. The number of units allotted is",
+"o": [
+"2,500",
+"2,375",
+"2,250",
+"2,625"
+],
+"a": 1,
+"e": "₹50,000 less 5% = ₹47,500 invested; ₹47,500 ÷ ₹20 = 2,375 units."
+},
+{
+"n": 35,
+"topic": "Policy documents and conditions",
+"t": "An endowment policy for ₹5,00,000 with a 20-year term has had 8 annual premiums paid, with vested bonus of ₹60,000. If the policy becomes paid-up, the reduced paid-up sum assured including bonus is",
+"o": [
+"₹2,00,000",
+"₹2,60,000",
+"₹3,10,000",
+"₹5,60,000"
+],
+"a": 1,
+"e": "Paid-up value = (8/20) × ₹5,00,000 = ₹2,00,000 plus vested bonus ₹60,000 = ₹2,60,000; no further bonuses accrue."
+},
+{
+"n": 36,
+"topic": "Bonus",
+"t": "Under the Insurance Act, the surplus in a participating life fund is distributed between policyholders and shareholders in the ratio of not less than",
+"o": [
+"50:50",
+"75:25",
+"80:20",
+"90:10"
+],
+"a": 3,
+"e": "At least 90% of the distributable surplus of the participating fund must go to policyholders as bonus."
+},
+{
+"topic": "Reinsurance",
+"t": "The obligatory cession that Indian general insurers must make to GIC Re is currently:",
+"o": [
+"4%",
+"5%",
+"10%",
+"15%"
+],
+"a": 0,
+"e": "★ Core fact (asked across III papers). The obligatory cession was reduced to 4% from 1 April 2022.",
+"r": "core",
+"n": 37
+},
+{
+"n": 38,
+"topic": "Taxation",
+"t": "The maximum deduction available under Section 80C of the Income-tax Act, including life insurance premiums, is",
+"o": [
+"₹1,00,000",
+"₹2,00,000",
+"₹1,50,000",
+"₹2,50,000"
+],
+"a": 2,
+"e": "Section 80C caps the aggregate deduction at ₹1.5 lakh; premium qualifies only up to 10% of sum assured for policies issued after 1 April 2012."
+},
+{
+"n": 39,
+"topic": "Plans - annuities and pension",
+"t": "The 'annuity with return of purchase price' option means",
+"o": [
+"The annuity is refunded if the annuitant lives beyond 100",
+"The purchase price is returned if the annuitant survives 20 years",
+"Annuity payments double every 10 years",
+"On death of the annuitant, the purchase price is paid to the nominee"
+],
+"a": 3,
+"e": "This option guarantees the capital to the nominee on the annuitant's death in exchange for a lower annuity rate."
+},
+{
+"n": 40,
+"topic": "Premium concepts",
+"t": "The rebate allowed on the yearly mode of premium payment exists mainly because",
+"o": [
+"Yearly mode attracts lower GST",
+"Agents earn lower commission on yearly policies",
+"IRDAI mandates a 10% discount on annual premiums",
+"The insurer saves administrative cost and earns interest on the money earlier"
+],
+"a": 3,
+"e": "Fewer collections per year reduce handling cost and the insurer receives the full year's premium up front, which is passed on as a mode rebate."
+},
+{
+"n": 41,
+"topic": "Plans - group and micro insurance",
+"t": "Employees' Deposit Linked Insurance (EDLI) is a group life scheme linked to the",
+"o": [
+"Public Provident Fund",
+"Employees' Provident Fund",
+"National Pension System",
+"Gratuity Act"
+],
+"a": 1,
+"e": "EDLI provides life cover to EPF members; employers may opt for an insurer's group scheme in lieu of the statutory EDLI."
+},
+{
+"n": 42,
+"topic": "Underwriting",
+"t": "Non-medical underwriting means",
+"o": [
+"Risk is accepted without a medical examination, within age and sum assured limits",
+"The proposer has no illness",
+"The insurer waives the proposal form",
+"Premiums are lower because no medical costs are incurred"
+],
+"a": 0,
+"e": "For young lives and moderate sums assured, insurers rely on the proposal declarations and agent's report instead of a medical report."
+},
+{
+"n": 43,
+"topic": "Policy documents and conditions",
+"t": "Revival of a lapsed policy generally requires",
+"o": [
+"Only a fresh proposal form",
+"Consent of the nominee",
+"Only payment of the latest premium",
+"Payment of arrears of premium with interest and evidence of continued insurability"
+],
+"a": 3,
+"e": "The insurer collects all unpaid premiums with interest and may call for a Declaration of Good Health or medical reports."
+},
+{
+"n": 44,
+"topic": "Policy documents and conditions",
+"t": "If a policy is returned within the free-look period, the insurer refunds the premium after deducting",
+"o": [
+"Nothing; the full premium is refunded",
+"50% of the premium",
+"The agent's commission only",
+"Proportionate risk premium, medical examination expenses and stamp duty"
+],
+"a": 3,
+"e": "Only the cost of cover for the period, medical costs and stamp duty may be deducted from the refund."
+},
+{
+"n": 45,
+"topic": "Taxation",
+"t": "Under Section 10(10D) as amended by Finance Act 2023, maturity proceeds of a non-ULIP life policy issued on or after 1 April 2023 are taxable if the aggregate annual premium exceeds",
+"o": [
+"₹1,50,000",
+"₹2,50,000",
+"₹5,00,000",
+"₹10,00,000"
+],
+"a": 2,
+"e": "The ₹5 lakh aggregate premium cap applies to non-linked policies; death benefits remain fully exempt."
+},
+{
+"topic": "Principles",
+"t": "The principle that allows an insurer who has paid a claim to step into the insured's shoes and recover from a liable third party is:",
+"o": [
+"Contribution",
+"Subrogation",
+"Indemnity",
+"Proximate cause"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). Subrogation is a corollary of indemnity; it does not apply to life or personal accident (benefit) policies.",
+"r": "core",
+"n": 46
+},
+{
+"n": 47,
+"topic": "Claims",
+"t": "Which document is specifically required for a death claim where death occurred in an accident?",
+"o": [
+"Discharge voucher only",
+"FIR, post-mortem report and police inquest report",
+"Age proof",
+"Agent's confidential report"
+],
+"a": 1,
+"e": "Accidental deaths require police and post-mortem records in addition to the usual death certificate, claim form and policy bond."
+},
+{
+"n": 48,
+"topic": "Claims",
+"t": "For settling a maturity claim, insurers generally send an intimation to the policyholder in advance and require",
+"o": [
+"A death certificate",
+"The original policy document and a signed discharge voucher with bank details",
+"Consent of the nominee",
+"A medical report"
+],
+"a": 1,
+"e": "Maturity is a known date; the policyholder returns the discharged policy bond and NEFT details so payment can be made on the due date."
+},
+{
+"n": 49,
+"topic": "Indian life insurance market",
+"t": "The solvency ratio that an Indian life insurer is required to maintain at all times is",
+"o": [
+"150%",
+"100%",
+"200%",
+"125%"
+],
+"a": 0,
+"e": "IRDAI requires a minimum solvency margin of 150% (control level of solvency) to ensure the insurer can meet its liabilities."
+},
+{
+"n": 50,
+"topic": "Policy documents and conditions",
+"t": "If the nominee is a minor, the policyholder should",
+"o": [
+"Appoint an appointee to receive the money during minority",
+"Not nominate until the child is 18",
+"Assign the policy to the minor",
+"Nominate the insurer"
+],
+"a": 0,
+"e": "An appointee (a major) is named to receive the claim on behalf of the minor nominee if the life assured dies while the nominee is a minor."
+}
+]

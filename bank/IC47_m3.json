@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Introduction",
+"t": "In India, the estimate of IBNR reserves of a general insurer is required to be certified by:",
+"o": [
+"The statutory auditor",
+"The Appointed Actuary",
+"The surveyor and loss assessor",
+"The Chief Underwriting Officer"
+],
+"a": 1,
+"e": "IRDAI regulations require every insurer to have an Appointed Actuary, who is responsible for determining and certifying IBNR and other technical liabilities."
+},
+{
+"n": 2,
+"topic": "Introduction",
+"t": "A property has a 2% annual probability of a loss of ₹5 lakh and no other losses. If expenses and profit together are 25% of premium, the premium needed is approximately:",
+"o": [
+"₹10,000",
+"₹12,500",
+"₹13,333",
+"₹15,000"
+],
+"a": 2,
+"e": "Expected loss = 0.02 × 5,00,000 = ₹10,000; premium = 10,000/(1 − 0.25) ≈ ₹13,333."
+},
+{
+"n": 3,
+"topic": "Risk Theory",
+"t": "A portfolio is expected to produce 400 claims in a year, with the claim count following a Poisson distribution. The standard deviation of the claim count is:",
+"o": [
+"4",
+"20",
+"40",
+"400"
+],
+"a": 1,
+"e": "For a Poisson distribution variance = mean = 400, so SD = √400 = 20; roughly two-thirds of years would fall within 380–420 claims."
+},
+{
+"n": 4,
+"topic": "Risk Theory",
+"t": "Each of 500 independent policies has a 4% chance of exactly one claim in the year. The mean and variance of the total number of claims are:",
+"o": [
+"20 and 20",
+"20 and 19.2",
+"25 and 24",
+"20 and 4.4"
+],
+"a": 1,
+"e": "Binomial: mean = np = 500 × 0.04 = 20; variance = np(1 − p) = 20 × 0.96 = 19.2, slightly below the Poisson value of 20."
+},
+{
+"n": 5,
+"topic": "Risk Theory",
+"t": "Claims arrive as a Poisson process with mean 50 per year and every claim is exactly ₹1 lakh. The standard deviation of aggregate annual losses is approximately:",
+"o": [
+"₹1 lakh",
+"₹7.07 lakh",
+"₹50 lakh",
+"₹25 lakh"
+],
+"a": 1,
+"e": "Var[S] = λE[X²] = 50 × (1 lakh)², so SD = √50 × 1 lakh ≈ 7.07 lakh; all variability comes from the claim count."
+},
+{
+"n": 6,
+"topic": "Risk Theory",
+"t": "Severity is exponential with mean ₹40,000. For a policy limit of ₹80,000, the expected payment per claim E[X ∧ 80,000] is approximately (e⁻² ≈ 0.135):",
+"o": [
+"₹34,600",
+"₹40,000",
+"₹45,400",
+"₹69,200"
+],
+"a": 0,
+"e": "E[X ∧ L] = θ(1 − e^(−L/θ)) = 40,000 × (1 − 0.135) ≈ ₹34,600."
+},
+{
+"n": 7,
+"topic": "Risk Theory",
+"t": "For a class of risks, claim frequency is 0.08 per exposure and the average claim severity is ₹50,000. The pure premium per exposure is:",
+"o": [
+"₹400",
+"₹4,000",
+"₹6,250",
+"₹40,000"
+],
+"a": 1,
+"e": "★ Key fact (repeated across the mocks of this paper). Pure premium = frequency × severity = 0.08 × 50,000 = ₹4,000 per exposure unit.",
+"r": "key"
+},
+{
+"n": 8,
+"topic": "Risk Theory",
+"t": "An insurer that is risk-neutral (linear utility) would accept a risk with expected loss ₹2 lakh and standard deviation ₹3 lakh for a minimum premium of:",
+"o": [
+"₹2 lakh",
+"₹3.5 lakh",
+"₹5 lakh",
+"₹2.9 lakh"
+],
+"a": 0,
+"e": "With linear utility only the expected value matters, so the minimum acceptable premium equals the expected loss of ₹2 lakh; a risk-averse insurer would demand more."
+},
+{
+"n": 9,
+"topic": "Risk Theory",
+"t": "Two independent portfolios have Poisson claim counts with means 150 and 250 respectively. The combined claim count is:",
+"o": [
+"Binomial with mean 400",
+"Poisson with mean 400 and variance 400",
+"Normal with mean 400 and variance 200",
+"Poisson with mean 200"
+],
+"a": 1,
+"e": "The sum of independent Poisson variables is Poisson with parameter equal to the sum of the means, so the combined count is Poisson(400) with variance 400."
+},
+{
+"n": 10,
+"topic": "Risk Theory",
+"t": "Losses are exponential with mean ₹50,000. The loss elimination ratio for a straight deductible of ₹10,000 is approximately (e^−0.2 ≈ 0.819):",
+"o": [
+"9.1%",
+"18.1%",
+"20.0%",
+"81.9%"
+],
+"a": 1,
+"e": "E[X ∧ 10,000] = 50,000 × (1 − 0.819) ≈ ₹9,060; LER = 9,060/50,000 ≈ 18.1% of ground-up losses eliminated by the deductible."
+},
+{
+"n": 11,
+"topic": "Risk Theory",
+"t": "In classical ruin theory, the Lundberg inequality gives an upper bound on the probability of ruin ψ(u) ≤ e^(−Ru). If the adjustment coefficient R is 1 × 10⁻⁶ per rupee and initial surplus u is ₹20 lakh, the bound is approximately:",
+"o": [
+"0.050",
+"0.135",
+"0.368",
+"0.500"
+],
+"a": 1,
+"e": "Ru = 10⁻⁶ × 20,00,000 = 2, so ψ(u) ≤ e⁻² ≈ 0.135; doubling surplus would square the bound to about 0.018."
+},
+{
+"n": 12,
+"topic": "Risk Theory",
+"t": "Ground-up losses rise uniformly by 10% due to inflation. For an excess-of-loss layer above a fixed deductible, the losses in the layer will:",
+"o": [
+"Rise by exactly 10%",
+"Rise by less than 10%",
+"Rise by more than 10% (the leveraged effect of inflation on excess layers)",
+"Remain unchanged, as the deductible absorbs inflation"
+],
+"a": 2,
+"e": "Because the deductible is fixed in rupee terms, inflation pushes more losses over it and increases the amount of each loss above it, so the excess layer grows faster than ground-up losses."
+},
+{
+"n": 13,
+"topic": "Risk Theory",
+"t": "A single risk has a coefficient of variation of 3.0. How many independent identical risks must be pooled so that the standard deviation of the average loss per risk is 5% of its mean?",
+"o": [
+"60",
+"600",
+"3,600",
+"36,000"
+],
+"a": 2,
+"e": "CV of the average = 3.0/√n; setting 3/√n = 0.05 gives √n = 60, so n = 3,600 risks."
+},
+{
+"n": 14,
+"topic": "Ratemaking",
+"t": "Developed and trended losses for a class are ₹3.6 crore on 12,000 earned vehicle-years. The indicated pure premium per vehicle-year is:",
+"o": [
+"₹300",
+"₹3,000",
+"₹30,000",
+"₹2,400"
+],
+"a": 1,
+"e": "Pure premium = 3,60,00,000/12,000 = ₹3,000 per vehicle-year."
+},
+{
+"n": 15,
+"topic": "Ratemaking",
+"t": "Losses are ₹100 lakh, allocated loss adjustment expense (ALAE) is ₹8 lakh and unallocated LAE is loaded at 5% of losses plus ALAE. Total loss and LAE for the indication is:",
+"o": [
+"₹105.0 lakh",
+"₹108.0 lakh",
+"₹113.0 lakh",
+"₹113.4 lakh"
+],
+"a": 3,
+"e": "Loss + ALAE = 108; ULAE = 5% × 108 = 5.4; total = ₹113.4 lakh."
+},
+{
+"n": 16,
+"topic": "Risk Classification",
+"t": "An additive rating plan has a base premium of ₹4,000, an age-group adjustment of +₹600 and a territory adjustment of −₹300. The premium is:",
+"o": [
+"₹4,300",
+"₹4,200",
+"₹4,600",
+"₹4,900"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). Additive plans sum the adjustments: 4,000 + 600 − 300 = ₹4,300.",
+"r": "key"
+},
+{
+"n": 17,
+"topic": "Ratemaking",
+"t": "Experience data are from accident year 2023 (average accident date 1 July 2023). New rates on annual policies take effect on 1 January 2026 and remain in force for one year. The loss trend period is:",
+"o": [
+"2.5 years",
+"3.0 years",
+"3.5 years",
+"4.0 years"
+],
+"a": 2,
+"e": "Average accident date under the new rates is 1 January 2027 (one year of writing plus half a policy term); from 1 July 2023 that is 3.5 years."
+},
+{
+"n": 18,
+"topic": "Ratemaking",
+"t": "Reported accident-year losses are ₹50 lakh, the development factor to ultimate is 1.20 and the trend factor is 1.10. The developed and trended losses are:",
+"o": [
+"₹55 lakh",
+"₹60 lakh",
+"₹65 lakh",
+"₹66 lakh"
+],
+"a": 3,
+"e": "50 × 1.20 × 1.10 = ₹66 lakh; development and trend are applied multiplicatively."
+},
+{
+"n": 19,
+"topic": "Ratemaking",
+"t": "The full-credibility standard for claim frequency is 1,082 claims. If severity has a coefficient of variation of 1.0, the number of claims required for full credibility of the pure premium is approximately:",
+"o": [
+"1,082",
+"1,541",
+"2,164",
+"4,328"
+],
+"a": 2,
+"e": "For pure premium the standard is n_F × (1 + CV_s²) = 1,082 × (1 + 1) = 2,164 claims, because severity variability adds to frequency variability."
+},
+{
+"n": 20,
+"topic": "Ratemaking",
+"t": "The 'extension of exposures' technique for adjusting historical premium to current rate level involves:",
+"o": [
+"Applying the parallelogram method to calendar-year premium",
+"Re-rating each historical policy's exposures at the current rates",
+"Trending premium by the inflation index",
+"Multiplying earned premium by the latest rate change only"
+],
+"a": 1,
+"e": "Extension of exposures recalculates premium policy-by-policy at today's rates; it is the most accurate method but requires detailed policy-level data."
+},
+{
+"n": 21,
+"topic": "Ratemaking",
+"t": "A line has a loss and LAE ratio of 70% and an expense ratio of 28%. Its combined ratio and underwriting margin are:",
+"o": [
+"98% and a 2% profit",
+"102% and a 2% loss",
+"42% and a 58% profit",
+"98% and a 2% loss"
+],
+"a": 0,
+"e": "Combined ratio = 70% + 28% = 98%, i.e. an underwriting profit of 2% of premium before investment income."
+},
+{
+"n": 22,
+"topic": "Ratemaking",
+"t": "For policy-year premium data, a rate change that became effective before the start of the policy year requires:",
+"o": [
+"A parallelogram adjustment for the partial year",
+"A trend adjustment instead",
+"No on-level adjustment for that change, since every policy in the year was written at the new rate",
+"Removal of the policy year from the data"
+],
+"a": 2,
+"e": "Policy-year data group policies by inception date; if the rate change preceded the year, all of its policies already carry the new rate level."
+},
+{
+"n": 23,
+"topic": "Ratemaking",
+"t": "Ground-up expected losses are ₹10,000 per policy and the loss elimination ratio for a ₹5,000 deductible is 15%. Expected losses net of the deductible are:",
+"o": [
+"₹5,000",
+"₹1,500",
+"₹9,250",
+"₹8,500"
+],
+"a": 3,
+"e": "Net expected losses = 10,000 × (1 − 0.15) = ₹8,500."
+},
+{
+"n": 24,
+"topic": "Ratemaking",
+"t": "A fire policy with sum insured ₹50 lakh is rated at ₹0.50 per mille. The premium (before taxes) is:",
+"o": [
+"₹2,500",
+"₹250",
+"₹25,000",
+"₹5,000"
+],
+"a": 0,
+"e": "Per mille means per ₹1,000 of sum insured: 50,00,000/1,000 × 0.50 = ₹2,500."
+},
+{
+"n": 25,
+"topic": "Ratemaking",
+"t": "Rate indications are generally based on accident-year rather than calendar-year incurred losses because calendar-year losses:",
+"o": [
+"Are not available until much later",
+"Cannot be matched with any premium",
+"Exclude paid losses",
+"Include changes in reserves on claims from earlier accident years, which distorts the current year's experience"
+],
+"a": 3,
+"e": "Calendar-year incurred = paid + change in reserves, so reserve strengthening on old years appears in the current year; accident-year data isolate losses from events in the period."
+},
+{
+"n": 26,
+"topic": "Risk Theory",
+"t": "Under the standard deviation premium principle P = E[S] + α·SD[S] with α = 0.5, a risk with E[S] = ₹8 lakh and SD[S] = ₹2 lakh has premium:",
+"o": [
+"₹8.5 lakh",
+"₹9.0 lakh",
+"₹10.0 lakh",
+"₹12.0 lakh"
+],
+"a": 1,
+"e": "★ Key fact (repeated across the mocks of this paper). P = 8 + 0.5 × 2 = ₹9.0 lakh; unlike the expected value principle this loading reflects the risk's variability.",
+"r": "key"
+},
+{
+"n": 27,
+"topic": "Individual Risk Rating",
+"t": "Beyond pricing equity, an important purpose of prospective experience rating is to:",
+"o": [
+"Eliminate the need for underwriting",
+"Replace manual rates entirely",
+"Transfer all losses back to the insured",
+"Give the insured a financial incentive for loss control and safety"
+],
+"a": 3,
+"e": "Because future premiums depend on the insured's own loss record, experience rating rewards risk-management efforts and penalises poor experience."
+},
+{
+"n": 28,
+"topic": "Individual Risk Rating",
+"t": "Using Z = P/(P + K), a risk with expected losses P = ₹20 lakh receives credibility 0.40. The value of the constant K is:",
+"o": [
+"₹8 lakh",
+"₹12 lakh",
+"₹50 lakh",
+"₹30 lakh"
+],
+"a": 3,
+"e": "0.40 = 20/(20 + K) gives 20 + K = 50, so K = ₹30 lakh."
+},
+{
+"n": 29,
+"topic": "Individual Risk Rating",
+"t": "In a retrospective rating plan, a 'loss limitation' (per-occurrence loss limit) is included and, in return, the insured pays:",
+"o": [
+"A higher tax multiplier",
+"A lower basic premium",
+"An excess loss premium factor to cover losses above the limit",
+"No minimum premium"
+],
+"a": 2,
+"e": "The loss limit caps the amount of any single claim entering the retro formula; the insurer charges an excess loss premium for absorbing the amounts above it."
+},
+{
+"n": 30,
+"topic": "Individual Risk Rating",
+"t": "A retrospective rating plan has basic premium ₹8 lakh, loss conversion factor 1.08, tax multiplier 1.05 and maximum premium ₹70 lakh. If limited incurred losses are ₹60 lakh, the premium payable is:",
+"o": [
+"₹68.04 lakh",
+"₹76.44 lakh",
+"₹70.00 lakh",
+"₹72.80 lakh"
+],
+"a": 2,
+"e": "R = (8 + 1.08 × 60) × 1.05 = 72.8 × 1.05 = ₹76.44 lakh, which exceeds the maximum, so the insured pays the maximum of ₹70 lakh."
+},
+{
+"n": 31,
+"topic": "Individual Risk Rating",
+"t": "Experience rating plans usually base the modification on a multi-year period that EXCLUDES the most recent year because:",
+"o": [
+"The most recent year's losses are immature and would understate experience",
+"The insured has not yet paid its premium",
+"Regulators prohibit use of recent data",
+"Older data are always more credible"
+],
+"a": 0,
+"e": "Recent accident-year losses are heavily under-developed; using three (or more) earlier years valued at a later date gives a more reliable picture."
+},
+{
+"n": 32,
+"topic": "Individual Risk Rating",
+"t": "The Bühlmann-Straub credibility model extends the Bühlmann model to handle:",
+"o": [
+"Non-Poisson frequency",
+"Only severity data",
+"Risks whose exposure (volume) varies from year to year",
+"Catastrophe losses"
+],
+"a": 2,
+"e": "Bühlmann-Straub weights each year's observation by its exposure, so credibility reflects total exposure rather than the number of years alone."
+},
+{
+"n": 33,
+"topic": "Individual Risk Rating",
+"t": "Bühlmann credibility constant K = 10. A risk observed for 5 years has an average annual loss of ₹150 thousand against a class mean of ₹90 thousand. The credibility estimate for next year is:",
+"o": [
+"₹110 thousand",
+"₹100 thousand",
+"₹120 thousand",
+"₹130 thousand"
+],
+"a": 0,
+"e": "Z = 5/(5 + 10) = 1/3; estimate = (1/3)(150) + (2/3)(90) = 50 + 60 = ₹110 thousand."
+},
+{
+"topic": "Health insurance norms",
+"t": "The maximum waiting period for pre-existing diseases in health insurance, after the 2024 IRDAI changes, is:",
+"o": [
+"24 months",
+"36 months",
+"48 months",
+"60 months"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). Reduced from 48 to 36 months; the moratorium period after which claims cannot be contested (except fraud) is 60 months.",
+"r": "core",
+"n": 34
+},
+{
+"n": 35,
+"topic": "Loss Reserving",
+"t": "Unallocated LAE is historically 6% of paid losses. Unpaid losses are ₹200 lakh, of which ₹120 lakh are case reserves and ₹80 lakh IBNR. Under the classical '50/50' assumption (half of ULAE spent when a claim is opened, half when closed), the ULAE reserve is:",
+"o": [
+"₹8.4 lakh",
+"₹12.0 lakh",
+"₹6.0 lakh",
+"₹4.8 lakh"
+],
+"a": 0,
+"e": "ULAE reserve = 6% × (50% × 120 + 100% × 80) = 0.06 × (60 + 80) = 0.06 × 140 = ₹8.4 lakh."
+},
+{
+"n": 36,
+"topic": "Loss Reserving",
+"t": "Selected age-to-age factors are 12–24: 2.00, 24–36: 1.25, 36–48: 1.10 and a tail factor of 1.02 beyond 48 months. The cumulative development factor from 24 months to ultimate is approximately:",
+"o": [
+"1.375",
+"1.122",
+"2.805",
+"1.403"
+],
+"a": 3,
+"e": "24-to-ultimate = 1.25 × 1.10 × 1.02 ≈ 1.4025; the 12–24 factor is not included because the data are already at 24 months."
+},
+{
+"n": 37,
+"topic": "Loss Reserving",
+"t": "Using the 24-to-ultimate factor of 1.4025 from the previous question, reported losses of ₹90 lakh at 24 months project to ultimate losses of approximately:",
+"o": [
+"₹112.5 lakh",
+"₹180.0 lakh",
+"₹123.8 lakh",
+"₹126.2 lakh"
+],
+"a": 3,
+"e": "Ultimate = 90 × 1.4025 ≈ ₹126.2 lakh, giving an IBNR of about ₹36.2 lakh."
+},
+{
+"n": 38,
+"topic": "Loss Reserving",
+"t": "Paid Bornhuetter-Ferguson: paid losses are ₹40 lakh, the paid development factor to ultimate is 2.50 and the a priori expected ultimate is ₹150 lakh. The estimated ultimate losses are:",
+"o": [
+"₹100 lakh",
+"₹190 lakh",
+"₹150 lakh",
+"₹130 lakh"
+],
+"a": 3,
+"e": "Expected unpaid = 150 × (1 − 1/2.5) = 150 × 0.6 = 90; ultimate = paid + unpaid = 40 + 90 = ₹130 lakh."
+},
+{
+"n": 39,
+"topic": "Loss Reserving",
+"t": "The Bornhuetter-Ferguson method is generally preferred over the chain-ladder method when:",
+"o": [
+"The accident year is fully mature",
+"There is no expected loss ratio available",
+"The accident year is immature and reported losses are a small, volatile fraction of ultimate",
+"Case reserves are perfectly accurate"
+],
+"a": 2,
+"e": "At early maturities the chain-ladder multiplies small reported amounts by large factors, so random noise is magnified; BF anchors the unreported portion to an a priori expectation."
+},
+{
+"n": 40,
+"topic": "Loss Reserving",
+"t": "A key weakness of the expected loss ratio method of reserving is that it:",
+"o": [
+"Requires a complete development triangle",
+"Gives too much weight to recent claims",
+"Cannot be applied to new lines of business",
+"Completely ignores the actual reported experience of the accident year"
+],
+"a": 3,
+"e": "Ultimate is simply premium × expected loss ratio; however good or bad the actual claims emerge, the estimate does not change, so it is used mainly for very immature or new business."
+},
+{
+"n": 41,
+"topic": "Loss Reserving",
+"t": "An insurer carries outstanding claims reserves of ₹180 crore. The Appointed Actuary's central estimate is ₹200 crore with a reasonable range of ₹185 crore to ₹215 crore. The carried reserve is best described as:",
+"o": [
+"Deficient by ₹20 crore against the central estimate and below the reasonable range",
+"Adequate, as it is close to the lower bound",
+"Redundant by ₹20 crore",
+"Within the range of reasonable estimates"
+],
+"a": 0,
+"e": "₹180 crore is ₹20 crore below the central estimate and also below the ₹185 crore floor of the range, so it is inadequate."
+},
+{
+"n": 42,
+"topic": "Loss Reserving",
+"t": "Claims that were closed and later reopened are normally provided for in reserving through:",
+"o": [
+"The IBNR provision (or a specific reopened-claims reserve)",
+"Case reserves on the closed claims",
+"Unearned premium reserve",
+"Salvage reserve"
+],
+"a": 0,
+"e": "Closed claims carry no case reserve, so expected future reopenings are an actuarial bulk estimate included within IBNR or set up separately."
+},
+{
+"n": 43,
+"topic": "Loss Reserving",
+"t": "At early development ages, paid-loss age-to-age factors are generally larger than incurred-loss factors for the same accident year because:",
+"o": [
+"Paid losses include IBNR",
+"Incurred losses are discounted",
+"Paid losses are inflated",
+"Incurred losses already include case reserves, so a greater share of ultimate is recognised earlier"
+],
+"a": 3,
+"e": "Incurred = paid + case reserves, so the incurred triangle is closer to ultimate at each age and needs less development than the paid triangle."
+},
+{
+"topic": "Intermediaries",
+"t": "The qualifying examination for an individual insurance agent conducted by the Insurance Institute of India is:",
+"o": [
+"IC-01",
+"IC-38",
+"IC-14",
+"IC-33"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). IC-38 is the agents' pre-recruitment examination; IC-01/02/11/14 are Licentiate papers.",
+"r": "core",
+"n": 44
+},
+{
+"n": 45,
+"topic": "Loss Reserving",
+"t": "Which of the following is NOT a reason why loss development occurs?",
+"o": [
+"Delay between occurrence and reporting of claims",
+"Delay between reporting and final settlement of claims",
+"Changes in case reserve estimates as information emerges",
+"Collection of premium in instalments"
+],
+"a": 3,
+"e": "Development arises from reporting lags, settlement lags and re-estimation of known claims; premium instalments affect premium accounting, not loss development."
+},
+{
+"n": 46,
+"topic": "Risk Classification",
+"t": "Class A has 1,000 exposures and losses of ₹30 lakh; class B has 500 exposures and losses of ₹22.5 lakh. The indicated relativity of class B to class A and the overall pure premium are:",
+"o": [
+"1.50 and ₹3,500",
+"0.75 and ₹3,500",
+"1.50 and ₹3,750",
+"1.33 and ₹3,000"
+],
+"a": 0,
+"e": "Pure premiums: A = 3,000, B = 4,500, relativity = 1.50; overall = 52.5 lakh/1,500 = ₹3,500."
+},
+{
+"n": 47,
+"topic": "Risk Classification",
+"t": "Motor third-party liability premiums notified by IRDAI for private cars in India are differentiated primarily by:",
+"o": [
+"Insured declared value",
+"The driver's age only",
+"Engine cubic capacity bands",
+"Colour and make of the vehicle"
+],
+"a": 2,
+"e": "The notified TP premium schedule for private cars is set by engine capacity bands (e.g. up to 1000cc, 1000–1500cc, above 1500cc), unlike own-damage rating which uses IDV, zone and age."
+},
+{
+"n": 48,
+"topic": "Risk Classification",
+"t": "Which statement correctly distinguishes adverse selection from moral hazard?",
+"o": [
+"Adverse selection arises after the policy is issued; moral hazard arises before",
+"Moral hazard concerns the insurer's choice of reinsurer",
+"Both terms mean the same thing",
+"Adverse selection concerns higher-risk persons being more likely to buy or stay insured; moral hazard concerns insureds changing behaviour because they are insured"
+],
+"a": 3,
+"e": "Adverse selection is a selection (information) problem at purchase; moral hazard is a behavioural change (less care, inflated claims) once covered."
+},
+{
+"n": 49,
+"topic": "Risk Classification",
+"t": "The Bailey-Simon 'minimum bias' procedure is used to:",
+"o": [
+"Estimate IBNR",
+"Compute the tail factor",
+"Fit class relativities for several rating variables simultaneously by iteration so that the fitted premiums balance to actual losses",
+"Select the trend period"
+],
+"a": 2,
+"e": "Minimum bias iteratively solves for each variable's relativities given the others, so that total fitted losses equal total actual losses for each class — a precursor of GLM methods."
+},
+{
+"n": 50,
+"topic": "Risk Classification",
+"t": "A class's indicated relativity is 0.80 and its current relativity is 1.00. With credibility 0.30 for the indication, the credibility-weighted relativity is:",
+"o": [
+"0.86",
+"0.90",
+"0.94",
+"0.97"
+],
+"a": 2,
+"e": "0.30 × 0.80 + 0.70 × 1.00 = 0.24 + 0.70 = 0.94."
+}
+]

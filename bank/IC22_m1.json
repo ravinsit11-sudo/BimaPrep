@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Life Underwriting - Principles & Concepts (Part-1)",
+"t": "The tendency of persons who know they are above-average risks to seek insurance on standard terms is called:",
+"o": [
+"Insurable interest",
+"Subrogation",
+"Moral hazard",
+"Anti-selection (adverse selection)"
+],
+"a": 3,
+"e": "Anti-selection describes impaired lives seeking cover at standard rates; underwriting exists largely to guard against it. Moral hazard relates to the proposer's intent, not his health knowledge."
+},
+{
+"n": 2,
+"topic": "Life Underwriting - Principles & Concepts (Part-1)",
+"t": "Under Section 45 of the Insurance Act, 1938 (as amended in 2015), a life policy cannot be called in question on any ground whatsoever after how many years from the later of the date of issuance, commencement of risk, revival or rider addition?",
+"o": [
+"3 years",
+"2 years",
+"5 years",
+"1 year"
+],
+"a": 0,
+"e": "The 2015 amendment made policies incontestable on any ground, including fraud, after 3 years from the latest of the specified dates."
+},
+{
+"n": 3,
+"topic": "Life Underwriting - Principles & Concepts (Part-2)",
+"t": "In the numerical rating system, the standard risk is assigned a base rating of:",
+"o": [
+"100",
+"1000",
+"0",
+"50"
+],
+"a": 0,
+"e": "The numerical rating system starts with 100 for a standard life; debits are added for adverse factors and credits subtracted for favourable ones."
+},
+{
+"n": 4,
+"topic": "Life Underwriting - Principles & Concepts (Part-2)",
+"t": "A proposer receives debits of +60 for build and +40 for family history, and a credit of -25 for favourable blood pressure and occupation. His total numerical rating and extra mortality are:",
+"o": [
+"275, i.e., 175% extra mortality",
+"100, i.e., standard",
+"125, i.e., 25% extra mortality",
+"175, i.e., 75% extra mortality"
+],
+"a": 3,
+"e": "Rating = 100 + 60 + 40 - 25 = 175, which means expected mortality is 175% of standard, or 75% extra mortality."
+},
+{
+"n": 5,
+"topic": "Life Underwriting - Principles & Concepts (Part-2)",
+"t": "The numerical rating system for life underwriting was originally developed by:",
+"o": [
+"Swiss Re (1963)",
+"Rogers and Hunter of New York Life Insurance Company (1919)",
+"The Insurance Institute of India (1955)",
+"Lloyd's of London (1871)"
+],
+"a": 1,
+"e": "Arthur Hunter and Oscar Rogers of New York Life devised the numerical rating method, which remains the basis of most underwriting manuals."
+},
+{
+"n": 6,
+"topic": "Life Underwriting - Principles & Concepts (Part-2)",
+"t": "A policy of ₹10 lakh is issued with a lien of 50% in year 1, reducing by 10 percentage points each year. If the life assured dies in the third policy year from a non-accidental cause, the amount payable is:",
+"o": [
+"₹5 lakh",
+"₹10 lakh",
+"₹7 lakh",
+"₹8 lakh"
+],
+"a": 2,
+"e": "The lien in year 3 is 50% - 10% - 10% = 30%, so the sum payable is ₹10 lakh less 30% = ₹7 lakh."
+},
+{
+"n": 7,
+"topic": "Life Underwriting - Principles & Concepts (Part-2)",
+"t": "A flat extra premium of ₹3 per thousand sum assured is imposed for occupational hazard on a policy of ₹8 lakh. The annual extra premium is:",
+"o": [
+"₹24,000",
+"₹240",
+"₹2,400",
+"₹800"
+],
+"a": 2,
+"e": "Flat extra = ₹3 × (8,00,000 / 1,000) = ₹3 × 800 = ₹2,400 per annum."
+},
+{
+"n": 8,
+"topic": "Underwriting: Process and Structure",
+"t": "Under the IRDAI (Protection of Policyholders' Interests, Operations and Allied Matters of Insurers) Regulations, 2024, the free-look period available to a policyholder is:",
+"o": [
+"7 days from the date of proposal",
+"30 days from the date of receipt of the policy document",
+"45 days from the date of issuance",
+"15 days from the date of receipt of the policy document"
+],
+"a": 1,
+"e": "The 2024 regulations extended the free-look period to 30 days for all policies, irrespective of the mode of sale."
+},
+{
+"n": 9,
+"topic": "Underwriting: Process and Structure",
+"t": "The grace period for payment of renewal premium under an individual life policy with monthly premium mode is:",
+"o": [
+"45 days",
+"7 days",
+"15 days",
+"30 days"
+],
+"a": 2,
+"e": "Monthly-mode policies have a 15-day grace period, while yearly, half-yearly and quarterly modes have 30 days."
+},
+{
+"n": 10,
+"topic": "Reinsurance",
+"t": "Under a 40% quota share treaty, on a policy with sum assured ₹50 lakh the reinsurer's share is:",
+"o": [
+"₹10 lakh",
+"₹40 lakh",
+"₹30 lakh",
+"₹20 lakh"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). Quota share cedes a fixed percentage of every risk: 40% × ₹50 lakh = ₹20 lakh.",
+"r": "key"
+},
+{
+"n": 11,
+"topic": "Underwriting: Process and Structure",
+"t": "If a proposal form is filled in a language the proposer does not understand, IRDAI requires:",
+"o": [
+"A declaration that the contents were explained to the proposer in a language he understands, signed by the proposer and the person who explained them",
+"A medical examination in the proposer's own language",
+"Translation of the policy into English only",
+"Rejection of the proposal outright"
+],
+"a": 0,
+"e": "The vernacular declaration protects the proposer and the insurer, ensuring informed disclosure."
+},
+{
+"n": 12,
+"topic": "Financial Underwriting",
+"t": "The main purpose of financial underwriting in life insurance is to:",
+"o": [
+"Determine the medical tests required",
+"Compute the bonus payable on the policy",
+"Verify that the proposer has paid his income tax",
+"Ensure that the sum assured proposed is reasonable in relation to the financial loss the beneficiaries would suffer"
+],
+"a": 3,
+"e": "Financial underwriting guards against over-insurance and speculation by matching cover to income, assets, liabilities and purpose."
+},
+{
+"n": 13,
+"topic": "Financial Underwriting",
+"t": "A 30-year-old proposer earns ₹8 lakh per annum. If the insurer's financial guideline allows 20 times annual income at this age, the maximum total life cover justified is:",
+"o": [
+"₹2.4 crore",
+"₹16 lakh",
+"₹80 lakh",
+"₹1.6 crore"
+],
+"a": 3,
+"e": "Maximum cover = 20 × ₹8 lakh = ₹1.6 crore, inclusive of existing policies with all insurers."
+},
+{
+"n": 14,
+"topic": "Financial Underwriting",
+"t": "Which of the following is the WEAKEST evidence of income for financial underwriting?",
+"o": [
+"Form 16 and salary slips",
+"Income tax returns for the last three years",
+"Audited financial statements certified by a Chartered Accountant",
+"The proposer's self-declaration without supporting documents"
+],
+"a": 3,
+"e": "Independent documents such as ITRs, Form 16 and audited accounts carry weight; a bare self-declaration can be used only for small covers."
+},
+{
+"n": 15,
+"topic": "Financial Underwriting",
+"t": "In a keyman insurance policy taken by a company on the life of its managing director:",
+"o": [
+"IRDAI is the beneficiary of the policy",
+"The company is the proposer, pays the premium and receives the policy proceeds",
+"The managing director's family receives the proceeds",
+"The premium is paid by the managing director personally"
+],
+"a": 1,
+"e": "Keyman insurance compensates the employer for loss of profits on the death of a key employee; the company is both proposer and beneficiary."
+},
+{
+"n": 16,
+"topic": "Underwriting: Process and Structure",
+"t": "Investigation of an early death claim (within 3 years of issue) to check for non-disclosure at proposal stage is sometimes referred to as:",
+"o": [
+"Claims-stage or post-issue underwriting",
+"Group underwriting",
+"Facultative underwriting",
+"Non-medical underwriting"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). Early claims are investigated for material non-disclosure since Section 45 permits repudiation within 3 years; this is effectively underwriting at claim stage.",
+"r": "key"
+},
+{
+"n": 17,
+"topic": "Financial Underwriting",
+"t": "A company proposes keyman insurance on its CEO, whose annual compensation is ₹30 lakh. If the insurer allows 10 times compensation, the maximum keyman cover is:",
+"o": [
+"₹30 lakh",
+"₹1.5 crore",
+"₹3 crore",
+"₹6 crore"
+],
+"a": 2,
+"e": "Keyman cover is commonly limited to a multiple of compensation (e.g., 10 times) or of the company's average profits; 10 × ₹30 lakh = ₹3 crore."
+},
+{
+"n": 18,
+"topic": "Occupational, Avocational and Residential Risks",
+"t": "Occupational hazards relevant to life underwriting are broadly classified as:",
+"o": [
+"Only hazards that affect income",
+"Accident hazards, health hazards and environmental/lifestyle hazards associated with the occupation",
+"Only hazards arising from working abroad",
+"Only accident hazards"
+],
+"a": 1,
+"e": "An occupation may expose the worker to accidents (mining), harmful substances (chemicals, dust) or a lifestyle associated with the job (long-distance driving)."
+},
+{
+"n": 19,
+"topic": "Occupational, Avocational and Residential Risks",
+"t": "A flat extra of ₹5 per thousand is charged for an underground mine worker on a sum assured of ₹20 lakh. The annual extra premium is:",
+"o": [
+"₹1,000",
+"₹5,000",
+"₹10,000",
+"₹20,000"
+],
+"a": 2,
+"e": "₹5 × (20,00,000 / 1,000) = ₹5 × 2,000 = ₹10,000 per annum."
+},
+{
+"n": 20,
+"topic": "Occupational, Avocational and Residential Risks",
+"t": "Under usual underwriting practice, pilots of scheduled commercial airlines are generally:",
+"o": [
+"Accepted at or near standard rates, with higher ratings reserved for private, student or agricultural pilots",
+"Declined because all flying is hazardous",
+"Accepted only for endowment plans",
+"Rated with a lien of 50% for the whole term"
+],
+"a": 0,
+"e": "Scheduled airline flying has an excellent safety record; private flying, crop dusting and aerobatics carry higher accident risk and are rated by hours flown and aircraft type."
+},
+{
+"n": 21,
+"topic": "Occupational, Avocational and Residential Risks",
+"t": "Which of the following avocations would normally attract an extra premium or exclusion for a life proposer?",
+"o": [
+"Jogging in a city park",
+"Scuba diving to depths beyond recreational limits",
+"Playing chess in tournaments",
+"Collecting postage stamps"
+],
+"a": 1,
+"e": "Hazardous avocations such as deep diving, mountaineering, motor racing and skydiving are rated by frequency and level; ordinary recreational activities are not."
+},
+{
+"n": 22,
+"topic": "Reinsurance",
+"t": "In reinsurance terminology, the insurer transferring part of its risk is called the:",
+"o": [
+"Retrocessionaire",
+"Nominee",
+"Assignee",
+"Cedant (ceding company)"
+],
+"a": 3,
+"e": "The cedant cedes risk to the reinsurer; a reinsurer passing on risk further is a retrocedant and the recipient a retrocessionaire."
+},
+{
+"n": 23,
+"topic": "Reinsurance",
+"t": "The 'retention limit' of a life insurer is:",
+"o": [
+"The maximum sum assured on a single life that the insurer keeps for its own account",
+"The minimum premium the insurer must collect",
+"The amount the reinsurer refuses to accept",
+"The reserve held for each policy"
+],
+"a": 0,
+"e": "Retention depends on capital, portfolio size and risk appetite; amounts above retention are reinsured."
+},
+{
+"n": 24,
+"topic": "Reinsurance",
+"t": "The main difference between treaty and facultative reinsurance is that:",
+"o": [
+"Treaty reinsurance is used only for general insurance",
+"Treaty reinsurance covers risks automatically within agreed limits, whereas facultative reinsurance is negotiated case by case",
+"Treaty reinsurance requires IRDAI approval for each case",
+"Facultative reinsurance cannot be used for substandard lives"
+],
+"a": 1,
+"e": "Facultative cover is sought for individual risks outside the treaty (large or heavily rated); the reinsurer may accept or decline each case."
+},
+{
+"n": 25,
+"topic": "Reinsurance",
+"t": "An insurer has a retention of ₹25 lakh and a four-line surplus treaty. A proposal for ₹2 crore is received. The amount requiring facultative placement is:",
+"o": [
+"₹1.75 crore",
+"₹1 crore",
+"₹25 lakh",
+"₹75 lakh"
+],
+"a": 3,
+"e": "Treaty capacity = retention + 4 lines = ₹25 lakh + ₹1 crore = ₹1.25 crore; the balance ₹2 crore - ₹1.25 crore = ₹75 lakh needs facultative cover."
+},
+{
+"n": 26,
+"topic": "Blood Disorders",
+"t": "According to WHO criteria, anaemia in an adult male is defined as a haemoglobin level below:",
+"o": [
+"15 g/dl",
+"11 g/dl",
+"13 g/dl",
+"10 g/dl"
+],
+"a": 2,
+"e": "WHO thresholds are 13 g/dl for men and 12 g/dl for non-pregnant women."
+},
+{
+"n": 27,
+"topic": "Diabetes Mellitus",
+"t": "An HbA1c of 7% corresponds approximately to an estimated average glucose of:",
+"o": [
+"200 mg/dl",
+"154 mg/dl",
+"100 mg/dl",
+"126 mg/dl"
+],
+"a": 1,
+"e": "★ Key fact (repeated across the mocks of this paper). Estimated average glucose (mg/dl) = 28.7 × HbA1c - 46.7; for 7% this gives about 154 mg/dl.",
+"r": "key"
+},
+{
+"n": 28,
+"topic": "Blood Disorders",
+"t": "A proposer is found to have thalassaemia minor (trait) with mild anaemia and no symptoms. The usual underwriting decision is:",
+"o": [
+"Standard acceptance, as the trait does not significantly affect life expectancy",
+"Heavy extra premium of +200%",
+"Decline, since thalassaemia is fatal",
+"Postpone until bone marrow transplant"
+],
+"a": 0,
+"e": "Thalassaemia minor is a benign carrier state; thalassaemia major, which needs regular transfusions, is heavily rated or declined."
+},
+{
+"n": 29,
+"topic": "Nervous System",
+"t": "The most important factors in underwriting a proposer with epilepsy are:",
+"o": [
+"Blood group and height",
+"Income, occupation and sum assured only",
+"The number of siblings",
+"Type of seizure, frequency, time since the last seizure and compliance with medication"
+],
+"a": 3,
+"e": "Well-controlled epilepsy with no seizures for some years can be near standard; frequent or recent seizures are rated heavily because of accident risk."
+},
+{
+"n": 30,
+"topic": "Nervous System",
+"t": "A 35-year-old with generalised tonic-clonic epilepsy has been seizure-free for five years on regular medication. The likely underwriting decision is:",
+"o": [
+"Heavy extra of +300%",
+"Postpone until he stops medication",
+"Standard or a small extra for the life cover, with care regarding accident riders",
+"Decline because epilepsy is uninsurable"
+],
+"a": 2,
+"e": "Long seizure-free periods with compliance indicate a controlled condition with little extra mortality; recently diagnosed or poorly controlled cases are rated or postponed."
+},
+{
+"n": 31,
+"topic": "Diabetes Mellitus",
+"t": "Diabetes mellitus is diagnosed when fasting plasma glucose is at or above:",
+"o": [
+"126 mg/dl",
+"100 mg/dl",
+"200 mg/dl",
+"140 mg/dl"
+],
+"a": 0,
+"e": "Diagnostic criteria: fasting ≥126 mg/dl, 2-hour post-load ≥200 mg/dl, HbA1c ≥6.5%, or random ≥200 mg/dl with symptoms."
+},
+{
+"n": 32,
+"topic": "Diabetes Mellitus",
+"t": "A fasting plasma glucose of 100-125 mg/dl indicates:",
+"o": [
+"Established diabetes",
+"Hypoglycaemia",
+"Impaired fasting glucose (prediabetes)",
+"Normal glucose tolerance"
+],
+"a": 2,
+"e": "Impaired fasting glucose (100-125 mg/dl) and HbA1c of 5.7-6.4% define prediabetes, which carries higher risk of future diabetes and cardiovascular disease."
+},
+{
+"n": 33,
+"topic": "Diabetes Mellitus",
+"t": "Type 1 diabetes differs from Type 2 in that Type 1:",
+"o": [
+"Is caused mainly by obesity in middle age",
+"Accounts for about 90% of all diabetics",
+"Results from autoimmune destruction of insulin-producing cells, usually begins in youth and always requires insulin",
+"Can be controlled by diet alone in most cases"
+],
+"a": 2,
+"e": "Type 2, linked to insulin resistance and obesity, accounts for about 90% of cases; Type 1 is insulin-dependent from diagnosis and is rated more heavily because of earlier onset."
+},
+{
+"n": 34,
+"topic": "Thyroid Diseases",
+"t": "In primary hypothyroidism, the typical thyroid function test pattern is:",
+"o": [
+"Low TSH with low T4",
+"High TSH with low T4",
+"Normal TSH with high T4",
+"Low TSH with high T3 and T4"
+],
+"a": 1,
+"e": "Failing thyroid output causes the pituitary to raise TSH; the pattern is reversed in hyperthyroidism."
+},
+{
+"topic": "Insurance Act 1938 – key sections",
+"t": "Under Section 45 of the Insurance Act 1938, a life insurance policy cannot be called in question on any ground after how many years from the date of issue, revival or rider addition, whichever is later?",
+"o": [
+"Two years",
+"Three years",
+"Five years",
+"One year"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). The 2015 amendment made the three-year bar absolute: after three years no policy may be questioned on any ground, including fraud.",
+"r": "core",
+"n": 35
+},
+{
+"n": 36,
+"topic": "Thyroid Diseases",
+"t": "Graves' disease is a form of:",
+"o": [
+"Thyroid cancer",
+"Autoimmune hyperthyroidism, often with goitre and eye signs (exophthalmos)",
+"Hypothyroidism caused by iodine deficiency",
+"Infection of the thyroid gland"
+],
+"a": 1,
+"e": "Graves' disease causes thyrotoxicosis with weight loss, tremor, tachycardia and bulging eyes; treatment is antithyroid drugs, radioactive iodine or surgery."
+},
+{
+"n": 37,
+"topic": "Urinary System",
+"t": "Persistent proteinuria (albumin in urine) found at a medical examination is significant because it may indicate:",
+"o": [
+"A healthy high-protein diet",
+"Good hydration",
+"Excess vitamin intake",
+"Underlying kidney disease such as glomerulonephritis, diabetic or hypertensive nephropathy"
+],
+"a": 3,
+"e": "Transient proteinuria after fever or exercise is benign, but persistent proteinuria requires quantification and renal evaluation before acceptance."
+},
+{
+"n": 38,
+"topic": "Urinary System",
+"t": "Painless haematuria in a 55-year-old male smoker should prompt the underwriter to:",
+"o": [
+"Postpone and require urological investigation, since bladder or kidney cancer must be excluded",
+"Accept with a flat extra",
+"Treat it as a sign of good kidney function",
+"Accept at standard rates as haematuria is common"
+],
+"a": 0,
+"e": "Painless haematuria in older smokers is a classic warning sign of urinary tract malignancy; stones and infection are other causes."
+},
+{
+"n": 39,
+"topic": "The Respiratory System",
+"t": "A 30-year-old with mild intermittent asthma, using an inhaler occasionally with no hospitalisation, is usually underwritten as:",
+"o": [
+"Standard or a small extra",
+"Decline",
+"+200% extra",
+"Postpone until asthma resolves"
+],
+"a": 0,
+"e": "Mild, well-controlled asthma carries negligible extra mortality; severe asthma with hospital admissions, steroid dependence or ICU care is rated significantly."
+},
+{
+"n": 40,
+"topic": "The Respiratory System",
+"t": "Chronic obstructive pulmonary disease (COPD) is diagnosed on spirometry when the post-bronchodilator FEV1/FVC ratio is less than:",
+"o": [
+"0.70",
+"0.50",
+"1.00",
+"0.90"
+],
+"a": 0,
+"e": "An FEV1/FVC ratio below 0.70 indicates airflow obstruction; severity is graded by FEV1 as a percentage of predicted."
+},
+{
+"n": 41,
+"topic": "Gastrointestinal (Digestive) System",
+"t": "A proposer had a duodenal ulcer treated with H. pylori eradication therapy two years ago, with no recurrence or complications. The usual decision is:",
+"o": [
+"+150% extra",
+"Postpone 5 years",
+"Standard",
+"Decline"
+],
+"a": 2,
+"e": "Uncomplicated peptic ulcer disease cured by eradication therapy has no mortality significance; bleeding or perforation history would require evaluation."
+},
+{
+"n": 42,
+"topic": "Gastrointestinal (Digestive) System",
+"t": "A positive HBsAg test on a proposer's blood report indicates:",
+"o": [
+"Alcoholic liver disease",
+"Current hepatitis B infection (acute or chronic carrier state)",
+"Hepatitis C infection",
+"Immunity due to vaccination"
+],
+"a": 1,
+"e": "HBsAg is the surface antigen of hepatitis B; anti-HBs antibody alone indicates immunity from vaccination or past resolved infection."
+},
+{
+"topic": "Insurance Act 1938 – key sections",
+"t": "Section 41 of the Insurance Act 1938 prohibits:",
+"o": [
+"Assignment of a life policy",
+"Payment of any rebate of premium or commission as an inducement to buy insurance",
+"Nomination by a minor",
+"Issue of a policy without a medical examination"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). Section 41 bars rebating; contravention attracts a penalty of up to ₹10 lakh.",
+"r": "core",
+"n": 43
+},
+{
+"n": 44,
+"topic": "Cardiovascular System",
+"t": "Hypertension is conventionally diagnosed when repeated blood pressure readings are at or above:",
+"o": [
+"110/70 mmHg",
+"120/80 mmHg",
+"160/100 mmHg",
+"140/90 mmHg"
+],
+"a": 3,
+"e": "Readings of 140/90 or more on repeated occasions define hypertension; severity grading and treatment response determine the rating."
+},
+{
+"n": 45,
+"topic": "Cardiovascular System",
+"t": "A 40-year-old proposer with BP of 150/95 on two readings, not on treatment and with no other findings, would usually be:",
+"o": [
+"Accepted at preferred rates",
+"Rated with a mild extra, or asked for a period of monitoring/treatment and evaluation",
+"Declined permanently",
+"Postponed for 10 years"
+],
+"a": 1,
+"e": "Mild untreated hypertension carries some extra mortality; many insurers rate or require evidence of control before offering standard terms."
+},
+{
+"n": 46,
+"topic": "Cardiovascular System",
+"t": "Which lipid finding is protective against coronary artery disease?",
+"o": [
+"High triglycerides",
+"High total cholesterol",
+"High LDL cholesterol",
+"High HDL cholesterol"
+],
+"a": 3,
+"e": "HDL removes cholesterol from arterial walls; LDL, triglycerides and total cholesterol are adverse factors."
+},
+{
+"n": 47,
+"topic": "Cardiovascular System",
+"t": "A newly discovered left bundle branch block (LBBB) on a routine ECG is:",
+"o": [
+"Evidence of diabetes",
+"Significant, as it often indicates underlying heart disease and requires echocardiography",
+"Always a benign normal variant",
+"A sign of good athletic fitness"
+],
+"a": 1,
+"e": "LBBB is usually associated with structural heart disease, unlike right bundle branch block which is often benign in young healthy persons."
+},
+{
+"n": 48,
+"topic": "Special Senses: Disorders of the Eyes, Ears and Nose",
+"t": "Glaucoma is a condition in which:",
+"o": [
+"Raised intraocular pressure damages the optic nerve, leading to progressive loss of vision",
+"The retina detaches from the back of the eye",
+"The ear drum is perforated",
+"The lens of the eye becomes opaque"
+],
+"a": 0,
+"e": "Controlled glaucoma has no mortality significance and is standard; the concern is for disability and accident riders in advanced cases."
+},
+{
+"n": 49,
+"topic": "Special Senses: Disorders of the Eyes, Ears and Nose",
+"t": "A proposer who has had cataract surgery in both eyes with good vision is usually underwritten as:",
+"o": [
+"Decline",
+"Postpone 1 year",
+"Standard",
+"+50% extra"
+],
+"a": 2,
+"e": "Cataract is opacity of the lens, common with age; surgery restores vision and carries no mortality implications."
+},
+{
+"n": 50,
+"topic": "Special Senses: Disorders of the Eyes, Ears and Nose",
+"t": "Diabetic retinopathy found at the eye examination of a diabetic proposer should be interpreted as:",
+"o": [
+"A purely local eye problem with no effect on the rating",
+"An indication for an aviation exclusion",
+"Evidence of microvascular complications of diabetes, worsening the rating for the diabetes itself",
+"A sign of good diabetic control"
+],
+"a": 2,
+"e": "Retinopathy reflects duration and poor control, and usually accompanies nephropathy and higher cardiovascular risk."
+}
+]

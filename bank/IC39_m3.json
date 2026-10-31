@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Indian Insurance Industry – Overview",
+"t": "Section 64VB of the Insurance Act, 1938 is relevant to fraud prevention because it requires that:",
+"o": [
+"All agents are licensed by IRDAI",
+"Policies are issued only in electronic form",
+"Every claim above ₹1 lakh is surveyed",
+"No risk is assumed by an insurer unless the premium is received in advance or guaranteed in the prescribed manner"
+],
+"a": 3,
+"e": "Section 64VB prohibits assumption of risk without prior receipt of premium, which removes the scope for intermediaries to issue cover and collect premium later (or never), a classic source of premium diversion and backdating frauds."
+},
+{
+"n": 2,
+"topic": "Indian Insurance Industry – Overview",
+"t": "The foreign direct investment limit in Indian insurance companies was raised to 74% in which year?",
+"o": [
+"2015",
+"2008",
+"2000",
+"2021"
+],
+"a": 3,
+"e": "The Insurance (Amendment) Act, 2021 raised the FDI cap from 49% (set in 2015) to 74%. The original 2000 opening permitted 26%."
+},
+{
+"n": 3,
+"topic": "Indian Insurance Industry – Overview",
+"t": "Which of the following is the correct description of 'Bima Sugam' promoted by IRDAI?",
+"o": [
+"A fraud repository for life insurers",
+"A new reinsurance company",
+"A digital marketplace/platform for buying, servicing and claiming on insurance policies across insurers",
+"A government-run crop insurance scheme"
+],
+"a": 2,
+"e": "Bima Sugam is envisaged as a unified digital platform (part of the 'Bima Trinity' with Bima Vistaar and Bima Vahak) to improve access and transparency; shared digital records on such platforms also help in detecting duplicate policies."
+},
+{
+"n": 4,
+"topic": "Insurance Frauds",
+"t": "Which statement correctly distinguishes fraud from error in claims handling?",
+"o": [
+"Fraud can be committed only by outsiders, error only by employees",
+"Fraud involves intentional deception for gain, whereas error is an unintentional mistake",
+"Error is always more costly than fraud",
+"Both are treated identically under criminal law"
+],
+"a": 1,
+"e": "Intent to deceive is the defining element of fraud; an honest mistake in a claim form is not fraud, though it may still be corrected. Criminal liability attaches only to intentional deception."
+},
+{
+"n": 5,
+"topic": "Insurance Frauds",
+"t": "A policyholder reasons, 'I have paid premiums for ten years without any claim, so inflating this claim merely recovers my money.' In the fraud triangle this represents:",
+"o": [
+"Pressure",
+"Rationalisation",
+"Capability",
+"Opportunity"
+],
+"a": 1,
+"e": "Rationalisation is the justification the fraudster uses to reconcile the act with personal values. The 'premiums as savings' belief is one of the most common rationalisations in soft insurance fraud."
+},
+{
+"n": 6,
+"topic": "Insurance Frauds",
+"t": "The cost of insurance fraud is ultimately borne mainly by:",
+"o": [
+"The fraudsters themselves",
+"Honest policyholders, through higher premiums and stricter terms",
+"The government, through tax",
+"Reinsurers alone"
+],
+"a": 1,
+"e": "Fraud losses enter the claims experience on which premiums are priced, so honest customers pay more and face more onerous conditions. This societal cost is the principal justification for fraud-control efforts."
+},
+{
+"n": 7,
+"topic": "Insurance Frauds",
+"t": "Which of the following is NOT typically regarded as a form of intermediary fraud?",
+"o": [
+"A policyholder setting fire to his own warehouse",
+"A broker retaining premium and issuing a fake cover note",
+"A corporate agent selling policies with false promises of guaranteed returns",
+"An agent forging the proposer's signature on the proposal form"
+],
+"a": 0,
+"e": "Arson by the insured is policyholder/claims fraud. Forgery of proposals, premium retention with fake cover notes and mis-selling with false promises are intermediary frauds."
+},
+{
+"n": 8,
+"topic": "Insurance Frauds",
+"t": "'Fee churning' as a type of insurance fraud occurs when:",
+"o": [
+"A series of intermediaries take commissions through reinsurance or other agreements until little premium is left to pay claims",
+"A policyholder renews a policy every year",
+"A TPA charges a processing fee to the insurer",
+"An insurer revises its tariff"
+],
+"a": 0,
+"e": "Fee churning strips the premium through layers of commissions and fees, leaving the ultimate risk carrier under-funded. It is a management/intermediary fraud recognised internationally."
+},
+{
+"n": 9,
+"topic": "Insurance Fraud Fighting – Global Scenario",
+"t": "The Fraud Act 2006 of the United Kingdom created a general offence of fraud that can be committed by:",
+"o": [
+"Only forgery of documents",
+"Only conspiracy with another person",
+"False representation, failing to disclose information, or abuse of position",
+"Only false representation"
+],
+"a": 2,
+"e": "The UK Fraud Act 2006 replaced deception offences with a single offence committed in three ways: false representation, failure to disclose where there is a legal duty, and abuse of position. It is widely used against insurance fraudsters."
+},
+{
+"n": 10,
+"topic": "Insurance Fraud Fighting – Indian Scenario",
+"t": "Under Section 45 of the Insurance Act, 1938, the burden of proving fraud or misstatement in a life insurance policy lies on:",
+"o": [
+"The insurer",
+"The policyholder",
+"The nominee",
+"The agent"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). Section 45 expressly places the onus of disproving the policyholder's bona fides on the insurer, which must establish fraud with evidence; this is why robust investigation and documentation are essential before repudiation.",
+"r": "key"
+},
+{
+"n": 11,
+"topic": "Insurance Fraud Fighting – Global Scenario",
+"t": "The Insurance Fraud Register (IFR) in the UK is:",
+"o": [
+"A register of licensed loss adjusters",
+"An industry-wide database of proven insurance fraudsters that insurers consult at underwriting and claims stages",
+"A list of insurers penalised for fraud",
+"A government list of fraud-prone postcodes"
+],
+"a": 1,
+"e": "The IFR, operated by the Insurance Fraud Bureau, records individuals against whom insurers have established fraud, enabling the industry to decline or scrutinise their future business."
+},
+{
+"n": 12,
+"topic": "Insurance Fraud Fighting – Global Scenario",
+"t": "The International Association of Insurance Supervisors (IAIS) addresses insurance fraud chiefly through:",
+"o": [
+"Direct prosecution of fraudsters",
+"Setting a global fraud tax",
+"Payment of rewards to whistle-blowers",
+"Application papers and Insurance Core Principles requiring supervisors to ensure insurers have measures to deter, prevent, detect and report fraud"
+],
+"a": 3,
+"e": "IAIS, the global standard-setter for insurance supervision, issues Insurance Core Principles and guidance papers on fraud which national regulators like IRDAI adapt into domestic frameworks. It has no prosecutorial powers."
+},
+{
+"n": 13,
+"topic": "Insurance Fraud Fighting – Indian Scenario",
+"t": "Under Section 17 of the Indian Contract Act, 1872, which of the following does NOT amount to 'fraud'?",
+"o": [
+"A promise made without any intention of performing it",
+"An innocent misstatement believed by the maker to be true",
+"Active concealment of a fact by one having knowledge of it",
+"The suggestion, as a fact, of that which is not true by one who does not believe it to be true"
+],
+"a": 1,
+"e": "Fraud under Section 17 requires an intent to deceive; an honest but incorrect statement is misrepresentation under Section 18, not fraud. Both make the contract voidable under Section 19, but only fraud attracts the forfeiture consequences."
+},
+{
+"n": 14,
+"topic": "Insurance Fraud Fighting – Indian Scenario",
+"t": "The Insurance Ombudsman can entertain complaints from individual policyholders where the value of the claim including expenses does not exceed:",
+"o": [
+"₹50 lakh",
+"₹30 lakh",
+"₹20 lakh",
+"₹1 crore"
+],
+"a": 0,
+"e": "The Insurance Ombudsman Rules, 2017 as amended in 2021 fix the monetary limit at ₹50 lakh. A policyholder whose claim is repudiated for alleged fraud may approach the Ombudsman within this limit."
+},
+{
+"n": 15,
+"topic": "Insurance Fraud Fighting – Indian Scenario",
+"t": "Which of the following statements about repudiation of a general insurance policy for fraud at inception is correct?",
+"o": [
+"The insurer must always refund the premium with interest",
+"The policy is voidable at the insurer's option and, where fraud is proved, premium may be forfeited",
+"Fraud at inception has no effect once a claim has been admitted",
+"Repudiation is possible only within one year of inception"
+],
+"a": 1,
+"e": "Under the Contract Act and the principle of utmost good faith, fraud at proposal makes the contract voidable ab initio; unlike innocent misrepresentation, fraud justifies forfeiture of premium. The three-year bar in Section 45 applies only to life insurance."
+},
+{
+"n": 16,
+"topic": "Fire Insurance Frauds",
+"t": "A factory's stock was insured for ₹50 lakh under a fire policy subject to average. At the time of fire the actual stock value was ₹1 crore and the loss was ₹20 lakh. The insurer's liability is:",
+"o": [
+"₹5 lakh",
+"₹10 lakh",
+"₹50 lakh",
+"₹20 lakh"
+],
+"a": 1,
+"e": "Under the condition of average, claim payable = loss × (sum insured ÷ value at risk) = 20 × 50/100 = ₹10 lakh. Insureds sometimes understate the value at risk to defeat average, which is itself a misrepresentation."
+},
+{
+"n": 17,
+"topic": "Health Insurance Frauds",
+"t": "A policy with a room rent limit of ₹5,000 per day has the insured occupy a room costing ₹10,000 per day. Hospital bill (excluding pharmacy) is ₹2,40,000. If the policy applies proportionate deduction, what is the admissible amount for that bill?",
+"o": [
+"₹60,000",
+"₹1,20,000",
+"₹1,80,000",
+"₹2,40,000"
+],
+"a": 1,
+"e": "★ Key fact (repeated across the mocks of this paper). Proportionate deduction reduces associated charges in the ratio of eligible room rent to actual room rent: 5,000/10,000 = 50%, so ₹2,40,000 × 50% = ₹1,20,000. Claimants sometimes mis-declare room category to avoid this deduction.",
+"r": "key"
+},
+{
+"n": 18,
+"topic": "Fire Insurance Frauds",
+"t": "Which of the following behaviours after a fire is a recognised fraud red flag?",
+"o": [
+"Insured lodges an FIR immediately",
+"Insured provides bank statements promptly",
+"Insured has already removed debris and disposed of salvage before the surveyor's visit, preventing verification",
+"Insured allows the surveyor unrestricted access to the site"
+],
+"a": 2,
+"e": "Destroying or disposing of evidence before survey hampers verification of cause and quantum and is a clear red flag; cooperation and prompt documentation are positive indicators."
+},
+{
+"n": 19,
+"topic": "Fire Insurance Frauds",
+"t": "The report of a State Forensic Science Laboratory (FSL) in a fire claim is primarily useful to establish:",
+"o": [
+"The insured's financial position",
+"The value of stock destroyed",
+"The presence of accelerants and the likely cause and origin of the fire",
+"The adequacy of the sum insured"
+],
+"a": 2,
+"e": "FSL analysis of debris samples detects petroleum residues and other accelerants and helps fix the origin, distinguishing accidental from incendiary fires. Quantum is established from records, not forensics."
+},
+{
+"n": 20,
+"topic": "Engineering Insurance Frauds",
+"t": "A Boiler and Pressure Plant policy claim reports an explosion. Investigation shows that the statutory inspection certificate under the Boilers Act had expired a year earlier and the safety valve was found gagged. The insurer should consider:",
+"o": [
+"Only the depreciation deduction",
+"Breach of policy warranties/conditions and possible deliberate misuse, apart from the question of fraud in the claim",
+"Referring the claim to the Boiler Board for payment",
+"Paying the claim since explosion is an insured peril"
+],
+"a": 1,
+"e": "Engineering policies require statutory compliance and reasonable care; a gagged safety valve indicates the explosion was caused by wilful disregard of safety. Such facts affect liability and may indicate intentional loss."
+},
+{
+"n": 21,
+"topic": "Engineering Insurance Frauds",
+"t": "Pre-insurance inspection of machinery under a Machinery Breakdown policy is an important anti-fraud control because it:",
+"o": [
+"Guarantees that no breakdown will occur",
+"Eliminates the need for a surveyor at claim stage",
+"Fixes the premium for ten years",
+"Records the existing condition and pre-existing damage, preventing later claims for old defects"
+],
+"a": 3,
+"e": "Documenting the condition of plant at inception (photographs, serial numbers, defects) prevents insureds from presenting pre-existing damage or already-failed items as new accidental breakdowns."
+},
+{
+"n": 22,
+"topic": "Marine Insurance Frauds",
+"t": "Under the Marine Insurance Act, 1963, in a voyage policy there is an implied warranty that the ship is seaworthy at the commencement of the voyage. Fraudulent shipowners exploit unseaworthy 'rust-bucket' vessels by:",
+"o": [
+"Over-insuring an old vessel and allowing or arranging its loss to collect the hull sum insured",
+"Reducing the hull sum insured each year",
+"Keeping the vessel in dry dock",
+"Declaring the vessel's defects to the insurer"
+],
+"a": 0,
+"e": "Over-insured, poorly maintained vessels that conveniently sink are a long-standing hull fraud pattern. Valuation surveys, class records and port state control history are key underwriting checks."
+},
+{
+"n": 23,
+"topic": "Marine Insurance Frauds",
+"t": "A consignee claims short delivery of 200 cartons out of 1,000. The container's seal was intact on arrival, with the original seal number recorded on the bill of lading. This fact most strongly suggests:",
+"o": [
+"General average sacrifice",
+"Pilferage during the sea voyage",
+"Loss due to perils of the sea",
+"The shortage, if any, occurred before stuffing/sealing at origin or the claim is fabricated, rather than pilferage in transit"
+],
+"a": 3,
+"e": "An intact original seal indicates the container was not opened in transit, so a shortage claim points to short-shipment by the shipper, a false count, or a fictitious claim. Seal verification is therefore a basic marine claim check."
+},
+{
+"n": 24,
+"topic": "Marine Insurance Frauds",
+"t": "Which of the following is correct about the Institute Cargo Clauses (A)?",
+"o": [
+"They cover deliberate damage caused by the assured",
+"They provide 'all risks' cover but still exclude loss caused by wilful misconduct of the assured and inherent vice",
+"They exclude pilferage entirely",
+"They cover only named perils such as fire and collision"
+],
+"a": 1,
+"e": "ICC (A) is the widest cargo cover but the general exclusions (wilful misconduct, ordinary leakage, insufficiency of packing, inherent vice, delay) always apply, so self-inflicted loss can never be recovered."
+},
+{
+"n": 25,
+"topic": "Miscellaneous Insurance Frauds",
+"t": "In a Baggage insurance claim, which of the following is a typical fraud indicator?",
+"o": [
+"Claim lodged with airline's property irregularity report and original purchase invoices",
+"Claim for expensive branded items with no purchase proof, supported only by a vague police complaint",
+"Loss reported at the airport immediately",
+"Claim amount well within the sum insured"
+],
+"a": 1,
+"e": "Inability to prove ownership or value of high-value items, combined with generic police reports, is characteristic of fictitious baggage claims. The other options describe a well-documented genuine claim."
+},
+{
+"n": 26,
+"topic": "Miscellaneous Insurance Frauds",
+"t": "Under a Jewellers' Block policy, which of the following claims would most likely be viewed as fraudulent?",
+"o": [
+"Damage to display window by rioters",
+"Loss during transit by a registered angadia with police report",
+"Loss of jewellery in a fire where the fire brigade report confirms the incident",
+"Stock reported stolen from the shop safe with no forced entry, and the stock register updated only after the loss"
+],
+"a": 3,
+"e": "Absence of forcible entry and back-dated records are the strongest red flags in high-value jewellery theft claims; 'inside job' and inflated stock are common frauds in this class."
+},
+{
+"n": 27,
+"topic": "Insurance Fraud Fighting – Global Scenario",
+"t": "Under US federal law (18 U.S.C. Section 1033), a person convicted of a felony involving dishonesty is prohibited from working in the insurance business without:",
+"o": [
+"Permission of the employer",
+"A court order only",
+"Completion of a training course",
+"Written consent of the state insurance regulator"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). The Violent Crime Control and Law Enforcement Act, 1994 introduced Section 1033, which criminalises certain insurance-related frauds and bars convicted felons from the industry without regulatory consent — an example of statutory 'fit and proper' screening.",
+"r": "key"
+},
+{
+"n": 28,
+"topic": "Motor Insurance Frauds",
+"t": "'Cut-and-shut' fraud in motor insurance refers to:",
+"o": [
+"Cancelling the policy after an accident",
+"Reducing the sum insured mid-term",
+"Welding together the undamaged halves of two written-off vehicles and insuring/selling the result as a sound vehicle",
+"Splitting a claim between two insurers"
+],
+"a": 2,
+"e": "Cut-and-shut vehicles are dangerous and often sold with forged documents; they also feature in total-loss and theft frauds. Chassis number and salvage records help detect them."
+},
+{
+"n": 29,
+"topic": "Motor Insurance Frauds",
+"t": "A car with an Insured Declared Value of ₹8 lakh is damaged. Repair estimate is ₹6.5 lakh and the insurer's surveyor assesses salvage value (wreck) at ₹2.5 lakh if treated as total loss. Under the usual practice that a vehicle is treated as total loss when repair cost exceeds 75% of IDV, the insurer should:",
+"o": [
+"Treat the vehicle as a total loss and pay ₹8 lakh, taking over the salvage (or pay ₹5.5 lakh if the insured retains the wreck)",
+"Reject the claim as repair cost exceeds 75% of IDV",
+"Pay the repair cost of ₹6.5 lakh and leave salvage with the insured",
+"Pay only ₹2.5 lakh"
+],
+"a": 0,
+"e": "₹6.5 lakh is 81% of IDV, so total loss applies: the insurer pays IDV and takes the salvage, or pays IDV less salvage value if the insured keeps the wreck. Salvage fraud arises when the wreck is undervalued or re-sold through collusive buyers."
+},
+{
+"n": 30,
+"topic": "Motor Insurance Frauds",
+"t": "Fake motor third-party insurance certificates are a serious problem mainly because:",
+"o": [
+"They reduce the number of accidents",
+"Uninsured vehicles cause accidents for which victims cannot recover compensation, and insurers face litigation over documents they never issued",
+"They increase the insurer's premium income",
+"They are issued only for two-wheelers"
+],
+"a": 1,
+"e": "Forged TP certificates leave victims without a solvent defendant and insurers defending claims on non-existent policies. QR-coded e-policies and IIB/VAHAN verification are the main counter-measures."
+},
+{
+"n": 31,
+"topic": "Motor Insurance Frauds",
+"t": "In a motor injury claim before the MACT, which of the following is a key investigative check to detect a fabricated accident?",
+"o": [
+"Comparing the time of the FIR, hospital admission register and the police spot panchnama for consistency",
+"Checking the colour of the vehicle",
+"Verifying the insured's income tax return",
+"Checking whether the vehicle has a music system"
+],
+"a": 0,
+"e": "Fabricated accidents typically show inconsistencies between FIR timing, hospital MLC records and spot reports, or FIRs filed long after the alleged accident. These comparisons are standard in TP claim investigation."
+},
+{
+"n": 32,
+"topic": "Health Insurance Frauds",
+"t": "The role of a Third Party Administrator (TPA) in controlling health insurance fraud includes:",
+"o": [
+"Verifying hospitalisation, scrutinising bills against tariffs and flagging suspicious claims to the insurer",
+"Deciding the insurer's premium rates",
+"Underwriting the health policy",
+"Issuing hospital licences"
+],
+"a": 0,
+"e": "TPAs process cashless and reimbursement claims on behalf of insurers and are a first line of detection, though the final claim decision rests with the insurer."
+},
+{
+"n": 33,
+"topic": "Health Insurance Frauds",
+"t": "Which of the following is NOT a typical indicator of a fraudulent health claim?",
+"o": [
+"Hospitalisation at a hospital far from the insured's residence without any apparent reason",
+"Claim submitted through the insurer's online portal with cashless pre-authorisation",
+"Discharge summary and bills in the same handwriting as the claim form",
+"Several claims from the same hospital with identical diagnoses and similar bill amounts for unrelated patients"
+],
+"a": 1,
+"e": "Routine online submission with cashless pre-authorisation is a normal process. Clustering of near-identical claims from one provider, common handwriting and unexplained distant hospitalisation are recognised red flags."
+},
+{
+"topic": "Health insurance norms",
+"t": "The maximum waiting period for pre-existing diseases in health insurance, after the 2024 IRDAI changes, is:",
+"o": [
+"24 months",
+"36 months",
+"48 months",
+"60 months"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). Reduced from 48 to 36 months; the moratorium period after which claims cannot be contested (except fraud) is 60 months.",
+"r": "core",
+"n": 34
+},
+{
+"n": 35,
+"topic": "Health Insurance Frauds",
+"t": "An insured's two insurers each have a health policy of ₹3 lakh. A hospital bill of ₹4 lakh is paid ₹3 lakh by Insurer A. The insured then claims ₹3 lakh from Insurer B, declaring that nothing has been received from any other insurer. The correct position is:",
+"o": [
+"Insurer B is liable only for the balance ₹1 lakh; the false declaration is a fraudulent attempt at double recovery",
+"Insurer B must pay ₹4 lakh",
+"Nothing is payable by Insurer B",
+"Insurer B must pay ₹3 lakh"
+],
+"a": 0,
+"e": "Indemnity limits total recovery to the actual expense of ₹4 lakh, so only ₹1 lakh remains. Concealing the settlement by Insurer A to obtain more is fraud and may forfeit the claim under the policy's fraud clause."
+},
+{
+"n": 36,
+"topic": "Liability Insurance Frauds",
+"t": "Public liability policies are normally issued on a 'claims-made' basis. This fact is relevant to fraud because:",
+"o": [
+"It means the policy pays any claim regardless of dates",
+"Claims-made policies have no retroactive date",
+"It allows the insurer to refuse all late claims automatically",
+"Claimants or insureds may manipulate the date of the incident or of the claim to bring it within a policy period that has cover"
+],
+"a": 3,
+"e": "Under claims-made wording, the claim must be first made (and the incident must fall after the retroactive date) during the policy period, which creates an incentive to misstate dates; investigators verify incident dates through independent records."
+},
+{
+"n": 37,
+"topic": "Liability Insurance Frauds",
+"t": "The Public Liability Insurance Act, 1991 requires owners handling hazardous substances to take insurance so that:",
+"o": [
+"Product liability claims are covered",
+"Factories are exempt from pollution laws",
+"Immediate no-fault relief can be paid to victims of accidents involving hazardous substances",
+"Employees receive gratuity"
+],
+"a": 2,
+"e": "The 1991 Act, enacted after the Bhopal gas tragedy, mandates insurance for no-fault relief to victims. Fraud risk includes fictitious or inflated claims by persons who were not actually affected by the accident."
+},
+{
+"n": 38,
+"topic": "Liability Insurance Frauds",
+"t": "Directors' and Officers' (D&O) liability insurance is exposed to fraud when:",
+"o": [
+"The company lists on a stock exchange",
+"A shareholder files a genuine suit for mismanagement",
+"Directors conceal known circumstances or ongoing investigations at proposal stage to obtain cover for anticipated claims",
+"A director retires"
+],
+"a": 2,
+"e": "Non-disclosure of known claims or circumstances when proposing for D&O cover is a material misrepresentation; insurers apply prior-and-pending litigation exclusions and known-circumstances exclusions to counter it."
+},
+{
+"n": 39,
+"topic": "Livestock and Rural Insurances Frauds",
+"t": "In sheep and goat insurance, which of the following practices by an insurer is the MOST effective fraud control?",
+"o": [
+"Tagging and photographing each animal at inception and requiring the tag and veterinary post-mortem certificate at claim",
+"Accepting the owner's declaration of death",
+"Insuring the flock without a head count",
+"Paying claims within 24 hours without inspection"
+],
+"a": 0,
+"e": "Identification at inception (tags, photographs, health certificate) and verification at claim are the core controls against substitution and fictitious animal claims in small-ruminant insurance."
+},
+{
+"n": 40,
+"topic": "Livestock and Rural Insurances Frauds",
+"t": "A weather-index based crop insurance product pays on the basis of:",
+"o": [
+"Crop cutting experiments",
+"The farmer's own report of crop loss",
+"Market price of the crop",
+"Deviation of recorded weather parameters (such as rainfall) at a reference weather station from a pre-defined index, irrespective of actual crop loss"
+],
+"a": 3,
+"e": "Weather index insurance pays when the measured parameter crosses a trigger, reducing moral hazard and claim fraud at farm level, though tampering with weather stations and misreporting of insured area remain risks."
+},
+{
+"n": 41,
+"topic": "Life Insurance Frauds",
+"t": "An agent collects ₹45,000 in cash as annual premium from a policyholder, issues a handwritten receipt and does not deposit the money, letting the policy lapse. Which of the following is correct?",
+"o": [
+"The agent is not answerable as the policy had lapsed",
+"The policy automatically remains in force without premium",
+"The policyholder has no remedy since cash was paid",
+"This is premium misappropriation by an intermediary; the insurer may be held liable to the policyholder for acts of its agent while it proceeds against the agent"
+],
+"a": 3,
+"e": "Premium misappropriation is a common intermediary fraud; under agency law and the Insurance Act, insurers are generally responsible for their agents' conduct in the course of business. Insurers therefore insist on official receipts and digital payment."
+},
+{
+"n": 42,
+"topic": "Life Insurance Frauds",
+"t": "Most Indian life policies exclude death by suicide within how many months from the date of commencement or revival, generally returning only a portion of premiums or surrender value?",
+"o": [
+"12 months",
+"24 months",
+"60 months",
+"3 months"
+],
+"a": 0,
+"e": "The suicide clause normally applies for 12 months from commencement or revival. Fraud may involve disguising suicide as accident, especially where accidental death benefit riders double the payout."
+},
+{
+"topic": "Intermediaries",
+"t": "The qualifying examination for an individual insurance agent conducted by the Insurance Institute of India is:",
+"o": [
+"IC-01",
+"IC-38",
+"IC-14",
+"IC-33"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). IC-38 is the agents' pre-recruitment examination; IC-01/02/11/14 are Licentiate papers.",
+"r": "core",
+"n": 43
+},
+{
+"n": 44,
+"topic": "Life Insurance Frauds",
+"t": "A nominee submits a death claim with a death certificate, but field investigation finds the 'deceased' alive and the certificate obtained from a municipal office through a forged hospital report. Which statement is correct?",
+"o": [
+"This is a fabricated death claim; the insurer should repudiate, recover any amount paid and lodge a criminal complaint for cheating and forgery",
+"The insurer can only cancel the policy going forward",
+"The claim must be paid because a death certificate was issued by a government office",
+"The matter can be dealt with only by the Insurance Ombudsman"
+],
+"a": 0,
+"e": "Faked deaths with fraudulently obtained certificates are hard fraud involving cheating (BNS s.318) and forgery; the insurer should repudiate, report to police and share the fraud information through industry mechanisms."
+},
+{
+"n": 45,
+"topic": "Life Insurance Frauds",
+"t": "'Backdating' of a life policy to an earlier date is permitted within limits to obtain a lower age-based premium. It becomes a fraud when:",
+"o": [
+"The premium is paid by cheque",
+"It is used to bring a death or illness that has already occurred within the policy period, or to defeat waiting periods",
+"The backdating is within the permitted period and interest is paid",
+"The customer signs a backdating request"
+],
+"a": 1,
+"e": "Legitimate backdating is a priced underwriting concession; backdating to cover an event that has already happened is deception at inception and is treated as fraud."
+},
+{
+"n": 46,
+"topic": "Investigation of Losses in Insurance",
+"t": "A well-written claim investigation report should primarily contain:",
+"o": [
+"A copy of the policy wording",
+"The investigator's personal opinion about the claimant's character",
+"Facts verified, evidence collected with sources, discrepancies found and the investigator's reasoned findings, without emotive or speculative language",
+"Only a recommendation to pay or reject"
+],
+"a": 2,
+"e": "Reports must be factual, evidence-based and objective so that they withstand scrutiny before the Ombudsman, consumer forums or courts; speculation and character remarks undermine credibility."
+},
+{
+"n": 47,
+"topic": "Investigation of Losses in Insurance",
+"t": "When the authenticity of signatures on a proposal form is disputed, the investigator should obtain the opinion of:",
+"o": [
+"A handwriting (questioned document) expert, using admitted specimen signatures for comparison",
+"The bank manager only",
+"The claimant's neighbour",
+"The agent who sold the policy"
+],
+"a": 0,
+"e": "Questioned-document examination compares disputed signatures with admitted specimens using scientific methods; expert opinion is admissible evidence, whereas interested parties' views are not reliable."
+},
+{
+"n": 48,
+"topic": "Investigation of Losses in Insurance",
+"t": "Benford's Law is used in claims data analytics to:",
+"o": [
+"Calculate the premium for a policy",
+"Estimate the IBNR reserve",
+"Detect fabricated figures by comparing the distribution of leading digits in claim amounts with the expected natural distribution",
+"Determine the depreciation on a vehicle"
+],
+"a": 2,
+"e": "In naturally occurring data, the digit 1 leads about 30% of the time and 9 under 5%; invented invoice or bill figures often deviate from this pattern, flagging claims for closer review."
+},
+{
+"n": 49,
+"topic": "Money Laundering in Insurance",
+"t": "The Financial Action Task Force (FATF) is:",
+"o": [
+"An inter-governmental body that sets international standards (the 40 Recommendations) against money laundering and terrorist financing",
+"A United Nations court",
+"An association of life insurers",
+"India's financial intelligence unit"
+],
+"a": 0,
+"e": "FATF, set up by the G7 in 1989, issues the Recommendations and mutual evaluations; India became a full member in 2010. IRDAI's AML/CFT guidelines implement these standards for insurers."
+},
+{
+"n": 50,
+"topic": "Money Laundering in Insurance",
+"t": "Under IRDAI's AML/CFT guidelines, a 'Politically Exposed Person' (PEP) proposing for a large life policy must be subjected to:",
+"o": [
+"No KYC, since public figures are exempt",
+"Automatic rejection of the proposal",
+"Only Aadhaar verification",
+"Enhanced due diligence, including senior management approval and establishing the source of funds"
+],
+"a": 3,
+"e": "PEPs and their family members/close associates are higher-risk customers under FATF standards and IRDAI guidelines, requiring enhanced due diligence and ongoing monitoring, not exemption or blanket rejection."
+}
+]

@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Introduction to Liability Insurance",
+"t": "Which of the following is NOT a liability insurance policy?",
+"o": [
+"Fire floater policy on stocks",
+"Public liability policy",
+"Professional indemnity policy",
+"Directors' and officers' liability policy"
+],
+"a": 0,
+"e": "A fire floater insures the insured's own stocks against fire — a first-party property cover; the other three indemnify legal liability to others."
+},
+{
+"n": 2,
+"topic": "Law of Torts and Legal Liability",
+"t": "To succeed in an action for negligence, the plaintiff must establish:",
+"o": [
+"Only that the defendant owed a duty of care",
+"Only that damage was suffered",
+"A duty of care, its breach, and resulting damage",
+"That the defendant intended to cause harm"
+],
+"a": 2,
+"e": "All three elements are necessary; intention is not required, as negligence is a failure to take reasonable care."
+},
+{
+"n": 3,
+"topic": "Statutory Liability in India",
+"t": "The maximum Any One Accident (AOA) limit available under the Public Liability Insurance Act policy is:",
+"o": [
+"₹1 crore",
+"₹5 crore",
+"₹15 crore",
+"₹50 crore"
+],
+"a": 1,
+"e": "The AOA limit equals the owner's paid-up capital subject to a maximum of ₹5 crore, with the AOY limit at three times the AOA (maximum ₹15 crore)."
+},
+{
+"n": 4,
+"topic": "Employers' Liability and Employees' Compensation Insurance",
+"t": "The minimum compensation payable for death of an employee under the Employees' Compensation Act, 1923 (as amended in 2009) is:",
+"o": [
+"₹80,000",
+"₹1,00,000",
+"₹1,20,000",
+"₹1,40,000"
+],
+"a": 2,
+"e": "Death compensation is 50% of wages × relevant factor or ₹1,20,000, whichever is more; the corresponding minimum for permanent total disablement is ₹1,40,000."
+},
+{
+"n": 5,
+"topic": "Directors' and Officers' Liability Insurance",
+"t": "D&O liability policies are generally written on:",
+"o": [
+"A claims-made basis",
+"An occurrence basis",
+"A losses-occurring basis",
+"An indemnity-on-occurrence basis"
+],
+"a": 0,
+"e": "Claims-made wording lets the insurer close its exposure at expiry; the policy covers claims first made during the period for wrongful acts after the retroactive/continuity date."
+},
+{
+"n": 6,
+"topic": "Cyber and Other Specialised Liability Covers",
+"t": "'Cyber extortion' cover under a cyber policy indemnifies:",
+"o": [
+"Ransom payments and negotiation costs arising from a ransomware or extortion threat",
+"Liability to customers for data loss",
+"Business interruption loss",
+"Media liability"
+],
+"a": 0,
+"e": "Extortion cover is a first-party section responding to credible threats to damage systems or release data unless payment is made."
+},
+{
+"n": 7,
+"topic": "Underwriting and Claims in Liability Insurance",
+"t": "Where two liability policies cover the same claim, the principle of contribution requires that:",
+"o": [
+"The overlap is ignored",
+"The policy issued first pays the whole claim",
+"The insured chooses which policy pays",
+"The insurers share the loss rateably between them"
+],
+"a": 3,
+"e": "Contribution prevents the insured recovering twice; most liability policies contain a non-contribution or 'other insurance' clause to regulate the sharing."
+},
+{
+"n": 8,
+"topic": "Reinsurance of Liability Business",
+"t": "A quota share treaty is one where:",
+"o": [
+"Losses above a retention are paid by the reinsurer",
+"The cedant cedes a fixed percentage of every risk and premium within the treaty",
+"The annual loss ratio is protected",
+"Losses from one event across policies are protected"
+],
+"a": 1,
+"e": "Quota share is proportional: premium and losses are shared in the same fixed ratio, and the reinsurer pays a commission."
+},
+{
+"n": 9,
+"topic": "Law of Torts and Legal Liability",
+"t": "Defences available to a defendant under the strict liability rule of Rylands v Fletcher include:",
+"o": [
+"None whatsoever",
+"Act of God, act of a stranger, default of the plaintiff, statutory authority and consent of the plaintiff",
+"Only proof of absence of negligence",
+"Only volenti non fit injuria"
+],
+"a": 1,
+"e": "These exceptions distinguish strict liability from the absolute liability of M.C. Mehta, under which no exceptions are allowed."
+},
+{
+"n": 10,
+"topic": "Statutory Liability in India",
+"t": "Under Section 3 of the Public Liability Insurance Act, 1991, a claimant seeking relief is NOT required to prove:",
+"o": [
+"Any wrongful act, neglect or default of the owner",
+"That an accident occurred",
+"That death or injury resulted",
+"That a hazardous substance was being handled"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). Section 3 imposes no-fault liability on the owner; the claimant must only establish the accident involving the hazardous substance and the resulting injury or damage.",
+"r": "key"
+},
+{
+"n": 11,
+"topic": "Statutory Liability in India",
+"t": "Under the Public Liability Insurance Act, 1991, 'owner' means:",
+"o": [
+"Only the occupier of a factory",
+"Only the manufacturer of the hazardous substance",
+"Only the transporter of the hazardous substance",
+"A person who owns, or has control over handling, any hazardous substance at the time of the accident"
+],
+"a": 3,
+"e": "The definition is wide and includes firms, associations and any person in control of handling the substance, so that liability attaches to whoever is in charge."
+},
+{
+"n": 12,
+"topic": "Public Liability Insurance",
+"t": "An industrial public liability policy has an AOA limit of ₹1 crore and a compulsory excess of ₹50,000 per accident. A third-party claim is settled for ₹8 lakh. The insurer pays:",
+"o": [
+"₹7,50,000",
+"₹8,00,000",
+"₹8,50,000",
+"₹7,00,000"
+],
+"a": 0,
+"e": "The excess is deducted from the claim: ₹8,00,000 − ₹50,000 = ₹7,50,000, well within the AOA limit."
+},
+{
+"n": 13,
+"topic": "Products Liability Insurance",
+"t": "A claims-made products liability policy for 2025-26 has a retroactive date of 1 April 2022. A product sold in 2021 injures a user in June 2025 and the claim is made in August 2025. The claim is:",
+"o": [
+"Not covered because the product was sold before the retroactive date",
+"Not covered because the policy is on an occurrence basis",
+"Covered, because the injury occurred after the retroactive date and the claim was made during the policy period",
+"Covered only if the product was sold within the policy period"
+],
+"a": 2,
+"e": "The retroactive date relates to when the injury/damage occurs, not when the product was sold; both conditions of the claims-made trigger are satisfied."
+},
+{
+"n": 14,
+"topic": "Professional Indemnity Insurance",
+"t": "Standard exclusions in a professional indemnity policy include:",
+"o": [
+"Negligent advice",
+"Errors in professional work",
+"Omissions in professional work",
+"Fines, penalties, punitive damages and deliberate dishonest acts"
+],
+"a": 3,
+"e": "Negligence, errors and omissions are the very subject of PI cover; penalties and intentional wrongdoing are uninsurable or against public policy."
+},
+{
+"n": 15,
+"topic": "Employers' Liability and Employees' Compensation Insurance",
+"t": "If an employer fails to pay compensation under the Employees' Compensation Act within one month of it falling due, the Commissioner may direct payment of simple interest at:",
+"o": [
+"6% per annum",
+"9% per annum",
+"12% per annum",
+"18% per annum"
+],
+"a": 2,
+"e": "Section 4A provides for 12% simple interest and, if there is no justification for the delay, an additional penalty of up to 50% of the compensation."
+},
+{
+"n": 16,
+"topic": "Directors' and Officers' Liability Insurance",
+"t": "A 'wrongful act' under a D&O policy is generally defined as:",
+"o": [
+"Any actual or alleged breach of duty, neglect, error, misstatement, misleading statement or omission by a director or officer in that capacity",
+"Only a criminal act",
+"Only an act causing bodily injury",
+"Only a breach of contract"
+],
+"a": 0,
+"e": "The wide definition includes allegations, so that defence costs are triggered even when the claim is ultimately unfounded."
+},
+{
+"n": 17,
+"topic": "Commercial General Liability Policy",
+"t": "A CGL policy has an each-occurrence limit of ₹2 crore and a general aggregate of ₹5 crore. Three covered occurrences in the year produce losses of ₹2.5 crore, ₹1.5 crore and ₹1.8 crore. The insurer pays in total:",
+"o": [
+"₹5.8 crore",
+"₹5 crore",
+"₹5.3 crore",
+"₹4 crore"
+],
+"a": 1,
+"e": "First loss limited to ₹2 cr, second ₹1.5 cr (total ₹3.5 cr), third limited by the remaining aggregate of ₹1.5 cr, giving ₹5 crore in all."
+},
+{
+"n": 18,
+"topic": "Cyber and Other Specialised Liability Covers",
+"t": "Which provision of the Information Technology Act, 2000 makes a body corporate liable to pay compensation for negligence in implementing reasonable security practices for sensitive personal data?",
+"o": [
+"Section 66",
+"Section 72",
+"Section 43A",
+"Section 79"
+],
+"a": 2,
+"e": "Section 43A (inserted in 2008) created civil liability for data breaches, a key statutory basis for cyber liability claims in India."
+},
+{
+"n": 19,
+"topic": "Cyber and Other Specialised Liability Covers",
+"t": "A lift (third party) liability policy covers:",
+"o": [
+"Injury to the lift operator employed by the insured",
+"Third-party bodily injury or property damage arising from the use of passenger lifts in the insured's building",
+"Mechanical breakdown of the lift",
+"Cost of repairing the lift"
+],
+"a": 1,
+"e": "The policy is a specialised public liability cover for lift owners; breakdown is covered by a machinery policy and the operator by an EC policy."
+},
+{
+"n": 20,
+"topic": "Reinsurance of Liability Business",
+"t": "The percentage of obligatory cession to GIC Re applicable to Indian general insurers since financial year 2022-23 is:",
+"o": [
+"5%",
+"10%",
+"4%",
+"20%"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). IRDAI reduced the obligatory cession from 5% to 4% with effect from 1 April 2022, and this level has continued for subsequent years.",
+"r": "key"
+},
+{
+"n": 21,
+"topic": "Underwriting and Claims in Liability Insurance",
+"t": "Which of the following statements about an 'occurrence' basis liability policy is INCORRECT?",
+"o": [
+"It covers injury or damage occurring during the policy period regardless of when the claim is made",
+"It creates a long tail of claims for the insurer",
+"It is generally preferred by insureds",
+"The claim must be made during the policy period"
+],
+"a": 3,
+"e": "The occurrence trigger is the happening of the injury/damage; the claim may come years later, which is the defining feature of this basis."
+},
+{
+"n": 22,
+"topic": "Reinsurance of Liability Business",
+"t": "An excess of loss layer is written as '₹4 crore excess of ₹1 crore'. On a loss of ₹3.5 crore the reinsurer pays:",
+"o": [
+"₹2.5 crore",
+"₹3.5 crore",
+"₹1 crore",
+"₹4 crore"
+],
+"a": 0,
+"e": "The cedant retains the first ₹1 crore; the reinsurer pays the excess up to ₹4 crore, i.e. ₹3.5 cr − ₹1 cr = ₹2.5 crore."
+},
+{
+"n": 23,
+"topic": "Introduction to Liability Insurance",
+"t": "Public liability and other liability rates in India were freed from tariff control with effect from:",
+"o": [
+"1 January 2007",
+"1 April 1994",
+"1 April 2000",
+"1 April 2015"
+],
+"a": 0,
+"e": "IRDAI detariffed general insurance (other than motor TP) from 1 January 2007, allowing insurers to rate liability risks on their own experience."
+},
+{
+"n": 24,
+"topic": "Law of Torts and Legal Liability",
+"t": "The distinction between libel and slander is that:",
+"o": [
+"Libel is spoken and slander is written",
+"Slander is in written form",
+"There is no distinction in law",
+"Libel is defamation in a permanent form (e.g. written), while slander is transient (e.g. spoken)"
+],
+"a": 3,
+"e": "Both are forms of defamation covered under 'personal injury' sections of liability policies, but libel is generally actionable without proof of special damage."
+},
+{
+"n": 25,
+"topic": "Statutory Liability in India",
+"t": "Under Section 164 of the Motor Vehicles Act, 1988 (as amended in 2019), the no-fault compensation payable for death in a motor accident is:",
+"o": [
+"₹2.5 lakh",
+"₹5 lakh",
+"₹1 lakh",
+"₹10 lakh"
+],
+"a": 1,
+"e": "The 2019 amendment fixed no-fault compensation at ₹5 lakh for death and ₹2.5 lakh for grievous hurt, replacing the old Section 140 amounts."
+},
+{
+"n": 26,
+"topic": "Directors' and Officers' Liability Insurance",
+"t": "Section 197(13) of the Companies Act, 2013 provides that the premium paid by a company for D&O insurance:",
+"o": [
+"Is not treated as part of the director's remuneration unless the director is proved guilty of the misconduct insured against",
+"Cannot be paid by the company at all",
+"Is always treated as managerial remuneration",
+"Can be paid only for independent directors"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). The section expressly allows companies to insure KMP against negligence, default, breach of duty etc.; the premium becomes remuneration only if the person is proved guilty.",
+"r": "key"
+},
+{
+"n": 27,
+"topic": "Public Liability Insurance",
+"t": "The default territorial limit of a standard Indian public liability policy is:",
+"o": [
+"Worldwide",
+"Asia",
+"India",
+"Worldwide excluding USA and Canada"
+],
+"a": 2,
+"e": "Cover applies to accidents occurring in India with Indian jurisdiction; wider territorial limits can be granted by endorsement at additional premium."
+},
+{
+"n": 28,
+"topic": "Products Liability Insurance",
+"t": "Liability arising from products that are incorporated into aircraft is, under a standard products liability policy:",
+"o": [
+"Covered as standard",
+"Excluded, given the catastrophic exposure of aviation products",
+"Covered for exports only",
+"Covered subject to a higher excess"
+],
+"a": 1,
+"e": "Aviation products are excluded and must be insured in the specialist aviation market."
+},
+{
+"n": 29,
+"topic": "Professional Indemnity Insurance",
+"t": "A professional indemnity policy for architects and consulting engineers covers:",
+"o": [
+"Cost of rectifying construction defects caused by the contractor",
+"Collapse of a building due to poor workmanship by the builder",
+"Claims arising from the insured's negligent design, specification or supervision causing loss or injury",
+"The insured's loss of fees on a cancelled project"
+],
+"a": 2,
+"e": "The professional's exposure is negligent design or advice; the contractor's workmanship is insured under the contractor's own policies."
+},
+{
+"n": 30,
+"topic": "Employers' Liability and Employees' Compensation Insurance",
+"t": "An employee who is covered under the Employees' State Insurance Act, 1948 suffering an employment injury:",
+"o": [
+"Cannot claim compensation under the Employees' Compensation Act for the same injury, by virtue of Section 53 of the ESI Act",
+"Can claim under both Acts",
+"Can claim only under the EC Act",
+"Has no remedy"
+],
+"a": 0,
+"e": "The ESI scheme provides the benefit, and Section 53 bars the employee from recovering compensation or damages from the employer for the same injury."
+},
+{
+"n": 31,
+"topic": "Directors' and Officers' Liability Insurance",
+"t": "'Insured persons' under a D&O policy typically include:",
+"o": [
+"Shareholders of the company",
+"Statutory auditors of the company",
+"Customers of the company",
+"Past, present and future directors and officers, and often employees acting in a managerial or supervisory capacity"
+],
+"a": 3,
+"e": "Cover follows the individual's capacity as director or officer; auditors and shareholders are potential claimants, not insureds."
+},
+{
+"n": 32,
+"topic": "Commercial General Liability Policy",
+"t": "Which of the following is EXCLUDED under Coverage C (Medical Payments) of the CGL policy?",
+"o": [
+"A visitor injured in the insured's office",
+"A customer injured by a falling shelf in the insured's shop",
+"A member of the public injured on the insured's premises",
+"Injury to the insured's own employees arising out of their employment"
+],
+"a": 3,
+"e": "Medical payments exclude employees (workers' compensation territory), the insured's tenants, and injuries within the products-completed operations hazard."
+},
+{
+"n": 33,
+"topic": "Cyber and Other Specialised Liability Covers",
+"t": "'Notification costs' under a cyber policy are:",
+"o": [
+"Costs of informing affected individuals and providing credit monitoring after a data breach",
+"Loss of income following an outage",
+"Ransom paid to hackers",
+"Damages payable to a regulator"
+],
+"a": 0,
+"e": "Breach response costs — notification, call centres, credit monitoring — are first-party expenses, often the largest element of a breach."
+},
+{
+"topic": "Policyholder protection",
+"t": "An Insurance Ombudsman can entertain a complaint where the value of the claim, including expenses, does not exceed:",
+"o": [
+"₹20 lakh",
+"₹30 lakh",
+"₹50 lakh",
+"₹1 crore"
+],
+"a": 2,
+"e": "★ Core fact (asked across III papers). The limit was raised to ₹50 lakh by the amended Insurance Ombudsman Rules.",
+"r": "core",
+"n": 34
+},
+{
+"n": 35,
+"topic": "Underwriting and Claims in Liability Insurance",
+"t": "On receiving a third-party claim, the insured under a liability policy must:",
+"o": [
+"Admit liability to the claimant promptly",
+"Negotiate and settle the claim directly",
+"Refrain from admitting liability, notify the insurer immediately and co-operate in the defence",
+"Ignore the claim until a court summons arrives"
+],
+"a": 2,
+"e": "Admission or settlement without consent breaches the policy conditions and can prejudice the insurer's defence; control of the claim rests with the insurer."
+},
+{
+"n": 36,
+"topic": "Reinsurance of Liability Business",
+"t": "A surplus treaty is one under which:",
+"o": [
+"Losses above a retention are paid by the reinsurer",
+"The cedant retains a 'line' and cedes multiples of that line up to the treaty capacity",
+"The annual loss ratio is protected",
+"A fixed percentage of every risk is ceded"
+],
+"a": 1,
+"e": "Surplus is proportional but the ceded share varies by risk size, allowing full retention of small risks; it is used less for liability because 'sum insured' is only a limit."
+},
+{
+"n": 37,
+"topic": "Introduction to Liability Insurance",
+"t": "Which of the following cannot be insured under any liability policy?",
+"o": [
+"Liability for negligence",
+"Public liability of a factory",
+"Fines and penalties for criminal offences",
+"Defence costs incurred with the insurer's consent"
+],
+"a": 2,
+"e": "Insuring criminal penalties would be against public policy; liability policies pay civil damages and associated costs only."
+},
+{
+"n": 38,
+"topic": "Law of Torts and Legal Liability",
+"t": "The Fatal Accidents Act, 1855 confers:",
+"o": [
+"Compensation on the employer",
+"Compensation on the employee under statute",
+"Immunity on the wrongdoer",
+"A right of action on the dependants of a person killed by a wrongful act, neglect or default"
+],
+"a": 3,
+"e": "At common law a death gave no cause of action; the 1855 Act lets the spouse, parent and children sue the tortfeasor for their loss."
+},
+{
+"n": 39,
+"topic": "Statutory Liability in India",
+"t": "The Environment (Protection) Act, 1986 was enacted mainly in response to:",
+"o": [
+"The Chernobyl disaster",
+"The Bhopal gas tragedy",
+"The oleum gas leak in Delhi",
+"The Exxon Valdez spill"
+],
+"a": 1,
+"e": "The Act, passed in 1986, gave the Central Government wide powers to regulate hazardous substances after Bhopal; the oleum leak (1985) led to the absolute liability ruling."
+},
+{
+"n": 40,
+"topic": "Public Liability Insurance",
+"t": "Legal costs and expenses incurred by the insured in defending a third-party claim, with the insurer's written consent, are under an Indian public liability policy:",
+"o": [
+"Payable by the insurer within the limit of indemnity",
+"Payable without limit",
+"Not payable at all",
+"Payable only in criminal proceedings"
+],
+"a": 0,
+"e": "Defence costs are reimbursed but form part of the AOA/AOY limits (costs inclusive); criminal defence costs are a separate extension."
+},
+{
+"n": 41,
+"topic": "Products Liability Insurance",
+"t": "A products liability policy is rated at ₹0.50 per mille of turnover. The insured's annual turnover is ₹200 crore. The basic premium is:",
+"o": [
+"₹10,00,000",
+"₹1,00,000",
+"₹1,00,00,000",
+"₹50,00,000"
+],
+"a": 0,
+"e": "₹200 crore × 0.50/1000 = ₹2,00,00,00,000 × 0.0005 = ₹10,00,000."
+},
+{
+"n": 42,
+"topic": "Professional Indemnity Insurance",
+"t": "A chartered accountant gives incorrect tax advice, and the client is required to pay ₹8 lakh in additional tax and interest. The client sues the CA. Under the CA's professional indemnity policy this claim is:",
+"o": [
+"Not covered, since the client's loss is in the nature of tax",
+"Covered, as it is the client's financial loss caused by the insured's negligent professional advice",
+"Covered only if the CA is prosecuted",
+"Not covered, since PI excludes pure economic loss"
+],
+"a": 1,
+"e": "Pure financial loss to a client from negligent advice is precisely what PI insures; only fines on the insured himself would be excluded."
+},
+{
+"n": 43,
+"topic": "Directors' and Officers' Liability Insurance",
+"t": "The 'allocation' clause in a D&O policy deals with:",
+"o": [
+"Allocation of the premium among directors",
+"Allocation of defence counsel",
+"Apportioning loss between covered and non-covered parties or matters when a claim involves both",
+"Allocation of the limit by territory"
+],
+"a": 2,
+"e": "When a suit names the company (not covered) and its directors (covered), or mixes covered and excluded allegations, the clause fixes how loss and costs are shared."
+},
+{
+"n": 44,
+"topic": "Commercial General Liability Policy",
+"t": "The claims-made version of the CGL form differs from the occurrence version in that it:",
+"o": [
+"Has no limits",
+"Contains a retroactive date and provisions for an extended reporting period",
+"Covers no bodily injury",
+"Is triggered by the occurrence date"
+],
+"a": 1,
+"e": "The claims-made form was introduced in 1986 to control long-tail exposure; the retroactive date and ERP are its distinguishing features."
+},
+{
+"topic": "Policyholder protection",
+"t": "The IRDAI portal through which a policyholder can escalate an unresolved grievance against an insurer is:",
+"o": [
+"Bima Sugam",
+"Bima Bharosa",
+"Bima Vahak",
+"Bima Vistaar"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). Bima Bharosa (formerly IGMS) is the grievance portal; Bima Sugam is the marketplace, Bima Vahak the women-led distribution channel and Bima Vistaar the combined rural product.",
+"r": "core",
+"n": 45
+},
+{
+"n": 46,
+"topic": "Cyber and Other Specialised Liability Covers",
+"t": "'Media liability' in a cyber policy covers:",
+"o": [
+"Liability for defamation, infringement of intellectual property or invasion of privacy through the insured's online content",
+"Loss of computer hardware",
+"Business interruption",
+"Ransom payments"
+],
+"a": 0,
+"e": "Website, social media and digital advertising content create third-party exposure similar to 'personal and advertising injury'."
+},
+{
+"n": 47,
+"topic": "Cyber and Other Specialised Liability Covers",
+"t": "A carriers' legal liability policy generally EXCLUDES:",
+"o": [
+"Loss of goods by fire during transit",
+"Damage to goods in a collision",
+"Loss caused by delay, inherent vice, improper packing, and loss of cash or valuables",
+"Theft of goods from the vehicle"
+],
+"a": 2,
+"e": "The policy covers the carrier's legal liability for physical loss from transit accidents; delay and inherent vice are not insurable transit perils and valuables are excluded."
+},
+{
+"n": 48,
+"topic": "Underwriting and Claims in Liability Insurance",
+"t": "A 'hold harmless' clause in a commercial contract is:",
+"o": [
+"An insurer's promise to defend",
+"A right of subrogation",
+"A contribution condition",
+"A contractual assumption of another party's liability, which liability policies generally exclude unless it is an 'insured contract' or specifically endorsed"
+],
+"a": 3,
+"e": "Underwriters review contracts because such indemnities can transfer liability the insured would not otherwise have; the contractual liability exclusion addresses this."
+},
+{
+"n": 49,
+"topic": "Reinsurance of Liability Business",
+"t": "Reinsurers favour claims-made wordings for liability business because they:",
+"o": [
+"Generate higher premium",
+"Produce more claims",
+"Have no effect on reinsurance",
+"Reduce IBNR uncertainty by limiting the period within which claims can be reported"
+],
+"a": 3,
+"e": "With a claims-made trigger, the exposure of a treaty year is largely known at expiry, improving reserving and pricing."
+},
+{
+"n": 50,
+"topic": "Introduction to Liability Insurance",
+"t": "'Punitive' or 'exemplary' damages are:",
+"o": [
+"Awarded to compensate the plaintiff for actual loss",
+"Awarded to cover legal costs",
+"Awarded to punish the defendant for egregious conduct, and are generally excluded from liability policies",
+"Nominal sums awarded when no loss is proved"
+],
+"a": 2,
+"e": "Punitive damages go beyond compensation; most Indian liability policies exclude them, and in many jurisdictions insuring them is against public policy."
+}
+]

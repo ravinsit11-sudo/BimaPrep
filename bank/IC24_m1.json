@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Sources of Law",
+"t": "Under the Seventh Schedule to the Constitution of India, the subject 'Insurance' is placed in which List?",
+"o": [
+"Concurrent List (List III)",
+"Union List (List I)",
+"State List (List II)",
+"It is a residuary subject outside all three Lists"
+],
+"a": 1,
+"e": "Insurance is Entry 47 of the Union List, so only Parliament can legislate on insurance; this is why the Insurance Act, 1938 and the IRDA Act, 1999 are Central enactments."
+},
+{
+"n": 2,
+"topic": "Sources of Law",
+"t": "The law declared by the Supreme Court of India is binding on all courts within the territory of India by virtue of which Article of the Constitution?",
+"o": [
+"Article 32",
+"Article 226",
+"Article 141",
+"Article 142"
+],
+"a": 2,
+"e": "Article 141 makes Supreme Court decisions binding precedent on all courts; Article 32 and 226 deal with writ jurisdiction and Article 142 with complete justice orders."
+},
+{
+"n": 3,
+"topic": "Administration of Justice in India",
+"t": "An insurance intermediary aggrieved by an order of IRDAI cancelling its registration can file an appeal before which forum?",
+"o": [
+"The Central Government",
+"The jurisdictional High Court",
+"National Company Law Tribunal",
+"Securities Appellate Tribunal (SAT)"
+],
+"a": 3,
+"e": "Section 110 of the Insurance Act, 1938 (as amended in 2015) provides that appeals against IRDAI orders lie to the Securities Appellate Tribunal, and thereafter to the Supreme Court."
+},
+{
+"n": 4,
+"topic": "Administration of Justice in India",
+"t": "Lok Adalats, which settle disputes by conciliation and compromise, are constituted under which statute?",
+"o": [
+"Legal Services Authorities Act, 1987",
+"Code of Civil Procedure, 1908",
+"Arbitration and Conciliation Act, 1996",
+"Consumer Protection Act, 2019"
+],
+"a": 0,
+"e": "Lok Adalats are organised under the Legal Services Authorities Act, 1987; their award is deemed a decree of a civil court and no appeal lies against it."
+},
+{
+"n": 5,
+"topic": "Law of Contract",
+"t": "Section 2(h) of the Indian Contract Act, 1872 defines a contract as:",
+"o": [
+"a proposal which has been accepted",
+"an agreement enforceable by law",
+"every promise forming consideration for each other",
+"a set of reciprocal promises"
+],
+"a": 1,
+"e": "A contract is an agreement enforceable by law; an agreement is every promise and set of promises forming consideration for each other (S.2(e)), and a promise is an accepted proposal (S.2(b))."
+},
+{
+"n": 6,
+"topic": "Law of Contract",
+"t": "Ramesh, aged 17, fills a proposal form on his own life, signs it himself and pays the first premium from his pocket money. Under the Indian Contract Act, the agreement is:",
+"o": [
+"voidable at the option of Ramesh on attaining majority",
+"valid if Ramesh ratifies it after attaining 18 years",
+"void ab initio because a minor is not competent to contract",
+"valid, since consideration has been paid"
+],
+"a": 2,
+"e": "Section 11 requires competency, and Mohori Bibee v. Dharmodas Ghose held that a minor's agreement is void ab initio; it cannot be ratified later. A policy on a minor's life must be proposed by a parent or guardian."
+},
+{
+"n": 7,
+"topic": "Law of Contract",
+"t": "Which of the following is NOT one of the factors that vitiates free consent under Section 14 of the Indian Contract Act, 1872?",
+"o": [
+"Undue influence",
+"Coercion",
+"Misrepresentation",
+"Inadequacy of consideration"
+],
+"a": 3,
+"e": "Consent is not free when caused by coercion, undue influence, fraud, misrepresentation or mistake. Inadequacy of consideration does not by itself affect validity (Explanation 2 to S.25)."
+},
+{
+"n": 8,
+"topic": "Law of Contract",
+"t": "In terms of the Indian Contract Act, a contract of life insurance is best classified as a:",
+"o": [
+"contingent contract",
+"wagering agreement",
+"contract of guarantee",
+"contract of indemnity"
+],
+"a": 0,
+"e": "Under S.31 a contingent contract is one whose performance depends on a collateral uncertain event (here, death or survival). It is not a wager because the proposer has insurable interest, and life insurance is not indemnity."
+},
+{
+"n": 9,
+"topic": "Sources of Law",
+"t": "Regulations framed by IRDAI under Section 114A of the Insurance Act, 1938 are an example of:",
+"o": [
+"judicial precedent",
+"constitutional law",
+"customary law",
+"subordinate (delegated) legislation"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). Rules by the Central Government and regulations by IRDAI are made under powers delegated by the parent Act; they must be laid before Parliament and cannot go beyond the Act.",
+"r": "key"
+},
+{
+"n": 10,
+"topic": "Life Insurance Contract-I",
+"t": "In the usual course of life insurance business, who makes the offer that leads to the contract?",
+"o": [
+"The agent, by soliciting the business",
+"The insurer, by issuing the policy document",
+"The proposer, by submitting the completed proposal form",
+"The insurer, by issuing its sales brochure"
+],
+"a": 2,
+"e": "A brochure or prospectus is only an invitation to offer; the proposal form is the offer, which the insurer accepts after underwriting, usually subject to receipt of the first premium."
+},
+{
+"n": 11,
+"topic": "Life Insurance Contract-I",
+"t": "In life insurance, insurable interest must exist:",
+"o": [
+"at the time of each premium payment",
+"both at inception and at the time of claim",
+"only at the time the claim arises",
+"at the time the contract is effected"
+],
+"a": 3,
+"e": "Unlike indemnity insurance, life insurance requires insurable interest only when the policy is taken; it need not exist at the time of death, since the policy may have been assigned in the meantime."
+},
+{
+"n": 12,
+"topic": "Life Insurance Contract-II",
+"t": "Under Section 45 of the Insurance Act, 1938, a life policy cannot be called in question on any ground whatsoever, including fraud, after the expiry of:",
+"o": [
+"three years from the date of the first premium receipt only",
+"two years from the date of issuance of the policy",
+"three years from the date of issuance, commencement of risk, revival or rider addition, whichever is later",
+"five years from the date of commencement of risk"
+],
+"a": 2,
+"e": "The 2015 amendment made the three-year period absolute, and it runs from the latest of the policy issue date, risk commencement date, revival date or rider addition date."
+},
+{
+"n": 13,
+"topic": "Life Insurance Contract-II",
+"t": "At the time of a death claim the insurer finds that the life assured had understated his age by six years at proposal stage. Which course is permitted by Section 45?",
+"o": [
+"Repudiate the claim outright as this is automatically fraud",
+"Refund only the premiums paid without any benefit",
+"Take no action because age cannot be questioned after issue",
+"Adjust the benefit or premium to what it would have been on the correct age, after calling for proof of age"
+],
+"a": 3,
+"e": "Section 45(4) expressly saves the insurer's right to call for proof of age and to adjust the policy terms on the basis of the correct age; misstatement of age is not treated as fraud by itself."
+},
+{
+"n": 14,
+"topic": "Life Insurance Contract-II",
+"t": "The days of grace allowed for payment of a renewal premium under the yearly, half-yearly and quarterly modes are:",
+"o": [
+"30 days",
+"45 days",
+"15 days",
+"7 days"
+],
+"a": 0,
+"e": "Thirty days of grace (not less than one month) apply to annual, half-yearly and quarterly modes; the monthly mode carries 15 days. The policy remains in force during the grace period."
+},
+{
+"n": 15,
+"topic": "Group Life and Other Insurance Schemes",
+"t": "In a group life insurance arrangement for employees, the contract of insurance is between the insurer and:",
+"o": [
+"each individual employee",
+"the nominees of the employees",
+"the master policyholder (the employer or group organiser)",
+"the trade union of the employees"
+],
+"a": 2,
+"e": "A group policy is a single master policy issued to the group organiser; members receive certificates of insurance but are not parties to the contract."
+},
+{
+"n": 16,
+"topic": "Group Life and Other Insurance Schemes",
+"t": "The Employees' Deposit Linked Insurance (EDLI) Scheme, 1976 is framed under which Act?",
+"o": [
+"Payment of Gratuity Act, 1972",
+"Employees' Compensation Act, 1923",
+"Employees' State Insurance Act, 1948",
+"Employees' Provident Funds and Miscellaneous Provisions Act, 1952"
+],
+"a": 3,
+"e": "EDLI is a statutory scheme under the EPF & MP Act, 1952; an employer may be exempted from it if it provides a group life cover that is more beneficial, which is a key use of group insurance."
+},
+{
+"n": 17,
+"topic": "Group Life and Other Insurance Schemes",
+"t": "An employee covered by the Payment of Gratuity Act, 1972 retires after 10 years and 7 months of continuous service with last drawn wages (basic plus DA) of ₹52,000 per month. The statutory gratuity payable is:",
+"o": [
+"₹2,60,000",
+"₹3,00,000",
+"₹3,30,000",
+"₹5,72,000"
+],
+"a": 2,
+"e": "Gratuity = 15/26 × last drawn wages × completed years, with a part of a year beyond six months rounded up; 52,000 × 15/26 × 11 = ₹3,30,000, which is within the ₹20 lakh ceiling."
+},
+{
+"n": 18,
+"topic": "Life Insurance Policies as Property",
+"t": "An assignment of a life insurance policy under Section 38 of the Insurance Act must be:",
+"o": [
+"registered with the Sub-Registrar of Assurances",
+"in writing, signed by the transferor and attested by at least one witness",
+"executed on non-judicial stamp paper and notarised",
+"approved in advance by IRDAI"
+],
+"a": 1,
+"e": "S.38 requires an endorsement on the policy or a separate instrument, signed by the transferor or his agent and attested by at least one witness; notice to the insurer is needed for it to be effective against the insurer."
+},
+{
+"n": 19,
+"topic": "Administration of Justice in India",
+"t": "Under the Limitation Act, 1963, a suit to recover money payable on a life insurance policy must generally be filed within:",
+"o": [
+"one year",
+"three years",
+"two years",
+"twelve years"
+],
+"a": 1,
+"e": "★ Key fact (repeated across the mocks of this paper). Article 44 of the Schedule prescribes three years, counted from the date of death or, where the claim is denied earlier, from the date of such denial.",
+"r": "key"
+},
+{
+"n": 20,
+"topic": "Life Insurance Policies as Property",
+"t": "Under Section 39 of the Insurance Act, 1938, a nomination can be made by:",
+"o": [
+"an assignee of the policy",
+"a creditor who has advanced a loan against the policy",
+"the holder of a policy on his own life",
+"any proposer, even on the life of another"
+],
+"a": 2,
+"e": "Only the holder of a policy of life insurance on his own life may nominate; a nomination does not transfer any interest and is merely an authority to receive the money on death."
+},
+{
+"n": 21,
+"topic": "Life Insurance Policies as Property",
+"t": "A policy effected by a married man on his own life under Section 6 of the Married Women's Property Act, 1874 for the benefit of his wife and children:",
+"o": [
+"is deemed a trust for their benefit and is beyond the reach of his creditors",
+"must have a bank as the trustee",
+"can be freely surrendered by him without the beneficiaries' consent",
+"forms part of his estate on death"
+],
+"a": 0,
+"e": "Section 6 creates a statutory trust in favour of the wife and children; the policy money does not form part of the estate and is not subject to the husband's creditors."
+},
+{
+"n": 22,
+"topic": "Rights under Life Insurance Policies",
+"t": "Under the IRDAI (Protection of Policyholders' Interests, Operations and Allied Matters of Insurers) Regulations, 2024, the free-look period available to a policyholder is:",
+"o": [
+"45 days from the date of acceptance of the proposal",
+"30 days from the date of receipt of the policy document",
+"7 days from the date of issue of the policy",
+"15 days from the date of receipt of the policy document"
+],
+"a": 1,
+"e": "The 2024 regulations extended the free-look period to 30 days for all policies irrespective of the channel of sale; earlier it was 15 days, with 30 days only for electronic or distance-marketed policies."
+},
+{
+"n": 23,
+"topic": "Rights under Life Insurance Policies",
+"t": "Under the IRDAI (Insurance Products) Regulations, 2024, a lapsed non-linked policy can be revived within:",
+"o": [
+"two years from the date of the first unpaid premium",
+"three years from the date of lapse",
+"five years from the date of the first unpaid premium",
+"one year from the end of the grace period"
+],
+"a": 2,
+"e": "The revival period is five years from the first unpaid premium, subject to the policy terms and evidence of continued insurability."
+},
+{
+"n": 24,
+"topic": "Rights under Life Insurance Policies",
+"t": "An insurer pays a maturity claim 60 days after the due date even though no further requirement was pending with the policyholder. The policyholder is entitled to interest at:",
+"o": [
+"no interest, since payment was made within 90 days",
+"12% per annum compounded monthly",
+"a flat 6% per annum",
+"bank rate plus 2% per annum for the period of delay"
+],
+"a": 3,
+"e": "The policyholder protection regulations require the insurer to pay interest at the bank rate plus 2% on delayed settlements, counted from the date the claim became payable."
+},
+{
+"n": 25,
+"topic": "Claim Settlements",
+"t": "A person who has not been heard of for seven years by those who would naturally have heard of him may be presumed dead under:",
+"o": [
+"Section 111 of the Bharatiya Sakshya Adhiniyam, 2023 (earlier Section 108 of the Evidence Act, 1872)",
+"Section 39 of the Insurance Act, 1938",
+"Section 6 of the Married Women's Property Act, 1874",
+"Section 45 of the Insurance Act, 1938"
+],
+"a": 0,
+"e": "The seven-year rule earlier in S.108 of the Indian Evidence Act is now in S.111 of the BSA, 2023; insurers normally insist on a court declaration and continued premium payment until the presumption is established."
+},
+{
+"n": 26,
+"topic": "Law of Contract",
+"t": "Under Section 23 of the Indian Contract Act, an agreement whose object is unlawful is:",
+"o": [
+"void",
+"voidable at the option of the promisee",
+"valid but unenforceable",
+"valid if consideration has passed"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). Every agreement whose object or consideration is unlawful, immoral or opposed to public policy is void; a policy taken on a life in which there is no insurable interest is void as a wager.",
+"r": "key"
+},
+{
+"n": 27,
+"topic": "Claim Settlements",
+"t": "Under the IRDAI Master Circular on Life Insurance (2024), a death claim that does not require any investigation must be settled within:",
+"o": [
+"90 days from date of intimation",
+"15 days from receipt of all necessary documents",
+"30 days from receipt of all necessary documents",
+"45 days from receipt of all necessary documents"
+],
+"a": 1,
+"e": "The timeline is 15 days where no investigation is required and 45 days where investigation is warranted; interest is payable for delay beyond these limits."
+},
+{
+"n": 28,
+"topic": "Claim Settlements",
+"t": "A life assured dies leaving a policy with no nomination and no assignment, and a large sum is payable. The insurer would ordinarily require the claimant to produce:",
+"o": [
+"only the death certificate and the policy bond",
+"an affidavit from the agent who sold the policy",
+"a succession certificate or similar legal evidence of title",
+"a certificate from the gram panchayat"
+],
+"a": 2,
+"e": "Without a nominee or assignee the insurer must establish who is entitled; for substantial amounts it insists on legal evidence of title such as a succession certificate, though for small amounts it may waive this against an indemnity."
+},
+{
+"n": 29,
+"topic": "Claim Settlements",
+"t": "A non-linked policy with sum assured of ₹20 lakh and annual premium of ₹60,000 was issued on 1 April 2025. The life assured committed suicide in the eighth month of the policy. Under the standard suicide clause the nominee receives:",
+"o": [
+"Nil",
+"₹48,000",
+"₹60,000",
+"₹20,00,000"
+],
+"a": 1,
+"e": "For death by suicide within 12 months of commencement or revival, a non-linked policy pays 80% of the total premiums paid till death; 80% of ₹60,000 = ₹48,000."
+},
+{
+"n": 30,
+"topic": "Tax Laws",
+"t": "The maximum aggregate deduction available under Section 80C of the Income-tax Act, 1961 (including life insurance premiums) is:",
+"o": [
+"₹1,50,000",
+"₹2,50,000",
+"₹2,00,000",
+"₹1,00,000"
+],
+"a": 0,
+"e": "The overall ceiling under S.80C is ₹1.5 lakh per year under the old tax regime, covering life insurance premium, PPF, ELSS and other eligible items together."
+},
+{
+"n": 31,
+"topic": "Tax Laws",
+"t": "A policy issued on 1 July 2024 has a sum assured of ₹10 lakh and an annual premium of ₹1,20,000. The amount of premium eligible for deduction under Section 80C in a year is:",
+"o": [
+"₹20,000",
+"₹1,00,000",
+"₹1,20,000",
+"₹1,50,000"
+],
+"a": 1,
+"e": "For policies issued on or after 1 April 2012 the deductible premium is restricted to 10% of the actual capital sum assured; 10% of ₹10 lakh = ₹1,00,000."
+},
+{
+"n": 32,
+"topic": "Tax Laws",
+"t": "For a non-linked life policy issued on or after 1 April 2023, the maturity proceeds lose exemption under Section 10(10D) if the aggregate annual premium of such policies exceeds:",
+"o": [
+"₹1.5 lakh",
+"₹2.5 lakh",
+"₹5 lakh",
+"₹10 lakh"
+],
+"a": 2,
+"e": "Finance Act 2023 made maturity proceeds taxable where aggregate premium on non-ULIP policies issued on or after 1 April 2023 exceeds ₹5 lakh in any year; the death benefit remains exempt in all cases."
+},
+{
+"n": 33,
+"topic": "Insurance Intermediaries",
+"t": "After the Insurance Laws (Amendment) Act, 2015, an individual insurance agent is:",
+"o": [
+"licensed by the Life Insurance Council",
+"registered by the Insurance Institute of India",
+"licensed directly by IRDAI",
+"appointed by the insurer under Section 42, after passing the prescribed examination"
+],
+"a": 3,
+"e": "Licensing by the Authority was replaced by appointment by the insurer, which is responsible for the agent's conduct; the agent must still clear the IRDAI-approved examination."
+},
+{
+"n": 34,
+"topic": "Insurance Intermediaries",
+"t": "The maximum penalty that may be imposed for offering a rebate of premium or commission in contravention of Section 41 of the Insurance Act is:",
+"o": [
+"₹10 lakh",
+"₹1 crore",
+"₹1 lakh",
+"₹500"
+],
+"a": 0,
+"e": "The 2015 amendment raised the penalty for rebating from ₹500 to up to ₹10 lakh; the prohibition applies to both the person offering and the person accepting the rebate."
+},
+{
+"topic": "Intermediaries",
+"t": "The qualifying examination for an individual insurance agent conducted by the Insurance Institute of India is:",
+"o": [
+"IC-01",
+"IC-38",
+"IC-14",
+"IC-33"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). IC-38 is the agents' pre-recruitment examination; IC-01/02/11/14 are Licentiate papers.",
+"r": "core",
+"n": 35
+},
+{
+"n": 36,
+"topic": "Insurance Intermediaries",
+"t": "Under IRDAI regulations, a 'composite insurance agent' may represent at most:",
+"o": [
+"two life insurers and two general insurers",
+"one life insurer, one general insurer, one health insurer and one of each mono-line insurer",
+"one insurer of any class only",
+"any number of life insurers"
+],
+"a": 1,
+"e": "An agent may hold agency of only one insurer in each category; a composite agent therefore combines one life, one general, one health and one each of the mono-line insurers."
+},
+{
+"n": 37,
+"topic": "Legal Status of Individuals",
+"t": "Under the Indian Majority Act, 1875, a person attains majority on completing the age of:",
+"o": [
+"21 years",
+"20 years",
+"18 years",
+"16 years"
+],
+"a": 2,
+"e": "After the 1999 amendment every person domiciled in India attains majority at 18, whether or not a guardian has been appointed; a minor cannot contract on his own."
+},
+{
+"n": 38,
+"topic": "Legal Status of Individuals",
+"t": "Under the Hindu Minority and Guardianship Act, 1956, the natural guardian of a legitimate Hindu minor boy is:",
+"o": [
+"the mother, and after her the father",
+"the elder brother",
+"the paternal grandfather",
+"the father, and after him the mother"
+],
+"a": 3,
+"e": "Section 6 names the father as natural guardian and the mother after him, although the custody of a child below five years ordinarily rests with the mother."
+},
+{
+"n": 39,
+"topic": "Nationalisation of Life Insurance",
+"t": "The Life Insurance Corporation of India commenced business on:",
+"o": [
+"1 September 1956",
+"1 July 1939",
+"1 January 1973",
+"19 January 1956"
+],
+"a": 0,
+"e": "LIC was formed under the LIC Act, 1956 and started functioning on 1 September 1956, taking over 245 Indian and foreign insurers and provident societies."
+},
+{
+"n": 40,
+"topic": "Nationalisation of Life Insurance",
+"t": "The Malhotra Committee (1993-94) is associated with which recommendation?",
+"o": [
+"Nationalising the life insurance business",
+"Opening the insurance sector to private participation and setting up an independent regulator",
+"Merging the four GIC subsidiaries",
+"Introducing the Insurance Act, 1938"
+],
+"a": 1,
+"e": "The Committee headed by R.N. Malhotra recommended entry of private insurers and an autonomous regulatory authority, leading to the IRDA Act, 1999."
+},
+{
+"n": 41,
+"topic": "Protection of Interest of Consumers",
+"t": "The maximum value of a complaint (including expenses) that the Insurance Ombudsman can entertain under the Insurance Ombudsman Rules, 2017 is:",
+"o": [
+"₹30 lakh",
+"₹1 crore",
+"₹50 lakh",
+"₹20 lakh"
+],
+"a": 2,
+"e": "The pecuniary limit of the Ombudsman is ₹50 lakh; claims above that must go to the consumer commission or civil court."
+},
+{
+"n": 42,
+"topic": "Protection of Interest of Consumers",
+"t": "Under the Consumer Protection Act, 2019 read with the 2021 jurisdiction rules, a District Commission can entertain complaints where the value of goods or services paid as consideration does not exceed:",
+"o": [
+"₹1 crore",
+"₹2 crore",
+"₹20 lakh",
+"₹50 lakh"
+],
+"a": 3,
+"e": "The 2021 rules fixed the District Commission limit at ₹50 lakh, the State Commission between ₹50 lakh and ₹2 crore, and the National Commission above ₹2 crore."
+},
+{
+"topic": "Intermediaries",
+"t": "A corporate agent may tie up with a maximum of how many insurers in each line of business?",
+"o": [
+"3",
+"6",
+"9",
+"Unlimited"
+],
+"a": 2,
+"e": "★ Core fact (asked across III papers). Raised from 3 to 9 insurers per category (life, general, health) by the 2022 amendment to the Corporate Agents Regulations.",
+"r": "core",
+"n": 43
+},
+{
+"n": 44,
+"topic": "Protection of Interest of Consumers",
+"t": "An insurer rejected a claim in writing on 10 January 2025. The claimant files a complaint with the Insurance Ombudsman on 15 March 2026. The complaint is:",
+"o": [
+"not maintainable, as it is filed beyond one year from the insurer's rejection",
+"maintainable only if the insurer consents",
+"maintainable, since the limitation is two years",
+"maintainable, since the limitation is three years"
+],
+"a": 0,
+"e": "Under the Ombudsman Rules a complaint must be made within one year of the insurer's rejection or final reply (or of the date the insurer failed to reply within 30 days)."
+},
+{
+"n": 45,
+"topic": "Protection of Interest of Consumers",
+"t": "Once the Insurance Ombudsman passes an award, the insurer must comply with it within:",
+"o": [
+"15 days of receipt of the award",
+"30 days of receipt of the award",
+"60 days of receipt of the award",
+"90 days of receipt of the award"
+],
+"a": 1,
+"e": "The award is binding on the insurer, which must comply within 30 days and inform the Ombudsman; the complainant, however, is free to pursue other remedies if dissatisfied."
+},
+{
+"n": 46,
+"topic": "Life Insurance Legislation",
+"t": "Section 64VB of the Insurance Act, 1938 provides that:",
+"o": [
+"premiums must always be paid by cheque",
+"an agent must deposit premiums within 24 hours",
+"no insurer shall assume any risk unless the premium is received in advance or guaranteed in the prescribed manner",
+"every policy must carry a 30-day free-look period"
+],
+"a": 2,
+"e": "S.64VB prohibits assumption of risk before receipt of premium, subject to exceptions such as those in the Insurance Rules for group policies; this is why life cover starts only on receipt of the first premium."
+},
+{
+"n": 47,
+"topic": "Life Insurance Legislation",
+"t": "The minimum paid-up equity capital required for registration of a life insurance company in India is:",
+"o": [
+"₹200 crore",
+"₹50 crore",
+"₹500 crore",
+"₹100 crore"
+],
+"a": 3,
+"e": "Section 6 prescribes ₹100 crore for life, general and health insurers and ₹200 crore for reinsurers."
+},
+{
+"n": 48,
+"topic": "Life Insurance Legislation",
+"t": "Which of the following statements about the Insurance Laws (Amendment) Act, 2015 is INCORRECT?",
+"o": [
+"It raised the foreign investment limit in Indian insurance companies to 74%",
+"It replaced licensing of agents by IRDAI with appointment by insurers",
+"It raised the foreign investment limit from 26% to 49%",
+"It made Section 45 a three-year absolute bar on questioning a policy"
+],
+"a": 0,
+"e": "The 2015 Act raised the FDI ceiling to 49%; the increase to 74% came through the Insurance (Amendment) Act, 2021. The other statements describe actual changes made in 2015."
+},
+{
+"n": 49,
+"topic": "Insurance Regulatory and Development Authority Act, 1999",
+"t": "Under Section 4 of the IRDA Act, 1999, the Authority consists of a Chairperson and:",
+"o": [
+"not more than ten members in all, without distinction",
+"not more than five whole-time members and not more than four part-time members",
+"exactly five whole-time members only",
+"not more than four whole-time members and not more than five part-time members"
+],
+"a": 1,
+"e": "The Authority is a body of up to ten persons: a Chairperson, up to five whole-time and up to four part-time members, all appointed by the Central Government."
+},
+{
+"n": 50,
+"topic": "Insurance Regulatory and Development Authority Act, 1999",
+"t": "The Insurance Advisory Committee constituted under Section 25 of the IRDA Act, 1999 consists of:",
+"o": [
+"exactly 15 members nominated by the Life Insurance Council",
+"not more than 50 members",
+"not more than 25 members, excluding ex officio members",
+"not more than 10 members"
+],
+"a": 2,
+"e": "The Committee of up to 25 members representing commerce, industry, consumers, agents and other interests advises the Authority on regulations, which are framed in consultation with it."
+}
+]

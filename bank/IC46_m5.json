@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Fundamentals of Accounting",
+"t": "Which of the following is a fictitious asset?",
+"o": [
+"Discount on issue of debentures not yet written off",
+"Investment in government securities",
+"Goodwill purchased in an acquisition",
+"Prepaid rent"
+],
+"a": 0,
+"e": "Fictitious assets are deferred expenses or losses shown on the asset side only because they have not yet been written off; purchased goodwill is a genuine intangible asset."
+},
+{
+"n": 2,
+"topic": "Fundamentals of Accounting",
+"t": "Cash withdrawn by the proprietor from the business for personal use is recorded as:",
+"o": [
+"Revenue of the business",
+"Drawings, which reduce the owner's capital",
+"An expense in the profit and loss account",
+"A loan to the proprietor shown as a fixed asset"
+],
+"a": 1,
+"e": "Under the entity concept, drawings are a withdrawal of the owner's investment and not a business expense, so they are deducted from capital."
+},
+{
+"n": 3,
+"topic": "Fundamentals of Accounting",
+"t": "Which group of users of financial statements is primarily interested in an insurer's solvency and ability to pay claims?",
+"o": [
+"Advertising agencies",
+"Policyholders and the regulator (IRDAI)",
+"Trade creditors seeking payment for stationery",
+"Employees seeking bonus"
+],
+"a": 1,
+"e": "Policyholders depend on the insurer's long-term ability to honour claims and IRDAI monitors solvency to protect them; other users have narrower interests."
+},
+{
+"n": 4,
+"topic": "Fundamentals of Accounting",
+"t": "A general insurer purchases office furniture on credit for ₹4 lakh. The effect on the accounting equation is:",
+"o": [
+"Only assets change: furniture up and cash down by ₹4 lakh",
+"Assets increase by ₹4 lakh and liabilities increase by ₹4 lakh",
+"Assets increase by ₹4 lakh and capital increases by ₹4 lakh",
+"Assets and liabilities both decrease by ₹4 lakh"
+],
+"a": 1,
+"e": "A credit purchase of an asset increases both the asset (furniture) and the liability (creditor); cash is unaffected until payment."
+},
+{
+"n": 5,
+"topic": "Accounting Process and Books of Accounts",
+"t": "The brief explanation written below a journal entry describing the transaction is called:",
+"o": [
+"Narration",
+"Ledger folio",
+"Casting",
+"Posting reference"
+],
+"a": 0,
+"e": "Narration explains the nature of the entry; ledger folio is the page reference of the ledger account to which the entry is posted."
+},
+{
+"n": 6,
+"topic": "Accounting Process and Books of Accounts",
+"t": "A machine costing ₹6,00,000 was purchased on 1 October 2025. Depreciation is charged at 10% per annum on the straight-line method pro rata to the period of use. Depreciation for the year ended 31 March 2026 is:",
+"o": [
+"₹60,000",
+"₹45,000",
+"₹30,000",
+"₹15,000"
+],
+"a": 2,
+"e": "The machine was in use for six months, so depreciation = 6,00,000 × 10% × 6/12 = ₹30,000."
+},
+{
+"n": 7,
+"topic": "Accounting Process and Books of Accounts",
+"t": "A standing instruction payment of ₹18,000 for an electricity bill was debited by the bank but not yet recorded in the cash book. In a bank reconciliation statement starting from the favourable balance as per cash book, this amount is:",
+"o": [
+"Ignored, since it is a bank error",
+"Added, since the cash book is understated",
+"Added as a contra entry",
+"Deducted, since the bank balance is lower than the cash book balance"
+],
+"a": 3,
+"e": "The bank has already reduced the balance; the cash book has not, so the amount is deducted from the cash book balance to reach the pass book balance."
+},
+{
+"n": 8,
+"topic": "Accounting Process and Books of Accounts",
+"t": "At year end, debtors stand at ₹8,00,000 and a provision for doubtful debts of 5% is to be created. The existing provision is ₹25,000. The amount to be charged to the profit and loss account for the year is:",
+"o": [
+"₹65,000",
+"₹15,000",
+"₹40,000",
+"₹25,000"
+],
+"a": 1,
+"e": "Required provision = 5% × 8,00,000 = ₹40,000; since ₹25,000 already exists, only the additional ₹15,000 is charged to the P&L account."
+},
+{
+"n": 9,
+"topic": "Accounting Process and Books of Accounts",
+"t": "Outstanding salary of ₹1,20,000 at the year end is adjusted in the final accounts by:",
+"o": [
+"Deducting it from salary in the profit and loss account",
+"Adding it to salary in the profit and loss account and showing it as a current liability in the balance sheet",
+"Showing it as a current asset in the balance sheet",
+"Showing it only as a liability without affecting the profit and loss account"
+],
+"a": 1,
+"e": "Under the accrual basis the expense belongs to the current year even though unpaid, so it is both expensed and recognised as a liability."
+},
+{
+"n": 10,
+"topic": "Financial Statements and Accounting Standards",
+"t": "Under AS 10 (Property, Plant and Equipment), the cost of an item of PPE includes:",
+"o": [
+"Interest on working capital borrowings of the company",
+"Purchase price including duties and taxes (net of recoverable taxes) and directly attributable costs of bringing the asset to working condition",
+"All administrative overheads of the year of purchase",
+"Expected future repair costs over the life of the asset"
+],
+"a": 1,
+"e": "Only costs directly attributable to acquisition and installation are capitalised; general overheads and future repairs are revenue in nature."
+},
+{
+"n": 11,
+"topic": "Company Accounts and Corporate Governance",
+"t": "As per Section 96 of the Companies Act 2013, every company (other than a one-person company) must hold its annual general meeting within:",
+"o": [
+"Six months from the close of the financial year",
+"Three months from the close of the financial year",
+"Twelve months from the close of the financial year",
+"Nine months from the close of the financial year"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). The AGM must be held within six months of the financial year end and the gap between two AGMs may not exceed fifteen months; nine months applies only to the first AGM.",
+"r": "key"
+},
+{
+"n": 12,
+"topic": "Financial Statements and Accounting Standards",
+"t": "Under AS 16, borrowing costs directly attributable to the construction of a qualifying asset are:",
+"o": [
+"Capitalised as part of the cost of the asset until it is ready for its intended use",
+"Credited to capital reserve",
+"Always charged to the profit and loss account as incurred",
+"Deferred and written off over five years"
+],
+"a": 0,
+"e": "AS 16 requires capitalisation of borrowing costs on qualifying assets during the construction period; other borrowing costs are expensed."
+},
+{
+"n": 13,
+"topic": "Financial Statements and Accounting Standards",
+"t": "A company with net profit after tax and preference dividend of ₹45 crore and 15 crore equity shares outstanding throughout the year reports a basic EPS under AS 20 of:",
+"o": [
+"₹30.00",
+"₹0.33",
+"₹3.00",
+"₹4.50"
+],
+"a": 2,
+"e": "Basic EPS = profit attributable to equity shareholders ÷ weighted average equity shares = 45/15 = ₹3 per share."
+},
+{
+"n": 14,
+"topic": "Financial Statements and Accounting Standards",
+"t": "Under AS 19, a lease that transfers substantially all the risks and rewards incidental to ownership of an asset is classified as:",
+"o": [
+"A hire-purchase contract",
+"An operating lease",
+"A sale and leaseback",
+"A finance lease"
+],
+"a": 3,
+"e": "Finance leases are capitalised by the lessee as an asset with a corresponding liability; operating leases are expensed on a straight-line basis."
+},
+{
+"n": 15,
+"topic": "Company Accounts and Corporate Governance",
+"t": "Under Section 92 of the Companies Act 2013, every company must file with the Registrar an annual return containing:",
+"o": [
+"Its income tax computation",
+"Particulars of its registered office, shareholding, directors, meetings and indebtedness as at the close of the financial year",
+"The list of its insurance policies",
+"The minutes of all Board meetings"
+],
+"a": 1,
+"e": "The annual return (Form MGT-7) is a snapshot of the company's structure and governance; financial statements are filed separately under Section 137."
+},
+{
+"n": 16,
+"topic": "Company Accounts and Corporate Governance",
+"t": "Under Section 152 of the Companies Act 2013, in a public company at every AGM:",
+"o": [
+"All directors must retire and seek re-election",
+"Independent directors must retire by rotation",
+"At least one-third of the directors liable to retire by rotation shall retire",
+"No director can retire unless removed by shareholders"
+],
+"a": 2,
+"e": "Not less than two-thirds of total directors must be liable to retire by rotation, and one-third of those retire at each AGM; independent directors are excluded from rotation."
+},
+{
+"n": 17,
+"topic": "Company Accounts and Corporate Governance",
+"t": "A debenture issued by a company represents:",
+"o": [
+"A right to receive dividend in priority to preference shares",
+"A deposit accepted from the public without interest",
+"A share in the ownership of the company",
+"An acknowledgment of debt carrying a fixed rate of interest, usually secured on the company's assets"
+],
+"a": 3,
+"e": "Debenture holders are creditors, not members; interest is payable irrespective of profits and is a charge, whereas dividend is an appropriation."
+},
+{
+"n": 18,
+"topic": "Company Accounts and Corporate Governance",
+"t": "The permitted limit of foreign direct investment in an Indian insurance company, following the 2021 amendment to the Insurance Act, is:",
+"o": [
+"49%",
+"26%",
+"74%",
+"100%"
+],
+"a": 2,
+"e": "The Insurance (Amendment) Act 2021 raised the FDI cap from 49% to 74% subject to safeguards; the Schedule 5A disclosure shows the resulting shareholding pattern."
+},
+{
+"n": 19,
+"topic": "Company Accounts and Corporate Governance",
+"t": "Under IRDAI's corporate governance norms, the Risk Management Committee of an insurer is expected to:",
+"o": [
+"Approve the insurer's advertising campaigns",
+"Settle disputed claims above a threshold",
+"Appoint the Appointed Actuary",
+"Oversee the risk management strategy, including the appointment of a Chief Risk Officer and review of the asset-liability position"
+],
+"a": 3,
+"e": "The RMC assists the Board in establishing the risk framework and monitoring material risks; claims, marketing and actuarial appointments are handled by other functions."
+},
+{
+"n": 20,
+"topic": "Regulation of Investments",
+"t": "Section 27A of the Insurance Act 1938 prohibits an insurer from:",
+"o": [
+"Investing in listed equity shares",
+"Investing in Central Government securities",
+"Investing policyholders' funds outside India",
+"Holding deposits with scheduled banks"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). Section 27A read with Section 27 restricts investment of controlled funds to assets in India; the other three are permitted approved categories.",
+"r": "key"
+},
+{
+"n": 21,
+"topic": "Financial Statements of General Insurers",
+"t": "Section 10 of the Insurance Act 1938 requires an insurer carrying on more than one class of business to:",
+"o": [
+"Register a separate company for each class",
+"Maintain a single consolidated fund for all classes",
+"Obtain a separate licence from the Reserve Bank for each class",
+"Keep separate accounts of all receipts and payments in respect of each class of insurance business"
+],
+"a": 3,
+"e": "Separation of accounts by class (and the separate revenue accounts for fire, marine and miscellaneous) flows from Section 10; life insurers must additionally keep a separate life fund."
+},
+{
+"n": 22,
+"topic": "Financial Statements of General Insurers",
+"t": "A general insurer issues a two-year engineering policy on 1 April 2025 for a total premium of ₹24 lakh covering the whole period. In the revenue account for the year ended 31 March 2026, premium earned from this policy is:",
+"o": [
+"₹24 lakh",
+"₹6 lakh",
+"Nil until the policy expires",
+"₹12 lakh"
+],
+"a": 3,
+"e": "Premium is recognised over the period of risk; half the period has run, so ₹12 lakh is earned and ₹12 lakh is carried as reserve for unexpired risk."
+},
+{
+"n": 23,
+"topic": "Financial Statements of General Insurers",
+"t": "Cash and bank balances of a general insurer, including deposit accounts and cheques in hand, are disclosed in:",
+"o": [
+"Schedule 9",
+"Schedule 12",
+"Schedule 8",
+"Schedule 11"
+],
+"a": 3,
+"e": "Schedule 11 covers cash, bank balances and money at call; Schedule 8 is investments, Schedule 9 loans and Schedule 12 advances and other assets."
+},
+{
+"n": 24,
+"topic": "Financial Statements of General Insurers",
+"t": "In the Profit and Loss Account of a general insurer, which of the following is an appropriation rather than a charge?",
+"o": [
+"Interest on subordinated debt",
+"Transfer to general reserve",
+"Expenses other than those related to insurance business",
+"Provision for diminution in value of investments"
+],
+"a": 1,
+"e": "Appropriations (dividend, transfers to reserves) are made after arriving at profit after tax; provisions, non-insurance expenses and interest are charges in arriving at profit."
+},
+{
+"n": 25,
+"topic": "Financial Statements of General Insurers",
+"t": "Under IRDAI norms, premium ceded to reinsurers under a treaty is recognised in the cedant's revenue account:",
+"o": [
+"At the end of the treaty year",
+"As an operating expense in Schedule 4",
+"Only when the reinsurer confirms the quarterly statement",
+"In the same period in which the related direct premium is recognised, as a deduction from gross premium"
+],
+"a": 3,
+"e": "Reinsurance premium ceded is matched with the direct premium to which it relates, so net written premium reflects the insurer's true retention for the period."
+},
+{
+"n": 26,
+"topic": "Financial Statements of General Insurers",
+"t": "Which of the following disclosures is mandated by IRDAI in a general insurer's financial statements?",
+"o": [
+"The internal audit plan for the next year",
+"A list of branch addresses",
+"Age-wise analysis of claims outstanding and the number of claims settled, intimated and outstanding during the year",
+"Details of all agency agreements"
+],
+"a": 2,
+"e": "IRDAI requires disclosures on claims ageing, claims settled and outstanding, encumbrances, commitments, contingent liabilities and related party transactions in the notes."
+},
+{
+"n": 27,
+"topic": "Financial Statements of General Insurers",
+"t": "A general insurer's fire revenue account shows gross direct premium ₹400 crore, reinsurance accepted ₹20 crore, reinsurance ceded ₹140 crore, opening URR ₹130 crore and closing URR ₹150 crore. Claims incurred (net) ₹160 crore, net commission (₹10 crore, i.e. net commission income), operating expenses ₹70 crore. The underwriting result (excluding investment income) is:",
+"o": [
+"Profit of ₹40 crore",
+"Profit of ₹60 crore",
+"Profit of ₹20 crore",
+"Loss of ₹40 crore"
+],
+"a": 0,
+"e": "Net written premium = 400 + 20 − 140 = 280; premium earned = 280 − (150 − 130) = ₹260 crore; result = 260 − 160 + 10 − 70 = ₹40 crore profit (net commission income is added)."
+},
+{
+"n": 28,
+"topic": "Reserves, Provisions and Reinsurance Accounting",
+"t": "Under a 'stop loss' treaty covering losses in excess of a 90% loss ratio up to 120%, an insurer's net premium for the year is ₹500 crore and net claims are ₹550 crore. The recovery from the reinsurer is:",
+"o": [
+"₹150 crore",
+"₹100 crore",
+"₹550 crore",
+"₹50 crore"
+],
+"a": 1,
+"e": "Actual loss ratio = 550/500 = 110%; the treaty responds for the layer above 90% and up to 120%, so recovery = (110% − 90%) × 500 = ₹100 crore."
+},
+{
+"n": 29,
+"topic": "Analysis of Financial Statements",
+"t": "A general insurer earned investment income of ₹900 crore on average investment assets of ₹12,000 crore. Its investment yield is:",
+"o": [
+"9.0%",
+"13.3%",
+"6.0%",
+"7.5%"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). Investment yield = investment income ÷ average investments = 900/12,000 = 7.5%.",
+"r": "key"
+},
+{
+"n": 30,
+"topic": "Reserves, Provisions and Reinsurance Accounting",
+"t": "Under a quota share treaty of 30% with a ceding commission of 25%, an insurer cedes premium on a portfolio of ₹200 crore. The net cash flow to the reinsurer in respect of premium (before claims) is:",
+"o": [
+"₹45 crore",
+"₹15 crore",
+"₹60 crore",
+"₹50 crore"
+],
+"a": 0,
+"e": "Premium ceded = 30% × 200 = ₹60 crore; ceding commission = 25% × 60 = ₹15 crore; net amount payable to the reinsurer = ₹45 crore."
+},
+{
+"n": 31,
+"topic": "Reserves, Provisions and Reinsurance Accounting",
+"t": "Every Indian insurer must file its reinsurance programme for the ensuing financial year with IRDAI:",
+"o": [
+"Once every five years",
+"Before the commencement of the financial year, along with a Board-approved reinsurance policy",
+"Only after a major loss occurs",
+"Within six months after the end of the financial year"
+],
+"a": 1,
+"e": "IRDAI's reinsurance regulations require the Board-approved programme to be filed in advance (at least 45 days before the year begins) and subsequent changes to be reported."
+},
+{
+"n": 32,
+"topic": "Reserves, Provisions and Reinsurance Accounting",
+"t": "An 'unexpired risk reserve' and a 'premium deficiency reserve' differ in that:",
+"o": [
+"URR defers unearned premium to the unexpired period, whereas premium deficiency provides for expected losses beyond that deferred premium",
+"URR is computed only for marine business",
+"URR is a shareholders' reserve while premium deficiency is a technical reserve",
+"Premium deficiency is created from profits as an appropriation"
+],
+"a": 0,
+"e": "URR is a mechanical deferral of premium; premium deficiency is an additional liability recognised when URR is insufficient to meet expected claims and expenses for the unexpired period."
+},
+{
+"n": 33,
+"topic": "Reserves, Provisions and Reinsurance Accounting",
+"t": "A 'cut-through clause' in a reinsurance contract provides that:",
+"o": [
+"The reinsurer's liability is cut to half after one year",
+"The cedant may stop ceding risks once the premium limit is reached",
+"The reinsurer will pay its share of a claim directly to the policyholder if the ceding insurer becomes insolvent",
+"The reinsurer may cancel the treaty mid-term without notice"
+],
+"a": 2,
+"e": "Normally the policyholder has no contractual relationship with the reinsurer; a cut-through clause creates such a direct right in the event of the cedant's insolvency."
+},
+{
+"n": 34,
+"topic": "Solvency Margin and Capital",
+"t": "For solvency purposes, subordinated debt raised by an insurer as 'other forms of capital':",
+"o": [
+"Is fully treated as equity capital in computing ASM",
+"Is included in available solvency margin only to the extent and in the manner permitted by IRDAI, and not as ordinary equity",
+"Is entirely ignored in computing solvency",
+"Is treated as a technical reserve"
+],
+"a": 1,
+"e": "IRDAI allows limited recognition of subordinated debt and preference capital in ASM (within prescribed caps relative to net worth), reflecting its lower loss-absorbing quality than equity."
+},
+{
+"n": 35,
+"topic": "Solvency Margin and Capital",
+"t": "A general insurer's gross premium in a segment is ₹2,000 crore and net premium is ₹1,400 crore; the prescribed factor for gross premium in that segment is 0.70. Using the 20% rule, RSM-1 for the segment is:",
+"o": [
+"₹196 crore",
+"₹400 crore",
+"₹280 crore",
+"₹600 crore"
+],
+"a": 2,
+"e": "Higher of (gross premium × factor) = 2,000 × 0.70 = 1,400 and net premium 1,400 is ₹1,400 crore; RSM-1 = 20% × 1,400 = ₹280 crore."
+},
+{
+"n": 36,
+"topic": "Solvency Margin and Capital",
+"t": "The 'solvency ratio' of an insurer is defined as:",
+"o": [
+"Total assets divided by total liabilities",
+"Shareholders' funds divided by gross premium",
+"Net premium divided by net worth",
+"Available solvency margin divided by required solvency margin"
+],
+"a": 3,
+"e": "The ratio compares the excess of assets over liabilities with the regulatory minimum margin; IRDAI requires it to be at least 1.5."
+},
+{
+"topic": "Claims timelines",
+"t": "For health insurance, the maximum time an insurer may take to decide a cashless authorisation request under the 2024 master circular is:",
+"o": [
+"1 hour",
+"3 hours",
+"6 hours",
+"24 hours"
+],
+"a": 0,
+"e": "★ Core fact (asked across III papers). Cashless authorisation within 1 hour of request; final discharge authorisation within 3 hours.",
+"r": "core",
+"n": 37
+},
+{
+"n": 38,
+"topic": "Solvency Margin and Capital",
+"t": "Which of the following statements about the solvency framework for Indian general insurers is INCORRECT?",
+"o": [
+"The required solvency margin is computed as a flat 20% of the insurer's net worth",
+"IRDAI is moving towards a risk-based capital framework",
+"IRDAI may prescribe a higher solvency requirement for a specific insurer based on its risk profile",
+"The solvency margin must be maintained at all times, not merely at the year end"
+],
+"a": 0,
+"e": "RSM is derived from premiums and claims with segment-wise factors, not from net worth; the other statements correctly describe the current framework and its direction."
+},
+{
+"n": 39,
+"topic": "Regulation of Investments",
+"t": "The Investment Committee of a general insurer must include:",
+"o": [
+"At least two non-executive directors, the CEO, the CFO, the Chief Investment Officer, the Chief Risk Officer and the Appointed Actuary",
+"Only independent directors",
+"The statutory auditor as chairperson",
+"Representatives of the insurer's custodian"
+],
+"a": 0,
+"e": "IRDAI prescribes this composition to combine Board oversight with executive accountability; auditors and custodians are outside parties and cannot be members."
+},
+{
+"n": 40,
+"topic": "Regulation of Investments",
+"t": "Investments in 'infrastructure' for the purpose of IRDAI's investment pattern are those in:",
+"o": [
+"Sectors covered by the harmonised master list of infrastructure sub-sectors notified by the Government of India",
+"Only Central Government projects",
+"Any listed company with a market capitalisation above ₹10,000 crore",
+"Shares of the insurer's promoter companies"
+],
+"a": 0,
+"e": "IRDAI aligns the definition of infrastructure with the Government's harmonised master list (roads, power, ports, telecom, etc.), which also carries higher group exposure limits."
+},
+{
+"n": 41,
+"topic": "Regulation of Investments",
+"t": "Which of the following would be classified as 'other investments' rather than 'approved investments' for a general insurer?",
+"o": [
+"Bonds of a State Government",
+"Treasury bills of the Government of India",
+"Equity shares of a listed company that has not paid the required dividend in the preceding years",
+"AAA-rated bonds of a public sector bank"
+],
+"a": 2,
+"e": "Equity not meeting the dividend track-record criterion, debt rated below AA and unlisted instruments fall under other investments, which are capped at 15% of investment assets."
+},
+{
+"n": 42,
+"topic": "Regulation of Investments",
+"t": "Under IRDAI norms, the investment function of an insurer is subject to:",
+"o": [
+"Daily reporting of every transaction to IRDAI",
+"Annual reporting only, with the audited accounts",
+"Quarterly reporting to IRDAI through prescribed investment returns and periodic internal/concurrent audit",
+"No reporting unless losses are incurred"
+],
+"a": 2,
+"e": "Insurers file quarterly investment returns (category-wise holdings, exposure, downgrades, NPAs) and have the function audited as prescribed."
+},
+{
+"n": 43,
+"topic": "Regulation of Investments",
+"t": "A general insurer holds 8% Government of India bonds purchased at ₹105 per ₹100 face value with 5 years to maturity. Under IRDAI valuation norms, the premium of ₹5 is:",
+"o": [
+"Credited to the fair value change account",
+"Ignored, with the bond carried at ₹105 until maturity",
+"Written off entirely in the year of purchase",
+"Amortised over the remaining 5 years, reducing the carrying value each year"
+],
+"a": 3,
+"e": "Debt securities are carried at amortised cost; the premium is written down to par over the remaining maturity, so interest income is effectively reduced to the yield to maturity."
+},
+{
+"n": 44,
+"topic": "Regulation of Investments",
+"t": "An insurer's investment policy approved by the Board must, among other things, address:",
+"o": [
+"Asset-liability management, liquidity, prudential norms, exposure limits and risk management of the investment portfolio",
+"Premium rates for motor third party insurance",
+"Agents' commission structure",
+"The branch network expansion plan"
+],
+"a": 0,
+"e": "The investment policy sets the framework within which the Investment Committee operates; pricing, commission and distribution are outside its scope."
+},
+{
+"topic": "Health insurance norms",
+"t": "The maximum waiting period for pre-existing diseases in health insurance, after the 2024 IRDAI changes, is:",
+"o": [
+"24 months",
+"36 months",
+"48 months",
+"60 months"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). Reduced from 48 to 36 months; the moratorium period after which claims cannot be contested (except fraud) is 60 months.",
+"r": "core",
+"n": 45
+},
+{
+"n": 46,
+"topic": "Taxation and Audit",
+"t": "Following the GST Council's decision effective 22 September 2025, premium on individual health insurance policies is:",
+"o": [
+"Taxed at 12%",
+"Exempt from GST",
+"Taxed at 18%",
+"Taxed at 5% with input tax credit"
+],
+"a": 1,
+"e": "Individual life and health insurance premiums were exempted from GST from 22 September 2025; group and most general insurance lines continue to attract 18%."
+},
+{
+"n": 47,
+"topic": "Taxation and Audit",
+"t": "The internal audit function of an insurer is primarily intended to:",
+"o": [
+"Replace the statutory audit required under the Insurance Act",
+"Certify the financial statements for shareholders",
+"Provide independent assurance to the Board and audit committee on the adequacy of internal controls and risk management",
+"Prepare the tax return of the company"
+],
+"a": 2,
+"e": "Internal audit is a management tool reporting to the audit committee; the statutory audit under Section 12 of the Insurance Act remains a separate external requirement."
+},
+{
+"n": 48,
+"topic": "Analysis of Financial Statements",
+"t": "Financial statement analysis using ratios is limited because:",
+"o": [
+"Ratios are based on historical cost figures and can be distorted by differences in accounting policies",
+"Ratios are not permitted under the Companies Act",
+"Ratios always predict future performance accurately",
+"Ratios can only be computed for listed companies"
+],
+"a": 0,
+"e": "Ratios are useful for comparison and trend analysis but must be interpreted with knowledge of accounting policies, inflation and industry context."
+},
+{
+"n": 49,
+"topic": "Analysis of Financial Statements",
+"t": "An insurer settled 9,200 claims during the year out of 10,000 claims available for settlement (opening outstanding plus intimated). Its claims settlement ratio is:",
+"o": [
+"92%",
+"8%",
+"80%",
+"108.7%"
+],
+"a": 0,
+"e": "Claims settlement ratio = claims settled ÷ claims available for settlement = 9,200/10,000 = 92%; a higher ratio indicates faster claims service."
+},
+{
+"n": 50,
+"topic": "Analysis of Financial Statements",
+"t": "A general insurer has net written premium of ₹6,000 crore and net worth of ₹2,000 crore. Its underwriting leverage (net premium to net worth) is:",
+"o": [
+"30%",
+"0.33 times",
+"6.0 times",
+"3.0 times, indicating that each rupee of capital supports three rupees of retained premium"
+],
+"a": 3,
+"e": "Underwriting leverage = net written premium ÷ net worth = 6,000/2,000 = 3; higher leverage means greater strain on capital from underwriting volatility."
+}
+]

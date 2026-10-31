@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Life Underwriting - Principles & Concepts (Part-1)",
+"t": "A policy issued in June 2024 is sought to be repudiated in 2026 on the ground of a non-fraudulent misstatement of a material fact. Under Section 45, which of the following is correct?",
+"o": [
+"The insurer may repudiate and forfeit all premiums paid",
+"The insurer may repudiate within 3 years but must refund the premiums collected up to the date of repudiation to the policyholder or nominee",
+"The insurer must pay the full sum assured and then recover the extra premium",
+"The insurer cannot repudiate at all because the misstatement was not fraudulent"
+],
+"a": 1,
+"e": "For misstatement or suppression that is not fraud, Section 45 allows repudiation within 3 years with refund of premiums paid; forfeiture applies only on proven fraud."
+},
+{
+"n": 2,
+"topic": "Life Underwriting - Principles & Concepts (Part-1)",
+"t": "Ramesh has lent ₹20 lakh to Suresh. On whose life, and up to what amount, does Ramesh have insurable interest as a creditor?",
+"o": [
+"On his own life only, for ₹20 lakh",
+"On Suresh's life, for any amount Ramesh chooses",
+"On Suresh's life, limited to the outstanding debt (₹20 lakh) plus interest and the cost of insurance",
+"On Suresh's life for exactly twice the loan amount"
+],
+"a": 2,
+"e": "A creditor's insurable interest in the debtor's life is limited to the extent of the debt (with interest and premium cost); any higher cover is speculative."
+},
+{
+"n": 3,
+"topic": "Life Underwriting - Principles & Concepts (Part-1)",
+"t": "In life insurance, insurable interest must exist at which point in time?",
+"o": [
+"At any time during the policy term",
+"At the time the contract is effected (proposal/inception)",
+"At the time of claim only",
+"Both at inception and at the time of claim"
+],
+"a": 1,
+"e": "Unlike marine and general insurance, life insurance requires insurable interest only at inception, which is why assignment to a person without insurable interest is permitted."
+},
+{
+"n": 4,
+"topic": "Life Underwriting - Principles & Concepts (Part-1)",
+"t": "The mortality table currently used as the basis for pricing individual life insurance in India is:",
+"o": [
+"Indian Lives Mortality (ILM) 2006-08 table",
+"LIC (1970-73) Ultimate table",
+"CMI Table A1967-70",
+"Indian Assured Lives Mortality (IALM) 2012-14 table"
+],
+"a": 3,
+"e": "IRDAI and the Institute of Actuaries of India adopted IALM 2012-14 as the current standard mortality table for assured lives, replacing IALM 2006-08."
+},
+{
+"n": 5,
+"topic": "Life Underwriting - Principles & Concepts (Part-2)",
+"t": "Which document is the primary source of information for the life underwriter?",
+"o": [
+"The proposal form with its declarations",
+"The agent's confidential report",
+"The medical examiner's report",
+"The moral hazard report"
+],
+"a": 0,
+"e": "The proposal form, signed by the proposer, is the basis of the contract and the primary source; other reports supplement and verify it."
+},
+{
+"n": 6,
+"topic": "Life Underwriting - Principles & Concepts (Part-2)",
+"t": "The agent is often described as the 'primary' or 'field' underwriter because:",
+"o": [
+"The agent meets the proposer personally and is the first to screen and report on the risk",
+"The agent fixes the extra premium for substandard lives",
+"The agent conducts the medical examination",
+"The agent has authority to accept or decline proposals"
+],
+"a": 0,
+"e": "Through personal contact the agent is the first to assess the proposer and submits a confidential report; the agent has no authority to accept risks or fix premiums."
+},
+{
+"n": 7,
+"topic": "Life Underwriting - Principles & Concepts (Part-2)",
+"t": "A moral hazard report is typically called for by a life insurer in which situation?",
+"o": [
+"Proposals for large sums assured or on the life of another person",
+"Only when the proposer is above 60 years",
+"Every non-medical proposal below ₹5 lakh",
+"Only when the proposer is a woman"
+],
+"a": 0,
+"e": "The moral hazard report, prepared by an official of the insurer, verifies the proposer's standing, insurance needs and intentions in high-value or third-party cases."
+},
+{
+"n": 8,
+"topic": "Underwriting: Process and Structure",
+"t": "As per the IRDAI master circular on protection of policyholders' interests (2024), a life insurer must decide on a proposal within how many days of receiving the complete proposal?",
+"o": [
+"30 days",
+"7 days",
+"45 days",
+"15 days"
+],
+"a": 1,
+"e": "The 2024 norms tightened the earlier 15-day requirement to 7 days from receipt of the proposal with all requirements."
+},
+{
+"n": 9,
+"topic": "Underwriting: Process and Structure",
+"t": "An automated underwriting engine (straight-through processing) in a life insurer:",
+"o": [
+"Applies pre-set rules to issue clean cases automatically and refers exceptions to a human underwriter",
+"Replaces the need for any medical examination at all ages",
+"Is used only for reinsurance treaties",
+"Decides claims instead of proposals"
+],
+"a": 0,
+"e": "Rule engines speed issuance of standard risks; cases with adverse disclosures or high sums assured are routed to underwriters."
+},
+{
+"n": 10,
+"topic": "Life Underwriting - Principles & Concepts (Part-2)",
+"t": "A flat extra premium of ₹3 per thousand sum assured is imposed for occupational hazard on a policy of ₹8 lakh. The annual extra premium is:",
+"o": [
+"₹24,000",
+"₹240",
+"₹2,400",
+"₹800"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). Flat extra = ₹3 × (8,00,000 / 1,000) = ₹3 × 800 = ₹2,400 per annum.",
+"r": "key"
+},
+{
+"n": 11,
+"topic": "Underwriting: Process and Structure",
+"t": "The role of the medical referee (Chief Medical Officer) in a life insurer's underwriting structure is to:",
+"o": [
+"Approve reinsurance treaties",
+"Conduct every medical examination personally",
+"Advise underwriters on the significance and rating of medical impairments",
+"Sell policies to doctors"
+],
+"a": 2,
+"e": "The medical referee interprets reports and medical evidence; the lay underwriter combines this advice with non-medical factors to reach a decision."
+},
+{
+"n": 12,
+"topic": "Underwriting: Process and Structure",
+"t": "Which of the following forms part of the life insurance contract?",
+"o": [
+"The medical examiner's fee bill",
+"The agent's visiting card",
+"The company's annual report",
+"The proposal form and the declarations made therein"
+],
+"a": 3,
+"e": "The proposal and declarations are the basis of the contract and are referred to in the policy document; the other items are not contractual."
+},
+{
+"n": 13,
+"topic": "Financial Underwriting",
+"t": "Partnership insurance is taken by partners on each other's lives primarily to:",
+"o": [
+"Increase the firm's working capital borrowing limit",
+"Insure the partnership office premises",
+"Provide funds to buy out the deceased partner's share so that the firm can continue",
+"Pay the deceased partner's personal income tax"
+],
+"a": 2,
+"e": "On a partner's death, the surviving partners need liquidity to pay the deceased's estate; cover is based on the partner's share of capital and goodwill."
+},
+{
+"n": 14,
+"topic": "Financial Underwriting",
+"t": "In an employer-employee insurance scheme, the employer has insurable interest in the employee's life because:",
+"o": [
+"The premium is exempt from GST",
+"The employer stands to suffer financial loss from the death of the employee",
+"The employee's family is related to the employer",
+"Employers must insure all employees under the Insurance Act"
+],
+"a": 1,
+"e": "Insurable interest arises from the economic value of the employee's services to the employer."
+},
+{
+"n": 15,
+"topic": "Financial Underwriting",
+"t": "A housewife with no independent income proposes a ₹1 crore policy; her husband's own life cover is ₹20 lakh. The underwriter is most likely to:",
+"o": [
+"Accept the full ₹1 crore as there is no mortality risk",
+"Restrict her cover with reference to the husband's existing insurance and income, since her cover should not exceed his",
+"Accept only if the policy is a term plan",
+"Decline because women without income cannot be insured"
+],
+"a": 1,
+"e": "For non-earning spouses, cover is usually linked to and limited by the earning spouse's insurance and income to avoid moral hazard."
+},
+{
+"n": 16,
+"topic": "The Respiratory System",
+"t": "A 30-year-old with mild intermittent asthma, using an inhaler occasionally with no hospitalisation, is usually underwritten as:",
+"o": [
+"Standard or a small extra",
+"Decline",
+"+200% extra",
+"Postpone until asthma resolves"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). Mild, well-controlled asthma carries negligible extra mortality; severe asthma with hospital admissions, steroid dependence or ICU care is rated significantly.",
+"r": "key"
+},
+{
+"n": 17,
+"topic": "Financial Underwriting",
+"t": "The sum assured under a loan-protection (credit life) policy taken by a borrower is generally:",
+"o": [
+"Unlimited, as the bank has unlimited insurable interest",
+"At least five times the loan amount",
+"Limited to the outstanding loan amount, often on a decreasing basis",
+"Fixed at ₹1 crore for all borrowers"
+],
+"a": 2,
+"e": "A creditor's insurable interest extends only to the debt; mortgage redemption plans reduce cover in line with the loan schedule."
+},
+{
+"n": 18,
+"topic": "Financial Underwriting",
+"t": "For a policy issued after 1 April 2012, the deduction under Section 80C of the Income Tax Act for life insurance premium is available only to the extent the premium does not exceed:",
+"o": [
+"15% of the sum assured",
+"10% of the sum assured",
+"20% of the sum assured",
+"5% of the sum assured"
+],
+"a": 1,
+"e": "Premium above 10% of the actual capital sum assured is not deductible (20% for policies issued before 1 April 2012; 15% for persons with specified disability/disease)."
+},
+{
+"n": 19,
+"topic": "Occupational, Avocational and Residential Risks",
+"t": "The residential risk of an NRI proposer living in a foreign country is assessed mainly on:",
+"o": [
+"The exchange rate of that country's currency",
+"Political stability, climate, sanitation, availability of medical care and prevalence of disease in that country",
+"The distance of the country from India",
+"The number of Indian restaurants in that country"
+],
+"a": 1,
+"e": "Country classification for underwriting reflects mortality-related conditions; war zones and areas with poor health infrastructure are rated or declined."
+},
+{
+"n": 20,
+"topic": "Occupational, Avocational and Residential Risks",
+"t": "Prolonged occupational exposure to asbestos is associated with which disease?",
+"o": [
+"Haemophilia",
+"Glaucoma",
+"Type 1 diabetes",
+"Mesothelioma and asbestosis"
+],
+"a": 3,
+"e": "Asbestos fibres cause asbestosis (lung fibrosis) and mesothelioma; silica causes silicosis and coal dust causes pneumoconiosis."
+},
+{
+"n": 21,
+"topic": "Occupational, Avocational and Residential Risks",
+"t": "Occupational exposure to benzene is linked to an increased risk of:",
+"o": [
+"Kidney stones",
+"Cataract",
+"Leukaemia",
+"Otosclerosis"
+],
+"a": 2,
+"e": "Benzene is a known cause of leukaemia and other blood disorders, relevant for chemical and petroleum industry workers."
+},
+{
+"n": 22,
+"topic": "Reinsurance",
+"t": "Under a 40% quota share treaty, on a policy with sum assured ₹50 lakh the reinsurer's share is:",
+"o": [
+"₹10 lakh",
+"₹40 lakh",
+"₹30 lakh",
+"₹20 lakh"
+],
+"a": 3,
+"e": "Quota share cedes a fixed percentage of every risk: 40% × ₹50 lakh = ₹20 lakh."
+},
+{
+"n": 23,
+"topic": "Reinsurance",
+"t": "Under 'risk premium' (yearly renewable term) reinsurance, the reinsurer:",
+"o": [
+"Covers only accidental deaths",
+"Covers the sum at risk for a premium recalculated each year, without sharing the policy's reserves",
+"Pays a share of bonuses to the policyholder",
+"Shares the original premium and reserves in the same proportion as the sum assured"
+],
+"a": 1,
+"e": "YRT reinsurance insures the net amount at risk; original-terms (coinsurance) reinsurance shares premiums, reserves and commissions."
+},
+{
+"n": 24,
+"topic": "Reinsurance",
+"t": "Catastrophe excess-of-loss reinsurance for a life insurer is designed to protect against:",
+"o": [
+"Higher-than-expected lapses",
+"Normal fluctuations in individual claims",
+"Falling interest rates on investments",
+"Multiple deaths arising from a single event, such as an accident involving many members of a group scheme"
+],
+"a": 3,
+"e": "Cat XL responds when one event causes claims above a stated amount; it is non-proportional and common for group business."
+},
+{
+"n": 25,
+"topic": "Reinsurance",
+"t": "In a life reinsurance treaty, the 'jumbo limit' refers to:",
+"o": [
+"The number of lives a group scheme must have",
+"The highest premium rate the reinsurer may charge",
+"The maximum total insurance in force and applied for on one life, across all insurers, beyond which automatic cover is not available",
+"The minimum size of the treaty"
+],
+"a": 2,
+"e": "If total cover on a life exceeds the jumbo limit, the case must be submitted facultatively even if within the cedant's treaty lines."
+},
+{
+"n": 26,
+"topic": "Blood Disorders",
+"t": "Haemophilia A is characterised by:",
+"o": [
+"An excess of red blood cells causing thrombosis",
+"An inherited deficiency of clotting factor VIII, transmitted on the X chromosome and affecting mainly males",
+"Abnormal haemoglobin that sickles under low oxygen",
+"An autoimmune destruction of platelets"
+],
+"a": 1,
+"e": "Haemophilia is a sex-linked bleeding disorder; underwriting depends on severity (factor level), bleeding history and access to factor replacement."
+},
+{
+"n": 27,
+"topic": "Blood Disorders",
+"t": "Which type of blood cancer is most commonly seen in elderly persons and often runs an indolent course?",
+"o": [
+"Acute lymphoblastic leukaemia (ALL)",
+"Burkitt's lymphoma",
+"Chronic lymphocytic leukaemia (CLL)",
+"Acute myeloid leukaemia (AML)"
+],
+"a": 2,
+"e": "CLL typically affects older adults and may need no treatment for years; acute leukaemias are aggressive and require postponement or declinature."
+},
+{
+"n": 28,
+"topic": "Underwriting: Process and Structure",
+"t": "Investigation of an early death claim (within 3 years of issue) to check for non-disclosure at proposal stage is sometimes referred to as:",
+"o": [
+"Claims-stage or post-issue underwriting",
+"Group underwriting",
+"Facultative underwriting",
+"Non-medical underwriting"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). Early claims are investigated for material non-disclosure since Section 45 permits repudiation within 3 years; this is effectively underwriting at claim stage.",
+"r": "key"
+},
+{
+"n": 29,
+"topic": "Nervous System",
+"t": "'Petit mal' (absence) seizures:",
+"o": [
+"Are caused by diabetes",
+"Are a complication of stroke in the elderly",
+"Involve violent convulsions with loss of bladder control",
+"Occur mostly in children as brief lapses of awareness and often resolve with age"
+],
+"a": 3,
+"e": "Absence seizures are a childhood epilepsy with a good prognosis; grand mal (tonic-clonic) seizures involve convulsions."
+},
+{
+"n": 30,
+"topic": "Nervous System",
+"t": "A proposer suffered a stroke (CVA) four months ago and has recovered with mild residual weakness. The appropriate underwriting decision is:",
+"o": [
+"Accept with an age set-back of 3 years",
+"Standard, since he has recovered",
+"Postpone, usually for 6-12 months from the event, and then rate according to residual deficit and risk factors",
+"Decline without reconsideration"
+],
+"a": 2,
+"e": "Early recurrence risk after stroke is high, so a postponement period is followed by a rating based on cause, deficit, blood pressure and diabetes."
+},
+{
+"n": 31,
+"topic": "Diabetes Mellitus",
+"t": "The HbA1c test reflects average blood glucose control over the preceding:",
+"o": [
+"2-3 months",
+"1 week",
+"24 hours",
+"12 months"
+],
+"a": 0,
+"e": "Glycated haemoglobin reflects glucose exposure over the lifespan of red cells (about 120 days), making it the key control marker for underwriters."
+},
+{
+"n": 32,
+"topic": "Diabetes Mellitus",
+"t": "Which of the following are microvascular complications of diabetes?",
+"o": [
+"Hypertension and hyperlipidaemia",
+"Retinopathy, nephropathy and neuropathy",
+"Myocardial infarction and stroke",
+"Peripheral arterial disease and gangrene"
+],
+"a": 1,
+"e": "Microvascular complications affect the small vessels of the eye, kidney and nerves; macrovascular complications are coronary, cerebral and peripheral arterial disease."
+},
+{
+"n": 33,
+"topic": "Diabetes Mellitus",
+"t": "The earliest laboratory sign of diabetic kidney disease (nephropathy) is:",
+"o": [
+"Raised serum creatinine above 5 mg/dl",
+"Haematuria",
+"Glycosuria",
+"Microalbuminuria"
+],
+"a": 3,
+"e": "Small amounts of albumin in urine appear before creatinine rises; its presence in a diabetic proposer worsens the rating considerably."
+},
+{
+"topic": "Insurance Act 1938 – key sections",
+"t": "Section 64VB of the Insurance Act 1938 requires that:",
+"o": [
+"Premium is received in advance before the risk is assumed",
+"Every policy carries a free-look clause",
+"Claims are settled within 30 days",
+"Agents hold a valid licence"
+],
+"a": 0,
+"e": "★ Core fact (asked across III papers). No risk may be assumed unless the premium has been received in advance or is guaranteed in the manner prescribed.",
+"r": "core",
+"n": 34
+},
+{
+"n": 35,
+"topic": "Thyroid Diseases",
+"t": "A 35-year-old woman on levothyroxine 50 mcg daily for hypothyroidism has had normal TSH for the past year. The usual underwriting decision is:",
+"o": [
+"Postpone for 2 years",
+"+100% extra",
+"Decline",
+"Standard"
+],
+"a": 3,
+"e": "Treated hypothyroidism with normal thyroid function carries no significant extra mortality."
+},
+{
+"n": 36,
+"topic": "Thyroid Diseases",
+"t": "Untreated or poorly controlled hyperthyroidism concerns the underwriter mainly because of:",
+"o": [
+"Development of haemophilia",
+"Cardiac complications such as atrial fibrillation and heart failure",
+"Loss of insurable interest",
+"Risk of blindness"
+],
+"a": 1,
+"e": "Thyrotoxicosis strains the heart; once controlled (euthyroid) for a reasonable period, standard or near-standard terms are usual."
+},
+{
+"n": 37,
+"topic": "Urinary System",
+"t": "The normal range of serum creatinine in adults is approximately:",
+"o": [
+"0.1-0.2 mg/dl",
+"5-10 mg/dl",
+"0.6-1.2 mg/dl",
+"2.0-3.0 mg/dl"
+],
+"a": 2,
+"e": "Serum creatinine rises as kidney function falls; values above the normal range call for eGFR estimation and nephrology assessment."
+},
+{
+"n": 38,
+"topic": "Urinary System",
+"t": "Chronic kidney disease stage 5 (end-stage renal disease) is defined by an estimated GFR below:",
+"o": [
+"15 ml/min/1.73 m²",
+"60 ml/min/1.73 m²",
+"90 ml/min/1.73 m²",
+"30 ml/min/1.73 m²"
+],
+"a": 0,
+"e": "Stage 3 is eGFR 30-59, stage 4 is 15-29 and stage 5 (<15) usually requires dialysis or transplant and is declined."
+},
+{
+"n": 39,
+"topic": "The Respiratory System",
+"t": "A proposer completed a full course of anti-tuberculosis treatment for pulmonary TB 18 months ago and has been declared cured with no symptoms. The usual decision is:",
+"o": [
+"Postpone until 10 years have elapsed",
+"Permanent +100% rating",
+"Standard, or a small temporary extra depending on the insurer's guidelines",
+"Decline because TB is incurable"
+],
+"a": 2,
+"e": "Treated and cured TB has little long-term mortality impact; active or recently treated TB is postponed until treatment is complete and cure confirmed."
+},
+{
+"n": 40,
+"topic": "The Respiratory System",
+"t": "A proposer who has smoked 30 cigarettes a day for 20 years has a smoking history of:",
+"o": [
+"30 pack-years",
+"20 pack-years",
+"50 pack-years",
+"600 pack-years"
+],
+"a": 0,
+"e": "Pack-years = (cigarettes per day / 20) × years smoked = (30/20) × 20 = 30 pack-years."
+},
+{
+"n": 41,
+"topic": "Gastrointestinal (Digestive) System",
+"t": "A hepatitis B carrier with persistently normal liver function tests and normal ultrasound is usually:",
+"o": [
+"Accepted with a mild to moderate extra, reflecting the long-term risk of cirrhosis and liver cancer",
+"Declined outright",
+"Standard with no evidence",
+"Postponed for 15 years"
+],
+"a": 0,
+"e": "Inactive carriers have modest extra risk; chronic active hepatitis with raised enzymes or fibrosis is rated heavily and cirrhosis is declined."
+},
+{
+"n": 42,
+"topic": "Gastrointestinal (Digestive) System",
+"t": "Which liver enzyme is most specifically raised by excessive alcohol consumption?",
+"o": [
+"Serum amylase",
+"Serum creatinine",
+"Gamma-glutamyl transferase (GGT)",
+"Alkaline phosphatase"
+],
+"a": 2,
+"e": "GGT, especially with raised MCV and AST:ALT ratio above 2, points to alcohol excess; this is a key check against habit declarations."
+},
+{
+"n": 43,
+"topic": "Cardiovascular System",
+"t": "A positive treadmill (exercise ECG) test is indicated by:",
+"o": [
+"ST-segment depression of 1 mm or more during exercise, suggesting myocardial ischaemia",
+"Completion of the full protocol",
+"Normal blood pressure at rest",
+"A rise in heart rate with exercise"
+],
+"a": 0,
+"e": "Exercise-induced ST depression suggests coronary artery disease; such cases need further evaluation such as angiography before a decision."
+},
+{
+"n": 44,
+"topic": "Cardiovascular System",
+"t": "A proposer suffered a myocardial infarction four months ago. The standard underwriting approach is:",
+"o": [
+"Decline permanently without review",
+"Accept with a 20% lien for one year",
+"Postpone, usually for 6-12 months, then rate according to ejection fraction, residual ischaemia and risk factors",
+"Accept at standard rates if he feels well"
+],
+"a": 2,
+"e": "Early post-infarction mortality is high; after the postponement period, the extent of damage and control of risk factors determine the rating."
+},
+{
+"topic": "Insurance Act 1938 – key sections",
+"t": "Nomination and assignment of a life insurance policy are governed respectively by which sections of the Insurance Act 1938?",
+"o": [
+"Sections 39 and 38",
+"Sections 38 and 39",
+"Sections 41 and 45",
+"Sections 45 and 41"
+],
+"a": 0,
+"e": "★ Core fact (asked across III papers). Section 39 deals with nomination; Section 38 with assignment and transfer.",
+"r": "core",
+"n": 45
+},
+{
+"n": 46,
+"topic": "Cardiovascular System",
+"t": "Coronary angioplasty with stent placement for single-vessel disease, done 2 years ago with no symptoms since, is usually:",
+"o": [
+"Rated with a moderate to substantial extra depending on cardiac function and risk factors",
+"Standard, as the blockage has been removed",
+"Accepted only for term plans",
+"Declined always"
+],
+"a": 0,
+"e": "Revascularisation treats the lesion but not the underlying atherosclerosis; ongoing risk justifies a rating."
+},
+{
+"n": 47,
+"topic": "Cardiovascular System",
+"t": "Unstable angina differs from stable angina in that it:",
+"o": [
+"Has no significance for underwriting",
+"Is caused by valve disease",
+"Occurs only during exercise and is relieved by rest",
+"Occurs at rest or with increasing frequency and severity, signalling an impending infarction, and warrants postponement"
+],
+"a": 3,
+"e": "Unstable angina is an acute coronary syndrome; stable effort angina is rated according to severity and investigation results."
+},
+{
+"n": 48,
+"topic": "Special Senses: Disorders of the Eyes, Ears and Nose",
+"t": "A proposer with a treated retinal detachment and restored vision is usually:",
+"o": [
+"Rated +100%",
+"Accepted at standard rates for life cover",
+"Declined",
+"Postponed for 5 years"
+],
+"a": 1,
+"e": "Retinal detachment, often linked to high myopia or trauma, does not affect life expectancy once treated."
+},
+{
+"n": 49,
+"topic": "Special Senses: Disorders of the Eyes, Ears and Nose",
+"t": "A totally blind proposer applies for life cover and an accidental death benefit rider. The usual approach is:",
+"o": [
+"Both declined as blindness is uninsurable",
+"Life cover declined but ADB accepted",
+"Both accepted at standard rates",
+"Life cover at or near standard rates, but the ADB rider restricted or declined because of accident exposure"
+],
+"a": 3,
+"e": "Blindness has little effect on mortality but substantially raises accident risk, which affects accident and disability riders."
+},
+{
+"n": 50,
+"topic": "Special Senses: Disorders of the Eyes, Ears and Nose",
+"t": "Retinitis pigmentosa is:",
+"o": [
+"A complication of hypertension",
+"An infection of the eyelid",
+"A hereditary degeneration of the retina causing night blindness and progressive visual field loss",
+"A curable bacterial infection of the retina"
+],
+"a": 2,
+"e": "Life cover is usually standard; the progressive visual loss affects accident and disability riders."
+}
+]

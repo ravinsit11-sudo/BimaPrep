@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Life Underwriting - Principles & Concepts (Part-1)",
+"t": "Which of the following is treated as a NON-standard proof of age by Indian life insurers?",
+"o": [
+"Passport",
+"School leaving certificate",
+"PAN card",
+"Horoscope"
+],
+"a": 3,
+"e": "Horoscopes, ration cards and self-declarations are non-standard age proofs attracting restrictions or extra scrutiny; passport, school certificates and PAN are standard."
+},
+{
+"n": 2,
+"topic": "Life Underwriting - Principles & Concepts (Part-1)",
+"t": "A proposer was born on 10 January 1990 and signs the proposal on 1 October 2026. His age 'nearer birthday' and age 'last birthday' are respectively:",
+"o": [
+"36 and 35",
+"37 and 37",
+"36 and 36",
+"37 and 36"
+],
+"a": 3,
+"e": "On 1 October 2026 he completed 36 years on 10 January 2026; as more than six months have passed since that birthday, age nearer birthday is 37."
+},
+{
+"n": 3,
+"topic": "Life Underwriting - Principles & Concepts (Part-1)",
+"t": "In a block of policies, expected deaths according to the mortality table were 200 and actual deaths were 230. The mortality ratio (actual to expected) is:",
+"o": [
+"115%",
+"130%",
+"87%",
+"15%"
+],
+"a": 0,
+"e": "Mortality ratio = actual deaths / expected deaths × 100 = 230/200 × 100 = 115%, i.e., 15% extra mortality over the standard table."
+},
+{
+"n": 4,
+"topic": "Life Underwriting - Principles & Concepts (Part-2)",
+"t": "Under the HIV and AIDS (Prevention and Control) Act, 2017 and IRDAI guidance, a life insurer:",
+"o": [
+"Is prohibited from asking any question about HIV in the proposal form",
+"Must accept every HIV-positive proposer at standard rates",
+"Must decline every HIV-positive proposer automatically",
+"Cannot reject a proposal solely on the ground of HIV-positive status without a proper underwriting assessment"
+],
+"a": 3,
+"e": "The law prohibits discrimination in insurance on HIV status alone; insurers may underwrite the risk on its merits (CD4 count, treatment, viral load) and offer suitable terms."
+},
+{
+"n": 5,
+"topic": "Life Underwriting - Principles & Concepts (Part-2)",
+"t": "Underwriting of an Accidental Death Benefit (ADB) rider focuses mainly on:",
+"o": [
+"The proposer's occupation, avocations and accident exposure",
+"The proposer's blood pressure and cholesterol",
+"The proposer's family history of diabetes",
+"The proposer's income tax returns"
+],
+"a": 0,
+"e": "ADB pays only on accidental death, so hazards of occupation and hobbies dominate; medical factors matter more for the base cover and critical illness riders."
+},
+{
+"n": 6,
+"topic": "Life Underwriting - Principles & Concepts (Part-2)",
+"t": "Which of the following is NOT a usual criterion for 'preferred' (better-than-standard) risk classification?",
+"o": [
+"Non-use of tobacco for the specified period",
+"Blood pressure and cholesterol within preferred limits",
+"Holding a postgraduate degree",
+"No parent or sibling with early cardiovascular death"
+],
+"a": 2,
+"e": "Preferred classes are based on measurable mortality factors such as tobacco use, BMI, blood pressure, lipids and family history, not educational qualifications."
+},
+{
+"n": 7,
+"topic": "Life Underwriting - Principles & Concepts (Part-2)",
+"t": "A urine cotinine test is used by life insurers to detect:",
+"o": [
+"Undiagnosed diabetes",
+"Recent use of tobacco or nicotine products",
+"Use of recreational drugs",
+"Excess alcohol consumption"
+],
+"a": 1,
+"e": "Cotinine is a metabolite of nicotine; a positive test contradicts a non-smoker declaration and justifies smoker rates."
+},
+{
+"n": 8,
+"topic": "Underwriting: Process and Structure",
+"t": "Under Section 64VB of the Insurance Act, 1938, an insurer may assume risk only when:",
+"o": [
+"The premium has been received in advance or is guaranteed to be paid in the prescribed manner",
+"The proposer has completed one month of good health",
+"The agent has countersigned the proposal",
+"The policy document has been printed"
+],
+"a": 0,
+"e": "Section 64VB bars assumption of risk before premium receipt; this is why cover usually starts from the date of acceptance and realisation of the first premium."
+},
+{
+"n": 9,
+"topic": "Occupational, Avocational and Residential Risks",
+"t": "A flat extra of ₹5 per thousand is charged for an underground mine worker on a sum assured of ₹20 lakh. The annual extra premium is:",
+"o": [
+"₹1,000",
+"₹5,000",
+"₹10,000",
+"₹20,000"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). ₹5 × (20,00,000 / 1,000) = ₹5 × 2,000 = ₹10,000 per annum.",
+"r": "key"
+},
+{
+"n": 10,
+"topic": "Underwriting: Process and Structure",
+"t": "A proposer paid the first premium by cheque on 5 March; the proposal was accepted on 10 March and the cheque was realised on 12 March. When does the risk normally commence?",
+"o": [
+"On the date the policy bond is dispatched",
+"On the date the proposal form was signed",
+"On acceptance of the risk and realisation of the premium, i.e., not before 12 March",
+"On 5 March, when the cheque was handed over"
+],
+"a": 2,
+"e": "Section 64VB requires premium to be received (realised) before risk is assumed; mere receipt of a cheque is not payment until it is honoured."
+},
+{
+"n": 11,
+"topic": "Underwriting: Process and Structure",
+"t": "A proposal exceeds the insurer's retention limit and the extra risk exceeds the automatic treaty terms. The underwriter should:",
+"o": [
+"Issue the policy and inform the reinsurer later",
+"Reduce the sum assured without informing the proposer",
+"Decline the case automatically",
+"Refer the case to the reinsurer for facultative acceptance before giving a final decision"
+],
+"a": 3,
+"e": "Risks outside treaty limits cannot be bound automatically; facultative placement must be confirmed before acceptance."
+},
+{
+"n": 12,
+"topic": "Financial Underwriting",
+"t": "A 55-year-old proposer with annual income of ₹5 lakh applies for term cover of ₹2 crore (40 times income). The underwriter should regard this primarily as:",
+"o": [
+"A preferred risk because the premium is small",
+"A possible case of over-insurance or speculation requiring justification and verification",
+"A case needing only a medical examination",
+"A standard case because term plans carry no savings element"
+],
+"a": 1,
+"e": "Income multiples fall with age (fewer earning years), so 40 times income at 55 is far beyond need and signals anti-selection or moral hazard."
+},
+{
+"n": 13,
+"topic": "Financial Underwriting",
+"t": "Why does the proposal form ask for details of existing life insurance and pending proposals with other insurers?",
+"o": [
+"To decide the policyholder's bonus entitlement",
+"To determine the grace period",
+"To calculate the agent's commission",
+"So that the underwriter can aggregate total cover and judge whether it is financially justified"
+],
+"a": 3,
+"e": "Financial underwriting is based on total cover across all insurers; concealment of other policies is material non-disclosure."
+},
+{
+"n": 14,
+"topic": "Financial Underwriting",
+"t": "For a high-net-worth proposer with little salaried income but large assets, the sum assured may be justified on the basis of:",
+"o": [
+"The agent's recommendation",
+"The number of dependants multiplied by ₹1 lakh",
+"Estate and business continuity needs, including net worth and liabilities",
+"The proposer's age alone"
+],
+"a": 2,
+"e": "Net-worth-based underwriting considers estate liquidity, business value and debts where income multiples are inadequate."
+},
+{
+"n": 15,
+"topic": "Financial Underwriting",
+"t": "The permitted multiple of annual income for life cover generally decreases with the proposer's age because:",
+"o": [
+"Older people pay lower premiums",
+"Insurers cannot reinsure lives above 40",
+"Older people have no dependants",
+"Fewer earning years remain and the economic loss on death is smaller"
+],
+"a": 3,
+"e": "Human Life Value depends on remaining earning years; a 25-year-old may be allowed 20-25 times income, a 55-year-old perhaps 5-10 times."
+},
+{
+"n": 16,
+"topic": "Financial Underwriting",
+"t": "A 42-year-old with annual income of ₹12 lakh is allowed 15 times income. He already has cover of ₹50 lakh with another insurer. The additional cover that can be justified is:",
+"o": [
+"₹80 lakh",
+"₹1.8 crore",
+"₹1.3 crore",
+"₹2.3 crore"
+],
+"a": 2,
+"e": "Total justified cover = 15 × ₹12 lakh = ₹1.8 crore; less existing ₹50 lakh = ₹1.3 crore additional."
+},
+{
+"n": 17,
+"topic": "Occupational, Avocational and Residential Risks",
+"t": "A proposer is employed as a security contractor in an active conflict zone abroad. The most likely underwriting decision is:",
+"o": [
+"Accept only under the non-medical scheme",
+"Postpone or decline, or accept with a substantial flat extra and war-risk exclusion, depending on the insurer's guidelines",
+"Accept with a female age set-back",
+"Standard acceptance because he is salaried"
+],
+"a": 1,
+"e": "Residence or work in war zones carries a direct and unpredictable accident/violence hazard that treaty terms often exclude."
+},
+{
+"n": 18,
+"topic": "Occupational, Avocational and Residential Risks",
+"t": "Long-distance truck drivers are often rated higher than their accident risk alone would suggest because:",
+"o": [
+"The occupation is associated with lifestyle hazards such as irregular sleep, substance use and poor health care",
+"They are usually over 60 years of age",
+"They earn very high incomes",
+"They cannot be examined medically"
+],
+"a": 0,
+"e": "Underwriting considers the environment and habits typical of an occupation, not just accident exposure."
+},
+{
+"n": 19,
+"topic": "Reinsurance",
+"t": "Under a 40% quota share treaty, on a policy with sum assured ₹50 lakh the reinsurer's share is:",
+"o": [
+"₹10 lakh",
+"₹40 lakh",
+"₹30 lakh",
+"₹20 lakh"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). Quota share cedes a fixed percentage of every risk: 40% × ₹50 lakh = ₹20 lakh.",
+"r": "key"
+},
+{
+"n": 20,
+"topic": "Occupational, Avocational and Residential Risks",
+"t": "Merchant navy personnel are usually underwritten with reference to:",
+"o": [
+"The number of ports visited in a year",
+"The proposer's educational degree only",
+"Rank, type of vessel (e.g., tanker, fishing) and the nature of duties on board",
+"The colour of the ship"
+],
+"a": 2,
+"e": "Seafaring risk varies widely: deck officers on large vessels are near standard, while fishing vessels and tankers carry higher accident hazard."
+},
+{
+"n": 21,
+"topic": "Occupational, Avocational and Residential Risks",
+"t": "A radiology technician is best underwritten by assessing:",
+"o": [
+"Only his annual income",
+"His family history of hypertension",
+"Whether he owns a vehicle",
+"Adherence to safety protocols and radiation monitoring (e.g., film badge) and any evidence of over-exposure"
+],
+"a": 3,
+"e": "Radiation exposure is a health hazard; modern safety practices usually allow standard rates when exposure is monitored and within limits."
+},
+{
+"n": 22,
+"topic": "Reinsurance",
+"t": "Under facultative reinsurance, the cedant may bind the risk:",
+"o": [
+"Only if the sum assured is below retention",
+"After informing IRDAI",
+"Only after the reinsurer has confirmed acceptance of the specific case",
+"Immediately, as the reinsurer is bound by the treaty"
+],
+"a": 2,
+"e": "Facultative reinsurance is optional for both parties; the reinsurer can decline, so acceptance must precede issue."
+},
+{
+"n": 23,
+"topic": "Reinsurance",
+"t": "A facultative-obligatory (fac-ob) treaty is one where:",
+"o": [
+"The reinsurer chooses which risks to accept and the cedant must cede them",
+"Both parties are free to accept or reject each risk",
+"The cedant may choose which risks to cede, but the reinsurer is obliged to accept those ceded within the treaty terms",
+"All risks are ceded automatically with no choice"
+],
+"a": 2,
+"e": "Fac-ob gives the cedant flexibility while binding the reinsurer, so it is usually priced higher than a pure surplus treaty."
+},
+{
+"n": 24,
+"topic": "Reinsurance",
+"t": "A newly licensed life insurer with limited capital is most likely to prefer which form of reinsurance?",
+"o": [
+"Catastrophe excess of loss only",
+"No reinsurance until it has 1 lakh policies",
+"Facultative only",
+"Quota share, which shares every risk and provides commission and financing support for new business strain"
+],
+"a": 3,
+"e": "Quota share reduces capital strain and transfers a steady share of risk, while reinsurers' commission helps fund acquisition costs."
+},
+{
+"n": 25,
+"topic": "Reinsurance",
+"t": "Under original-terms (coinsurance) reinsurance, the reinsurer usually:",
+"o": [
+"Issues a separate policy to the policyholder",
+"Pays a reinsurance commission to the cedant to cover acquisition costs",
+"Charges the cedant a commission for accepting the risk",
+"Collects premium directly from the policyholder"
+],
+"a": 1,
+"e": "Because the cedant pays agents' commission and expenses on the whole premium, the reinsurer refunds a share through reinsurance commission."
+},
+{
+"n": 26,
+"topic": "Blood Disorders",
+"t": "Polycythaemia vera is of concern to the underwriter mainly because:",
+"o": [
+"It always progresses to tuberculosis",
+"It is a benign condition requiring no rating",
+"It causes severe bleeding from minor injuries",
+"The increased red cell mass raises blood viscosity and the risk of thrombosis and stroke"
+],
+"a": 3,
+"e": "Polycythaemia vera is a myeloproliferative disorder with thrombotic risk and possible leukaemic transformation; it is rated according to control and complications."
+},
+{
+"n": 27,
+"topic": "Blood Disorders",
+"t": "Mild iron-deficiency anaemia in a 28-year-old woman with heavy menstrual periods, treated with iron, is usually:",
+"o": [
+"Rated +100% permanently",
+"Accepted at standard rates once the cause is identified and treatment is under way",
+"Declined as anaemia is uninsurable",
+"Postponed for five years"
+],
+"a": 1,
+"e": "In menstruating women iron deficiency is common and benign; in a man or an older woman, unexplained anaemia needs investigation for gastrointestinal blood loss or malignancy."
+},
+{
+"n": 28,
+"topic": "Financial Underwriting",
+"t": "A company proposes keyman insurance on its CEO, whose annual compensation is ₹30 lakh. If the insurer allows 10 times compensation, the maximum keyman cover is:",
+"o": [
+"₹30 lakh",
+"₹1.5 crore",
+"₹3 crore",
+"₹6 crore"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). Keyman cover is commonly limited to a multiple of compensation (e.g., 10 times) or of the company's average profits; 10 × ₹30 lakh = ₹3 crore.",
+"r": "key"
+},
+{
+"n": 29,
+"topic": "Nervous System",
+"t": "Uncomplicated migraine, with no neurological deficit, is usually underwritten as:",
+"o": [
+"Decline",
+"Standard",
+"+100% extra mortality",
+"Postpone for two years"
+],
+"a": 1,
+"e": "Migraine does not materially affect mortality; only migraine with neurological complications or suspicion of another cause needs further evaluation."
+},
+{
+"n": 30,
+"topic": "Nervous System",
+"t": "A proposer had a head injury with loss of consciousness in a road accident eight months ago and has fully recovered with no seizures. The usual approach is:",
+"o": [
+"Accept at standard rates after a short postponement period provided there are no sequelae such as epilepsy",
+"Decline because of risk of brain tumour",
+"Insist on a lien for the entire term",
+"Rate +200% for life"
+],
+"a": 0,
+"e": "Post-traumatic epilepsy is the main concern after head injury; once a suitable period passes without seizures, standard terms are usual."
+},
+{
+"n": 31,
+"topic": "Diabetes Mellitus",
+"t": "A woman had gestational diabetes during her pregnancy two years ago; a recent post-partum glucose tolerance test is normal. She is usually:",
+"o": [
+"Postponed for ten years",
+"Accepted at standard rates, noting the higher lifetime risk of developing Type 2 diabetes",
+"Rated +150%",
+"Declined as a diabetic"
+],
+"a": 1,
+"e": "Gestational diabetes resolves after delivery; a normal subsequent test allows standard terms, though future risk of Type 2 diabetes is raised."
+},
+{
+"n": 32,
+"topic": "Diabetes Mellitus",
+"t": "Sugar detected in a routine urine test (glycosuria) at the medical examination should be followed by:",
+"o": [
+"A chest X-ray",
+"Blood glucose tests (fasting, post-prandial and/or HbA1c) to confirm or exclude diabetes",
+"Standard acceptance since urine tests are unreliable",
+"Immediate declinature"
+],
+"a": 1,
+"e": "Glycosuria may be benign (renal glycosuria) or indicate diabetes; blood tests establish the diagnosis before any rating."
+},
+{
+"n": 33,
+"topic": "Diabetes Mellitus",
+"t": "A Type 2 diabetic who has recently been switched from oral drugs to insulin is generally rated more heavily because:",
+"o": [
+"Insulin itself causes heart disease",
+"Insulin treatment is illegal without IRDAI approval",
+"The need for insulin in Type 2 diabetes usually indicates longer duration, declining pancreatic function or poor control",
+"Insulin users are always Type 1"
+],
+"a": 2,
+"e": "Progression to insulin reflects more advanced disease; underwriters also consider hypoglycaemia-related accident risk for riders."
+},
+{
+"topic": "IRDAI – regulator",
+"t": "The control level of solvency ratio that every insurer must maintain is:",
+"o": [
+"100%",
+"125%",
+"150%",
+"200%"
+],
+"a": 2,
+"e": "★ Core fact (asked across III papers). Available solvency margin must be at least 150% of the required solvency margin; falling below triggers IRDAI action.",
+"r": "core",
+"n": 34
+},
+{
+"n": 35,
+"topic": "Thyroid Diseases",
+"t": "Hashimoto's thyroiditis is:",
+"o": [
+"An autoimmune condition that is the commonest cause of hypothyroidism in iodine-sufficient areas",
+"A congenital absence of the thyroid gland",
+"A viral infection causing temporary hyperthyroidism",
+"A malignant tumour of the thyroid"
+],
+"a": 0,
+"e": "Hashimoto's leads to gradual thyroid failure; once treated with thyroxine it is usually standard."
+},
+{
+"n": 36,
+"topic": "Thyroid Diseases",
+"t": "The single most useful screening test for thyroid dysfunction is:",
+"o": [
+"Serum TSH",
+"Haemoglobin",
+"Serum creatinine",
+"Serum calcium"
+],
+"a": 0,
+"e": "TSH is highly sensitive to both over- and under-activity of the thyroid and is the first-line test; T3/T4 follow if TSH is abnormal."
+},
+{
+"n": 37,
+"topic": "Urinary System",
+"t": "Adult polycystic kidney disease is of concern to underwriters because:",
+"o": [
+"It is caused by excessive water intake",
+"It affects only the bladder",
+"It is an inherited (autosomal dominant) condition that commonly progresses to hypertension and renal failure",
+"It resolves spontaneously by middle age"
+],
+"a": 2,
+"e": "Progressive cyst formation destroys kidney tissue; ratings depend on renal function, blood pressure and age, with advanced cases declined."
+},
+{
+"n": 38,
+"topic": "Urinary System",
+"t": "A person who donated a kidney to a relative five years ago and has normal function in the remaining kidney is usually:",
+"o": [
+"Rated +200%",
+"Declined because of a single kidney",
+"Postponed for 10 years",
+"Accepted at standard rates or with a small extra"
+],
+"a": 3,
+"e": "Living donors are carefully screened and have near-normal life expectancy; the remaining kidney compensates adequately."
+},
+{
+"n": 39,
+"topic": "The Respiratory System",
+"t": "Sarcoidosis that resolved completely without lung function impairment is usually:",
+"o": [
+"Accepted at standard rates after a suitable period",
+"Postponed indefinitely",
+"Rated +300%",
+"Declined"
+],
+"a": 0,
+"e": "Sarcoidosis is a granulomatous disease that often resolves; chronic cases with pulmonary fibrosis, cardiac or neurological involvement are rated or declined."
+},
+{
+"n": 40,
+"topic": "The Respiratory System",
+"t": "A 45-year-old smoker with 25 pack-years has an FEV1 of 55% of predicted. His COPD would be graded and underwritten as:",
+"o": [
+"Moderate COPD, warranting a substantial extra mortality rating",
+"Normal lung function, standard",
+"Mild COPD, standard",
+"Not COPD at all since he is under 50"
+],
+"a": 0,
+"e": "FEV1 50-79% predicted is moderate (GOLD 2) COPD; continued smoking worsens the outlook and the rating."
+},
+{
+"n": 41,
+"topic": "Gastrointestinal (Digestive) System",
+"t": "A proposer underwent laparoscopic cholecystectomy for gallstones one year ago with complete recovery. The usual decision is:",
+"o": [
+"Postpone until 5 years",
+"Standard",
+"Decline",
+"+100% extra"
+],
+"a": 1,
+"e": "Removal of the gallbladder cures gallstone disease; there is no residual mortality risk."
+},
+{
+"n": 42,
+"topic": "Gastrointestinal (Digestive) System",
+"t": "Ulcerative colitis of long standing is relevant to the underwriter because:",
+"o": [
+"Extensive, long-duration disease increases the risk of colorectal cancer and may need surgery",
+"It causes haemophilia",
+"It is always cured with one course of antibiotics",
+"It affects only the stomach"
+],
+"a": 0,
+"e": "Underwriting depends on extent, activity, treatment (steroids, immunosuppressants, colectomy) and surveillance; quiescent limited disease may be near standard."
+},
+{
+"n": 43,
+"topic": "Cardiovascular System",
+"t": "Hypertrophic cardiomyopathy is particularly significant in young proposers because:",
+"o": [
+"It is a leading cause of sudden cardiac death in young people and athletes",
+"It is a form of hypertension",
+"It is always cured by antibiotics",
+"It only causes mild chest discomfort"
+],
+"a": 0,
+"e": "HCM is often inherited and carries arrhythmic risk; such cases are heavily rated or declined."
+},
+{
+"n": 44,
+"topic": "Cardiovascular System",
+"t": "A proposer diagnosed with congestive heart failure would normally be:",
+"o": [
+"Accepted with a flat extra of ₹1 per mille",
+"Accepted with a 3-year age set-back",
+"Accepted at standard rates",
+"Declined"
+],
+"a": 3,
+"e": "Heart failure carries very high mortality regardless of cause; it is uninsurable for life cover in most cases."
+},
+{
+"topic": "IRDAI – regulator",
+"t": "The permitted limit of foreign direct investment in an Indian insurance company is currently:",
+"o": [
+"26%",
+"49%",
+"74%",
+"100%"
+],
+"a": 2,
+"e": "★ Core fact (asked across III papers). Raised from 49% to 74% by the Insurance (Amendment) Act 2021; intermediaries may have 100%.",
+"r": "core",
+"n": 45
+},
+{
+"n": 46,
+"topic": "Cardiovascular System",
+"t": "A normal left ventricular ejection fraction on echocardiography is approximately:",
+"o": [
+"20-30%",
+"100%",
+"35-40%",
+"55% or more"
+],
+"a": 3,
+"e": "EF below 40% indicates significant systolic dysfunction and attracts heavy ratings; normal EF is 55-70%."
+},
+{
+"n": 47,
+"topic": "Cardiovascular System",
+"t": "Which of the following is a NON-modifiable risk factor for coronary artery disease?",
+"o": [
+"Smoking",
+"Physical inactivity",
+"High LDL cholesterol",
+"Family history of premature heart disease"
+],
+"a": 3,
+"e": "Age, male sex and family history cannot be changed; smoking, lipids, blood pressure, diabetes and inactivity are modifiable."
+},
+{
+"n": 48,
+"topic": "Special Senses: Disorders of the Eyes, Ears and Nose",
+"t": "Severe bilateral deafness in a proposer is generally underwritten as:",
+"o": [
+"Postpone until hearing is restored",
+"Standard for life cover, with consideration of accident risk for riders and in hazardous occupations",
+"Decline for all covers",
+"+150% extra on life cover"
+],
+"a": 1,
+"e": "Deafness itself does not shorten life; the cause (e.g., meningitis sequelae) and accident exposure are what the underwriter checks."
+},
+{
+"n": 49,
+"topic": "Special Senses: Disorders of the Eyes, Ears and Nose",
+"t": "Chronic suppurative otitis media (CSOM) that has been treated surgically with no complications is usually:",
+"o": [
+"Decline",
+"Standard",
+"+100% extra",
+"Postpone for 2 years"
+],
+"a": 1,
+"e": "CSOM historically risked intracranial spread of infection, but treated cases carry no extra mortality today."
+},
+{
+"n": 50,
+"topic": "Special Senses: Disorders of the Eyes, Ears and Nose",
+"t": "Hypertensive retinopathy of advanced grade (haemorrhages, exudates or papilloedema) seen on fundus examination indicates:",
+"o": [
+"A harmless age-related change",
+"Early cataract formation",
+"Severe hypertension with end-organ damage, warranting a heavy rating or declinature",
+"Good control of blood pressure"
+],
+"a": 2,
+"e": "The retina mirrors the small vessels of the body; advanced hypertensive retinopathy correlates with kidney and heart damage."
+}
+]

@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Basic Concepts",
+"t": "The Marine Insurance Act, 1963 came into force in India on:",
+"o": [
+"1 January 1938",
+"1 January 1982",
+"1 April 2000",
+"1 August 1963"
+],
+"a": 3,
+"e": "The Act received assent in April 1963 and came into force on 1 August 1963. The Insurance Act dates from 1938 and the MAR form and Institute Clauses from 1982."
+},
+{
+"n": 2,
+"topic": "Basic Concepts",
+"t": "Under Section 7 of the Marine Insurance Act, 1963, a person has an insurable interest in a marine adventure where:",
+"o": [
+"He has merely a hope of acquiring interest in the goods",
+"He stands in a legal or equitable relation to the adventure or to insurable property at risk, such that he benefits from its safety and is prejudiced by its loss",
+"He is a relative of the shipowner",
+"He has given a loan to the ship's master personally"
+],
+"a": 1,
+"e": "Insurable interest requires a legal or equitable relation to the property or adventure such that the person benefits by safe arrival and is prejudiced by loss or liability. A mere expectancy is insufficient."
+},
+{
+"n": 3,
+"topic": "Fundamental Principles",
+"t": "Which of the following is NOT one of the elements necessary for the principle of contribution to apply between two marine policies?",
+"o": [
+"Both policies cover the same subject-matter",
+"Both policies cover the same interest and the same peril",
+"Both policies are in force at the time of loss",
+"Both policies are issued by the same insurer"
+],
+"a": 3,
+"e": "Contribution arises in double insurance where two or more policies cover the same interest, subject-matter and risk at the time of loss. They are necessarily with different insurers; the same insurer issuing two policies would simply be one liability."
+},
+{
+"n": 4,
+"topic": "Fundamental Principles",
+"t": "The leading case Leyland Shipping Co. v Norwich Union (1918) established which principle of marine insurance?",
+"o": [
+"The proximate cause is the dominant and effective cause, not necessarily the last in time",
+"Insurable interest must exist at inception",
+"Warranties need not be strictly complied with",
+"Abandonment is compulsory in every total loss"
+],
+"a": 0,
+"e": "In Leyland v Norwich Union the ship was torpedoed (a war peril) and later sank in harbour due to the swell; the torpedo was held the proximate (dominant) cause, so the marine policy excluding war risks did not respond."
+},
+{
+"n": 5,
+"topic": "Fundamental Principles",
+"t": "Under Section 29 of the Marine Insurance Act, 1963, in a valued policy the agreed value is conclusive between insurer and assured, except:",
+"o": [
+"Where the loss is partial",
+"For the purpose of determining whether there has been a constructive total loss",
+"Where the assured is a company",
+"Where the policy is on freight"
+],
+"a": 1,
+"e": "Section 29(4) provides that, unless the policy otherwise provides, the value fixed by the policy is not conclusive for determining whether there has been a CTL. ITC Hulls alter this by making insured value the basis."
+},
+{
+"n": 6,
+"topic": "Fundamental Principles",
+"t": "An exporter insures a consignment under a valued policy for ₹44 lakh (CIF ₹40 lakh plus 10%). The goods are totally lost and the market value at destination on arrival would have been only ₹38 lakh. The insurer pays:",
+"o": [
+"₹38 lakh",
+"₹40 lakh",
+"₹44 lakh",
+"₹41.8 lakh"
+],
+"a": 2,
+"e": "In a valued policy the agreed value is conclusive in the absence of fraud, whether or not the market value at destination is lower. The insurer pays the full insured value of ₹44 lakh."
+},
+{
+"n": 7,
+"topic": "Underwriting",
+"t": "A 'warehouse to warehouse' cargo cover is of particular concern to an underwriter for which of the following reasons?",
+"o": [
+"It reduces the premium rate to nil",
+"It is prohibited by IRDAI",
+"It covers only the sea leg",
+"It exposes the insurer to land transit, handling and storage risks before and after the sea voyage, which must be assessed and rated"
+],
+"a": 3,
+"e": "The Transit Clause extends cover from the shipper's warehouse to the consignee's warehouse; the underwriter must consider inland distances, modes of transport, port handling and storage exposures."
+},
+{
+"n": 8,
+"topic": "Underwriting",
+"t": "A cement company in Rajasthan wants cover for ₹400 crore of annual despatches by rail and road within India. The underwriter is likely to offer:",
+"o": [
+"A specific voyage policy for each despatch at ICC (A) terms",
+"A duty insurance policy",
+"A hull policy",
+"An open policy or annual sales turnover policy on Inland Transit Clauses with per sending and per location limits"
+],
+"a": 3,
+"e": "Large regular inland movements are written on open policies or STOP policies with inland transit clauses; per sending limits control accumulation and the premium is based on turnover or declarations."
+},
+{
+"n": 9,
+"topic": "Underwriting",
+"t": "Marine cargo insurance of ₹50 lakh is written at 0.08% basic rate. GST of 18% applies. What is the total amount payable by the assured?",
+"o": [
+"₹4,000",
+"₹5,900",
+"₹4,720",
+"₹4,000 plus ₹720 stamp duty"
+],
+"a": 2,
+"e": "Premium = ₹50,00,000 x 0.08% = ₹4,000. GST at 18% = ₹720. Total = ₹4,720. Stamp duty on marine policies is a separate nominal amount and is not 18%."
+},
+{
+"n": 10,
+"topic": "Cargo Insurance Coverage – Part 1",
+"t": "Under ICC 2009, loss caused by the use of any weapon or device employing atomic or nuclear fission or fusion is:",
+"o": [
+"Excluded under all three sets of clauses by the General Exclusions clause",
+"Covered under ICC (A) only",
+"Covered under the Institute War Clauses (Cargo)",
+"Covered subject to additional premium"
+],
+"a": 0,
+"e": "Clause 4.8 excludes nuclear weapons in all three Institute Cargo Clauses; the Institute War Clauses (Cargo) similarly exclude nuclear weapons of war."
+},
+{
+"n": 11,
+"topic": "Fundamental Principles",
+"t": "A marine policy is assignable by endorsement or in other customary manner under Section 52 of the Marine Insurance Act, 1963, unless:",
+"o": [
+"The assured has already paid the premium",
+"The subject-matter is cargo",
+"The policy contains terms expressly prohibiting assignment",
+"The policy is a valued policy"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). Marine policies are freely assignable before or after loss unless expressly prohibited. Cargo policies are routinely assigned to buyers; hull policies under ITC require underwriters' agreement by express clause.",
+"r": "key"
+},
+{
+"n": 12,
+"topic": "Cargo Insurance Coverage – Part 1",
+"t": "Which of the following statements about 'ordinary leakage, ordinary loss in weight or volume, or ordinary wear and tear' under ICC 2009 is correct?",
+"o": [
+"It is covered under ICC (A) as an all-risks loss",
+"It is covered under the Strikes Clauses",
+"It is covered under ICC (B) only",
+"It is excluded under all three sets of clauses, because it is an expected and inevitable loss and not fortuitous"
+],
+"a": 3,
+"e": "Clause 4.2 excludes ordinary leakage, loss in weight or volume and wear and tear in ICC (A), (B) and (C). Insurance responds only to fortuitous loss, not to normal trade losses."
+},
+{
+"n": 13,
+"topic": "Cargo Insurance Coverage – Part 1",
+"t": "The General Average clause (Clause 2) of ICC 2009 covers:",
+"o": [
+"Only general average sacrifice of the insured goods",
+"Only general average expenditure incurred at ports in India",
+"General average and salvage charges adjusted according to the contract of carriage and/or governing law, incurred to avoid loss from any cause except those excluded",
+"Nothing, since general average is covered under the hull policy"
+],
+"a": 2,
+"e": "Clause 2 pays the cargo's contribution to general average and salvage charges, adjusted per the contract of affreightment or governing law and practice, where incurred to avoid a loss from any cause not excluded by Clauses 4-7."
+},
+{
+"n": 14,
+"topic": "Cargo Insurance Coverage – Part 1",
+"t": "Under ICC 2009, the 'Forwarding Charges' clause provides that where, as a result of an insured peril, the transit terminates at a port other than destination, the insurer will reimburse:",
+"o": [
+"The full insured value as a total loss",
+"Only the freight for the original voyage",
+"Any extra charges properly and reasonably incurred in unloading, storing and forwarding the goods to the insured destination",
+"Loss of profit on the sale"
+],
+"a": 2,
+"e": "Clause 12 reimburses extra unloading, storage and forwarding charges to the destination when the transit is interrupted by an insured peril, subject to the exclusions and excluding fault of the assured."
+},
+{
+"n": 15,
+"topic": "Cargo Insurance Coverage – Part 1",
+"t": "Under the Insurable Interest clause (Clause 11) of ICC 2009, the assured is entitled to recover for an insured loss occurring during the period covered:",
+"o": [
+"Only if the assured had insurable interest when the policy was issued",
+"Notwithstanding that the loss occurred before the contract of insurance was concluded, unless the assured was aware of the loss and the insurer was not",
+"Only after the goods have been delivered",
+"Only if the goods were paid for before loss"
+],
+"a": 1,
+"e": "Clause 11.2 reflects the 'lost or not lost' principle: a loss before conclusion of the contract is recoverable unless the assured knew of it and the insurers did not. Interest must exist at the time of loss (Clause 11.1)."
+},
+{
+"n": 16,
+"topic": "Cargo Insurance Coverage – Part 2",
+"t": "Under Indian Inland Transit (Rail or Road) Clauses 'A', 'B' and 'C', the insurance attaches:",
+"o": [
+"Only when goods are loaded on the railway wagon",
+"From the time the goods leave the warehouse or place of storage at the place named in the policy for commencement of transit",
+"When the lorry receipt is issued",
+"After the goods cross the state border"
+],
+"a": 1,
+"e": "Like the ICC, inland clauses provide warehouse-to-warehouse cover attaching when goods leave the warehouse at the named place and continuing in the ordinary course of transit until delivery or the 7-day tail."
+},
+{
+"n": 17,
+"topic": "Cargo Insurance Coverage – Part 2",
+"t": "Which of the following is specifically excluded under the Institute War Clauses (Cargo) 1/1/2009?",
+"o": [
+"Capture, seizure and arrest arising from war",
+"Derelict mines and torpedoes",
+"Any claim based upon loss of or frustration of the voyage or adventure, and loss from hostile use of a nuclear weapon of war",
+"Civil war and revolution"
+],
+"a": 2,
+"e": "The War Clauses cover war, civil war, capture, seizure and derelict weapons whilst the goods are waterborne, but exclude frustration of the voyage (e.g. goods merely prevented from reaching destination without physical loss) and nuclear weapons of war."
+},
+{
+"n": 18,
+"topic": "Cargo Insurance Coverage – Part 2",
+"t": "Under the Institute Strikes Clauses (Cargo) 2009, 'riots and civil commotions' means:",
+"o": [
+"Any lawful trade union activity",
+"Violent disturbances by a group of persons causing damage, falling short of war or insurrection",
+"Peaceful protest",
+"Customs seizure"
+],
+"a": 1,
+"e": "Riots and civil commotions are violent group disturbances, usually involving tumultuous assemblies causing damage, and are insured under the Strikes Clauses together with strikers, locked-out workmen and terrorists."
+},
+{
+"n": 19,
+"topic": "Cargo Insurance Coverage – Part 2",
+"t": "The Institute Theft, Pilferage and Non-Delivery (TPND) clause was historically attached to:",
+"o": [
+"ICC (A), to exclude theft",
+"War policies",
+"Hull policies",
+"ICC (B) or (C) or FPA/WA covers, to extend them to theft, pilferage and non-delivery of entire packages"
+],
+"a": 3,
+"e": "Named-perils cargo clauses (ICC B/C and the older FPA/WA) do not cover theft, pilferage and non-delivery; the TPND clause extends them. ICC (A) already covers these risks."
+},
+{
+"n": 20,
+"topic": "Marine Claims",
+"t": "A cargo policy is subject to a franchise of 3%. The insured value is ₹10 lakh and the loss assessed is ₹50,000. How much is payable?",
+"o": [
+"₹20,000",
+"₹30,000",
+"₹50,000",
+"Nil"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). A franchise is a threshold: 3% of ₹10 lakh = ₹30,000. Because the loss of ₹50,000 exceeds the franchise, the entire loss is paid. Under a deductible (excess) only ₹20,000 would be payable.",
+"r": "key"
+},
+{
+"n": 21,
+"topic": "Cargo Insurance Coverage – Part 2",
+"t": "Under the Inland Transit Clauses, which of the following losses would NOT be payable under ITC (B) Basic Cover?",
+"o": [
+"Goods burnt in a fire that broke out in the lorry",
+"Goods damaged when the lorry overturned",
+"Goods stolen from the lorry while parked overnight",
+"Goods damaged when the railway bridge collapsed"
+],
+"a": 2,
+"e": "ITC (B) covers fire, lightning, breakage of bridges and collision/overturning/derailment of the carrying conveyance. Theft is not a named peril and requires ITC (A) all-risks cover."
+},
+{
+"n": 22,
+"topic": "Types of Covers",
+"t": "Which of the following is NOT ordinarily insurable under a marine cargo open cover?",
+"o": [
+"Import of raw materials by sea",
+"Export of finished goods by air",
+"The assured's loss of anticipated profit on goods that have not yet been purchased",
+"Inland transit of goods from port to factory"
+],
+"a": 2,
+"e": "A cargo open cover insures goods in transit in which the assured has an interest. Speculative profit on goods not yet owned carries no insurable interest and cannot be covered."
+},
+{
+"n": 23,
+"topic": "Types of Covers",
+"t": "In an open cover, the 'cancellation clause' commonly provides for cancellation of marine risks on notice of:",
+"o": [
+"24 hours",
+"48 hours",
+"30 days",
+"12 months"
+],
+"a": 2,
+"e": "Marine risks under an open cover are usually cancellable by either party on 30 days' notice; war risks are cancellable on 7 days' notice and strikes on 7 days' notice under Institute provisions."
+},
+{
+"n": 24,
+"topic": "Types of Covers",
+"t": "An Open Policy differs from a Specific Policy in that an open policy:",
+"o": [
+"Requires a fresh stamp for every despatch",
+"Cannot cover inland transit",
+"Covers a series of despatches over a period within a total sum insured, with declarations required for each despatch",
+"Is valid for a single voyage only"
+],
+"a": 2,
+"e": "An open policy is a stamped annual policy with an aggregate sum insured that is reduced by each declared despatch; a specific policy covers one consignment on one transit."
+},
+{
+"n": 25,
+"topic": "Types of Covers",
+"t": "Which of the following statements about Increased Value insurance on cargo is correct?",
+"o": [
+"The increased value insurer pays all claims first",
+"It covers customs duty",
+"It can be taken only on hull",
+"Claims are shared between the original policy and the increased value policy in proportion to their respective sums insured, and the assured must disclose the increased value insurance"
+],
+"a": 3,
+"e": "Clause 14 of ICC provides that where Increased Value insurance is effected, the agreed value is deemed increased to the total of all such insurances and liability is shared pro rata; the assured must furnish evidence of all insurances."
+},
+{
+"n": 26,
+"topic": "Types of Covers",
+"t": "A manufacturer in Pune sends finished goods to its own depots across India in its own trucks. The appropriate cover is:",
+"o": [
+"A specific voyage policy per truck",
+"An annual policy for own goods in own vehicles, with a per sending limit and an annual sum insured",
+"A duty insurance policy",
+"A hull policy"
+],
+"a": 1,
+"e": "Annual policies are tailored for movement of the assured's own goods within India, including in own vehicles, without declarations; premium is on the estimated annual value with a per sending limit."
+},
+{
+"n": 27,
+"topic": "Hull Insurance – Part 1",
+"t": "A vessel is 'in class' when:",
+"o": [
+"She has paid port dues",
+"She carries a full cargo",
+"Her hull and machinery meet the rules of a classification society and the society's periodic surveys are up to date",
+"She is registered in India"
+],
+"a": 2,
+"e": "A vessel maintained in class complies with the technical rules of the classification society; hull underwriters usually require class to be maintained throughout the policy, and ITC Hulls terminate on change or withdrawal of class."
+},
+{
+"n": 28,
+"topic": "Hull Insurance – Part 1",
+"t": "Under ITC Hulls 83, loss or damage caused by contact with aircraft or similar objects, or objects falling therefrom, land conveyance, dock or harbour equipment is:",
+"o": [
+"Excluded",
+"Covered under the perils clause (Clause 6.1)",
+"Covered only under war risks",
+"Covered only if the master is at fault"
+],
+"a": 1,
+"e": "Clause 6.1.5 covers contact with aircraft, helicopters or objects falling from them, land conveyance, dock or harbour equipment or installation, independent of any due diligence proviso."
+},
+{
+"n": 29,
+"topic": "Cargo Insurance Coverage – Part 2",
+"t": "Under the Institute Cargo Clauses (Air) (excluding sendings by post) 1/1/2009, the transit cover terminates, in the absence of earlier termination, on the expiry of how many days after unloading from the aircraft at the final place of discharge?",
+"o": [
+"60 days",
+"7 days",
+"15 days",
+"30 days"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). The Air Clauses provide a shorter tail than the sea clauses: 30 days after unloading at the final place of discharge, compared with 60 days under ICC (A), (B) and (C).",
+"r": "key"
+},
+{
+"n": 30,
+"topic": "Hull Insurance – Part 1",
+"t": "The 'International Safety Management (ISM) Code' is relevant to hull underwriters because:",
+"o": [
+"It requires shipping companies to establish a safety management system, and non-compliance indicates poor management and may breach express warranties",
+"It fixes hull insurance rates",
+"It is a classification society",
+"It prescribes freight rates"
+],
+"a": 0,
+"e": "The ISM Code (mandatory under SOLAS Chapter IX) requires a documented safety management system and a Document of Compliance; hull policies often warrant ISM compliance, and non-compliance signals inferior management."
+},
+{
+"n": 31,
+"topic": "Hull Insurance – Part 1",
+"t": "A vessel insured under ITC Hulls 83 for ₹40 crore sustains damage of ₹3 crore due to an explosion in the engine room caused by the crew's negligent maintenance. The owners have a robust maintenance system and no want of due diligence is found. What is the position?",
+"o": [
+"Not covered, as negligence is excluded",
+"Covered only if the vessel is declared a CTL",
+"Covered only to 50%",
+"Covered, as explosion is a Clause 6.1 peril and crew negligence is in any event a Clause 6.2 peril where the due diligence proviso is satisfied"
+],
+"a": 3,
+"e": "Explosion is a named peril under Clause 6.1 and negligence of crew is covered under Clause 6.2 subject to the due diligence proviso, which is satisfied. The claim of ₹3 crore is payable less the deductible."
+},
+{
+"n": 32,
+"topic": "Hull Insurance – Part 1",
+"t": "'Net Registered Tonnage' (NRT) differs from GRT in that NRT:",
+"o": [
+"Includes bunkers",
+"Equals deadweight",
+"Is the vessel's weight in tonnes",
+"Is the GRT less spaces not available for carrying cargo or passengers (engine room, crew quarters etc.)"
+],
+"a": 3,
+"e": "NRT is the volume of revenue-earning space, obtained by deducting non-cargo spaces from GRT; port and canal dues are commonly based on NRT or GRT."
+},
+{
+"n": 33,
+"topic": "Hull Insurance – Part 2",
+"t": "A vessel insured for ₹50 crore under ITC Hulls 83 collides with another vessel and is held 100% to blame. The owner is legally liable to pay ₹8 crore for damage to the other vessel. The hull insurer pays:",
+"o": [
+"₹6 crore",
+"₹8 crore",
+"₹2 crore",
+"₹4 crore"
+],
+"a": 0,
+"e": "Under the 3/4ths Collision Liability clause the insurer pays three-fourths of the liability: 3/4 x ₹8 crore = ₹6 crore (within the limit of 3/4ths of insured value, ₹37.5 crore). The remaining ₹2 crore falls on the P&I Club."
+},
+{
+"n": 34,
+"topic": "Hull Insurance – Part 2",
+"t": "Under ITC Hulls 83, the deductible does NOT apply to:",
+"o": [
+"Particular average damage",
+"Collision liability claims",
+"Claims for total or constructive total loss and the expense of sighting the bottom after stranding",
+"General average contributions"
+],
+"a": 2,
+"e": "Clause 12 applies the deductible to the aggregate of all claims (PA, GA, collision, sue and labour) from each separate accident, but exempts total/CTL claims and the cost of sighting the bottom after stranding."
+},
+{
+"n": 35,
+"topic": "Hull Insurance – Part 2",
+"t": "A hull insured value is ₹20 crore. Following a grounding, the cost of recovery is ₹5 crore and the estimated cost of repairs is ₹17 crore. Under ITC Hulls 83, is the vessel a constructive total loss?",
+"o": [
+"Yes, because the combined cost of recovery and repair (₹22 crore) exceeds the insured value of ₹20 crore",
+"No, because repair cost alone is less than insured value",
+"No, because CTL requires the vessel to be missing",
+"Yes, only if the market value is below ₹17 crore"
+],
+"a": 0,
+"e": "Clause 19 provides that in ascertaining a CTL, only the cost relating to a single accident is taken into account, but recovery and repair costs are added together and compared with the insured value. ₹22 crore exceeds ₹20 crore, so it is a CTL."
+},
+{
+"n": 36,
+"topic": "Hull Insurance – Part 2",
+"t": "A 'Builders' Risks' hull policy covers:",
+"o": [
+"The vessel while being constructed at the shipyard, including launching and trials, until delivery",
+"The vessel while laid up",
+"Liability of the shipbuilder for late delivery",
+"Cargo loaded on the maiden voyage"
+],
+"a": 0,
+"e": "Builders' risks insurance (Institute Clauses for Builders' Risks) protects the hull, machinery and materials during construction, launching, fitting out and sea trials up to delivery to the owner."
+},
+{
+"n": 37,
+"topic": "Marine Claims",
+"t": "Under Section 55 of the Marine Insurance Act, 1963, the insurer is NOT liable for:",
+"o": [
+"Loss proximately caused by a peril insured against, even if negligence of the crew contributed",
+"Loss attributable to the wilful misconduct of the assured",
+"Loss caused by fire on board",
+"Loss caused by jettison"
+],
+"a": 1,
+"e": "Section 55(2)(a) excludes loss attributable to the wilful misconduct of the assured, while the insurer remains liable for losses proximately caused by an insured peril even where the master or crew were negligent."
+},
+{
+"topic": "Intermediaries",
+"t": "A corporate agent may tie up with a maximum of how many insurers in each line of business?",
+"o": [
+"3",
+"6",
+"9",
+"Unlimited"
+],
+"a": 2,
+"e": "★ Core fact (asked across III papers). Raised from 3 to 9 insurers per category (life, general, health) by the 2022 amendment to the Corporate Agents Regulations.",
+"r": "core",
+"n": 38
+},
+{
+"n": 39,
+"topic": "Marine Claims",
+"t": "Under the York-Antwerp Rules, which of the following would be allowed as general average SACRIFICE?",
+"o": [
+"Cargo damaged by water used to extinguish a fire on board",
+"Cargo destroyed by the fire itself",
+"Cargo lost due to theft at port",
+"Cargo damaged by inherent vice"
+],
+"a": 0,
+"e": "Damage caused by water, beaching or other means deliberately used to extinguish a fire is a general average sacrifice (Rule III); damage by the fire itself, including smoke and heat, is particular average."
+},
+{
+"n": 40,
+"topic": "Marine Claims",
+"t": "A cargo of 1,000 bags of sugar insured for ₹30 lakh under ICC (A) arrived with 200 bags totally lost by sea water and the remaining 800 bags sound. What is the claim?",
+"o": [
+"₹30 lakh",
+"₹3 lakh",
+"₹24 lakh",
+"₹6 lakh"
+],
+"a": 3,
+"e": "A total loss of part of the goods is recoverable at the proportion of the insured value that the lost part bears to the whole: 200/1,000 x ₹30 lakh = ₹6 lakh."
+},
+{
+"n": 41,
+"topic": "Marine Claims",
+"t": "'Particular charges' under the Marine Insurance Act, 1963 are:",
+"o": [
+"General average expenditure",
+"Expenses incurred by or on behalf of the assured for the safety or preservation of the subject-matter, other than general average and salvage charges",
+"Salvage awards",
+"Customs duty on damaged goods"
+],
+"a": 1,
+"e": "Section 64(2) defines particular charges as expenses incurred for the safety or preservation of the subject-matter other than GA and salvage charges; they are not included in particular average."
+},
+{
+"n": 42,
+"topic": "Marine Claims",
+"t": "Which of the following documents is signed by the consignee undertaking to pay the general average contribution assessed, and is required before cargo is released at the port of refuge or destination?",
+"o": [
+"Bill of lading",
+"Letter of subrogation",
+"Mate's receipt",
+"General average bond (Lloyd's Average Bond)"
+],
+"a": 3,
+"e": "The GA bond is signed by cargo receivers, usually with a GA guarantee from the cargo insurer or a cash deposit, before the carrier releases the cargo; the average adjuster then prepares the adjustment."
+},
+{
+"n": 43,
+"topic": "Marine Recoveries",
+"t": "Which of the following is correct regarding 'abandonment' and 'subrogation'?",
+"o": [
+"Both transfer ownership of the subject-matter to the insurer",
+"Abandonment applies only to partial losses",
+"Subrogation applies only to hull policies",
+"Subrogation gives the insurer the assured's rights and remedies after payment, whereas abandonment transfers the assured's proprietary interest in the subject-matter to the insurer on a CTL"
+],
+"a": 3,
+"e": "Subrogation is a right to pursue remedies in the assured's name limited to the amount paid; abandonment, on acceptance, transfers the proprietary interest (and any proceeds, even in excess of the claim) to the insurer."
+},
+{
+"n": 44,
+"topic": "Marine Recoveries",
+"t": "Under the Montreal Convention, 1999 (given effect in India under the Carriage by Air Act, 1972 as amended), a complaint for damage to cargo must be made to the air carrier in writing within:",
+"o": [
+"14 days of receipt",
+"3 days",
+"60 days",
+"2 years"
+],
+"a": 0,
+"e": "Damage must be notified within 14 days of receipt and delay within 21 days; the limitation for action is two years. The 3-day period applies to non-apparent loss under the Hague-Visby Rules."
+},
+{
+"topic": "Reinsurance",
+"t": "The obligatory cession that Indian general insurers must make to GIC Re is currently:",
+"o": [
+"4%",
+"5%",
+"10%",
+"15%"
+],
+"a": 0,
+"e": "★ Core fact (asked across III papers). The obligatory cession was reduced to 4% from 1 April 2022.",
+"r": "core",
+"n": 45
+},
+{
+"n": 46,
+"topic": "Marine Recoveries",
+"t": "A cargo insured for ₹8 lakh had an insurable value of ₹10 lakh. The insurer paid a partial loss and later recovered ₹5 lakh from the carrier in respect of the same loss of ₹5 lakh. How is the recovery shared?",
+"o": [
+"The insurer retains ₹5 lakh",
+"The insurer retains ₹4 lakh and the assured receives ₹1 lakh, in proportion to 8:2",
+"The assured keeps the whole recovery",
+"The recovery is split equally"
+],
+"a": 1,
+"e": "Where the assured is co-insurer for the uninsured 20%, recoveries are shared in the same proportion: the insurer (who paid 80% of the loss) retains 80% of the recovery, i.e. ₹4 lakh."
+},
+{
+"n": 47,
+"topic": "Role of Banker in Marine Insurance",
+"t": "Under a letter of credit calling for shipment on 'CIF Mumbai' terms, the party responsible for arranging the marine insurance is:",
+"o": [
+"The buyer in Mumbai",
+"The seller/exporter, who must provide an insurance document in favour of the buyer",
+"The issuing bank",
+"The carrier"
+],
+"a": 1,
+"e": "Under CIF the seller contracts for carriage and insurance to the destination port and presents the insurance document among the shipping documents; risk nevertheless passes to the buyer on shipment."
+},
+{
+"n": 48,
+"topic": "Role of Banker in Marine Insurance",
+"t": "Which of the following documents gives the holder the right to claim delivery of goods from the carrier and is negotiable by endorsement, making it the key security for a financing bank?",
+"o": [
+"Commercial invoice",
+"Packing list",
+"Order bill of lading",
+"Certificate of origin"
+],
+"a": 2,
+"e": "An order bill of lading is a document of title; by endorsing and delivering it, the goods are transferred, so the bank holding it controls the goods. A straight (non-negotiable) B/L or sea waybill does not offer this."
+},
+{
+"n": 49,
+"topic": "Loss Prevention, Reinsurance and Maritime Frauds",
+"t": "Which of the following is the most effective loss prevention measure against water damage to bagged cargo in a general cargo ship?",
+"o": [
+"Proper dunnage, ventilation and separation from hatch coamings and sweating areas",
+"Reducing the premium rate",
+"Increasing the sum insured",
+"Shipping under ICC (C)"
+],
+"a": 0,
+"e": "Loss prevention addresses the physical cause: dunnage keeps cargo off wet decks, ventilation reduces sweat, and keeping bags away from hull sides and hatch coamings limits water contact."
+},
+{
+"n": 50,
+"topic": "Loss Prevention, Reinsurance and Maritime Frauds",
+"t": "An excess of loss reinsurance treaty for a marine hull account is written as '₹40 crore in excess of ₹10 crore'. A hull loss of ₹35 crore occurs. How much does the reinsurer pay?",
+"o": [
+"₹35 crore",
+"₹25 crore",
+"₹10 crore",
+"₹40 crore"
+],
+"a": 1,
+"e": "The ceding insurer retains the first ₹10 crore; the reinsurer pays the amount above that, up to ₹40 crore: ₹35 crore - ₹10 crore = ₹25 crore."
+}
+]

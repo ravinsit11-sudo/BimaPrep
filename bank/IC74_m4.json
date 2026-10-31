@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Statutory Liability in India",
+"t": "Under the Schedule to the Public Liability Insurance Act, 1991, relief for actual damage to private property is payable up to:",
+"o": [
+"₹2,000",
+"₹10,000",
+"₹6,000",
+"₹25,000"
+],
+"a": 2,
+"e": "The Act fixes property damage relief at a maximum of ₹6,000; personal injury relief ranges from ₹1,000 per month for temporary partial disability to ₹25,000 for death or PTD."
+},
+{
+"n": 2,
+"topic": "Public Liability Insurance",
+"t": "The industrial public liability policy indemnifies the insured against:",
+"o": [
+"Liability for third-party injury or damage arising from accidents at the insured's premises in the course of the business",
+"Liability arising from products supplied",
+"Liability to employees under the EC Act",
+"Liability for professional advice"
+],
+"a": 0,
+"e": "It is a premises-and-operations cover; products, employees and professional exposures are each insured under their own policy."
+},
+{
+"n": 3,
+"topic": "Products Liability Insurance",
+"t": "The 'sistership' or recall exclusion in a products liability policy removes cover for:",
+"o": [
+"The cost of withdrawing products from the market because of a known or suspected defect",
+"Bodily injury caused by a product",
+"Liability of vendors of the product",
+"Property damage caused by a product"
+],
+"a": 0,
+"e": "Recall expenses are an insured's own cost and are excluded; a product recall policy insures them separately."
+},
+{
+"n": 4,
+"topic": "Professional Indemnity Insurance",
+"t": "Which of the following insurance intermediaries are REQUIRED by IRDAI regulations to maintain a professional indemnity policy?",
+"o": [
+"Individual insurance agents",
+"Policyholders",
+"Insurance brokers",
+"Insurance Ombudsmen"
+],
+"a": 2,
+"e": "The IRDAI (Insurance Brokers) Regulations require brokers to hold PI cover at prescribed minimum limits linked to their remuneration; similar requirements apply to corporate agents and web aggregators."
+},
+{
+"n": 5,
+"topic": "Employers' Liability and Employees' Compensation Insurance",
+"t": "An employee earning ₹10,000 per month is temporarily totally disabled. The half-monthly payment due under the Employees' Compensation Act is:",
+"o": [
+"₹5,000",
+"₹1,250",
+"₹10,000",
+"₹2,500"
+],
+"a": 3,
+"e": "The half-monthly payment is 25% of monthly wages: 25% × ₹10,000 = ₹2,500, payable from the sixteenth day if disablement exceeds 28 days, otherwise after a waiting period of three days."
+},
+{
+"n": 6,
+"topic": "Directors' and Officers' Liability Insurance",
+"t": "A 'hammer clause' in a D&O policy provides that:",
+"o": [
+"The insurer must settle every claim within the limit",
+"If the insured refuses a settlement recommended by the insurer, the insurer's liability is capped at the amount for which it could have settled plus costs to that date",
+"The insurer need not defend any claim",
+"The premium is doubled on renewal"
+],
+"a": 1,
+"e": "The clause balances the insured's consent to settle with the insurer's interest in avoiding escalation; softer versions share the excess cost."
+},
+{
+"n": 7,
+"topic": "Commercial General Liability Policy",
+"t": "'Supplementary payments' under the ISO CGL form are:",
+"o": [
+"Payable within the limit of liability",
+"Excluded from cover",
+"An additional premium",
+"Defence costs, bonds, interest and similar expenses payable in addition to the limits of insurance"
+],
+"a": 3,
+"e": "Unlike Indian 'costs inclusive' wordings, the CGL pays defence costs outside the limits, which is a significant difference in exposure."
+},
+{
+"n": 8,
+"topic": "Cyber and Other Specialised Liability Covers",
+"t": "Loss arising from 'social engineering' or fraudulent funds transfer, where an employee is tricked into remitting money, is under most cyber policies:",
+"o": [
+"Always fully covered",
+"Usually excluded or covered only by a sub-limited extension",
+"Covered under business interruption",
+"Covered as cyber extortion"
+],
+"a": 1,
+"e": "Voluntary parting with money is traditionally a crime/fidelity exposure; cyber insurers may add it as a limited extension."
+},
+{
+"n": 9,
+"topic": "Underwriting and Claims in Liability Insurance",
+"t": "'Moral hazard' in liability underwriting refers to:",
+"o": [
+"The insured's attitude, such as poor safety culture or claims-consciousness, that increases the likelihood of claims",
+"The physical hazards of the premises",
+"The rate of premium",
+"The limit of indemnity"
+],
+"a": 0,
+"e": "Physical hazard is the nature of the premises or product; moral hazard is the character and management attitude of the insured."
+},
+{
+"n": 10,
+"topic": "Cyber and Other Specialised Liability Covers",
+"t": "The CERT-In directions of April 2022 require Indian entities to report cyber security incidents within:",
+"o": [
+"6 hours of noticing the incident",
+"24 hours",
+"72 hours",
+"7 days"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). The directions mandate reporting within six hours, a much shorter window than the 72 hours under GDPR, which increases incident response and notification cost exposure.",
+"r": "key"
+},
+{
+"n": 11,
+"topic": "Reinsurance of Liability Business",
+"t": "'Ultimate net loss' in an excess of loss treaty means:",
+"o": [
+"The gross loss before any recovery",
+"The premium ceded",
+"The cedant's actual loss after all recoveries from other reinsurance and salvage, including costs, on which the layer responds",
+"The reinsurer's share of premium"
+],
+"a": 2,
+"e": "The retention and limit are applied to the ultimate net loss, so the definition (including or excluding costs) is critical in a liability treaty."
+},
+{
+"n": 12,
+"topic": "Law of Torts and Legal Liability",
+"t": "Trespass to the person comprises:",
+"o": [
+"Nuisance",
+"Negligence",
+"Assault, battery and false imprisonment",
+"Defamation"
+],
+"a": 2,
+"e": "These are intentional torts; false arrest and false imprisonment are among the 'personal injury' offences covered under liability policies."
+},
+{
+"n": 13,
+"topic": "Statutory Liability in India",
+"t": "Section 4 of the Public Liability Insurance Act, 1991 requires the owner to:",
+"o": [
+"Take out one or more insurance policies before he starts handling the hazardous substance and keep them in force",
+"Take out insurance only if the Collector so directs",
+"Take out insurance after an accident occurs",
+"Take out insurance for one month only"
+],
+"a": 0,
+"e": "Insurance is a pre-condition for handling; the policy must be renewed before expiry, and the Act exempts only the Government and certain notified entities."
+},
+{
+"n": 14,
+"topic": "Public Liability Insurance",
+"t": "Which of the following statements about the Indian public liability policy is INCORRECT?",
+"o": [
+"The limits are expressed as AOA and AOY",
+"It covers injury to the insured's employees",
+"A compulsory excess applies to each accident",
+"Pollution is covered only if sudden and accidental"
+],
+"a": 1,
+"e": "Employees are excluded; the other three statements correctly describe the policy."
+},
+{
+"n": 15,
+"topic": "Products Liability Insurance",
+"t": "A bakery sells a cake at its counter; a customer suffers food poisoning at home and claims compensation. The bakery's claim would be dealt with under its:",
+"o": [
+"Public liability (non-industrial) policy",
+"Professional indemnity policy",
+"Employees' compensation policy",
+"Products liability policy"
+],
+"a": 3,
+"e": "The injury arose away from the premises from a product sold, which is the products hazard and is excluded from public liability."
+},
+{
+"n": 16,
+"topic": "Professional Indemnity Insurance",
+"t": "Which of the following statements about professional indemnity insurance is INCORRECT?",
+"o": [
+"It covers loss arising from the insured's deliberate and dishonest acts",
+"It is written on a claims-made basis",
+"It contains a retroactive date",
+"It carries a compulsory excess"
+],
+"a": 0,
+"e": "Dishonest, fraudulent or criminal acts of the insured are excluded, although innocent partners may be protected by an innocent non-disclosure/severability provision."
+},
+{
+"n": 17,
+"topic": "Employers' Liability and Employees' Compensation Insurance",
+"t": "Under Section 10B of the Employees' Compensation Act, an employer must give notice of a fatal accident to the Commissioner within:",
+"o": [
+"30 days",
+"24 hours",
+"15 days",
+"7 days"
+],
+"a": 3,
+"e": "Notice of death or serious bodily injury must be given within seven days in the prescribed form, failing which the employer is liable to penalty."
+},
+{
+"n": 18,
+"topic": "Directors' and Officers' Liability Insurance",
+"t": "Costs of a director responding to a formal investigation by a regulator such as SEBI are, under modern D&O policies:",
+"o": [
+"Always excluded",
+"Often covered as an extension for costs of attending or responding to the investigation",
+"Covered under business interruption",
+"Covered only as personal accident"
+],
+"a": 1,
+"e": "Investigation costs cover (subject to sub-limits) has become a standard extension, as inquiries often precede formal claims."
+},
+{
+"n": 19,
+"topic": "Employers' Liability and Employees' Compensation Insurance",
+"t": "The minimum compensation payable for death of an employee under the Employees' Compensation Act, 1923 (as amended in 2009) is:",
+"o": [
+"₹80,000",
+"₹1,00,000",
+"₹1,20,000",
+"₹1,40,000"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). Death compensation is 50% of wages × relevant factor or ₹1,20,000, whichever is more; the corresponding minimum for permanent total disablement is ₹1,40,000.",
+"r": "key"
+},
+{
+"n": 20,
+"topic": "Commercial General Liability Policy",
+"t": "The 'expected or intended injury' exclusion in the CGL policy does NOT apply to:",
+"o": [
+"Any deliberate act",
+"Injury caused by products",
+"Bodily injury resulting from the use of reasonable force to protect persons or property",
+"Injury caused by vehicles"
+],
+"a": 2,
+"e": "The exclusion carves back reasonable force (e.g. a security guard restraining a thief), since such injury, although intended, is justified."
+},
+{
+"n": 21,
+"topic": "Cyber and Other Specialised Liability Covers",
+"t": "Which of the following is generally NOT covered under a standard cyber insurance policy?",
+"o": [
+"Forensic investigation costs",
+"Public relations and crisis management costs",
+"Customer notification costs",
+"Bodily injury or physical property damage resulting from a cyber attack"
+],
+"a": 3,
+"e": "Cyber policies address data and network losses; physical BI/PD is normally excluded and must be addressed under liability or property covers."
+},
+{
+"n": 22,
+"topic": "Cyber and Other Specialised Liability Covers",
+"t": "Liability for gradual pollution, such as slow seepage of effluent over years, can be insured under:",
+"o": [
+"The standard public liability policy",
+"The CGL policy",
+"A stand-alone environmental impairment liability (pollution) policy",
+"A products liability policy"
+],
+"a": 2,
+"e": "Both Indian public liability and the CGL exclude gradual pollution; EIL policies cover gradual pollution, clean-up costs and regulatory orders on a claims-made basis."
+},
+{
+"n": 23,
+"topic": "Underwriting and Claims in Liability Insurance",
+"t": "When underwriting a professional indemnity policy for a hospital, the MOST relevant information is:",
+"o": [
+"Specialities practised, number of beds and doctors, procedures performed and claims history",
+"The value of the hospital building",
+"Tax paid in the previous year",
+"The names of the promoters' family members"
+],
+"a": 0,
+"e": "The hazard depends on the type of clinical work (e.g. obstetrics, surgery) and volume; past claims indicate risk management quality."
+},
+{
+"n": 24,
+"topic": "Reinsurance of Liability Business",
+"t": "GIC Re (General Insurance Corporation of India) is:",
+"o": [
+"A private sector general insurer",
+"The Indian national reinsurer receiving obligatory cessions",
+"An insurance broker",
+"A foreign reinsurance branch"
+],
+"a": 1,
+"e": "GIC Re became the Indian reinsurer in 2000 and receives obligatory cessions from all Indian general insurers, besides writing voluntary business."
+},
+{
+"n": 25,
+"topic": "Introduction to Liability Insurance",
+"t": "In liability insurance, the 'insured event' is:",
+"o": [
+"The outbreak of fire at the premises",
+"The incurring of legal liability to a third party",
+"The theft of insured property",
+"The death of the insured"
+],
+"a": 1,
+"e": "The policy responds not to the accident itself but to the legal liability that flows from it, as established by judgment or agreed settlement."
+},
+{
+"n": 26,
+"topic": "Statutory Liability in India",
+"t": "An application for relief under the Public Liability Insurance Act, 1991 must be made within:",
+"o": [
+"One year of the accident",
+"Five years of the accident",
+"Three years of the accident",
+"No time limit"
+],
+"a": 1,
+"e": "★ Key fact (repeated across the mocks of this paper). Section 6(3) requires the application to be made within five years of the occurrence of the accident.",
+"r": "key"
+},
+{
+"n": 27,
+"topic": "Law of Torts and Legal Liability",
+"t": "In an action for negligence the burden of proving the defendant's negligence generally lies on:",
+"o": [
+"The plaintiff",
+"The defendant",
+"The court",
+"The insurer"
+],
+"a": 0,
+"e": "He who asserts must prove; the burden shifts to the defendant only in exceptional cases such as res ipsa loquitur or statutory no-fault liability."
+},
+{
+"n": 28,
+"topic": "Statutory Liability in India",
+"t": "'Product liability' under the Consumer Protection Act, 2019 means the responsibility of:",
+"o": [
+"The consumer to use the product carefully",
+"The Government to regulate products",
+"A product manufacturer, product seller or product service provider to compensate for harm caused by a defective product or deficiency in service",
+"The Consumer Commission to inspect products"
+],
+"a": 2,
+"e": "Chapter VI codifies product liability and lists the grounds on which each of the three categories becomes liable."
+},
+{
+"n": 29,
+"topic": "Public Liability Insurance",
+"t": "A hotel's non-industrial public liability policy has an AOA limit of ₹10 lakh and a compulsory excess of ₹10,000. A guest's injury claim is settled for ₹6 lakh. The insurer pays:",
+"o": [
+"₹6,00,000",
+"₹6,10,000",
+"₹5,00,000",
+"₹5,90,000"
+],
+"a": 3,
+"e": "The insured bears the ₹10,000 excess: ₹6,00,000 − ₹10,000 = ₹5,90,000, within the AOA limit."
+},
+{
+"n": 30,
+"topic": "Products Liability Insurance",
+"t": "'Completed operations' hazard refers to:",
+"o": [
+"Accidents during the manufacturing process",
+"Accidents during transit of goods",
+"Injury or damage arising from work performed by the insured (installation, repair, servicing) after it has been completed and away from the premises",
+"Accidents during a sale"
+],
+"a": 2,
+"e": "A contractor's faulty wiring that causes a fire after handover is a completed operations claim, grouped with products in the CGL."
+},
+{
+"n": 31,
+"topic": "Professional Indemnity Insurance",
+"t": "A consultant's claims-made PI policy for 2024-25 expired and was not renewed; no extended reporting period was purchased. In 2025-26 a client makes a claim relating to advice given in 2024. The claim is:",
+"o": [
+"Covered under the expired policy",
+"Covered automatically under a future policy",
+"Covered because the act occurred during the expired period",
+"Not covered, because the claim was not made during a policy period and no extended reporting period exists"
+],
+"a": 3,
+"e": "Claims-made cover must be in force when the claim is made; a gap in cover leaves earlier work uninsured unless a run-off/ERP is bought."
+},
+{
+"n": 32,
+"topic": "Employers' Liability and Employees' Compensation Insurance",
+"t": "'Dependants' under the Employees' Compensation Act include:",
+"o": [
+"Only the widow",
+"A widow, minor legitimate or adopted son, unmarried daughter, widowed mother, and certain others if wholly or partly dependent on the employee's earnings",
+"The employer",
+"Friends of the deceased"
+],
+"a": 1,
+"e": "Section 2(1)(d) lists categories; the first group is entitled irrespective of dependency, the others only if dependent."
+},
+{
+"n": 33,
+"topic": "Commercial General Liability Policy",
+"t": "The pollution exclusion in the CGL form, in use since 1986, is commonly known as the:",
+"o": [
+"Absolute pollution exclusion",
+"Sudden and accidental pollution exclusion",
+"Limited pollution exclusion",
+"Gradual pollution extension"
+],
+"a": 0,
+"e": "It replaced the earlier 'sudden and accidental' carve-back, excluding virtually all pollution at the insured's premises; limited exceptions remain for off-premises hostile fire etc."
+},
+{
+"n": 34,
+"topic": "Underwriting and Claims in Liability Insurance",
+"t": "Insurers prefer the claims-made basis for professional indemnity business because it:",
+"o": [
+"Requires less documentation",
+"Is cheaper to administer",
+"Has no retroactive date",
+"Lets the insurer know its exposure at expiry and price each year on current conditions, reducing long-tail uncertainty"
+],
+"a": 3,
+"e": "Occurrence-based PI would expose the insurer to claims decades later at inflated values; claims-made removes that uncertainty."
+},
+{
+"n": 35,
+"topic": "Reinsurance of Liability Business",
+"t": "A cedant is asked to write a public liability policy with a ₹500 crore limit for a petrochemical complex, far above its treaty capacity. The appropriate solution is:",
+"o": [
+"A stop loss treaty",
+"A quota share treaty",
+"Facultative reinsurance of the specific risk",
+"No reinsurance"
+],
+"a": 2,
+"e": "Facultative placement obtains capacity for an individual risk that exceeds or falls outside the automatic treaty."
+},
+{
+"topic": "Policyholder protection",
+"t": "An insurer must resolve a policyholder's grievance within how many days of receipt?",
+"o": [
+"7 days",
+"14 days",
+"30 days",
+"45 days"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). 14 days under the 2024 regulations; thereafter the policyholder may approach Bima Bharosa or the Ombudsman.",
+"r": "core",
+"n": 36
+},
+{
+"n": 37,
+"topic": "Introduction to Liability Insurance",
+"t": "Which of the following liability insurances are compulsory by statute in India?",
+"o": [
+"Fire insurance of factories",
+"Marine cargo insurance",
+"Life insurance of employees",
+"Motor third-party insurance and insurance under the Public Liability Insurance Act, 1991"
+],
+"a": 3,
+"e": "Section 146 of the MV Act and Section 4 of the PLI Act make these covers compulsory; most other liability covers are voluntary or required by contract or regulation."
+},
+{
+"n": 38,
+"topic": "Law of Torts and Legal Liability",
+"t": "The test of 'remoteness of damage' in negligence is that the defendant is liable only for damage which:",
+"o": [
+"Was reasonably foreseeable (the Wagon Mound test)",
+"Followed in any way from the act",
+"Was intended",
+"Was directly caused, however unforeseeable"
+],
+"a": 0,
+"e": "The Wagon Mound (1961) replaced the direct-consequence test with foreseeability, limiting the chain of recoverable losses."
+},
+{
+"n": 39,
+"topic": "Statutory Liability in India",
+"t": "The relief payable under the Public Liability Insurance Act for permanent total disability is:",
+"o": [
+"₹12,500",
+"₹1,000 per month",
+"₹25,000",
+"₹6,000"
+],
+"a": 2,
+"e": "PTD relief equals the death relief of ₹25,000; permanent partial disability is a proportion of this according to the percentage of disability."
+},
+{
+"n": 40,
+"topic": "Public Liability Insurance",
+"t": "Fire originating in the insured's factory spreads and damages a neighbour's warehouse. The neighbour's claim against the insured is:",
+"o": [
+"Excluded from all policies",
+"Covered under the insured's public liability policy as third-party property damage",
+"Payable under the insured's own fire policy",
+"Covered under the products liability policy"
+],
+"a": 1,
+"e": "The insured's fire policy covers only its own property; liability to the neighbour for negligently allowing fire to spread is a public liability claim."
+},
+{
+"n": 41,
+"topic": "Professional Indemnity Insurance",
+"t": "A doctor's professional indemnity policy excludes:",
+"o": [
+"Negligent treatment",
+"Wrong diagnosis",
+"Services rendered while under the influence of intoxicants, and criminal acts",
+"Delay in referring a patient"
+],
+"a": 2,
+"e": "Negligence, misdiagnosis and delay are the core covered perils; intoxication and crime are standard exclusions along with cosmetic/weight-loss procedures in some wordings."
+},
+{
+"n": 42,
+"topic": "Employers' Liability and Employees' Compensation Insurance",
+"t": "In the case of a fatal employment injury, compensation under the Employees' Compensation Act is:",
+"o": [
+"Deposited by the employer with the Commissioner, who distributes it to the dependants",
+"Paid directly by the employer to any relative",
+"Paid by the insurer to the employer",
+"Paid to the trade union"
+],
+"a": 0,
+"e": "Section 8 requires deposit with the Commissioner for death cases; direct payment to dependants is not a valid discharge."
+},
+{
+"n": 43,
+"topic": "Directors' and Officers' Liability Insurance",
+"t": "'Run-off' cover in D&O insurance provides:",
+"o": [
+"Cover for newly appointed directors",
+"Cover for the company's products",
+"Employment practices cover",
+"Cover for claims made after the company is acquired or wound up, for wrongful acts before that date"
+],
+"a": 3,
+"e": "After a merger or liquidation the entity cannot renew, so a multi-year run-off policy protects past directors against later claims."
+},
+{
+"n": 44,
+"topic": "Commercial General Liability Policy",
+"t": "Coverage B (personal and advertising injury) of the CGL policy is triggered by:",
+"o": [
+"A claim being made during the policy period",
+"Injury to a person",
+"An 'offence' committed during the policy period",
+"An occurrence causing bodily injury"
+],
+"a": 2,
+"e": "Unlike Coverage A, Coverage B uses the offence (e.g. publication of a libel) as its trigger, not bodily injury or property damage."
+},
+{
+"n": 45,
+"topic": "Cyber and Other Specialised Liability Covers",
+"t": "A cyber policy has a limit of ₹5 crore, a business interruption sub-limit of ₹1 crore and a BI deductible of ₹10 lakh. A covered BI loss is assessed at ₹1.5 crore. The insurer pays:",
+"o": [
+"₹1.4 crore",
+"₹1 crore",
+"₹1.5 crore",
+"₹90 lakh"
+],
+"a": 1,
+"e": "Loss after deductible = ₹1.4 crore, but payment is capped at the BI sub-limit of ₹1 crore."
+},
+{
+"n": 46,
+"topic": "Underwriting and Claims in Liability Insurance",
+"t": "Subrogation in liability claims allows the insurer, after indemnifying the insured, to:",
+"o": [
+"Recover from the insured",
+"Recover from the claimant",
+"Recover only in motor claims",
+"Pursue a third party (e.g. a negligent component supplier) who is responsible for the loss"
+],
+"a": 3,
+"e": "Having paid a product claim, the manufacturer's insurer may step into its shoes and recover from the supplier of the defective component."
+},
+{
+"topic": "Claims timelines",
+"t": "Under IRDAI's 2024 norms, a surveyor must be appointed within what time of a claim intimation?",
+"o": [
+"24 hours",
+"48 hours",
+"72 hours",
+"7 days"
+],
+"a": 0,
+"e": "★ Core fact (asked across III papers). Appointment within 24 hours; survey report within 15 days; insurer's decision within 7 days of the report.",
+"r": "core",
+"n": 47
+},
+{
+"n": 48,
+"topic": "Reinsurance of Liability Business",
+"t": "A 'per event' (catastrophe) excess of loss cover in liability reinsurance protects against:",
+"o": [
+"Accumulation of losses from one event across many policies of the cedant",
+"A single large claim on one policy",
+"Each policy separately",
+"The annual loss ratio"
+],
+"a": 0,
+"e": "An industrial explosion may trigger PL, EC and products claims across many insureds; the per-event layer responds to the aggregate from that one event."
+},
+{
+"n": 49,
+"topic": "Introduction to Liability Insurance",
+"t": "An 'umbrella' liability policy is one that:",
+"o": [
+"Sits above the insured's primary liability policies, providing additional limits and sometimes broader cover",
+"Replaces the primary public liability policy",
+"Insures the insured's own property",
+"Is a form of reinsurance"
+],
+"a": 0,
+"e": "Umbrella/excess liability provides catastrophe limits above the scheduled underlying policies and may 'drop down' when the underlying aggregate is exhausted."
+},
+{
+"n": 50,
+"topic": "Statutory Liability in India",
+"t": "The Employees' Compensation Act, 1923 does NOT apply to:",
+"o": [
+"Factory workers",
+"Construction workers",
+"Drivers employed by a transport company",
+"Members of the Armed Forces of the Union"
+],
+"a": 3,
+"e": "The definition of 'employee' excludes members of the armed forces and persons covered under the ESI Act; the others are within Schedule II."
+}
+]

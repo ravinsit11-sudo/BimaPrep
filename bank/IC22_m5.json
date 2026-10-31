@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Life Underwriting - Principles & Concepts (Part-1)",
+"t": "Anil signed a proposal on 1 September, was hospitalised for chest pain on 15 September, and the policy was issued on 25 September without his informing the insurer. Which of the following is correct?",
+"o": [
+"The insurer is bound because the medical examination was already completed",
+"The hospitalisation is irrelevant as it occurred within the free-look period",
+"Anil did nothing wrong because the proposal was already signed",
+"Anil breached his duty of disclosure because a change in health before acceptance is a material fact that must be disclosed"
+],
+"a": 3,
+"e": "The duty of utmost good faith continues until the contract is concluded; the hospitalisation was material and its non-disclosure can allow repudiation within 3 years."
+},
+{
+"n": 2,
+"topic": "Life Underwriting - Principles & Concepts (Part-2)",
+"t": "A 30-year-old proposer has a BMI of 17. The underwriter is concerned chiefly because:",
+"o": [
+"Underweight people are more likely to default on premium",
+"Underweight is only a cosmetic issue with no mortality significance",
+"A BMI below 25 automatically qualifies for preferred rates",
+"Significant underweight may indicate an underlying illness such as tuberculosis, malabsorption or an eating disorder"
+],
+"a": 3,
+"e": "Both overweight and marked underweight attract debits in build tables; low BMI needs investigation for causes before acceptance."
+},
+{
+"n": 3,
+"topic": "Life Underwriting - Principles & Concepts (Part-2)",
+"t": "An insurer decides to accept a proposal with an extra premium of ₹4,000 per annum. For the contract to come into force:",
+"o": [
+"The policy is issued automatically because the proposal was accepted",
+"The insurer must obtain IRDAI approval for the extra",
+"The agent's consent to the revised terms is sufficient",
+"The proposer must accept the counter-offer (revised terms) and pay the additional premium"
+],
+"a": 3,
+"e": "Acceptance on modified terms is a counter-offer; a contract arises only when the proposer consents to the new terms and the premium is paid."
+},
+{
+"n": 4,
+"topic": "Life Underwriting - Principles & Concepts (Part-2)",
+"t": "A proposer with a hazardous avocation applies for a 30-year term plan. One way the underwriter can manage the extra risk without a heavy extra premium is to:",
+"o": [
+"Increase the sum assured to spread the risk",
+"Waive the medical examination",
+"Offer a plan with a larger savings element or shorter term where the risk per unit of premium is lower",
+"Remove the proposer's name from the policy"
+],
+"a": 2,
+"e": "Plan restriction (offering endowment-type or shorter-term plans) reduces the insurer's net amount at risk and is a recognised alternative to rating."
+},
+{
+"n": 5,
+"topic": "Life Underwriting - Principles & Concepts (Part-2)",
+"t": "Which of the following statements about a lien is INCORRECT?",
+"o": [
+"A lien is suited to risks that are highest initially and diminish with time",
+"A lien reduces the amount payable in the early policy years",
+"A lien reduces the sum assured progressively in the later years of the policy as the life assured grows older",
+"Death by accident is usually paid in full even during the lien period"
+],
+"a": 2,
+"e": "A diminishing lien operates in the early years and falls away over time; it is the opposite of a reduction that increases with age."
+},
+{
+"n": 6,
+"topic": "Underwriting: Process and Structure",
+"t": "Investigation of an early death claim (within 3 years of issue) to check for non-disclosure at proposal stage is sometimes referred to as:",
+"o": [
+"Claims-stage or post-issue underwriting",
+"Group underwriting",
+"Facultative underwriting",
+"Non-medical underwriting"
+],
+"a": 0,
+"e": "Early claims are investigated for material non-disclosure since Section 45 permits repudiation within 3 years; this is effectively underwriting at claim stage."
+},
+{
+"n": 7,
+"topic": "Occupational, Avocational and Residential Risks",
+"t": "A flat extra of ₹5 per thousand is charged for an underground mine worker on a sum assured of ₹20 lakh. The annual extra premium is:",
+"o": [
+"₹1,000",
+"₹5,000",
+"₹10,000",
+"₹20,000"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). ₹5 × (20,00,000 / 1,000) = ₹5 × 2,000 = ₹10,000 per annum.",
+"r": "key"
+},
+{
+"n": 8,
+"topic": "Underwriting: Process and Structure",
+"t": "From 1 April 2024, IRDAI has mandated that life insurance policies be:",
+"o": [
+"Issued only in physical form with a wet signature",
+"Issued in electronic form (dematerialised) through an e-Insurance Account",
+"Issued without any proposal form",
+"Sold only through bank branches"
+],
+"a": 1,
+"e": "IRDAI's 2024 regulations require policies to be issued electronically, with a physical copy available on request."
+},
+{
+"n": 9,
+"topic": "Underwriting: Process and Structure",
+"t": "A 38-year-old salaried proposer applies for a ₹1 crore term plan with normal medical reports. The agent's report mentions he has simultaneously applied to three other insurers for ₹1 crore each. The underwriter should:",
+"o": [
+"Aggregate the total cover in force and applied for, and check financial justification before deciding",
+"Decline the proposal because multiple applications are illegal",
+"Ignore the information since it is not in the proposal form",
+"Issue the policy as the medical reports are normal"
+],
+"a": 0,
+"e": "Simultaneous large applications are a classic anti-selection and over-insurance signal; the total cover must be financially justified across insurers."
+},
+{
+"n": 10,
+"topic": "Underwriting: Process and Structure",
+"t": "Where a policy is issued with a flat extra for occupation and the life assured later takes up a safe desk job, the usual position is:",
+"o": [
+"The policy becomes void because of change of occupation",
+"The extra is automatically removed by the insurer without any request",
+"The extra can never be removed during the policy term",
+"The policyholder may apply for removal of the extra on proof of the change, subject to the insurer's rules"
+],
+"a": 3,
+"e": "Temporary occupational extras can be reviewed on request; the policy is not invalidated by a later change of occupation."
+},
+{
+"n": 11,
+"topic": "Underwriting: Process and Structure",
+"t": "Which of the following statements about the underwriting workflow is INCORRECT?",
+"o": [
+"Requirements such as medical reports are called for before the risk is assessed",
+"Policies are issued only after acceptance and receipt of the premium",
+"The policy document is issued before the underwriting decision so that the proposer is covered from the date of signing",
+"The decision is communicated to the proposer when terms differ from those proposed"
+],
+"a": 2,
+"e": "Issuance follows the decision and premium receipt; cover cannot commence from the date of signing the proposal (Section 64VB)."
+},
+{
+"n": 12,
+"topic": "Financial Underwriting",
+"t": "For a unit-linked policy issued after 1 February 2021, the maturity proceeds lose exemption under Section 10(10D) if the aggregate annual premium exceeds:",
+"o": [
+"₹1.5 lakh",
+"₹5 lakh",
+"₹2.5 lakh",
+"₹1 lakh"
+],
+"a": 2,
+"e": "Finance Act 2021 introduced the ₹2.5 lakh premium threshold for ULIPs; gains above it are taxed as capital gains."
+},
+{
+"n": 13,
+"topic": "Financial Underwriting",
+"t": "A proposer with declared income of ₹5 lakh proposes a policy with annual premium of ₹3 lakh. The underwriter should:",
+"o": [
+"Accept, since a high premium is good business",
+"Reject only if the proposer is a smoker",
+"Reduce the sum assured to ₹5 lakh automatically",
+"Query the affordability and source of funds, considering lapse risk and anti-money-laundering concerns"
+],
+"a": 3,
+"e": "A premium of 60% of income is unsustainable and may indicate undisclosed income or laundering; premium-to-income ratio is a financial underwriting check."
+},
+{
+"n": 14,
+"topic": "Financial Underwriting",
+"t": "Under the Prevention of Money Laundering Act framework, life insurers must report suspicious transactions to:",
+"o": [
+"The Registrar of Companies",
+"The Financial Intelligence Unit - India (FIU-IND)",
+"The Life Insurance Council",
+"The Reserve Bank of India"
+],
+"a": 1,
+"e": "Insurers are reporting entities under PMLA and file suspicious transaction and cash transaction reports with FIU-IND."
+},
+{
+"n": 15,
+"topic": "Financial Underwriting",
+"t": "The Human Life Value (HLV) approach estimates the amount of insurance as:",
+"o": [
+"The total premiums the person can afford over his lifetime",
+"The present value of the future income the person would have contributed to dependants, net of personal expenses",
+"Ten times the person's current bank balance",
+"The market value of the person's house and car"
+],
+"a": 1,
+"e": "HLV capitalises future net earnings; it is the conceptual basis for income-multiple guidelines used by underwriters."
+},
+{
+"n": 16,
+"topic": "Financial Underwriting",
+"t": "Which of the following statements about keyman insurance is INCORRECT?",
+"o": [
+"The company has insurable interest in the key employee's life",
+"The cover is linked to the employee's compensation or the company's profits",
+"The employee must consent to the policy being taken on his life",
+"The key employee's family is the beneficiary of the policy"
+],
+"a": 3,
+"e": "In keyman insurance the employer, not the family, is the beneficiary; the other statements are correct."
+},
+{
+"n": 17,
+"topic": "Life Underwriting - Principles & Concepts (Part-1)",
+"t": "Under Section 45 of the Insurance Act, 1938 (as amended in 2015), a life policy cannot be called in question on any ground whatsoever after how many years from the later of the date of issuance, commencement of risk, revival or rider addition?",
+"o": [
+"3 years",
+"2 years",
+"5 years",
+"1 year"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). The 2015 amendment made policies incontestable on any ground, including fraud, after 3 years from the latest of the specified dates.",
+"r": "key"
+},
+{
+"n": 18,
+"topic": "Occupational, Avocational and Residential Risks",
+"t": "A proposer declares no occupation, no income and no dependants but proposes a ₹1 crore term policy. The underwriter's primary concern is:",
+"o": [
+"The need for an aviation exclusion",
+"Financial and moral hazard rather than any occupational mortality risk",
+"The risk of industrial accident",
+"The likelihood of silicosis"
+],
+"a": 1,
+"e": "Absence of income or purpose indicates speculation; the case needs financial justification rather than occupational rating."
+},
+{
+"n": 19,
+"topic": "Occupational, Avocational and Residential Risks",
+"t": "Defence personnel posted in peace-time stations are generally:",
+"o": [
+"Accepted at standard rates, with special terms considered for active operational or special-forces duties",
+"Accepted only with a 50% lien",
+"Rated like underground miners",
+"Declined by all private insurers"
+],
+"a": 0,
+"e": "Peace-time military service carries little extra mortality; operational postings and specialised roles may attract exclusions or extras."
+},
+{
+"n": 20,
+"topic": "Occupational, Avocational and Residential Risks",
+"t": "Which occupational disease is caused by inhalation of silica dust in mining, quarrying and sandblasting?",
+"o": [
+"Byssinosis",
+"Silicosis",
+"Sarcoidosis",
+"Hepatitis B"
+],
+"a": 1,
+"e": "Silicosis is a fibrotic lung disease from silica; byssinosis results from cotton dust and is not caused by silica."
+},
+{
+"n": 21,
+"topic": "Occupational, Avocational and Residential Risks",
+"t": "Which of the following statements about residential risk is INCORRECT?",
+"o": [
+"Travel to a high-risk country for a two-week holiday always requires a permanent flat extra",
+"Permanent residence in a war-torn country may lead to declinature",
+"Insurers classify countries into risk groups for underwriting",
+"Access to medical care in the country of residence affects mortality"
+],
+"a": 0,
+"e": "Short holiday travel is usually ignored or handled by a temporary exclusion; permanent extras are for long-term residence in hazardous areas."
+},
+{
+"n": 22,
+"topic": "Reinsurance",
+"t": "The 'sum at risk' reinsured under a YRT arrangement on a ₹10 lakh endowment policy with a reserve of ₹2 lakh is:",
+"o": [
+"₹2 lakh",
+"₹10 lakh",
+"₹12 lakh",
+"₹8 lakh"
+],
+"a": 3,
+"e": "Sum at risk = sum assured - policy reserve = ₹10 lakh - ₹2 lakh = ₹8 lakh; the reserve is already held by the insurer."
+},
+{
+"n": 23,
+"topic": "Reinsurance",
+"t": "Which of the following statements about reinsurance is INCORRECT?",
+"o": [
+"A surplus treaty cedes only the amount above the cedant's retention",
+"Under a surplus treaty the reinsurer shares every risk in the same fixed proportion",
+"Excess-of-loss reinsurance is non-proportional",
+"Under a quota share treaty the reinsurer takes a fixed percentage of every risk"
+],
+"a": 1,
+"e": "A surplus treaty cedes only amounts above retention, so the proportion varies by policy; sharing every risk in a fixed proportion is quota share."
+},
+{
+"n": 24,
+"topic": "Reinsurance",
+"t": "A substandard life is rated at +350% by the underwriter, exceeding the automatic treaty limit of +300%. The correct course is to:",
+"o": [
+"Decline the case without further consideration",
+"Submit the case facultatively to the reinsurer with full papers for its decision",
+"Reduce the rating to +300% so that the treaty applies",
+"Issue the policy and notify the reinsurer in the next bordereau"
+],
+"a": 1,
+"e": "Cases beyond treaty rating limits cannot be bound automatically; the reinsurer must assess and accept them facultatively."
+},
+{
+"n": 25,
+"topic": "Reinsurance",
+"t": "Which of the following is a reason for a life insurer to buy reinsurance?",
+"o": [
+"To transfer the duty of utmost good faith to the policyholder",
+"To escape IRDAI solvency requirements entirely",
+"To increase its capacity to accept large sums assured beyond its own retention",
+"To avoid paying agents' commission"
+],
+"a": 2,
+"e": "Reinsurance provides capacity, stabilises mortality results, protects against catastrophes and gives access to underwriting expertise."
+},
+{
+"n": 26,
+"topic": "Blood Disorders",
+"t": "A 48-year-old male proposer's blood report shows haemoglobin of 9 g/dl with no stated cause. The appropriate action is:",
+"o": [
+"Postpone and call for investigation of the cause, since unexplained moderate anaemia in a middle-aged man may indicate serious disease",
+"Accept at standard rates as anaemia is common",
+"Accept with a flat extra of ₹2 per mille",
+"Decline permanently"
+],
+"a": 0,
+"e": "Unexplained anaemia in men commonly points to gastrointestinal bleeding, malignancy or chronic disease, so the cause must be established before any decision."
+},
+{
+"n": 27,
+"topic": "Reinsurance",
+"t": "An insurer has a retention of ₹25 lakh and a four-line surplus treaty. A proposal for ₹2 crore is received. The amount requiring facultative placement is:",
+"o": [
+"₹1.75 crore",
+"₹1 crore",
+"₹25 lakh",
+"₹75 lakh"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). Treaty capacity = retention + 4 lines = ₹25 lakh + ₹1 crore = ₹1.25 crore; the balance ₹2 crore - ₹1.25 crore = ₹75 lakh needs facultative cover.",
+"r": "key"
+},
+{
+"n": 28,
+"topic": "Blood Disorders",
+"t": "A raised erythrocyte sedimentation rate (ESR) in a routine blood report indicates:",
+"o": [
+"Immunity to hepatitis B",
+"Normal haemoglobin",
+"A non-specific inflammatory, infective or malignant process requiring further evaluation",
+"Good control of diabetes"
+],
+"a": 2,
+"e": "ESR is a non-specific marker; the underwriter looks for a cause such as tuberculosis, arthritis or malignancy before deciding."
+},
+{
+"n": 29,
+"topic": "Nervous System",
+"t": "A proposer was operated for a benign meningioma two years ago with complete removal and no recurrence. The likely underwriting decision is:",
+"o": [
+"Decline, since all brain tumours are fatal",
+"Accept with a temporary extra for some years, since benign tumours completely removed carry a limited recurrence risk",
+"Standard without any medical evidence",
+"Postpone for 15 years"
+],
+"a": 1,
+"e": "Meningiomas are usually benign; malignant gliomas, by contrast, are declined. The rating falls as recurrence-free time increases."
+},
+{
+"n": 30,
+"topic": "Nervous System",
+"t": "Which of the following statements about Alzheimer's disease and Parkinson's disease is correct from an underwriting viewpoint?",
+"o": [
+"Alzheimer's disease is generally declined, while early Parkinson's disease may be rated according to progression and disability",
+"Both are caused by head injury",
+"Parkinson's disease is declined while Alzheimer's is standard",
+"Both are accepted at standard rates"
+],
+"a": 0,
+"e": "Alzheimer's is progressive dementia with markedly reduced life expectancy; Parkinson's progresses more slowly and early cases may be insurable with an extra."
+},
+{
+"n": 31,
+"topic": "Diabetes Mellitus",
+"t": "An HbA1c of 7% corresponds approximately to an estimated average glucose of:",
+"o": [
+"200 mg/dl",
+"154 mg/dl",
+"100 mg/dl",
+"126 mg/dl"
+],
+"a": 1,
+"e": "Estimated average glucose (mg/dl) = 28.7 × HbA1c - 46.7; for 7% this gives about 154 mg/dl."
+},
+{
+"n": 32,
+"topic": "Diabetes Mellitus",
+"t": "For an insulin-treated diabetic applying for an accidental death benefit rider, the underwriter is particularly concerned about:",
+"o": [
+"The proposer's blood group",
+"The number of policies already held",
+"The cost of insulin",
+"Hypoglycaemic episodes that may cause loss of consciousness and accidents"
+],
+"a": 3,
+"e": "Severe hypoglycaemia can lead to falls, road accidents and drowning; many insurers restrict accident riders for insulin-treated diabetics."
+},
+{
+"n": 33,
+"topic": "Diabetes Mellitus",
+"t": "Which of the following statements about diabetes is INCORRECT?",
+"o": [
+"Diabetes increases the risk of coronary artery disease",
+"Type 2 diabetes always requires insulin from the time of diagnosis",
+"Type 2 diabetes is strongly associated with obesity and family history",
+"Good glycaemic control reduces microvascular complications"
+],
+"a": 1,
+"e": "Most Type 2 diabetics are initially managed with diet, exercise and oral drugs; insulin is required only when these fail."
+},
+{
+"n": 34,
+"topic": "Thyroid Diseases",
+"t": "A simple (non-toxic) goitre with normal thyroid function in a proposer from an iodine-deficient hill region is usually:",
+"o": [
+"Rated +150%",
+"Accepted at standard rates",
+"Postponed until surgery",
+"Declined"
+],
+"a": 1,
+"e": "Endemic goitre with normal function has no mortality significance; large goitres causing compression are the exception."
+},
+{
+"n": 35,
+"topic": "Thyroid Diseases",
+"t": "Which of the following statements about thyroid disorders is INCORRECT?",
+"o": [
+"Hypothyroidism is usually treated with radioactive iodine",
+"Radioactive iodine therapy for hyperthyroidism often results in later hypothyroidism",
+"Hypothyroidism is treated with daily levothyroxine replacement",
+"Hyperthyroidism may be treated with carbimazole, radioactive iodine or surgery"
+],
+"a": 0,
+"e": "Radioactive iodine destroys thyroid tissue and is a treatment for over-activity, not under-activity; hypothyroidism needs hormone replacement."
+},
+{
+"topic": "Policyholder protection",
+"t": "Under the IRDAI (Protection of Policyholders' Interests) Regulations 2024, the free-look period for a policy with a term of one year or more is:",
+"o": [
+"15 days",
+"30 days",
+"45 days",
+"60 days"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). 30 days from receipt of the policy document, irrespective of the sales channel.",
+"r": "core",
+"n": 36
+},
+{
+"n": 37,
+"topic": "Urinary System",
+"t": "A proposer on maintenance haemodialysis applies for life cover. The usual underwriting decision is:",
+"o": [
+"Decline",
+"Accept with a flat extra of ₹2 per mille",
+"Standard",
+"Accept with a 20% lien"
+],
+"a": 0,
+"e": "Dialysis-dependent renal failure carries very high mortality; a successful renal transplant with stable graft function may later be considered at a substantial rating."
+},
+{
+"n": 38,
+"topic": "Urinary System",
+"t": "A proposer's medical report shows urine albumin ++ and serum creatinine 2.4 mg/dl. The appropriate action is:",
+"o": [
+"Ignore the creatinine as it is only slightly raised",
+"Accept at standard rates as albumin is harmless",
+"Postpone or decline pending full nephrological evaluation, as these findings indicate impaired renal function",
+"Accept with a 3-year age set-back"
+],
+"a": 2,
+"e": "Creatinine of 2.4 mg/dl indicates substantially reduced GFR; combined with proteinuria it points to significant kidney disease."
+},
+{
+"n": 39,
+"topic": "The Respiratory System",
+"t": "A chest X-ray is commonly required for older proposers and large sums assured mainly to detect:",
+"o": [
+"The proposer's blood sugar",
+"Thyroid function",
+"Evidence of tuberculosis, lung masses, cardiac enlargement and other chest abnormalities",
+"Kidney stones"
+],
+"a": 2,
+"e": "Chest radiography screens for pulmonary and cardiac disease that may be asymptomatic."
+},
+{
+"n": 40,
+"topic": "The Respiratory System",
+"t": "Which of the following statements about respiratory disorders is INCORRECT?",
+"o": [
+"Spirometry is the key test for grading airflow obstruction",
+"Bronchiectasis involves permanent dilatation of the bronchi with recurrent infection",
+"Emphysema and chronic bronchitis together constitute COPD",
+"Pneumonia that has fully resolved requires a permanent extra premium"
+],
+"a": 3,
+"e": "A single episode of pneumonia with complete recovery is standard; only recurrent pneumonia suggesting an underlying cause needs evaluation."
+},
+{
+"n": 41,
+"topic": "Gastrointestinal (Digestive) System",
+"t": "A proposer's blood report shows GGT of 180 U/L (normal up to 50) with raised MCV, while he declares he does not drink. The underwriter should:",
+"o": [
+"Accept as a non-drinker since the declaration is binding",
+"Decline as a confirmed alcoholic without any enquiry",
+"Suspect undisclosed alcohol excess and call for further evidence or a tele-interview before deciding",
+"Ignore the report because GGT is not a liver test"
+],
+"a": 2,
+"e": "Raised GGT with macrocytosis is a well-known marker of heavy drinking; the discrepancy with the declaration must be resolved."
+},
+{
+"n": 42,
+"topic": "Gastrointestinal (Digestive) System",
+"t": "Which of the following statements about liver disease is INCORRECT?",
+"o": [
+"Hepatitis B and C can both lead to cirrhosis and liver cancer",
+"Chronic hepatitis C can now often be cured with antiviral therapy",
+"ALT (SGPT) is more specific to the liver than AST (SGOT)",
+"Anti-HBs antibody positivity with negative HBsAg indicates active hepatitis B infection"
+],
+"a": 3,
+"e": "Anti-HBs with negative HBsAg indicates immunity (vaccination or resolved infection), not active infection."
+},
+{
+"n": 43,
+"topic": "Cardiovascular System",
+"t": "A proposer's blood pressure is 150/90 mmHg. His mean arterial pressure (MAP) is approximately:",
+"o": [
+"100 mmHg",
+"120 mmHg",
+"60 mmHg",
+"110 mmHg"
+],
+"a": 3,
+"e": "MAP = diastolic + (systolic - diastolic)/3 = 90 + 60/3 = 110 mmHg."
+},
+{
+"n": 44,
+"topic": "Cardiovascular System",
+"t": "Hypertension discovered in a proposer aged 25 should prompt the underwriter to:",
+"o": [
+"Look for a secondary cause such as kidney disease or an endocrine disorder before rating",
+"Ignore it since young people cannot have hypertension",
+"Treat it as a normal finding for the age",
+"Accept at preferred rates"
+],
+"a": 0,
+"e": "Hypertension at a young age is more often secondary and may indicate serious underlying disease."
+},
+{
+"n": 45,
+"topic": "Cardiovascular System",
+"t": "An abdominal aortic aneurysm of 6 cm diameter, not yet repaired, in a 62-year-old proposer would usually be:",
+"o": [
+"Declined or postponed until successful repair, because of the high risk of rupture",
+"Rated as mild hypertension",
+"Accepted at standard rates",
+"Accepted with a small lien"
+],
+"a": 0,
+"e": "Rupture risk rises sharply above 5.5 cm; after successful elective repair with good recovery, a rating may be offered."
+},
+{
+"topic": "Policyholder protection",
+"t": "An Insurance Ombudsman can entertain a complaint where the value of the claim, including expenses, does not exceed:",
+"o": [
+"₹20 lakh",
+"₹30 lakh",
+"₹50 lakh",
+"₹1 crore"
+],
+"a": 2,
+"e": "★ Core fact (asked across III papers). The limit was raised to ₹50 lakh by the amended Insurance Ombudsman Rules.",
+"r": "core",
+"n": 46
+},
+{
+"n": 47,
+"topic": "Cardiovascular System",
+"t": "Which of the following statements about cardiovascular risk is INCORRECT?",
+"o": [
+"Higher HDL cholesterol levels increase the risk of coronary artery disease",
+"Smoking is a major modifiable risk factor",
+"Left ventricular hypertrophy indicates end-organ damage from hypertension",
+"Diabetes substantially increases cardiovascular risk"
+],
+"a": 0,
+"e": "HDL is protective; it is high LDL, not HDL, that increases coronary risk."
+},
+{
+"n": 48,
+"topic": "Special Senses: Disorders of the Eyes, Ears and Nose",
+"t": "Nasal polyps in a proposer are relevant to the underwriter mainly because they:",
+"o": [
+"Indicate nasal cancer in most cases",
+"May be associated with asthma and aspirin sensitivity, which should be enquired into",
+"Indicate hepatitis B infection",
+"Cause blindness"
+],
+"a": 1,
+"e": "Polyps themselves are benign; associated respiratory disease determines any rating."
+},
+{
+"n": 49,
+"topic": "Special Senses: Disorders of the Eyes, Ears and Nose",
+"t": "High myopia (short-sightedness) is relevant to life underwriting because:",
+"o": [
+"It causes heart disease",
+"It makes the proposer uninsurable",
+"It increases the risk of retinal detachment and other eye complications, though life cover is usually standard",
+"It is a sign of diabetes"
+],
+"a": 2,
+"e": "Refractive errors have no mortality implications; only complications affecting vision matter for accident riders."
+},
+{
+"n": 50,
+"topic": "Special Senses: Disorders of the Eyes, Ears and Nose",
+"t": "Which of the following statements is INCORRECT?",
+"o": [
+"Otosclerosis affects the small bones of the middle ear",
+"Cataract is a disease of the retina",
+"Glaucoma involves raised intraocular pressure",
+"Conjunctivitis is an inflammation of the membrane covering the eye"
+],
+"a": 1,
+"e": "Cataract is opacification of the lens, not the retina; the other statements are correct."
+}
+]

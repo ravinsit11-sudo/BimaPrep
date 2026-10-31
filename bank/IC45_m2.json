@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Introduction to Underwriting",
+"t": "Which statement about underwriting in a de-tariffed market is INCORRECT?",
+"o": [
+"Rates must still be taken from the erstwhile tariff for fire risks",
+"Each insurer must have a board-approved underwriting policy",
+"Insurers may price risks based on their own experience and expense structure",
+"Wordings for erstwhile tariff classes may be filed by insurers subject to regulatory requirements"
+],
+"a": 0,
+"e": "After de-tariffing, fire rates are no longer governed by the tariff; insurers set their own rates subject to filing requirements and their underwriting policy."
+},
+{
+"n": 2,
+"topic": "Introduction to Underwriting",
+"t": "Under the IRDA Act, 1999, which body regulates, promotes and ensures orderly growth of the insurance industry in India?",
+"o": [
+"General Insurance Council",
+"Tariff Advisory Committee",
+"Insurance Regulatory and Development Authority of India",
+"Reserve Bank of India"
+],
+"a": 2,
+"e": "IRDAI was constituted under the IRDA Act, 1999 with powers under Section 14 to regulate insurers, intermediaries, products and policyholder protection."
+},
+{
+"n": 3,
+"topic": "Methodology and Procedures of Underwriting",
+"t": "The normal sequence of steps in underwriting a commercial risk is:",
+"o": [
+"Proposal → risk assessment (inspection/information) → terms and premium → acceptance and policy issue",
+"Reinsurance placement → proposal → policy issue",
+"Policy issue → premium collection → risk assessment → proposal",
+"Claim → survey → premium → policy"
+],
+"a": 0,
+"e": "Underwriting begins with the proposal and information gathering, proceeds to evaluation and decision on terms, and ends with premium collection and policy issue."
+},
+{
+"n": 4,
+"topic": "Methodology and Procedures of Underwriting",
+"t": "An underwriter receives a marine cargo proposal for export of frozen seafood by sea. The most relevant additional information to seek is:",
+"o": [
+"Age of the exporter's office building",
+"Packing, reefer container arrangements and temperature-recording practice",
+"Number of employees in the exporter's firm",
+"The exporter's bank balance"
+],
+"a": 1,
+"e": "Perishable cargo is highly sensitive to deterioration; the underwriter needs details of refrigeration, packing and monitoring to assess and limit the risk."
+},
+{
+"n": 5,
+"topic": "Methodology and Procedures of Underwriting",
+"t": "An insurer accepts a fire risk on 1 June after issuing a quotation but the premium cheque is received only on 10 June. Under Section 64VB of the Insurance Act, 1938, risk ordinarily commences from:",
+"o": [
+"1 June, the date of acceptance",
+"The date the policy is printed",
+"The date of proposal",
+"The date the premium is received, i.e. 10 June, unless a permitted exception applies"
+],
+"a": 3,
+"e": "Section 64VB bars assumption of risk before receipt of premium; cover therefore attaches from the premium receipt date except in cases specifically permitted under the Rules."
+},
+{
+"n": 6,
+"topic": "Methodology and Procedures of Underwriting",
+"t": "An 'endorsement' to a policy is used to:",
+"o": [
+"Cancel the policy automatically",
+"Confirm payment of a claim",
+"Replace the proposal form",
+"Record agreed changes to the terms, sum insured or other details of the policy during its currency"
+],
+"a": 3,
+"e": "Endorsements amend the policy (e.g. addition of a location, change of interest, increase in sum insured) and form part of the contract."
+},
+{
+"n": 7,
+"topic": "Introduction to Underwriting",
+"t": "Under which Section of the Insurance Act, 1938 is an insurer prohibited from assuming risk unless the premium is received in advance?",
+"o": [
+"Section 64VB",
+"Section 40",
+"Section 45",
+"Section 64UM"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). Section 64VB requires premium to be received in advance before risk commencement, subject to prescribed exceptions. Section 64UM deals with surveyors and Section 45 with life policies.",
+"r": "key"
+},
+{
+"n": 8,
+"topic": "Methodology and Procedures of Underwriting",
+"t": "Which of the following is a reason an underwriter may impose a deductible rather than decline a risk?",
+"o": [
+"To comply with Section 64VB",
+"To make the insured bear small, frequent losses and thereby encourage loss prevention and reduce claims handling cost",
+"To increase commission payable to the agent",
+"Because deductibles are mandatory for all policies under IRDAI regulations"
+],
+"a": 1,
+"e": "A deductible keeps the insured financially involved, eliminates attritional small claims and lowers the premium; it is a standard risk-sharing tool."
+},
+{
+"n": 9,
+"topic": "Methodology and Procedures of Underwriting",
+"t": "A proposer declares the value of a factory building as ₹2 crore while the surveyor estimates its reinstatement value at ₹5 crore. What is the underwriter's correct course of action?",
+"o": [
+"Refuse the proposal",
+"Advise the proposer about under-insurance and the effect of the average clause, and recommend an adequate sum insured",
+"Issue the policy for ₹2 crore without comment",
+"Issue the policy for ₹5 crore and charge premium on ₹2 crore"
+],
+"a": 1,
+"e": "Sum insured is chosen by the proposer, but the underwriter should point out under-insurance and the condition of average so that claims are not reduced proportionately."
+},
+{
+"n": 10,
+"topic": "Methodology and Procedures of Underwriting",
+"t": "When a policy is cancelled at the insured's request mid-term, the refund of premium in fire insurance is customarily made on:",
+"o": [
+"Full refund of annual premium",
+"Pro-rata basis",
+"Short-period scale",
+"No refund at all"
+],
+"a": 2,
+"e": "On cancellation by the insured, the insurer retains premium at short-period rates for the period on risk; cancellation by the insurer is on a pro-rata basis."
+},
+{
+"n": 11,
+"topic": "Principles of Rate Making",
+"t": "Credibility in rate making refers to:",
+"o": [
+"The honesty of the proposer",
+"The weight given to a body of loss experience based on its volume and stability",
+"The reputation of the insurer",
+"The discount offered for good claims experience"
+],
+"a": 1,
+"e": "Credibility (Z) measures how much the insurer's own data for a class or insured can be relied upon; the complement (1 − Z) is given to the prior or broader experience."
+},
+{
+"n": 12,
+"topic": "Principles of Rate Making",
+"t": "Besides adequacy and fairness, rates should ideally be 'stable' yet 'responsive'. This means rates should:",
+"o": [
+"Change every month in line with inflation",
+"Avoid sharp fluctuations while still reflecting genuine changes in loss experience and costs",
+"Never change once filed",
+"Be identical across all classes"
+],
+"a": 1,
+"e": "Stability avoids disturbing customers with volatile pricing; responsiveness ensures rates keep pace with trends such as inflation, legal changes and claim frequency."
+},
+{
+"n": 13,
+"topic": "Principles of Rate Making",
+"t": "Which component of premium is specifically intended to protect against random fluctuations and model error in expected losses?",
+"o": [
+"Contingency (safety) loading",
+"Commission loading",
+"GST",
+"Reinsurance commission"
+],
+"a": 0,
+"e": "A contingency margin is added to the pure premium to absorb adverse deviations from expected losses; it is distinct from expense and profit loadings."
+},
+{
+"n": 14,
+"topic": "Principles of Rate Making",
+"t": "In the loss-ratio method of rate revision, the actual loss ratio for a class is 78% and the expected (permissible) loss ratio built into the current rate is 65%. The indicated rate change is:",
+"o": [
+"Increase of 20%",
+"Increase of 13%",
+"Decrease of 13%",
+"Increase of 16.7%"
+],
+"a": 0,
+"e": "Indicated change = (actual LR ÷ expected LR) − 1 = (0.78 ÷ 0.65) − 1 = 1.20 − 1 = +20%."
+},
+{
+"n": 15,
+"topic": "Principles of Rate Making",
+"t": "Loss development (run-off) data is used in rate making mainly to:",
+"o": [
+"Allocate reinsurance commission",
+"Convert paid losses to ultimate incurred losses so that immature years are not under-estimated",
+"Calculate agents' commission",
+"Determine GST on premium"
+],
+"a": 1,
+"e": "Claims in recent years are not fully reported or settled; development factors project reported losses to their ultimate values for a fair pure premium."
+},
+{
+"n": 16,
+"topic": "Principles of Rate Making",
+"t": "A class had 25,000 exposure units and expected claim frequency of 2%. During the year the average claim cost was ₹1,80,000. Expected total losses for the class are:",
+"o": [
+"₹9 crore",
+"₹45 lakh",
+"₹90 lakh",
+"₹4.5 crore"
+],
+"a": 0,
+"e": "Expected claims = 25,000 × 0.02 = 500; expected losses = 500 × ₹1,80,000 = ₹9,00,00,000 = ₹9 crore."
+},
+{
+"n": 17,
+"topic": "Rating Approaches and Pricing Methods",
+"t": "Judgement rating is appropriate when:",
+"o": [
+"The policy is a standard household package",
+"There is abundant homogeneous loss data",
+"The risk is unusual or data is too scanty for statistical methods, so the underwriter prices on expertise and market knowledge",
+"The regulator prescribes a tariff"
+],
+"a": 2,
+"e": "Judgement rating is used for individual, non-standard risks (e.g. a satellite launch, a one-off event) where class rates and credible statistics are unavailable."
+},
+{
+"n": 18,
+"topic": "Rating Approaches and Pricing Methods",
+"t": "An insured's own experience indicates a pure premium of ₹5,000 while the class pure premium is ₹4,000. If the credibility factor assigned to the insured's experience is 0.30, the credibility-weighted pure premium is:",
+"o": [
+"₹4,700",
+"₹4,500",
+"₹5,000",
+"₹4,300"
+],
+"a": 3,
+"e": "Weighted pure premium = Z × own + (1 − Z) × class = 0.30 × 5,000 + 0.70 × 4,000 = 1,500 + 2,800 = ₹4,300."
+},
+{
+"n": 19,
+"topic": "Rating Approaches and Pricing Methods",
+"t": "A health insurer loads premium by 20% for a proposer with controlled hypertension instead of declining. This is an example of:",
+"o": [
+"Class rating",
+"Sub-standard acceptance through loading (individual rating)",
+"Retrospective rating",
+"Tariff rating"
+],
+"a": 1,
+"e": "★ Key fact (repeated across the mocks of this paper). Individual risk features that deviate from the standard class are handled through loadings, exclusions or restrictions rather than outright declinature.",
+"r": "key"
+},
+{
+"n": 20,
+"topic": "Rating Approaches and Pricing Methods",
+"t": "In motor own-damage pricing, which of the following is NOT normally a rating factor?",
+"o": [
+"Cubic capacity or vehicle class",
+"Zone of registration",
+"Age of the vehicle",
+"Colour of the vehicle"
+],
+"a": 3,
+"e": "Zone, cubic capacity/GVW, vehicle age and IDV are the usual rating factors; colour has no demonstrated relationship with loss cost."
+},
+{
+"n": 21,
+"topic": "Rating Approaches and Pricing Methods",
+"t": "Fire insurance rates in India are conventionally expressed as:",
+"o": [
+"A rate per employee",
+"A rate per mille (per ₹1,000) of sum insured",
+"A percentage of turnover",
+"A fixed amount per policy"
+],
+"a": 1,
+"e": "Fire premium = sum insured × rate per mille ÷ 1,000; e.g. ₹1 crore at 0.50‰ gives ₹5,000."
+},
+{
+"n": 22,
+"topic": "Rating Approaches and Pricing Methods",
+"t": "A warehouse with sum insured ₹4 crore is rated at 1.25 per mille. The insurer gives a 10% discount for an approved hydrant system. The net annual premium (before GST) is:",
+"o": [
+"₹55,000",
+"₹4,500",
+"₹45,000",
+"₹50,000"
+],
+"a": 2,
+"e": "Base premium = 4,00,00,000 × 1.25 ÷ 1,000 = ₹50,000; less 10% discount = ₹45,000."
+},
+{
+"n": 23,
+"topic": "Rating Approaches and Pricing Methods",
+"t": "Which pricing approach uses statistical models such as Generalised Linear Models (GLMs) to estimate the relative effect of several rating factors simultaneously?",
+"o": [
+"Flat rating",
+"Multivariate (predictive) rating",
+"Judgement rating",
+"Tariff rating"
+],
+"a": 1,
+"e": "GLM-based multivariate pricing is now standard in motor and health, isolating the true effect of each factor and avoiding double counting that one-way analyses produce."
+},
+{
+"n": 24,
+"topic": "IRDAI File and Use Guidelines",
+"t": "Under the File and Use guidelines, 'wordings' of erstwhile tariff products:",
+"o": [
+"Were replaced by Lloyd's wordings",
+"Could be varied by insurers after filing, subject to the regulator's conditions, except for compulsory covers like Motor TP",
+"Could never be changed by insurers",
+"Were fixed by the General Insurance Council"
+],
+"a": 1,
+"e": "The regulator allowed insurers to file their own wordings for former tariff classes in stages after price de-tariffing, while compulsory motor TP wording remains standard."
+},
+{
+"n": 25,
+"topic": "IRDAI File and Use Guidelines",
+"t": "Which of the following is a required element of the insurer's board-approved underwriting policy under IRDAI's product guidelines?",
+"o": [
+"The list of surveyors empanelled",
+"Delegation of underwriting authority at various levels and the risk acceptance criteria",
+"The reinsurer's balance sheet",
+"The names of all policyholders"
+],
+"a": 1,
+"e": "The underwriting policy must set out acceptance criteria, pricing philosophy, authority limits, referral procedures and review mechanisms."
+},
+{
+"n": 26,
+"topic": "IRDAI File and Use Guidelines",
+"t": "'Deemed approval' under the File and Use mechanism meant that:",
+"o": [
+"If the Authority raised no query within the stipulated period after filing, the product could be used",
+"All filings were automatically rejected",
+"Approval was given by the GI Council",
+"The insurer could use the product immediately on filing"
+],
+"a": 0,
+"e": "File and Use provided a stipulated window for the regulator to seek clarifications; silence beyond the period allowed the insurer to launch the product."
+},
+{
+"n": 27,
+"topic": "IRDAI File and Use Guidelines",
+"t": "Which statement about the IRDAI (Insurance Products) Regulations, 2024 is correct?",
+"o": [
+"They consolidated the earlier separate product regulations for life, general and health insurance into a principle-based framework",
+"They apply only to life insurance products",
+"They re-introduced tariff rating for fire insurance",
+"They abolished the role of the Appointed Actuary"
+],
+"a": 0,
+"e": "The 2024 Products Regulations replaced multiple earlier regulations and guidelines with a single, principle-based regulation covering all segments."
+},
+{
+"n": 28,
+"topic": "Tools of Underwriting",
+"t": "A fire insurer uses a surplus treaty of 10 lines with net retention of ₹1 crore per risk. A risk of ₹8 crore is accepted. What is the maximum amount ceded to the treaty, and what further arrangement is needed, if any?",
+"o": [
+"₹1 crore ceded; ₹7 crore facultative",
+"₹7 crore ceded; no further arrangement needed",
+"₹7 crore ceded; facultative cover needed for the balance",
+"₹8 crore ceded; no retention"
+],
+"a": 1,
+"e": "★ Key fact (repeated across the mocks of this paper). Treaty capacity is 10 lines × ₹1 crore = ₹10 crore beyond retention. After retaining ₹1 crore, ₹7 crore goes to the treaty, within capacity, so no facultative placement is needed.",
+"r": "key"
+},
+{
+"n": 29,
+"topic": "Applications of File and Use and Use and File Procedures",
+"t": "In June 2022, IRDAI extended the Use and File procedure to:",
+"o": [
+"Only crop insurance",
+"Motor third-party liability only",
+"Only reinsurance treaties",
+"All health insurance products and almost all general insurance products"
+],
+"a": 3,
+"e": "The 2022 circulars moved health and most general insurance products (other than specified ones) from File and Use to Use and File to speed up product launches."
+},
+{
+"n": 30,
+"topic": "Applications of File and Use and Use and File Procedures",
+"t": "Under Use and File, after launching a product the insurer must:",
+"o": [
+"Obtain post-facto approval from the Ombudsman",
+"Withdraw the product after one year",
+"File the product documents with IRDAI within the period stipulated after launch",
+"Never inform IRDAI"
+],
+"a": 2,
+"e": "The insurer launches after Product Management Committee approval and files the required documents with the Authority within the stipulated period (7 days) of launch."
+},
+{
+"n": 31,
+"topic": "Tools of Underwriting",
+"t": "Which document gives the underwriter a quantified picture of an insured's loss history over several years?",
+"o": [
+"Debit note",
+"Claims experience statement (loss run)",
+"Cover note",
+"Certificate of insurance"
+],
+"a": 1,
+"e": "The claims experience or loss run lists year-wise premiums, number of claims and amounts paid/outstanding, essential for experience-based pricing."
+},
+{
+"n": 32,
+"topic": "Tools of Underwriting",
+"t": "Facultative reinsurance is characterised by:",
+"o": [
+"Case-by-case offer and acceptance of individual risks",
+"Compulsory cession to GIC Re only",
+"Cover for the insurer's expenses",
+"Automatic cession of all risks within a class"
+],
+"a": 0,
+"e": "Facultative reinsurance is negotiated risk by risk, usually for large or hazardous risks exceeding treaty capacity or excluded from treaties."
+},
+{
+"n": 33,
+"topic": "Tools of Underwriting",
+"t": "An insurer has an excess of loss treaty of ₹4 crore in excess of ₹1 crore per risk. A fire loss of ₹3.5 crore occurs on a risk. The reinsurer's share is:",
+"o": [
+"₹1 crore",
+"₹4 crore",
+"₹2.5 crore",
+"₹3.5 crore"
+],
+"a": 2,
+"e": "The insurer bears the first ₹1 crore; the reinsurer pays the excess up to the layer limit: ₹3.5 crore − ₹1 crore = ₹2.5 crore."
+},
+{
+"n": 34,
+"topic": "Tools of Underwriting",
+"t": "Which of the following is NOT a step in the risk management process?",
+"o": [
+"Risk identification",
+"Premium remittance to the insurer",
+"Risk control and financing",
+"Risk evaluation"
+],
+"a": 1,
+"e": "Risk management involves identifying, analysing, controlling and financing risk; paying premium is only one outcome of the financing decision."
+},
+{
+"n": 35,
+"topic": "Tools of Underwriting",
+"t": "The 'average clause' in a fire policy operates when:",
+"o": [
+"The claim exceeds the sum insured",
+"The policy has expired",
+"The sum insured is less than the value of the property at the time of loss, reducing the claim proportionately",
+"The insured has more than one policy"
+],
+"a": 2,
+"e": "Under-insurance triggers the condition of average: claim = loss × (sum insured ÷ value at risk)."
+},
+{
+"n": 36,
+"topic": "Types of Policies",
+"t": "Bharat Griha Raksha, the standard dwelling policy introduced in April 2021, provides automatic cover for general contents of:",
+"o": [
+"20% of the building sum insured, up to ₹10 lakh",
+"10% of the building sum insured, up to ₹5 lakh",
+"50% of the building sum insured without limit",
+"No contents cover unless separately declared"
+],
+"a": 0,
+"e": "BGR automatically covers general home contents at 20% of the building sum insured subject to a maximum of ₹10 lakh, with the option to insure higher value by declaration."
+},
+{
+"topic": "Claims timelines",
+"t": "Under IRDAI's 2024 norms, a surveyor must be appointed within what time of a claim intimation?",
+"o": [
+"24 hours",
+"48 hours",
+"72 hours",
+"7 days"
+],
+"a": 0,
+"e": "★ Core fact (asked across III papers). Appointment within 24 hours; survey report within 15 days; insurer's decision within 7 days of the report.",
+"r": "core",
+"n": 37
+},
+{
+"n": 38,
+"topic": "Types of Policies",
+"t": "A consequential loss (fire loss of profit) policy indemnifies the insured mainly for:",
+"o": [
+"Third-party liability",
+"Physical damage to the building",
+"Theft of stock",
+"Loss of gross profit due to reduction in turnover and increased cost of working following insured material damage"
+],
+"a": 3,
+"e": "The CL policy follows a material damage policy and covers loss of gross profit (net profit plus standing charges) during the indemnity period, plus increased cost of working."
+},
+{
+"n": 39,
+"topic": "Types of Policies",
+"t": "Under a Contractors' All Risks (CAR) policy, cover generally commences:",
+"o": [
+"From the date of the first claim",
+"Only after the project is completed",
+"From commencement of work or unloading of the first item at the site, whichever is earlier",
+"After the maintenance period ends"
+],
+"a": 2,
+"e": "CAR covers the construction period from the start of work/arrival of materials until handover, with an optional maintenance period."
+},
+{
+"n": 40,
+"topic": "Types of Policies",
+"t": "In a public liability policy, the ratio 'Any One Accident : Any One Year' (AOA:AOY) of 1:3 means:",
+"o": [
+"The aggregate limit for the policy year is three times the limit for any one accident",
+"The insurer pays three times the AOA limit for every accident",
+"Three accidents are covered per year",
+"The premium is three times the normal rate"
+],
+"a": 0,
+"e": "The AOA limit caps liability per accident; the AOY limit is the annual aggregate, here three times the AOA limit."
+},
+{
+"n": 41,
+"topic": "Types of Policies",
+"t": "A 'first loss' burglary policy is one where:",
+"o": [
+"The insurer pays the first ₹10,000 of every claim",
+"Only the first claim in the year is paid",
+"Cover is limited to the first month of the policy",
+"The sum insured is fixed at a percentage of the total value at risk, on the understanding that a total loss is improbable, and average is applied only if the declared total value is understated"
+],
+"a": 3,
+"e": "First loss policies suit stocks in bulk where theft of the whole quantity is unlikely; the premium is charged on the first-loss sum insured with a loading."
+},
+{
+"n": 42,
+"topic": "Underwriting Profitability and Re-underwriting Strategies",
+"t": "A motor portfolio has net earned premium of ₹200 crore and incurred claims of ₹150 crore. If the insurer's expense ratio is 22%, the underwriting result is:",
+"o": [
+"Loss of ₹44 crore",
+"Profit of ₹50 crore",
+"Profit of ₹6 crore",
+"Loss of ₹6 crore"
+],
+"a": 2,
+"e": "Loss ratio = 75%; combined ratio = 75% + 22% = 97%; underwriting profit = 3% × ₹200 crore = ₹6 crore."
+},
+{
+"n": 43,
+"topic": "Underwriting Profitability and Re-underwriting Strategies",
+"t": "Which ratio is most directly affected by a decision to increase deductibles across a motor book?",
+"o": [
+"Reinsurance commission ratio",
+"Solvency ratio only",
+"Incurred claims ratio",
+"Expense ratio only"
+],
+"a": 2,
+"e": "Higher deductibles eliminate small claims and shift part of each loss to the insured, lowering incurred claims relative to earned premium."
+},
+{
+"n": 44,
+"topic": "Underwriting Profitability and Re-underwriting Strategies",
+"t": "A portfolio review shows that 15% of fire accounts generate 70% of claims. The most appropriate re-underwriting response is to:",
+"o": [
+"Increase rates uniformly for all accounts by 70%",
+"Cancel all fire policies mid-term",
+"Stop writing fire business altogether",
+"Target the loss-making accounts at renewal with revised terms, risk improvements or non-renewal while retaining the profitable book"
+],
+"a": 3,
+"e": "Re-underwriting is selective: it corrects the segment causing losses without alienating profitable customers or abandoning the line."
+},
+{
+"n": 45,
+"topic": "Underwriting Profitability and Re-underwriting Strategies",
+"t": "The 'operating ratio' of a general insurer differs from the combined ratio because it:",
+"o": [
+"Includes only commission",
+"Excludes claims",
+"Adds investment income to the picture by deducting the investment income ratio from the combined ratio",
+"Ignores expenses"
+],
+"a": 2,
+"e": "Operating ratio = combined ratio − investment income ratio; a combined ratio above 100% may still yield an operating profit when investment income is adequate."
+},
+{
+"topic": "Claims timelines",
+"t": "For health insurance, the maximum time an insurer may take to decide a cashless authorisation request under the 2024 master circular is:",
+"o": [
+"1 hour",
+"3 hours",
+"6 hours",
+"24 hours"
+],
+"a": 0,
+"e": "★ Core fact (asked across III papers). Cashless authorisation within 1 hour of request; final discharge authorisation within 3 hours.",
+"r": "core",
+"n": 46
+},
+{
+"n": 47,
+"topic": "Protection of Policyholders' Interests",
+"t": "Under IRDAI's policyholder protection framework, a general insurer that delays settlement of a claim beyond the prescribed timelines must pay interest on the claim amount at:",
+"o": [
+"No interest is payable",
+"Savings bank rate",
+"Bank rate plus 2% per annum",
+"12% per annum fixed"
+],
+"a": 2,
+"e": "The regulations require interest at 2% above the bank rate prevailing at the beginning of the financial year for delayed claim payments."
+},
+{
+"n": 48,
+"topic": "Protection of Policyholders' Interests",
+"t": "The Customer Information Sheet (CIS) prescribed by IRDAI is intended to:",
+"o": [
+"Serve as the premium receipt",
+"Record the insurer's reinsurance arrangements",
+"Replace the policy document",
+"Give the policyholder a simple summary of key policy features, exclusions, waiting periods and claim procedure"
+],
+"a": 3,
+"e": "The CIS improves transparency by explaining the policy in plain language; it supplements but does not replace the policy wording."
+},
+{
+"n": 49,
+"topic": "Research and Development in Underwriting, Rating and Product Innovation",
+"t": "IRDAI's regulatory sandbox framework allows insurers to:",
+"o": [
+"Operate without any regulatory oversight",
+"Avoid paying claims during the test period",
+"Sell products without any policy document",
+"Test innovative products, processes or distribution models on a limited scale for a limited period with regulatory relaxation"
+],
+"a": 3,
+"e": "The sandbox gives time-bound, controlled space for innovation (e.g. usage-based motor covers) under IRDAI monitoring before full-scale launch."
+},
+{
+"n": 50,
+"topic": "IT Applications in Underwriting",
+"t": "Telematics-based motor insurance uses:",
+"o": [
+"The registration certificate alone",
+"Data from a device or app on driving behaviour and usage (distance, speed, time) to price the risk",
+"Only the claims history held by IIB",
+"The colour and model of the car to fix premium"
+],
+"a": 1,
+"e": "Telematics enables pay-as-you-drive and pay-how-you-drive pricing, which IRDAI permitted as add-ons to own-damage cover in 2022."
+}
+]

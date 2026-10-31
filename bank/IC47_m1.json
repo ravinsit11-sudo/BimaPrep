@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Introduction",
+"t": "Which of the following is NOT regarded as a core function of a casualty actuary?",
+"o": [
+"Ratemaking",
+"Loss reserving",
+"Risk classification",
+"Physical investigation and settlement of individual claims"
+],
+"a": 3,
+"e": "Ratemaking, reserving and classification are actuarial functions; investigating and settling individual claims is a claims-department function, although actuaries use the resulting data."
+},
+{
+"n": 2,
+"topic": "Introduction",
+"t": "Each policy in a homogeneous portfolio has a loss standard deviation of ₹20,000. If an insurer pools 400 independent such policies, the standard deviation of the average loss per policy is approximately:",
+"o": [
+"₹50",
+"₹1,000",
+"₹4,000",
+"₹20,000"
+],
+"a": 1,
+"e": "SD of the average = σ/√n = 20,000/√400 = 20,000/20 = ₹1,000, illustrating how pooling reduces relative risk."
+},
+{
+"n": 3,
+"topic": "Risk Theory",
+"t": "Claim frequency per policy follows a Poisson distribution with mean 0.08. If the insurer has 2,500 such independent policies, the expected number of claims in the year is:",
+"o": [
+"20",
+"80",
+"200",
+"312"
+],
+"a": 2,
+"e": "Expected claims = 2,500 × 0.08 = 200. Under the Poisson model the variance of the claim count is also 200."
+},
+{
+"n": 4,
+"topic": "Risk Theory",
+"t": "For a class of risks, claim frequency is 0.08 per exposure and the average claim severity is ₹50,000. The pure premium per exposure is:",
+"o": [
+"₹400",
+"₹4,000",
+"₹6,250",
+"₹40,000"
+],
+"a": 1,
+"e": "Pure premium = frequency × severity = 0.08 × 50,000 = ₹4,000 per exposure unit."
+},
+{
+"n": 5,
+"topic": "Risk Theory",
+"t": "Under the collective risk model, aggregate losses S are the sum of N claims of random size X. If E[N] = 120 and E[X] = ₹30,000, then E[S] equals:",
+"o": [
+"₹3.6 lakh",
+"₹36 lakh",
+"₹360 lakh",
+"₹4 lakh"
+],
+"a": 1,
+"e": "E[S] = E[N] × E[X] = 120 × 30,000 = ₹36,00,000 = ₹36 lakh, provided claim sizes are independent of the claim count."
+},
+{
+"n": 6,
+"topic": "Risk Theory",
+"t": "In an individual risk model, 1,000 independent policies each have probability 0.05 of a single claim of exactly ₹40,000. The expected aggregate loss and its approximate standard deviation are:",
+"o": [
+"₹20 lakh and ₹2.76 lakh",
+"₹20 lakh and ₹40,000",
+"₹2 lakh and ₹2.76 lakh",
+"₹50 lakh and ₹4 lakh"
+],
+"a": 0,
+"e": "Mean = 1,000 × 0.05 × 40,000 = ₹20 lakh; variance = 1,000 × 0.05 × 0.95 × 40,000², so SD = 40,000 × √47.5 ≈ 40,000 × 6.89 ≈ ₹2.76 lakh."
+},
+{
+"n": 7,
+"topic": "Risk Theory",
+"t": "An individual with wealth ₹100 lakh and utility function u(w) = √w faces a 50% chance of losing ₹36 lakh. The maximum premium she would pay for full insurance is:",
+"o": [
+"₹18 lakh",
+"₹19 lakh",
+"₹20 lakh",
+"₹21 lakh"
+],
+"a": 1,
+"e": "Expected utility without insurance = 0.5√100 + 0.5√64 = 5 + 4 = 9, so the certainty equivalent wealth is 9² = 81 lakh; maximum premium = 100 − 81 = ₹19 lakh, which exceeds the expected loss of ₹18 lakh because she is risk averse."
+},
+{
+"n": 8,
+"topic": "Risk Theory",
+"t": "In risk theory the 'relative security loading' θ in the premium (1 + θ)E[S] is best described as:",
+"o": [
+"The ratio of acquisition expenses to premium",
+"The proportionate margin above expected aggregate losses that reduces the probability of ruin",
+"The discount for investment income",
+"The share of losses retained after reinsurance"
+],
+"a": 1,
+"e": "The security (safety) loading is the margin over expected losses; a higher θ builds surplus faster and lowers the probability of ruin."
+},
+{
+"n": 9,
+"topic": "Risk Theory",
+"t": "Observed claim counts for a motor portfolio show a mean of 0.12 and a variance of 0.18 per policy. This pattern most strongly suggests:",
+"o": [
+"A pure Poisson process with identical risks",
+"Heterogeneous risks, for which a negative binomial (mixed Poisson) model is more appropriate",
+"A binomial process with p greater than 0.5",
+"That the data have been truncated"
+],
+"a": 1,
+"e": "Variance exceeding the mean (over-dispersion) contradicts a single Poisson; mixing Poisson rates across heterogeneous risks via a gamma distribution yields a negative binomial with variance greater than mean."
+},
+{
+"n": 10,
+"topic": "Risk Theory",
+"t": "Claim severity is exponentially distributed with mean ₹50,000. The probability that a claim exceeds ₹1,00,000 is approximately (e⁻² ≈ 0.135):",
+"o": [
+"0.050",
+"0.135",
+"0.368",
+"0.500"
+],
+"a": 1,
+"e": "For the exponential, P(X > x) = e^(−x/θ) = e^(−1,00,000/50,000) = e⁻² ≈ 0.135."
+},
+{
+"n": 11,
+"topic": "Individual Risk Rating",
+"t": "Using Z = P/(P + K), a risk with expected losses P = ₹20 lakh receives credibility 0.40. The value of the constant K is:",
+"o": [
+"₹8 lakh",
+"₹12 lakh",
+"₹50 lakh",
+"₹30 lakh"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). 0.40 = 20/(20 + K) gives 20 + K = 50, so K = ₹30 lakh.",
+"r": "key"
+},
+{
+"n": 12,
+"topic": "Risk Theory",
+"t": "With the same exponential severity (mean ₹50,000), the limited expected value at a policy limit of ₹50,000, i.e. E[X ∧ 50,000], is approximately (e⁻¹ ≈ 0.368):",
+"o": [
+"₹18,400",
+"₹25,000",
+"₹31,600",
+"₹50,000"
+],
+"a": 2,
+"e": "For an exponential, E[X ∧ L] = θ(1 − e^(−L/θ)) = 50,000 × (1 − 0.368) ≈ ₹31,600; the remaining ₹18,400 is the expected loss above the limit."
+},
+{
+"n": 13,
+"topic": "Ratemaking",
+"t": "Indicated pure premium is ₹4,000 per exposure, fixed expense is ₹400 per exposure, variable expenses are 20% of premium and the profit provision is 5% of premium. The indicated rate per exposure under the pure premium method is approximately:",
+"o": [
+"₹5,280",
+"₹5,500",
+"₹5,867",
+"₹6,160"
+],
+"a": 2,
+"e": "Rate = (pure premium + fixed expense)/(1 − V − Q) = (4,000 + 400)/(1 − 0.20 − 0.05) = 4,400/0.75 ≈ ₹5,867."
+},
+{
+"n": 14,
+"topic": "Ratemaking",
+"t": "Under the loss ratio method, the trended and developed experience loss ratio is 68% and the permissible (target) loss ratio is 60%. The indicated overall rate change is:",
+"o": [
+"−11.8%",
+"+8.0%",
+"+13.3%",
+"+18.0%"
+],
+"a": 2,
+"e": "Indicated change = (experience LR / permissible LR) − 1 = 0.68/0.60 − 1 = +13.3%. The 8-point difference is not the percentage change."
+},
+{
+"n": 15,
+"topic": "Ratemaking",
+"t": "An insurer's expense provisions are: commission 15%, other acquisition 5%, general administration 8%, premium taxes and levies 2%, and profit and contingencies 5%, all as a percentage of premium. The permissible loss ratio is:",
+"o": [
+"60%",
+"65%",
+"70%",
+"75%"
+],
+"a": 1,
+"e": "Permissible LR = 1 − (0.15 + 0.05 + 0.08 + 0.02 + 0.05) = 1 − 0.35 = 65%."
+},
+{
+"n": 16,
+"topic": "Risk Classification",
+"t": "An additive rating plan has a base premium of ₹4,000, an age-group adjustment of +₹600 and a territory adjustment of −₹300. The premium is:",
+"o": [
+"₹4,300",
+"₹4,200",
+"₹4,600",
+"₹4,900"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). Additive plans sum the adjustments: 4,000 + 600 − 300 = ₹4,300.",
+"r": "key"
+},
+{
+"n": 17,
+"topic": "Ratemaking",
+"t": "A +10% rate increase took effect on 1 January of a calendar year. Annual policies are written uniformly through the year. Using the parallelogram method, the on-level factor to bring that calendar year's earned premium to current rate level is approximately:",
+"o": [
+"1.000",
+"1.048",
+"1.100",
+"1.050"
+],
+"a": 1,
+"e": "Half of the year's earned premium is at the old level (1.00) and half at the new (1.10), so average level = 1.05 and the factor = 1.10/1.05 ≈ 1.048. Earned premium of ₹100 lakh would become ₹104.8 lakh."
+},
+{
+"n": 18,
+"topic": "Ratemaking",
+"t": "Annual severity trend is 6% and the trend period is 2.5 years. The severity trend factor to apply is approximately:",
+"o": [
+"1.150",
+"1.157",
+"1.124",
+"1.191"
+],
+"a": 1,
+"e": "Trend factor = 1.06^2.5 = 1.06² × 1.06^0.5 ≈ 1.1236 × 1.0296 ≈ 1.157."
+},
+{
+"n": 19,
+"topic": "Ratemaking",
+"t": "New rates will be effective from 1 April 2026 for one year on annual policies. The average accident date of losses under these rates and the trend period from the midpoint of accident year 2024 (1 July 2024) are:",
+"o": [
+"1 April 2026; 1.75 years",
+"1 October 2026; 2.25 years",
+"1 April 2027; 2.75 years",
+"1 April 2026; 2.75 years"
+],
+"a": 2,
+"e": "Policies written over one year from 1 April 2026 expose losses until 31 March 2028, so the average accident date is 1 April 2027; from 1 July 2024 that is 2 years 9 months = 2.75 years."
+},
+{
+"n": 20,
+"topic": "Ratemaking",
+"t": "Reported losses for an accident year at 24 months are ₹80 lakh and the selected 24-to-ultimate development factor is 1.25. The projected ultimate losses are:",
+"o": [
+"₹64 lakh",
+"₹120 lakh",
+"₹105 lakh",
+"₹100 lakh"
+],
+"a": 3,
+"e": "Ultimate = reported × LDF = 80 × 1.25 = ₹100 lakh; dividing by the factor (₹64 lakh) would be wrong."
+},
+{
+"n": 21,
+"topic": "Ratemaking",
+"t": "Which of the following is generally considered the LEAST desirable property of an exposure base?",
+"o": [
+"It is proportional to the expected loss",
+"It is easy to measure and verify",
+"It can be easily manipulated by the insured",
+"It is already in common use in the market"
+],
+"a": 2,
+"e": "A good exposure base is proportional to expected loss, practical to measure and verify, and historically accepted; susceptibility to manipulation makes it undesirable."
+},
+{
+"n": 22,
+"topic": "Ratemaking",
+"t": "Match the typical exposure base: workers' compensation, motor own damage, products liability.",
+"o": [
+"Payroll; vehicle-year; sales turnover",
+"Number of employees; sum insured; number of products",
+"Sales turnover; payroll; vehicle-year",
+"Payroll; number of drivers; floor area"
+],
+"a": 0,
+"e": "Payroll tracks workers' compensation exposure, vehicle-years track motor exposure and sales/turnover track products liability exposure."
+},
+{
+"n": 23,
+"topic": "Ratemaking",
+"t": "An annual policy with premium ₹24,000 is written on 1 October 2025. On a pro-rata basis, the earned premium for calendar year 2025 and the unearned premium reserve at 31 December 2025 are:",
+"o": [
+"₹6,000 and ₹18,000",
+"₹12,000 and ₹12,000",
+"₹18,000 and ₹6,000",
+"₹24,000 and nil"
+],
+"a": 0,
+"e": "Three of twelve months are earned in 2025: 24,000 × 3/12 = ₹6,000 earned; the balance ₹18,000 is unearned."
+},
+{
+"n": 24,
+"topic": "Ratemaking",
+"t": "The indicated rate change from an insurer's own data is +12% with credibility 0.40. The complement of credibility (e.g. industry trend) indicates +3%. The credibility-weighted indication is:",
+"o": [
+"+4.8%",
+"+9.0%",
+"+7.5%",
+"+6.6%"
+],
+"a": 3,
+"e": "Weighted indication = 0.40 × 12% + 0.60 × 3% = 4.8% + 1.8% = +6.6%."
+},
+{
+"n": 25,
+"topic": "Ratemaking",
+"t": "In liability ratemaking, losses are often capped at a 'basic limit' and an excess loss factor applied. The main reason for capping is to:",
+"o": [
+"Reduce the premium charged to insureds",
+"Eliminate the need for trending",
+"Comply with the Insurance Act 1938",
+"Improve stability of the indication by removing distortion from a few very large claims"
+],
+"a": 3,
+"e": "Large claims are rare and volatile; capping them yields a stable basic-limit indication, and the expected cost of excess layers is added back through increased-limit or excess loss factors."
+},
+{
+"n": 26,
+"topic": "Ratemaking",
+"t": "Why do actuaries separate fixed expenses from variable expenses in a rate indication?",
+"o": [
+"Variable expenses vary with premium while fixed expenses per policy do not, so a pure percentage load would overcharge high-premium risks",
+"Fixed expenses are not recoverable from premium",
+"Fixed expenses are paid by the reinsurer",
+"Variable expenses relate only to claims"
+],
+"a": 0,
+"e": "Commission and premium taxes vary with premium, whereas policy issuance costs are roughly the same per policy; treating all expenses as a percentage distorts rates across premium sizes."
+},
+{
+"n": 27,
+"topic": "Individual Risk Rating",
+"t": "Under a prospective experience rating plan, modification factor M = Z(A/E) + (1 − Z). A risk has actual losses ₹60 lakh, expected losses ₹80 lakh and credibility 0.50. If the manual premium is ₹100 lakh, the experience-rated premium is:",
+"o": [
+"₹75 lakh",
+"₹92.5 lakh",
+"₹90 lakh",
+"₹87.5 lakh"
+],
+"a": 3,
+"e": "M = 0.5 × (60/80) + 0.5 = 0.375 + 0.5 = 0.875, so premium = 100 × 0.875 = ₹87.5 lakh."
+},
+{
+"n": 28,
+"topic": "Individual Risk Rating",
+"t": "Schedule rating differs from experience rating in that schedule rating:",
+"o": [
+"Uses the risk's own past losses to modify the premium",
+"Is used only for small risks with no loss history",
+"Adjusts premium after the policy period based on actual losses",
+"Applies credits and debits for physical and management characteristics judged by the underwriter"
+],
+"a": 3,
+"e": "Schedule rating is a prospective, judgment-based adjustment for features such as housekeeping, safety programmes and management; experience rating uses actual loss history."
+},
+{
+"n": 29,
+"topic": "Introduction",
+"t": "A risk has a 1% chance of a ₹20 lakh loss and, independently, a 5% chance of a ₹2 lakh loss in a year. The expected annual loss is:",
+"o": [
+"₹20,000",
+"₹30,000",
+"₹1.2 lakh",
+"₹2.2 lakh"
+],
+"a": 1,
+"e": "★ Key fact (repeated across the mocks of this paper). Expected loss = 0.01 × 20,00,000 + 0.05 × 2,00,000 = 20,000 + 10,000 = ₹30,000.",
+"r": "key"
+},
+{
+"n": 30,
+"topic": "Individual Risk Rating",
+"t": "A retrospective rating plan has basic premium ₹10 lakh, loss conversion factor 1.10, tax multiplier 1.05, minimum premium ₹30 lakh and maximum premium ₹70 lakh. If incurred losses are ₹40 lakh, the retrospective premium is:",
+"o": [
+"₹52.5 lakh",
+"₹70.0 lakh",
+"₹60.0 lakh",
+"₹56.7 lakh"
+],
+"a": 3,
+"e": "R = (B + cL) × T = (10 + 1.10 × 40) × 1.05 = 54 × 1.05 = ₹56.7 lakh, which lies between the minimum and maximum, so it applies unchanged."
+},
+{
+"n": 31,
+"topic": "Individual Risk Rating",
+"t": "Using the credibility formula Z = P/(P + K), where P is the risk's expected losses and K is a constant, with P = ₹50 lakh and K = ₹150 lakh, the credibility assigned is:",
+"o": [
+"0.20",
+"0.75",
+"0.33",
+"0.25"
+],
+"a": 3,
+"e": "Z = 50/(50 + 150) = 50/200 = 0.25; larger risks approach Z = 1 as P grows relative to K."
+},
+{
+"n": 32,
+"topic": "Individual Risk Rating",
+"t": "Under classical (limited fluctuation) credibility, full credibility is set so that observed claim counts are within 5% of expected with 90% probability (z = 1.645). The number of claims for full credibility and the credibility of 300 claims using the square-root rule are approximately:",
+"o": [
+"1,082 claims; 0.53",
+"1,082 claims; 0.28",
+"2,401 claims; 0.35",
+"384 claims; 0.88"
+],
+"a": 0,
+"e": "n = (1.645/0.05)² = 32.9² ≈ 1,082; partial credibility Z = √(300/1,082) ≈ √0.277 ≈ 0.53."
+},
+{
+"n": 33,
+"topic": "Individual Risk Rating",
+"t": "Composite rating is mainly used for:",
+"o": [
+"Small personal lines policies",
+"Risks with no loss history",
+"Large commercial accounts with many coverages, to simplify premium audit by using a single exposure base",
+"Reinsurance treaties only"
+],
+"a": 2,
+"e": "Composite rating converts the premium for several coverages into a single rate on one convenient exposure base (e.g. sales), easing administration for large accounts."
+},
+{
+"topic": "Policyholder protection",
+"t": "The IRDAI portal through which a policyholder can escalate an unresolved grievance against an insurer is:",
+"o": [
+"Bima Sugam",
+"Bima Bharosa",
+"Bima Vahak",
+"Bima Vistaar"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). Bima Bharosa (formerly IGMS) is the grievance portal; Bima Sugam is the marketplace, Bima Vahak the women-led distribution channel and Bima Vistaar the combined rural product.",
+"r": "core",
+"n": 34
+},
+{
+"n": 35,
+"topic": "Individual Risk Rating",
+"t": "Which individual risk rating plan transfers the greatest share of the policy period's own loss experience back to the insured?",
+"o": [
+"Schedule rating",
+"Prospective experience rating",
+"Retrospective rating",
+"Manual rating with a class relativity"
+],
+"a": 2,
+"e": "Retrospective rating adjusts the premium for the same period based on its actual losses (within min/max), so the insured bears most of its own experience; experience rating only uses prior years."
+},
+{
+"n": 36,
+"topic": "Loss Reserving",
+"t": "For an accident year, estimated ultimate losses are ₹120 lakh, paid losses to date are ₹50 lakh and outstanding case reserves are ₹40 lakh. The IBNR reserve (in the broad sense, including development on known claims) is:",
+"o": [
+"₹30 lakh",
+"₹70 lakh",
+"₹80 lakh",
+"₹110 lakh"
+],
+"a": 0,
+"e": "IBNR = ultimate − reported incurred = 120 − (50 + 40) = ₹30 lakh; total unpaid = 40 + 30 = ₹70 lakh."
+},
+{
+"n": 37,
+"topic": "Loss Reserving",
+"t": "A cumulative paid-loss triangle shows accident year 2023 at ₹40 lakh (12 months) and ₹60 lakh (24 months), and accident year 2024 at ₹50 lakh (12 months). Using the 12-to-24 factor from 2023, the projected 24-month paid losses for accident year 2024 are:",
+"o": [
+"₹60 lakh",
+"₹70 lakh",
+"₹75 lakh",
+"₹90 lakh"
+],
+"a": 2,
+"e": "Age-to-age factor = 60/40 = 1.50; projected = 50 × 1.50 = ₹75 lakh."
+},
+{
+"n": 38,
+"topic": "Loss Reserving",
+"t": "Two accident years develop from 12 to 24 months as: AY1 ₹100 lakh → ₹130 lakh; AY2 ₹200 lakh → ₹250 lakh. The volume-weighted average 12-to-24 factor and the simple average factor are respectively:",
+"o": [
+"1.267 and 1.275",
+"1.275 and 1.267",
+"1.250 and 1.300",
+"1.300 and 1.250"
+],
+"a": 0,
+"e": "Volume-weighted = (130 + 250)/(100 + 200) = 380/300 = 1.267; simple average = (1.30 + 1.25)/2 = 1.275."
+},
+{
+"n": 39,
+"topic": "Loss Reserving",
+"t": "Selected age-to-age factors are 12–24: 1.50, 24–36: 1.20 and 36–ultimate: 1.05. The cumulative 12-to-ultimate development factor is:",
+"o": [
+"1.75",
+"1.80",
+"1.89",
+"3.75"
+],
+"a": 2,
+"e": "Cumulative factor = 1.50 × 1.20 × 1.05 = 1.89; factors are multiplied, not added."
+},
+{
+"n": 40,
+"topic": "Loss Reserving",
+"t": "Using the Bornhuetter-Ferguson method: earned premium ₹200 lakh, expected loss ratio 70%, reported losses ₹70 lakh, and cumulative reported-to-ultimate factor 1.60. The estimated IBNR and ultimate losses are:",
+"o": [
+"IBNR ₹42 lakh; ultimate ₹112 lakh",
+"IBNR ₹87.5 lakh; ultimate ₹157.5 lakh",
+"IBNR ₹70 lakh; ultimate ₹140 lakh",
+"IBNR ₹52.5 lakh; ultimate ₹122.5 lakh"
+],
+"a": 3,
+"e": "Expected ultimate = 200 × 0.70 = 140; unreported proportion = 1 − 1/1.60 = 0.375; IBNR = 140 × 0.375 = ₹52.5 lakh; ultimate = 70 + 52.5 = ₹122.5 lakh."
+},
+{
+"n": 41,
+"topic": "Loss Reserving",
+"t": "A 'tail factor' in loss development analysis is:",
+"o": [
+"The factor applied to the oldest accident year to remove it from the triangle",
+"The reduction applied for salvage and subrogation",
+"The ratio of paid to incurred losses at 12 months",
+"The development expected beyond the latest maturity observed in the data triangle"
+],
+"a": 3,
+"e": "When the triangle does not extend to full settlement, a tail factor projects development from the last observed age to ultimate, often fitted by curve or judged from industry data."
+},
+{
+"n": 42,
+"topic": "Loss Reserving",
+"t": "Under the expected loss ratio method, an accident year with earned premium ₹150 lakh, expected loss ratio 65% and paid losses of ₹40 lakh has a total unpaid loss reserve of:",
+"o": [
+"₹57.5 lakh",
+"₹97.5 lakh",
+"₹110 lakh",
+"₹26 lakh"
+],
+"a": 0,
+"e": "Ultimate = 150 × 0.65 = ₹97.5 lakh; reserve = 97.5 − 40 = ₹57.5 lakh. The method ignores actual reported experience and suits immature years."
+},
+{
+"n": 43,
+"topic": "Loss Reserving",
+"t": "A hindsight (runoff) test shows that reserves carried at 31 March 2024 of ₹500 crore have, after one year of payments and re-estimation, been re-estimated at ₹560 crore for the same claims. This indicates:",
+"o": [
+"Adverse development of ₹60 crore, i.e. the original reserves were deficient",
+"Favourable development of ₹60 crore",
+"That IBNR was overstated",
+"That premiums were inadequate"
+],
+"a": 0,
+"e": "When paid plus re-estimated outstanding exceeds the original reserve, there is adverse development and the original reserve was inadequate by ₹60 crore."
+},
+{
+"n": 44,
+"topic": "Loss Reserving",
+"t": "For a claims-made liability policy, the most natural basis for organising loss data for reserving is:",
+"o": [
+"Accident year",
+"Policy year",
+"Report year",
+"Calendar year of payment"
+],
+"a": 2,
+"e": "Claims-made coverage is triggered by the date the claim is reported, so report-year aggregation matches coverage and eliminates pure IBNR for closed report years."
+},
+{
+"n": 45,
+"topic": "Loss Reserving",
+"t": "The paid chain-ladder method and the incurred chain-ladder method are both being used. Which statement is correct?",
+"o": [
+"A speed-up in claim settlement distorts the incurred method but not the paid method",
+"Both methods require an a priori expected loss ratio",
+"Neither method is affected by changes in claims practice",
+"A strengthening of case reserve adequacy distorts the incurred method, while a change in settlement speed distorts the paid method"
+],
+"a": 3,
+"e": "Incurred development depends on case reserving consistency; paid development depends on settlement patterns being stable. Neither needs an expected loss ratio (that is Bornhuetter-Ferguson)."
+},
+{
+"topic": "Policyholder protection",
+"t": "An insurer must resolve a policyholder's grievance within how many days of receipt?",
+"o": [
+"7 days",
+"14 days",
+"30 days",
+"45 days"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). 14 days under the 2024 regulations; thereafter the policyholder may approach Bima Bharosa or the Ombudsman.",
+"r": "core",
+"n": 46
+},
+{
+"n": 47,
+"topic": "Risk Classification",
+"t": "Which of the following is NOT a generally accepted criterion for selecting a risk classification variable?",
+"o": [
+"Homogeneity within the class",
+"Statistical credibility of the class",
+"Social acceptability and legality",
+"Maximising the premium collected from each class"
+],
+"a": 3,
+"e": "Accepted criteria include homogeneity, credibility, causality/intuitive relation to loss, controllability and acceptability; revenue maximisation is not a classification criterion."
+},
+{
+"n": 48,
+"topic": "Risk Classification",
+"t": "The base class has an indicated pure premium of ₹3,000 and class X has an indicated pure premium of ₹4,500. The indicated class relativity for class X is:",
+"o": [
+"0.67",
+"1.33",
+"1.50",
+"2.00"
+],
+"a": 2,
+"e": "Relativity = class pure premium / base pure premium = 4,500/3,000 = 1.50."
+},
+{
+"n": 49,
+"topic": "Risk Classification",
+"t": "A weakness of one-way (univariate) analysis of class relativities, which multivariate methods such as minimum bias or GLMs address, is that:",
+"o": [
+"Correlations among rating variables cause the effect of one variable to be double-counted or distorted",
+"It cannot be computed without a computer",
+"It ignores exposure volume",
+"It requires the Poisson assumption"
+],
+"a": 0,
+"e": "If, say, young drivers also drive high-powered cars, separate one-way analyses attribute the same loss effect to both variables; multivariate methods estimate each effect while holding the others constant."
+},
+{
+"n": 50,
+"topic": "Risk Classification",
+"t": "A territory's indicated relativity is 1.30 and its current relativity is 1.10. With credibility 0.50 assigned to the indication and the complement being the current relativity, the credibility-weighted relativity is:",
+"o": [
+"1.15",
+"1.30",
+"1.25",
+"1.20"
+],
+"a": 3,
+"e": "Weighted = 0.5 × 1.30 + 0.5 × 1.10 = 0.65 + 0.55 = 1.20."
+}
+]

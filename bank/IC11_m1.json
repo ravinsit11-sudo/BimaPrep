@@ -1,1 +1,657 @@
-[{"n": 1, "topic": "Claims", "t": "Under the IRDAI Protection of Policyholders' Interests framework, after receipt of the final survey report (and any additional report), the insurer must decide on and settle the claim within:", "o": ["7 days", "15 days", "30 days", "45 days"], "a": 2, "e": "The insurer must offer settlement or convey rejection within 30 days of receipt of the survey report; delay attracts interest at bank rate plus 2%."}, {"n": 2, "topic": "Motor", "t": "Which section of the Motor Vehicles Act, 1988 makes third party insurance compulsory for a vehicle used in a public place?", "o": ["Section 146", "Section 149", "Section 166", "Section 140"], "a": 0, "e": "Section 146 provides that no person shall use a motor vehicle in a public place unless a policy complying with Chapter XI is in force."}, {"n": 3, "topic": "Miscellaneous", "t": "A Fidelity Guarantee policy indemnifies the employer against:", "o": ["Direct pecuniary loss caused by fraud or dishonesty of employees in the course of their duties", "Injury to employees during employment", "Resignation of key employees", "Negligent errors of employees causing loss to third parties"], "a": 0, "e": "Fidelity guarantee responds to embezzlement, forgery and misappropriation by named or unnamed employees discovered within the policy period or an extended discovery period."}, {"n": 4, "topic": "Liability", "t": "The Public Liability Insurance Act, 1991 requires compulsory insurance to be taken by:", "o": ["All shopkeepers and traders", "Owners handling hazardous substances as notified under the Act", "All owners of motor vehicles", "Medical practitioners"], "a": 1, "e": "The Act imposes no-fault liability on owners handling hazardous substances to pay immediate relief to victims and obliges them to insure that liability."}, {"n": 5, "topic": "Marine", "t": "Which set of Institute Cargo Clauses provides the widest, 'all risks' type cover?", "o": ["ICC (A)", "ICC (B)", "ICC (C)", "Institute War Clauses (Cargo)"], "a": 0, "e": "ICC (A) covers all risks of loss or damage except those specifically excluded, while (B) and (C) are named-perils clauses."}, {"n": 6, "topic": "Health", "t": "The pre-hospitalisation and post-hospitalisation expense periods most commonly provided under standard Indian health indemnity policies are:", "o": ["30 days and 60 days", "60 days and 90 days", "15 days and 30 days", "30 days and 90 days"], "a": 0, "e": "Medical expenses incurred 30 days before admission and 60 days after discharge, related to the same illness, are covered under most mediclaim policies."}, {"n": 7, "topic": "Health", "t": "A policy of Rs 5 lakh has a room rent limit of 1% of sum insured per day. The insured occupies a room costing Rs 10,000 per day and the total admissible hospital bill (linked to room category) is Rs 2 lakh. With proportionate deduction, the insurer pays:", "o": ["Rs 2 lakh", "Rs 1.5 lakh", "Rs 1 lakh", "Rs 50,000"], "a": 2, "e": "Eligible rent is Rs 5,000 against Rs 10,000 actually paid (50%); associated expenses are proportionately reduced, so Rs 2 lakh x 50% = Rs 1 lakh is payable."}, {"n": 8, "topic": "Health", "t": "A critical illness policy that pays a fixed sum on diagnosis of a listed illness is:", "o": ["An indemnity policy", "A liability policy", "A reimbursement-of-bills policy", "A fixed-benefit policy paying a lump sum on diagnosis"], "a": 3, "e": "Benefit policies pay a pre-agreed amount irrespective of actual expenses incurred, unlike hospitalisation indemnity policies which reimburse actual costs."}, {"n": 9, "topic": "Personal Accident", "t": "Under the standard Personal Accident table of benefits, loss of sight of both eyes is compensated at:", "o": ["50% of capital sum insured", "75% of capital sum insured", "25% of capital sum insured", "100% of capital sum insured"], "a": 3, "e": "Loss of both eyes, both limbs, or one eye and one limb is treated as permanent total disablement and paid at 100% of the CSI."}, {"n": 10, "topic": "Fire", "t": "A fire floater policy is one which:", "o": ["Covers stocks lying at several specified locations under a single sum insured", "Covers goods during inland transit", "Covers floating stocks on barges", "Covers machinery during erection"], "a": 0, "e": "A floater policy is used when stocks move between godowns, so one sum insured floats over all declared locations with a loading on the highest rate."}, {"n": 11, "topic": "Personal Accident", "t": "For Personal Accident rating, occupations such as professional divers, mountaineers, racing drivers and persons working with explosives fall under:", "o": ["Risk Group I", "Risk Group II", "Risk Group III", "Risk Group IV"], "a": 2, "e": "Risk Group III is the heaviest-risk class; Group I covers administrative/desk jobs and Group II covers supervisory, manual and field workers."}, {"n": 12, "topic": "Engineering", "t": "Under a Contractor's Plant and Machinery (CPM) policy, damage to a mobile crane while it is being driven on a public road from one site to another is:", "o": ["Covered in full", "Covered up to 50% of the loss", "Excluded, since CPM covers plant only while at work or at rest at the site; transit falls under motor or transit insurance", "Covered only if the crane is hired"], "a": 2, "e": "CPM covers plant on the contract site; movement on public roads is an exclusion requiring separate motor (where registrable) or transit cover."}, {"n": 13, "topic": "Engineering", "t": "The sum insured under a Machinery Breakdown policy should represent the:", "o": ["Written-down book value of the machine", "Original purchase price", "Current new replacement value including freight, duties and erection costs", "Market resale value"], "a": 2, "e": "MB policies are on reinstatement value basis, so the sum insured must be the cost of replacing the machine by a new one of the same kind and capacity."}, {"n": 14, "topic": "Personal Accident", "t": "Under a Personal Accident policy, the family of an insured who dies by suicide is:", "o": ["Paid the full capital sum insured", "Paid 50% of the capital sum insured", "Not entitled, as suicide and intentional self-injury are excluded", "Paid only if the policy has run for one year"], "a": 2, "e": "PA policies exclude death or disablement arising from intentional self-injury, suicide or attempted suicide, as the event is not accidental."}, {"n": 15, "topic": "Motor", "t": "The compulsory Personal Accident cover for the owner-driver under a motor policy is for a capital sum insured of:", "o": ["Rs 2 lakh", "Rs 5 lakh", "Rs 15 lakh", "Rs 10 lakh"], "a": 2, "e": "IRDAI enhanced the compulsory owner-driver PA cover to Rs 15 lakh (from Rs 1 lakh for two-wheelers and Rs 2 lakh for cars) with effect from 2018."}, {"n": 16, "topic": "Fire", "t": "Stocks worth Rs 50 lakh are insured for Rs 30 lakh under a fire policy subject to the average clause. A fire causes a loss of Rs 10 lakh. The insurer will pay:", "o": ["Rs 3 lakh", "Rs 5 lakh", "Rs 10 lakh", "Rs 6 lakh"], "a": 3, "e": "Claim = Loss x (Sum insured / Value at risk) = 10 x 30/50 = Rs 6 lakh; the insured bears the balance as his own insurer."}, {"n": 17, "topic": "Motor", "t": "The compulsory deductible under a private car package policy for a vehicle with engine capacity exceeding 1500 cc is:", "o": ["Rs 2,000", "Rs 500", "Rs 2,500", "Rs 1,000"], "a": 0, "e": "Compulsory excess is Rs 1,000 for private cars up to 1500 cc and Rs 2,000 for those above 1500 cc; two-wheelers carry Rs 100."}, {"n": 18, "topic": "Fire", "t": "Under the SFSP policy, if an insured building remains unoccupied for a continuous period exceeding how many days, cover ceases unless the insurer has agreed otherwise?", "o": ["7 days", "60 days", "30 days", "90 days"], "a": 2, "e": "The policy condition treats a building unoccupied for more than 30 days as a material change of risk, requiring intimation and the insurer's consent."}, {"n": 19, "topic": "Market Structure", "t": "How many public sector general insurance companies (excluding the specialised insurers) currently operate in India?", "o": ["Three", "Four", "Five", "Six"], "a": 1, "e": "The four PSU general insurers are New India Assurance, United India, Oriental Insurance and National Insurance; AIC and ECGC are specialised insurers counted separately."}, {"n": 20, "topic": "Policy Documents", "t": "A cover note issued pending the policy is normally valid for a maximum period of:", "o": ["15 days", "30 days", "90 days", "60 days"], "a": 3, "e": "Cover notes are temporary evidence of cover and are typically valid for up to 60 days, within which the policy must be issued."}, {"n": 21, "topic": "Motor", "t": "The Insured's Declared Value (IDV) of a vehicle is arrived at on the basis of:", "o": ["Manufacturer's listed selling price of the model adjusted for depreciation as per the prescribed schedule", "Market value as declared by the insured", "Ex-showroom price plus registration and road tax", "The insured's original purchase invoice"], "a": 0, "e": "IDV is the listed selling price of the brand and model at policy commencement less age-wise depreciation per the GR 8 schedule, excluding registration and insurance."}, {"n": 22, "topic": "Rural & Crop", "t": "Under PMFBY, the farmer's share of premium for Rabi food and oilseed crops is:", "o": ["1.5% of sum insured", "2% of sum insured", "5% of sum insured", "1% of sum insured"], "a": 0, "e": "Rabi crops carry a 1.5% farmer premium share, lower than the 2% for Kharif reflecting lower weather risk."}, {"n": 23, "topic": "Fire", "t": "The Bharat Sookshma Udyam Suraksha policy is meant for enterprises where the total value at risk across all insurable asset classes at one location does not exceed:", "o": ["Rs 50 lakh", "Rs 5 crore", "Rs 50 crore", "Rs 100 crore"], "a": 1, "e": "Sookshma Udyam Suraksha covers risks up to Rs 5 crore; Laghu Udyam Suraksha applies above Rs 5 crore up to Rs 50 crore."}, {"n": 24, "topic": "Policy Documents", "t": "A fire proposal for risk inception on 1 March is received along with a cheque on 5 March; the cheque is realised on 8 March. Under Section 64VB read with the Insurance Rules, the risk can attach from:", "o": ["5 March", "1 March", "8 March", "The date of policy issue"], "a": 0, "e": "When premium is paid by cheque, risk may be assumed from the date of receipt of the cheque provided it is subsequently honoured; cover cannot be backdated to 1 March."}, {"n": 25, "topic": "Market Structure", "t": "After de-tariffing, which class of business continues to have premium rates notified by IRDAI?", "o": ["Fire insurance", "Marine cargo insurance", "Motor third party liability insurance", "Health insurance"], "a": 2, "e": "Motor third party liability premium rates are still fixed and notified by IRDAI (now jointly with MoRTH) because the cover is compulsory under the MV Act."}, {"n": 26, "topic": "Claims", "t": "A large fire claim is substantially reinsured. In settling the claim:", "o": ["The reinsurer pays its share directly to the insured", "The insured must lodge a separate claim with the reinsurer", "The insurer settles the full claim with the insured and then recovers the reinsurers' share under the treaty", "The reinsurer appoints its own surveyor and settles separately"], "a": 2, "e": "There is no privity of contract between insured and reinsurer; the ceding insurer pays the claim and makes reinsurance recoveries as per the treaty terms."}, {"n": 27, "topic": "Market Structure", "t": "Standalone health insurers registered with IRDAI are permitted to write:", "o": ["Only health indemnity policies", "Health, personal accident and travel insurance", "All classes of general insurance business", "Health and motor insurance only"], "a": 1, "e": "Standalone health insurers are licensed to transact health, PA and travel insurance, but not other general insurance classes like fire or motor."}, {"n": 28, "topic": "Claims", "t": "The principle of subrogation gives:", "o": ["The insured the right to recover twice for the same loss", "Two insurers the right to share a loss", "The insurer the right to cancel the policy after a claim", "The insurer, after indemnifying the insured, the right to pursue the insured's recovery rights against third parties responsible for the loss"], "a": 3, "e": "Subrogation is a corollary of indemnity and prevents the insured from profiting by recovering from both the insurer and the wrongdoer."}, {"n": 29, "topic": "Miscellaneous", "t": "A Bankers Indemnity policy covers a bank against:", "o": ["Default on loans given by the bank", "Fire damage to the bank's building", "Guarantee of customers' deposits", "Loss of money and securities on premises and in transit, forgery, dishonesty of employees and similar perils"], "a": 3, "e": "The Bankers Indemnity policy is a comprehensive crime cover for banks with sections for premises, transit, forgery, dishonesty, hypothecated goods and registered post."}, {"n": 30, "topic": "Fire", "t": "Riot, strike and malicious damage (RSMD) under the SFSP policy is:", "o": ["Completely excluded", "Covered as one of the standard named perils", "Available only as a paid add-on", "Covered only for dwellings"], "a": 1, "e": "RSMD is among the twelve named perils of the SFSP policy, though it can be deleted at the insured's option for a premium reduction."}, {"n": 31, "topic": "Motor", "t": "A private car with a current ex-showroom price of Rs 8 lakh is 1.5 years old at renewal. Its IDV will be:", "o": ["Rs 6.8 lakh", "Rs 6.4 lakh", "Rs 5.6 lakh", "Rs 7.2 lakh"], "a": 1, "e": "Depreciation for age between 1 and 2 years is 20%; IDV = 8,00,000 x 80% = Rs 6,40,000."}, {"n": 32, "topic": "Market Structure", "t": "ECGC Ltd mainly provides cover against:", "o": ["Marine hull risks of Indian shipowners", "Export credit and related political risks", "Crop failure risks of farmers", "Aviation hull and liability risks"], "a": 1, "e": "ECGC is the specialised export credit insurer covering exporters and banks against non-payment by overseas buyers and political risks."}, {"n": 33, "topic": "Motor", "t": "A motor vehicle is treated as a constructive total loss when the aggregate cost of retrieval and repair exceeds what percentage of the IDV?", "o": ["50%", "60%", "90%", "75%"], "a": 3, "e": "Under the standard motor policy, where repair cost exceeds 75% of IDV the vehicle is treated as a CTL and settled on IDV basis."}, {"n": 34, "topic": "Motor", "t": "In a partial loss own damage claim, the depreciation applicable on glass parts replaced is:", "o": ["50%", "30%", "Nil", "As per the age of the vehicle"], "a": 2, "e": "Glass parts attract no depreciation; rubber, nylon, plastic parts and tyres/tubes attract 50%, fibre glass 30% and metal parts age-wise depreciation."}, {"n": 35, "topic": "Marine", "t": "The Inland Transit (Rail or Road) Clause C covers loss or damage caused by:", "o": ["All risks of loss or damage to the subject matter", "Theft and pilferage only", "Collision and overturning of the carrying vehicle only", "Fire and lightning only"], "a": 3, "e": "ITC (C) is the most restricted inland transit cover, restricted to fire and lightning; ITC (B) adds accident perils and ITC (A) gives all risks."}, {"n": 36, "topic": "Policy Documents", "t": "A document issued to record a change in the terms of a policy during its currency, such as a change of address or increase in sum insured, is called:", "o": ["Endorsement", "Certificate of insurance", "Cover note", "Renewal notice"], "a": 0, "e": "Endorsements modify the original policy wording and form part of the contract from the date they take effect."}, {"n": 37, "topic": "Claims", "t": "An insured intimates a genuine burglary claim 20 days after the event, explaining that he was hospitalised. As per IRDAI's instructions on delayed intimation, the insurer:", "o": ["Must automatically reject the claim for breach of condition", "Cannot reject the claim solely on the ground of delay if the delay is explained and the claim is otherwise genuine", "Must reduce the claim by 50%", "Must refer the matter to arbitration"], "a": 1, "e": "IRDAI's 2011 circular directs that delay in intimation should not by itself be a ground for rejection where the delay is for reasons beyond the insured's control and genuineness is not in doubt."}, {"n": 38, "topic": "Marine", "t": "In a general average situation, the sacrifice or expenditure incurred for the common safety is contributed to by:", "o": ["The shipowner only", "The cargo owner whose cargo was sacrificed only", "All parties to the adventure whose property was saved, in proportion to its value", "The hull insurer only"], "a": 2, "e": "General average is a principle of maritime law under which ship, cargo and freight saved share rateably the loss deliberately incurred to save the adventure."}, {"n": 39, "topic": "Health", "t": "After how many months of continuous health insurance coverage can an insurer no longer contest a claim on grounds of non-disclosure or misrepresentation, except for established fraud (moratorium period)?", "o": ["36 months", "48 months", "60 months", "96 months"], "a": 2, "e": "IRDAI's moratorium provision makes the policy incontestable after 60 months of continuous coverage, except for proven fraud and permanent exclusions."}, {"n": 40, "topic": "Health", "t": "Under the standard Arogya Sanjeevani policy, the co-payment applicable on every claim is:", "o": ["10%", "Nil", "20%", "5%"], "a": 3, "e": "Arogya Sanjeevani carries a fixed 5% co-pay on all claims and a room rent limit of 2% of sum insured (maximum Rs 5,000 per day)."}, {"n": 41, "topic": "Rural & Crop", "t": "The Farmer's (Kisan) Package policy is designed to cover, under one document:", "o": ["Only standing crops", "Dwelling and contents, cattle, agricultural pump sets and implements, and personal accident of the farmer", "Only personal accident of the farmer", "Only livestock"], "a": 1, "e": "The package combines several rural covers (house, contents, livestock, pump set, implements, PA) into a single convenient policy for farmers."}, {"n": 42, "topic": "Fire", "t": "Under a Consequential Loss (Fire) policy, the rate of gross profit is applied to the:", "o": ["Reduction in turnover during the indemnity period", "Standing charges of the business", "Net profit of the previous year", "Increase in cost of working"], "a": 0, "e": "Loss of gross profit = Rate of gross profit x Reduction in turnover, to which increased cost of working is added and savings deducted."}, {"n": 43, "topic": "Underwriting & Reinsurance", "t": "Co-insurance in the general insurance market means:", "o": ["The insured bears a fixed percentage of each health claim", "The agent shares commission with the insured", "A reinsurer accepts a share of the insurer's portfolio", "Two or more insurers share a single risk in agreed proportions, with one acting as leader"], "a": 3, "e": "Under co-insurance a large risk is placed with several insurers on one policy; the leading insurer issues the policy and each co-insurer is liable for its share only."}, {"n": 44, "topic": "Marine", "t": "Under the Institute Time Clauses (Hulls), the collision liability clause covers the shipowner's liability to another vessel to the extent of:", "o": ["One-fourth of the collision liability", "The full collision liability", "No collision liability is covered", "Three-fourths of the collision liability"], "a": 3, "e": "ITC Hulls cover 3/4ths of collision liability; the remaining 1/4th is traditionally covered by the P&I Club."}, {"n": 45, "topic": "Underwriting & Reinsurance", "t": "Which of the following is an example of physical hazard?", "o": ["The proposer has a history of exaggerated claims", "The proposer is indifferent to safety practices", "The building has a thatched roof", "The proposer is facing bankruptcy"], "a": 2, "e": "Physical hazard relates to tangible features of the risk itself, such as construction, occupancy or location, that increase chance or severity of loss."}, {"n": 46, "topic": "Underwriting & Reinsurance", "t": "An insurer has a 10-line surplus treaty with a retention of Rs 20 lakh per risk. The maximum amount it can cede to the treaty on a single risk is:", "o": ["Rs 20 lakh", "Rs 100 lakh", "Rs 200 lakh", "Rs 220 lakh"], "a": 2, "e": "Treaty capacity equals the number of lines multiplied by the retention (one line); 10 lines x Rs 20 lakh = Rs 200 lakh of cession."}, {"n": 47, "topic": "Claims", "t": "Under the IRDAI framework (Section 64UM read with the Surveyors Regulations), appointment of a licensed surveyor is mandatory for claims other than motor where the estimated loss exceeds:", "o": ["Rs 20,000", "Rs 50,000", "Rs 1 lakh", "Rs 5 lakh"], "a": 2, "e": "The threshold is Rs 50,000 for motor claims and Rs 1 lakh for other claims; below these limits the insurer may assess the loss in-house."}, {"n": 48, "topic": "Liability", "t": "Under the Employees' Compensation Act, 1923 (as amended), the minimum compensation payable in case of death of an employee is:", "o": ["Rs 1,40,000", "Rs 80,000", "Rs 1,20,000", "Rs 2,00,000"], "a": 2, "e": "Death compensation is 50% of monthly wages multiplied by the age factor or Rs 1,20,000, whichever is higher; for permanent total disablement the minimum is Rs 1,40,000."}, {"n": 49, "topic": "Fire", "t": "Which of the following perils is covered under the Standard Fire and Special Perils (SFSP) policy without any add-on?", "o": ["Earthquake", "Lightning", "War and warlike operations", "Spontaneous combustion"], "a": 1, "e": "Lightning is one of the named perils in the SFSP policy, whereas earthquake and spontaneous combustion are available only as add-on covers."}, {"n": 50, "topic": "Liability", "t": "Professional Indemnity policies in India are generally issued on a:", "o": ["Losses-occurring basis", "Claims-made basis", "Risk-attaching basis", "Pay-as-paid basis"], "a": 1, "e": "Under the claims-made form, the policy responds to claims first made against the insured during the policy period, subject to the retroactive date."}]
+[
+{
+"n": 1,
+"topic": "Claims",
+"t": "Under the IRDAI Protection of Policyholders' Interests framework, after receipt of the final survey report (and any additional report), the insurer must decide on and settle the claim within:",
+"o": [
+"7 days",
+"15 days",
+"30 days",
+"45 days"
+],
+"a": 2,
+"e": "The insurer must offer settlement or convey rejection within 30 days of receipt of the survey report; delay attracts interest at bank rate plus 2%."
+},
+{
+"n": 2,
+"topic": "Motor",
+"t": "Which section of the Motor Vehicles Act, 1988 makes third party insurance compulsory for a vehicle used in a public place?",
+"o": [
+"Section 146",
+"Section 149",
+"Section 166",
+"Section 140"
+],
+"a": 0,
+"e": "Section 146 provides that no person shall use a motor vehicle in a public place unless a policy complying with Chapter XI is in force."
+},
+{
+"n": 3,
+"topic": "Liability",
+"t": "The Public Liability Insurance Act, 1991 requires compulsory insurance to be taken by:",
+"o": [
+"All shopkeepers and traders",
+"Owners handling hazardous substances as notified under the Act",
+"All owners of motor vehicles",
+"Medical practitioners"
+],
+"a": 1,
+"e": "The Act imposes no-fault liability on owners handling hazardous substances to pay immediate relief to victims and obliges them to insure that liability."
+},
+{
+"n": 4,
+"topic": "Marine",
+"t": "Which set of Institute Cargo Clauses provides the widest, 'all risks' type cover?",
+"o": [
+"ICC (A)",
+"ICC (B)",
+"ICC (C)",
+"Institute War Clauses (Cargo)"
+],
+"a": 0,
+"e": "ICC (A) covers all risks of loss or damage except those specifically excluded, while (B) and (C) are named-perils clauses."
+},
+{
+"n": 5,
+"topic": "Health",
+"t": "A policy of Rs 5 lakh has a room rent limit of 1% of sum insured per day. The insured occupies a room costing Rs 10,000 per day and the total admissible hospital bill (linked to room category) is Rs 2 lakh. With proportionate deduction, the insurer pays:",
+"o": [
+"Rs 2 lakh",
+"Rs 1.5 lakh",
+"Rs 1 lakh",
+"Rs 50,000"
+],
+"a": 2,
+"e": "Eligible rent is Rs 5,000 against Rs 10,000 actually paid (50%); associated expenses are proportionately reduced, so Rs 2 lakh x 50% = Rs 1 lakh is payable."
+},
+{
+"n": 6,
+"topic": "Health",
+"t": "A critical illness policy that pays a fixed sum on diagnosis of a listed illness is:",
+"o": [
+"An indemnity policy",
+"A liability policy",
+"A reimbursement-of-bills policy",
+"A fixed-benefit policy paying a lump sum on diagnosis"
+],
+"a": 3,
+"e": "Benefit policies pay a pre-agreed amount irrespective of actual expenses incurred, unlike hospitalisation indemnity policies which reimburse actual costs."
+},
+{
+"n": 7,
+"topic": "Marine",
+"t": "A consignment is insured under a marine cargo policy at CIF value Rs 10 lakh plus 10%. Goods are totally lost at sea. The insurer pays:",
+"o": [
+"Rs 11 lakh",
+"Market value at destination",
+"Rs 10 lakh",
+"Rs 10.5 lakh"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). Marine cargo policies are valued policies; in a total loss the agreed insured value (CIF + 10% = Rs 11 lakh) is payable irrespective of actual market value.",
+"r": "key"
+},
+{
+"n": 8,
+"topic": "Personal Accident",
+"t": "Under the standard Personal Accident table of benefits, loss of sight of both eyes is compensated at:",
+"o": [
+"50% of capital sum insured",
+"75% of capital sum insured",
+"25% of capital sum insured",
+"100% of capital sum insured"
+],
+"a": 3,
+"e": "Loss of both eyes, both limbs, or one eye and one limb is treated as permanent total disablement and paid at 100% of the CSI."
+},
+{
+"n": 9,
+"topic": "Engineering",
+"t": "The sum insured under a Machinery Breakdown policy should represent the:",
+"o": [
+"Written-down book value of the machine",
+"Original purchase price",
+"Current new replacement value including freight, duties and erection costs",
+"Market resale value"
+],
+"a": 2,
+"e": "MB policies are on reinstatement value basis, so the sum insured must be the cost of replacing the machine by a new one of the same kind and capacity."
+},
+{
+"n": 10,
+"topic": "Personal Accident",
+"t": "Under a Personal Accident policy, the family of an insured who dies by suicide is:",
+"o": [
+"Paid the full capital sum insured",
+"Paid 50% of the capital sum insured",
+"Not entitled, as suicide and intentional self-injury are excluded",
+"Paid only if the policy has run for one year"
+],
+"a": 2,
+"e": "PA policies exclude death or disablement arising from intentional self-injury, suicide or attempted suicide, as the event is not accidental."
+},
+{
+"n": 11,
+"topic": "Motor",
+"t": "The compulsory Personal Accident cover for the owner-driver under a motor policy is for a capital sum insured of:",
+"o": [
+"Rs 2 lakh",
+"Rs 5 lakh",
+"Rs 15 lakh",
+"Rs 10 lakh"
+],
+"a": 2,
+"e": "IRDAI enhanced the compulsory owner-driver PA cover to Rs 15 lakh (from Rs 1 lakh for two-wheelers and Rs 2 lakh for cars) with effect from 2018."
+},
+{
+"n": 12,
+"topic": "Fire",
+"t": "Stocks worth Rs 50 lakh are insured for Rs 30 lakh under a fire policy subject to the average clause. A fire causes a loss of Rs 10 lakh. The insurer will pay:",
+"o": [
+"Rs 3 lakh",
+"Rs 5 lakh",
+"Rs 10 lakh",
+"Rs 6 lakh"
+],
+"a": 3,
+"e": "Claim = Loss x (Sum insured / Value at risk) = 10 x 30/50 = Rs 6 lakh; the insured bears the balance as his own insurer."
+},
+{
+"n": 13,
+"topic": "Motor",
+"t": "The compulsory deductible under a private car package policy for a vehicle with engine capacity exceeding 1500 cc is:",
+"o": [
+"Rs 2,000",
+"Rs 500",
+"Rs 2,500",
+"Rs 1,000"
+],
+"a": 0,
+"e": "Compulsory excess is Rs 1,000 for private cars up to 1500 cc and Rs 2,000 for those above 1500 cc; two-wheelers carry Rs 100."
+},
+{
+"n": 14,
+"topic": "Fire",
+"t": "Under the SFSP policy, if an insured building remains unoccupied for a continuous period exceeding how many days, cover ceases unless the insurer has agreed otherwise?",
+"o": [
+"7 days",
+"60 days",
+"30 days",
+"90 days"
+],
+"a": 2,
+"e": "The policy condition treats a building unoccupied for more than 30 days as a material change of risk, requiring intimation and the insurer's consent."
+},
+{
+"n": 15,
+"topic": "Market Structure",
+"t": "How many public sector general insurance companies (excluding the specialised insurers) currently operate in India?",
+"o": [
+"Three",
+"Four",
+"Five",
+"Six"
+],
+"a": 1,
+"e": "The four PSU general insurers are New India Assurance, United India, Oriental Insurance and National Insurance; AIC and ECGC are specialised insurers counted separately."
+},
+{
+"n": 16,
+"topic": "Policy Documents",
+"t": "A cover note issued pending the policy is normally valid for a maximum period of:",
+"o": [
+"15 days",
+"30 days",
+"90 days",
+"60 days"
+],
+"a": 3,
+"e": "Cover notes are temporary evidence of cover and are typically valid for up to 60 days, within which the policy must be issued."
+},
+{
+"n": 17,
+"topic": "Motor",
+"t": "The Insured's Declared Value (IDV) of a vehicle is arrived at on the basis of:",
+"o": [
+"Manufacturer's listed selling price of the model adjusted for depreciation as per the prescribed schedule",
+"Market value as declared by the insured",
+"Ex-showroom price plus registration and road tax",
+"The insured's original purchase invoice"
+],
+"a": 0,
+"e": "IDV is the listed selling price of the brand and model at policy commencement less age-wise depreciation per the GR 8 schedule, excluding registration and insurance."
+},
+{
+"n": 18,
+"topic": "Rural & Crop",
+"t": "Under PMFBY, the farmer's share of premium for Rabi food and oilseed crops is:",
+"o": [
+"1.5% of sum insured",
+"2% of sum insured",
+"5% of sum insured",
+"1% of sum insured"
+],
+"a": 0,
+"e": "Rabi crops carry a 1.5% farmer premium share, lower than the 2% for Kharif reflecting lower weather risk."
+},
+{
+"n": 19,
+"topic": "Health",
+"t": "A health policy has a 20% co-payment on all claims. The admissible hospitalisation expenses are Rs 1,00,000. The insurer pays:",
+"o": [
+"Rs 1,00,000",
+"Rs 20,000",
+"Rs 90,000",
+"Rs 80,000"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). Co-payment is the percentage of each admissible claim borne by the insured; 20% of Rs 1 lakh is borne by the insured, so Rs 80,000 is paid.",
+"r": "key"
+},
+{
+"n": 20,
+"topic": "Fire",
+"t": "The Bharat Sookshma Udyam Suraksha policy is meant for enterprises where the total value at risk across all insurable asset classes at one location does not exceed:",
+"o": [
+"Rs 50 lakh",
+"Rs 5 crore",
+"Rs 50 crore",
+"Rs 100 crore"
+],
+"a": 1,
+"e": "Sookshma Udyam Suraksha covers risks up to Rs 5 crore; Laghu Udyam Suraksha applies above Rs 5 crore up to Rs 50 crore."
+},
+{
+"n": 21,
+"topic": "Policy Documents",
+"t": "A fire proposal for risk inception on 1 March is received along with a cheque on 5 March; the cheque is realised on 8 March. Under Section 64VB read with the Insurance Rules, the risk can attach from:",
+"o": [
+"5 March",
+"1 March",
+"8 March",
+"The date of policy issue"
+],
+"a": 0,
+"e": "When premium is paid by cheque, risk may be assumed from the date of receipt of the cheque provided it is subsequently honoured; cover cannot be backdated to 1 March."
+},
+{
+"n": 22,
+"topic": "Market Structure",
+"t": "After de-tariffing, which class of business continues to have premium rates notified by IRDAI?",
+"o": [
+"Fire insurance",
+"Marine cargo insurance",
+"Motor third party liability insurance",
+"Health insurance"
+],
+"a": 2,
+"e": "Motor third party liability premium rates are still fixed and notified by IRDAI (now jointly with MoRTH) because the cover is compulsory under the MV Act."
+},
+{
+"n": 23,
+"topic": "Claims",
+"t": "A large fire claim is substantially reinsured. In settling the claim:",
+"o": [
+"The reinsurer pays its share directly to the insured",
+"The insured must lodge a separate claim with the reinsurer",
+"The insurer settles the full claim with the insured and then recovers the reinsurers' share under the treaty",
+"The reinsurer appoints its own surveyor and settles separately"
+],
+"a": 2,
+"e": "There is no privity of contract between insured and reinsurer; the ceding insurer pays the claim and makes reinsurance recoveries as per the treaty terms."
+},
+{
+"n": 24,
+"topic": "Market Structure",
+"t": "Standalone health insurers registered with IRDAI are permitted to write:",
+"o": [
+"Only health indemnity policies",
+"Health, personal accident and travel insurance",
+"All classes of general insurance business",
+"Health and motor insurance only"
+],
+"a": 1,
+"e": "Standalone health insurers are licensed to transact health, PA and travel insurance, but not other general insurance classes like fire or motor."
+},
+{
+"n": 25,
+"topic": "Claims",
+"t": "The principle of subrogation gives:",
+"o": [
+"The insured the right to recover twice for the same loss",
+"Two insurers the right to share a loss",
+"The insurer the right to cancel the policy after a claim",
+"The insurer, after indemnifying the insured, the right to pursue the insured's recovery rights against third parties responsible for the loss"
+],
+"a": 3,
+"e": "Subrogation is a corollary of indemnity and prevents the insured from profiting by recovering from both the insurer and the wrongdoer."
+},
+{
+"n": 26,
+"topic": "Miscellaneous",
+"t": "A Bankers Indemnity policy covers a bank against:",
+"o": [
+"Default on loans given by the bank",
+"Fire damage to the bank's building",
+"Guarantee of customers' deposits",
+"Loss of money and securities on premises and in transit, forgery, dishonesty of employees and similar perils"
+],
+"a": 3,
+"e": "The Bankers Indemnity policy is a comprehensive crime cover for banks with sections for premises, transit, forgery, dishonesty, hypothecated goods and registered post."
+},
+{
+"n": 27,
+"topic": "Fire",
+"t": "Riot, strike and malicious damage (RSMD) under the SFSP policy is:",
+"o": [
+"Completely excluded",
+"Covered as one of the standard named perils",
+"Available only as a paid add-on",
+"Covered only for dwellings"
+],
+"a": 1,
+"e": "RSMD is among the twelve named perils of the SFSP policy, though it can be deleted at the insured's option for a premium reduction."
+},
+{
+"n": 28,
+"topic": "Personal Accident",
+"t": "A Personal Accident policy has a capital sum insured of Rs 10 lakh. The insured loses one hand in an accident (permanent partial disablement rated at 50%). The benefit payable is:",
+"o": [
+"Rs 2.5 lakh",
+"Rs 10 lakh",
+"Rs 7.5 lakh",
+"Rs 5 lakh"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). PPD is paid as the specified percentage of CSI: 50% x Rs 10 lakh = Rs 5 lakh.",
+"r": "key"
+},
+{
+"n": 29,
+"topic": "Motor",
+"t": "A private car with a current ex-showroom price of Rs 8 lakh is 1.5 years old at renewal. Its IDV will be:",
+"o": [
+"Rs 6.8 lakh",
+"Rs 6.4 lakh",
+"Rs 5.6 lakh",
+"Rs 7.2 lakh"
+],
+"a": 1,
+"e": "Depreciation for age between 1 and 2 years is 20%; IDV = 8,00,000 x 80% = Rs 6,40,000."
+},
+{
+"n": 30,
+"topic": "Market Structure",
+"t": "ECGC Ltd mainly provides cover against:",
+"o": [
+"Marine hull risks of Indian shipowners",
+"Export credit and related political risks",
+"Crop failure risks of farmers",
+"Aviation hull and liability risks"
+],
+"a": 1,
+"e": "ECGC is the specialised export credit insurer covering exporters and banks against non-payment by overseas buyers and political risks."
+},
+{
+"n": 31,
+"topic": "Motor",
+"t": "A motor vehicle is treated as a constructive total loss when the aggregate cost of retrieval and repair exceeds what percentage of the IDV?",
+"o": [
+"50%",
+"60%",
+"90%",
+"75%"
+],
+"a": 3,
+"e": "Under the standard motor policy, where repair cost exceeds 75% of IDV the vehicle is treated as a CTL and settled on IDV basis."
+},
+{
+"n": 32,
+"topic": "Motor",
+"t": "In a partial loss own damage claim, the depreciation applicable on glass parts replaced is:",
+"o": [
+"50%",
+"30%",
+"Nil",
+"As per the age of the vehicle"
+],
+"a": 2,
+"e": "Glass parts attract no depreciation; rubber, nylon, plastic parts and tyres/tubes attract 50%, fibre glass 30% and metal parts age-wise depreciation."
+},
+{
+"n": 33,
+"topic": "Marine",
+"t": "The Inland Transit (Rail or Road) Clause C covers loss or damage caused by:",
+"o": [
+"All risks of loss or damage to the subject matter",
+"Theft and pilferage only",
+"Collision and overturning of the carrying vehicle only",
+"Fire and lightning only"
+],
+"a": 3,
+"e": "ITC (C) is the most restricted inland transit cover, restricted to fire and lightning; ITC (B) adds accident perils and ITC (A) gives all risks."
+},
+{
+"n": 34,
+"topic": "Policy Documents",
+"t": "A document issued to record a change in the terms of a policy during its currency, such as a change of address or increase in sum insured, is called:",
+"o": [
+"Endorsement",
+"Certificate of insurance",
+"Cover note",
+"Renewal notice"
+],
+"a": 0,
+"e": "Endorsements modify the original policy wording and form part of the contract from the date they take effect."
+},
+{
+"topic": "Insurance Act 1938 – key sections",
+"t": "Under Section 45 of the Insurance Act 1938, a life insurance policy cannot be called in question on any ground after how many years from the date of issue, revival or rider addition, whichever is later?",
+"o": [
+"Two years",
+"Three years",
+"Five years",
+"One year"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). The 2015 amendment made the three-year bar absolute: after three years no policy may be questioned on any ground, including fraud.",
+"r": "core",
+"n": 35
+},
+{
+"n": 36,
+"topic": "Claims",
+"t": "An insured intimates a genuine burglary claim 20 days after the event, explaining that he was hospitalised. As per IRDAI's instructions on delayed intimation, the insurer:",
+"o": [
+"Must automatically reject the claim for breach of condition",
+"Cannot reject the claim solely on the ground of delay if the delay is explained and the claim is otherwise genuine",
+"Must reduce the claim by 50%",
+"Must refer the matter to arbitration"
+],
+"a": 1,
+"e": "IRDAI's 2011 circular directs that delay in intimation should not by itself be a ground for rejection where the delay is for reasons beyond the insured's control and genuineness is not in doubt."
+},
+{
+"n": 37,
+"topic": "Marine",
+"t": "In a general average situation, the sacrifice or expenditure incurred for the common safety is contributed to by:",
+"o": [
+"The shipowner only",
+"The cargo owner whose cargo was sacrificed only",
+"All parties to the adventure whose property was saved, in proportion to its value",
+"The hull insurer only"
+],
+"a": 2,
+"e": "General average is a principle of maritime law under which ship, cargo and freight saved share rateably the loss deliberately incurred to save the adventure."
+},
+{
+"n": 38,
+"topic": "Health",
+"t": "After how many months of continuous health insurance coverage can an insurer no longer contest a claim on grounds of non-disclosure or misrepresentation, except for established fraud (moratorium period)?",
+"o": [
+"36 months",
+"48 months",
+"60 months",
+"96 months"
+],
+"a": 2,
+"e": "IRDAI's moratorium provision makes the policy incontestable after 60 months of continuous coverage, except for proven fraud and permanent exclusions."
+},
+{
+"n": 39,
+"topic": "Health",
+"t": "Under the standard Arogya Sanjeevani policy, the co-payment applicable on every claim is:",
+"o": [
+"10%",
+"Nil",
+"20%",
+"5%"
+],
+"a": 3,
+"e": "Arogya Sanjeevani carries a fixed 5% co-pay on all claims and a room rent limit of 2% of sum insured (maximum Rs 5,000 per day)."
+},
+{
+"n": 40,
+"topic": "Rural & Crop",
+"t": "The Farmer's (Kisan) Package policy is designed to cover, under one document:",
+"o": [
+"Only standing crops",
+"Dwelling and contents, cattle, agricultural pump sets and implements, and personal accident of the farmer",
+"Only personal accident of the farmer",
+"Only livestock"
+],
+"a": 1,
+"e": "The package combines several rural covers (house, contents, livestock, pump set, implements, PA) into a single convenient policy for farmers."
+},
+{
+"n": 41,
+"topic": "Fire",
+"t": "Under a Consequential Loss (Fire) policy, the rate of gross profit is applied to the:",
+"o": [
+"Reduction in turnover during the indemnity period",
+"Standing charges of the business",
+"Net profit of the previous year",
+"Increase in cost of working"
+],
+"a": 0,
+"e": "Loss of gross profit = Rate of gross profit x Reduction in turnover, to which increased cost of working is added and savings deducted."
+},
+{
+"n": 42,
+"topic": "Underwriting & Reinsurance",
+"t": "Co-insurance in the general insurance market means:",
+"o": [
+"The insured bears a fixed percentage of each health claim",
+"The agent shares commission with the insured",
+"A reinsurer accepts a share of the insurer's portfolio",
+"Two or more insurers share a single risk in agreed proportions, with one acting as leader"
+],
+"a": 3,
+"e": "Under co-insurance a large risk is placed with several insurers on one policy; the leading insurer issues the policy and each co-insurer is liable for its share only."
+},
+{
+"n": 43,
+"topic": "Marine",
+"t": "Under the Institute Time Clauses (Hulls), the collision liability clause covers the shipowner's liability to another vessel to the extent of:",
+"o": [
+"One-fourth of the collision liability",
+"The full collision liability",
+"No collision liability is covered",
+"Three-fourths of the collision liability"
+],
+"a": 3,
+"e": "ITC Hulls cover 3/4ths of collision liability; the remaining 1/4th is traditionally covered by the P&I Club."
+},
+{
+"n": 44,
+"topic": "Underwriting & Reinsurance",
+"t": "Which of the following is an example of physical hazard?",
+"o": [
+"The proposer has a history of exaggerated claims",
+"The proposer is indifferent to safety practices",
+"The building has a thatched roof",
+"The proposer is facing bankruptcy"
+],
+"a": 2,
+"e": "Physical hazard relates to tangible features of the risk itself, such as construction, occupancy or location, that increase chance or severity of loss."
+},
+{
+"n": 45,
+"topic": "Underwriting & Reinsurance",
+"t": "An insurer has a 10-line surplus treaty with a retention of Rs 20 lakh per risk. The maximum amount it can cede to the treaty on a single risk is:",
+"o": [
+"Rs 20 lakh",
+"Rs 100 lakh",
+"Rs 200 lakh",
+"Rs 220 lakh"
+],
+"a": 2,
+"e": "Treaty capacity equals the number of lines multiplied by the retention (one line); 10 lines x Rs 20 lakh = Rs 200 lakh of cession."
+},
+{
+"n": 46,
+"topic": "Claims",
+"t": "Under the IRDAI framework (Section 64UM read with the Surveyors Regulations), appointment of a licensed surveyor is mandatory for claims other than motor where the estimated loss exceeds:",
+"o": [
+"Rs 20,000",
+"Rs 50,000",
+"Rs 1 lakh",
+"Rs 5 lakh"
+],
+"a": 2,
+"e": "The threshold is Rs 50,000 for motor claims and Rs 1 lakh for other claims; below these limits the insurer may assess the loss in-house."
+},
+{
+"topic": "Insurance Act 1938 – key sections",
+"t": "Section 41 of the Insurance Act 1938 prohibits:",
+"o": [
+"Assignment of a life policy",
+"Payment of any rebate of premium or commission as an inducement to buy insurance",
+"Nomination by a minor",
+"Issue of a policy without a medical examination"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). Section 41 bars rebating; contravention attracts a penalty of up to ₹10 lakh.",
+"r": "core",
+"n": 47
+},
+{
+"n": 48,
+"topic": "Liability",
+"t": "Under the Employees' Compensation Act, 1923 (as amended), the minimum compensation payable in case of death of an employee is:",
+"o": [
+"Rs 1,40,000",
+"Rs 80,000",
+"Rs 1,20,000",
+"Rs 2,00,000"
+],
+"a": 2,
+"e": "Death compensation is 50% of monthly wages multiplied by the age factor or Rs 1,20,000, whichever is higher; for permanent total disablement the minimum is Rs 1,40,000."
+},
+{
+"n": 49,
+"topic": "Fire",
+"t": "Which of the following perils is covered under the Standard Fire and Special Perils (SFSP) policy without any add-on?",
+"o": [
+"Earthquake",
+"Lightning",
+"War and warlike operations",
+"Spontaneous combustion"
+],
+"a": 1,
+"e": "Lightning is one of the named perils in the SFSP policy, whereas earthquake and spontaneous combustion are available only as add-on covers."
+},
+{
+"n": 50,
+"topic": "Liability",
+"t": "Professional Indemnity policies in India are generally issued on a:",
+"o": [
+"Losses-occurring basis",
+"Claims-made basis",
+"Risk-attaching basis",
+"Pay-as-paid basis"
+],
+"a": 1,
+"e": "Under the claims-made form, the policy responds to claims first made against the insured during the policy period, subject to the retroactive date."
+}
+]

@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Introduction to General Insurance Claims",
+"t": "The 'insuring clause' or 'operative clause' of a policy is relevant to a claim because it:",
+"o": [
+"Defines the perils and subject matter covered, against which the facts of the loss are tested",
+"Lists the documents required for the claim",
+"Specifies the surveyor's remuneration",
+"Sets the limitation period for suits"
+],
+"a": 0,
+"e": "Admissibility is judged first against the operative clause, then exclusions and conditions; document lists and fees are matters of procedure."
+},
+{
+"n": 2,
+"topic": "Claims Management Overview",
+"t": "Which of the following would a claims manager treat as a 'large loss' requiring special handling?",
+"o": [
+"Any claim intimated by telephone",
+"A loss exceeding a pre-set monetary threshold or the insurer's net retention, warranting senior review and reinsurer notification",
+"Any claim where the insured is a senior citizen",
+"Any claim settled by cheque"
+],
+"a": 1,
+"e": "Large-loss procedures are triggered by size and complexity; they ensure adequate reserving, reinsurance notification and specialist survey."
+},
+{
+"n": 3,
+"topic": "Claims Management Overview",
+"t": "A claims management information system (MIS) report showing claims by cause, class and region is most useful for:",
+"o": [
+"Identifying adverse trends, improving risk selection and planning loss-prevention measures",
+"Calculating the surveyor's licence fee",
+"Deciding the date of policy renewal",
+"Fixing the Ombudsman's jurisdiction"
+],
+"a": 0,
+"e": "Claims MIS converts claims data into management insight for underwriting, pricing and loss control."
+},
+{
+"n": 4,
+"topic": "Claims Management Overview",
+"t": "The 'claims settlement ratio' commonly disclosed by insurers measures:",
+"o": [
+"Reinsurance recoveries as a proportion of claims paid",
+"The number of claims settled as a proportion of claims received (plus opening outstanding) in the period",
+"Claims paid as a proportion of net worth",
+"Premium earned per claim settled"
+],
+"a": 1,
+"e": "It is a count-based service indicator; incurred claims ratio, by contrast, is a value-based measure against premium."
+},
+{
+"n": 5,
+"topic": "Dealing with the Claim Process",
+"t": "A claim is intimated on a policy which has lapsed after expiry on 31 March; the loss occurred on 5 April before renewal was effected. The insurer should:",
+"o": [
+"Pay the claim since renewal was intended",
+"Pay 75% as a non-standard claim",
+"Decline the claim, as no policy was in force on the date of loss",
+"Pay the claim and deduct the renewal premium"
+],
+"a": 2,
+"e": "Cover ends on expiry; intention to renew does not create a contract, and Section 64VB bars assumption of risk without premium."
+},
+{
+"n": 6,
+"topic": "Dealing with the Claim Process",
+"t": "Where a claim is admissible but the loss amount cannot be finalised for some time, the insurer may make an 'on-account' payment. This is:",
+"o": [
+"An interim payment towards the admitted liability, adjusted against the final settlement",
+"A refund of premium",
+"A payment made without admitting liability",
+"A loan to the insured at bank rate"
+],
+"a": 0,
+"e": "On-account payments relieve the insured's cash flow in large losses once liability is accepted; ex gratia, by contrast, is without admission of liability."
+},
+{
+"n": 7,
+"topic": "Dealing with the Claim Process",
+"t": "In claims terminology, a 'condition precedent to liability' is a policy condition:",
+"o": [
+"Which the insurer must fulfil before issuing the policy",
+"Which relates to payment of premium instalments",
+"Which must be complied with before the insurer becomes liable to pay the claim, such as giving notice of loss",
+"Which applies only after the claim is paid"
+],
+"a": 2,
+"e": "Breach of a condition precedent to liability entitles the insurer to decline that claim; conditions subsequent operate after liability has attached."
+},
+{
+"n": 8,
+"topic": "Special Features of Insurance of Persons",
+"t": "As per the IRDAI master circular on health insurance (2024), an insurer must decide on a cashless authorisation request within:",
+"o": [
+"7 days of receipt of the request",
+"24 hours of receipt of the request",
+"1 hour of receipt of the request",
+"3 hours of receipt of the request"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). Cashless authorisation must be given within 1 hour and final discharge authorisation within 3 hours of the hospital's request; otherwise the insurer bears any extra hospital charges.",
+"r": "key"
+},
+{
+"n": 9,
+"topic": "Dealing with the Claim Process",
+"t": "After settling a motor own-damage claim for a total loss, the insurer normally:",
+"o": [
+"Returns the premium for the unexpired period",
+"Takes over the salvage of the vehicle and disposes of it, having paid the IDV less excess",
+"Leaves the wreck with the insured and pays the IDV in full",
+"Cancels all other policies of the insured"
+],
+"a": 1,
+"e": "On a total loss the insurer pays the IDV (less policy excess) and becomes entitled to the salvage; alternatively, the insured may retain the wreck with its value deducted."
+},
+{
+"n": 10,
+"topic": "Claim Documentation",
+"t": "For claims under a health insurance policy, the discharge summary is important because it:",
+"o": [
+"Serves as the policy document",
+"Fixes the room rent limit",
+"Proves payment of premium",
+"Records the diagnosis, treatment given, dates of admission and discharge, which determine admissibility and the period of hospitalisation"
+],
+"a": 3,
+"e": "The discharge summary is the clinical record tying the claim to the illness and the hospital stay; it does not relate to policy issuance or premium."
+},
+{
+"n": 11,
+"topic": "Claim Documentation",
+"t": "KYC (Know Your Customer) verification at the time of claim settlement is required primarily to:",
+"o": [
+"Comply with anti-money-laundering norms and ensure that the claim is paid to the correct, verified claimant",
+"Decide whether the loss is covered",
+"Reduce the claim amount for underinsurance",
+"Determine the surveyor's fee"
+],
+"a": 0,
+"e": "KYC safeguards against money laundering and payment to impostors; it has no bearing on the merits or quantum of the claim."
+},
+{
+"n": 12,
+"topic": "Survey and Adjustment of Claim",
+"t": "A surveyor's final report should typically contain all of the following EXCEPT:",
+"o": [
+"The assessment of the quantum of loss with the basis of valuation",
+"Comments on the adequacy of the sum insured and application of policy conditions",
+"The cause and circumstances of the loss",
+"A recommendation of the premium to be charged at the next renewal"
+],
+"a": 3,
+"e": "Survey reports deal with cause, quantum, policy conditions and salvage; pricing at renewal is an underwriting decision."
+},
+{
+"n": 13,
+"topic": "Survey and Adjustment of Claim",
+"t": "The time limit for a surveyor to submit the final survey report from the date of appointment, as per the 2024 IRDAI protection of policyholders' interests regulations, is:",
+"o": [
+"15 days of appointment",
+"7 days of appointment",
+"45 days of appointment",
+"30 days of appointment"
+],
+"a": 0,
+"e": "The 2024 regulations shortened the earlier 30-day period to 15 days, with the insurer deciding within 7 days thereafter."
+},
+{
+"n": 14,
+"topic": "Survey and Adjustment of Claim",
+"t": "In an 'adjustment' of a claim, the loss assessed by the surveyor is converted into the amount payable by:",
+"o": [
+"Deducting the premium paid from the assessed loss",
+"Multiplying the assessed loss by the claims ratio",
+"Applying policy terms such as sum insured, average, excess, limits and salvage to the assessed loss",
+"Adding interest and surveyor's fees to the assessed loss"
+],
+"a": 2,
+"e": "Assessment establishes the loss; adjustment applies the contract terms to arrive at the net claim payable."
+},
+{
+"n": 15,
+"topic": "Principles Governing Assessment of Loss",
+"t": "Stocks worth ₹30 lakh are insured for ₹24 lakh under a fire policy subject to average and an excess of ₹10,000. A fire causes a loss of ₹5 lakh. The amount payable is:",
+"o": [
+"₹4,00,000",
+"₹4,90,000",
+"₹3,20,000",
+"₹3,90,000"
+],
+"a": 3,
+"e": "Average: 5,00,000 × 24/30 = ₹4,00,000; less excess ₹10,000 = ₹3,90,000. The excess is applied after average."
+},
+{
+"n": 16,
+"topic": "Principles Governing Assessment of Loss",
+"t": "Which of the following best describes the principle of contribution?",
+"o": [
+"The surveyor contributes to the settlement from his fee",
+"Where the same interest is insured with more than one insurer against the same peril, each insurer bears its rateable share so that the insured recovers no more than the loss",
+"The insured contributes 10% of every claim",
+"The reinsurer contributes to the insurer's expenses"
+],
+"a": 1,
+"e": "Contribution is a corollary of indemnity preventing double recovery; it applies between insurers of the same subject matter, interest and peril."
+},
+{
+"n": 17,
+"topic": "Principles Governing Assessment of Loss",
+"t": "After paying a fire claim of ₹10 lakh in full, the insurer recovers ₹12 lakh from the negligent third party. The insurer may retain:",
+"o": [
+"₹10 lakh, the amount it paid, and must account to the insured for the excess ₹2 lakh",
+"₹6 lakh, sharing the recovery equally with the insured",
+"The entire ₹12 lakh as a reward for pursuing recovery",
+"Nothing, as subrogation recoveries belong to the insured"
+],
+"a": 0,
+"e": "Subrogation is limited to the insurer's outlay; any surplus recovered belongs to the insured, consistent with indemnity."
+},
+{
+"n": 18,
+"topic": "Survey and Adjustment of Claim",
+"t": "Section 64UM of the Insurance Act, 1938 deals with:",
+"o": [
+"Licensing of surveyors and loss assessors and the requirement of survey reports for claims above the prescribed limit",
+"Investment of controlled funds of insurers",
+"Payment of premium before assumption of risk",
+"Limit on expenses of management of insurers"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). Section 64UM makes a report from a licensed surveyor mandatory for claims above the threshold set by regulation; premium in advance is Section 64VB.",
+"r": "key"
+},
+{
+"n": 19,
+"topic": "Principles Governing Assessment of Loss",
+"t": "'Betterment' in the context of a claim refers to:",
+"o": [
+"An increase in the sum insured after the loss",
+"The salvage value of damaged property",
+"The improvement in the insured's position when new parts or materials replace old ones during repair, for which a deduction may be made",
+"Interest paid for delay in settlement"
+],
+"a": 2,
+"e": "Deducting betterment keeps the settlement within indemnity, though under reinstatement value policies no such deduction is made."
+},
+{
+"n": 20,
+"topic": "Practice of Loss Assessment",
+"t": "Which of the following is the correct treatment of the 'escalation clause' in a fire policy at the time of claim?",
+"o": [
+"The escalation clause reduces the premium payable",
+"The escalation applies only to total losses",
+"The claim amount is increased by the escalation percentage",
+"The sum insured is deemed to increase daily by a uniform rate up to the selected percentage, so the value for average is tested against the escalated sum insured"
+],
+"a": 3,
+"e": "Escalation (up to 25%) protects against inflation during the year; it affects the sum insured for average, not the quantum of loss."
+},
+{
+"n": 21,
+"topic": "Practice of Loss Assessment",
+"t": "A trader's fire claim on stock is supported by purchase invoices but the sales records are destroyed. The surveyor can most reliably estimate sales during the period from:",
+"o": [
+"The insured's verbal statement",
+"GST returns and bank credits for the period",
+"The sum insured under the policy",
+"The previous year's income tax refund"
+],
+"a": 1,
+"e": "Statutory tax returns and bank statements are independent, verifiable records enabling reconstruction of the trading account."
+},
+{
+"n": 22,
+"topic": "Practice of Loss Assessment",
+"t": "In a declaration policy, the insured declared values each month, and at the end of the year the average declaration is found to be well below the sum insured. In the event of a loss during the year, the claim is:",
+"o": [
+"Limited to the lowest monthly declaration",
+"Automatically reduced by the premium refund",
+"Paid in full without any reference to the declarations",
+"Settled on the value at risk on the date of loss, subject to average if the declared value on that date is less than the actual value"
+],
+"a": 3,
+"e": "Declarations determine the adjustable premium; average still applies if the insured under-declared relative to the actual stock on the date of loss."
+},
+{
+"n": 23,
+"topic": "Special Features of Property Damage Claims",
+"t": "Under the Standard Fire and Special Perils Policy, the insurer has the option, instead of paying the claim in money, to:",
+"o": [
+"Transfer the claim to the reinsurer for direct settlement",
+"Reinstate or replace the damaged property, provided it does so within a reasonable time and the insured cooperates",
+"Pay the claim in instalments over three years",
+"Cancel the policy and refund the premium"
+],
+"a": 1,
+"e": "The 'option of reinstatement' lets the insurer repair or replace rather than pay cash, a safeguard against inflated claims, though rarely exercised."
+},
+{
+"n": 24,
+"topic": "Special Features of Property Damage Claims",
+"t": "Under a burglary policy, a loss caused by an employee of the insured acting as principal or accomplice is:",
+"o": [
+"Excluded, as such losses are the subject of a fidelity guarantee policy",
+"Covered in full",
+"Covered only if the employee is prosecuted",
+"Covered at 75% as a non-standard claim"
+],
+"a": 0,
+"e": "Burglary insurance covers theft by forcible and violent entry by outsiders; dishonesty of the insured's own employees is a fidelity risk."
+},
+{
+"n": 25,
+"topic": "Special Features of Property Damage Claims",
+"t": "An 'erection all risks' (EAR) policy claim for damage during the 'testing period' is:",
+"o": [
+"Covered only under a machinery breakdown policy",
+"Covered, since testing and commissioning fall within the policy period, subject to the specific testing exclusions and limits",
+"Never covered, since testing is excluded in all engineering policies",
+"Covered only if the plant is more than one year old"
+],
+"a": 1,
+"e": "EAR covers erection, testing and commissioning up to handover; machinery breakdown insurance takes over after the plant is in commercial operation."
+},
+{
+"n": 26,
+"topic": "Special Features in Liability Claims",
+"t": "A public liability policy is written with limits of ₹1 crore any one accident (AOA) and ₹3 crore any one year (AOY). This means:",
+"o": [
+"The insured must pay ₹1 crore of every claim before the insurer pays",
+"Each accident is paid up to ₹3 crore but total claims are capped at ₹1 crore",
+"The insurer will pay up to ₹1 crore for any single accident and not more than ₹3 crore in aggregate for all accidents in the policy year",
+"The policy covers only three accidents in a year"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). AOA:AOY ratios (here 1:3) define the per-occurrence and aggregate limits of indemnity; claims beyond either limit fall on the insured.",
+"r": "key"
+},
+{
+"n": 27,
+"topic": "Special Features of Property Damage Claims",
+"t": "In a 'loss of profits' claim, the 'standard turnover' is:",
+"o": [
+"The turnover of the current year as projected by the insured",
+"The turnover achieved after reinstatement",
+"The turnover during the period corresponding to the indemnity period in the twelve months immediately before the date of damage, adjusted for trend",
+"The sum insured on gross profit"
+],
+"a": 2,
+"e": "Standard turnover, adjusted for trends and other circumstances, provides the benchmark against which the shortfall in turnover is measured."
+},
+{
+"n": 28,
+"topic": "Special Features of Insurance of Persons",
+"t": "Under a group personal accident policy covering employees, the beneficiary of a death claim is normally:",
+"o": [
+"The surveyor who assessed the claim",
+"The insurer's agent",
+"The Employees' Compensation Commissioner",
+"The nominee or legal heir of the deceased employee, or the employer where the employer is the insured and has a contractual obligation"
+],
+"a": 3,
+"e": "PA death benefits go to the nominee/legal heirs, or to the employer-insured where the policy is structured for that purpose."
+},
+{
+"n": 29,
+"topic": "Special Features of Insurance of Persons",
+"t": "Under health insurance norms, a Third Party Administrator (TPA):",
+"o": [
+"Processes claims and provides cashless services on behalf of the insurer, but the decision to admit or reject a claim rests with the insurer",
+"Can reject claims in its own discretion",
+"Underwrites health policies",
+"Is licensed by the General Insurance Council"
+],
+"a": 0,
+"e": "TPAs are licensed by IRDAI to render services; the regulations prohibit a TPA from taking the final decision on repudiation."
+},
+{
+"n": 30,
+"topic": "Special Features of Insurance of Persons",
+"t": "An insured with a ₹3 lakh health policy is hospitalised for appendicitis 20 days after buying his first policy. The claim is:",
+"o": [
+"Admissible only in a network hospital",
+"Likely not admissible, as most policies impose an initial waiting period of 30 days for illnesses (accidents excepted)",
+"Admissible in full since appendicitis is not a pre-existing disease",
+"Admissible at 50% of the sum insured"
+],
+"a": 1,
+"e": "The initial 30-day waiting period applies to all illnesses in a fresh policy; only accidental hospitalisation is covered from day one."
+},
+{
+"n": 31,
+"topic": "Special Features in Liability Claims",
+"t": "Under the Employees' Compensation Act, 1923, compensation for temporary disablement is:",
+"o": [
+"Full wages for the period of disablement",
+"A lump sum of 50% of monthly wages × relevant factor",
+"A half-monthly payment of 25% of monthly wages, payable after a waiting period of three days, for a maximum of five years",
+"A fixed ₹1,40,000"
+],
+"a": 2,
+"e": "Temporary disablement attracts half-monthly payments equal to 25% of wages (i.e. half of a half-month's wages), subject to the 3-day waiting period and 5-year limit."
+},
+{
+"n": 32,
+"topic": "Special Features in Liability Claims",
+"t": "Which of the following is correct regarding liability claims under an occurrence-based public liability policy?",
+"o": [
+"The policy covers the insured's own property damage",
+"The policy in force when the injury or damage occurred responds, even if the claim is made after the policy has expired",
+"The retroactive date limits the cover",
+"Only claims made during the policy period are covered"
+],
+"a": 1,
+"e": "Occurrence wording is triggered by the date of the event; claims-made wording is triggered by the date the claim is made."
+},
+{
+"n": 33,
+"topic": "Special Features in Liability Claims",
+"t": "A directors' and officers' (D&O) liability policy claim typically arises from:",
+"o": [
+"Injury to a worker on the factory floor",
+"Theft of a director's personal car",
+"A 'wrongful act' alleged against a director in the course of managing the company, such as breach of duty or misstatement",
+"Fire damage to the company's office"
+],
+"a": 2,
+"e": "D&O covers personal liability of directors for management decisions; property, motor and employee injury fall under other classes."
+},
+{
+"topic": "IRDAI – regulator",
+"t": "The control level of solvency ratio that every insurer must maintain is:",
+"o": [
+"100%",
+"125%",
+"150%",
+"200%"
+],
+"a": 2,
+"e": "★ Core fact (asked across III papers). Available solvency margin must be at least 150% of the required solvency margin; falling below triggers IRDAI action.",
+"r": "core",
+"n": 34
+},
+{
+"n": 35,
+"topic": "Special Features in Claims (Motor, Marine and Miscellaneous)",
+"t": "Under the Railways Act, 1989, a claim for loss or damage to goods carried by rail must be lodged with the railway administration within:",
+"o": [
+"3 years from the date of booking",
+"3 days from delivery",
+"30 days from delivery",
+"6 months from the date of entrustment of the goods"
+],
+"a": 3,
+"e": "Section 106 of the Railways Act fixes a 6-month period; failure to notify in time bars recovery and prejudices the insurer's subrogation rights."
+},
+{
+"n": 36,
+"topic": "Special Features in Claims (Motor, Marine and Miscellaneous)",
+"t": "'General average' in marine insurance means:",
+"o": [
+"A sacrifice or expenditure intentionally and reasonably made for the common safety of the ship and cargo, shared proportionately by all interests saved",
+"A partial loss caused accidentally to one cargo interest",
+"A total loss of the vessel shared among insurers",
+"The average premium charged on all marine policies"
+],
+"a": 0,
+"e": "GA (e.g. jettison of cargo to refloat a stranded vessel) is contributed to by all parties benefiting; the cargo insurer pays the insured's GA contribution."
+},
+{
+"n": 37,
+"topic": "Special Features in Claims (Motor, Marine and Miscellaneous)",
+"t": "A deceased motor accident victim aged 28 was unmarried and earned ₹20,000 per month. In computing dependency compensation, the deduction for personal and living expenses is normally:",
+"o": [
+"50% of the income",
+"One-fourth of the income",
+"No deduction",
+"One-third of the income"
+],
+"a": 0,
+"e": "Sarla Verma lays down 50% deduction for a bachelor, as against one-third, one-fourth or one-fifth for married persons depending on the number of dependants."
+},
+{
+"n": 38,
+"topic": "Speed and Quality in Settlement of Claims",
+"t": "The insurer's obligation to settle a claim is not discharged merely by passing the claim, until:",
+"o": [
+"The claim file is archived",
+"The reinsurer reimburses its share",
+"The payment is actually made to the claimant or credited to his account",
+"The surveyor is paid his fees"
+],
+"a": 2,
+"e": "Settlement is complete only on payment; regulatory interest runs until actual payment, not until internal approval."
+},
+{
+"n": 39,
+"topic": "Speed and Quality in Settlement of Claims",
+"t": "Which measure most directly addresses the complaint that insurers call for documents piecemeal?",
+"o": [
+"Increasing the policy excess",
+"Appointing a second surveyor",
+"Settling all claims ex gratia",
+"Issuing a standard checklist of documents at claim registration, class-wise"
+],
+"a": 3,
+"e": "Class-wise checklists given at intimation let the insured assemble requirements at once, a key driver of reduced TAT."
+},
+{
+"n": 40,
+"topic": "Speed and Quality in Settlement of Claims",
+"t": "An insurer takes 90 days to settle a fire claim where the regulatory timeline was 30 days from the final survey report, with no fault of the insured. The consequence is that:",
+"o": [
+"The insurer must pay interest at bank rate plus 2% for the period of delay, in addition to the claim",
+"The surveyor must refund his fees",
+"The claim stands forfeited by the insured",
+"The insurer's licence is automatically suspended"
+],
+"a": 0,
+"e": "Delay beyond the prescribed timeline attracts mandatory interest on the claim amount; licence action is a separate supervisory matter."
+},
+{
+"n": 41,
+"topic": "Disputes in Claims",
+"t": "A standard fire policy provides that if a claim is rejected and no suit or proceeding is commenced within 12 months of the rejection, the claim is deemed abandoned. In Indian practice this clause:",
+"o": [
+"Extends the limitation period to five years",
+"Is read subject to the Limitation Act and consumer protection law, so a timely complaint before a consumer forum or Ombudsman keeps the claim alive",
+"Applies only to marine policies",
+"Overrides the Limitation Act and bars all remedies after 12 months"
+],
+"a": 1,
+"e": "Courts have held that policy clauses cannot curtail statutory limitation; consumer complaints lie within two years of the cause of action."
+},
+{
+"n": 42,
+"topic": "Disputes in Claims",
+"t": "An award of the Insurance Ombudsman, once accepted by the complainant:",
+"o": [
+"Can be appealed by the insurer to the High Court",
+"Requires ratification by IRDAI",
+"Is binding on the insurer, which must comply within 30 days and inform the Ombudsman",
+"Is binding only up to ₹5 lakh"
+],
+"a": 2,
+"e": "The Ombudsman's award binds the insurer; the complainant, if dissatisfied, remains free to pursue other remedies."
+},
+{
+"n": 43,
+"topic": "Disputes in Claims",
+"t": "A dispute about the quantum of a commercial fire claim is referred to arbitration under the policy. The arbitral award can be challenged:",
+"o": [
+"By an appeal to the Insurance Ombudsman",
+"By a fresh suit on the merits in a civil court",
+"Only on the limited grounds set out in Section 34 of the Arbitration and Conciliation Act, 1996",
+"By a complaint to IRDAI within 30 days"
+],
+"a": 2,
+"e": "Arbitral awards are final except for the narrow Section 34 grounds (such as invalidity of agreement or conflict with public policy)."
+},
+{
+"topic": "IRDAI – regulator",
+"t": "The permitted limit of foreign direct investment in an Indian insurance company is currently:",
+"o": [
+"26%",
+"49%",
+"74%",
+"100%"
+],
+"a": 2,
+"e": "★ Core fact (asked across III papers). Raised from 49% to 74% by the Insurance (Amendment) Act 2021; intermediaries may have 100%.",
+"r": "core",
+"n": 44
+},
+{
+"n": 45,
+"topic": "Frauds in Claims",
+"t": "Under the Bharatiya Nyaya Sanhita, 2023, submitting a fabricated claim to an insurer to obtain payment would primarily attract the offence of:",
+"o": [
+"Defamation",
+"Criminal trespass",
+"Public nuisance",
+"Cheating (Section 318), which replaced Section 420 of the Indian Penal Code"
+],
+"a": 3,
+"e": "Insurance fraud by deception is cheating; forgery provisions may also apply where documents are fabricated."
+},
+{
+"n": 46,
+"topic": "Frauds in Claims",
+"t": "Which of the following is an example of 'internal fraud' in claims?",
+"o": [
+"A policyholder staging a theft of his car",
+"A customer inflating the value of stolen jewellery",
+"A hacker encrypting the insurer's data for ransom",
+"A claims employee colluding with a repairer to approve inflated motor repair bills"
+],
+"a": 3,
+"e": "Internal fraud is committed by the insurer's own staff or with their collusion; the other examples are policyholder fraud or cybercrime."
+},
+{
+"n": 47,
+"topic": "Claims Reserving",
+"t": "Under IRDAI regulations, the IBNR reserve of a general insurer must be:",
+"o": [
+"Fixed at 10% of net premium for all classes",
+"Determined by the claims manager based on experience",
+"Estimated and certified by the Appointed Actuary using accepted actuarial methods",
+"Equal to the outstanding claims reserve"
+],
+"a": 2,
+"e": "IBNR is an actuarial estimate certified by the Appointed Actuary; statutory percentages apply to unexpired risk reserves, not IBNR."
+},
+{
+"n": 48,
+"topic": "Claims Reserving",
+"t": "A general insurer sets a case reserve of ₹8 lakh on a fire claim. The survey report later assesses the loss at ₹14 lakh. The correct action is to:",
+"o": [
+"Keep the reserve at ₹8 lakh until the claim is paid",
+"Revise the case reserve upward to ₹14 lakh immediately so that outstanding liabilities are fairly stated",
+"Transfer the difference to the IBNR reserve",
+"Reduce the reserve to nil since the surveyor has finished"
+],
+"a": 1,
+"e": "Case reserves must reflect the best current estimate; under-reserving distorts incurred claims, pricing and solvency."
+},
+{
+"n": 49,
+"topic": "Information Technology in Claims",
+"t": "A core 'claims management system' integrated with the policy administration system enables the claims official to:",
+"o": [
+"Fix the premium for the next renewal",
+"Verify cover, premium status and prior claims instantly at the time of registration",
+"Bypass the requirement of a surveyor's report",
+"Issue a new policy to the claimant"
+],
+"a": 1,
+"e": "Integration allows real-time coverage verification and duplicate-claim checks, improving both speed and control."
+},
+{
+"n": 50,
+"topic": "Information Technology in Claims",
+"t": "Insurers use telematics data from a vehicle in a motor claim to:",
+"o": [
+"Verify the time, location and speed of the vehicle at the time of the reported accident",
+"Calculate the third-party premium",
+"Compute the IDV of the vehicle",
+"Replace the driving licence as proof of eligibility"
+],
+"a": 0,
+"e": "Telematics corroborates or contradicts the insured's account of the accident, aiding fraud detection and quick settlement."
+}
+]

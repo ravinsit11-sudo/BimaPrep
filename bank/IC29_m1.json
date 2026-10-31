@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Introduction to General Insurance Claims",
+"t": "Which of the following is NOT normally a stakeholder in the general insurance claims process?",
+"o": [
+"The licensed surveyor and loss assessor",
+"The stock exchange on which the insured's shares are listed",
+"The reinsurer sharing the risk",
+"The Insurance Ombudsman"
+],
+"a": 1,
+"e": "Surveyors, reinsurers and grievance bodies all participate in or are affected by claims; a stock exchange has no role in an insurance claim."
+},
+{
+"n": 2,
+"topic": "Claims Management Overview",
+"t": "The incurred claims ratio of a general insurer is computed as:",
+"o": [
+"Net incurred claims divided by net earned premium",
+"Outstanding claims divided by total assets",
+"Claims paid divided by gross written premium",
+"Claims intimated divided by policies issued"
+],
+"a": 0,
+"e": "Incurred claims (paid plus movement in outstanding and IBNR) are matched against the premium earned in the same period, net of reinsurance, to give a meaningful loss ratio."
+},
+{
+"n": 3,
+"topic": "Dealing with the Claim Process",
+"t": "A fire policy requires the insured to give 'immediate notice' of loss. The main purpose of this condition is to:",
+"o": [
+"Enable the insurer to inspect the damaged property promptly, verify the cause and minimise further loss",
+"Shift the burden of proof of loss to the insurer",
+"Fix the amount of premium refund due to the insured",
+"Allow the insurer to cancel the policy before the claim is registered"
+],
+"a": 0,
+"e": "Early notice lets the insurer appoint a surveyor while evidence is intact and take steps to protect salvage; late notice may prejudice the insurer's position."
+},
+{
+"n": 4,
+"topic": "Dealing with the Claim Process",
+"t": "The insured sends a letter accepting ₹4 lakh 'in full and final settlement' and later complains to the Ombudsman that the loss was ₹6 lakh. As per IRDAI's position on discharge vouchers:",
+"o": [
+"The complaint is barred because a discharge voucher is conclusive",
+"The insurer must refund the ₹4 lakh and reopen the claim from scratch",
+"The Ombudsman can only award interest on ₹4 lakh",
+"Execution of the discharge voucher does not by itself bar the insured from pursuing the claim for the balance"
+],
+"a": 3,
+"e": "IRDAI has clarified that a discharge voucher signed to receive an amount is not to be treated as a bar to the policyholder seeking further relief, so the dispute can be examined on merits."
+},
+{
+"n": 5,
+"topic": "Dealing with the Claim Process",
+"t": "An 'ex gratia' payment on a claim means that the insurer:",
+"o": [
+"Pays an amount without admitting legal liability under the policy, as a matter of grace",
+"Pays the full sum insured irrespective of the actual loss",
+"Pays interest for delay in settlement as required by regulation",
+"Recovers the payment from the surveyor's fees"
+],
+"a": 0,
+"e": "Ex gratia payments are made in deserving cases where no liability exists under the contract; they do not create a precedent or admission."
+},
+{
+"n": 6,
+"topic": "Claim Documentation",
+"t": "In a burglary claim, the document that establishes that the incident was reported to the police is the:",
+"o": [
+"Discharge voucher",
+"Survey fee bill",
+"First Information Report (FIR)",
+"Letter of subrogation"
+],
+"a": 2,
+"e": "The FIR evidences the police complaint, the time of reporting and the items reported stolen; the other documents relate to settlement or recovery."
+},
+{
+"n": 7,
+"topic": "Special Features of Insurance of Persons",
+"t": "As per the IRDAI master circular on health insurance (2024), an insurer must decide on a cashless authorisation request within:",
+"o": [
+"7 days of receipt of the request",
+"24 hours of receipt of the request",
+"1 hour of receipt of the request",
+"3 hours of receipt of the request"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). Cashless authorisation must be given within 1 hour and final discharge authorisation within 3 hours of the hospital's request; otherwise the insurer bears any extra hospital charges.",
+"r": "key"
+},
+{
+"n": 8,
+"topic": "Claim Documentation",
+"t": "Which document is the primary evidence of the insurable interest and value of goods in a marine cargo import claim?",
+"o": [
+"Survey report",
+"Commercial invoice",
+"Claim form",
+"Bill of entry only"
+],
+"a": 1,
+"e": "The invoice shows the buyer, description, quantity and price of the consignment; the bill of entry supports customs clearance, while survey report and claim form do not prove value."
+},
+{
+"n": 9,
+"topic": "Claim Documentation",
+"t": "For a motor own-damage claim, which combination of documents is generally required from the insured?",
+"o": [
+"Claim form, fitness certificate of the surveyor, insurer's balance sheet and FIR",
+"Claim form, copy of registration certificate, driving licence of the driver at the time of accident and repairer's estimate",
+"Driving licence, IRDAI licence of the agent, salary slip and bank statement",
+"Repairer's estimate, bill of lading, income tax return and pollution certificate"
+],
+"a": 1,
+"e": "The RC proves ownership and the DL proves a validly licensed driver, both conditions of the policy; the estimate is the basis for survey and assessment."
+},
+{
+"n": 10,
+"topic": "Survey and Adjustment of Claim",
+"t": "Section 64UM of the Insurance Act, 1938 deals with:",
+"o": [
+"Licensing of surveyors and loss assessors and the requirement of survey reports for claims above the prescribed limit",
+"Investment of controlled funds of insurers",
+"Payment of premium before assumption of risk",
+"Limit on expenses of management of insurers"
+],
+"a": 0,
+"e": "Section 64UM makes a report from a licensed surveyor mandatory for claims above the threshold set by regulation; premium in advance is Section 64VB."
+},
+{
+"n": 11,
+"topic": "Survey and Adjustment of Claim",
+"t": "Under IRDAI regulations currently in force, a licensed surveyor's report is mandatory for a claim exceeding:",
+"o": [
+"₹5,00,000 for all classes of business",
+"₹20,000 for all classes of business",
+"₹50,000 for motor insurance and ₹1,00,000 for other classes",
+"₹1,00,000 for motor insurance and ₹50,000 for other classes"
+],
+"a": 2,
+"e": "The protection of policyholders' interests regulations fix the thresholds at ₹50,000 (motor) and ₹1 lakh (non-motor); below these the insurer may assess the loss in-house."
+},
+{
+"n": 12,
+"topic": "Survey and Adjustment of Claim",
+"t": "A surveyor's report assesses a fire loss at ₹18 lakh, but the insurer offers ₹10 lakh without recording any reason. As per settled judicial view:",
+"o": [
+"The surveyor's figure is conclusive and binding on both parties",
+"The claim is automatically referred to the IRDAI for adjudication",
+"The insurer is free to ignore the report at its discretion",
+"The surveyor's report is not binding on the insurer, but it can be departed from only for cogent and recorded reasons"
+],
+"a": 3,
+"e": "Courts have held that the surveyor's report is the basis of settlement and an insurer cannot arbitrarily reduce the assessed amount without valid reasons."
+},
+{
+"n": 13,
+"topic": "Survey and Adjustment of Claim",
+"t": "Under the IRDAI (Insurance Surveyors and Loss Assessors) Regulations, 2015, a surveyor's licence is valid for a period of:",
+"o": [
+"Lifetime, subject to annual CPD",
+"Five years, non-renewable",
+"Three years from the date of issue, renewable thereafter",
+"One year, renewable annually"
+],
+"a": 2,
+"e": "The 2015 regulations grant and renew surveyor licences for three years; renewal requires membership of IIISLA and continuing education."
+},
+{
+"n": 14,
+"topic": "Principles Governing Assessment of Loss",
+"t": "The principle of indemnity in property insurance aims to:",
+"o": [
+"Pay the sum insured in full whenever a loss occurs",
+"Pay the replacement cost new irrespective of the age of the property",
+"Reward the insured for timely renewal of the policy",
+"Place the insured in the same financial position after the loss as immediately before it, without profit"
+],
+"a": 3,
+"e": "Indemnity restores the insured's position but does not allow gain; paying the full sum insured or new-for-old without a special clause would breach it."
+},
+{
+"n": 15,
+"topic": "Principles Governing Assessment of Loss",
+"t": "A factory building valued at ₹50 lakh is insured for ₹40 lakh under a fire policy subject to the condition of average. A fire causes damage of ₹10 lakh. The insurer's liability (ignoring excess) is:",
+"o": [
+"₹8 lakh",
+"₹10 lakh",
+"₹4 lakh",
+"₹6 lakh"
+],
+"a": 0,
+"e": "Under pro rata average: loss × SI / value at risk = 10 × 40/50 = ₹8 lakh; the insured bears the balance as his own insurer for the uninsured 20%."
+},
+{
+"n": 16,
+"topic": "Principles Governing Assessment of Loss",
+"t": "The difference between an 'excess' and a 'franchise' in a policy is that:",
+"o": [
+"There is no difference; the terms are used interchangeably",
+"A franchise is deducted from the sum insured while an excess is deducted from the premium",
+"An excess applies only to total losses while a franchise applies to partial losses",
+"Under an excess the stated amount is always deducted, whereas under a franchise the full loss is paid once it exceeds the stated amount"
+],
+"a": 3,
+"e": "A franchise acts as a threshold below which nothing is paid and above which the entire loss is paid; an excess is a deductible borne by the insured in every claim."
+},
+{
+"n": 17,
+"topic": "Principles Governing Assessment of Loss",
+"t": "Two fire policies cover the same stock: Policy X for ₹6 lakh and Policy Y for ₹4 lakh, both without average. A loss of ₹2 lakh occurs. Applying rateable contribution by sums insured, Policy X pays:",
+"o": [
+"₹80,000",
+"₹2,00,000",
+"₹1,00,000",
+"₹1,20,000"
+],
+"a": 3,
+"e": "Contribution is shared in the ratio of sums insured 6:4, so X bears 60% of ₹2 lakh = ₹1.2 lakh and Y bears ₹80,000; the insured cannot recover more than the loss."
+},
+{
+"n": 18,
+"topic": "Practice of Loss Assessment",
+"t": "A trader's stock destroyed by fire is being assessed. Opening stock ₹10 lakh, purchases ₹40 lakh, sales ₹45 lakh, gross profit 20% of sales. The estimated stock on the date of fire is:",
+"o": [
+"₹9 lakh",
+"₹19 lakh",
+"₹14 lakh",
+"₹5 lakh"
+],
+"a": 2,
+"e": "Cost of goods sold = sales less GP = 45 − 9 = ₹36 lakh; stock = opening + purchases − COGS = 10 + 40 − 36 = ₹14 lakh, which is the method a surveyor uses when physical records are destroyed."
+},
+{
+"n": 19,
+"topic": "Practice of Loss Assessment",
+"t": "In assessing a loss, 'salvage' refers to:",
+"o": [
+"The premium refunded on cancellation of the policy",
+"The residual value of the damaged property that remains after the loss and is taken into account to reduce the claim",
+"The amount deducted as excess from every claim",
+"The fee payable to the surveyor for inspecting the property"
+],
+"a": 1,
+"e": "The insured is indemnified for the loss net of salvage value; the insurer may either deduct it or take over the salvage and pay the full assessed loss."
+},
+{
+"n": 20,
+"topic": "Claims Reserving",
+"t": "A general insurer has net earned premium of ₹500 crore and net incurred claims of ₹375 crore. Its net incurred claims ratio is:",
+"o": [
+"25%",
+"133%",
+"80%",
+"75%"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). Incurred claims ratio = 375/500 = 75%; a lower ratio indicates better claims experience relative to premium earned.",
+"r": "key"
+},
+{
+"n": 21,
+"topic": "Practice of Loss Assessment",
+"t": "Under the reinstatement value clause of a fire policy, the insurer's liability for a destroyed building is based on:",
+"o": [
+"The market value of the building after deducting depreciation",
+"The cost of rebuilding the property to a condition equal to but not better than its condition when new, with no deduction for depreciation",
+"The sum insured plus 25% escalation in all cases",
+"The original purchase price shown in the insured's books"
+],
+"a": 1,
+"e": "Reinstatement value basis pays new-for-old, subject to the insured actually reinstating within the stipulated period; without reinstatement, settlement falls back to indemnity (depreciated) basis."
+},
+{
+"n": 22,
+"topic": "Practice of Loss Assessment",
+"t": "A surveyor finds that a machine partially damaged in a fire can be repaired for ₹3 lakh, while its replacement cost new is ₹12 lakh and it is 6 years old. On an indemnity basis the insurer would normally pay:",
+"o": [
+"Nothing, because the machine is more than five years old",
+"The reasonable cost of repair, ₹3 lakh, with depreciation applied only to parts replaced if a betterment arises",
+"₹12 lakh, since the machine is now obsolete",
+"₹6 lakh, being half the replacement cost"
+],
+"a": 1,
+"e": "A partial loss is indemnified by the cost of restoring the machine to its pre-loss condition; betterment from new parts may be deducted, but the full replacement cost is not payable."
+},
+{
+"n": 23,
+"topic": "Special Features of Property Damage Claims",
+"t": "A Standard Fire and Special Perils Policy requires the insured to deliver written particulars of the claim within:",
+"o": [
+"15 days of the loss",
+"90 days of the loss",
+"7 days of the loss",
+"30 days of the loss"
+],
+"a": 0,
+"e": "The policy condition requires notice forthwith and a written claim with full particulars within 15 days; the insurer may extend this time in genuine cases."
+},
+{
+"n": 24,
+"topic": "Special Features of Property Damage Claims",
+"t": "With effect from 1 April 2021, a dwelling is insured against fire and allied perils under which IRDAI-prescribed standard product?",
+"o": [
+"Standard Fire and Special Perils Policy (Dwellings)",
+"Bharat Griha Raksha",
+"Bharat Sookshma Udyam Suraksha",
+"Bharat Laghu Udyam Suraksha"
+],
+"a": 1,
+"e": "Bharat Griha Raksha replaced the SFSP for home building and contents; the Sookshma (up to ₹5 crore) and Laghu (₹5–50 crore) products cover commercial risks."
+},
+{
+"n": 25,
+"topic": "Special Features of Property Damage Claims",
+"t": "Under a fire loss of profits (business interruption) policy, the 'indemnity period' is:",
+"o": [
+"The period beginning with the date of damage during which the business results are affected, not exceeding the period stated in the policy",
+"The period of the material damage policy",
+"Twelve months from the inception of the policy in every case",
+"The time taken by the surveyor to submit the final report"
+],
+"a": 0,
+"e": "The indemnity period starts from the date of the damage and runs for the maximum period selected by the insured (which may exceed 12 months), reflecting the time to restore normal trading."
+},
+{
+"n": 26,
+"topic": "Special Features in Claims (Motor, Marine and Miscellaneous)",
+"t": "Under the Railways Act, 1989, a claim for loss or damage to goods carried by rail must be lodged with the railway administration within:",
+"o": [
+"3 years from the date of booking",
+"3 days from delivery",
+"30 days from delivery",
+"6 months from the date of entrustment of the goods"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). Section 106 of the Railways Act fixes a 6-month period; failure to notify in time bars recovery and prejudices the insurer's subrogation rights.",
+"r": "key"
+},
+{
+"n": 27,
+"topic": "Special Features of Property Damage Claims",
+"t": "A machinery breakdown policy covers:",
+"o": [
+"Damage to machinery caused by fire or lightning",
+"Sudden and unforeseen physical loss or damage to insured machinery from causes such as electrical or mechanical breakdown, requiring repair or replacement",
+"Loss of profits following breakdown unless specifically endorsed",
+"Gradual wear and tear and corrosion of machinery"
+],
+"a": 1,
+"e": "MB insurance responds to accidental internal breakdown; wear and tear is excluded, fire is covered under the fire policy, and consequential loss needs a separate MLOP policy."
+},
+{
+"n": 28,
+"topic": "Special Features of Insurance of Persons",
+"t": "Under a personal accident policy with a capital sum insured of ₹10 lakh, the insured loses one hand in an accident. The benefit payable is normally:",
+"o": [
+"₹5 lakh (50% of the capital sum insured)",
+"Weekly benefit of 1% until recovery",
+"₹10 lakh (100% of the capital sum insured)",
+"₹2.5 lakh (25% of the capital sum insured)"
+],
+"a": 0,
+"e": "Loss of one limb or sight of one eye is a permanent partial disablement paid at 50% of CSI; 100% is payable for death, loss of two limbs or permanent total disablement."
+},
+{
+"n": 29,
+"topic": "Special Features of Insurance of Persons",
+"t": "In health insurance, a 'day care treatment' is one that:",
+"o": [
+"Is given in a hospital with fewer than 10 beds",
+"Requires less than 24 hours of hospitalisation because of technological advancement and would otherwise have needed inpatient care",
+"Is provided at the patient's home by a visiting nurse",
+"Lasts only during daytime hours in an outpatient department"
+],
+"a": 1,
+"e": "Day care procedures (such as cataract surgery or dialysis) are covered despite the 24-hour rule precisely because advances in medicine have shortened the hospital stay."
+},
+{
+"n": 30,
+"topic": "Special Features of Insurance of Persons",
+"t": "A health policy limits room rent to 1% of the sum insured per day. The insured with ₹5 lakh SI occupies a room costing ₹10,000 per day and the total hospital bill is ₹2 lakh. Under the proportionate deduction clause, the admissible amount is approximately:",
+"o": [
+"₹1,50,000",
+"₹2,00,000",
+"₹50,000",
+"₹1,00,000"
+],
+"a": 3,
+"e": "Eligible room rent is ₹5,000, half of the actual rent, so associated charges are reduced proportionately to 50% of ₹2 lakh = ₹1 lakh (non-linked items such as medicines are typically excluded from the deduction)."
+},
+{
+"n": 31,
+"topic": "Special Features in Liability Claims",
+"t": "Under the Employees' Compensation Act, 1923, the compensation payable for the death of an employee is:",
+"o": [
+"Twelve months' wages paid to the dependants",
+"60% of the monthly wages multiplied by the relevant factor, or ₹1,40,000, whichever is higher",
+"50% of the monthly wages multiplied by the relevant factor, or ₹1,20,000, whichever is higher",
+"A flat amount of ₹5 lakh irrespective of wages"
+],
+"a": 2,
+"e": "Death compensation is 50% of wages × relevant factor (based on age) subject to a minimum of ₹1,20,000; 60% / ₹1,40,000 is the formula for permanent total disablement."
+},
+{
+"n": 32,
+"topic": "Special Features in Liability Claims",
+"t": "A public liability policy is written with limits of ₹1 crore any one accident (AOA) and ₹3 crore any one year (AOY). This means:",
+"o": [
+"The insured must pay ₹1 crore of every claim before the insurer pays",
+"Each accident is paid up to ₹3 crore but total claims are capped at ₹1 crore",
+"The insurer will pay up to ₹1 crore for any single accident and not more than ₹3 crore in aggregate for all accidents in the policy year",
+"The policy covers only three accidents in a year"
+],
+"a": 2,
+"e": "AOA:AOY ratios (here 1:3) define the per-occurrence and aggregate limits of indemnity; claims beyond either limit fall on the insured."
+},
+{
+"n": 33,
+"topic": "Special Features in Liability Claims",
+"t": "A liability policy issued on a 'claims-made' basis responds to:",
+"o": [
+"Claims made by the insured against third parties",
+"Only claims that are also reported to the police during the policy period",
+"Claims arising from events occurring during the policy period, whenever notified",
+"Claims first made against the insured during the policy period, for events occurring after the retroactive date"
+],
+"a": 3,
+"e": "Claims-made wording (common in professional indemnity and product liability) ties cover to when the claim is made, unlike occurrence-based policies such as motor TP."
+},
+{
+"n": 34,
+"topic": "Special Features in Claims (Motor, Marine and Miscellaneous)",
+"t": "Under the India Motor Tariff depreciation schedule for own-damage claims, rubber, nylon and plastic parts, tyres and tubes and batteries are depreciated at:",
+"o": [
+"10%",
+"50%",
+"30%",
+"Nil"
+],
+"a": 1,
+"e": "The schedule prescribes 50% for rubber/nylon/plastic parts, tyres, tubes and batteries, 30% for fibreglass, nil for glass and age-based rates for metal parts."
+},
+{
+"n": 35,
+"topic": "Special Features in Claims (Motor, Marine and Miscellaneous)",
+"t": "Under Section 164 of the Motor Vehicles Act, 1988 (as amended in 2019), the no-fault compensation payable for death in a motor accident is:",
+"o": [
+"₹25,000",
+"₹2 lakh",
+"₹5 lakh",
+"₹50,000"
+],
+"a": 2,
+"e": "Section 164 fixes ₹5 lakh for death and ₹2.5 lakh for grievous hurt without proof of negligence; ₹2 lakh is the hit-and-run amount under Section 161."
+},
+{
+"topic": "Insurance Act 1938 – key sections",
+"t": "Under Section 45 of the Insurance Act 1938, a life insurance policy cannot be called in question on any ground after how many years from the date of issue, revival or rider addition, whichever is later?",
+"o": [
+"Two years",
+"Three years",
+"Five years",
+"One year"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). The 2015 amendment made the three-year bar absolute: after three years no policy may be questioned on any ground, including fraud.",
+"r": "core",
+"n": 36
+},
+{
+"n": 37,
+"topic": "Special Features in Claims (Motor, Marine and Miscellaneous)",
+"t": "In a marine cargo claim for particular average on goods, the insured value is ₹8 lakh, the sound arrived value is ₹10 lakh and the damaged value is ₹7 lakh. The claim under the Marine Insurance Act, 1963 is:",
+"o": [
+"₹1 lakh",
+"₹3 lakh",
+"₹8 lakh",
+"₹2.4 lakh"
+],
+"a": 3,
+"e": "Depreciation = (10 − 7)/10 = 30%; the same proportion of the insured value is paid: 30% of ₹8 lakh = ₹2.4 lakh, so market fluctuations do not distort the indemnity."
+},
+{
+"n": 38,
+"topic": "Speed and Quality in Settlement of Claims",
+"t": "If an insurer delays settlement of a claim beyond the regulatory timeline, IRDAI regulations require it to pay interest at:",
+"o": [
+"12% per annum simple interest in all cases",
+"2% above the bank rate prevailing at the beginning of the financial year in which the claim is reviewed",
+"The savings bank interest rate of the State Bank of India",
+"No interest unless ordered by a court"
+],
+"a": 1,
+"e": "The protection of policyholders' interests regulations mandate interest at bank rate plus 2% from the date the claim ought to have been settled, without the claimant having to ask."
+},
+{
+"n": 39,
+"topic": "Speed and Quality in Settlement of Claims",
+"t": "Under the IRDAI (Protection of Policyholders' Interests, Operations and Allied Matters of Insurers) Regulations, 2024, where a surveyor is required the insurer must appoint one within:",
+"o": [
+"72 hours of receipt of the claim intimation",
+"7 days of receipt of the claim intimation",
+"24 hours of receipt of the claim intimation",
+"15 days of receipt of the claim intimation"
+],
+"a": 2,
+"e": "The 2024 regulations compress the timeline: surveyor appointed within 24 hours, survey report within 15 days and the insurer's decision within 7 days of receiving the report."
+},
+{
+"n": 40,
+"topic": "Speed and Quality in Settlement of Claims",
+"t": "'Turnaround time' (TAT) in claims is used as a quality measure because it:",
+"o": [
+"Measures the time taken from intimation to settlement, directly reflecting the speed of service to the policyholder",
+"Measures the total premium collected per claims employee",
+"Indicates the percentage of claims repudiated",
+"Measures the surveyor's fee as a percentage of the claim"
+],
+"a": 0,
+"e": "TAT tracks the cycle time of each claim stage; shorter TAT with accurate settlement is the core indicator of claims service quality."
+},
+{
+"n": 41,
+"topic": "Disputes in Claims",
+"t": "The maximum value of a complaint (including expenses) that the Insurance Ombudsman can entertain is:",
+"o": [
+"₹1 crore",
+"₹20 lakh",
+"₹50 lakh",
+"₹30 lakh"
+],
+"a": 2,
+"e": "The Insurance Ombudsman Rules, 2017 as amended in 2021 cap the Ombudsman's jurisdiction at ₹50 lakh; larger claims must go to consumer commissions or courts."
+},
+{
+"n": 42,
+"topic": "Disputes in Claims",
+"t": "An insured whose fire claim of ₹60 lakh was repudiated approaches the Insurance Ombudsman. The complaint is:",
+"o": [
+"Maintainable only if the insurer consents in writing",
+"Automatically transferred to the IRDAI Grievance Cell",
+"Not maintainable before the Ombudsman as it exceeds the pecuniary limit, so the insured must approach a consumer commission or civil court",
+"Maintainable, since repudiation complaints have no monetary limit"
+],
+"a": 2,
+"e": "The Ombudsman cannot entertain complaints above ₹50 lakh; such disputes lie with the appropriate consumer commission or a civil court within the limitation period."
+},
+{
+"n": 43,
+"topic": "Disputes in Claims",
+"t": "The arbitration clause in a commercial fire policy applies to disputes relating to:",
+"o": [
+"Whether the insurer is liable at all under the policy",
+"Allegations of fraud by the insured",
+"The quantum to be paid, where liability is otherwise admitted by the insurer",
+"The amount of premium charged at renewal"
+],
+"a": 2,
+"e": "Arbitration under the standard clause is confined to quantum disputes; where liability itself is denied, the insured must approach a court or consumer forum."
+},
+{
+"n": 44,
+"topic": "Frauds in Claims",
+"t": "Which of the following is a typical 'red flag' indicating possible fraud in a claim?",
+"o": [
+"A large loss occurring within days of policy inception or an increase in sum insured",
+"The insured submitting the claim form within the time allowed",
+"The insured having renewed the policy continuously for ten years",
+"The claim being supported by an FIR and a surveyor's report"
+],
+"a": 0,
+"e": "Losses shortly after inception, pressure for quick settlement and reluctance to allow inspection are classic indicators; timely compliance and continuous renewal are not."
+},
+{
+"topic": "Insurance Act 1938 – key sections",
+"t": "Section 41 of the Insurance Act 1938 prohibits:",
+"o": [
+"Assignment of a life policy",
+"Payment of any rebate of premium or commission as an inducement to buy insurance",
+"Nomination by a minor",
+"Issue of a policy without a medical examination"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). Section 41 bars rebating; contravention attracts a penalty of up to ₹10 lakh.",
+"r": "core",
+"n": 45
+},
+{
+"n": 46,
+"topic": "Frauds in Claims",
+"t": "The IRDAI's Insurance Fraud Monitoring Framework (2013) requires every insurer to:",
+"o": [
+"Have a board-approved anti-fraud policy and a framework to detect, monitor and mitigate fraud",
+"Refer every claim above ₹1 lakh to the police before settlement",
+"Appoint IRDAI officials as members of its claims committee",
+"Reject all claims where the FIR is filed after 24 hours"
+],
+"a": 0,
+"e": "The framework mandates governance, risk assessment, fraud control units and reporting; it does not prescribe automatic rejection or police referral of claims."
+},
+{
+"n": 47,
+"topic": "Claims Reserving",
+"t": "'IBNR' in claims reserving stands for claims that are:",
+"o": [
+"Intimated but not registered in the claims system",
+"Investigated but not repudiated by the surveyor",
+"Incurred but not reported to the insurer as at the valuation date",
+"Insured but not renewed in the current year"
+],
+"a": 2,
+"e": "IBNR provides for losses that have already occurred but of which the insurer has no notice; it is estimated actuarially since no case file exists."
+},
+{
+"n": 48,
+"topic": "Claims Reserving",
+"t": "Cumulative paid claims for an accident year develop as follows: ₹100 lakh after year 1, ₹150 lakh after year 2 and ₹180 lakh after year 3 (fully run off). Using the chain ladder method, the ultimate claims for a later accident year that has paid ₹200 lakh after year 1 are:",
+"o": [
+"₹300 lakh",
+"₹360 lakh",
+"₹280 lakh",
+"₹240 lakh"
+],
+"a": 1,
+"e": "Development factors are 1.5 (year 1→2) and 1.2 (year 2→3); ultimate = 200 × 1.5 × 1.2 = ₹360 lakh, so the reserve to be held is ₹160 lakh."
+},
+{
+"n": 49,
+"topic": "Information Technology in Claims",
+"t": "'Straight-through processing' (STP) of a claim refers to:",
+"o": [
+"Settlement of claims by reinsurers without involving the insurer",
+"Processing of claims only through the insurer's head office",
+"Direct payment of the claim to the surveyor",
+"Automated registration, validation and settlement of a simple claim by the system without manual intervention"
+],
+"a": 3,
+"e": "STP uses business rules to clear low-value, low-risk claims (for example small motor or travel claims) end-to-end, reducing TAT and cost."
+},
+{
+"n": 50,
+"topic": "Information Technology in Claims",
+"t": "The Insurance Information Bureau of India (IIB) assists insurers in claims primarily by:",
+"o": [
+"Licensing surveyors and loss assessors",
+"Adjudicating disputes between insurers and policyholders",
+"Paying claims on behalf of insurers that are under financial stress",
+"Maintaining industry-wide data that helps detect duplicate claims, verify vehicle and claim history and identify fraud patterns"
+],
+"a": 3,
+"e": "IIB's databases (motor, health, etc.) allow insurers to check prior claims and suspicious patterns; licensing and dispute resolution are IRDAI and Ombudsman functions."
+}
+]

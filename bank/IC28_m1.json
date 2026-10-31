@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Probability",
+"t": "Two fair dice are thrown together. What is the probability that the total of the two faces is exactly 7?",
+"o": [
+"5/36",
+"1/12",
+"1/6",
+"1/8"
+],
+"a": 2,
+"e": "There are 36 equally likely outcomes and six of them (1+6, 2+5, 3+4, 4+3, 5+2, 6+1) total 7, so the probability is 6/36 = 1/6."
+},
+{
+"n": 2,
+"topic": "Probability",
+"t": "Two events A and B are said to be mutually exclusive when:",
+"o": [
+"P(A ∩ B) = 0",
+"P(A ∪ B) = 1",
+"P(A) = P(B)",
+"P(A | B) = P(A)"
+],
+"a": 0,
+"e": "Mutually exclusive events cannot occur together, so their intersection has zero probability. P(A|B) = P(A) is the condition for independence, not exclusivity."
+},
+{
+"n": 3,
+"topic": "Probability",
+"t": "P(A) = 0.4 and P(B) = 0.5, and A and B are independent. What is P(A ∪ B)?",
+"o": [
+"0.50",
+"0.20",
+"0.90",
+"0.70"
+],
+"a": 3,
+"e": "For independent events P(A ∩ B) = 0.4 × 0.5 = 0.20, so P(A ∪ B) = 0.4 + 0.5 − 0.20 = 0.70."
+},
+{
+"n": 4,
+"topic": "Probability",
+"t": "If P(A ∩ B) = 0.12 and P(B) = 0.30, the conditional probability P(A | B) is:",
+"o": [
+"0.036",
+"0.18",
+"0.40",
+"0.42"
+],
+"a": 2,
+"e": "By definition P(A|B) = P(A ∩ B)/P(B) = 0.12/0.30 = 0.40."
+},
+{
+"n": 5,
+"topic": "Probability",
+"t": "Three independent lives each have a probability 0.1 of dying within one year. What is the probability that exactly one of the three dies in the year?",
+"o": [
+"0.271",
+"0.300",
+"0.081",
+"0.243"
+],
+"a": 3,
+"e": "This is binomial with n = 3, p = 0.1: P(exactly 1) = 3 × 0.1 × 0.9² = 3 × 0.1 × 0.81 = 0.243."
+},
+{
+"n": 6,
+"topic": "Probability",
+"t": "A claim amount X is ₹0 with probability 0.7 and ₹1,00,000 with probability 0.3. The expected value of X is:",
+"o": [
+"₹30,000",
+"₹50,000",
+"₹70,000",
+"₹1,00,000"
+],
+"a": 0,
+"e": "E[X] = 0 × 0.7 + 1,00,000 × 0.3 = ₹30,000. The expected value is the probability-weighted average of the possible outcomes."
+},
+{
+"n": 7,
+"topic": "Basic Statistics",
+"t": "The arithmetic mean of the observations 4, 8, 6, 10 and 12 is:",
+"o": [
+"9",
+"10",
+"7",
+"8"
+],
+"a": 3,
+"e": "The sum is 40 and there are 5 observations, so the mean is 40/5 = 8."
+},
+{
+"n": 8,
+"topic": "Basic Statistics",
+"t": "A random variable X takes the value 0 with probability 0.5 and the value 2 with probability 0.5. Its variance is:",
+"o": [
+"2",
+"4",
+"0.5",
+"1"
+],
+"a": 3,
+"e": "E[X] = 1 and E[X²] = 0.5 × 0 + 0.5 × 4 = 2, so Var(X) = E[X²] − (E[X])² = 2 − 1 = 1."
+},
+{
+"n": 9,
+"topic": "Basic Statistics",
+"t": "The median of the data set 3, 9, 5, 7, 11 is:",
+"o": [
+"9",
+"11",
+"5",
+"7"
+],
+"a": 3,
+"e": "Arranged in order the values are 3, 5, 7, 9, 11; with five observations the median is the third value, 7."
+},
+{
+"n": 10,
+"topic": "Basic Statistics",
+"t": "Which measure is defined as the positive square root of the variance?",
+"o": [
+"Mean deviation",
+"Range",
+"Standard deviation",
+"Coefficient of variation"
+],
+"a": 2,
+"e": "The standard deviation is the square root of the variance and is expressed in the same units as the data. The coefficient of variation is the standard deviation divided by the mean."
+},
+{
+"n": 11,
+"topic": "Life Tables and Survival Models",
+"t": "If the one-year survival probability p₄₅ = 0.9975, then q₄₅ equals:",
+"o": [
+"0.0025",
+"0.0075",
+"0.0250",
+"1.0025"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). pₓ + qₓ = 1, so q₄₅ = 1 − 0.9975 = 0.0025.",
+"r": "key"
+},
+{
+"n": 12,
+"topic": "Theory of Interest",
+"t": "₹10,000 is invested at 10% per annum simple interest. The accumulated amount after 3 years is:",
+"o": [
+"₹13,310",
+"₹13,500",
+"₹12,100",
+"₹13,000"
+],
+"a": 3,
+"e": "Simple interest is charged only on the principal: 10,000 × 0.10 × 3 = ₹3,000, giving an amount of ₹13,000."
+},
+{
+"n": 13,
+"topic": "Theory of Interest",
+"t": "₹10,000 is invested at 10% per annum compound interest, convertible yearly. The amount after 2 years is:",
+"o": [
+"₹12,200",
+"₹13,310",
+"₹12,000",
+"₹12,100"
+],
+"a": 3,
+"e": "Amount = 10,000 × (1.10)² = 10,000 × 1.21 = ₹12,100. Under compound interest the interest of the first year itself earns interest in the second year."
+},
+{
+"n": 14,
+"topic": "Theory of Interest",
+"t": "A nominal rate of interest of 12% per annum convertible monthly corresponds to a monthly effective rate of:",
+"o": [
+"1.2%",
+"12%",
+"0.5%",
+"1%"
+],
+"a": 3,
+"e": "A nominal rate i^(12) = 12% means interest is credited 12 times a year at i^(12)/12 = 1% per month."
+},
+{
+"n": 15,
+"topic": "Theory of Interest",
+"t": "At an effective rate of interest of 8% per annum, the discount factor v is (to four decimals):",
+"o": [
+"0.9434",
+"1.0800",
+"0.9200",
+"0.9259"
+],
+"a": 3,
+"e": "v = 1/(1 + i) = 1/1.08 = 0.9259. It is the present value of ₹1 due one year hence."
+},
+{
+"n": 16,
+"topic": "Theory of Interest",
+"t": "The force of interest is δ = 0.05 per annum. Given e^0.05 = 1.0513, the equivalent effective annual rate of interest is approximately:",
+"o": [
+"4.88%",
+"5.00%",
+"5.13%",
+"5.25%"
+],
+"a": 2,
+"e": "1 + i = e^δ, so i = e^0.05 − 1 = 1.0513 − 1 = 0.0513 or 5.13%. The effective rate always exceeds the force of interest."
+},
+{
+"n": 17,
+"topic": "Reserves and Surrender Values",
+"t": "For an n-year endowment assurance of ₹1 with net annual premiums, the net premium reserve at the end of n years (just before maturity) is:",
+"o": [
+"zero",
+"equal to the net annual premium",
+"equal to 1 (the sum assured)",
+"equal to the total premiums paid"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). The policy must pay the full sum assured on survival to n, so the reserve must have grown to 1 at maturity, i.e. ₙVₓ:ₙ = 1.",
+"r": "key"
+},
+{
+"n": 18,
+"topic": "Theory of Interest",
+"t": "If the effective rate of interest is 10% per annum, the equivalent effective rate of discount d is:",
+"o": [
+"9.09%",
+"10.00%",
+"10.50%",
+"11.11%"
+],
+"a": 0,
+"e": "d = i/(1 + i) = 0.10/1.10 = 0.0909 or 9.09%. Equivalently d = iv."
+},
+{
+"n": 19,
+"topic": "Theory of Interest",
+"t": "A payment of ₹5,000 is due 2 years from now. At 10% per annum effective (v² = 0.8264), its present value is:",
+"o": [
+"₹4,545",
+"₹6,050",
+"₹4,000",
+"₹4,132"
+],
+"a": 3,
+"e": "PV = 5,000 × v² = 5,000 × 0.8264 = ₹4,132."
+},
+{
+"n": 20,
+"topic": "Annuities-Certain",
+"t": "Using v = 0.9091, v² = 0.8264 and v³ = 0.7513 at 10% per annum, the present value of ₹1,000 payable at the end of each year for 3 years is approximately:",
+"o": [
+"₹2,487",
+"₹2,735",
+"₹3,000",
+"₹3,310"
+],
+"a": 0,
+"e": "a₃ = v + v² + v³ = 0.9091 + 0.8264 + 0.7513 = 2.4868, so the PV is 1,000 × 2.4868 ≈ ₹2,487."
+},
+{
+"n": 21,
+"topic": "Annuities-Certain",
+"t": "At 10% per annum, a₃ = 2.4869. The value of the annuity-due ä₃ is:",
+"o": [
+"2.2608",
+"2.4869",
+"2.7356",
+"3.4869"
+],
+"a": 2,
+"e": "ä₃ = (1 + i) a₃ = 1.10 × 2.4869 = 2.7356, because each payment of the annuity-due falls one year earlier."
+},
+{
+"n": 22,
+"topic": "Annuities-Certain",
+"t": "The present value of a perpetuity of ₹1,000 payable at the end of each year, at 8% per annum effective, is:",
+"o": [
+"₹8,000",
+"₹10,000",
+"₹12,500",
+"₹13,500"
+],
+"a": 2,
+"e": "PV of a perpetuity-immediate is 1/i per rupee, so 1,000/0.08 = ₹12,500."
+},
+{
+"n": 23,
+"topic": "Annuities-Certain",
+"t": "A loan of ₹10,000 at 10% per annum is being repaid by level annual instalments of ₹2,500 in arrear. What is the capital outstanding immediately after the first instalment?",
+"o": [
+"₹7,500",
+"₹8,250",
+"₹8,500",
+"₹9,000"
+],
+"a": 2,
+"e": "Interest for the first year is 10,000 × 0.10 = ₹1,000, so the capital repaid is 2,500 − 1,000 = ₹1,500 and the balance is 10,000 − 1,500 = ₹8,500."
+},
+{
+"n": 24,
+"topic": "Annuities-Certain",
+"t": "₹1,000 is deposited at the end of each year for 3 years at 10% per annum compound. The accumulated value immediately after the third deposit is:",
+"o": [
+"₹3,000",
+"₹3,100",
+"₹3,310",
+"₹3,641"
+],
+"a": 2,
+"e": "s₃ = (1.1)² + 1.1 + 1 = 1.21 + 1.10 + 1 = 3.31, so the accumulation is 1,000 × 3.31 = ₹3,310."
+},
+{
+"n": 25,
+"topic": "Probability",
+"t": "Two independent lives each have a one-year survival probability of 0.95. The probability that both survive the year is:",
+"o": [
+"0.9025",
+"0.9500",
+"0.9750",
+"1.9000"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). Under independence the probabilities multiply: 0.95 × 0.95 = 0.9025.",
+"r": "key"
+},
+{
+"n": 26,
+"topic": "Annuities-Certain",
+"t": "The symbol m|aₙ denotes:",
+"o": [
+"an annuity of n payments, the first due at time m + 1",
+"an annuity of m payments, the first due at time n",
+"a perpetuity deferred n years",
+"an annuity-due of n payments starting immediately"
+],
+"a": 0,
+"e": "A deferred annuity m|aₙ postpones an n-year annuity-immediate by m years, so the first payment is at time m + 1 and its value is v^m aₙ."
+},
+{
+"n": 27,
+"topic": "Life Tables and Survival Models",
+"t": "In a life table l₄₀ = 95,000 and l₄₁ = 94,500. The rate of mortality q₄₀ is approximately:",
+"o": [
+"0.00529",
+"0.05000",
+"0.00500",
+"0.00526"
+],
+"a": 3,
+"e": "q₄₀ = d₄₀/l₄₀ = (95,000 − 94,500)/95,000 = 500/95,000 = 0.00526."
+},
+{
+"n": 28,
+"topic": "Life Tables and Survival Models",
+"t": "In life table notation, dₓ represents:",
+"o": [
+"the probability of dying between ages x and x + 1",
+"the expected number of years lived after age x",
+"the number of lives attaining exact age x",
+"the number of deaths between exact ages x and x + 1"
+],
+"a": 3,
+"e": "dₓ = lₓ − lₓ₊₁ is the number of deaths among the lₓ lives between exact ages x and x + 1. The probability of dying is qₓ = dₓ/lₓ."
+},
+{
+"n": 29,
+"topic": "Life Tables and Survival Models",
+"t": "If l₅₀ = 90,000 and l₅₅ = 85,500, the probability that a life aged 50 survives to age 55 is:",
+"o": [
+"0.05",
+"0.90",
+"0.95",
+"0.975"
+],
+"a": 2,
+"e": "₅p₅₀ = l₅₅/l₅₀ = 85,500/90,000 = 0.95."
+},
+{
+"n": 30,
+"topic": "Life Tables and Survival Models",
+"t": "Given l₆₀ = 80,000, l₆₂ = 76,000 and l₆₃ = 73,600, the deferred probability ₂|q₆₀ (dying between ages 62 and 63) is:",
+"o": [
+"0.030",
+"0.032",
+"0.050",
+"0.080"
+],
+"a": 0,
+"e": "₂|q₆₀ = (l₆₂ − l₆₃)/l₆₀ = (76,000 − 73,600)/80,000 = 2,400/80,000 = 0.030."
+},
+{
+"n": 31,
+"topic": "Life Tables and Survival Models",
+"t": "The complete expectation of life e°ₓ is approximately related to the curtate expectation eₓ by:",
+"o": [
+"e°ₓ ≈ eₓ − ½",
+"e°ₓ ≈ eₓ + ½",
+"e°ₓ ≈ 2 eₓ",
+"e°ₓ ≈ eₓ × qₓ"
+],
+"a": 1,
+"e": "The curtate expectation counts only complete years lived; adding about half a year for the fraction of the year of death gives e°ₓ ≈ eₓ + ½."
+},
+{
+"n": 32,
+"topic": "Life Tables and Survival Models",
+"t": "Gompertz's law of mortality states that the force of mortality at age x is:",
+"o": [
+"μₓ = A + Bcˣ",
+"μₓ = Bcˣ",
+"μₓ = A + Bx",
+"μₓ = a constant for all ages"
+],
+"a": 1,
+"e": "Gompertz (1825) assumed μₓ = Bcˣ, increasing geometrically with age. Makeham later added a constant A for accidental deaths, giving μₓ = A + Bcˣ."
+},
+{
+"n": 33,
+"topic": "Life Annuities",
+"t": "The relationship between a whole life annuity-due äₓ and a whole life annuity-immediate aₓ is:",
+"o": [
+"äₓ = aₓ − 1",
+"äₓ = aₓ + 1",
+"äₓ = v aₓ",
+"äₓ = aₓ / (1 + i)"
+],
+"a": 1,
+"e": "The annuity-due includes an extra certain payment of 1 at the outset (time 0), so äₓ = 1 + aₓ."
+},
+{
+"topic": "Insurance Act 1938 – key sections",
+"t": "Under Section 45 of the Insurance Act 1938, a life insurance policy cannot be called in question on any ground after how many years from the date of issue, revival or rider addition, whichever is later?",
+"o": [
+"Two years",
+"Three years",
+"Five years",
+"One year"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). The 2015 amendment made the three-year bar absolute: after three years no policy may be questioned on any ground, including fraud.",
+"r": "core",
+"n": 34
+},
+{
+"n": 35,
+"topic": "Life Annuities",
+"t": "Given commutation functions Dₓ = 1,000 and Nₓ₊₁ = 12,000, the value of the whole life annuity-immediate aₓ is:",
+"o": [
+"11",
+"12",
+"13",
+"0.083"
+],
+"a": 1,
+"e": "aₓ = Nₓ₊₁/Dₓ = 12,000/1,000 = 12."
+},
+{
+"n": 36,
+"topic": "Life Annuities",
+"t": "For a life aged 40, D₄₀ = 2,000, N₄₁ = 30,000 and N₅₁ = 14,000. The value of a 10-year temporary life annuity-immediate a₄₀:₁₀ is:",
+"o": [
+"7",
+"8",
+"15",
+"16"
+],
+"a": 1,
+"e": "a₄₀:₁₀ = (N₄₁ − N₅₁)/D₄₀ = (30,000 − 14,000)/2,000 = 8."
+},
+{
+"n": 37,
+"topic": "Life Annuities",
+"t": "A pension scheme promises ₹1,00,000 per annum for life to a retiree aged 60, first payment immediately. If ä₆₀ = 11.5, the single premium required is:",
+"o": [
+"₹10,50,000",
+"₹11,50,000",
+"₹12,50,000",
+"₹1,15,000"
+],
+"a": 1,
+"e": "Payments in advance for life are valued with the annuity-due: 1,00,000 × ä₆₀ = 1,00,000 × 11.5 = ₹11,50,000."
+},
+{
+"n": 38,
+"topic": "Life Assurances",
+"t": "If Mₓ = 400 and Dₓ = 2,000, the net single premium for a whole life assurance of ₹1 payable at the end of the year of death is:",
+"o": [
+"0.05",
+"0.10",
+"0.20",
+"5.00"
+],
+"a": 2,
+"e": "Aₓ = Mₓ/Dₓ = 400/2,000 = 0.20."
+},
+{
+"n": 39,
+"topic": "Life Assurances",
+"t": "For a life aged 30, D₃₀ = 5,000 and D₅₀ = 2,000. The net single premium for a pure endowment of ₹1 payable at age 50 is:",
+"o": [
+"0.25",
+"0.40",
+"0.60",
+"2.50"
+],
+"a": 1,
+"e": "₂₀E₃₀ = D₅₀/D₃₀ = 2,000/5,000 = 0.40. It is the present value of ₹1 paid only on survival to age 50."
+},
+{
+"n": 40,
+"topic": "Life Assurances",
+"t": "The net single premium for an n-year term assurance is 0.05 and for an n-year pure endowment is 0.40 (both per ₹1). The net single premium for the n-year endowment assurance is:",
+"o": [
+"0.35",
+"0.45",
+"0.50",
+"0.02"
+],
+"a": 1,
+"e": "An endowment assurance pays on death within n years or on survival to n, so Aₓ:ₙ = term + pure endowment = 0.05 + 0.40 = 0.45."
+},
+{
+"n": 41,
+"topic": "Life Assurances",
+"t": "Given d = 0.05 and äₓ = 12, the whole life assurance Aₓ (benefit payable at the end of the year of death) equals:",
+"o": [
+"0.40",
+"0.60",
+"0.65",
+"0.95"
+],
+"a": 0,
+"e": "Using the identity Aₓ = 1 − d äₓ: Aₓ = 1 − 0.05 × 12 = 1 − 0.60 = 0.40."
+},
+{
+"n": 42,
+"topic": "Commutation Functions",
+"t": "The commutation function Dₓ is defined as:",
+"o": [
+"vˣ lₓ",
+"vˣ⁺¹ dₓ",
+"lₓ / vˣ",
+"the sum of lₓ from age x onwards"
+],
+"a": 0,
+"e": "Dₓ = vˣ lₓ discounts the number of lives aged x to time 0; Cₓ = vˣ⁺¹ dₓ is the corresponding death function."
+},
+{
+"n": 43,
+"topic": "Commutation Functions",
+"t": "At a certain age dₓ = 100 and vˣ⁺¹ = 0.5. The commutation function Cₓ equals:",
+"o": [
+"25",
+"50",
+"100",
+"200"
+],
+"a": 1,
+"e": "Cₓ = vˣ⁺¹ dₓ = 0.5 × 100 = 50."
+},
+{
+"n": 44,
+"topic": "Commutation Functions",
+"t": "The commutation function Mₓ is obtained as:",
+"o": [
+"Cₓ + Cₓ₊₁ + Cₓ₊₂ + … to the end of the table",
+"Dₓ + Dₓ₊₁ + … to the end of the table",
+"Nₓ − Nₓ₊₁",
+"vˣ dₓ"
+],
+"a": 0,
+"e": "Mₓ is the sum of the Cₓ values from age x to the end of the table; Nₓ is the corresponding sum of the Dₓ values."
+},
+{
+"topic": "Insurance Act 1938 – key sections",
+"t": "Section 41 of the Insurance Act 1938 prohibits:",
+"o": [
+"Assignment of a life policy",
+"Payment of any rebate of premium or commission as an inducement to buy insurance",
+"Nomination by a minor",
+"Issue of a policy without a medical examination"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). Section 41 bars rebating; contravention attracts a penalty of up to ₹10 lakh.",
+"r": "core",
+"n": 45
+},
+{
+"n": 46,
+"topic": "Premiums",
+"t": "For a whole life assurance of ₹1,000 with level annual premiums payable throughout life, Aₓ = 0.36 and äₓ = 12. The net annual premium is:",
+"o": [
+"₹30",
+"₹33",
+"₹36",
+"₹43.20"
+],
+"a": 0,
+"e": "Pₓ = Aₓ/äₓ = 0.36/12 = 0.03 per ₹1, i.e. ₹30 per ₹1,000 sum assured."
+},
+{
+"n": 47,
+"topic": "Premiums",
+"t": "The net annual premium for a policy is ₹30 per ₹1,000 sum assured. If expenses are 10% of the gross premium every year, the gross annual premium is approximately:",
+"o": [
+"₹27.00",
+"₹33.00",
+"₹33.33",
+"₹40.00"
+],
+"a": 2,
+"e": "G − 0.10 G = 30, so G = 30/0.90 = ₹33.33. Loading on the gross premium itself requires dividing, not simply adding 10%."
+},
+{
+"n": 48,
+"topic": "Premiums",
+"t": "A life aged 40 buys a pure endowment of ₹1,00,000 payable at age 60. If ₂₀E₄₀ = 0.40, the net single premium is:",
+"o": [
+"₹20,000",
+"₹40,000",
+"₹60,000",
+"₹2,50,000"
+],
+"a": 1,
+"e": "Net single premium = 1,00,000 × ₂₀E₄₀ = 1,00,000 × 0.40 = ₹40,000."
+},
+{
+"n": 49,
+"topic": "Reserves and Surrender Values",
+"t": "For a whole life policy at duration t, Aₓ₊ₜ = 0.50, äₓ₊ₜ = 10 and the net annual premium is 0.03 per ₹1. The prospective net premium reserve per ₹1 is:",
+"o": [
+"0.20",
+"0.30",
+"0.47",
+"0.80"
+],
+"a": 0,
+"e": "ₜVₓ = Aₓ₊ₜ − P äₓ₊ₜ = 0.50 − 0.03 × 10 = 0.50 − 0.30 = 0.20."
+},
+{
+"n": 50,
+"topic": "Reserves and Surrender Values",
+"t": "Under the net premium method, the reserve at the moment of issue of a policy (before the first premium) is:",
+"o": [
+"equal to the first premium",
+"equal to the sum assured",
+"zero",
+"negative"
+],
+"a": 2,
+"e": "At issue the EPV of future benefits equals the EPV of future net premiums by the equivalence principle, so the net premium reserve ₀V = 0."
+}
+]

@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Sources of Law",
+"t": "Under the Insurance Act, 1938, the power to make rules rests with the Central Government under Section 114, while the power to make regulations rests with:",
+"o": [
+"the Life Insurance Council",
+"IRDAI under Section 114A",
+"the Reserve Bank of India",
+"the Insurance Advisory Committee"
+],
+"a": 1,
+"e": "Rules and regulations are both forms of delegated legislation; regulations under S.114A are framed by the Authority, laid before Parliament, and cover matters such as policyholder protection, products and intermediaries."
+},
+{
+"n": 2,
+"topic": "Sources of Law",
+"t": "Under Article 13 of the Constitution, a law that is inconsistent with the fundamental rights is:",
+"o": [
+"valid if passed by a two-thirds majority",
+"valid until Parliament repeals it",
+"void to the extent of the inconsistency",
+"void only if the President withholds assent"
+],
+"a": 2,
+"e": "Article 13 makes the Constitution the supreme source of law; pre- and post-Constitution laws inconsistent with Part III are void to that extent, and courts may strike them down."
+},
+{
+"n": 3,
+"topic": "Administration of Justice in India",
+"t": "The Indian Penal Code, 1860 has been replaced with effect from 1 July 2024 by the:",
+"o": [
+"Code of Criminal Procedure, 1973",
+"Bharatiya Sakshya Adhiniyam, 2023",
+"Bharatiya Nagarik Suraksha Sanhita, 2023",
+"Bharatiya Nyaya Sanhita, 2023"
+],
+"a": 3,
+"e": "The three new criminal laws replaced the IPC, CrPC and Evidence Act respectively; insurance fraud and forgery of claim documents are now punishable under the BNS."
+},
+{
+"n": 4,
+"topic": "Administration of Justice in India",
+"t": "In a suit by a nominee on a repudiated life policy, the burden of proving that the life assured suppressed a material fact lies on:",
+"o": [
+"the insurer, which asserts the suppression",
+"the nominee, as the plaintiff",
+"the agent who canvassed the policy",
+"IRDAI"
+],
+"a": 0,
+"e": "He who asserts must prove: the insurer pleading non-disclosure or fraud must establish it with evidence, a position reinforced by Section 45(2) which requires the insurer to communicate its materials."
+},
+{
+"n": 5,
+"topic": "Law of Contract",
+"t": "Under Section 22 of the Indian Contract Act, a contract is NOT voidable merely because:",
+"o": [
+"consent was caused by coercion",
+"one party alone was under a mistake as to a matter of fact",
+"both parties were under a mistake as to an essential fact",
+"consent was caused by fraud"
+],
+"a": 1,
+"e": "A unilateral mistake of fact does not affect the contract; only a bilateral mistake of essential fact (S.20) makes it void, while fraud and coercion make it voidable."
+},
+{
+"n": 6,
+"topic": "Law of Contract",
+"t": "Under Section 4 of the Indian Contract Act, the communication of an acceptance is complete as against the proposer:",
+"o": [
+"when the proposer acknowledges receipt",
+"when it comes to the knowledge of the proposer",
+"when it is put in a course of transmission to him so as to be out of the power of the acceptor",
+"when the acceptor decides to accept"
+],
+"a": 2,
+"e": "Once the letter of acceptance is posted, the proposer is bound; as against the acceptor it is complete only when it reaches the proposer, so the acceptor can revoke before that."
+},
+{
+"n": 7,
+"topic": "Law of Contract",
+"t": "Under Section 2(d) of the Indian Contract Act, consideration must move:",
+"o": [
+"at the desire of the promisor, from the promisee or any other person",
+"only from the promisee",
+"only in the form of money",
+"before the promise is made"
+],
+"a": 0,
+"e": "Indian law permits consideration to move from a third party (unlike English law), provided it is at the promisor's desire; it may be past, present or future."
+},
+{
+"n": 8,
+"topic": "Life Insurance Policies as Property",
+"t": "Under Section 39 of the Insurance Act, 1938, a nomination can be made by:",
+"o": [
+"an assignee of the policy",
+"a creditor who has advanced a loan against the policy",
+"the holder of a policy on his own life",
+"any proposer, even on the life of another"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). Only the holder of a policy of life insurance on his own life may nominate; a nomination does not transfer any interest and is merely an authority to receive the money on death.",
+"r": "key"
+},
+{
+"n": 9,
+"topic": "Life Insurance Contract-I",
+"t": "In life insurance underwriting, 'moral hazard' refers to:",
+"o": [
+"the risk arising from the character, habits or intentions of the proposer, such as taking cover with a view to profit from death",
+"the risk arising from the proposer's medical history",
+"the risk arising from the proposer's occupation",
+"the risk arising from the insurer's investment losses"
+],
+"a": 0,
+"e": "Moral hazard concerns the honesty and motives of the proposer rather than physical factors; insurers guard against it through insurable interest, financial underwriting and the agent's confidential report."
+},
+{
+"n": 10,
+"topic": "Life Insurance Contract-I",
+"t": "In life insurance practice, the risk on the life assured ordinarily commences from the:",
+"o": [
+"date of the medical examination",
+"date of receipt of the first premium after acceptance of the proposal, as shown in the first premium receipt",
+"date of signing the proposal form",
+"date the policy bond is dispatched"
+],
+"a": 1,
+"e": "The insurer assumes risk only after acceptance and receipt of premium (S.64VB); the first premium receipt records the date of commencement of risk, which may be backdated within limits."
+},
+{
+"n": 11,
+"topic": "Life Insurance Contract-II",
+"t": "Which of the following events does NOT restart the three-year period under Section 45 of the Insurance Act?",
+"o": [
+"Revival of a lapsed policy",
+"Addition of a rider to the policy",
+"Change of nomination under the policy",
+"Issuance of the policy"
+],
+"a": 2,
+"e": "Section 45 counts from the date of issuance, commencement of risk, revival or rider addition, whichever is later; a nomination or its change does not alter the contract or restart the period."
+},
+{
+"n": 12,
+"topic": "Life Insurance Contract-II",
+"t": "Where a policy that has been revived provides a suicide clause of 12 months, the exclusion period is reckoned from:",
+"o": [
+"the original date of commencement only",
+"the date of the last premium paid",
+"the date of nomination",
+"the date of revival as well as the original date of commencement"
+],
+"a": 3,
+"e": "The suicide clause applies afresh for 12 months from the date of revival, since revival is a fresh acceptance of risk; death by suicide within that period attracts the limited benefit."
+},
+{
+"n": 13,
+"topic": "Life Insurance Contract-II",
+"t": "Four years after a policy was issued, the insurer obtains conclusive proof that the life assured had fraudulently suppressed a terminal illness at proposal. On a death claim now, the insurer:",
+"o": [
+"must pay the claim, as no policy can be called in question on any ground after three years",
+"can pay only the premiums paid",
+"can repudiate after obtaining IRDAI approval",
+"can repudiate, as fraud has no time limit"
+],
+"a": 0,
+"e": "The 2015 amendment made the three-year limit absolute, even for fraud; the insurer's remedy is to detect such cases within three years."
+},
+{
+"n": 14,
+"topic": "Life Insurance Contract-II",
+"t": "A 16-year participating endowment policy with sum assured ₹4,00,000 lapsed after four annual premiums, with vested bonuses of ₹30,000. The total paid-up value payable at maturity is:",
+"o": [
+"₹1,00,000",
+"₹1,30,000",
+"₹1,60,000",
+"₹4,30,000"
+],
+"a": 1,
+"e": "Paid-up sum assured = 4,00,000 × 4/16 = ₹1,00,000; the bonuses already vested (₹30,000) remain attached, giving ₹1,30,000, with no future bonuses."
+},
+{
+"n": 15,
+"topic": "Group Life and Other Insurance Schemes",
+"t": "The Employees' Provident Funds and Miscellaneous Provisions Act, 1952 applies to every establishment employing:",
+"o": [
+"50 or more persons",
+"10 or more persons",
+"20 or more persons",
+"100 or more persons"
+],
+"a": 2,
+"e": "The Act (and with it the EDLI scheme) applies to notified establishments with 20 or more employees, and continues to apply even if the number later falls below 20."
+},
+{
+"n": 16,
+"topic": "Group Life and Other Insurance Schemes",
+"t": "Under IRDAI's guidelines on group insurance, which of the following is NOT permitted?",
+"o": [
+"Covering employees of an employer under a master policy",
+"Issuing certificates of insurance to members",
+"Collection of premium by the master policyholder from members",
+"Forming a group solely for the purpose of availing insurance"
+],
+"a": 3,
+"e": "A group must have a commonality of purpose other than insurance (employer-employee, bank customers, members of an association); groups formed only to buy insurance are not recognised."
+},
+{
+"n": 17,
+"topic": "Group Life and Other Insurance Schemes",
+"t": "An employee with last drawn wages of ₹30,000 per month resigns after 7 years and 2 months of continuous service. The gratuity payable under the Payment of Gratuity Act, 1972 is approximately:",
+"o": [
+"₹1,05,000",
+"₹1,21,154",
+"₹1,38,462",
+"₹2,10,000"
+],
+"a": 1,
+"e": "Gratuity = 30,000 × 15/26 × 7 = ₹1,21,154 (rounded); two months beyond seven years is less than six months and is not rounded up to a full year."
+},
+{
+"n": 18,
+"topic": "Life Insurance Policies as Property",
+"t": "Where a policyholder nominates a minor, Section 39 provides that he may:",
+"o": [
+"not nominate a minor at all",
+"appoint any person (an 'appointee') to receive the money on behalf of the minor during minority",
+"nominate only through a court order",
+"nominate the minor only up to ₹1 lakh"
+],
+"a": 1,
+"e": "An appointee ensures that a valid discharge can be given if the policyholder dies while the nominee is a minor; without one, the insurer pays the minor's guardian."
+},
+{
+"n": 19,
+"topic": "Life Insurance Policies as Property",
+"t": "Under Section 6 of the Married Women's Property Act, 1874, where no trustee is appointed for the policy, the policy money vests in:",
+"o": [
+"the insurer",
+"the husband's legal heirs",
+"the Official Trustee of the State in which the insurer's office is situated",
+"the Life Insurance Council"
+],
+"a": 2,
+"e": "The Act provides that in the absence of a named trustee, a trustee appointed by the court or the Official Trustee holds the proceeds for the wife and children."
+},
+{
+"n": 20,
+"topic": "Claim Settlements",
+"t": "Under the IRDAI Master Circular on Life Insurance (2024), a death claim that does not require any investigation must be settled within:",
+"o": [
+"90 days from date of intimation",
+"15 days from receipt of all necessary documents",
+"30 days from receipt of all necessary documents",
+"45 days from receipt of all necessary documents"
+],
+"a": 1,
+"e": "★ Key fact (repeated across the mocks of this paper). The timeline is 15 days where no investigation is required and 45 days where investigation is warranted; interest is payable for delay beyond these limits.",
+"r": "key"
+},
+{
+"n": 21,
+"topic": "Life Insurance Policies as Property",
+"t": "A policyholder nominates his wife and two sons without specifying their shares. On his death the policy money is:",
+"o": [
+"paid wholly to the wife",
+"paid wholly to the elder son",
+"withheld until the nominees agree on shares",
+"paid to the nominees in equal shares"
+],
+"a": 3,
+"e": "Where several nominees are named without shares, insurers pay them jointly or in equal shares; the policyholder can avoid disputes by stating the percentage share of each nominee."
+},
+{
+"n": 22,
+"topic": "Life Insurance Policies as Property",
+"t": "Letters of administration under the Indian Succession Act, 1925 are granted by the court where:",
+"o": [
+"the deceased died intestate or without appointing an executor",
+"the deceased left a will naming an executor",
+"the policy carries a nomination",
+"the sum assured is below ₹1 lakh"
+],
+"a": 0,
+"e": "Probate is granted to an executor named in a will; letters of administration are issued to an administrator where there is no will or no executor, enabling him to collect the estate including policy money."
+},
+{
+"n": 23,
+"topic": "Rights under Life Insurance Policies",
+"t": "If the outstanding loan on a policy together with accrued interest exceeds its surrender value, the insurer may:",
+"o": [
+"cancel the nomination",
+"foreclose the policy after giving notice to the policyholder",
+"recover the shortfall from the nominee",
+"continue the policy without any action"
+],
+"a": 1,
+"e": "Policy loans are secured only by the surrender value; once the debt exceeds it the security is exhausted and the insurer may foreclose, paying any balance to the policyholder."
+},
+{
+"n": 24,
+"topic": "Rights under Life Insurance Policies",
+"t": "The surrender value payable under a non-linked policy is:",
+"o": [
+"always equal to the premiums paid",
+"the guaranteed surrender value only",
+"the higher of the guaranteed surrender value and the special surrender value",
+"the paid-up value plus accrued interest"
+],
+"a": 2,
+"e": "Guaranteed surrender value is the statutory minimum; insurers also compute a special surrender value based on the paid-up value, and the policyholder receives whichever is higher."
+},
+{
+"n": 25,
+"topic": "Rights under Life Insurance Policies",
+"t": "A policyholder whose policy lapsed six years ago, after it had acquired surrender value, approaches the insurer for revival. The insurer:",
+"o": [
+"must revive it on payment of arrears with interest",
+"must refund all premiums with interest",
+"can revive it only with IRDAI permission",
+"cannot revive the policy as the five-year revival period has expired, but the paid-up or surrender value remains available"
+],
+"a": 3,
+"e": "Revival is possible only within the revival period (five years under the 2024 product regulations); thereafter the policyholder is left with the paid-up value or can surrender for the surrender value."
+},
+{
+"n": 26,
+"topic": "Tax Laws",
+"t": "A unit-linked policy issued in March 2022 carries an annual premium of ₹3,00,000. On maturity, the proceeds will be:",
+"o": [
+"exempt because the policy was issued before 2023",
+"fully exempt under Section 10(10D)",
+"taxable, as the annual premium exceeds ₹2,50,000",
+"taxable only to the extent of 10% of the premium"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). For ULIPs issued on or after 1 February 2021 with aggregate annual premium above ₹2.5 lakh, the exemption under S.10(10D) is withdrawn and gains are taxed as capital gains; death benefit remains exempt.",
+"r": "key"
+},
+{
+"n": 27,
+"topic": "Claim Settlements",
+"t": "For an early death claim, in addition to the death certificate, the insurer usually calls for:",
+"o": [
+"the claimant's statement, hospital treatment certificate and employer's certificate of leave",
+"a succession certificate only",
+"a certificate from the agent only",
+"the policyholder's income-tax returns for five years"
+],
+"a": 0,
+"e": "These documents help verify the cause and circumstances of death and whether any illness pre-dated the proposal, which is relevant under Section 45."
+},
+{
+"n": 28,
+"topic": "Claim Settlements",
+"t": "A life assured dies while working in the Gulf. For proof of death, the insurer would normally accept:",
+"o": [
+"a newspaper report of the death",
+"a statement from the employer abroad alone",
+"the death certificate issued by the foreign authority, duly attested by the Indian Embassy or Consulate",
+"only a certificate issued by an Indian municipality"
+],
+"a": 2,
+"e": "Foreign death certificates are accepted after attestation by the Indian mission, with translation where needed; the body's repatriation papers may also be examined."
+},
+{
+"n": 29,
+"topic": "Claim Settlements",
+"t": "On death, a policy carries sum assured of ₹8,00,000 and vested bonus of ₹1,20,000. A policy loan of ₹2,00,000 with accrued interest of ₹20,000 is outstanding. The amount payable to the nominee is:",
+"o": [
+"₹5,80,000",
+"₹6,00,000",
+"₹7,00,000",
+"₹9,20,000"
+],
+"a": 2,
+"e": "Claim = 8,00,000 + 1,20,000 − (2,00,000 + 20,000) = ₹7,00,000; the outstanding loan and interest are deducted from the claim proceeds."
+},
+{
+"n": 30,
+"topic": "Tax Laws",
+"t": "For a policy issued on or after 1 April 2013 on the life of a person with disability under Section 80U or a specified disease under Section 80DDB, the premium deductible under Section 80C is limited to:",
+"o": [
+"15% of the actual capital sum assured",
+"10% of the actual capital sum assured",
+"25% of the actual capital sum assured",
+"20% of the actual capital sum assured"
+],
+"a": 0,
+"e": "A higher limit of 15% applies to such persons, against 10% for other policies issued after 1 April 2012; the same thresholds govern exemption under Section 10(10D)."
+},
+{
+"n": 31,
+"topic": "Tax Laws",
+"t": "A policy that does not qualify under Section 10(10D) matures for ₹6,00,000, the total premiums paid being ₹4,50,000. Under Section 194DA (rate 2%) the tax deducted at source is:",
+"o": [
+"₹3,000",
+"₹9,000",
+"₹12,000",
+"₹30,000"
+],
+"a": 0,
+"e": "TDS is on the income component only: (6,00,000 − 4,50,000) × 2% = ₹3,000, since the aggregate payout is ₹1 lakh or more."
+},
+{
+"n": 32,
+"topic": "Tax Laws",
+"t": "The annuity received by an individual from a pension plan of an insurer is:",
+"o": [
+"exempt up to ₹1.5 lakh per year",
+"fully exempt under Section 10(10D)",
+"taxable as income in the year of receipt",
+"taxable only if it exceeds ₹5 lakh per year"
+],
+"a": 2,
+"e": "While contributions attract deduction under S.80CCC, the pension received is taxable; only the commuted portion enjoys exemption under S.10(10A) to the prescribed extent."
+},
+{
+"n": 33,
+"topic": "Insurance Intermediaries",
+"t": "The minimum capital required for registration as a direct insurance broker is:",
+"o": [
+"₹5 crore",
+"₹4 crore",
+"₹1 crore",
+"₹75 lakh"
+],
+"a": 3,
+"e": "Direct brokers need ₹75 lakh, reinsurance brokers ₹4 crore and composite brokers ₹5 crore under the broker regulations."
+},
+{
+"topic": "Motor – statutory",
+"t": "Third-party insurance is compulsory for a motor vehicle used in a public place under which section of the Motor Vehicles Act 1988?",
+"o": [
+"Section 140",
+"Section 146",
+"Section 163A",
+"Section 166"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). Section 146 makes TP cover compulsory; Section 164 fixes no-fault compensation (₹5 lakh death / ₹2.5 lakh grievous hurt).",
+"r": "core",
+"n": 34
+},
+{
+"n": 35,
+"topic": "Insurance Intermediaries",
+"t": "Under the IRDAI (Payment of Commission) Regulations, 2023, commission payable to agents and intermediaries is:",
+"o": [
+"governed by the insurer's board-approved policy within the overall limits on expenses of management",
+"fixed by the Life Insurance Council",
+"prohibited on renewal premiums",
+"capped at 35% of first-year premium for every product by regulation"
+],
+"a": 0,
+"e": "The 2023 regulations removed product-wise commission caps and linked commission to the insurer's expenses-of-management limits, with a board-approved policy."
+},
+{
+"n": 36,
+"topic": "Insurance Intermediaries",
+"t": "An agent of one life insurer wishes to also solicit business for another life insurer. Under IRDAI regulations he:",
+"o": [
+"may do so if his annual premium income exceeds ₹10 lakh",
+"must first surrender his existing agency, since an agent cannot represent two life insurers",
+"may do so after informing both insurers",
+"may do so with IRDAI's permission"
+],
+"a": 1,
+"e": "An individual can hold only one life, one general, one health and one each of mono-line agencies; a second life agency requires surrender of the first, with a no-objection certificate."
+},
+{
+"n": 37,
+"topic": "Legal Status of Individuals",
+"t": "Under the Indian Trusts Act, 1882, a trustee who holds a life policy in trust:",
+"o": [
+"becomes the absolute owner of the policy",
+"must be a bank or financial institution",
+"holds it for the benefit of the beneficiaries and must deal with it according to the trust",
+"cannot give a discharge for the policy money"
+],
+"a": 2,
+"e": "Trustees hold legal title but are bound to apply the proceeds for the beneficiaries; MWP Act policies and group gratuity trusts are common examples in life insurance."
+},
+{
+"n": 38,
+"topic": "Legal Status of Individuals",
+"t": "An 'alien enemy' (a citizen of a country at war with India) is:",
+"o": [
+"competent to contract only through an agent",
+"treated like any other foreigner",
+"competent to contract if above 18 years",
+"disqualified from contracting with an Indian insurer during the war, unless permitted by the Government"
+],
+"a": 3,
+"e": "Section 11 excludes persons disqualified by any law; an alien enemy cannot enter into or enforce contracts in India while the hostilities continue, and existing contracts are suspended."
+},
+{
+"n": 39,
+"topic": "Nationalisation of Life Insurance",
+"t": "On nationalisation in 1956, the Life Insurance Corporation of India took over the life business of how many Indian and foreign insurers and provident societies in all?",
+"o": [
+"245",
+"154",
+"107",
+"16"
+],
+"a": 0,
+"e": "LIC absorbed 245 entities: 154 Indian insurers, 16 foreign insurers and 75 provident societies; 107 is the number of general insurers nationalised in 1972."
+},
+{
+"n": 40,
+"topic": "Nationalisation of Life Insurance",
+"t": "By the General Insurance Business (Nationalisation) Amendment Act, 2002, the four subsidiaries of GIC were:",
+"o": [
+"privatised and sold to foreign insurers",
+"delinked from GIC, which became the Indian reinsurer",
+"transferred to LIC",
+"merged into a single company"
+],
+"a": 1,
+"e": "National, New India, Oriental and United India became independent companies owned by the Government, and GIC Re was designated the national reinsurer."
+},
+{
+"n": 41,
+"topic": "Protection of Interest of Consumers",
+"t": "The Right to Information Act, 2005 applies to the Life Insurance Corporation of India and IRDAI because they are:",
+"o": [
+"listed companies",
+"consumer organisations",
+"public authorities established or controlled by the Government",
+"members of the Life Insurance Council"
+],
+"a": 2,
+"e": "Bodies constituted under a statute or substantially financed by Government are public authorities under S.2(h); policyholders use RTI to obtain information such as the status of their claims."
+},
+{
+"n": 42,
+"topic": "Protection of Interest of Consumers",
+"t": "The Insurance Ombudsman scheme is administered by the:",
+"o": [
+"Insurance Institute of India",
+"Life Insurance Council",
+"Central Consumer Protection Authority",
+"Council for Insurance Ombudsmen (formerly the Executive Council of Insurers)"
+],
+"a": 3,
+"e": "The Council for Insurance Ombudsmen, constituted under the 2017 Rules, appoints Ombudsmen, provides infrastructure and reviews their functioning."
+},
+{
+"n": 43,
+"topic": "Protection of Interest of Consumers",
+"t": "A dispute over a repudiated life claim valued at ₹2.5 crore under the Consumer Protection Act, 2019 lies before the:",
+"o": [
+"National Commission",
+"State Commission",
+"District Commission",
+"Insurance Ombudsman"
+],
+"a": 0,
+"e": "The National Commission has original jurisdiction where the value of consideration exceeds ₹2 crore under the 2021 rules."
+},
+{
+"n": 44,
+"topic": "Protection of Interest of Consumers",
+"t": "The Central Consumer Protection Authority (CCPA) established under the Consumer Protection Act, 2019 has the power to:",
+"o": [
+"adjudicate individual consumer complaints against insurers",
+"investigate unfair trade practices and misleading advertisements and order recalls or refunds, including through class action",
+"regulate insurance premium rates",
+"appoint Insurance Ombudsmen"
+],
+"a": 1,
+"e": "The CCPA is a regulator protecting consumers as a class, distinct from the three-tier commissions that decide individual complaints."
+},
+{
+"topic": "Fire – standard products",
+"t": "Since 1 April 2021, the standard fire policy for a dwelling in India is:",
+"o": [
+"Standard Fire and Special Perils Policy",
+"Bharat Griha Raksha",
+"Bharat Sookshma Udyam Suraksha",
+"Householder's Package Policy"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). Bharat Griha Raksha for homes; Bharat Sookshma Udyam Suraksha (up to ₹5 crore) and Bharat Laghu Udyam Suraksha (₹5–50 crore) for enterprises.",
+"r": "core",
+"n": 45
+},
+{
+"n": 46,
+"topic": "Life Insurance Legislation",
+"t": "Under Section 2(7A) of the Insurance Act, 1938, an 'Indian insurance company' is a company:",
+"o": [
+"registered with the Reserve Bank of India",
+"having at least 100 branches in India",
+"formed and registered under the Companies Act, in which the aggregate foreign holding does not exceed the prescribed limit, carrying on only life, general, health or reinsurance business",
+"wholly owned by the Central Government"
+],
+"a": 2,
+"e": "The definition limits foreign shareholding (now 74%) and restricts the company to insurance business; only such a company can obtain registration under Section 3."
+},
+{
+"n": 47,
+"topic": "Life Insurance Legislation",
+"t": "Section 14 of the Insurance Act, 1938 requires every insurer to maintain:",
+"o": [
+"a register of shareholders only",
+"a register of IRDAI circulars",
+"a register of agents' deposits",
+"a register of policies and a register of claims"
+],
+"a": 3,
+"e": "The register of policies records the name of the policyholder, date, sum assured and any assignment or nomination; the register of claims records intimations, settlements and reasons for rejection."
+},
+{
+"n": 48,
+"topic": "Life Insurance Legislation",
+"t": "Which of the following statements about the history of insurance legislation in India is INCORRECT?",
+"o": [
+"The Insurance Act, 1938 established the Insurance Regulatory and Development Authority",
+"The Insurance Act, 1938 created the office of the Controller of Insurance",
+"The Indian Insurance Companies Act, 1928 enabled collection of statistical information on insurers",
+"The Life Assurance Companies Act, 1912 was the first legislation to regulate life insurance in India"
+],
+"a": 0,
+"e": "The 1938 Act set up the Controller of Insurance; IRDAI was created only by the IRDA Act, 1999 following the Malhotra Committee's recommendations."
+},
+{
+"n": 49,
+"topic": "Insurance Regulatory and Development Authority Act, 1999",
+"t": "Under Section 18 of the IRDA Act, 1999, the Authority is bound by:",
+"o": [
+"resolutions of the Life Insurance Council",
+"directions on questions of policy issued in writing by the Central Government",
+"recommendations of the Insurance Advisory Committee",
+"orders of the Insurance Ombudsman"
+],
+"a": 1,
+"e": "The Authority must follow written directions of the Central Government on policy matters, after being given an opportunity to express its views; the Government's decision on what is a question of policy is final."
+},
+{
+"n": 50,
+"topic": "Insurance Regulatory and Development Authority Act, 1999",
+"t": "Regulations made by IRDAI under Section 26 of the IRDA Act, 1999 must be:",
+"o": [
+"ratified by the State legislatures",
+"published only on the IRDAI website",
+"made in consultation with the Insurance Advisory Committee and laid before each House of Parliament",
+"approved by the Supreme Court"
+],
+"a": 2,
+"e": "Section 26 requires consultation with the Advisory Committee and Section 27 requires the rules and regulations to be laid before Parliament, which may modify or annul them."
+}
+]
