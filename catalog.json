@@ -1,0 +1,334 @@
+{
+ "days": 90,
+ "packs": [
+  {
+   "id": "licentiate",
+   "name": "Licentiate pack",
+   "price": 999,
+   "level": "Licentiate",
+   "ready": true,
+   "desc": "IC-01 Principles · IC-02 / IC-11 Practice · IC-14 Regulation — all four papers, 20 mocks"
+  },
+  {
+   "id": "ic38",
+   "name": "IC-38 Agent exam",
+   "price": 799,
+   "level": "IC-38",
+   "ready": false,
+   "desc": "Agent pre-recruitment syllabus"
+  }
+ ],
+ "subjects": [
+  {
+   "id": "IC01",
+   "code": "IC-01",
+   "name": "Principles of Insurance",
+   "level": "Licentiate",
+   "pack": "licentiate",
+   "ready": true
+  },
+  {
+   "id": "IC14",
+   "code": "IC-14",
+   "name": "Regulation of Insurance Business",
+   "level": "Licentiate",
+   "pack": "licentiate",
+   "ready": true
+  },
+  {
+   "id": "IC02",
+   "code": "IC-02",
+   "name": "Practice of Life Insurance",
+   "level": "Licentiate",
+   "pack": "licentiate",
+   "ready": true
+  },
+  {
+   "id": "IC11",
+   "code": "IC-11",
+   "name": "Practice of General Insurance",
+   "level": "Licentiate",
+   "pack": "licentiate",
+   "ready": true
+  },
+  {
+   "id": "IC22",
+   "code": "IC-22",
+   "name": "Life Insurance Underwriting",
+   "level": "Associateship",
+   "group": "Core (choose one)",
+   "price": 499,
+   "ready": true
+  },
+  {
+   "id": "IC45",
+   "code": "IC-45",
+   "name": "General Insurance Underwriting",
+   "level": "Associateship",
+   "group": "Core (choose one)",
+   "price": 499,
+   "ready": true
+  },
+  {
+   "id": "IC26",
+   "code": "IC-26",
+   "name": "Life Insurance Finance",
+   "level": "Associateship",
+   "group": "Core (choose one)",
+   "price": 499,
+   "ready": true
+  },
+  {
+   "id": "IC46",
+   "code": "IC-46",
+   "name": "GI Accounts Preparation & Regulation of Investment",
+   "level": "Associateship",
+   "group": "Core (choose one)",
+   "price": 499,
+   "ready": true
+  },
+  {
+   "id": "IC24",
+   "code": "IC-24",
+   "name": "Legal Aspects of Life Assurance",
+   "level": "Associateship",
+   "group": "Optional · Life",
+   "price": 499,
+   "ready": true
+  },
+  {
+   "id": "IC83",
+   "code": "IC-83",
+   "name": "Group Insurance & Retirement Benefit Schemes",
+   "level": "Associateship",
+   "group": "Optional · Life",
+   "price": 499,
+   "ready": true
+  },
+  {
+   "id": "IC102",
+   "code": "IC-102",
+   "name": "Insurance Business Ecosystem",
+   "level": "Associateship",
+   "group": "Optional · Life",
+   "price": 499,
+   "ready": true
+  },
+  {
+   "id": "IC103",
+   "code": "IC-103",
+   "name": "Distribution Channels Management in Insurance",
+   "level": "Associateship",
+   "group": "Optional · Life",
+   "price": 499,
+   "ready": true
+  },
+  {
+   "id": "IC104",
+   "code": "IC-104",
+   "name": "Products of Life Insurance",
+   "level": "Associateship",
+   "group": "Optional · Life",
+   "price": 499,
+   "ready": true
+  },
+  {
+   "id": "IC57",
+   "code": "IC-57",
+   "name": "Fire & Consequential Loss Insurance",
+   "level": "Associateship",
+   "group": "Optional · Non-Life",
+   "price": 499,
+   "ready": true
+  },
+  {
+   "id": "IC67",
+   "code": "IC-67",
+   "name": "Marine Insurance",
+   "level": "Associateship",
+   "group": "Optional · Non-Life",
+   "price": 499,
+   "ready": true
+  },
+  {
+   "id": "IC71",
+   "code": "IC-71",
+   "name": "Agriculture Insurance",
+   "level": "Associateship",
+   "group": "Optional · Non-Life",
+   "price": 499,
+   "ready": true
+  },
+  {
+   "id": "IC72",
+   "code": "IC-72",
+   "name": "Motor Insurance",
+   "level": "Associateship",
+   "group": "Optional · Non-Life",
+   "price": 499,
+   "ready": true
+  },
+  {
+   "id": "IC74",
+   "code": "IC-74",
+   "name": "Liability Insurance",
+   "level": "Associateship",
+   "group": "Optional · Non-Life",
+   "price": 499,
+   "ready": true
+  },
+  {
+   "id": "IC76",
+   "code": "IC-76",
+   "name": "Aviation Insurance",
+   "level": "Associateship",
+   "group": "Optional · Non-Life",
+   "price": 499,
+   "ready": true
+  },
+  {
+   "id": "IC77",
+   "code": "IC-77",
+   "name": "Engineering Insurance",
+   "level": "Associateship",
+   "group": "Optional · Non-Life",
+   "price": 499,
+   "ready": true
+  },
+  {
+   "id": "IC78",
+   "code": "IC-78",
+   "name": "Miscellaneous Insurance",
+   "level": "Associateship",
+   "group": "Optional · Non-Life",
+   "price": 499,
+   "ready": true
+  },
+  {
+   "id": "IC27",
+   "code": "IC-27",
+   "name": "Health Insurance",
+   "level": "Associateship",
+   "group": "Optional · Common",
+   "price": 499,
+   "ready": true
+  },
+  {
+   "id": "IC29",
+   "code": "IC-29",
+   "name": "General Insurance Claims",
+   "level": "Associateship",
+   "group": "Optional · Common",
+   "price": 499,
+   "ready": true
+  },
+  {
+   "id": "IC39",
+   "code": "IC-39",
+   "name": "Fraud Risk Management in Insurance",
+   "level": "Associateship",
+   "group": "Optional · Common",
+   "price": 499,
+   "ready": true
+  },
+  {
+   "id": "IC88",
+   "code": "IC-88",
+   "name": "Marketing & Public Relations",
+   "level": "Associateship",
+   "group": "Optional · Common",
+   "price": 499,
+   "ready": true
+  },
+  {
+   "id": "IC90",
+   "code": "IC-90",
+   "name": "Human Resources Management",
+   "level": "Associateship",
+   "group": "Optional · Common",
+   "price": 499,
+   "ready": true
+  },
+  {
+   "id": "IC99",
+   "code": "IC-99",
+   "name": "Asset Management",
+   "level": "Associateship",
+   "group": "Optional · Common",
+   "price": 499,
+   "ready": true
+  },
+  {
+   "id": "IC85",
+   "code": "IC-85",
+   "name": "Reinsurance Management",
+   "level": "Fellowship",
+   "group": "40-credit papers",
+   "price": 699,
+   "ready": true
+  },
+  {
+   "id": "IC86",
+   "code": "IC-86",
+   "name": "Risk Management",
+   "level": "Fellowship",
+   "group": "40-credit papers",
+   "price": 699,
+   "ready": true
+  },
+  {
+   "id": "IC89",
+   "code": "IC-89",
+   "name": "Management Accounting",
+   "level": "Fellowship",
+   "group": "40-credit papers",
+   "price": 699,
+   "ready": true
+  },
+  {
+   "id": "IC28",
+   "code": "IC-28",
+   "name": "Foundation of Actuarial Science",
+   "level": "Fellowship",
+   "group": "Actuarial (compulsory – choose one)",
+   "price": 699,
+   "ready": true
+  },
+  {
+   "id": "IC47",
+   "code": "IC-47",
+   "name": "Foundation of Casualty Actuarial Science – Part I",
+   "level": "Fellowship",
+   "group": "Actuarial (compulsory – choose one)",
+   "price": 699,
+   "ready": true
+  },
+  {
+   "id": "IC81",
+   "code": "IC-81",
+   "name": "Mathematical Basis of Life Assurance",
+   "level": "Fellowship",
+   "group": "Actuarial (compulsory – choose one)",
+   "price": 699,
+   "ready": true
+  },
+  {
+   "id": "IC84",
+   "code": "IC-84",
+   "name": "Foundation of Casualty Actuarial Science – Part II",
+   "level": "Fellowship",
+   "group": "Actuarial (compulsory – choose one)",
+   "price": 699,
+   "ready": true
+  },
+  {
+   "id": "IC92",
+   "code": "IC-92",
+   "name": "Actuarial Aspects of Product Development",
+   "level": "Fellowship",
+   "group": "Actuarial (compulsory – choose one)",
+   "price": 699,
+   "ready": true
+  }
+ ]
+}

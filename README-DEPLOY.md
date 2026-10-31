@@ -48,5 +48,12 @@ Domain: move `bimaprep.in` from the old drag-and-drop project to `bimaprep-app` 
    account page shows the pack and the mocks unlock.
 4. Instant-unlock path: Admin → Coupons → `TEST100`, percent, 100 → Buy with that coupon.
 
+## Catalogue (packs, subjects, prices, what is on sale)
+`catalog.json` at the site root is the single source of truth for both the page and the server functions:
+Licentiate pack, IC-38 pack, and every Associateship/Fellowship paper with its price and `"ready"` flag.
+To put a subject on sale: upload its five files `bank/<ID>_m1..m5.json`, set `"ready": true` for that
+subject in `catalog.json`, commit. Until then it shows "Coming soon · Notify me" and cannot be bought
+(admin can still grant access). Prices: change the number in `catalog.json`; no code change needed.
+
 ## Updating the site later
 Edit files on github.com (pencil icon) or upload new versions. Question bank: replace files in `bank/`.
