@@ -31,7 +31,8 @@ exports.handler = async (event) => {
       return L.json(200, { ok: true });
     }
     if (a === 'orders') {
-      const { data } = await sb.from('orders').select('*, profiles(email,name)').neq('status', 'created').order('created_at', { ascending: false }).limit(300);
+      const { data, error } = await sb.from('orders').select('*, profiles!orders_user_id_fkey(email,name)').neq('status', 'created').order('created_at', { ascending: false }).limit(300);
+      if (error) return L.bad('Orders query failed: ' + error.message, 500);
       const orders = data || [];
       const paths = orders.filter(o => o.proof_path).map(o => o.proof_path);
       let urls = {};
