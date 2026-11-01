@@ -2,12 +2,11 @@
 const { createClient } = require('@supabase/supabase-js');
 const crypto = require('crypto');
 
-const PACKS = {
-  licentiate: { name: 'Licentiate pack', price: 999, days: 90 },
-  associate:  { name: 'Associateship pack', price: 1999, days: 90 },
-  fellowship: { name: 'Fellowship pack', price: 2999, days: 90 },
-  ic38:       { name: 'IC-38 Agent exam', price: 799, days: 90 },
-};
+// Catalogue is the single source of truth (site root catalog.json): bundles + per-subject packs
+const CATALOG = require('../../catalog.json');
+const PACKS = {};
+for (const p of CATALOG.packs) PACKS[p.id] = { name: p.name, price: p.price, days: CATALOG.days, ready: !!p.ready };
+for (const s of CATALOG.subjects) if (!s.pack) PACKS[s.id] = { name: `${s.code} ${s.name}`, price: s.price, days: CATALOG.days, ready: !!s.ready };
 
 function env(name, required = true) {
   const v = process.env[name];

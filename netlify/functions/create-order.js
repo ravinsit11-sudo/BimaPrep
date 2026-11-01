@@ -8,6 +8,7 @@ exports.handler = async (event) => {
   const user = await L.userFromRequest(event); if (!user) return L.bad('Sign in first', 401);
   const { pack, coupon, preview } = L.parse(event);
   const p = L.PACKS[pack]; if (!p) return L.bad('Unknown pack');
+  if (!p.ready) return L.bad('This paper is not open for purchase yet. Click Notify me and we will email you when it launches.');
   const sb = L.admin();
   const { data: active } = await sb.from('active_entitlements').select('id,expires_at').eq('user_id', user.id).eq('pack', pack);
   if (active && active.length) return L.bad('You already have this pack. It expires on ' + (active[0].expires_at ? new Date(active[0].expires_at).toDateString() : 'never'));
@@ -29,5 +30,5 @@ exports.handler = async (event) => {
   const ref = L.reference(order.id);
   const upiName = process.env.UPI_NAME || 'BimaPrep';
   const link = `upi://pay?pa=${encodeURIComponent(upiId)}&pn=${encodeURIComponent(upiName)}&am=${final}&cu=INR&tn=${encodeURIComponent(ref + ' ' + pack)}`;
-  return L.json(200, { free: false, orderId: order.id, amount: final, discount: c.discount, pack: p.name, reference: ref, upiId, upiName, upiLink: link });
+  return L.json(200, { free: false, orderId: order.id, amount: final, discount: c.discount, pack: p.name, reference: ref, upiName, upiLink: link });
 };
