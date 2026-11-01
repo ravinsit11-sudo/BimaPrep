@@ -1,657 +1,703 @@
 [
 {
 "n": 1,
-"topic": "Fundamentals of Accounting",
-"t": "Under the double-entry system of book-keeping, every transaction affects:",
+"topic": "GI Accounts & Regulation of Investment",
+"t": "The bank statement shows a balance of Rs.4,000. A cheque of Rs. 1,000, drawn in favour of a creditor has not yet been presented for payment.  Calculate the bank balance after the creditor presents the cheque for payment.",
 "o": [
-"Only one account, which is debited",
-"Only the cash account and one other account",
-"At least two accounts, with equal debit and credit",
-"Two accounts, both of which are debited"
+"Rs. 5,000 overdraft",
+"Rs. 3,000 overdraft",
+"Rs.5,000",
+"Rs.3,000",
+"Rs.4,000 overdraft"
 ],
-"a": 2,
-"e": "Double entry records the dual aspect of each transaction: total debits always equal total credits, which is what makes the trial balance agree."
+"a": 3,
+"e": "Correct answer: Rs.3,000 (from the IC46 question bank)."
 },
 {
 "n": 2,
-"topic": "Fundamentals of Accounting",
-"t": "The accounting convention that requires anticipated losses to be provided for but anticipated profits to be ignored is:",
+"topic": "GI Accounts & Regulation of Investment",
+"t": "Omission of paise and showing the round figures in financial  statements is based on which of the following concepts?",
 "o": [
-"Materiality",
-"Conservatism (prudence)",
-"Consistency",
-"Full disclosure"
+"Conservatism concept",
+"Consistency concept",
+"Realisation concept",
+"Materiality concept",
+"Prudence Concept"
 ],
-"a": 1,
-"e": "Prudence requires that provisions be made for probable losses while unrealised gains are not recognised; consistency and materiality deal with uniform treatment and significance respectively."
+"a": 3,
+"e": "Correct answer: Materiality concept (from the IC46 question bank)."
 },
 {
 "n": 3,
-"topic": "Fundamentals of Accounting",
-"t": "Which of the following is a personal account under the traditional classification of accounts?",
+"topic": "GI Accounts & Regulation of Investment",
+"t": "Shipra Ltd is a non-life insurance company. It is required to comply with which of the following act/s while preparing its financial statements?  <br><br>I. The Insurance Amendment Act 2015 <br>II.   The Companies Act 2013 <br>III.  Insurance Regulatory Development Act, 1999",
 "o": [
-"Discount received account",
-"Building account",
-"Outstanding salary account",
-"Salary account"
+"Only I",
+"Only II",
+"Only III",
+"I and II",
+"I, II and III"
 ],
-"a": 2,
-"e": "Outstanding salary is a representative personal account standing for the employees to whom salary is due; salary and discount are nominal and building is real."
+"a": 4,
+"e": "Correct answer: I, II and III (from the IC46 question bank)."
 },
 {
 "n": 4,
-"topic": "Fundamentals of Accounting",
-"t": "Under the accrual concept, a general insurer that collects ₹12 lakh premium on 1 January 2026 for a one-year policy should, at 31 March 2026, recognise as income:",
+"topic": "GI Accounts & Regulation of Investment",
+"t": "As per AS 14 Accounting for amalgamations, purchase consideration is what is payable to:",
 "o": [
-"Nil, since the policy has not yet expired",
-"₹9 lakh, being the premium for the unexpired period",
-"₹3 lakh, being the premium relating to the three months of risk already run",
-"₹12 lakh, since the full premium has been received in cash"
+"shareholders of the transferor company",
+"Creditors",
+"Debenture holders",
+"Shareholders and debenture holders",
+"Debenture holders and creditors"
 ],
-"a": 2,
-"e": "Accrual and matching require revenue to be recognised in the period in which the risk is borne; the balance ₹9 lakh is carried forward as reserve for unexpired risk."
+"a": 0,
+"e": "Correct answer: shareholders of the transferor company (from the IC46 question bank)."
 },
 {
 "n": 5,
-"topic": "Accounting Process and Books of Accounts",
-"t": "A trial balance agrees even though the purchase of furniture for ₹40,000 has been debited to the purchases account. This is an example of:",
+"topic": "GI Accounts & Regulation of Investment",
+"t": "A wrong entry on the debit side of cash book would lead to_________.",
 "o": [
-"Error of omission",
-"Error of principle",
-"Compensating error",
-"Error of casting"
+"Cash book showing more balance",
+"Cash book showing less balance",
+"Cash withdrawal",
+"Purchases",
+"Expenses paid"
 ],
-"a": 1,
-"e": "Treating a capital expenditure as revenue expenditure violates an accounting principle; since both debit and credit are of the same amount, the trial balance still agrees."
+"a": 0,
+"e": "Correct answer: Cash book showing more balance (from the IC46 question bank)."
 },
 {
 "n": 6,
-"topic": "Accounting Process and Books of Accounts",
-"t": "A machine was purchased on 1 April 2023 for ₹5,00,000 with an estimated residual value of ₹50,000 and a useful life of 5 years. Under the straight-line method, the written-down value on 31 March 2026 is:",
+"topic": "GI Accounts & Regulation of Investment",
+"t": "Identify the correct full form of AICPA.",
 "o": [
-"₹2,30,000",
-"₹2,00,000",
-"₹3,20,000",
-"₹2,60,000"
+"American Institute of Certified Professional Accou",
+"American Institute of Certified Public Accountants",
+"American Institute of Company Public Accountants",
+"American Institute of Chartered Public Accountants",
+"American Institute of Certified Public Actuarial"
 ],
-"a": 0,
-"e": "Annual depreciation is (5,00,000 − 50,000)/5 = ₹90,000; after three years the accumulated depreciation is ₹2,70,000 and the WDV is ₹5,00,000 − ₹2,70,000 = ₹2,30,000."
+"a": 1,
+"e": "Correct answer: American Institute of Certified Public Accountants (from the IC46 question bank)."
 },
 {
 "n": 7,
-"topic": "Accounting Process and Books of Accounts",
-"t": "Which one of the following errors will NOT be disclosed by a trial balance?",
+"topic": "GI Accounts & Regulation of Investment",
+"t": "An accounting student says that all transactions are events but all events are not transactions. Is he right? Debate. Choose the most appropriate answer.",
 "o": [
-"Sale of ₹8,000 to Rao completely omitted from the books",
-"Discount allowed of ₹600 posted twice to the discount account",
-"₹5,000 received from Mehta posted to the credit of Mehta as ₹500",
-"Purchases book overcast by ₹1,000"
+"Yes, he is right",
+"No, he is wrong",
+"He is partially right",
+"All events are transactions and all therefore all",
+"All events cannot be transactions because an event should be measurable in terms of money to be categorised as a transaction"
 ],
-"a": 0,
-"e": "A complete omission leaves both debit and credit sides equally short, so the trial balance still agrees; the other errors affect only one side and create a difference."
+"a": 4,
+"e": "Correct answer: All events cannot be transactions because an event should be measurable in terms of money to be categorised as a transaction (from the IC46 question bank)."
 },
 {
 "n": 8,
-"topic": "Accounting Process and Books of Accounts",
-"t": "Under the written-down value method of depreciation, the amount of depreciation charged each year:",
+"topic": "GI Accounts & Regulation of Investment",
+"t": "A company wants to assess the ability of the company to generate cash and cash equivalent, and the needs of the company to utilise those cash flows. Suggest a financial tool.",
 "o": [
-"Is charged only in the year of purchase",
-"Declines every year because it is computed on the reducing book value",
-"Increases every year to reflect rising maintenance cost",
-"Remains constant over the useful life of the asset"
+"Revenue A/c",
+"Balance Sheet",
+"Cash Flow Statement",
+"Income and Expenditure Statement",
+"Receipts and Payments Account"
 ],
-"a": 1,
-"e": "WDV applies a fixed percentage to the opening book value, which falls each year, so the charge is highest in the first year and reduces thereafter."
+"a": 2,
+"e": "Correct answer: Cash Flow Statement (from the IC46 question bank)."
 },
 {
 "n": 9,
-"topic": "Financial Statements and Accounting Standards",
-"t": "Under AS 3 (Cash Flow Statements), the purchase of fixed assets by a general insurer is classified as:",
+"topic": "GI Accounts & Regulation of Investment",
+"t": "Which of the following items would not be covered by IFRS 4 Insurance Contracts?<br><br> I. Life insurance <br> II. Marine insurance <br> III. Pension plan",
 "o": [
-"Cash flow from operating activities",
-"A non-cash item excluded from the statement",
-"Cash flow from financing activities",
-"Cash flow from investing activities"
+"Only I",
+"Only II",
+"Only III",
+"I and II",
+"I, II and III"
 ],
-"a": 3,
-"e": "Acquisition and disposal of long-term assets and investments are investing activities; operating flows relate to the principal revenue-producing activities and financing flows to equity and borrowings."
+"a": 2,
+"e": "Correct answer: Only III (from the IC46 question bank)."
 },
 {
 "n": 10,
-"topic": "Financial Statements and Accounting Standards",
-"t": "IRDAI requires general insurers to present the cash flow statement under which method?",
+"topic": "GI Accounts & Regulation of Investment",
+"t": "In the case of an insurance company, if the company does not disclose any matters which are not required to be disclosed by the Insurance Act, 1938, still the financial statements of the company shall be treated as not disclosing a true and fair view of the state of affairs of the company. Debate. Choose the most appropriate option.",
 "o": [
-"Modified net-profit method",
-"Indirect method",
-"Either method at the insurer's option",
-"Direct method"
+"This statement is right",
+"This statement is wrong",
+"This statement is partially wrong",
+"As per section 129 of the Companies Act, 2013 if an insurance company does not disclose any matters which are not required to be disclosed by the Insurance Act, 1938, the financial statements of the company shall not be treated as not disclosing a true and fair view of the state of affairs",
+"If an insurance Company does not disclose any matt"
 ],
 "a": 3,
-"e": "The IRDAI (Preparation of Financial Statements and Auditor's Report) Regulations require insurers to prepare the receipts and payments account (cash flow) under the direct method, unlike most companies which may choose."
+"e": "Correct answer: As per section 129 of the Companies Act, 2013 if an insurance company does not disclose any matters which are not required to be disclosed by the Insurance Act, 1938, the financial statements of the company shall not be treated as not disclosing a true and fair view of the state of affairs (from the IC46 question bank)."
 },
 {
 "n": 11,
-"topic": "Analysis of Financial Statements",
-"t": "A general insurer has gross written premium of ₹3,000 crore and net written premium of ₹2,100 crore. Its retention ratio is:",
+"topic": "GI Accounts & Regulation of Investment",
+"t": "Section ______ of the Companies Act 2013, provides that an extract of the annual return shall form part of the Board's report.",
 "o": [
-"70%",
-"143%",
-"30%",
-"90%"
+"Section 78",
+"Section 92",
+"Section 134",
+"Section 141",
+"Section 139"
 ],
-"a": 0,
-"e": "★ Key fact (repeated across the mocks of this paper). Retention ratio = net written premium ÷ gross written premium = 2,100/3,000 = 70%; the balance 30% has been ceded to reinsurers.",
+"a": 1,
+"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Section 92 (from the IC46 question bank).",
 "r": "key"
 },
 {
 "n": 12,
-"topic": "Financial Statements and Accounting Standards",
-"t": "AS 5 deals with:",
+"topic": "GI Accounts & Regulation of Investment",
+"t": "The premium paid at the time of acquisition of Govt. Securities, Debt Securities and Redeemable Preference Shares is amortised over how many years? <br><br>I. Residual period of maturity <br>II. Actual Period of maturity <br>III. Written-off in the first year",
 "o": [
-"Valuation of inventories",
-"Accounting for fixed assets",
-"Revenue recognition",
-"Net profit or loss for the period, prior period items and changes in accounting policies"
+"Only I",
+"Only II",
+"Only III",
+"I and II",
+"II and III"
 ],
-"a": 3,
-"e": "AS 5 prescribes classification and disclosure of extraordinary and prior period items and of changes in accounting policies; AS 2, AS 10 and AS 9 cover the other topics."
+"a": 0,
+"e": "Correct answer: Only I (from the IC46 question bank)."
 },
 {
 "n": 13,
-"topic": "Financial Statements and Accounting Standards",
-"t": "A company changes its method of depreciation from WDV to SLM. According to AS 5 read with AS 10, this change:",
+"topic": "GI Accounts & Regulation of Investment",
+"t": "As per the Companies Act, 1956 which of the following is not one of the characteristics of a public limited company? <br><br>I. Has more than fifty members <br>II. Has a minimum paid-up capital of one lakh rupees <br>III. The shares of the company are freely transferable",
 "o": [
-"Is treated as a change in accounting estimate and applied prospectively, with disclosure of its effect",
-"Is a prior period item and adjusted against opening reserves",
-"Is not permitted once an asset has been put to use",
-"Requires the restatement of all previously issued financial statements"
+"Only I",
+"Only II",
+"Only III",
+"I and II",
+"I, II and III"
 ],
-"a": 0,
-"e": "Under the revised AS 10 (2016), a change in depreciation method is a change in estimate; the effect is given prospectively and the nature and amount must be disclosed."
+"a": 1,
+"e": "Correct answer: Only II (from the IC46 question bank)."
 },
 {
 "n": 14,
-"topic": "Company Accounts and Corporate Governance",
-"t": "As per Section 96 of the Companies Act 2013, every company (other than a one-person company) must hold its annual general meeting within:",
+"topic": "GI Accounts & Regulation of Investment",
+"t": "Valuation of stock in accounting follows the principle of cost price or __________ whichever is lower.",
 "o": [
-"Six months from the close of the financial year",
-"Three months from the close of the financial year",
-"Twelve months from the close of the financial year",
-"Nine months from the close of the financial year"
+"Market price",
+"Average price",
+"Net realisable value",
+"Replacement value",
+"Present value"
 ],
-"a": 0,
-"e": "The AGM must be held within six months of the financial year end and the gap between two AGMs may not exceed fifteen months; nine months applies only to the first AGM."
+"a": 2,
+"e": "Correct answer: Net realisable value (from the IC46 question bank)."
 },
 {
 "n": 15,
-"topic": "Company Accounts and Corporate Governance",
-"t": "Securities premium received on the issue of shares may be utilised by a company to:",
+"topic": "GI Accounts & Regulation of Investment",
+"t": "Which among the following are termed as financial statements? <br><br>I. Balance sheet <br>II. Profit or loss <br>III. Notes to accounts",
 "o": [
-"Issue fully paid bonus shares to members",
-"Pay dividend to equity shareholders",
-"Meet routine administrative expenses",
-"Repay a term loan taken from a bank"
+"I and II",
+"I and III",
+"II and III",
+"Only I",
+"I, II and III"
 ],
-"a": 0,
-"e": "Section 52 of the Companies Act 2013 restricts securities premium to specified uses such as bonus shares, writing off preliminary expenses, premium on redemption and buy-back; it cannot fund dividend or operating expenses."
+"a": 4,
+"e": "Correct answer: I, II and III (from the IC46 question bank)."
 },
 {
 "n": 16,
-"topic": "Company Accounts and Corporate Governance",
-"t": "Under Section 139 of the Companies Act 2013, an audit firm may be appointed as auditor of a listed company for a maximum of:",
+"topic": "GI Accounts & Regulation of Investment",
+"t": "Trial Balance is prepared to check accuracy of ________________.",
 "o": [
-"Three terms of three consecutive years",
-"An unlimited period subject to annual ratification",
-"Two terms of five consecutive years",
-"One term of five consecutive years"
+"Ledger Accounts Balances",
+"Balance Sheet Balances",
+"Income Statement Balances",
+"Cash Flow Statement Balances",
+"Cash Book Balances"
 ],
-"a": 2,
-"e": "A firm may serve two terms of five years each (an individual auditor one term of five years), after which a cooling-off period of five years applies."
+"a": 0,
+"e": "Correct answer: Ledger Accounts Balances (from the IC46 question bank)."
 },
 {
 "n": 17,
-"topic": "Company Accounts and Corporate Governance",
-"t": "The pattern of shareholding of a general insurance company is disclosed in which schedule of the IRDAI-prescribed financial statements?",
+"topic": "GI Accounts & Regulation of Investment",
+"t": "Indian companies may apply the newly notified Ind-AS for in FY.______ voluntarily but from __________ applications of Ind-AS is mandatorily for all Indian companies as directed by MCA",
 "o": [
-"Schedule 5",
-"Schedule 6",
-"Schedule 12",
-"Schedule 5A"
+"2013 - 14; 2014 - 15",
+"2014 - 15; 2015 - 16",
+"2015 - 16; 2016 - 17",
+"2016 - 17; 2017 - 18",
+"2017 - 18; 2018 - 19"
 ],
-"a": 3,
-"e": "Schedule 5 shows share capital, Schedule 5A gives the pattern of shareholding of promoters (Indian and foreign) and others, and Schedule 6 shows reserves and surplus."
+"a": 2,
+"e": "Correct answer: 2015 - 16; 2016 - 17 (from the IC46 question bank)."
 },
 {
 "n": 18,
-"topic": "Company Accounts and Corporate Governance",
-"t": "Which of the following statements regarding the audit committee of a company under Section 177 of the Companies Act 2013 is correct?",
+"topic": "GI Accounts & Regulation of Investment",
+"t": "Device a term to describe an informal accounting statement that lists the ledger account balances at a point in time and compares the total of debit balances with the total of credit balances.",
 "o": [
-"It is required only for private companies",
-"It must consist exclusively of executive directors",
-"Its recommendations on auditor appointment are not binding and need not be considered by the Board",
-"A majority of its members, including the chairperson, must be persons with ability to read and understand financial statements"
+"Trial Balance",
+"Cash Book",
+"Journal",
+"Balance Sheet",
+"Profit & Loss account"
 ],
-"a": 3,
-"e": "Section 177 requires an audit committee of at least three directors with independent directors forming a majority and members able to read financial statements; the Board must record reasons if it does not accept its recommendation."
+"a": 0,
+"e": "Correct answer: Trial Balance (from the IC46 question bank)."
 },
 {
 "n": 19,
-"topic": "Fundamentals of Accounting",
-"t": "Under the historical cost concept, land bought in 2010 for ₹2 crore and now worth ₹9 crore is normally shown in the books at:",
+"topic": "GI Accounts & Regulation of Investment",
+"t": "Siddhi Vinayak Ltd. has insured the business of Mr. Shyam and has got the 50% of his risk insured from KIC Ltd. Who is KIC Ltd here?",
 "o": [
-"₹9 crore",
-"₹7 crore, the appreciation only",
-"₹5.5 crore, the average of the two",
-"₹2 crore"
+"Direct insurance Company",
+"Policy holder",
+"Insured",
+"Reinsurer",
+"Nominee of insured"
 ],
 "a": 3,
-"e": "★ Key fact (repeated across the mocks of this paper). Assets are recorded at acquisition cost and not written up for market appreciation unless a formal revaluation is adopted; this keeps the figures objective and verifiable.",
+"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Reinsurer (from the IC46 question bank).",
 "r": "key"
 },
 {
 "n": 20,
-"topic": "Financial Statements of General Insurers",
-"t": "Section 11 of the Insurance Act 1938 requires every insurer to prepare its balance sheet, profit and loss account and revenue account:",
+"topic": "GI Accounts & Regulation of Investment",
+"t": "As per the Companies Act, a Directors report should disclose comparative information with regards to which of the following?<br><br> I. Gross Direct Premium and percentage of growth over previous year <br> II. Reinsurance Premium Ceded <br> III. Reinsurance Accepted",
 "o": [
-"In the forms and manner specified by regulations made by IRDAI",
-"In any format approved by its statutory auditor",
-"In the formats prescribed by the Reserve Bank of India",
-"In the forms set out in Schedule III of the Companies Act 2013 only"
+"Only I",
+"Only II",
+"Only III",
+"I and II",
+"I, II and III"
 ],
-"a": 0,
-"e": "Section 11 delegates the form of financial statements to IRDAI regulations, which prescribe Forms B-RA, B-PL and B-BS for general insurers."
+"a": 4,
+"e": "Correct answer: I, II and III (from the IC46 question bank)."
 },
 {
 "n": 21,
-"topic": "Financial Statements of General Insurers",
-"t": "A general insurer is required to prepare separate revenue accounts for which classes of business?",
+"topic": "GI Accounts & Regulation of Investment",
+"t": "The matching concept matches which of the following?",
 "o": [
-"Direct and reinsurance",
-"Fire, marine and miscellaneous",
-"Motor, health and others",
-"Retail and corporate"
+"Asset with liabilities",
+"Expenses with capital",
+"Revenues with expenses",
+"Capital with income",
+"Capital with drawings"
 ],
-"a": 1,
-"e": "Form B-RA must be prepared separately for fire, marine and miscellaneous insurance business, with segment-wise reporting of sub-classes within miscellaneous."
+"a": 2,
+"e": "Correct answer: Revenues with expenses (from the IC46 question bank)."
 },
 {
 "n": 22,
-"topic": "Financial Statements of General Insurers",
-"t": "In the Revenue Account of a general insurer, 'Premium earned (net)' as per Schedule 1 is computed as:",
+"topic": "GI Accounts & Regulation of Investment",
+"t": "Devise a solution for a company if it has surplus share capital as well as bank balance and it desires to balance both.",
 "o": [
-"Gross direct premium plus reinsurance accepted, less reinsurance ceded, adjusted for change in reserve for unexpired risk",
-"Net written premium less claims paid",
-"Gross direct premium less commission paid",
-"Gross direct premium less outstanding premium"
+"Buy-back of shares",
+"Bonus issue",
+"Rights issue",
+"Employees stock option plan",
+"Paying dividends"
 ],
 "a": 0,
-"e": "Schedule 1 starts with premium from direct business, adds premium on reinsurance accepted, deducts premium on reinsurance ceded and then adjusts for the change in unexpired risk reserve to arrive at earned premium."
+"e": "Correct answer: Buy-back of shares (from the IC46 question bank)."
 },
 {
 "n": 23,
-"topic": "Financial Statements of General Insurers",
-"t": "Salvage realised on a settled motor claim is accounted for by a general insurer as:",
+"topic": "GI Accounts & Regulation of Investment",
+"t": "The Marine insurance Department of a General Insurance Co Ltd gives the following details for 2011-12.<BR><BR>Earned Premium is <IMG border=0 hspace=0 alt=\"\" align=absMiddle src=\"/Attest1_res/topicresources/2114068543/III_Rs_Symbol.jpg\" width=12 height=15>90 crore<BR>Incurred Claim Net <IMG border=0 hspace=0 alt=\"\" align=absMiddle src=\"/Attest1_res/topicresources/2114068543/III_Rs_Symbol.jpg\" width=12 height=15>60 crore<BR>Commission Net <IMG border=0 hspace=0 alt=\"\" align=absMiddle src=\"/Attest1_res/topicresources/2114068543/III_Rs_Symbol.jpg\" width=12 height=15>10 crore<BR>Operating Expenses <IMG border=0 hspace=0 alt=\"\" align=absMiddle src=\"/Attest1_res/topicresources/2114068543/III_Rs_Symbol.jpg\" width=12 height=15>19 crore <BR>Investment Income on Policyholders' fund (Marine) <IMG border=0 hspace=0 alt=\"\" align=absMiddle src=\"/Attest1_res/topicresources/2114068543/III_Rs_Symbol.jpg\" width=12 height=15>21 crore<BR><BR>Calculate the Revenue Account Surplus of the department for the year.<br><br>à¤à¤• à¤œà¤¨à¤°à¤² à¤‡à¤‚à¤¶à¥à¤¯à¥‹à¤°à¥‡à¤‚à¤¸ à¤•à¤‚à¤ªà¤¨à¥€ à¤²à¤¿à¤®à¤¿à¤Ÿà¥‡à¤¡ à¤•à¥‡ à¤®à¤°à¥€à¤¨ à¤¬à¥€à¤®à¤¾ à¤µà¤¿à¤­à¤¾à¤— à¤¨à¥‡ à¤µà¤°à¥à¤· 2011-12 à¤•à¥‡ à¤²à¤¿à¤ à¤¨à¤¿à¤®à¥à¤¨à¤²à¤¿à¤–à¤¿à¤¤ à¤œà¤¾à¤¨à¤•à¤¾à¤°à¥€ à¤¦à¥€ à¤¹à¥ˆ<br><br>à¤…à¤°à¥à¤œà¤¿à¤¤ à¤ªà¥à¤°à¥€à¤®à¤¿à¤¯à¤® 90 à¤•à¤°à¥‹à¤¡à¤¼ à¤°à¥à¤ªà¤ à¤¹à¥ˆ<br>à¤‰à¤ªà¤—à¤¤ à¤¶à¥à¤¦à¥à¤§ à¤¦à¤¾à¤µà¤¾ - 60 à¤•à¤°à¥‹à¤¡à¤¼ à¤°à¥à¤ªà¤<br>à¤¶à¥à¤¦à¥à¤§ à¤•à¤®à¥€à¤¶à¤¨ - 10 à¤•à¤°à¥‹à¤¡à¤¼ à¤°à¥à¤ªà¤<br>à¤ªà¤°à¤¿à¤šà¤¾à¤²à¤¨ à¤µà¥à¤¯à¤¯ - 19 à¤•à¤°à¥‹à¤¡à¤¼ à¤°à¥à¤ªà¤<br>à¤ªà¥‰à¤²à¤¿à¤¸à¥€à¤§à¤¾à¤°à¤• à¤•à¥‡ à¤«à¤‚à¤¡ (à¤®à¤°à¥€à¤¨) à¤ªà¤° à¤¨à¤¿à¤µà¥‡à¤¶  à¤†à¤¯ - 21 à¤•à¤°à¥‹à¤¡à¤¼ à¤°à¥à¤ªà¤<br><br>à¤µà¤°à¥à¤· à¤•à¥‡ à¤²à¤¿à¤ à¤µà¤¿à¤­à¤¾à¤— à¤•à¥‡ à¤†à¤¯ à¤–à¤¾à¤¤à¤¾ à¤…à¤§à¤¿à¤¶à¥‡à¤· à¤•à¥€ à¤—à¤£à¤¨à¤¾ à¤•à¤°à¥‡à¤‚à¥¤",
 "o": [
-"Miscellaneous income in the profit and loss account",
-"A reduction in the claims cost",
-"An addition to premium earned",
-"A capital receipt credited to reserves"
+"Rs. 90 crore",
+"Rs. 10 crore",
+"Rs. 1 crore",
+"Rs. 22 crore",
+"Rs. 21 crore"
 ],
-"a": 1,
-"e": "Salvage and subrogation recoveries are netted against claims incurred in Schedule 2, since they reduce the net cost of the claim rather than generate separate income."
+"a": 3,
+"e": "Correct answer: Rs. 22 crore (from the IC46 question bank)."
 },
 {
 "n": 24,
-"topic": "Financial Statements of General Insurers",
-"t": "The operating profit or loss transferred from the fire, marine and miscellaneous revenue accounts is carried to:",
+"topic": "GI Accounts & Regulation of Investment",
+"t": "Which of the following statements is incorrect about Accounting concepts?",
 "o": [
-"A separate underwriting account not forming part of the financial statements",
-"The Balance Sheet directly as a reserve",
-"The Profit and Loss Account (Form B-PL) of the insurer",
-"The Receipts and Payments Account"
+"Accounting concept refers to the basic assumptions",
+"These concepts are assumed and accepted in account",
+"Every company can follow their own accounting concepts as per their convenience",
+"The accounting concepts, with their universal appl",
+"Accounting concepts in interpreting financial stat"
 ],
 "a": 2,
-"e": "The P&L Account begins with the operating profit/loss from each revenue account, adds shareholders' investment income and other income, and deducts expenses not related to insurance business, taxes and appropriations."
+"e": "Correct answer: Every company can follow their own accounting concepts as per their convenience (from the IC46 question bank)."
 },
 {
 "n": 25,
-"topic": "Financial Statements of General Insurers",
-"t": "Which of the following is correctly matched with its IRDAI schedule number in a general insurer's balance sheet?",
+"topic": "GI Accounts & Regulation of Investment",
+"t": "Which of the following is/are the objectives of internal audit?<br><br> I. Confirm genuineness of liabilities <br> II. Analyse various risk factors <br> III. Physical verification of assets",
 "o": [
-"Schedule 10 – Loans",
-"Schedule 8 – Investments",
-"Schedule 8 – Fixed assets",
-"Schedule 13 – Provisions"
+"I and II",
+"I and III",
+"II and III",
+"I, II and III",
+"Only I"
 ],
-"a": 1,
-"e": "Investments are in Schedule 8, loans in Schedule 9, fixed assets in Schedule 10, current liabilities in Schedule 13 and provisions in Schedule 14."
+"a": 3,
+"e": "Correct answer: I, II and III (from the IC46 question bank)."
 },
 {
 "n": 26,
-"topic": "Financial Statements of General Insurers",
-"t": "A general insurer wrote gross direct premium of ₹800 crore, accepted reinsurance of ₹50 crore and ceded reinsurance of ₹250 crore during the year. The reserve for unexpired risk increased from ₹280 crore to ₹310 crore. Premium earned (net) is:",
+"topic": "GI Accounts & Regulation of Investment",
+"t": "Which among the following are the objectives of accounting? <br><br>I. Recording financial transaction <br>II. Ascertainment of results of recorded transaction <br>III. Preparation of financial statements",
 "o": [
-"₹550 crore",
-"₹600 crore",
-"₹570 crore",
-"₹630 crore"
+"I and II",
+"II and III",
+"I and III",
+"Only I",
+"I, II and III"
 ],
-"a": 2,
-"e": "Net written premium = 800 + 50 − 250 = ₹600 crore; the increase in URR of ₹30 crore is deducted, giving premium earned of ₹570 crore."
+"a": 4,
+"e": "Correct answer: I, II and III (from the IC46 question bank)."
 },
 {
 "n": 27,
-"topic": "Reserves, Provisions and Reinsurance Accounting",
-"t": "As per the IRDAI (Preparation of Financial Statements) Regulations 2002, the minimum reserve for unexpired risk for marine hull business is:",
+"topic": "GI Accounts & Regulation of Investment",
+"t": "Accounting Standards are made to ensure transparency, consistency, comparability, adequacy and reliability in:",
 "o": [
-"40% of gross premium of the year",
-"50% of net premium of the year",
-"75% of net premium of the year",
-"100% of net premium of the year"
+"Insurance products",
+"Insurance policy statements, as well as policy rul",
+"Insurance policy rules",
+"Financial statements, as well as financial reporting",
+"Insurance policy statements, as well as IRDA repor"
 ],
 "a": 3,
-"e": "The regulations prescribe URR of not less than 50% of net premium for fire, marine cargo and miscellaneous business and 100% for marine hull; IRDAI has since permitted the 1/365 method as an alternative."
+"e": "Correct answer: Financial statements, as well as financial reporting (from the IC46 question bank)."
 },
 {
 "n": 28,
-"topic": "Financial Statements of General Insurers",
-"t": "Under Section 15 of the Insurance Act 1938, the audited accounts and statements must be furnished to IRDAI within:",
+"topic": "GI Accounts & Regulation of Investment",
+"t": "As per the provisions of the Companies Act, 2013 the Redeemable Preference Shares shall be redeemed within how many years?",
 "o": [
-"Six months from the end of the period to which they relate",
-"Three months from the end of the financial year",
-"Twelve months from the end of the financial year",
-"Thirty days from the end of the financial year"
+"5 years",
+"8 years",
+"15 years",
+"17 years",
+"20 years"
 ],
-"a": 0,
-"e": "★ Key fact (repeated across the mocks of this paper). Section 15 requires the audited returns to be submitted within six months of year-end, with IRDAI empowered to extend the period in specific cases.",
+"a": 4,
+"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: 20 years (from the IC46 question bank).",
 "r": "key"
 },
 {
 "n": 29,
-"topic": "Reserves, Provisions and Reinsurance Accounting",
-"t": "'IBNR' in the context of claims provisioning stands for:",
+"topic": "GI Accounts & Regulation of Investment",
+"t": "Help PQR Ltd. a reinsurer, distinguish between reinsurance and retrocession.",
 "o": [
-"Incurred But Not Reported",
-"Intimated But Not Reserved",
-"Insured But Not Registered",
-"Incurred But Not Recoverable"
+"Retrocession is when the reinsurance company has t",
+"Retrocession is when the reinsurance company  is p",
+"Retrocession is when one reinsurance company reinsures another reinsurance company",
+"Retrocession is when one reinsurance company pays",
+"Retrocession is when one reinsurance company accep"
 ],
-"a": 0,
-"e": "IBNR is the provision for claims that have occurred before the balance sheet date but have not yet been reported to the insurer; it is estimated by the Appointed Actuary."
+"a": 2,
+"e": "Correct answer: Retrocession is when one reinsurance company reinsures another reinsurance company (from the IC46 question bank)."
 },
 {
 "n": 30,
-"topic": "Reserves, Provisions and Reinsurance Accounting",
-"t": "A premium deficiency reserve is required to be recognised when:",
+"topic": "GI Accounts & Regulation of Investment",
+"t": "Bank has credited interest of <IMG border=0 hspace=0 alt=\"\" align=absMiddle src=\"/Attest1_res/topicresources/1742037067/III_Rs_Symbol.jpg\" width=12 height=15>1,200 and debited <IMG border=0 hspace=0 alt=\"\" align=absMiddle src=\"/Attest1_res/topicresources/1742037067/III_Rs_Symbol.jpg\" width=12 height=15>150 for commission in the pass book. In the BRS starting with pass book balance ________________.",
 "o": [
-"The gross premium written falls below the previous year's level",
-"Premium is received after the commencement of risk",
-"The expected claims cost, related expenses and maintenance costs exceed the reserve for unexpired risk of that segment",
-"Reinsurance premium ceded exceeds reinsurance commission received"
+"Rs. 1350 will be deducted from pass book",
+"Rs. 1350 will be added to pass book balance",
+"Rs. 1200 will be deducted from and Rs. 150 will be added to pass book balance.",
+"Rs. 1200 will be added to and Rs.150 will be deduc",
+"These adjustments shall be ignored"
 ],
 "a": 2,
-"e": "Premium deficiency arises when the unexpired risk reserve is insufficient to meet the expected cost of the unexpired portion of the contracts; it is computed segment-wise and certified by the Appointed Actuary."
+"e": "Correct answer: Rs. 1200 will be deducted from and Rs. 150 will be added to pass book balance. (from the IC46 question bank)."
 },
 {
 "n": 31,
-"topic": "Reserves, Provisions and Reinsurance Accounting",
-"t": "Under a surplus treaty with a retention of ₹50 lakh and a 10-line treaty, an insurer accepts a fire risk with sum insured of ₹4 crore. The amount ceded to the treaty is:",
+"topic": "GI Accounts & Regulation of Investment",
+"t": "Returned goods to supplier and received a cheque for refund. Which entry records this?",
 "o": [
-"₹5 crore",
-"₹3.5 crore",
-"₹50 lakh",
-"₹4 crore"
+"DR Purchase Account CR Purchase return Account",
+"DR Purchase Account CR Bank Account",
+"DR Bank Account CR Purchase Account",
+"DR Bank Account CR Purchase return Account",
+"DR Purchase return Account CR Bank Account"
 ],
-"a": 1,
-"e": "Capacity of the treaty is 10 lines × ₹50 lakh = ₹5 crore above retention; the insurer retains ₹50 lakh and cedes the balance ₹3.5 crore, which is within capacity."
+"a": 3,
+"e": "Correct answer: DR Bank Account CR Purchase return Account (from the IC46 question bank)."
 },
 {
 "n": 32,
-"topic": "Reserves, Provisions and Reinsurance Accounting",
-"t": "Which of the following is a non-proportional form of reinsurance?",
+"topic": "GI Accounts & Regulation of Investment",
+"t": "Which of the following statement/s is/are true regarding bank reconciliation statements?<br><br> I. Prepared by an entity and sent to its customers <br> II. A part of a double entry system <br> III. Not a part of a double entry system",
 "o": [
-"Surplus treaty",
-"Excess of loss treaty",
-"Facultative-obligatory treaty",
-"Quota share treaty"
+"Only I",
+"Only II",
+"Only III",
+"I and II",
+"I and III"
 ],
-"a": 1,
-"e": "In non-proportional reinsurance the reinsurer pays only losses exceeding an agreed amount; quota share, surplus and fac-oblig share premiums and losses proportionately."
+"a": 2,
+"e": "Correct answer: Only III (from the IC46 question bank)."
 },
 {
 "n": 33,
-"topic": "Reserves, Provisions and Reinsurance Accounting",
-"t": "Reinsurance ceded by a reinsurer to another reinsurer is termed:",
+"topic": "GI Accounts & Regulation of Investment",
+"t": "A __________________ should not be recognised but only be disclosed.",
 "o": [
-"Retrocession",
-"Fronting",
-"Co-insurance",
-"Pooling"
+"Contingent assets which are remote",
+"Provision for tax",
+"Provision",
+"Contingent liability",
+"Provision for bad debts"
 ],
-"a": 0,
-"e": "Retrocession is reinsurance of reinsurance; fronting is issuing a policy to pass the risk almost entirely to another insurer, and co-insurance is direct sharing of a risk between insurers."
+"a": 3,
+"e": "Correct answer: Contingent liability (from the IC46 question bank)."
 },
 {
 "n": 34,
-"topic": "Solvency Margin and Capital",
-"t": "The control level of solvency prescribed by IRDAI for general insurers, below which regulatory action is triggered, is a solvency ratio of:",
+"topic": "GI Accounts & Regulation of Investment",
+"t": "Stock is valued at lower of cost or net realisable value. This is an example of:",
 "o": [
-"200%",
-"100%",
-"150%",
-"125%"
+"Prudence Concept",
+"Consistency concept",
+"Realisation concept",
+"Accrual concept",
+"Materiality concept"
 ],
-"a": 2,
-"e": "Insurers must maintain available solvency margin of at least 1.5 times the required solvency margin at all times; falling below 150% invites regulatory directions."
+"a": 0,
+"e": "Correct answer: Prudence Concept (from the IC46 question bank)."
 },
 {
 "n": 35,
-"topic": "Solvency Margin and Capital",
-"t": "Under Section 6 of the Insurance Act 1938, the minimum paid-up equity capital required to carry on general insurance business in India is:",
+"topic": "GI Accounts & Regulation of Investment",
+"t": "A student of commerce is trying to understand the golden rules of accountancy. Tell him which of the following statements are incorrect regarding the same?",
 "o": [
-"₹200 crore",
-"₹100 crore",
-"₹500 crore",
-"₹50 crore"
+"A transaction is recorded as a 'debit entry' (Dr.)",
+"The process of debiting and crediting accounts is",
+"These golden rules imply the rules of debit and cr",
+"As per the golden rules we need to credit what comes in and debit what goes out for all accounts"
 ],
-"a": 1,
-"e": "A life or general insurer needs ₹100 crore of paid-up equity capital, whereas a reinsurer needs ₹200 crore."
+"a": 3,
+"e": "Correct answer: As per the golden rules we need to credit what comes in and debit what goes out for all accounts (from the IC46 question bank)."
 },
 {
 "n": 36,
-"topic": "Solvency Margin and Capital",
-"t": "Available Solvency Margin (ASM) of a general insurer is broadly:",
+"topic": "GI Accounts & Regulation of Investment",
+"t": "After recording the entries in Journal, the entries are posted into _________.",
 "o": [
-"The excess of the value of admissible assets over the value of liabilities, as determined under Section 64V",
-"The sum of paid-up capital and gross written premium",
-"The total of technical reserves held by the insurer",
-"The market value of its investments in government securities"
-],
-"a": 0,
-"e": "ASM is derived from Form KG as assets less liabilities after excluding inadmissible assets; it is compared with the Required Solvency Margin to arrive at the solvency ratio."
-},
-{
-"topic": "IRDAI – regulator",
-"t": "The minimum paid-up equity capital required to start a life or general insurance company in India is:",
-"o": [
-"₹50 crore",
-"₹100 crore",
-"₹200 crore",
-"₹500 crore"
+"Profit and Loss Account",
+"Ledger",
+"Trial Balance",
+"Cash Book",
+"Balance Sheet"
 ],
 "a": 1,
-"e": "★ Core fact (asked across III papers). ₹100 crore for a direct insurer; ₹200 crore for a reinsurer (Section 6 of the Insurance Act).",
+"e": "Correct answer: Ledger (from the IC46 question bank)."
+},
+{
+"topic": "Principles",
+"t": "Non-disclosure of a material fact by the proposer makes the contract:",
+"o": [
+"Void ab initio",
+"Voidable at the option of the insurer",
+"Illegal",
+"Automatically continued on revised terms"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). Breach of utmost good faith renders the contract voidable, not void; the insurer may elect to avoid it (subject to Section 45 for life).",
 "r": "core",
 "n": 37
 },
 {
 "n": 38,
-"topic": "Solvency Margin and Capital",
-"t": "A general insurer has an available solvency margin of ₹1,800 crore and a required solvency margin of ₹1,000 crore. Its solvency ratio is:",
+"topic": "GI Accounts & Regulation of Investment",
+"t": "Depreciation is provided at 50% of the applicable rates as above on additions made to fixed assets, which are put into use for less than six months and also sold during the year. Analyse the statement and choose the best option.",
 "o": [
-"1.80, which is below the control level",
-"1.80, which is above the control level",
-"0.56, which is below the control level",
-"2.80, which is above the control level"
+"This statement is right",
+"This statement is wrong",
+"This statement is partially right",
+"Depreciation is provided at 35% of the applicable",
+"Depreciation is provided at 50% of the applicable rates on additions made to fixed assets, which are put into use for less than six months and but no depreciation is provided on assets sold during the year"
 ],
-"a": 1,
-"e": "Solvency ratio = ASM/RSM = 1,800/1,000 = 1.80 (180%), comfortably above the 150% control level."
+"a": 4,
+"e": "Correct answer: Depreciation is provided at 50% of the applicable rates on additions made to fixed assets, which are put into use for less than six months and but no depreciation is provided on assets sold during the year (from the IC46 question bank)."
 },
 {
 "n": 39,
-"topic": "Regulation of Investments",
-"t": "Under the IRDAI (Investment) Regulations 2016, a general insurer must invest in Central Government securities not less than:",
+"topic": "GI Accounts & Regulation of Investment",
+"t": "Which of the following is an element of the corporate governance?<br><br> I. Internal Audit   <br> II. Management <br> III. External auditor",
 "o": [
-"20% of its investment assets",
-"50% of its investment assets",
-"10% of its investment assets",
-"30% of its investment assets"
+"I and II",
+"I and III",
+"II and III",
+"I, II and III",
+"Only I"
 ],
-"a": 0,
-"e": "The pattern requires at least 20% in Central Government securities and at least 30% in Central, State and other approved securities taken together (inclusive of the 20%)."
+"a": 3,
+"e": "Correct answer: I, II and III (from the IC46 question bank)."
 },
 {
 "n": 40,
-"topic": "Regulation of Investments",
-"t": "For a general insurer, the combined minimum investment in housing and infrastructure under the IRDAI investment pattern is:",
+"topic": "GI Accounts & Regulation of Investment",
+"t": "Which of the following errors would have caused a difference in the trial balance?",
 "o": [
-"Not more than 10% of investment assets",
-"Not less than 25% of investment assets",
-"Not less than 5% of investment assets",
-"Not less than 15% of investment assets"
+"Not accounting for Rs. 10,000 paid for purchasing",
+"Posting to Motor vehicles account Rs. 500 paid for",
+"Posting payment of Rs. 31,000 for stationery as Rs. 13,000 to the Stationery account",
+"Recording a sale of Rs. 10,000 as Rs. 1,000 in the",
+"A voucher of Rs. 10,000 for purchase has been lost"
 ],
-"a": 3,
-"e": "The 2016 regulations require general insurers to hold at least 15% in housing and infrastructure investments, with a maximum of 55% in approved investments (including other investments)."
+"a": 2,
+"e": "Correct answer: Posting payment of Rs. 31,000 for stationery as Rs. 13,000 to the Stationery account (from the IC46 question bank)."
 },
 {
 "n": 41,
-"topic": "Regulation of Investments",
-"t": "Section 27A of the Insurance Act 1938 prohibits an insurer from:",
+"topic": "GI Accounts & Regulation of Investment",
+"t": "For an asset owned for more than one year, the depreciation charge for the year,calculated using the reducing-balance basis at the rate of 35%, would be arrived at as follows:-",
 "o": [
-"Investing in listed equity shares",
-"Investing in Central Government securities",
-"Investing policyholders' funds outside India",
-"Holding deposits with scheduled banks"
+"35% x cost of the asset.",
+"35% x (cost of the asset - accumulated depreciatio)",
+"35% x accumulated depreciation.",
+"35% x (cost of the asset + accumulated depreciatio",
+"35% x (cost of the asset / accumulated depreciatio"
 ],
-"a": 2,
-"e": "Section 27A read with Section 27 restricts investment of controlled funds to assets in India; the other three are permitted approved categories."
+"a": 1,
+"e": "Correct answer: 35% x (cost of the asset - accumulated depreciatio) (from the IC46 question bank)."
 },
 {
 "n": 42,
-"topic": "Regulation of Investments",
-"t": "Unrealised gains or losses on listed equity shares held by a general insurer are:",
+"topic": "GI Accounts & Regulation of Investment",
+"t": "Which of the following is not entered on the credit side of the debtors ledger?",
 "o": [
-"Taken to the profit and loss account for the year",
-"Credited or debited to the Fair Value Change Account and not available for distribution as dividend",
-"Credited directly to share capital",
-"Ignored until the shares are sold"
+"Cash received from customers",
+"Discount allowed",
+"Return inwards",
+"Return outwards",
+"Trade Discount allowed"
 ],
-"a": 1,
-"e": "Listed equity is valued at fair value and the difference from cost goes to the Fair Value Change Account in the balance sheet; only realised gains on sale pass through the revenue/P&L accounts."
+"a": 3,
+"e": "Correct answer: Return outwards (from the IC46 question bank)."
 },
 {
 "n": 43,
-"topic": "Regulation of Investments",
-"t": "Debt securities held by a general insurer, including government securities, are valued in the balance sheet at:",
+"topic": "GI Accounts & Regulation of Investment",
+"t": "ABC insurance company wants to know a suitable reinsurance arrangement when certain risks are excluded from their obligatory reinsurance cover. Advise.",
 "o": [
-"Market value as at the balance sheet date",
-"Lower of cost and market value",
-"Face value in all cases",
-"Historical cost subject to amortisation of premium or discount over the remaining period to maturity"
+"Facultative reinsurance",
+"Treaty reinsurance",
+"Surplus reinsurance",
+"Excess of loss",
+"Pool arrangement"
 ],
-"a": 3,
-"e": "IRDAI requires debt securities to be carried at amortised cost; amortisation of premium/discount is recognised over the remaining maturity, and market value is disclosed by way of note."
+"a": 0,
+"e": "Correct answer: Facultative reinsurance (from the IC46 question bank)."
 },
 {
 "n": 44,
-"topic": "Regulation of Investments",
-"t": "An insurer's Investment Committee is required to meet at least:",
+"topic": "GI Accounts & Regulation of Investment",
+"t": "__________ is an independent appraisal function, established within an organisation to examine and evaluate its activities as a service to the organisation.",
 "o": [
-"Once every quarter",
-"Once every year",
-"Once every half-year",
-"Once every month"
+"Internal audit",
+"Statutory audit",
+"Due diligence",
+"Peer review",
+"Risk management"
 ],
 "a": 0,
-"e": "The IRDAI investment regulations require the Investment Committee to meet at least once a quarter to review investment strategy, policy compliance and performance."
+"e": "Correct answer: Internal audit (from the IC46 question bank)."
 },
 {
 "n": 45,
-"topic": "Taxation and Audit",
-"t": "Profits and gains of a general insurance business are computed for income tax purposes:",
+"topic": "GI Accounts & Regulation of Investment",
+"t": "Which of the following is/are the purpose of reinsurance arrangement?<br><br> I. To provide stability to the company by balancing good years with bad years <br> II. To spread the risk over large number of insurers <br> III. To facilitate greater application of principle \"Law of Large Numbers",
 "o": [
-"Under the normal provisions applicable to any trading company",
-"Under Section 44 of the Income-tax Act 1961 read with the First Schedule",
-"Under Section 115JB only, as minimum alternate tax",
-"On the basis of gross premium written during the year"
+"I and II",
+"II and III",
+"I and III",
+"Only I",
+"I, II and III"
 ],
-"a": 1,
-"e": "Section 44 overrides the normal heads of income; profits are taken from the P&L account prepared under IRDAI regulations with the adjustments listed in the First Schedule."
+"a": 4,
+"e": "Correct answer: I, II and III (from the IC46 question bank)."
 },
 {
 "n": 46,
-"topic": "Taxation and Audit",
-"t": "Under Section 12 of the Insurance Act 1938, the accounts and balance sheet of an insurer must be audited annually by:",
+"topic": "GI Accounts & Regulation of Investment",
+"t": "A summary of ledger balances is prepared, known as ___________.",
 "o": [
-"The Appointed Actuary of the insurer",
-"An officer of IRDAI",
-"An internal auditor appointed by the Board",
-"An auditor qualified under the Companies Act 2013"
+"Bank reconciliation",
+"Trial balance",
+"Profit or loss",
+"Balance sheet",
+"Statement of accounts"
 ],
-"a": 3,
-"e": "Section 12 requires an annual audit by a qualified auditor; IRDAI additionally issues guidelines on eligibility and rotation of statutory auditors of insurers."
+"a": 1,
+"e": "Correct answer: Trial balance (from the IC46 question bank)."
 },
 {
-"topic": "IRDAI – regulator",
-"t": "The control level of solvency ratio that every insurer must maintain is:",
+"topic": "Taxation",
+"t": "Deduction for life insurance premium under Section 80C of the Income Tax Act is available up to an overall limit of:",
 "o": [
-"100%",
-"125%",
-"150%",
-"200%"
+"₹1 lakh",
+"₹1.5 lakh",
+"₹2 lakh",
+"₹2.5 lakh"
 ],
-"a": 2,
-"e": "★ Core fact (asked across III papers). Available solvency margin must be at least 150% of the required solvency margin; falling below triggers IRDAI action.",
+"a": 1,
+"e": "★ Core fact (asked across III papers). ₹1,50,000 aggregate for all 80C items; premium qualifies only up to 10% of the sum assured for policies issued after 1 April 2012.",
 "r": "core",
 "n": 47
 },
 {
 "n": 48,
-"topic": "Analysis of Financial Statements",
-"t": "Combined ratio of a general insurer is calculated as:",
+"topic": "GI Accounts & Regulation of Investment",
+"t": "General insurance companies doing more than one business e.g., fire, marine, etc. need to prepare separate Revenue A/c for each business. Debate.",
 "o": [
-"Net incurred claims ratio plus net expense ratio (including commission)",
-"Investment income divided by net premium",
-"Gross premium divided by net worth",
-"Claims paid divided by gross premium"
+"This statement is right",
+"This statement is wrong",
+"This statement is partially right",
+"General insurance companies doing more than one bu"
 ],
 "a": 0,
-"e": "Combined ratio = (net incurred claims ÷ net earned premium) + (operating expenses and net commission ÷ net written premium); a ratio above 100% indicates an underwriting loss."
+"e": "Correct answer: This statement is right (from the IC46 question bank)."
 },
 {
 "n": 49,
-"topic": "Analysis of Financial Statements",
-"t": "A general insurer reports net earned premium of ₹2,000 crore, net incurred claims of ₹1,600 crore, net commission of ₹100 crore and operating expenses of ₹500 crore (net written premium also ₹2,000 crore). Its combined ratio is:",
+"topic": "GI Accounts & Regulation of Investment",
+"t": "A non-life insurance company is required to  prepare financial statements on which basis as per provisions of Insurance Amendment Act, 2015 and the Companies Act, 2013?",
 "o": [
-"80%",
-"130%",
-"110%",
-"105%"
+"Book Value convention and accrual basis",
+"Market cost convention and actual basis",
+"Historic cost convention and actual basis",
+"Historic cost convention and accrual basis",
+"Market cost convention and accrual basis"
 ],
-"a": 2,
-"e": "Loss ratio = 1,600/2,000 = 80%; expense ratio = (100 + 500)/2,000 = 30%; combined ratio = 110%, meaning an underwriting loss of ₹200 crore before investment income."
+"a": 3,
+"e": "Correct answer: Historic cost convention and accrual basis (from the IC46 question bank)."
 },
 {
 "n": 50,
-"topic": "Analysis of Financial Statements",
-"t": "The 'current ratio' of an enterprise is a measure of:",
+"topic": "GI Accounts & Regulation of Investment",
+"t": "In accordance with IAS 1 Presentation of financial statements, which financial statements must be presented and reported?",
 "o": [
-"Long-term solvency and capital structure",
-"Profitability of operations",
-"Short-term liquidity, i.e. the ability to meet current liabilities from current assets",
-"Efficiency of asset utilisation"
+"i) Balance Sheet, ii) Statement of changes in Equi",
+"Only Balance Sheet",
+"i) Income statement, ii) Cash Flow Statement",
+"i) Balance Sheet,  ii) Income statement, iii) Cash Flow Statement, iv) Statement of changes in Equity, v) Notes to Accounts",
+"Statement of changes in Equity and Notes to Accoun"
 ],
-"a": 2,
-"e": "Current ratio = current assets ÷ current liabilities; leverage ratios measure long-term solvency and margin ratios measure profitability."
+"a": 3,
+"e": "Correct answer: i) Balance Sheet,  ii) Income statement, iii) Cash Flow Statement, iv) Statement of changes in Equity, v) Notes to Accounts (from the IC46 question bank)."
 }
 ]

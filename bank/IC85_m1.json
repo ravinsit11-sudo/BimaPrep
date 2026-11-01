@@ -1,657 +1,705 @@
 [
 {
 "n": 1,
-"topic": "Introduction to Reinsurance",
-"t": "Which of the following is NOT a primary function of reinsurance for a ceding insurer?",
+"topic": "Reinsurance Management",
+"t": "As per IRDAI reinsurance regulations, every insurer's reinsurance programme needs to be approved by IRDAI and is subject for placements with no one reinsurer rated as per regulations, receiving cessions equal to or not exceeding ____________ of all premium ceded overseas, subject to a maximum of 20%.",
 "o": [
-"Protecting against catastrophe accumulations",
-"Eliminating the need to maintain solvency margin",
-"Increasing underwriting capacity",
-"Stabilising year-to-year results"
+"2.5%",
+"5%",
+"7.5%",
+"10%",
+"15%"
 ],
-"a": 1,
-"e": "Reinsurance provides capacity, stability, catastrophe protection and financing, but the cedant must still comply with the IRDAI solvency requirement; reinsurance only reduces the net exposure on which solvency is assessed."
+"a": 3,
+"e": "Correct answer: 10% (from the IC85 question bank)."
 },
 {
 "n": 2,
-"topic": "Introduction to Reinsurance",
-"t": "The party that transfers risk under a reinsurance contract is called the:",
+"topic": "Reinsurance Management",
+"t": "Which of the following statement best describes \"retention'?",
 "o": [
-"Assured",
-"Retrocessionaire",
-"Cedant or ceding company",
-"Reinsurer"
+"Proportion of risk that is retained by the cedant",
+"The stability of a portfolio",
+"It relates the free reserves and assets of the ins",
+"Every risk written must be met with adequate asset",
+"Represents the combined reinsurance capacity of th"
 ],
-"a": 2,
-"e": "The insurer that cedes risk is the cedant (ceding company); the reinsurer accepts it. A retrocessionaire accepts risk from a reinsurer under retrocession."
+"a": 0,
+"e": "Correct answer: Proportion of risk that is retained by the cedant (from the IC85 question bank)."
 },
 {
 "n": 3,
-"topic": "Introduction to Reinsurance",
-"t": "The amount of risk an insurer keeps for its own account before reinsurance is known as its:",
+"topic": "Reinsurance Management",
+"t": "Which countries have their own domestic professional reinsurers and hence generally confine their activities to their local markets? <BR><BR>I. Australia <BR>II. South Africa <BR>III. Canada",
 "o": [
-"Line",
-"Surplus",
-"Cession",
-"Retention"
+"Only I",
+"Only II",
+"I and II",
+"II and III",
+"I, II and III"
 ],
-"a": 3,
-"e": "Retention (or net retention) is the portion of each risk or loss the cedant keeps for its own account; the cession is the part passed to reinsurers, and a line equals one retention under a surplus treaty."
+"a": 4,
+"e": "Correct answer: I, II and III (from the IC85 question bank)."
 },
 {
 "n": 4,
-"topic": "Introduction to Reinsurance",
-"t": "'Reinsurance of reinsurance', where a reinsurer passes on part of the risk it has assumed, is called:",
+"topic": "Reinsurance Management",
+"t": "Infinite risk programme, premiums are held to the credit of the policyholder in _________________.",
 "o": [
-"Retrocession",
-"Facultative placement",
-"Coinsurance",
-"Fronting"
+"Pool account",
+"Experience account",
+"Specific account",
+"Premium account",
+"Claim payment account"
 ],
-"a": 0,
-"e": "When a reinsurer itself buys reinsurance, the transaction is retrocession; the reinsurer becomes the retrocedant and the accepting company the retrocessionaire."
+"a": 1,
+"e": "Correct answer: Experience account (from the IC85 question bank)."
 },
 {
 "n": 5,
-"topic": "Proportional Reinsurance",
-"t": "Under a 60% quota share treaty, an insurer writes a fire policy for ₹2 crore sum insured with a premium of ₹1,00,000. A loss of ₹50 lakh occurs. The reinsurer's share of the loss is:",
+"topic": "Reinsurance Management",
+"t": "Which of the following statement best describes Whole Account of excess of loss cover?",
 "o": [
-"₹30 lakh",
-"₹50 lakh",
-"₹12 lakh",
-"₹20 lakh"
+"This is installed to assist to cover any gap in th",
+"A single composite cover could be installed protecting at one go the whole business of the reinsured incorporating all classes of business",
+"It is on the similar lines as Excess of Loss Ratio",
+"This form of reinsurance is mainly used in protect",
+"This form of reinsurance may be affected on an ind"
 ],
-"a": 0,
-"e": "Under quota share the reinsurer takes the fixed percentage of every risk, premium and loss: 60% of ₹50 lakh = ₹30 lakh. The cedant retains ₹20 lakh."
+"a": 1,
+"e": "Correct answer: A single composite cover could be installed protecting at one go the whole business of the reinsured incorporating all classes of business (from the IC85 question bank)."
 },
 {
 "n": 6,
-"topic": "Proportional Reinsurance",
-"t": "The principal disadvantage of a quota share treaty for the ceding company is that:",
+"topic": "Reinsurance Management",
+"t": "All the business ceded to the F.A.I.R Reinsurance Pool is retroceded back to the members with an ________________.",
 "o": [
-"The reinsurer may reject small risks",
-"Premium is ceded on small risks the cedant could safely retain in full",
-"The treaty cannot be used by a newly licensed insurer",
-"It provides no cession commission"
+"Almost 70 % reciprocity",
+"Almost 80 % reciprocity",
+"Almost 90 % reciprocity",
+"Almost 95 % reciprocity",
+"Almost 100 % reciprocity"
 ],
-"a": 1,
-"e": "Quota share cedes the same percentage of every risk irrespective of size, so the cedant gives away premium on small, well-rated risks it could have retained, reducing net premium income unnecessarily."
+"a": 4,
+"e": "Correct answer: Almost 100 % reciprocity (from the IC85 question bank)."
 },
 {
 "n": 7,
-"topic": "Proportional Reinsurance",
-"t": "A surplus treaty is arranged for 10 lines with a maximum retention of ₹40 lakh per risk. The total automatic capacity of the cedant (including its own retention) for a risk on the top retention is:",
+"topic": "Reinsurance Management",
+"t": "Errors and omissions clause:-",
 "o": [
-"₹10 crore",
-"₹4 crore",
-"₹4.4 crore",
-"₹40 lakh"
+"Expects immediate rectification and nothing in the clause would operate to increase the liability of the reinsurers beyond agreed limits",
+"Deals with the commencement of reinsurance and the",
+"The salient features are the possibility of making",
+"Is usually included in a reinsurance agreement whe",
+"Give the reinsurer the right to inspect any book o"
 ],
-"a": 2,
-"e": "Treaty capacity = 10 lines × ₹40 lakh = ₹4 crore, plus the cedant's own retention of ₹40 lakh, giving total automatic capacity of ₹4.4 crore."
+"a": 0,
+"e": "Correct answer: Expects immediate rectification and nothing in the clause would operate to increase the liability of the reinsurers beyond agreed limits (from the IC85 question bank)."
 },
 {
 "n": 8,
-"topic": "Proportional Reinsurance",
-"t": "Under a surplus treaty, the cession of a particular risk and the reinsurer's share of its losses are:",
+"topic": "Reinsurance Management",
+"t": "Identify the principles of reinsurance.<br><br>I. There must be insurable interest<br>II. The contract is one of the utmost good faith<br>III. The reinsurance contract is one of indemnity",
 "o": [
-"Always 50:50 between cedant and reinsurer",
-"Determined after the loss, based on the amount of the claim",
-"Fixed as a percentage of premium only",
-"In the same proportion as the sum insured ceded to the total sum insured"
+"Only I",
+"I and II",
+"II and III",
+"I and III",
+"I, II and III"
 ],
-"a": 3,
-"e": "Surplus reinsurance is proportional: once the cession ratio (ceded sum insured ÷ total sum insured) is fixed for a risk, premium and all losses on that risk are shared in the same ratio."
+"a": 4,
+"e": "Correct answer: I, II and III (from the IC85 question bank)."
 },
 {
 "n": 9,
-"topic": "Proportional Reinsurance",
-"t": "Which treaty is most suitable for a new general insurer that wants to build a portfolio with simple administration and relief from the strain of new business?",
+"topic": "Reinsurance Management",
+"t": "In reinsurance business, captive companies are often located in:-<br><br>I. Singapore<br>II. Hawaii<br>III. Dublin",
 "o": [
-"Quota share",
-"Stop loss",
-"Risk excess of loss",
-"Catastrophe excess of loss"
+"Only I",
+"Only III",
+"I and II",
+"II and III",
+"I, II and III"
 ],
-"a": 0,
-"e": "Quota share is simple to administer, provides ceding commission that offsets acquisition costs and gives maximum financing relief, which suits a young company with limited capital and no loss experience."
+"a": 4,
+"e": "Correct answer: I, II and III (from the IC85 question bank)."
 },
 {
 "n": 10,
-"topic": "Non-Proportional Reinsurance",
-"t": "Under a risk excess of loss cover of ₹3 crore in excess of ₹1 crore, a single loss of ₹2.5 crore occurs. The reinsurer pays:",
+"topic": "Reinsurance Management",
+"t": "LLOYD'S was founded on:- <BR><BR>I. Aviation insurance <BR>II. Marine insurance <BR>III. Motor insurance",
 "o": [
-"₹2.5 crore",
-"₹1.5 crore",
-"₹3 crore",
-"₹1 crore"
+"Only I",
+"Only II",
+"I and II",
+"II and III",
+"I, II and III"
 ],
 "a": 1,
-"e": "The cedant bears the priority (deductible) of ₹1 crore; the reinsurer pays the excess up to the limit: ₹2.5 crore − ₹1 crore = ₹1.5 crore."
+"e": "Correct answer: Only II (from the IC85 question bank)."
 },
 {
 "n": 11,
-"topic": "Proportional Reinsurance",
-"t": "In the question above (retention ₹30 lakh, cession ₹90 lakh on a ₹1.2 crore risk), a loss of ₹40 lakh occurs. The surplus reinsurer pays:",
+"topic": "Reinsurance Management",
+"t": "The Stamp Act 1899 provides that every instrument chargeable with duty executed out of India may be stamped within _______________ after it is received in India.",
 "o": [
-"₹20 lakh",
-"₹10 lakh",
-"₹30 lakh",
-"₹40 lakh"
+"15 days",
+"1 month",
+"2 months",
+"3 months",
+"5 months"
 ],
-"a": 2,
-"e": "★ Key fact (repeated across the mocks of this paper). The cession ratio is 90/120 = 75%, so the reinsurer pays 75% of ₹40 lakh = ₹30 lakh and the cedant bears ₹10 lakh.",
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: 3 months (from the IC85 question bank).",
 "r": "key"
 },
 {
 "n": 12,
-"topic": "Non-Proportional Reinsurance",
-"t": "The chief difference between proportional and non-proportional reinsurance is that under non-proportional cover:",
+"topic": "Reinsurance Management",
+"t": "Which of the following clause specifies the basis on which the reinsurance applies, namely the deductible and limit linked to the basis of: 'Each loss each risk' - risk excess of loss or 'Each loss occurrence' - Catastrophe excess of loss?",
 "o": [
-"Only catastrophe losses are covered",
-"The reinsurer shares premium and losses in a fixed ratio",
-"The reinsurer's liability is defined by the amount of loss, not by a share of the sum insured",
-"Ceding commission is always higher"
+"Business Covered: Attachment of cessions  proporti",
+"Business Covered: Insuring clause non-proportional",
+"Underwriting: Retention and limits",
+"Original conditions :Follow the fortunes",
+"Net retained lines: Protecting net retention"
 ],
-"a": 2,
-"e": "In non-proportional (excess of loss) reinsurance the reinsurer pays only that part of a loss above the cedant's retention up to a limit; there is no fixed share of sum insured or original premium."
+"a": 1,
+"e": "Correct answer: Business Covered: Insuring clause non-proportional (from the IC85 question bank)."
 },
 {
 "n": 13,
-"topic": "Non-Proportional Reinsurance",
-"t": "A catastrophe excess of loss treaty is designed to protect the cedant against:",
+"topic": "Reinsurance Management",
+"t": "Which type of Excess of loss reinsurance is intended to limit losses that arise on the reinsured's day-to-day operations?",
 "o": [
-"Deterioration of the annual loss ratio of the whole account",
-"Non-payment of premium by policyholders",
-"A single large loss on one policy",
-"An accumulation of losses from many policies arising from one event"
+"Working Excess of loss",
+"Risk Excess of loss",
+"Surplus facultative reinsurance",
+"Catastrophe Excess of loss",
+"Stop loss"
 ],
-"a": 3,
-"e": "Cat XL responds on a 'per event' basis to the aggregate of net retained losses arising from one occurrence such as a cyclone or earthquake, not to individual large risks."
+"a": 0,
+"e": "Correct answer: Working Excess of loss (from the IC85 question bank)."
 },
 {
 "n": 14,
-"topic": "Non-Proportional Reinsurance",
-"t": "A stop loss treaty protects the cedant's:",
+"topic": "Reinsurance Management",
+"t": "Identify the relevant factor/s from following which is relevant in reinsurance programme design, with regard to analysing exposure to various perils.<br><br>I. Geographical location of exposures<br>II. Risk based capital<br>III. Frequency and size of losses",
 "o": [
-"Aggregate annual loss ratio of a class beyond an agreed percentage",
-"Catastrophe losses above a per-event deductible",
-"Unearned premium reserve",
-"Each individual risk above a monetary retention"
+"Only I",
+"Only III",
+"I and II",
+"II and III",
+"I, II and III"
 ],
 "a": 0,
-"e": "Stop loss (aggregate excess of loss ratio) cover indemnifies the cedant when the loss ratio for a year exceeds an agreed percentage, up to a further percentage limit; it is commonly used for crop and hail business."
+"e": "Correct answer: Only I (from the IC85 question bank)."
 },
 {
 "n": 15,
-"topic": "Non-Proportional Reinsurance",
-"t": "An insurer has a stop loss cover of 40% in excess of 80% loss ratio on an earned premium of ₹60 crore. Incurred losses for the year are ₹63 crore. The recovery from reinsurers is:",
+"topic": "Reinsurance Management",
+"t": "All of the following are credit rating agencies EXCEPT:-",
 "o": [
-"₹3 crore",
-"₹15 crore",
-"₹24 crore",
-"₹9 crore"
+"Standard and Poor",
+"NAIC",
+"Moody's",
+"CARE",
+"CRISIL"
 ],
 "a": 1,
-"e": "Loss ratio = 63/60 = 105%. The cover pays from 80% to 120%; 105% − 80% = 25% of ₹60 crore = ₹15 crore."
+"e": "Correct answer: NAIC (from the IC85 question bank)."
 },
 {
 "n": 16,
-"topic": "Reinsurance Programme Design and Retention",
-"t": "Which factor is LEAST relevant in deciding an insurer's net retention?",
+"topic": "Reinsurance Management",
+"t": "Which of the following zones that are highly exposed to earthquake? <BR><BR>I. West Coast of U.S.A <BR>II. West Coast of South America <BR>III. Southern Europe",
 "o": [
-"Size of its capital and free reserves",
-"Spread and quality of its portfolio",
-"Reinsurer's brokerage rate",
-"Volatility of the class of business"
+"Only I",
+"Only III",
+"I and III",
+"II and III",
+"I, II and III"
 ],
-"a": 2,
-"e": "Retention depends on the cedant's financial strength, portfolio size and homogeneity, class volatility, management attitude and regulatory requirements; brokerage paid to intermediaries does not determine how much risk the insurer can safely keep."
+"a": 4,
+"e": "Correct answer: I, II and III (from the IC85 question bank)."
 },
 {
 "n": 17,
-"topic": "Reinsurance Programme Design and Retention",
-"t": "An insurer sets per-risk retentions by Probable Maximum Loss (PML) rather than sum insured. The main danger of this approach is:",
+"topic": "Reinsurance Management",
+"t": "Fill in the blanks.<BR><BR>In ________________, keep a retention representing the combined capacity of the group and operate a group reinsurance programme.",
 "o": [
-"The surplus treaty cannot be used",
-"The reinsurer gains from the cession",
-"Reinsurance premium increases",
-"A PML error exposes the cedant to a loss larger than its intended retention"
+"Facultative reinsurance",
+"Group reinsurance",
+"First surplus reinsurance",
+"Second surplus reinsurance",
+"Third surplus reinsurance"
 ],
-"a": 3,
-"e": "When retention is based on PML, the cedant writes a larger gross line; if the PML estimate is breached (a 'PML failure'), the retained loss can exceed the retention the company intended to hold."
+"a": 1,
+"e": "Correct answer: Group reinsurance (from the IC85 question bank)."
 },
 {
 "n": 18,
-"topic": "Reinsurance Programme Design and Retention",
-"t": "In a reinsurance programme, saying that the proportional treaties and risk XL 'inure to the benefit' of the catastrophe XL means:",
+"topic": "Reinsurance Management",
+"t": "ABC Insurance Co. has fixed its retention limit at Rs. 20,00,000 for fire insurance. The company has received a fire insurance proposal for Rs. 15,00,000. What will be the 'surplus reinsurance' requirement?",
 "o": [
-"Recoveries under proportional and per-risk covers are deducted before the cat XL responds",
-"All covers respond simultaneously and share losses equally",
-"The cedant chooses the order after the loss",
-"The catastrophe XL is applied before any proportional treaty"
+"Rs. 5,00,000",
+"Nil",
+"Rs. 15,00,000",
+"Rs. 11,25,000",
+"Rs. 3,75,000"
 ],
-"a": 0,
-"e": "Where the proportional treaties and risk XL inure to the benefit of the cat XL, the cat cover protects only the net retained loss after those recoveries, which lowers its price."
+"a": 1,
+"e": "Correct answer: Nil (from the IC85 question bank)."
 },
 {
 "n": 19,
-"topic": "Reinsurance Programme Design and Retention",
-"t": "For a cedant with capital and free reserves of ₹500 crore, which of the following retentions per risk is most in line with the common rule of thumb for property business?",
+"topic": "Reinsurance Management",
+"t": "ABC Insurance Co. has fixed its retention limit at Rs. 20,00,000 for fire insurance. The company has received a fire insurance proposal for Rs. 50,00,000. What will be the 'surplus reinsurance' requirement?",
 "o": [
-"₹250 crore",
-"₹5 crore",
-"₹100 crore",
-"₹0.05 crore"
+"Rs. 20,00,000",
+"Rs. 70,00,000",
+"Rs. 50,00,000",
+"Rs. 30,00,000",
+"Rs. 10,00,000"
 ],
-"a": 1,
-"e": "★ Key fact (repeated across the mocks of this paper). Conventional guidance suggests a net retention per risk of about 1% (ranging roughly 0.5% to 2%) of capital and free reserves, so ₹5 crore is consistent; ₹100 crore or more would endanger solvency on a single loss.",
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Rs. 30,00,000 (from the IC85 question bank).",
 "r": "key"
 },
 {
 "n": 20,
-"topic": "Reinsurance Programme Design and Retention",
-"t": "The key metric that programme design seeks to keep within the insurer's risk appetite relative to capital is the:",
+"topic": "Reinsurance Management",
+"t": "Business Covered: Insuring clause non-proportional specify:- <BR><BR>I. The amount of the deductible <BR>II. The reinsurer's limit of liability <BR>III. Individual cession",
 "o": [
-"Gross written premium",
-"Aggregate net retained loss in a bad year after all reinsurance recoveries",
-"Total treaty capacity",
-"Commission income from reinsurers"
+"Only I",
+"Only III",
+"I and II",
+"II and III",
+"I, II and III"
 ],
-"a": 1,
-"e": "Programme design aims to ensure that the cedant's aggregate net retained losses in a bad year stay within its risk appetite relative to capital; the net loss after all reinsurance is the key metric, not gross volumes or commission."
+"a": 2,
+"e": "Correct answer: I and II (from the IC85 question bank)."
 },
 {
 "n": 21,
-"topic": "Reinsurance Pricing",
-"t": "Burning cost rating for an excess of loss layer uses:",
+"topic": "Reinsurance Management",
+"t": "Oil & Energy Insurance Syndicate has been registered in _______________.",
 "o": [
-"Sum insured profiles only",
-"The reinsurer's expense ratio",
-"Actual past losses to the layer as a percentage of the premium income of the protected account",
-"The number of risks in the portfolio"
+"UK",
+"Istanbul",
+"Kingdom of Bahrain",
+"Dubai",
+"Cape Town"
 ],
 "a": 2,
-"e": "Burning cost = historical losses that would have fallen into the layer ÷ gross net premium income of the protected account, usually over 5 or more years, then loaded for expenses and profit."
+"e": "Correct answer: Kingdom of Bahrain (from the IC85 question bank)."
 },
 {
 "n": 22,
-"topic": "Reinsurance Pricing",
-"t": "An XL layer of ₹5 crore in excess of ₹2 crore is quoted at a rate on line of 12%. The reinsurance premium is:",
+"topic": "Reinsurance Management",
+"t": "In the history of marine insurance, the oldest known reinsurance contract was concluded in 1370 in ___________.",
 "o": [
-"₹84 lakh",
-"₹12 lakh",
-"₹24 lakh",
-"₹60 lakh"
+"London",
+"Genoa",
+"Cologne",
+"Munich",
+"Tokya"
 ],
-"a": 3,
-"e": "Rate on line is applied to the limit of the layer: 12% × ₹5 crore = ₹60 lakh."
+"a": 1,
+"e": "Correct answer: Genoa (from the IC85 question bank)."
 },
 {
 "n": 23,
-"topic": "Reinsurance Pricing",
-"t": "The 'payback period' of a catastrophe layer quoted at a rate on line of 8% is approximately:",
+"topic": "Reinsurance Management",
+"t": "IRDAI requires insurers to disclose which of the following risks?<br><br>I. Insurance risk<br>II. Sensitivity to insurance risk<br>III. Concentration of insurance risk",
 "o": [
-"12.5 years",
-"4 years",
-"25 years",
-"8 years"
+"Only I",
+"Only II",
+"I and II",
+"II and III",
+"I, II and III"
 ],
-"a": 0,
-"e": "Payback = 1 ÷ rate on line = 1/0.08 = 12.5 years, i.e. the number of years of premium needed to recover one full limit loss."
+"a": 4,
+"e": "Correct answer: I, II and III (from the IC85 question bank)."
 },
 {
 "n": 24,
-"topic": "Reinsurance Pricing",
-"t": "A burning cost of 3.5% is loaded by a factor of 100/70. The resulting reinsurance rate is:",
+"topic": "Reinsurance Management",
+"t": "In 1961, the Government of India made it compulsory by statute on the part of every insurer to cede 10% in __________.",
 "o": [
-"2.45%",
-"5.00%",
-"3.50%",
-"7.00%"
+"Fire and Marine Cargo",
+"Miscellaneous Insurance",
+"Credit and Solvency Business",
+"Property Insurance",
+"Engineering Insurance"
 ],
 "a": 1,
-"e": "3.5% × 100/70 = 5.0%. The 100/70 (or 100/75) loading covers the reinsurer's expenses, profit and the inadequacy of unadjusted past experience."
+"e": "Correct answer: Miscellaneous Insurance (from the IC85 question bank)."
 },
 {
 "n": 25,
-"topic": "Reinsurance Pricing",
-"t": "Exposure rating is preferred over experience rating when:",
+"topic": "Reinsurance Management",
+"t": "In reinsurance programme design, which of the following factor is relevant for analysing exposure to various perils?",
 "o": [
-"The cedant wants to avoid disclosing its portfolio profile",
-"The cedant has 10 years of stable large-loss history",
-"The layer is high and historical losses to it are few or none",
-"The treaty is proportional"
+"Management, underwriting and claims handling capab",
+"Foreign exchange",
+"Reinsurance market conditions",
+"Investment and liquidity policy",
+"Geographical location of operations"
 ],
-"a": 2,
-"e": "Exposure rating uses the risk profile (sum insured bands) and loss distribution curves rather than past losses, so it is the only sensible method for high layers that rarely or never experienced claims."
+"a": 4,
+"e": "Correct answer: Geographical location of operations (from the IC85 question bank)."
 },
 {
 "n": 26,
-"topic": "Reinsurance Programme Design and Retention",
-"t": "A cedant decides to increase its per-risk retention from ₹1 crore to ₹2 crore. The most likely effects are:",
+"topic": "Reinsurance Management",
+"t": "In Switzerland, the first reinsurer to be formed was the __________ which started business in 1863.",
 "o": [
-"No change in net premium or volatility",
-"Higher reinsurance cost and lower capacity",
-"Lower net premium retained and lower volatility of results",
-"Higher net premium retained and higher volatility of results"
+"Munich Re",
+"Swiss Re",
+"Gen Re",
+"Royal Chartered Insurance",
+"The Mercentile and General"
 ],
-"a": 3,
-"e": "★ Key fact (repeated across the mocks of this paper). Keeping more risk keeps more premium but also more of the large losses, so results become more volatile; the trade-off between profit retention and stability is the core of retention decisions.",
+"a": 1,
+"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Swiss Re (from the IC85 question bank).",
 "r": "key"
 },
 {
 "n": 27,
-"topic": "Reinsurance Accounting",
-"t": "Under a proportional treaty, a premium reserve deposit is typically retained by the cedant at:",
+"topic": "Reinsurance Management",
+"t": "What is the first step in reinsurance placement process?",
 "o": [
-"10% of ceded claims",
-"40% of the cedant's gross premium",
-"100% of ceded premium",
-"40% of ceded premium, released after 12 months with interest"
+"Preparation of a slip",
+"Preparation of cover note",
+"Signing the contract",
+"Treaty wordings",
+"Stamping of reinsurance agreement"
 ],
-"a": 3,
-"e": "A premium reserve deposit, commonly 40% of ceded premium, is withheld by the cedant as security for the unexpired risk and released in the corresponding quarter of the following year, usually with interest."
+"a": 0,
+"e": "Correct answer: Preparation of a slip (from the IC85 question bank)."
 },
 {
 "n": 28,
-"topic": "Reinsurance Accounting",
-"t": "A treaty provides a profit commission of 20% with management expenses of 5%. For a year the ceded premium is ₹10 crore, incurred losses ₹5 crore and ceding commission ₹3 crore. The profit commission payable is:",
+"topic": "Reinsurance Management",
+"t": "Which of the following can be placed in weak reinsurance market conditions and is therefore not adequate to be relied upon for primary reinsurance capacity?",
 "o": [
-"₹30 lakh",
-"₹20 lakh",
-"₹50 lakh",
-"₹40 lakh"
+"Surplus treaty",
+"Quota share treaty",
+"Variable quota share treaty",
+"Facultative treaty",
+"Facultative obligatory treaty"
 ],
-"a": 0,
-"e": "Profit = premium ₹10 cr − losses ₹5 cr − commission ₹3 cr − expenses 5% (₹0.5 cr) = ₹1.5 crore; 20% of ₹1.5 crore = ₹30 lakh."
+"a": 4,
+"e": "Correct answer: Facultative obligatory treaty (from the IC85 question bank)."
 },
 {
 "n": 29,
-"topic": "Reinsurance Accounting",
-"t": "The 'clean cut' method of accounting on termination of a proportional treaty means:",
+"topic": "Reinsurance Management",
+"t": "__________ has to exceed the net retained loss after recoveries from all other reinsurances and before the excess of loss reinsurer becomes interested.",
 "o": [
-"The reinsurer remains liable for run-off of unexpired policies until natural expiry",
-"Portfolios of unexpired premium and outstanding losses are withdrawn and the reinsurer is released",
-"The cedant pays all outstanding balances in one instalment",
-"Claims are settled on a cash basis only"
+"Reinsured's retention",
+"Ultimate Net loss",
+"IBNR losses",
+"Premium for XL cover",
+"Mindip"
 ],
 "a": 1,
-"e": "Under clean cut, premium and loss portfolios are transferred out of the expiring treaty (and into the new one), so the outgoing reinsurer has no further liability; under the run-off method it remains liable until policies expire."
+"e": "Correct answer: Ultimate Net loss (from the IC85 question bank)."
 },
 {
 "n": 30,
-"topic": "Reinsurance Claims",
-"t": "The 'follow the fortunes' principle in reinsurance means the reinsurer:",
+"topic": "Reinsurance Management",
+"t": "In considering catastrophe perils such as earthquake the problem is:- <BR><BR>I. Difficulty to determine PML <BR>II. Difficulty to demarcate the area which can be considered as exposed to one event <BR>III. Difficulty to determine accumulation",
 "o": [
-"Pays only claims that go to court",
-"May re-adjust every claim independently of the cedant",
-"Is bound by the cedant's good-faith claim settlements within the terms of the contract",
-"Must accept every claim regardless of policy terms"
+"Only I",
+"Only III",
+"I and II",
+"I and III",
+"I, II and III"
 ],
-"a": 2,
-"e": "Follow the fortunes (and follow the settlements) obliges the reinsurer to accept the cedant's reasonable, good-faith settlements made within the scope of the original policy and the reinsurance contract."
+"a": 4,
+"e": "Correct answer: I, II and III (from the IC85 question bank)."
 },
 {
 "n": 31,
-"topic": "Reinsurance Claims",
-"t": "A 'cash loss' or 'cash call' provision in a proportional treaty allows the cedant to:",
+"topic": "Reinsurance Management",
+"t": "Under which type of business, no commission is payable? <BR><BR>I.  Fire proportional reinsurance <BR>II.  Non proportional reinsurance <BR>III. Marine proportional reinsurance",
 "o": [
-"Pay claims in foreign currency",
-"Settle claims directly with the retrocessionaire",
-"Withhold claims from the quarterly account",
-"Demand immediate settlement of large claims above an agreed figure instead of waiting for the quarterly account"
+"Only I",
+"Only II",
+"I and II",
+"II and III",
+"I, II and III"
 ],
-"a": 3,
-"e": "To protect the cedant's cash flow, claims exceeding the cash loss limit can be requested from reinsurers immediately rather than through the normal quarterly account."
+"a": 1,
+"e": "Correct answer: Only II (from the IC85 question bank)."
 },
 {
 "n": 32,
-"topic": "Reinsurance Claims",
-"t": "Under a per-risk excess of loss treaty, the cedant's recovery is computed on the:",
+"topic": "Reinsurance Management",
+"t": "The priority of __________, is to protect the insurer's liquid assets.",
 "o": [
-"Ultimate net loss after recoveries from inuring reinsurances",
-"Sum insured of the policy",
-"Reserve set up at year end",
-"Gross loss before any other reinsurance"
+"Finance Manager",
+"Direct business underwriter",
+"Shareholder",
+"Insurance agent",
+"Actuary"
 ],
 "a": 0,
-"e": "XL recoveries are based on the ultimate net loss as defined in the treaty: the loss actually sustained after salvage, subrogation and recoveries from reinsurances that inure to the benefit of the XL."
+"e": "Correct answer: Finance Manager (from the IC85 question bank)."
 },
 {
 "n": 33,
-"topic": "Reinsurance Claims",
-"t": "Under a claims cooperation clause the reinsurer:",
+"topic": "Reinsurance Management",
+"t": "In consequence of the efforts of UNCTAD, which of the following operate as regional pools supporting the countries in their respective regions?<br><br>I. Asian Reinsurance Corporation<br>II. African Reinsurance Corporation<br>III. WTO",
 "o": [
-"Must appoint its own surveyor on every claim",
-"Must be informed of and consulted on claims above a set amount and may associate with the defence",
-"Takes over the complete handling of all claims",
-"Is released from liability if the cedant is late in reporting"
+"Only I",
+"Only II",
+"I and II",
+"I and III",
+"I, II and III"
 ],
-"a": 1,
-"e": "Claims cooperation (or claims control) clauses give the reinsurer a right to be notified of significant claims and to cooperate in or control their handling, since it bears most of the loss."
+"a": 2,
+"e": "Correct answer: I and II (from the IC85 question bank)."
 },
 {
 "n": 34,
-"topic": "Treaty Wordings and Clauses",
-"t": "The 'hours clause' in a catastrophe excess of loss treaty:",
+"topic": "Reinsurance Management",
+"t": "Industrial All Risk insurance belongs to which class of insurance?<BR><BR>I. Property reinsurance<BR>II. Marine reinsurance<BR>III. Aviation reinsurance",
 "o": [
-"Fixes the duration of the treaty",
-"Limits the cedant's reporting time for losses",
-"Defines the period (e.g. 72 or 168 hours) within which losses are aggregated as one event",
-"Sets the time for payment of reinsurance balances"
+"Only I",
+"Only III",
+"I and II",
+"II and III",
+"I, II and III"
 ],
-"a": 2,
-"e": "The hours clause defines a loss occurrence by a time window (typically 72 hours for storm, 168 hours for flood, riot or earthquake) so that losses within that period are treated as one event for the per-event retention and limit."
+"a": 0,
+"e": "Correct answer: Only I (from the IC85 question bank)."
 },
 {
-"topic": "Principles",
-"t": "Non-disclosure of a material fact by the proposer makes the contract:",
+"topic": "Intermediaries",
+"t": "The qualifying examination for an individual insurance agent conducted by the Insurance Institute of India is:",
 "o": [
-"Void ab initio",
-"Voidable at the option of the insurer",
-"Illegal",
-"Automatically continued on revised terms"
+"IC-01",
+"IC-38",
+"IC-14",
+"IC-33"
 ],
 "a": 1,
-"e": "★ Core fact (asked across III papers). Breach of utmost good faith renders the contract voidable, not void; the insurer may elect to avoid it (subject to Section 45 for life).",
+"e": "★ Core fact (asked across III papers). IC-38 is the agents' pre-recruitment examination; IC-01/02/11/14 are Licentiate papers.",
 "r": "core",
 "n": 35
 },
 {
 "n": 36,
-"topic": "Treaty Wordings and Clauses",
-"t": "A reinstatement provision in a catastrophe XL treaty providing 'one reinstatement at 100% additional premium, pro rata as to amount' means:",
+"topic": "Reinsurance Management",
+"t": "The subject matter of the reinsurance contract is in effect the ___________________.",
 "o": [
-"The treaty is automatically renewed for one more year",
-"The reinsurer may cancel after one loss",
-"The cedant may reinstate its retention at no cost",
-"The cover can be restored once after a loss, by paying additional premium proportionate to the amount of limit used"
+"Reinsured's liability in the original contract",
+"Purpose of insurance in original contract",
+"Sum assured value in original contract",
+"Terms and conditions in original contract",
+"Premium amount in original contract"
 ],
-"a": 3,
-"e": "After a loss erodes the limit, the cedant pays reinstatement premium proportionate to the limit used (and sometimes to time remaining) to restore the cover; 100% means the full annual rate applies."
+"a": 0,
+"e": "Correct answer: Reinsured's liability in the original contract (from the IC85 question bank)."
 },
 {
 "n": 37,
-"topic": "Treaty Wordings and Clauses",
-"t": "A 'cut-through' clause in a reinsurance contract:",
+"topic": "Reinsurance Management",
+"t": "__________ means reinsurance whereby there is not a sufficiently significant amount of underwriting and timing risk transfer to be classified as finite reinsurance.",
 "o": [
-"Allows the original insured to claim directly from the reinsurer if the cedant becomes insolvent",
-"Cuts the reinsurer's liability by half",
-"Permits either party to terminate without notice",
-"Removes the retention of the cedant"
+"Contingent capital solution",
+"Risk retention financing",
+"Financial reinsurance",
+"Multi line package",
+"Multi trigger cover"
 ],
-"a": 0,
-"e": "A cut-through clause gives the policyholder (or a named party) a direct right against the reinsurer, usually on the cedant's insolvency, overriding the normal rule that there is no privity between insured and reinsurer."
+"a": 2,
+"e": "Correct answer: Financial reinsurance (from the IC85 question bank)."
 },
 {
 "n": 38,
-"topic": "Reinsurance Market and Intermediaries",
-"t": "Lloyd's of London is best described as:",
+"topic": "Reinsurance Management",
+"t": "Which of the following tool was developed by the founders of Centre Re, Bermudas?",
 "o": [
-"A single insurance company",
-"A market of members grouped into syndicates, managed by managing agents",
-"A mutual reinsurance pool owned by the UK Government",
-"A reinsurance broker"
+"Contingent capital solution",
+"Financial reinsurance",
+"Multi line package",
+"Finite risk programme",
+"Multi trigger cover"
 ],
-"a": 1,
-"e": "Lloyd's is not a company but a society and marketplace whose members (corporate and individual) underwrite through syndicates managed by managing agents; business is placed through Lloyd's brokers."
+"a": 3,
+"e": "Correct answer: Finite risk programme (from the IC85 question bank)."
 },
 {
 "n": 39,
-"topic": "Reinsurance Market and Intermediaries",
-"t": "A reinsurance broker, under the IRDAI (Insurance Brokers) Regulations, 2018, is required to have a minimum capital of:",
+"topic": "Reinsurance Management",
+"t": "______________ clause states in what circumstances a recovery is available to the ceding insurer and the extent of that recovery.",
 "o": [
-"₹50 lakh",
-"₹75 lakh",
-"₹2 crore",
-"₹5 crore"
+"Business Covered: Attachment of cessions  proporti",
+"Underwriting: Retention and limits",
+"Original conditions :Follow the fortunes",
+"Business Covered: Insuring clause non-proportional",
+"Net retained lines: Protecting net retention"
 ],
-"a": 2,
-"e": "Minimum capital is ₹75 lakh for a direct broker, ₹2 crore (₹200 lakh) for a reinsurance broker and ₹5 crore for a composite broker."
+"a": 3,
+"e": "Correct answer: Business Covered: Insuring clause non-proportional (from the IC85 question bank)."
 },
 {
 "n": 40,
-"topic": "Reinsurance Market and Intermediaries",
-"t": "The Indian Market Terrorism Risk Insurance Pool (IMTRIP), set up after the 9/11 attacks, is administered by:",
+"topic": "Reinsurance Management",
+"t": "Which of the following are largely US based concepts for alternative carriers?<BR><BR>I. Self Insurance<BR>II. Risk Retention Groups<BR>III. Pool<BR>IV. Captive",
 "o": [
-"New India Assurance",
-"Life Insurance Corporation of India",
-"IRDAI",
-"GIC Re"
+"Only I",
+"Only IV",
+"I and II",
+"I, II and III",
+"II, III and IV"
 ],
 "a": 3,
-"e": "IMTRIP was formed in April 2002 by Indian non-life insurers and GIC Re to provide terrorism capacity after international reinsurers withdrew it; GIC Re administers the pool."
+"e": "Correct answer: I, II and III (from the IC85 question bank)."
 },
 {
 "n": 41,
-"topic": "Reinsurance Regulation in India",
-"t": "Under Section 101A of the Insurance Act, 1938, every Indian insurer must reinsure with Indian reinsurers a percentage of sum insured on each policy known as:",
+"topic": "Reinsurance Management",
+"t": "_________ unbundle risks and pass the risks from parties not willing to take the risk to parties more willing to take the risks.",
 "o": [
-"Obligatory cession",
-"Retrocession",
-"Facultative cession",
-"Voluntary cession"
+"Equities",
+"Mutual funds",
+"Derivatives",
+"Bonds",
+"Securitisation"
 ],
-"a": 0,
-"e": "Section 101A requires Indian general insurers to cede a percentage of sum insured on each policy (obligatory cession) to the Indian reinsurer as notified by IRDAI on the advice of the Reinsurance Advisory Committee."
+"a": 2,
+"e": "Correct answer: Derivatives (from the IC85 question bank)."
 },
 {
 "n": 42,
-"topic": "Reinsurance Regulation in India",
-"t": "For the financial year 2025-26 the obligatory cession to GIC Re on each general insurance policy, as notified by IRDAI, is:",
+"topic": "Reinsurance Management",
+"t": "Identify the true statement. <BR><BR>I. The magnitude (M) of an earthquake is measured on the Richter Scale and the scale of intensity. <BR>II. The effect of an earthquake on a structure depends on its magnitude, the depth of its epicentre. <BR>III. The effect of an earthquake on a structure depends on the distance and direction of the epicentre as well as the type of construction of the structure and the type of subsoil in the surroundings.",
 "o": [
-"5%",
-"4%",
-"10%",
-"15%"
+"Only I",
+"Only III",
+"I and II",
+"II and III",
+"I, II and III"
 ],
-"a": 1,
-"e": "The obligatory cession was reduced from 5% to 4% with effect from FY 2022-23 and has been continued at 4% for subsequent years including 2025-26."
+"a": 4,
+"e": "Correct answer: I, II and III (from the IC85 question bank)."
 },
 {
-"topic": "Taxation",
-"t": "Deduction for life insurance premium under Section 80C of the Income Tax Act is available up to an overall limit of:",
+"topic": "Intermediaries",
+"t": "A corporate agent may tie up with a maximum of how many insurers in each line of business?",
 "o": [
-"₹1 lakh",
-"₹1.5 lakh",
-"₹2 lakh",
-"₹2.5 lakh"
+"3",
+"6",
+"9",
+"Unlimited"
 ],
-"a": 1,
-"e": "★ Core fact (asked across III papers). ₹1,50,000 aggregate for all 80C items; premium qualifies only up to 10% of the sum assured for policies issued after 1 April 2012.",
+"a": 2,
+"e": "★ Core fact (asked across III papers). Raised from 3 to 9 insurers per category (life, general, health) by the 2022 amendment to the Corporate Agents Regulations.",
 "r": "core",
 "n": 43
 },
 {
 "n": 44,
-"topic": "Reinsurance Regulation in India",
-"t": "Under the IRDAI (Re-insurance) Regulations, 2018, a Cross Border Reinsurer (CBR) must, among other conditions, hold a credit rating of at least:",
+"topic": "Reinsurance Management",
+"t": "Treaty wordings describes:- <BR><BR>I. Scope of cover <BR>II. Accounting procedures <BR>III. Portfolio movements",
 "o": [
-"No rating requirement applies",
-"AAA from S&P or equivalent",
-"BBB from S&P or equivalent, for the past three years",
-"A+ from any Indian rating agency"
+"Only I",
+"Only III",
+"I and II",
+"II and III",
+"I, II and III"
 ],
-"a": 2,
-"e": "A CBR must have a minimum credit rating of BBB from S&P or equivalent from an international rating agency for the preceding three continuous years, together with solvency and home-regulation requirements."
+"a": 4,
+"e": "Correct answer: I, II and III (from the IC85 question bank)."
 },
 {
 "n": 45,
-"topic": "Reinsurance Regulation in India",
-"t": "Every Indian insurer must file its board-approved reinsurance programme for the forthcoming financial year with IRDAI:",
+"topic": "Reinsurance Management",
+"t": "Which of the following methods of reinsurance mitigates the impact of an unbearable net loss ratio?",
 "o": [
-"At least 45 days before the commencement of the financial year",
-"Only when it changes reinsurers",
-"Every five years",
-"Within 30 days after the year ends"
+"Working Excess of loss",
+"Risk Excess of loss",
+"Surplus facultative reinsurance",
+"Stop loss",
+"Catastrophe Excess of loss"
 ],
-"a": 0,
-"e": "The 2018 Regulations require cedants to submit their reinsurance programme, approved by the Board, at least 45 days before the start of the financial year, and treaty slips/cover notes within the specified period after commencement."
+"a": 3,
+"e": "Correct answer: Stop loss (from the IC85 question bank)."
 },
 {
 "n": 46,
-"topic": "Reinsurance Regulation in India",
-"t": "The minimum paid-up equity capital required for an Indian reinsurer under the Insurance Act, 1938 is:",
+"topic": "Reinsurance Management",
+"t": "Identify the true statement.<BR><BR>I. Investments of a long term nature are likely to yield higher interest but such an arrangement would mean illiquid asset or loss of higher interest due to premature closure.<BR>II. Investment in the stock market increases the Cost of administration and Exposure to capital loss.<BR>III. By investing in stock market investments time investors can earn higher return depending on their risk taking ability.",
 "o": [
-"₹100 crore",
-"₹200 crore",
-"₹500 crore",
-"₹50 crore"
+"Only I",
+"I and II",
+"II and III",
+"I and III",
+"I, II and III"
 ],
-"a": 1,
-"e": "Section 6 of the Insurance Act prescribes a minimum paid-up capital of ₹100 crore for an insurer and ₹200 crore for a company carrying on exclusively reinsurance business."
+"a": 4,
+"e": "Correct answer: I, II and III (from the IC85 question bank)."
 },
 {
 "n": 47,
-"topic": "Alternative Risk Transfer and Life Reinsurance",
-"t": "A catastrophe bond transfers risk to:",
+"topic": "Reinsurance Management",
+"t": "The accounts for Fire proportional reinsurance business are normally rendered on:- <BR><BR>I. Accounts year basis <BR>II. Underwriting year basis <BR>III. Monthly basis",
 "o": [
-"The insured through higher deductibles",
-"A traditional reinsurer",
-"Capital market investors, who lose principal if a defined trigger event occurs",
-"The Government"
+"Only I",
+"Only III",
+"I and II",
+"II and III",
+"I, II and III"
 ],
-"a": 2,
-"e": "Cat bonds are insurance-linked securities issued through a special purpose vehicle; investors receive a coupon but forfeit principal if the specified catastrophe trigger (indemnity, index or parametric) is met."
+"a": 0,
+"e": "Correct answer: Only I (from the IC85 question bank)."
 },
 {
 "n": 48,
-"topic": "Alternative Risk Transfer and Life Reinsurance",
-"t": "Under a Yearly Renewable Term (YRT) arrangement in life reinsurance, the reinsurer:",
+"topic": "Reinsurance Management",
+"t": "This clause is commonly found in all agreements and describes without any ambiguity the business coming within the scope of a reinsurance contract:-",
 "o": [
-"Guarantees the policy's surrender value",
-"Receives the policy reserves as a deposit",
-"Shares the full policy premium and reserves proportionally",
-"Covers the net amount at risk for a one-year term premium that increases with age"
+"Operative clause",
+"Commencement and termination",
+"Alterations",
+"Insolvency of other reinsurers",
+"Errors and Omissions"
 ],
-"a": 3,
-"e": "YRT (risk premium) reinsurance covers only the net amount at risk (sum assured minus reserve) for a premium based on attained-age mortality, leaving reserves and investment risk with the cedant."
+"a": 0,
+"e": "Correct answer: Operative clause (from the IC85 question bank)."
 },
 {
 "n": 49,
-"topic": "Alternative Risk Transfer and Life Reinsurance",
-"t": "'Finite risk' reinsurance differs from traditional reinsurance mainly because:",
+"topic": "Reinsurance Management",
+"t": "________________ is the largest insurers of private motor vehicles in the UK.",
 "o": [
-"Risk transfer is limited and the time value of money and profit sharing are explicit features",
-"It can only be placed through Lloyd's",
-"Premium is never paid in advance",
-"The reinsurer assumes unlimited liability"
+"GIC Re",
+"Composite companies",
+"Lloyd's motor underwriters",
+"Captive companies",
+"Professional reinsurers"
 ],
-"a": 0,
-"e": "Finite risk contracts have a capped liability, multi-year term and experience account with explicit investment income, so the reinsurer's underwriting risk is deliberately limited; accounting rules require sufficient risk transfer."
+"a": 2,
+"e": "Correct answer: Lloyd's motor underwriters (from the IC85 question bank)."
 },
 {
 "n": 50,
-"topic": "Alternative Risk Transfer and Life Reinsurance",
-"t": "A 'captive' insurer is:",
+"topic": "Reinsurance Management",
+"t": "In England, the first professional reinsurer to be established was The Mercantile and General in ___________.",
 "o": [
-"A pool of insurers covering nuclear risks",
-"An insurer established by a non-insurance parent primarily to insure or reinsure the parent's own risks",
-"A reinsurer owned by the Government",
-"An insurer placed under administration by IRDAI"
+"1846",
+"1852",
+"1863",
+"1917",
+"1880"
 ],
-"a": 1,
-"e": "A captive is a licensed insurance subsidiary formed by a corporate group to retain its own risks, often accessing reinsurance markets directly as an alternative risk transfer technique."
+"a": 3,
+"e": "Correct answer: 1917 (from the IC85 question bank)."
 }
 ]

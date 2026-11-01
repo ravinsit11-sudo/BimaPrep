@@ -1,657 +1,702 @@
 [
 {
 "n": 1,
-"topic": "Insurance Products and Product Design",
-"t": "A 20-year money back policy with sum assured ₹4,00,000 pays 20% of the sum assured at the end of years 5, 10 and 15 and the balance at maturity. If the policyholder dies in year 12 after receiving two survival benefits, the death benefit payable (ignoring bonuses) is:",
+"topic": "Actuarial Aspects of Product Development",
+"t": "If total claim of a group health policy was 5,00,000 last year. Medical inflation is 8% and profit margin is 10%. What is the gross premium?",
 "o": [
-"₹1,60,000",
-"₹2,40,000",
-"₹4,00,000",
-"₹3,20,000"
+"500000",
+"594000",
+"598000",
+"600000",
+"None of the above"
 ],
-"a": 2,
-"e": "In a money back policy the full sum assured is payable on death irrespective of survival benefits already paid. Survival benefits are deducted only from the final maturity instalment, not from the death benefit."
+"a": 1,
+"e": "Correct answer: 594000 (from the IC92 question bank)."
 },
 {
 "n": 2,
-"topic": "Insurance Products and Product Design",
-"t": "Which of the following products transfers the investment risk almost entirely to the policyholder?",
+"topic": "Actuarial Aspects of Product Development",
+"t": "In Assurances, Events are defined _________________.",
 "o": [
-"Non-participating endowment with guaranteed additions",
-"Immediate annuity with return of purchase price",
-"Participating whole life plan",
-"Unit linked endowment without any investment guarantee"
+"before the issue of contract",
+"after the issue of contract",
+"before the date of maturity",
+"after the date of maturity",
+"after the issue of policy"
 ],
-"a": 3,
-"e": "In a ULIP the benefit depends on the net asset value of units, so the policyholder bears investment risk. Non-par guaranteed and annuity products place the risk on the insurer; par products share it through bonuses."
+"a": 0,
+"e": "Correct answer: before the issue of contract (from the IC92 question bank)."
 },
 {
 "n": 3,
-"topic": "Product Development Process and Regulation",
-"t": "Under the IRDAI (Insurance Products) Regulations, 2024, which committee of the insurer is responsible for reviewing and approving products before they are filed under Use and File?",
+"topic": "Actuarial Aspects of Product Development",
+"t": "In Use and File' system, insurers can introduce the product in the market _________________.",
 "o": [
-"Risk Management Committee",
-"Policyholder Protection Committee",
-"Audit Committee",
-"Product Management Committee"
+"after it is designed",
+"before it is designed",
+"whenever they want",
+"after it is sold",
+"None of the above"
 ],
-"a": 3,
-"e": "The 2024 regulations require a board-constituted Product Management Committee (including the Appointed Actuary, CRO and other key persons) to review products for compliance, viability and fairness before launch."
+"a": 0,
+"e": "Correct answer: after it is designed (from the IC92 question bank)."
 },
 {
 "n": 4,
-"topic": "Product Development Process and Regulation",
-"t": "Section 64VB of the Insurance Act, 1938 requires that:",
+"topic": "Actuarial Aspects of Product Development",
+"t": "Expense in pricing could be:-",
 "o": [
-"Every product be approved by IRDAI before sale",
-"No risk be assumed by the insurer unless the premium is received in advance or guaranteed in the prescribed manner",
-"The sum assured never exceed ten times the annual premium",
-"Premiums be collected only through banks"
+"Direct",
+"Indirect",
+"Fixed",
+"Variable",
+"All  of them"
 ],
-"a": 1,
-"e": "Section 64VB prohibits assumption of risk before receipt of premium, which is why risk commencement dates in product design are tied to premium realisation."
+"a": 4,
+"e": "Correct answer: All  of them (from the IC92 question bank)."
 },
 {
 "n": 5,
-"topic": "Product Development Process and Regulation",
-"t": "The IRDAI (Appointed Actuary) Regulations, 2022 require a life insurer's Appointed Actuary to be:",
+"topic": "Actuarial Aspects of Product Development",
+"t": "The reasons for requirement of Solvency Ratio greater than one can be described as:-",
 "o": [
-"Approved by the Life Insurance Council",
-"A Chartered Accountant with 10 years of audit experience",
-"An employee of the Institute of Actuaries of India",
-"A Fellow of the Institute of Actuaries of India (or a recognised body) with the prescribed post-qualification experience in life insurance"
+"Enough capital to pay obligations in the case o",
+"Additional protection to policyholders",
+"To enable insurance companies to earn more retu",
+"All the above",
+"A' and 'B' only"
 ],
-"a": 3,
-"e": "Fellowship of the Institute of Actuaries of India (or equivalent recognised qualification) with specified life insurance experience is mandatory, and IRDAI must approve the appointment."
+"a": 4,
+"e": "Correct answer: A' and 'B' only (from the IC92 question bank)."
 },
 {
 "n": 6,
-"topic": "Product Development Process and Regulation",
-"t": "A filed product has an entry age range of 18 to 60, policy terms of 10 to 30 years and a maximum maturity age of 70. The longest policy term that can be offered to a proposer aged 50 is:",
+"topic": "Actuarial Aspects of Product Development",
+"t": "With fall in the interest, what would be the impact on the premium rates of a term insurance policy?",
 "o": [
-"10 years",
-"30 years",
-"25 years",
-"20 years"
+"Premium rate will increase",
+"Premium rate will fall",
+"No impact on premium rate as term insurance is a p",
+"Can't say as fall in the interest rate will impact",
+"None of the above"
 ],
-"a": 3,
-"e": "Maximum term = maximum maturity age − entry age = 70 − 50 = 20 years, which lies within the permitted 10 to 30 year range. Product boundary conditions (age, term, premium) are set so that every combination filed is priced and viable."
+"a": 0,
+"e": "Correct answer: Premium rate will increase (from the IC92 question bank)."
 },
 {
 "n": 7,
-"topic": "Pricing Principles and Assumptions",
-"t": "Which of the following is NOT normally a component of the gross premium of a conventional life policy?",
+"topic": "Actuarial Aspects of Product Development",
+"t": "What is utility of a product?",
 "o": [
-"Risk (mortality) cost",
-"Expense loadings",
-"Profit and contingency margins",
-"Shareholders' dividend declared in the previous year"
+"price",
+"advantages",
+"composition",
+"use derived from it",
+"its resale value"
 ],
 "a": 3,
-"e": "The gross premium comprises the pure risk cost, expense loadings and margins for profit and contingencies. Past dividends are a distribution of past profit and are not charged to new policyholders."
+"e": "Correct answer: use derived from it (from the IC92 question bank)."
 },
 {
 "n": 8,
-"topic": "Pricing Principles and Assumptions",
-"t": "A life insurer prices a product using an interest assumption of 6.5% while current G-Sec yields are 7.1%. The 0.6% difference most likely represents:",
+"topic": "Actuarial Aspects of Product Development",
+"t": "Examples for  Sensitivity of profit affect product design are:-",
 "o": [
-"A margin for investment expenses, default risk and reinvestment risk",
-"An error in the pricing",
-"The IRDAI mandated maximum pricing interest rate",
-"The expected rate of expense inflation"
+"Investment return",
+"Mortality",
+"Expenses",
+"Withdrawal rates",
+"All of the above"
 ],
-"a": 0,
-"e": "Pricing interest is set below the gross yield to allow for investment expenses, credit and reinvestment risk and prudence. There is no IRDAI-prescribed pricing interest rate."
+"a": 4,
+"e": "Correct answer: All of the above (from the IC92 question bank)."
 },
 {
 "n": 9,
-"topic": "Mortality and Morbidity",
-"t": "An insurer prices a term plan with a standard mortality rate of 0.0030 at age 45. Smokers are rated at 1.5 times standard. For a sum assured of ₹1 crore, the additional annual risk premium for a smoker over a non-smoker (ignoring interest and expenses) is:",
+"topic": "Actuarial Aspects of Product Development",
+"t": "Life insurance plans are combinations of two basic plans, viz.",
 "o": [
-"₹15,000",
-"₹30,000",
-"₹45,000",
-"₹60,000"
+"Term Assurance, Pure Endowment",
+"Term Assurance, Whole Life",
+"Pure Endowment, Whole Life",
+"Whole Life, Money Back",
+"None of the above"
 ],
 "a": 0,
-"e": "Non-smoker risk cost = 1,00,00,000 × 0.0030 = ₹30,000. Smoker = 30,000 × 1.5 = ₹45,000. Additional premium = ₹15,000."
+"e": "Correct answer: Term Assurance, Pure Endowment (from the IC92 question bank)."
 },
 {
 "n": 10,
-"topic": "Premium Calculation Methods",
-"t": "For an endowment assurance with sum assured ₹10,00,000, the pricing basis gives A(x:n) = 0.45 and ä(x:n) = 12.5. The net annual premium is:",
+"topic": "Actuarial Aspects of Product Development",
+"t": "Who among the following will be having highest pure premium for a 10 lakh sum assured 10 years term insurance plan?",
 "o": [
-"₹36,000",
-"₹45,000",
-"₹27,778",
-"₹56,250"
+"40 year old non-smoker male",
+"40 year old non-smoker female",
+"40 year old smoker male",
+"40 year old smoker female",
+"35 year old smoker male"
 ],
-"a": 0,
-"e": "★ Key fact (repeated across the mocks of this paper). Net premium = SA × A / ä = 10,00,000 × 0.45 / 12.5 = ₹36,000. This covers benefits only and has no loading for expenses or profit.",
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: 40 year old smoker male (from the IC92 question bank).",
 "r": "key"
 },
 {
 "n": 11,
-"topic": "Mortality and Morbidity",
-"t": "The phenomenon where lives in poor health are more likely to buy life assurance, while healthy lives are more likely to buy annuities, is called:",
+"topic": "Actuarial Aspects of Product Development",
+"t": "If the age is 87, the number of lives is 177.017,  the death rate is 0.261, what will be the number of deaths?",
 "o": [
-"Moral hazard",
-"Anti-selection (adverse selection)",
-"Mortality drag",
-"Selection effect of underwriting"
+"45.201",
+"44.201",
+"46.201",
+"42.201",
+"41.201"
 ],
-"a": 1,
-"e": "Anti-selection is the tendency of individuals to buy cover that is favourable to them given their private knowledge. It is countered by underwriting and by using separate assured lives and annuitant mortality tables."
+"a": 2,
+"e": "Correct answer: 46.201 (from the IC92 question bank)."
 },
 {
 "n": 12,
-"topic": "Mortality and Morbidity",
-"t": "When pricing a critical illness rider, which of the following is the most relevant decrement to model in addition to mortality?",
+"topic": "Actuarial Aspects of Product Development",
+"t": "If Mr. Ram died of a road accident, which rider will provide him additional benefits?",
 "o": [
-"Expense inflation",
-"Lapse rates only",
-"Morbidity (incidence) rates of the covered illnesses",
-"Interest rate volatility"
+"Accident Benefit Rider",
+"Permanent Disability Rider",
+"Term Rider",
+"Critical Illness Rider",
+"None of the above"
 ],
-"a": 2,
-"e": "Critical illness benefit is triggered by diagnosis of specified illnesses, so incidence (morbidity) rates by age and sex are the key assumption. Lapses and interest matter but are secondary."
+"a": 0,
+"e": "Correct answer: Accident Benefit Rider (from the IC92 question bank)."
 },
 {
 "n": 13,
-"topic": "Mortality and Morbidity",
-"t": "An insurer's experience shows 12 deaths over an exposure of 4,000 life-years in a block of business. The crude mortality rate is:",
+"topic": "Actuarial Aspects of Product Development",
+"t": "For how many companies, an agent is allowed to work for in India?",
 "o": [
-"0.0030",
-"0.0300",
-"0.0012",
-"0.0003"
+"Maximum two",
+"Maximum four",
+"Maximum three",
+"Maximum five",
+"None of the above"
 ],
-"a": 0,
-"e": "Crude rate = deaths / exposed to risk = 12 / 4,000 = 0.003. Exposure is measured in life-years, allowing for policies entering and leaving during the period."
+"a": 4,
+"e": "Correct answer: None of the above (from the IC92 question bank)."
 },
 {
 "n": 14,
-"topic": "Investment Return and Interest Rates",
-"t": "A single premium of ₹10,00,000 is invested for a deferred annuity with a deferment period of 10 years. If the insurer guarantees accumulation at 6% per annum compound, the accumulated value at vesting is approximately:",
+"topic": "Actuarial Aspects of Product Development",
+"t": "Who approves life insurance products?",
 "o": [
-"₹16,00,000",
-"₹17,91,000",
-"₹19,67,000",
-"₹16,89,000"
+"IRDA",
+"Ministry of Finance",
+"Life Insurance Council",
+"LIC",
+"None of the above"
 ],
-"a": 1,
-"e": "Accumulated value = 10,00,000 × (1.06)^10 = 10,00,000 × 1.7908 = ₹17,90,850, about ₹17,91,000. Simple interest would give only ₹16,00,000."
+"a": 0,
+"e": "Correct answer: IRDA (from the IC92 question bank)."
 },
 {
 "n": 15,
-"topic": "Investment Return and Interest Rates",
-"t": "Which type of asset is most suitable for backing long-term guaranteed non-participating liabilities in India?",
+"topic": "Actuarial Aspects of Product Development",
+"t": "Policyholders would be interested in knowing:-",
 "o": [
-"Short-term money market instruments",
-"Equity shares",
-"Long-dated government securities and high-grade corporate bonds",
-"Real estate"
+"Whether the insurers are financially capable of me",
+"Whether insurers would offer prompt services durin",
+"Whether insurers would offer prompt services after",
+"All A, B & C",
+"None of these"
 ],
-"a": 2,
-"e": "Long-dated fixed-interest securities provide predictable cash flows that can be matched to guaranteed liabilities, reducing interest rate and reinvestment risk. Equities and real estate are volatile; money market assets create reinvestment risk."
+"a": 3,
+"e": "Correct answer: All A, B & C (from the IC92 question bank)."
 },
 {
 "n": 16,
-"topic": "Investment Return and Interest Rates",
-"t": "If market interest rates fall after a non-participating guaranteed product has been priced and sold, the effect on the insurer is:",
+"topic": "Actuarial Aspects of Product Development",
+"t": "Class 3 occupational class may contain:-<br><br> 1. those in Chemical manufacturing<br> 2. Maintenance workers, Janitorial workers<br> 3. Electricians, plumbers, carpeting <br>4. Skilled craftsmen and tradesmen",
 "o": [
-"No effect, since the premium is fixed",
-"Profit increases because reserves fall",
-"Profit decreases because the assets earn less than the rate guaranteed in pricing and reserves rise",
-"The policyholder bears the loss through reduced benefits"
+"Only 1st and 2nd",
+"All 4",
+"1st, 2nd and 3rd",
+"Only 1st and 3rd",
+"1st, 2nd and 4th"
 ],
-"a": 2,
-"e": "Lower yields mean lower investment income on premiums while the benefits are guaranteed; valuation reserves also rise as the discount rate falls. The policyholder is unaffected in a non-par contract."
+"a": 1,
+"e": "Correct answer: All 4 (from the IC92 question bank)."
 },
 {
 "n": 17,
-"topic": "Expenses, Commission and Inflation",
-"t": "An insurer incurred total policy administration expenses of ₹36 crore in a year while servicing 12 lakh in-force policies. The per-policy renewal expense for pricing purposes is:",
+"topic": "Actuarial Aspects of Product Development",
+"t": "Increase or decrease in reserves are examples of notional cashflow, ie where the flow:-",
 "o": [
-"₹30",
-"₹300",
-"₹3,000",
-"₹36"
+"involves physical exchange of money",
+"does not involve funds",
+"does not involve a physical exchange of money",
+"does not involve the insurer or insured",
+"None of the above"
 ],
-"a": 1,
-"e": "Per-policy expense = 36,00,00,000 / 12,00,000 = ₹300. Expense analysis allocates total expenses to drivers such as policies, premiums and sum assured to derive pricing loadings."
+"a": 2,
+"e": "Correct answer: does not involve a physical exchange of money (from the IC92 question bank)."
 },
 {
 "n": 18,
-"topic": "Expenses, Commission and Inflation",
-"t": "Under the IRDAI (Payment of Commission) Regulations, 2023, commission payable by a life insurer to intermediaries is governed by:",
+"topic": "Actuarial Aspects of Product Development",
+"t": "One of the important variables affecting profitability is ________________________.",
 "o": [
-"Fixed percentage caps for each product category prescribed by IRDAI",
-"Rates negotiated with each policyholder",
-"Rates fixed by the Life Insurance Council",
-"A board-approved policy, subject to the overall expenses of management limits"
+"the volume of designing",
+"the volume of launch",
+"the volume of sales",
+"the volume of products",
+"None of the above"
 ],
-"a": 3,
-"e": "The 2023 regulations removed product-wise commission caps and instead require commission to be paid as per a board-approved policy within the overall EoM limits."
+"a": 2,
+"e": "Correct answer: the volume of sales (from the IC92 question bank)."
 },
 {
 "n": 19,
-"topic": "Expenses, Commission and Inflation",
-"t": "Which of the following best describes 'initial expenses' in life insurance pricing?",
+"topic": "Actuarial Aspects of Product Development",
+"t": "If sum of the present value of expected benefit pay-outs is 150,000 and sum of all the expenses is 60,000, which of the following would be the approximate amount of sum of the present value of annual premiums for a 10 years term insurance policy?",
 "o": [
-"Expenses incurred each year in maintaining the policy",
-"Expenses incurred at the time of sale and issue, such as underwriting, medical examination and policy issue costs",
-"Expenses incurred at the time of claim settlement",
-"Investment management expenses"
+"Approximately Rs. 180,000",
+"A bit less than Rs. 150,000",
+"Approximately Rs. 210,000",
+"Approximately Rs. 150,000",
+"A bit more than Rs. 210,000"
 ],
-"a": 1,
-"e": "Initial expenses are one-off costs at inception and, together with first-year commission, create the new business strain. Renewal, claim and investment expenses are recurring and loaded separately."
+"a": 0,
+"e": "Correct answer: Approximately Rs. 180,000 (from the IC92 question bank)."
 },
 {
 "n": 20,
-"topic": "Unit Linked, Non-Par and Annuity Products",
-"t": "For a unit linked policy with a term of more than 10 years, IRDAI's cap on the net reduction in yield at maturity is:",
+"topic": "Actuarial Aspects of Product Development",
+"t": "In case of a 'single premium' 10 years 'term insurance' policy, the policyholder dies in first year, what will happen?",
 "o": [
-"4.00% per annum",
-"3.00% per annum",
-"2.25% per annum",
-"1.35% per annum"
+"The nominee will get the sum assured along with re",
+"The nominee will get the sum assured",
+"The nominee will get the sum assured along with th",
+"None of the above"
 ],
-"a": 2,
-"e": "★ Key fact (repeated across the mocks of this paper). The RIY at maturity may not exceed 2.25% for terms above 10 years (3% for terms of 10 years or less), and must not exceed 4% from the 5th policy anniversary onwards. This limits total charges over the term.",
+"a": 1,
+"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: The nominee will get the sum assured (from the IC92 question bank).",
 "r": "key"
 },
 {
 "n": 21,
-"topic": "Expenses, Commission and Inflation",
-"t": "A product is priced with an expense inflation assumption of 6% but actual inflation turns out to be 8% throughout. Which of the following products is most affected?",
+"topic": "Actuarial Aspects of Product Development",
+"t": "Now complex models and tools are available which can project all the cash flows of the product for all future years.  As a results formula method is not used now and where it is used:-",
 "o": [
-"A single premium product with per-policy expenses loaded upfront",
-"A long-term regular premium product with level premiums and per-policy renewal expenses",
-"A one-year group term scheme repriced annually",
-"A unit linked product where policy administration charges can be revised within filed limits"
+"it is used just as an indicator of premium to end",
+"it is used just as an indicator of complicated pre",
+"it is used just as an indicator of premium to start with",
+"it is used just as an indicator of heavy premium t",
+"None of these"
 ],
-"a": 1,
-"e": "Level premiums cannot be increased, so if renewal expenses inflate faster than assumed, the insurer absorbs the shortfall for the whole term. Annual repricing or revisable charges mitigate the risk."
+"a": 2,
+"e": "Correct answer: it is used just as an indicator of premium to start with (from the IC92 question bank)."
 },
 {
 "n": 22,
-"topic": "Withdrawals and Persistency",
-"t": "A regular premium endowment of sum assured ₹10,00,000 has a premium paying term of 15 years. After paying premiums for exactly 3 years the policyholder stops paying. The reduced paid-up sum assured (ignoring bonuses) is:",
+"topic": "Actuarial Aspects of Product Development",
+"t": "To ensure that protection component of the insurance product remains high, regulation stipulates:-",
 "o": [
-"₹2,00,000",
-"₹3,00,000",
-"₹1,50,000",
-"₹2,50,000"
+"maximum amount that should be payable on death",
+"minimum amount that should be payable on death",
+"no amount that should be payable on death",
+"some amount that should be payable on death",
+"None of these"
 ],
-"a": 0,
-"e": "Paid-up SA = SA × (premiums paid / premiums payable) = 10,00,000 × 3/15 = ₹2,00,000. Vested bonuses, if any, are added to this amount."
+"a": 1,
+"e": "Correct answer: minimum amount that should be payable on death (from the IC92 question bank)."
 },
 {
 "n": 23,
-"topic": "Withdrawals and Persistency",
-"t": "A policyholder paid annual premiums of ₹40,000 for 3 years and surrenders during the 4th policy year. Under the guaranteed surrender value scale (50% of premiums paid for years 4 to 7), the guaranteed surrender value is at least:",
+"topic": "Actuarial Aspects of Product Development",
+"t": "Mortality and Morbidity charges may be ___________ in the calculation of the net yield.",
 "o": [
-"₹36,000",
-"₹42,000",
-"₹60,000",
-"₹1,08,000"
+"different",
+"included",
+"excluded",
+"zero",
+"None of the above"
 ],
 "a": 2,
-"e": "Premiums paid = 3 × 40,000 = ₹1,20,000. GSV = 50% × 1,20,000 = ₹60,000. The insurer may pay a higher special surrender value if that is more favourable."
+"e": "Correct answer: excluded (from the IC92 question bank)."
 },
 {
 "n": 24,
-"topic": "Withdrawals and Persistency",
-"t": "In cash flow pricing, lapses are usually assumed to occur:",
+"topic": "Actuarial Aspects of Product Development",
+"t": "In a single premium term insurance policy, the commission loading can be described as:-",
 "o": [
-"Uniformly across all policy years at a constant rate",
-"Only in the first policy year",
-"Only after the lock-in period",
-"At higher rates in the early policy years, reducing thereafter"
+"Sum of commissions in all the years",
+"Sum of Present value of initial and renewal commis",
+"The initial commission",
+"There is no commission loading",
+"None of the above"
 ],
-"a": 3,
-"e": "Experience shows withdrawal rates are highest in the early years (for example the 13th month) and decline as the policy ages. A constant rate would misstate early strain and profitability."
+"a": 2,
+"e": "Correct answer: The initial commission (from the IC92 question bank)."
 },
 {
 "n": 25,
-"topic": "Riders and Group Insurance",
-"t": "A group term scheme had earned premium of ₹10,00,000 and incurred claims of ₹8,00,000 in the year. Its claims ratio is:",
+"topic": "Actuarial Aspects of Product Development",
+"t": "Calculate the amount invested in unit fund if premium paid is Rs. 1,000 and allocation rate is 90%.",
 "o": [
-"125%",
-"8%",
-"20%",
-"80%"
+"900",
+"1000",
+"100",
+"1100",
+"1900"
 ],
-"a": 3,
-"e": "★ Key fact (repeated across the mocks of this paper). Claims ratio = claims / premium = 8,00,000 / 10,00,000 = 80%. For renewal rating, a loss ratio near or above the pricing target signals a rate increase.",
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: 900 (from the IC92 question bank).",
 "r": "key"
 },
 {
 "n": 26,
-"topic": "Premium Calculation Methods",
-"t": "For a whole life policy with sum assured ₹20,00,000, the pricing basis gives A(x) = 0.30 and ä(x) = 14.0. The net annual premium payable throughout life is approximately:",
+"topic": "Actuarial Aspects of Product Development",
+"t": "What properties insurable interest has?",
 "o": [
-"₹60,000",
-"₹42,857",
-"₹46,667",
-"₹28,000"
+"Definite relationship between two parties",
+"Indefinite relationship between two parties",
+"Financial commitments if future earnings cease",
+"Both A & C",
+"Both A & B"
 ],
-"a": 1,
-"e": "Net premium = 20,00,000 × 0.30 / 14.0 = ₹42,857. The net single premium would be ₹6,00,000, which is then spread over the expected premium paying lifetime via the annuity factor."
+"a": 3,
+"e": "Correct answer: Both A & C (from the IC92 question bank)."
 },
 {
 "n": 27,
-"topic": "Premium Calculation Methods",
-"t": "In the formula (commutation) method, the symbol ä(x:n) in the premium formula P = SA × A(x:n) / ä(x:n) represents:",
+"topic": "Actuarial Aspects of Product Development",
+"t": "What kind of insurance products are suitable for retired employees?",
 "o": [
-"The present value of a temporary annuity-due of 1 per annum payable for n years while (x) survives",
-"The probability that (x) survives n years",
-"The present value of 1 payable on death within n years",
-"The accumulated value of premiums paid"
+"Money Back Plans",
+"Deferred Assurances",
+"Endowment Assurances",
+"Immediate Annuity Contracts",
+"All of the above"
 ],
-"a": 0,
-"e": "ä(x:n) is the expected present value of premiums of 1 per annum paid in advance for n years contingent on survival, so dividing the benefit value by it converts a single premium to a level annual premium."
+"a": 3,
+"e": "Correct answer: Immediate Annuity Contracts (from the IC92 question bank)."
 },
 {
 "n": 28,
-"topic": "Premium Calculation Methods",
-"t": "The net premium for a 15-year endowment at age 40 is ₹36,000 per annum for sum assured ₹10,00,000. Using a net premium valuation, with A(49:6) = 0.55 and ä(49:6) = 9.0 after 9 years, the net premium reserve at the end of year 9 is:",
+"topic": "Actuarial Aspects of Product Development",
+"t": "Reinsurance' refers to the practice by insurance companies of:-",
 "o": [
-"₹5,50,000",
-"₹3,24,000",
-"₹2,26,000",
-"₹1,00,000"
+"Issuing new policies",
+"Insuring the same risk twice",
+"Terminating existing policies",
+"Renewing existing policies",
+"Buying insurance from another firm"
 ],
-"a": 2,
-"e": "Prospective reserve = SA × A − NP × ä = 10,00,000 × 0.55 − 36,000 × 9.0 = 5,50,000 − 3,24,000 = ₹2,26,000. It is the value of future benefits less the value of future net premiums."
+"a": 1,
+"e": "Correct answer: Insuring the same risk twice (from the IC92 question bank)."
 },
 {
 "n": 29,
-"topic": "Premium Calculation Methods",
-"t": "In the first year of a regular premium policy the premium is ₹10,000, initial expenses plus commission are ₹20,000 and the reserve to be set up at the end of the year is ₹5,000 (ignore interest and mortality). The new business strain per policy is:",
+"topic": "Actuarial Aspects of Product Development",
+"t": "Which of the following is true for money back insurance policy?",
 "o": [
-"₹5,000",
-"₹10,000",
-"₹20,000",
-"₹15,000"
+"There is a death benefit (full Sum Assured) during",
+"There are survival benefits at fixed dates during",
+"There are no survival benefits during the period o",
+"There is no death benefit during the period of con",
+"Both 1 & 2"
 ],
-"a": 3,
-"e": "Strain = initial expenses + reserve − premium = 20,000 + 5,000 − 10,000 = ₹15,000. This is the capital the insurer must inject in year 1, to be recovered from future margins."
+"a": 4,
+"e": "Correct answer: Both 1 & 2 (from the IC92 question bank)."
 },
 {
 "n": 30,
-"topic": "Profit Testing and Profit Criteria",
-"t": "A product requires an initial investment of ₹100 per policy at the start of year 1, produces no profit at the end of year 1 and a profit of ₹121 at the end of year 2. The internal rate of return is:",
+"topic": "Actuarial Aspects of Product Development",
+"t": "What kind of insurance products are suitable for employees with fixed incomes and self-employed persons with regular incomes?",
 "o": [
-"21%",
-"15%",
-"12.1%",
-"10%"
+"Endowment Assurances",
+"Money Back Plans",
+"Deferred Annuity contracts",
+"Unit Linked Plans",
+"All of the above"
 ],
-"a": 3,
-"e": "IRR satisfies 100 = 121 / (1 + r)^2, so (1 + r)^2 = 1.21 and r = 10%. The IRR is the discount rate that makes the NPV of the profit signature zero."
+"a": 4,
+"e": "Correct answer: All of the above (from the IC92 question bank)."
 },
 {
 "n": 31,
-"topic": "Profit Testing and Profit Criteria",
-"t": "Profit testing of a product shows the following cumulative (undiscounted) profit per policy at the end of each year: year 1: −200; year 2: −120; year 3: −30; year 4: +40; year 5: +110. The undiscounted break-even year is:",
+"topic": "Actuarial Aspects of Product Development",
+"t": "Which of the following is not a renewal expenses?",
 "o": [
-"Year 3",
-"Year 5",
-"Year 4",
-"Year 2"
+"Maintenance of records",
+"Issue of  premium notices and receipts",
+"Cost of collection of premiums",
+"Printing of policy bonds",
+"None of the above"
 ],
-"a": 2,
-"e": "Break-even is the first year by the end of which cumulative profit becomes non-negative, which is year 4 (+40). On a discounted basis it would be later, since early losses are discounted less than later profits."
+"a": 3,
+"e": "Correct answer: Printing of policy bonds (from the IC92 question bank)."
 },
 {
 "n": 32,
-"topic": "Profit Testing and Profit Criteria",
-"t": "In a profit test, the 'profit signature' of a policy refers to:",
+"topic": "Actuarial Aspects of Product Development",
+"t": "Even though many precautions are taken by insurers, they face problems with regards to ______________ contracts.",
 "o": [
-"The premium rate table",
-"The vector of expected profits emerging in each policy year, allowing for survival and persistency to that year",
-"The reserve per policy at each duration",
-"The commission scale by year"
+"complete",
+"commenced",
+"concluded",
+"longer",
+"unconcluded"
 ],
-"a": 1,
-"e": "The profit signature is the expected profit per policy issued in each future year, i.e. the profit vector weighted by the probability of the policy being in force. Discounting it at the RDR gives the NPV."
+"a": 4,
+"e": "Correct answer: unconcluded (from the IC92 question bank)."
 },
 {
 "n": 33,
-"topic": "Profit Testing and Profit Criteria",
-"t": "An insurer's hurdle rate is 12%. Product A has an IRR of 15% and a profit margin of 2%; product B has an IRR of 11% and a profit margin of 6%. Which statement is correct?",
+"topic": "Actuarial Aspects of Product Development",
+"t": "Underwriting cost is considered as:-",
 "o": [
-"Product B should be preferred because its profit margin is higher",
-"Product A meets the hurdle rate while product B does not, on the IRR criterion",
-"Both products meet the hurdle rate",
-"Neither product is acceptable"
+"Capital expenditure",
+"Renewal expenses",
+"Procurement expenses",
+"Commission",
+"None of the above"
 ],
-"a": 1,
-"e": "IRR of 15% exceeds the 12% hurdle while 11% does not. A high profit margin with a low IRR usually indicates heavy capital strain recovered slowly; the criteria must be read together with the capital requirement."
+"a": 2,
+"e": "Correct answer: Procurement expenses (from the IC92 question bank)."
 },
 {
 "n": 34,
-"topic": "Participating Business, Bonuses and Asset Shares",
-"t": "In the first policy year, a par policy has an annual premium of ₹30,000, expenses of ₹9,000 and the insurer earns 7% on invested funds. The cost of death claims allocated to the policy is ₹1,500 at year end. The asset share at the end of year 1 is:",
+"topic": "Actuarial Aspects of Product Development",
+"t": "What kind of insurance products are suitable for unorganised workers?",
 "o": [
-"₹20,970",
-"₹22,470",
-"₹21,000",
-"₹23,970"
+"Term Insurance Contracts with Accident Benefits",
+"Immediate Annuity Contracts",
+"Deferred Assurances",
+"Both A & B",
+"All of the above"
 ],
 "a": 0,
-"e": "Asset share = (30,000 − 9,000) × 1.07 − 1,500 = 22,470 − 1,500 = ₹20,970. The roll-forward accumulates net cash flows at the actual earned rate and deducts the actual cost of claims."
+"e": "Correct answer: Term Insurance Contracts with Accident Benefits (from the IC92 question bank)."
 },
 {
 "n": 35,
-"topic": "Participating Business, Bonuses and Asset Shares",
-"t": "A participating fund declares a distributable surplus of ₹100 crore. Under the 90:10 rule, the maximum amount that can be transferred to shareholders is:",
+"topic": "Actuarial Aspects of Product Development",
+"t": "Bank agents are allowed to sell life insurance policies of ____________ company / companies.",
 "o": [
-"₹90 crore",
-"₹50 crore",
-"₹10 crore",
-"₹11.1 crore"
+"Three",
+"Two",
+"One",
+"Four",
+"Five"
 ],
 "a": 2,
-"e": "Shareholders may receive at most one-ninth of the amount allocated to policyholders, equivalent to 10% of the total surplus distributed: 10% × 100 = ₹10 crore; policyholders receive ₹90 crore."
+"e": "Correct answer: One (from the IC92 question bank)."
 },
 {
 "n": 36,
-"topic": "Participating Business, Bonuses and Asset Shares",
-"t": "Which type of bonus is designed to pass the policyholder a share of surplus that has not been smoothed and is paid only on exit (claim or maturity)?",
+"topic": "Actuarial Aspects of Product Development",
+"t": "Under Term Assurance with Return of Premium, if an insured survives the policy term, then he is entitled to ____________.",
 "o": [
-"Simple reversionary bonus",
-"Compound reversionary bonus",
-"Interim bonus",
-"Terminal bonus"
+"no benefits",
+"receive premium paid by him",
+"receive double the premium paid by him",
+"receive half the premium paid by him",
+"receive the sum assured"
 ],
-"a": 3,
-"e": "Terminal bonus is declared at exit and is not guaranteed in advance, so it can reflect unsmoothed investment performance. Reversionary bonuses, once declared, are guaranteed; interim bonus covers the period since the last valuation."
+"a": 1,
+"e": "Correct answer: receive premium paid by him (from the IC92 question bank)."
 },
 {
 "n": 37,
-"topic": "Unit Linked, Non-Par and Annuity Products",
-"t": "A unit linked fund has assets with market value ₹500 crore, current liabilities (accrued charges and expenses) of ₹2 crore and 10 crore units in issue. The net asset value per unit is:",
+"topic": "Actuarial Aspects of Product Development",
+"t": "How can the policyholder not pay the premium amount?",
 "o": [
-"₹50.00",
-"₹49.60",
-"₹50.20",
-"₹49.80"
+"Quarterly",
+"Monthly",
+"Daily",
+"Annually",
+"Bi-annually"
 ],
-"a": 3,
-"e": "NAV = (assets − liabilities) / units = (500 − 2) / 10 = ₹49.80 per unit. Units are bought and sold at NAV under the single-pricing approach followed in India."
+"a": 2,
+"e": "Correct answer: Daily (from the IC92 question bank)."
 },
 {
-"topic": "Reinsurance",
-"t": "The obligatory cession that Indian general insurers must make to GIC Re is currently:",
+"topic": "IRDAI – regulator",
+"t": "The permitted limit of foreign direct investment in an Indian insurance company is currently:",
 "o": [
-"4%",
-"5%",
-"10%",
-"15%"
+"26%",
+"49%",
+"74%",
+"100%"
 ],
-"a": 0,
-"e": "★ Core fact (asked across III papers). The obligatory cession was reduced to 4% from 1 April 2022.",
+"a": 2,
+"e": "★ Core fact (asked across III papers). Raised from 49% to 74% by the Insurance (Amendment) Act 2021; intermediaries may have 100%.",
 "r": "core",
 "n": 38
 },
 {
 "n": 39,
-"topic": "Unit Linked, Non-Par and Annuity Products",
-"t": "A unit linked policy with annualised premium ₹60,000 and fund value ₹1,50,000 is discontinued in the second policy year. The permitted discontinuance charge (lower of 4% of annualised premium or fund value, subject to a maximum of ₹5,000) is:",
+"topic": "Actuarial Aspects of Product Development",
+"t": "Once an absolute assignment is effected under a life insurance policy, who will be the title holder(s) of this policy?",
 "o": [
-"₹6,000",
-"₹5,000",
-"₹2,400",
-"₹3,000"
+"The assignor in all cases",
+"The assignee in all cases.",
+"Either the assignor or assignee depending on the t",
+"The assignor and assignee jointly",
+"None of the above"
 ],
-"a": 2,
-"e": "4% of annualised premium = ₹2,400; 4% of fund value = ₹6,000. The charge is the lower of the two, ₹2,400, which is also below the ₹5,000 cap for policies with annual premium above ₹50,000."
+"a": 1,
+"e": "Correct answer: The assignee in all cases. (from the IC92 question bank)."
 },
 {
 "n": 40,
-"topic": "Unit Linked, Non-Par and Annuity Products",
-"t": "A policyholder with a Type II unit linked policy has a sum assured of ₹10,00,000 and a fund value of ₹3,00,000. The death benefit payable is:",
+"topic": "Actuarial Aspects of Product Development",
+"t": "Which of the following is not a factor that influence design of insurance products?",
 "o": [
-"₹13,00,000",
-"₹7,00,000",
-"₹3,00,000",
-"₹10,00,000"
+"Customers expectations",
+"Profitability",
+"Regulation",
+"Sales",
+"None of the above"
 ],
-"a": 0,
-"e": "In a Type II ULIP the death benefit is sum assured plus fund value: 10,00,000 + 3,00,000 = ₹13,00,000. In a Type I ULIP it would be the higher of the two, i.e. ₹10,00,000."
+"a": 4,
+"e": "Correct answer: None of the above (from the IC92 question bank)."
 },
 {
 "n": 41,
-"topic": "Unit Linked, Non-Par and Annuity Products",
-"t": "A 'with return of purchase price' immediate annuity option, compared to a life annuity without return, will have:",
+"topic": "Actuarial Aspects of Product Development",
+"t": "In traditional insurance products, investment risks are with:-",
 "o": [
-"A higher annuity rate for the same purchase price",
-"A lower annuity rate because the purchase price is repaid on death",
-"The same annuity rate since mortality is unchanged",
-"No mortality element in pricing"
+"Policyholder",
+"Government",
+"Regulator",
+"Insurance company",
+"All of them"
 ],
-"a": 1,
-"e": "Returning the purchase price on death adds a death benefit, so for the same price the periodic annuity must be lower. The insurer's mortality gain on early deaths is largely removed."
+"a": 3,
+"e": "Correct answer: Insurance company (from the IC92 question bank)."
 },
 {
 "n": 42,
-"topic": "Riders and Group Insurance",
-"t": "A group term scheme covers 1,000 employees with a uniform cover of ₹5,00,000 each. The insurer assumes an average mortality rate of 0.002 and loads 25% on the risk premium for expenses and profit. The total annual premium for the scheme is:",
+"topic": "Actuarial Aspects of Product Development",
+"t": "What is the participative rate for policyholders in India usually?",
 "o": [
-"₹10,00,000",
-"₹12,50,000",
-"₹7,50,000",
-"₹2,50,000"
+"75%",
+"80%",
+"85%",
+"90%",
+"95%"
 ],
-"a": 1,
-"e": "Risk premium = 1,000 × 5,00,000 × 0.002 = ₹10,00,000; with 25% loading = ₹12,50,000. Group rating uses an aggregate rate rather than individual underwriting."
+"a": 3,
+"e": "Correct answer: 90% (from the IC92 question bank)."
 },
 {
-"topic": "Principles",
-"t": "The principle that allows an insurer who has paid a claim to step into the insured's shoes and recover from a liable third party is:",
+"topic": "Policyholder protection",
+"t": "Under the IRDAI (Protection of Policyholders' Interests) Regulations 2024, the free-look period for a policy with a term of one year or more is:",
 "o": [
-"Contribution",
-"Subrogation",
-"Indemnity",
-"Proximate cause"
+"15 days",
+"30 days",
+"45 days",
+"60 days"
 ],
 "a": 1,
-"e": "★ Core fact (asked across III papers). Subrogation is a corollary of indemnity; it does not apply to life or personal accident (benefit) policies.",
+"e": "★ Core fact (asked across III papers). 30 days from receipt of the policy document, irrespective of the sales channel.",
 "r": "core",
 "n": 43
 },
 {
 "n": 44,
-"topic": "Riders and Group Insurance",
-"t": "Which of the following statements about riders is INCORRECT?",
+"topic": "Actuarial Aspects of Product Development",
+"t": "Unit linked contracts provide which kind of benefits?",
 "o": [
-"Riders provide supplementary benefits attached to a base policy",
-"Accidental death benefit is a common rider",
-"A rider can be sold on a standalone basis without a base policy",
-"Rider benefits are priced separately with their own assumptions"
+"savings",
+"Emotional",
+"insurance",
+"Both A & C",
+"All of the above"
 ],
-"a": 2,
-"e": "By definition a rider is attached to a base policy and cannot exist on its own. The other statements correctly describe riders and their pricing."
+"a": 3,
+"e": "Correct answer: Both A & C (from the IC92 question bank)."
 },
 {
 "n": 45,
-"topic": "Reserving and Solvency",
-"t": "A regular premium term assurance policy is valued using a gross premium method and produces a negative reserve of −₹2,000 at a certain duration. For statutory valuation in India, the reserve to be held is:",
+"topic": "Actuarial Aspects of Product Development",
+"t": "What is the basis of contract between the policyholder and the insurer?",
 "o": [
-"−₹2,000",
-"₹0",
-"₹2,000",
-"The guaranteed surrender value, if higher than ₹2,000"
+"Insurance act",
+"Irda act",
+"Contract act",
+"Proposal form",
+"None of the above"
 ],
-"a": 1,
-"e": "IRDAI regulations do not permit negative reserves to be taken credit for; they are floored at zero (and at the surrender value where applicable). This eliminates the future profits that a negative reserve would anticipate."
+"a": 3,
+"e": "Correct answer: Proposal form (from the IC92 question bank)."
 },
 {
 "n": 46,
-"topic": "Reserving and Solvency",
-"t": "In the solvency margin computation, the 'sum at risk' for a conventional with-profits endowment is:",
+"topic": "Actuarial Aspects of Product Development",
+"t": "Which of the following is true?",
 "o": [
-"Total premiums paid to date",
-"The sum assured only",
-"The mathematical reserve",
-"The sum assured plus vested bonuses minus the mathematical reserve"
+"If interest rates fall when the net cash flows are",
+"If interest rates rise when the net cash flows are negative, capital losses occur.",
+"None of these"
 ],
-"a": 3,
-"e": "Sum at risk is the amount by which the death benefit (sum assured plus bonuses) exceeds the reserve already held, i.e. the net amount the insurer must fund on death."
+"a": 1,
+"e": "Correct answer: If interest rates rise when the net cash flows are negative, capital losses occur. (from the IC92 question bank)."
 },
 {
 "n": 47,
-"topic": "Embedded Value",
-"t": "A life insurer's embedded value at the start of the year was ₹5,000 crore. During the year it earned expected return (unwind) of ₹450 crore, value of new business of ₹600 crore and had adverse operating variances of ₹50 crore; it paid dividends of ₹200 crore. The closing embedded value is:",
+"topic": "Actuarial Aspects of Product Development",
+"t": "In India, most group insurance schemes are marketed by the insurance companies through:-",
 "o": [
-"₹5,800 crore",
-"₹6,000 crore",
-"₹5,600 crore",
-"₹6,100 crore"
+"Agents",
+"Brokers",
+"Directly by the company",
+"Banks",
+"None of the above"
 ],
-"a": 0,
-"e": "Closing EV = 5,000 + 450 + 600 − 50 − 200 = ₹5,800 crore. The analysis of movement reconciles opening to closing EV through unwind, new business, variances and capital movements."
+"a": 2,
+"e": "Correct answer: Directly by the company (from the IC92 question bank)."
 },
 {
 "n": 48,
-"topic": "Embedded Value",
-"t": "In the Indian embedded value framework (APS 10), the cost of residual non-hedgeable risks (CRNHR) is:",
+"topic": "Actuarial Aspects of Product Development",
+"t": "In ULIPs, investment risks are with:-",
 "o": [
-"Added to adjusted net worth",
-"A deduction from present value of future profits to allow for risks that cannot be hedged in the market, such as mortality and expense risk",
-"The cost of holding assets above the required solvency margin",
-"Ignored in the EV calculation"
+"Policyholder",
+"Government",
+"Regulator",
+"Insurance company",
+"All of them"
 ],
-"a": 1,
-"e": "CRNHR reduces VIF for risks like mortality, persistency and operational risk that cannot be hedged, usually computed using a cost-of-capital approach. Along with frictional cost of capital and time value of options and guarantees, it is subtracted from PVFP."
+"a": 0,
+"e": "Correct answer: Policyholder (from the IC92 question bank)."
 },
 {
 "n": 49,
-"topic": "Reinsurance in Pricing",
-"t": "Under a 40% quota share treaty, an insurer cedes 40% of a policy's premium of ₹1,00,000 and receives reinsurance commission of 20% on the ceded premium. The net cost of reinsurance to the insurer for this policy is:",
+"topic": "Actuarial Aspects of Product Development",
+"t": "Inflation linked contracts have benefits which __________ in value with respect to a inflation index or a constant inflation value.",
 "o": [
-"₹40,000",
-"₹8,000",
-"₹32,000",
-"₹20,000"
+"decrease",
+"increase",
+"change",
+"decline",
+"remain the same"
 ],
-"a": 2,
-"e": "Ceded premium = 40% × 1,00,000 = ₹40,000; commission received = 20% × 40,000 = ₹8,000; net cost = 40,000 − 8,000 = ₹32,000, in return for which the reinsurer pays 40% of claims."
+"a": 1,
+"e": "Correct answer: increase (from the IC92 question bank)."
 },
 {
 "n": 50,
-"topic": "Experience Analysis and Monitoring",
-"t": "An insurer expected 1,000 lapses in a cohort during the year on its pricing basis, but observed 1,250. The lapse A/E ratio is:",
+"topic": "Actuarial Aspects of Product Development",
+"t": "Claims Expenses' in case of life insurance products include expenses related to:-",
 "o": [
-"80%",
-"125%",
-"25%",
-"120%"
+"Expenses related to maturity",
+"Expenses related to death claims",
+"Expenses related to medical underwriting",
+"Expenses related to hospitalisation",
+"A' and 'B' only"
 ],
-"a": 1,
-"e": "A/E = 1,250 / 1,000 = 125%. Lapses are worse than assumed; for a product that is not lapse-supported this reduces profitability and may require revision of the withdrawal assumption."
+"a": 4,
+"e": "Correct answer: A' and 'B' only (from the IC92 question bank)."
 }
 ]
