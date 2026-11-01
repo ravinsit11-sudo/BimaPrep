@@ -363,7 +363,7 @@ footer .wrap{display:flex;gap:1rem;flex-wrap:wrap;justify-content:space-between}
 
 </main>
 
-<footer><div class="wrap"><span>© BimaPrep · bimaprep.in · <small style="opacity:.6">v12</small> · <a href="#legal">Privacy · Terms · Refunds</a> · Not affiliated with IRDAI, III or any insurer</span><span>Sources: Insurance Act 1938 · IRDA Act 1999 · IRDAI regulations & master circulars 2024 · PMFBY Operational Guidelines 2023</span></div></footer>
+<footer><div class="wrap"><span>© BimaPrep · bimaprep.in · <small style="opacity:.6">v13</small> · <a href="#legal">Privacy · Terms · Refunds</a> · Not affiliated with IRDAI, III or any insurer</span><span>Sources: Insurance Act 1938 · IRDA Act 1999 · IRDAI regulations & master circulars 2024 · PMFBY Operational Guidelines 2023</span></div></footer>
 
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js"></script>
 <script>
@@ -2983,7 +2983,7 @@ function drawQ(){
   const q=T.q[cur];
   document.getElementById('qNo').textContent=`Question ${cur+1} of ${T.q.length}${flags[cur]?' · flagged':''}`;
   document.getElementById('qText').textContent=q.t;
-  document.getElementById('opts').innerHTML=q.o.map((o,i)=>`<button class="opt ${ans[cur]===i?'sel':''}" data-i="${i}"><b>${'ABCD'[i]}</b><span>${esc(o)}</span></button>`).join('');
+  document.getElementById('opts').innerHTML=q.o.map((o,i)=>`<button class="opt ${ans[cur]===i?'sel':''}" data-i="${i}"><b>${'ABCDE'[i]}</b><span>${esc(o)}</span></button>`).join('');
   document.querySelectorAll('#opts .opt').forEach(b=>b.addEventListener('click',()=>{ans[cur]=+b.dataset.i;drawQ()}));
   document.getElementById('dots').innerHTML=T.q.map((_,i)=>`<button class="dot ${ans[i]>=0?'ans':''} ${i===cur?'cur':''} ${flags[i]?'flag':''}" data-j="${i}" aria-label="Question ${i+1}">${i+1}</button>`).join('');
   document.querySelectorAll('.dot').forEach(d=>d.addEventListener('click',()=>{cur=+d.dataset.j;drawQ()}));
@@ -3004,7 +3004,7 @@ async function finish(){
   document.getElementById('testRun').hidden=true; document.getElementById('testResult').hidden=false;
   document.getElementById('resTitle').textContent=`${T.title}: ${pct>=60?'Pass':'Below pass mark'}`;
   document.getElementById('scoreTiles').innerHTML=`<div class="card"><div class="big">${pct}%</div><div class="eyebrow">Score</div></div><div class="card"><div class="big">${correct}</div><div class="eyebrow">Correct of ${total}</div></div><div class="card"><div class="big">${total-correct-un}</div><div class="eyebrow">Wrong</div></div><div class="card"><div class="big">${un}</div><div class="eyebrow">Unanswered</div></div><div class="card"><div class="big">${Math.floor((T.minutes*60-left)/60)}m</div><div class="eyebrow">Time used</div></div>`;
-  document.getElementById('review').innerHTML=T.q.map((q,i)=>`<div class="card"><div class="eyebrow">Question ${i+1} · ${ans[i]===q.a?'<span class="pill ok">Correct</span>':ans[i]<0?'<span class="pill warn">Unanswered</span>':'<span class="pill bad">Wrong</span>'}${q.r?` <span class="pill" style="color:var(--gold)">★ ${q.r==='core'?'Core fact':'Key fact'}</span>`:''}</div><div class="q" style="font-size:1rem">${esc(q.t)}</div><div class="opts">${q.o.map((o,j)=>`<div class="opt ${j===q.a?'right':(ans[i]===j?'wrong':'')}"><b>${'ABCD'[j]}</b><span>${esc(o)}</span></div>`).join('')}</div><div class="explain"><b>Why:</b> ${esc(q.e)}</div></div>`).join('');
+  document.getElementById('review').innerHTML=T.q.map((q,i)=>`<div class="card"><div class="eyebrow">Question ${i+1} · ${ans[i]===q.a?'<span class="pill ok">Correct</span>':ans[i]<0?'<span class="pill warn">Unanswered</span>':'<span class="pill bad">Wrong</span>'}${q.r?` <span class="pill" style="color:var(--gold)">★ ${q.r==='core'?'Core fact':'Key fact'}</span>`:''}</div><div class="q" style="font-size:1rem">${esc(q.t)}</div><div class="opts">${q.o.map((o,j)=>`<div class="opt ${j===q.a?'right':(ans[i]===j?'wrong':'')}"><b>${'ABCDE'[j]}</b><span>${esc(o)}</span></div>`).join('')}</div><div class="explain"><b>Why:</b> ${esc(q.e)}</div></div>`).join('');
   window.scrollTo({top:0});
 }
 document.getElementById('btnRetake').addEventListener('click',()=>startTest(T.id,T));
