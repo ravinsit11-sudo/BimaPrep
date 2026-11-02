@@ -1,657 +1,705 @@
 [
 {
 "n": 1,
-"topic": "Introduction to Underwriting",
-"t": "The principle that the insured should be placed in the same financial position after a loss as immediately before it, and not profit from it, is the principle of:",
+"topic": "General Insurance Underwriting",
+"t": "Insurance documentation includes:- <BR><BR>I. Agents code of conduct <BR>II. Insurers vision statement <BR>III. Renewal Notice",
 "o": [
-"Utmost good faith",
-"Indemnity",
-"Insurable interest",
-"Proximate cause"
+"I only",
+"II only",
+"III only",
+"I and II",
+"II and III"
 ],
-"a": 1,
-"e": "Indemnity governs property and liability insurance and is implemented through sum insured, average, contribution and subrogation; personal accident covers are benefit policies and are an exception."
+"a": 2,
+"e": "Correct answer: III only (from the IC45 question bank)."
 },
 {
 "n": 2,
-"topic": "Introduction to Underwriting",
-"t": "Which of the following is NOT a function performed by the underwriting department?",
+"topic": "General Insurance Underwriting",
+"t": "__________ use past experience so as to determine the costs of coverage for the future.",
 "o": [
-"Deciding acceptance terms for proposals",
-"Adjudicating complaints as an independent Ombudsman",
-"Monitoring portfolio loss ratios",
-"Framing the insurer's reinsurance retention and treaty requirements with the reinsurance department"
+"Prospective systems / ?????????? ??????????",
+"Retrospective systems / ??????????? ??????????",
+"Regressive systems / ???????????? ??????????",
+"Divine systems / ???? ??????????",
+"Curated systems / ???????? ??????????"
 ],
-"a": 1,
-"e": "Underwriting selects, prices, monitors and works with reinsurance; the Ombudsman is an external, independent authority."
+"a": 0,
+"e": "Correct answer: Prospective systems / ?????????? ?????????? (from the IC45 question bank)."
 },
 {
 "n": 3,
-"topic": "Introduction to Underwriting",
-"t": "Section 64UM of the Insurance Act, 1938 relates to:",
+"topic": "General Insurance Underwriting",
+"t": "Design and filing of products should only be done in conformity with:-",
 "o": [
-"Licensing of surveyors and the requirement to appoint a surveyor for claims above the prescribed threshold",
-"Advance payment of premium",
-"Solvency margin",
-"Registration of insurers"
+"Prevailing market practices",
+"Historical market rates",
+"Competition products",
+"Underwriting policy approved by the board",
+"Underwriting policy approved by the consumers"
 ],
-"a": 0,
-"e": "Section 64UM governs surveyors and loss assessors; a licensed surveyor must assess claims above ₹50,000 for motor and ₹1 lakh for other classes."
+"a": 3,
+"e": "Correct answer: Underwriting policy approved by the board (from the IC45 question bank)."
 },
 {
 "n": 4,
-"topic": "Introduction to Underwriting",
-"t": "The amended obligation on insurers to obtain a licensed surveyor's report applies to motor claims exceeding:",
+"topic": "General Insurance Underwriting",
+"t": "Identify the rating factors associated with Commercial automobile insurance.",
 "o": [
-"₹50,000",
-"₹5 lakh",
-"₹1 lakh",
-"₹20,000"
+"Occupation Class code / ???? ?????? ???",
+"Specialty Territory / ??????? ???????",
+"Amount of insurance / ???? ?? ??????",
+"Age and gender / ???? ?? ????",
+"Drivers class / ???? ?? ??????"
 ],
-"a": 0,
-"e": "The threshold is ₹50,000 for motor claims and ₹1 lakh for other classes under the surveyor regulations as amended."
+"a": 4,
+"e": "Correct answer: Drivers class / ???? ?? ?????? (from the IC45 question bank)."
 },
 {
 "n": 5,
-"topic": "Methodology and Procedures of Underwriting",
-"t": "The 'duty of disclosure' of the proposer ends:",
+"topic": "General Insurance Underwriting",
+"t": "Insurance pricing is also known as ________.",
 "o": [
-"When the contract is concluded, reviving at renewal or on any material alteration during the policy",
-"At the time of claim",
-"At the time of the first premium receipt",
-"Never"
+"Trend setting / ??? ?????",
+"Claim setting / ???? ??????",
+"Rate making / ?? ????????",
+"Profit making / ??? ?????",
+"Market setting / ????? ?? ????????"
 ],
-"a": 0,
-"e": "Material facts must be disclosed up to conclusion of the contract; policy conditions typically require notification of material changes during currency and the duty revives at renewal."
+"a": 2,
+"e": "Correct answer: Rate making / ?? ???????? (from the IC45 question bank)."
 },
 {
 "n": 6,
-"topic": "Methodology and Procedures of Underwriting",
-"t": "Which of the following is NOT normally part of a policy document?",
+"topic": "General Insurance Underwriting",
+"t": "None of the following are contained in a proposal form EXCEPT:-<br><br>I. Bank Guarantee<br>II. Surety bond<br>III. Previous insurance",
 "o": [
-"The surveyor's licence",
-"Operative clause",
-"Schedule",
-"Conditions and exclusions"
+"I only",
+"II only",
+"III only",
+"I and II",
+"I and II and III"
 ],
-"a": 0,
-"e": "A policy comprises the preamble/recital, operative clause, schedule, exclusions, conditions, warranties and endorsements; surveyor documents are claims-stage papers."
+"a": 2,
+"e": "Correct answer: III only (from the IC45 question bank)."
 },
 {
 "n": 7,
-"topic": "Methodology and Procedures of Underwriting",
-"t": "Under the 'contribution' condition, if the same loss of ₹6 lakh is covered by two fire policies with sums insured of ₹20 lakh (Insurer A) and ₹30 lakh (Insurer B), Insurer A's share is:",
+"topic": "General Insurance Underwriting",
+"t": "The Board approved Underwriting Policy is required to be filed with _______.",
 "o": [
-"₹3.6 lakh",
-"₹6 lakh",
-"₹3 lakh",
-"₹2.4 lakh"
+"Insurer",
+"State Government",
+"Regulator",
+"Underwriter",
+"Agent"
 ],
-"a": 3,
-"e": "By the sum insured (rateable proportion) method, A pays 6 × 20 ÷ 50 = ₹2.4 lakh and B pays ₹3.6 lakh."
+"a": 2,
+"e": "Correct answer: Regulator (from the IC45 question bank)."
 },
 {
 "n": 8,
-"topic": "Underwriting Profitability and Re-underwriting Strategies",
-"t": "A combined ratio of less than 100% indicates that the insurer:",
+"topic": "General Insurance Underwriting",
+"t": "A combined ratio over 100% indicates ________.",
 "o": [
-"Is insolvent",
-"Has made an underwriting loss",
-"Has made an underwriting profit before investment income",
-"Has not met the solvency margin"
+"Underwriting loss",
+"Underwriting profits",
+"Surplus reserves",
+"Deficit reserves",
+"Dynamic growth"
 ],
-"a": 2,
-"e": "★ Key fact (repeated across the mocks of this paper). When claims plus expenses are less than earned premium, the underwriting account is in profit; above 100% the insurer depends on investment income to remain profitable.",
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Underwriting loss (from the IC45 question bank).",
 "r": "key"
 },
 {
 "n": 9,
-"topic": "Methodology and Procedures of Underwriting",
-"t": "Which of the following statements about 'renewal' of a general insurance policy is correct?",
+"topic": "General Insurance Underwriting",
+"t": "Give us an example where an insurer would charge higher premium.<br><br>I. New models of vehicles<br>II. Experienced drivers<br>III. Young drivers",
 "o": [
-"The duty of disclosure does not apply at renewal",
-"The insurer is legally bound to renew every policy on the same terms",
-"Renewal does not require payment of premium",
-"Renewal is a fresh contract; the insurer may revise terms based on experience, subject to regulatory requirements for retail policies such as timely renewal notice"
+"I only",
+"II only",
+"III only",
+"I and II",
+"II and III"
 ],
-"a": 3,
-"e": "Each renewal is a new contract to which utmost good faith applies; underwriters may re-price or change terms, although regulations protect retail/health policyholders from arbitrary refusal."
+"a": 2,
+"e": "Correct answer: III only (from the IC45 question bank)."
 },
 {
 "n": 10,
-"topic": "Principles of Rate Making",
-"t": "A 'rate' and a 'premium' differ in that:",
+"topic": "General Insurance Underwriting",
+"t": "State the ancillary objectives of a premium rating system.",
 "o": [
-"Premium is per unit and rate is the total",
-"The rate is the price per unit of exposure, while the premium is the rate multiplied by the number of exposure units",
-"They are identical",
-"Rate includes GST and premium does not"
+"Volatility / ????-????",
+"Creative / ????????",
+"Ingenuity / ??????",
+"Intuitive / ??? ?????",
+"Incentives to insured / ???????? ?? ??????????"
 ],
-"a": 1,
-"e": "Rate × exposure (e.g. per mille × sum insured ÷ 1,000) = premium; the rate is the building block of pricing."
+"a": 4,
+"e": "Correct answer: Incentives to insured / ???????? ?? ?????????? (from the IC45 question bank)."
 },
 {
 "n": 11,
-"topic": "Principles of Rate Making",
-"t": "Which of the following statements about 'unfair discrimination' in rating is correct?",
+"topic": "General Insurance Underwriting",
+"t": "The most desired quality in underwriting decision making is ________.",
 "o": [
-"Rates must be identical irrespective of hazard",
-"Discrimination is prohibited only in life insurance",
-"Any difference in rates between two insureds is unfair discrimination",
-"Charging different rates to risks with genuinely different expected loss costs is fair; charging different rates to similar risks without actuarial basis is unfair"
+"Stability",
+"Benevolence",
+"Gullibility",
+"Aggression",
+"Consistency"
 ],
-"a": 3,
-"e": "Rate making seeks to distinguish risks on relevant factors; discrimination becomes unfair only when it is not justified by expected cost differences."
+"a": 4,
+"e": "Correct answer: Consistency (from the IC45 question bank)."
 },
 {
 "n": 12,
-"topic": "Principles of Rate Making",
-"t": "In a loss-ratio rate indication, the current average rate is ₹5,000, the projected loss ratio at current rates is 72% and the permissible loss ratio is 60%. The indicated new average rate is:",
+"topic": "General Insurance Underwriting",
+"t": "Mention the options exercised by the insurer when issuing a policy on a sub-standard basis. <br><br>I: Issue policy with the lower  premiums <br>II: Issue all risk cover policy <br>III: Issue the policy with certain exclusions",
 "o": [
-"₹4,167",
-"₹7,200",
-"₹5,600",
-"₹6,000"
+"I only / ???? I",
+"II only / ???? II",
+"III only / ???? III",
+"I and II / I ?? II",
+"I, II and III / I ?? II ?? III"
 ],
-"a": 3,
-"e": "Indicated change = 0.72 ÷ 0.60 − 1 = +20%; new average rate = ₹5,000 × 1.20 = ₹6,000."
+"a": 2,
+"e": "Correct answer: III only / ???? III (from the IC45 question bank)."
 },
 {
 "n": 13,
-"topic": "Principles of Rate Making",
-"t": "The 'unexpired risk reserve' for marine hull business is traditionally maintained at:",
+"topic": "General Insurance Underwriting",
+"t": "Which among the following statement is true?<br><br>I. 'Rates' are not the same as premiums<br>II. A rate is the price of a given unit of insurance<br>III. Rates vary according to the likelihood and potential size of loss",
 "o": [
-"100% of net premium",
-"No reserve is required",
-"50% of net premium",
-"25% of net premium"
+"I only",
+"II only",
+"III only",
+"I and II",
+"I and II and III"
 ],
-"a": 0,
-"e": "Because marine hull policies are typically for voyages or periods whose exposure runs beyond year end, the full net premium is reserved, versus 50% (or 1/365) for other classes."
+"a": 4,
+"e": "Correct answer: I and II and III (from the IC45 question bank)."
 },
 {
 "n": 14,
-"topic": "Principles of Rate Making",
-"t": "Which of the following is the correct formula for the pure premium method when fixed expenses are nil?",
+"topic": "General Insurance Underwriting",
+"t": "Ramesh seeks property insurance for his house located on  an earthquake faultline. How will his proposal be considered by the underwriter?",
 "o": [
-"Rate = pure premium × (1 − V − Q)",
-"Rate = pure premium ÷ (1 − V − Q), where V is the variable expense ratio and Q is the profit and contingency loading",
-"Rate = pure premium + V + Q",
-"Rate = pure premium ÷ (V + Q)"
+"Policy issued on a preferred basis",
+"Policy issued on a standard basis",
+"Policy issued on a sub-standard basis",
+"Proposal will be accepted with riders",
+"Proposal will be declined"
 ],
-"a": 1,
-"e": "Dividing by the permissible loss ratio (1 − V − Q) grosses up the loss cost so that variable expenses and profit are provided as proportions of the final premium."
+"a": 4,
+"e": "Correct answer: Proposal will be declined (from the IC45 question bank)."
 },
 {
 "n": 15,
-"topic": "Principles of Rate Making",
-"t": "An insurer paid claims of ₹90 crore in the year; outstanding claims at the start were ₹40 crore and at the end ₹55 crore. Incurred claims for the year are:",
+"topic": "General Insurance Underwriting",
+"t": "Identify the scenario where a policy can be issued on a substandard basis.",
 "o": [
-"₹105 crore",
-"₹75 crore",
-"₹185 crore",
-"₹90 crore"
+"Proposal falls within lowest risk boundaries",
+"Proposal falls within normal risk boundaries",
+"Proposal falls outside normal risk boundaries but is not high risk",
+"Proposal falls outside acceptable risk boundaries",
+"Proposal is from a respected member of the society"
 ],
-"a": 0,
-"e": "Incurred claims = paid + closing outstanding − opening outstanding = 90 + 55 − 40 = ₹105 crore."
+"a": 2,
+"e": "Correct answer: Proposal falls outside normal risk boundaries but is not high risk (from the IC45 question bank)."
 },
 {
 "n": 16,
-"topic": "Principles of Rate Making",
-"t": "An insurer's data for a class of risk shows 4,000 vehicle-years of exposure, 320 claims and total incurred losses of ₹9.6 crore. The pure premium per vehicle-year is:",
+"topic": "General Insurance Underwriting",
+"t": "An insurer shall dispose of a claim within 30 days of receipt of the survey report.",
 "o": [
-"₹24,000",
-"₹2,400",
-"₹3,000",
-"₹30,000"
+"10",
+"20",
+"40",
+"30",
+"50"
 ],
-"a": 0,
-"e": "★ Key fact (repeated across the mocks of this paper). Pure premium = total losses ÷ exposure = ₹9,60,00,000 ÷ 4,000 = ₹24,000. Equivalently frequency (0.08) × severity (₹3,00,000) = ₹24,000.",
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: 30 (from the IC45 question bank).",
 "r": "key"
 },
 {
 "n": 17,
-"topic": "Rating Approaches and Pricing Methods",
-"t": "In a per-mille fire rating schedule, a 'credit' is typically given for:",
+"topic": "General Insurance Underwriting",
+"t": "In a certain state, all insurance rates must be approved by the state insurance department before the rates can be used. This type of rating law is called?",
 "o": [
-"Installation of an approved automatic sprinkler system",
-"Open storage of combustible waste",
-"Absence of fire extinguishers",
-"Presence of hazardous goods"
+"File and Use",
+"Use and File",
+"Flex rating",
+"Prior Approval",
+"Open Market"
 ],
-"a": 0,
-"e": "Fire extinguishing appliances (sprinklers, hydrants, detection) reduce expected loss and earn discounts in schedule rating; adverse features attract debits."
+"a": 3,
+"e": "Correct answer: Prior Approval (from the IC45 question bank)."
 },
 {
 "n": 18,
-"topic": "Rating Approaches and Pricing Methods",
-"t": "For a two-wheeler aged 3 years, the motor own-damage premium is computed on an IDV that reflects depreciation of:",
+"topic": "General Insurance Underwriting",
+"t": "_________ is a tool to rate large complex risks and where detailed inspection and audit is carried out.",
 "o": [
-"50%",
-"30%",
-"40%",
-"20%"
+"Simple rating",
+"Complex rating",
+"Prospective rating",
+"Retrospective rating",
+"Regressive rating"
 ],
-"a": 2,
-"e": "Per the IDV schedule, vehicles aged more than 3 years and up to 4 years carry 40% depreciation; the same schedule applies to two-wheelers and private cars."
+"a": 1,
+"e": "Correct answer: Complex rating (from the IC45 question bank)."
 },
 {
 "n": 19,
-"topic": "Rating Approaches and Pricing Methods",
-"t": "A liability underwriter rates a product liability policy. The most relevant exposure measure is:",
+"topic": "General Insurance Underwriting",
+"t": "Identify the point(s) that highlight(s) the need for research and development in the field of insurance. <BR><BR>I. Poor sales performance <BR>II. Increasing liabilities <BR>III. Emerging technologies",
 "o": [
-"Wages of employees",
-"Number of fire extinguishers",
-"Annual turnover of the products sold, along with the nature of products and territory of sale",
-"Sum insured of the factory building"
+"I only",
+"II only",
+"III only",
+"I and II",
+"II and III"
 ],
 "a": 2,
-"e": "Product liability exposure grows with the volume and nature of products placed in the market; turnover and export territory (e.g. USA/Canada) drive the rate."
+"e": "Correct answer: III only (from the IC45 question bank)."
 },
 {
 "n": 20,
-"topic": "Rating Approaches and Pricing Methods",
-"t": "An insurer prices a group health scheme for 2,000 employees. Expected claims per member are ₹9,000, expenses are 15% of premium and profit margin is 5%. The indicated premium per member is:",
+"topic": "General Insurance Underwriting",
+"t": "According to File & Use guidelines, large risks are _________.",
 "o": [
-"₹10,800",
-"₹11,250",
-"₹9,000",
-"₹10,350"
+"Ones that cannot be quantified",
+"Ones that cannot be predicted",
+"Ones that cannot be managed",
+"Ones that cannot be controlled",
+"Rs.100 crores or more per event for liability insurance"
 ],
-"a": 1,
-"e": "Premium = 9,000 ÷ (1 − 0.15 − 0.05) = 9,000 ÷ 0.80 = ₹11,250."
+"a": 4,
+"e": "Correct answer: Rs.100 crores or more per event for liability insurance (from the IC45 question bank)."
 },
 {
 "n": 21,
-"topic": "Rating Approaches and Pricing Methods",
-"t": "Which of the following statements about rating of marine hull risks is INCORRECT?",
+"topic": "General Insurance Underwriting",
+"t": "Which among the following is the right formula for calculating pure premium?",
 "o": [
-"Classification society status is a relevant factor",
-"Trading limits and past claims influence the rate",
-"Age, tonnage and type of vessel affect the rate",
-"Hull rates are expressed per employee of the shipping company"
+"(Actual loss + Loss adjustment expenses)/(Number of Exposure units)",
+"(Actual loss - Loss adjustment expenses)/(Number o",
+"(Actual loss * Loss adjustment expenses)/(Number o",
+"(Actual loss * Loss adjustment expenses)+(Number o",
+"(Actual loss * Loss adjustment expenses)-(Number o"
 ],
-"a": 3,
-"e": "Hull premium is a rate on the insured value of the vessel, reflecting vessel characteristics, management, trading area and experience; headcount is irrelevant."
+"a": 0,
+"e": "Correct answer: (Actual loss + Loss adjustment expenses)/(Number of Exposure units) (from the IC45 question bank)."
 },
 {
 "n": 22,
-"topic": "Rating Approaches and Pricing Methods",
-"t": "Under the Arogya Sanjeevani standard health policy, room rent is limited to:",
+"topic": "General Insurance Underwriting",
+"t": "What is a proposal? <BR><BR>I. A request for an insurance cover <BR>II. An offer to enter into an insurance contract <BR>III. A request to claim policy monies",
 "o": [
-"No limit",
-"5% of sum insured per day",
-"1% of sum insured per day",
-"2% of sum insured per day subject to a maximum of ₹5,000"
+"I only",
+"II only",
+"III only",
+"I and II",
+"II and III"
 ],
 "a": 3,
-"e": "Arogya Sanjeevani caps room rent at 2% of SI (max ₹5,000 per day) and ICU at 5% of SI (max ₹10,000 per day) with a 5% co-payment."
+"e": "Correct answer: I and II (from the IC45 question bank)."
 },
 {
 "n": 23,
-"topic": "IRDAI File and Use Guidelines",
-"t": "Before the Use and File liberalisation, the period IRDA had to raise queries on a filed general insurance product, failing which the insurer could proceed, was typically:",
+"topic": "General Insurance Underwriting",
+"t": "None of the following is a rating factor in case of motor insurance EXCEPT:- <BR><BR>I. Annual income <BR>II. Lingual preference <BR>III. Occupation",
 "o": [
-"90 days",
-"30 days",
-"180 days",
-"7 days"
+"I only",
+"II only",
+"III only",
+"I and II",
+"II and III"
 ],
-"a": 1,
-"e": "The File and Use guidelines provided a 30-day window for the Authority to respond to a filing."
+"a": 2,
+"e": "Correct answer: III only (from the IC45 question bank)."
 },
 {
 "n": 24,
-"topic": "IRDAI File and Use Guidelines",
-"t": "Under IRDAI's product framework, which of the following classes is treated as a 'commercial' line where terms may be customised?",
+"topic": "General Insurance Underwriting",
+"t": "___________ is a critical component of underwriting. <BR><BR>I. Target marketing <BR>II. Customer Relationship Management <BR>III. Product management",
 "o": [
-"Personal accident for individuals",
-"Individual health",
-"Private car package",
-"Industrial fire risks of large enterprises"
+"I only",
+"II only",
+"III only",
+"I and II",
+"II and III"
 ],
-"a": 3,
-"e": "Large industrial, engineering and liability risks are commercial lines; retail products for individuals and small businesses follow standardised, filed terms."
+"a": 2,
+"e": "Correct answer: III only (from the IC45 question bank)."
 },
 {
 "n": 25,
-"topic": "IRDAI File and Use Guidelines",
-"t": "Which of the following statements regarding IRDAI's prescribed standard products is correct?",
+"topic": "General Insurance Underwriting",
+"t": "Considering all the relevant rating factors ensures that:-",
 "o": [
-"Standard products need no filing at all",
-"Standard products can be modified freely by each insurer",
-"Standard products like Bharat Griha Raksha have wordings prescribed by IRDAI, while insurers price them",
-"Standard products have both wording and price fixed by the government"
+"Premiums are high",
+"Premiums are not inadequate, excessive or unfairly discriminatory",
+"Premiums are low",
+"Profits are guaranteed",
+"Losses are limited"
 ],
-"a": 2,
-"e": "IRDAI mandated uniform wordings for standard products (BGR, BSUS, BLUS, Arogya Sanjeevani) to aid comparability, leaving pricing to each insurer subject to filing."
+"a": 1,
+"e": "Correct answer: Premiums are not inadequate, excessive or unfairly discriminatory (from the IC45 question bank)."
 },
 {
 "n": 26,
-"topic": "IRDAI File and Use Guidelines",
-"t": "The requirement that an insurer's product should not be 'against policyholder interest' is primarily enforced through:",
+"topic": "General Insurance Underwriting",
+"t": "Identify the class of insurance against which the risk mentioned below can be categorised.<br><br>Risk: Fidelity guarantee",
 "o": [
-"The agent's licence",
-"Reinsurance treaties",
-"Product filing review and policyholder protection regulations",
-"The General Insurance Council's annual report"
+"Fire",
+"Miscellaneous",
+"Marine",
+"Liability",
+"Personal"
 ],
-"a": 2,
-"e": "Product governance and the PPHI regulations together ensure terms are fair, clear and not detrimental to policyholders."
+"a": 1,
+"e": "Correct answer: Miscellaneous (from the IC45 question bank)."
 },
 {
 "n": 27,
-"topic": "Applications of File and Use and Use and File Procedures",
-"t": "Which of the following is an advantage of Use and File for policyholders?",
+"topic": "General Insurance Underwriting",
+"t": "In a city loss experience of 1000 bikes each valued at Rs. 75,000 by theft shows that over a period of say 10 years, on average 2 bikes are stolen.  How much will be the pure premium?",
 "o": [
-"Faster availability of innovative and need-based products in the market",
-"Uniform pricing across all insurers",
-"Lower claims payment",
-"Elimination of policy conditions"
+"Rs. 15",
+"Rs. 150",
+"Rs. 1500",
+"Rs. 500",
+"Rs. 750"
 ],
-"a": 0,
-"e": "Use and File reduces time-to-market, allowing insurers to respond quickly to emerging needs such as pandemic covers, EV add-ons or cyber products."
+"a": 1,
+"e": "Correct answer: Rs. 150 (from the IC45 question bank)."
 },
 {
 "n": 28,
-"topic": "Principles of Rate Making",
-"t": "A rate revision is being prepared for a health product. Historical incurred claims are ₹60 crore; medical inflation is 8% per annum and the rates will apply two years later than the midpoint of the experience period. The trended losses are approximately:",
+"topic": "General Insurance Underwriting",
+"t": "In which case will the insurer need prior approval only in case the rate change is substantial  e.g. 10% - 25%?",
 "o": [
-"₹64.8 crore",
-"₹72.6 crore",
-"₹69.98 crore",
-"₹60.0 crore"
+"Open competition laws",
+"Prior approval laws",
+"Flex rating laws",
+"File and Use laws",
+"Use and File laws"
 ],
 "a": 2,
-"e": "★ Key fact (repeated across the mocks of this paper). Trended losses = 60 × (1.08)^2 = 60 × 1.1664 = ₹69.98 crore.",
+"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Flex rating laws (from the IC45 question bank).",
 "r": "key"
 },
 {
 "n": 29,
-"topic": "Applications of File and Use and Use and File Procedures",
-"t": "A general insurer modifies the deductible structure of an existing filed commercial product. Under Use and File this modification:",
+"topic": "General Insurance Underwriting",
+"t": "Which among the following is exclusion under marine insurance for the proposal mentioned below? Proposal: Asbestos cement pipes and  sheets <br><br>I: Damage due to water <br>II: Loss as a result of sunken cargo <br>III: Breakage",
 "o": [
-"Must be approved by the Product Management Committee and filed with IRDAI in the prescribed manner",
-"Needs no internal approval",
-"Requires a new company registration",
-"Must be approved by the Ombudsman"
+"I only / ???? I",
+"II only / ???? II",
+"III only / ???? III",
+"I and II / I ?? II",
+"II and III / II ?? III"
 ],
-"a": 0,
-"e": "Modifications follow the same governance path as new products: PMC approval and filing with the Authority."
+"a": 2,
+"e": "Correct answer: III only / ???? III (from the IC45 question bank)."
 },
 {
 "n": 30,
-"topic": "Applications of File and Use and Use and File Procedures",
-"t": "Which statement about Use and File is INCORRECT?",
+"topic": "General Insurance Underwriting",
+"t": "___________ means that the insurer should only offer insurance of risks that are quantifiable and manageable and where the premium can be properly assessed.",
 "o": [
-"IRDAI can direct withdrawal or modification of a product found non-compliant after launch",
-"Insurers must maintain records of PMC approvals",
-"The insurer's board remains responsible for product governance",
-"Products launched under Use and File are exempt from policyholder protection regulations"
+"Sound judgement",
+"Right morality",
+"Perfect deduction",
+"Prudent underwriting",
+"Prudent rationalisation"
 ],
 "a": 3,
-"e": "Use and File changes the timing of filing, not the applicability of regulations; all products must comply with PPHI and other regulations."
+"e": "Correct answer: Prudent underwriting (from the IC45 question bank)."
 },
 {
 "n": 31,
-"topic": "Tools of Underwriting",
-"t": "A per-risk excess of loss treaty of ₹3 crore in excess of ₹2 crore applies. During a single factory fire the loss is ₹6 crore. The cedant's net loss (ignoring any other protection) is:",
+"topic": "General Insurance Underwriting",
+"t": "Pure premium can be estimated from <BR><BR>I. Likelihood of submitting a claim <BR>II. Expected  size of a claim <BR>III. Cause of the claim",
 "o": [
-"₹1 crore",
-"₹2 crore",
-"₹6 crore",
-"₹3 crore"
+"I only",
+"II only",
+"III only",
+"I and II",
+"II and III"
 ],
 "a": 3,
-"e": "The cedant bears the ₹2 crore retention plus the ₹1 crore above the layer limit (₹6 − ₹2 − ₹3), i.e. ₹3 crore; the reinsurer pays ₹3 crore."
+"e": "Correct answer: I and II (from the IC45 question bank)."
 },
 {
 "n": 32,
-"topic": "Tools of Underwriting",
-"t": "The IRDAI (Re-insurance) Regulations, 2018 require Indian insurers to offer reinsurance cessions, in order of preference, first to:",
+"topic": "General Insurance Underwriting",
+"t": "Which among the following is the 7<SU><SUP>th</SUP></SUP> step in the product innovation process?<BR><BR>I. Identifying need for changes in existing products<BR>II. Determining reasons for changes in portfolio<BR>III. Identifying customer needs<BR>IV. Making corrective changes<BR>V. Preparing product proposals<BR>VI. Determining cost and benefits of product changes<BR>VII. Regulatory compliances",
 "o": [
-"Lloyd's syndicates only",
-"Co-insurers",
-"Indian reinsurers (GIC Re) and then foreign reinsurance branches in India, before overseas reinsurers",
-"Foreign reinsurers abroad"
+"I",
+"II",
+"V",
+"VII",
+"IV"
 ],
-"a": 2,
-"e": "The order of preference is designed to retain premium within India: Indian reinsurers first, then FRBs/IIO entities, then cross-border reinsurers."
+"a": 3,
+"e": "Correct answer: VII (from the IC45 question bank)."
 },
 {
 "n": 33,
-"topic": "Tools of Underwriting",
-"t": "Which of the following is an 'underwriting guideline' rather than a 'policy condition'?",
+"topic": "General Insurance Underwriting",
+"t": "Which among the following is a feature of underwriting?<br><br>I. Risk elimination<br>II. Promoting business growth<br>III. To classify risk based upon the risk characteristics",
 "o": [
-"Notification of loss within 7 days",
-"Internal instruction that no godown risk with thatched roof shall be accepted without head-office approval",
-"Condition of average",
-"Subrogation condition"
+"I only",
+"II only",
+"III only",
+"I and II",
+"II and III"
 ],
-"a": 1,
-"e": "Underwriting guidelines are internal manuals governing acceptance; policy conditions are contractual terms binding on the insured."
+"a": 2,
+"e": "Correct answer: III only (from the IC45 question bank)."
 },
 {
 "n": 34,
-"topic": "Tools of Underwriting",
-"t": "Risk financing through 'retention' by a corporate client (e.g. a large deductible or captive) affects the underwriter's pricing because:",
+"topic": "General Insurance Underwriting",
+"t": "_________ are special conditions based on the statements made by the insured. These are imposed under the policy, which are to be adhered to by the proposer for performance of the contract.",
 "o": [
-"It makes reinsurance compulsory",
-"It has no effect",
-"It removes attritional losses from the insurer, justifying a lower premium while the insurer covers large losses",
-"It increases the frequency of small claims"
+"Exclusions",
+"Inclusions",
+"Guarantees",
+"Warranties",
+"Grants"
 ],
-"a": 2,
-"e": "Higher client retention changes the loss distribution facing the insurer; pricing should reflect the expected losses above the retention plus a reduced expense load."
+"a": 3,
+"e": "Correct answer: Warranties (from the IC45 question bank)."
 },
 {
 "n": 35,
-"topic": "Tools of Underwriting",
-"t": "The term 'Estimated Maximum Loss' (EML) is used by underwriters to:",
+"topic": "General Insurance Underwriting",
+"t": "Identify the class of insurance against which the risk mentioned below can be categorised. Risk: Explosive factories and premises",
 "o": [
-"Compute the sum insured",
-"Estimate the loss expected under adverse but not extreme conditions, assuming normal functioning of fire protection, for retention decisions",
-"Determine the claim reserve",
-"Fix the agent's commission"
+"Fire / ?????",
+"Marine / ????",
+"Miscellaneous / ?????",
+"Liability / ?????",
+"Personal / ????"
 ],
-"a": 1,
-"e": "EML/PML estimates guide how much of a large risk the insurer can retain and how much needs reinsurance; they are not the sum insured."
+"a": 0,
+"e": "Correct answer: Fire / ????? (from the IC45 question bank)."
 },
 {
-"topic": "Principles",
-"t": "The principle that allows an insurer who has paid a claim to step into the insured's shoes and recover from a liable third party is:",
+"topic": "Claims timelines",
+"t": "For health insurance, the maximum time an insurer may take to decide a cashless authorisation request under the 2024 master circular is:",
 "o": [
-"Contribution",
-"Subrogation",
-"Indemnity",
-"Proximate cause"
+"1 hour",
+"3 hours",
+"6 hours",
+"24 hours"
 ],
-"a": 1,
-"e": "★ Core fact (asked across III papers). Subrogation is a corollary of indemnity; it does not apply to life or personal accident (benefit) policies.",
+"a": 0,
+"e": "★ Core fact (asked across III papers). Cashless authorisation within 1 hour of request; final discharge authorisation within 3 hours.",
 "r": "core",
 "n": 36
 },
 {
 "n": 37,
-"topic": "Types of Policies",
-"t": "A 'floater' fire policy on stocks is appropriate when:",
+"topic": "General Insurance Underwriting",
+"t": "Advocate the benefits that computers provide to an underwriter to underwrite more efficiently and accurately. <br><br>I: Reduce all possible  risks <br>II: Reduce cost of insurance <br>III: Recommend acceptance or rejection of the risk <br><br>",
 "o": [
-"Stocks are stored in a single godown",
-"The insured is a shipping company",
-"Only buildings are insured",
-"Stocks of the same insured move between several specified locations and the quantity at each location fluctuates"
+"I only / ???? I",
+"II only / ???? II",
+"III only / ???? III",
+"I and II / I ?? II",
+"II and III / II ?? III"
 ],
-"a": 3,
-"e": "A floater provides one sum insured floating over several locations, with premium at the highest rate applicable to any location plus a floater loading."
+"a": 2,
+"e": "Correct answer: III only / ???? III (from the IC45 question bank)."
 },
 {
 "n": 38,
-"topic": "Types of Policies",
-"t": "Which of the following is covered under an Erection All Risks (EAR) policy but typically NOT under a CAR policy?",
+"topic": "General Insurance Underwriting",
+"t": "In case proposal form is not used then the onus of proof lies with _______ in case of information not recorded.",
 "o": [
-"Erection and testing of plant and machinery, including the testing/commissioning period",
-"Construction of a residential building",
-"Road laying",
-"Civil construction of a bridge"
+"Insured",
+"Insurer",
+"Insurance agent",
+"Insurance broker",
+"Regulator"
 ],
-"a": 0,
-"e": "EAR is designed for erection of machinery and includes the testing period; CAR is for civil engineering works."
+"a": 1,
+"e": "Correct answer: Insurer (from the IC45 question bank)."
 },
 {
 "n": 39,
-"topic": "Types of Policies",
-"t": "Under a marine cargo policy with Institute Cargo Clauses, cover at the destination ordinarily ends on delivery to the final warehouse or, at the latest, on expiry of a stated number of days after discharge at the final port, which is:",
+"topic": "General Insurance Underwriting",
+"t": "Identify the rating factor(s) associated with Homeowners insurance. <BR><BR>I. Occupational class code <BR>II. Accident history <BR>III. Construction type",
 "o": [
-"30 days",
-"180 days",
-"60 days",
-"90 days"
+"I only",
+"II only",
+"III only",
+"I and II",
+"II and III"
 ],
 "a": 2,
-"e": "The duration (transit) clause terminates cover 60 days after completion of discharge overside at the final port of discharge, if earlier than warehouse delivery."
+"e": "Correct answer: III only (from the IC45 question bank)."
 },
 {
 "n": 40,
-"topic": "Types of Policies",
-"t": "Under IRDAI's 2024 health insurance norms, the maximum waiting period that an insurer may impose for pre-existing diseases is:",
+"topic": "General Insurance Underwriting",
+"t": "Provide a valid reason for using individual rating. <br><br>I: Risk covered is miniscule <br>II: Provide generic covers <br>III: To  encourage and motivate more risk control programs",
 "o": [
-"48 months",
-"12 months",
-"36 months",
-"24 months"
+"I only / ???? I",
+"II only / ???? II",
+"III only / ???? III",
+"I and II / I ?? II",
+"II and III / II ?? III"
 ],
 "a": 2,
-"e": "The maximum PED waiting period was reduced from 48 to 36 months, and the moratorium period after which claims cannot be contested (except fraud) was reduced to 60 months."
+"e": "Correct answer: III only / ???? III (from the IC45 question bank)."
 },
 {
 "n": 41,
-"topic": "Types of Policies",
-"t": "A valued policy differs from an unvalued policy in that:",
+"topic": "General Insurance Underwriting",
+"t": "Identify the class of insurance against which the risk mentioned below can be categorised.<BR><BR>Risk: Match factories and matches in transit",
 "o": [
-"It covers only partial losses",
-"The value of the subject matter is agreed at inception and paid in full on total loss without proof of value",
-"It is used only for stocks",
-"Claims are settled at market value at the time of loss"
+"Fire",
+"Marine",
+"Miscellaneous",
+"Liability",
+"Personal"
 ],
-"a": 1,
-"e": "Valued policies (common in marine cargo, hull and for artworks) fix the agreed value; unvalued policies require proof of value subject to the sum insured."
+"a": 0,
+"e": "Correct answer: Fire (from the IC45 question bank)."
 },
 {
 "n": 42,
-"topic": "Underwriting Profitability and Re-underwriting Strategies",
-"t": "An insurer has net earned premium ₹600 crore, combined ratio 108% and investment income attributable to the technical account of ₹60 crore. The operating result is:",
+"topic": "General Insurance Underwriting",
+"t": "A/An ________ is the person who sends the proposal form for taking an insurance policy and pays the premium.",
 "o": [
-"Profit of ₹12 crore",
-"Loss of ₹12 crore",
-"Loss of ₹48 crore",
-"Profit of ₹60 crore"
+"Insurer",
+"Proposer",
+"Nominee",
+"Assignee",
+"Trustee"
 ],
-"a": 0,
-"e": "Underwriting loss = 8% × 600 = ₹48 crore; adding investment income of ₹60 crore gives an operating profit of ₹12 crore."
+"a": 1,
+"e": "Correct answer: Proposer (from the IC45 question bank)."
 },
 {
 "n": 43,
-"topic": "Underwriting Profitability and Re-underwriting Strategies",
-"t": "Which of the following is an example of 'portfolio balance' in underwriting?",
+"topic": "General Insurance Underwriting",
+"t": "Identify the class of insurance against which the risk mentioned below can be categorised. Risk: Cement in bags on terms wider than I.C.C.",
 "o": [
-"Reinsuring 100% of every risk",
-"Spreading exposure across classes, geographies and risk sizes so that no single segment or event can threaten results",
-"Writing only one class of business",
-"Writing only risks in one city"
+"Fire / ?????",
+"Marine / ????",
+"Miscellaneous / ?????",
+"Liability / ?????",
+"Personal / ????"
 ],
 "a": 1,
-"e": "Diversification across lines, regions and sizes reduces volatility and dependence on any single catastrophe or segment."
+"e": "Correct answer: Marine / ???? (from the IC45 question bank)."
 },
 {
-"topic": "Principles",
-"t": "In a life insurance contract, insurable interest must exist:",
+"topic": "Health insurance norms",
+"t": "The maximum waiting period for pre-existing diseases in health insurance, after the 2024 IRDAI changes, is:",
 "o": [
-"At the time of the claim only",
-"At inception of the policy",
-"Both at inception and at claim",
-"At renewal each year"
+"24 months",
+"36 months",
+"48 months",
+"60 months"
 ],
 "a": 1,
-"e": "★ Core fact (asked across III papers). Life: at inception only. Marine: at the time of loss. Fire and motor: at both inception and loss.",
+"e": "★ Core fact (asked across III papers). Reduced from 48 to 36 months; the moratorium period after which claims cannot be contested (except fraud) is 60 months.",
 "r": "core",
 "n": 44
 },
 {
 "n": 45,
-"topic": "Underwriting Profitability and Re-underwriting Strategies",
-"t": "A motor insurer's portfolio shows a loss ratio of 95% on commercial vehicles versus 65% on private cars. Which re-underwriting action is MOST appropriate?",
+"topic": "General Insurance Underwriting",
+"t": "___________ is the price per unit of insurance.",
 "o": [
-"Apply a uniform 30% increase on all vehicles",
-"Exit private cars because they contribute less premium",
-"Stop collecting premium in advance",
-"Segment-level repricing and tighter selection for commercial vehicles (e.g. by vehicle type, age, usage) while nurturing the profitable private car book"
+"Loading",
+"Rate",
+"Exposure",
+"Burning cost",
+"Cover cost"
 ],
-"a": 3,
-"e": "Re-underwriting targets the under-performing segment with data-driven corrections rather than penalising the whole book."
+"a": 1,
+"e": "Correct answer: Rate (from the IC45 question bank)."
 },
 {
 "n": 46,
-"topic": "Underwriting Profitability and Re-underwriting Strategies",
-"t": "Which of the following statements about reserving and profitability is INCORRECT?",
+"topic": "General Insurance Underwriting",
+"t": "The insurance sector offers products which are ________ in nature.",
 "o": [
-"Over-reserving increases current profit",
-"Adequate IBNR reserves are essential for a true picture of underwriting results",
-"Reserve adequacy is reviewed by the Appointed Actuary",
-"Under-reserving overstates current profit and understates future liabilities"
+"Tangible",
+"Intangible",
+"Gullible",
+"Surreal",
+"Palpable"
 ],
-"a": 0,
-"e": "Over-reserving reduces, not increases, current profit; reserves are deducted from earned premium in arriving at the underwriting result."
+"a": 1,
+"e": "Correct answer: Intangible (from the IC45 question bank)."
 },
 {
 "n": 47,
-"topic": "Protection of Policyholders' Interests",
-"t": "Under the IRDAI framework for general insurance claims, after receipt of the surveyor's report the insurer must settle or reject the claim within:",
+"topic": "General Insurance Underwriting",
+"t": "The key indicators that can trigger need for changes in product are:-",
 "o": [
-"30 days",
-"15 days",
-"7 days",
-"45 days"
+"Changes that can increase or decrease risk profile of the portfolio",
+"Internal staff reports",
+"Competition products",
+"New product launches",
+"Increase in rates"
 ],
-"a": 2,
-"e": "The 2024 timelines require the insurer to decide the claim within 7 days of receiving the survey report."
+"a": 0,
+"e": "Correct answer: Changes that can increase or decrease risk profile of the portfolio (from the IC45 question bank)."
 },
 {
 "n": 48,
-"topic": "Protection of Policyholders' Interests",
-"t": "A policyholder dissatisfied with an insurer's final reply on a grievance may approach the Insurance Ombudsman within:",
+"topic": "General Insurance Underwriting",
+"t": "Your complaint to the Ombudsman can be about:- <BR><BR>I. Delay in settlement of claims <BR>II. Policy costs <BR>III. Insurance Agent's attitude",
 "o": [
-"Three years",
-"One year of the insurer's rejection or final reply",
-"30 days",
-"6 months"
+"I only",
+"II only",
+"III only",
+"I and II",
+"II and III"
 ],
-"a": 1,
-"e": "The Ombudsman Rules require the complaint to be made within one year of the insurer's rejection or final response (or expiry of one month without reply)."
+"a": 0,
+"e": "Correct answer: I only (from the IC45 question bank)."
 },
 {
 "n": 49,
-"topic": "Research and Development in Underwriting, Rating and Product Innovation",
-"t": "Which of the following is an emerging risk for which Indian general insurers have developed new products in recent years?",
+"topic": "General Insurance Underwriting",
+"t": "Select an example of Individual Experience rated product from the list below. <BR><BR>I. Motor insurance <BR>II. Personal accident insurance <BR>III. Hull insurance",
 "o": [
-"Steam boiler explosion",
-"Loss by fire",
-"Cyber liability and data breach",
-"Workmen's compensation"
+"I only",
+"II only",
+"III only",
+"I and II",
+"II and III"
 ],
 "a": 2,
-"e": "Cyber insurance for corporates and individuals is a recent product area driven by digitalisation; the other options are long-established covers."
+"e": "Correct answer: III only (from the IC45 question bank)."
 },
 {
 "n": 50,
-"topic": "IT Applications in Underwriting",
-"t": "Artificial intelligence and machine learning assist underwriters mainly by:",
+"topic": "General Insurance Underwriting",
+"t": "Which among the following can be termed as liability risk?",
 "o": [
-"Replacing the Insurance Act",
-"Identifying patterns in large datasets for risk scoring, fraud detection and automated triage of proposals",
-"Fixing motor TP rates",
-"Issuing surveyor licences"
+"Manufacturing plant burning down",
+"Profits lost because production was stopped as a r",
+"Disability as a result of an accident",
+"Motor third party claim",
+"Death"
 ],
-"a": 1,
-"e": "AI/ML models score risks and flag anomalies, supporting faster, more consistent underwriting decisions while complex cases are escalated to human underwriters."
+"a": 3,
+"e": "Correct answer: Motor third party claim (from the IC45 question bank)."
 }
 ]

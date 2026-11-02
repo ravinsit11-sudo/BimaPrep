@@ -1,657 +1,705 @@
 [
 {
 "n": 1,
-"topic": "Introduction to Underwriting",
-"t": "Which of the following is a physical hazard in motor insurance?",
+"topic": "General Insurance Underwriting",
+"t": "Examine the data mentioned below and answer the question following it using your knowledge of exposure rating system. Total no of insured: 100000 Stroke incidence : 200 Cancer incidence: 60 Blindness incidence : 20 Liver & kidney transplant incidence : 4",
 "o": [
-"A vehicle with worn-out brakes and bald tyres",
-"A car dealer who inflates the IDV",
-"An owner who leaves the car unlocked because it is insured",
-"A driver who habitually exaggerates repair bills"
+"32%",
+"3.2%",
+"0.32%",
+"5%",
+"0.5%"
 ],
-"a": 0,
-"e": "Physical hazard relates to the tangible condition of the subject matter; the other options are moral or morale hazards."
+"a": 2,
+"e": "Correct answer: 0.32% (from the IC45 question bank)."
 },
 {
 "n": 2,
-"topic": "Introduction to Underwriting",
-"t": "Fire insurance business is defined under which Section of the Insurance Act, 1938?",
+"topic": "General Insurance Underwriting",
+"t": "What is meant by \"Insurance on Personal Lines\"?",
 "o": [
-"Section 2(6A)",
-"Section 2(13A)",
-"Section 64VA",
-"Section 2(11)"
+"Insurance taken for small groups",
+"Insurance taken or given in individual capacity",
+"Insurance taken for personal reasons",
+"Insurance bought with a single premium",
+"Insurance received from employer"
 ],
-"a": 0,
-"e": "Section 2(6A) defines fire insurance business; Section 2(13A) defines marine insurance business and Section 2(13B) miscellaneous insurance business."
+"a": 1,
+"e": "Correct answer: Insurance taken or given in individual capacity (from the IC45 question bank)."
 },
 {
 "n": 3,
-"topic": "Introduction to Underwriting",
-"t": "The minimum paid-up equity capital required to register as a general insurer in India is:",
+"topic": "General Insurance Underwriting",
+"t": "As per The Insurance Act, 1938,  non-life insurance business can be broadly classified under ______ categories.",
 "o": [
-"₹500 crore",
-"₹100 crore",
-"₹50 crore",
-"₹200 crore"
+"100%",
+"2",
+"3",
+"4",
+"5"
 ],
-"a": 1,
-"e": "The Insurance Act, 1938 requires ₹100 crore paid-up equity for life, general and health insurers and ₹200 crore for a reinsurer."
+"a": 2,
+"e": "Correct answer: 3 (from the IC45 question bank)."
 },
 {
 "n": 4,
-"topic": "Methodology and Procedures of Underwriting",
-"t": "The 'basis clause' in a proposal form provides that:",
+"topic": "General Insurance Underwriting",
+"t": "What is the first step in selection and implementation of a software solution?",
 "o": [
-"Premium is payable on a monthly basis",
-"Claims are settled on reinstatement basis",
-"The policy is issued on an agreed value basis",
-"The statements in the proposal form form the basis of the contract and are warranted to be true"
+"Study existing systems and solutions",
+"Do cost benefit analysis",
+"Evaluate vendor competence",
+"Evaluate ease of implementation",
+"Rate vendors"
 ],
-"a": 3,
-"e": "The basis clause incorporates the proposal into the contract, making the accuracy of answers a condition; regulators now require material misstatement for repudiation rather than trivial inaccuracies."
+"a": 0,
+"e": "Correct answer: Study existing systems and solutions (from the IC45 question bank)."
 },
 {
 "n": 5,
-"topic": "Methodology and Procedures of Underwriting",
-"t": "An underwriter's delegated authority is ₹10 crore sum insured per fire risk. A broker submits a proposal with sum insured ₹9 crore but the risk is a fireworks factory, which the underwriting policy lists as a 'referral occupancy'. The underwriter should:",
+"topic": "General Insurance Underwriting",
+"t": "An insurer is expected to:-<BR><BR>I. Engage in speculation <BR>II. Design products with fair  terms and conditions <BR>III. Have discriminative policies",
 "o": [
-"Decline without reference",
-"Refer the risk to the higher underwriting authority because occupancy-based referral applies regardless of sum insured",
-"Accept, since the sum insured is within authority",
-"Accept subject to reinsurer's consent only"
+"I only",
+"II only",
+"III only",
+"I and II",
+"II and III"
 ],
 "a": 1,
-"e": "Underwriting policies specify referral triggers by both amount and hazard; a listed hazardous occupancy must be referred even if the sum insured is within limit."
+"e": "Correct answer: II only (from the IC45 question bank)."
 },
 {
 "n": 6,
-"topic": "Methodology and Procedures of Underwriting",
-"t": "A 'long-term' policy is one which:",
+"topic": "General Insurance Underwriting",
+"t": "Pricing divergence from what is required can often happen if:- <BR><BR>I. There are technological  changes in market <BR>II. Product is new <BR>III. Execution errors occur",
 "o": [
-"Is renewed every year",
-"Has an indemnity period longer than 12 months",
-"Covers a period exceeding twelve months, often with a discount on the premium",
-"Covers only buildings"
+"I only",
+"II only",
+"III only",
+"I and II",
+"II and III"
 ],
 "a": 2,
-"e": "Long-term policies (e.g. dwelling fire for several years, long-term motor TP for new vehicles) run for more than one year; the premium is collected upfront and often discounted."
+"e": "Correct answer: III only (from the IC45 question bank)."
 },
 {
 "n": 7,
-"topic": "Methodology and Procedures of Underwriting",
-"t": "The short-period rate scale applies when:",
+"topic": "General Insurance Underwriting",
+"t": "As per The Insurance Act 1938  non-life insurance business can be broadly classified under which of the following categories? <BR><BR>I. Health <BR>II. Liability <BR>III. Marine",
 "o": [
-"A policy is issued for a period of less than twelve months or is cancelled by the insured mid-term",
-"A policy is cancelled by the insurer",
-"A claim is lodged within one month of inception",
-"The sum insured is below ₹1 lakh"
+"I only",
+"II only",
+"III only",
+"I and II",
+"I and II and III"
 ],
-"a": 0,
-"e": "Short-period scales (higher than pro-rata) protect the insurer against selection against it for brief covers and on insured-initiated cancellations; insurer cancellations are refunded pro-rata."
+"a": 2,
+"e": "Correct answer: III only (from the IC45 question bank)."
 },
 {
 "n": 8,
-"topic": "Methodology and Procedures of Underwriting",
-"t": "Under the erstwhile fire tariff short-period scale, a policy issued for three months attracted 40% of the annual premium. An insured takes a fire policy on stock for three months with annual rate giving ₹60,000 per annum. The premium charged is:",
+"topic": "General Insurance Underwriting",
+"t": "Identify the class of insurance against which the risk mentioned below can be categorised. Risk: Celluloid and celluloid articles factories",
 "o": [
-"₹30,000",
-"₹15,000",
-"₹20,000",
-"₹24,000"
+"Fire / ?????",
+"Marine / ????",
+"Miscellaneous / ?????",
+"Liability / ?????",
+"Personal / ????"
 ],
-"a": 3,
-"e": "Short-period premium = 40% of ₹60,000 = ₹24,000, which exceeds the pro-rata amount of ₹15,000 for a quarter."
+"a": 0,
+"e": "Correct answer: Fire / ????? (from the IC45 question bank)."
 },
 {
 "n": 9,
-"topic": "Methodology and Procedures of Underwriting",
-"t": "When accepting a risk 'subject to survey', the insurer:",
+"topic": "General Insurance Underwriting",
+"t": "Identify the class of insurance against which the risk mentioned below can be categorised.<BR><BR>Risk: Perishable goods and sea foods, etc.",
 "o": [
-"Must pay all claims even if the survey reveals misrepresentation",
-"Grants cover provisionally and may amend terms or withdraw cover in accordance with the survey findings",
-"Cannot charge any premium until survey",
-"Transfers the risk to the surveyor"
+"Fire",
+"Marine",
+"Miscellaneous",
+"Liability",
+"Personal"
 ],
 "a": 1,
-"e": "Acceptance subject to survey is a conditional acceptance; the survey report determines final terms, loadings or warranties."
+"e": "Correct answer: Marine (from the IC45 question bank)."
 },
 {
 "n": 10,
-"topic": "Introduction to Underwriting",
-"t": "Under which Section of the Insurance Act, 1938 is an insurer prohibited from assuming risk unless the premium is received in advance?",
+"topic": "General Insurance Underwriting",
+"t": "What does a percentage deductible of 10% mean?",
 "o": [
-"Section 64VB",
-"Section 40",
-"Section 45",
-"Section 64UM"
+"Insurer pays 10% of loss amount",
+"Insurer pays 90% of loss amount",
+"Insurer pays 10% of premium received in case of cl",
+"Insurer pays 90% of premium received in case of cl",
+"Premium is hiked by 10% in case of claim"
 ],
-"a": 0,
-"e": "★ Key fact (repeated across the mocks of this paper). Section 64VB requires premium to be received in advance before risk commencement, subject to prescribed exceptions. Section 64UM deals with surveyors and Section 45 with life policies.",
+"a": 1,
+"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Insurer pays 90% of loss amount (from the IC45 question bank).",
 "r": "key"
 },
 {
 "n": 11,
-"topic": "Principles of Rate Making",
-"t": "'Frequency' and 'severity' in rate making mean respectively:",
+"topic": "General Insurance Underwriting",
+"t": "Identify the class of insurance against which the risk mentioned below can be categorised. Risk: Fire wood / bamboos in the open",
 "o": [
-"Number of claims per exposure unit and average cost per claim",
-"Number of policies and number of claims",
-"Premium per policy and claims per policy",
-"Number of agents and number of offices"
+"Fire / ?????",
+"Marine / ????",
+"Miscellaneous / ?????",
+"Liability / ?????",
+"Personal / ????"
 ],
 "a": 0,
-"e": "Frequency × severity = pure premium per exposure unit; analysing them separately helps diagnose whether rising losses are due to more claims or costlier claims."
+"e": "Correct answer: Fire / ????? (from the IC45 question bank)."
 },
 {
 "n": 12,
-"topic": "Principles of Rate Making",
-"t": "Which of the following statements about the exposure base chosen for a line of business is INCORRECT?",
+"topic": "General Insurance Underwriting",
+"t": "As per  legal phrase 'contra preferentum' any ambiguous provision in the policy is construed  against the _________.",
 "o": [
-"It should be proportional to expected losses",
-"It should be already in use or easy to obtain",
-"It should be practical to measure and verify",
-"It should be easily manipulated by the insured to lower premium"
+"Insurer",
+"Insured",
+"Agent",
+"Regulator",
+"Broker"
 ],
-"a": 3,
-"e": "A good exposure base must not be easy for the insured to manipulate; the other three are the classical criteria for selecting an exposure base."
+"a": 0,
+"e": "Correct answer: Insurer (from the IC45 question bank)."
 },
 {
 "n": 13,
-"topic": "Principles of Rate Making",
-"t": "Trending in rate making is the process of:",
+"topic": "General Insurance Underwriting",
+"t": "Identify the class of insurance against which the risk mentioned below can be categorised. Risk: Second-hand machinery against breakage",
 "o": [
-"Discounting claims for investment income",
-"Allocating expenses to classes",
-"Computing the solvency ratio",
-"Adjusting historical losses and exposures to the levels expected during the period the new rates will be in force"
+"Fire / ?????",
+"Marine / ????",
+"Miscellaneous / ?????",
+"Liability / ?????",
+"Personal / ????"
 ],
-"a": 3,
-"e": "Because rates apply to future periods, past data must be adjusted for inflation, changes in claim frequency and legal environment."
+"a": 1,
+"e": "Correct answer: Marine / ???? (from the IC45 question bank)."
 },
 {
 "n": 14,
-"topic": "Principles of Rate Making",
-"t": "An insurer writes ₹240 crore of premium evenly through the financial year on annual policies. Using the 50% method, the unexpired risk reserve at year end is:",
+"topic": "General Insurance Underwriting",
+"t": "If the sum insured exceeds the acceptance limit, it is necessary to _________.",
 "o": [
-"₹120 crore",
-"₹180 crore",
-"₹60 crore",
-"₹240 crore"
+"Decline risk",
+"Arrange reinsurance",
+"Refer risk to competitor",
+"Refer risk to regulator",
+"Ask the insured to reduce the risk"
 ],
-"a": 0,
-"e": "The 50% method assumes policies are written evenly, so on average half the premium is unexpired at year end: 50% of ₹240 crore = ₹120 crore."
+"a": 1,
+"e": "Correct answer: Arrange reinsurance (from the IC45 question bank)."
 },
 {
 "n": 15,
-"topic": "Principles of Rate Making",
-"t": "Incurred claims for a year equal:",
+"topic": "General Insurance Underwriting",
+"t": "Which of the following is an evidence of an insurance contract?",
 "o": [
-"Closing outstanding claims only",
-"Claims paid minus reinsurance recoveries only",
-"Claims paid during the year plus closing outstanding claims (including IBNR) minus opening outstanding claims",
-"Claims paid during the year only"
+"Cover Note",
+"Claim form",
+"Promissory note",
+"Premium payment",
+"Acceptance of proposal"
 ],
-"a": 2,
-"e": "Incurred claims capture the cost of claims belonging to the period, whether paid or still outstanding, by adjusting paid claims for the movement in provisions."
+"a": 4,
+"e": "Correct answer: Acceptance of proposal (from the IC45 question bank)."
 },
 {
 "n": 16,
-"topic": "Principles of Rate Making",
-"t": "A rate revision is being prepared for a health product. Historical incurred claims are ₹60 crore; medical inflation is 8% per annum and the rates will apply two years later than the midpoint of the experience period. The trended losses are approximately:",
+"topic": "General Insurance Underwriting",
+"t": "Identify the details that are to be mentioned/ referred to the controlling office while referring extra hazardous risks. <br><br>I: Completed  claim form <br>II: Solvency ratio of the operating office <br>III: Risk inspection report, additional questionnaire",
 "o": [
-"₹64.8 crore",
-"₹72.6 crore",
-"₹69.98 crore",
-"₹60.0 crore"
+"I only / ???? I",
+"II only / ???? II",
+"III only / ???? III",
+"I and II / I ?? II",
+"I, II and III / I ?? II ?? III"
 ],
 "a": 2,
-"e": "Trended losses = 60 × (1.08)^2 = 60 × 1.1664 = ₹69.98 crore."
+"e": "Correct answer: III only / ???? III (from the IC45 question bank)."
 },
 {
 "n": 17,
-"topic": "Rating Approaches and Pricing Methods",
-"t": "'Merit rating' in motor insurance is exemplified by:",
+"topic": "General Insurance Underwriting",
+"t": "A schedule rating plan gives __________ for risk aggravating or bad features. <BR><BR>I. Rate credits <BR>II. Rate debits <BR>III. Loading",
 "o": [
-"Rating on the basis of vehicle colour",
-"Charging the tariff rate",
-"No Claim Bonus and malus loadings based on the individual's claim record",
-"Charging premium on cubic capacity"
+"I only",
+"II only",
+"III only",
+"I and II",
+"II and III"
 ],
 "a": 2,
-"e": "Merit rating adjusts the class rate for the individual's own experience; NCB rewards claim-free years."
+"e": "Correct answer: III only (from the IC45 question bank)."
 },
 {
 "n": 18,
-"topic": "Rating Approaches and Pricing Methods",
-"t": "In a private car policy, the No Claim Bonus applicable after four consecutive claim-free years is:",
+"topic": "General Insurance Underwriting",
+"t": "The amount of retention a company can have for any risk depends on factors like:- <BR><BR>I. Spread of risk <BR>II. Composition and size of portfolio <BR>III. Past experience of portfolio",
 "o": [
-"45%",
-"50%",
-"35%",
-"25%"
+"I only",
+"II only",
+"III only",
+"I and II",
+"I and II and III"
 ],
-"a": 0,
-"e": "The NCB scale is 20% after one claim-free year, 25% after two, 35% after three, 45% after four and 50% after five or more years."
+"a": 4,
+"e": "Correct answer: I and II and III (from the IC45 question bank)."
 },
 {
 "n": 19,
-"topic": "Rating Approaches and Pricing Methods",
-"t": "A private car has an IDV of ₹8 lakh and the own-damage rate is 3.2%. The insured is entitled to 25% NCB. The own-damage premium payable (before add-ons and GST) is:",
+"topic": "General Insurance Underwriting",
+"t": "The _________ entertains grievances pertaining to personal lines insurance.",
 "o": [
-"₹20,000",
-"₹25,600",
-"₹19,200",
-"₹6,400"
+"Regulator",
+"Ombudsman",
+"Actuary",
+"Appointee",
+"Trustee"
 ],
-"a": 2,
-"e": "Basic OD premium = 8,00,000 × 3.2% = ₹25,600; less NCB 25% (₹6,400) = ₹19,200."
+"a": 1,
+"e": "Correct answer: Ombudsman (from the IC45 question bank)."
 },
 {
 "n": 20,
-"topic": "Types of Policies",
-"t": "Under IRDAI's 2024 health insurance norms, the maximum waiting period that an insurer may impose for pre-existing diseases is:",
+"topic": "General Insurance Underwriting",
+"t": "A combined ratio over 100% indicates ________.",
 "o": [
-"48 months",
-"12 months",
-"36 months",
-"24 months"
+"Underwriting loss",
+"Underwriting profits",
+"Surplus reserves",
+"Deficit reserves",
+"Dynamic growth"
 ],
-"a": 2,
-"e": "★ Key fact (repeated across the mocks of this paper). The maximum PED waiting period was reduced from 48 to 36 months, and the moratorium period after which claims cannot be contested (except fraud) was reduced to 60 months.",
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Underwriting loss (from the IC45 question bank).",
 "r": "key"
 },
 {
 "n": 21,
-"topic": "Rating Approaches and Pricing Methods",
-"t": "In marine cargo rating, which of the following has the LEAST bearing on the premium rate?",
+"topic": "General Insurance Underwriting",
+"t": "Which among the following benefits can be achieved through technology based underwriting?",
 "o": [
-"Scope of clauses (ICC A, B or C)",
-"The shipper's number of employees",
-"Voyage, mode of transport and vessel quality",
-"Nature and packing of the goods"
+"No claims",
+"Moral hazard",
+"Adverse selection",
+"Centralisation of risk management",
+"Fast delivery of quotes"
 ],
-"a": 1,
-"e": "Cargo rating depends on commodity, packing, route, conveyance, clauses and claims experience; headcount of the shipper is irrelevant."
+"a": 4,
+"e": "Correct answer: Fast delivery of quotes (from the IC45 question bank)."
 },
 {
 "n": 22,
-"topic": "Rating Approaches and Pricing Methods",
-"t": "'Burning cost' in reinsurance or large-risk pricing refers to:",
+"topic": "General Insurance Underwriting",
+"t": "Identify the causes of adverse results for insurers.",
 "o": [
-"The cost of fire brigade charges",
-"The insurer's expense ratio",
-"Cost of fire-fighting equipment",
-"Actual losses (within the layer or class) expressed as a percentage of premium or exposure, used to derive a rate"
+"Surplus reserves",
+"New line of business",
+"Dynamic market",
+"Portfolio churning",
+"There is inefficiency in claim settlement and possible frauds and  over-payments are not being eliminated."
 ],
-"a": 3,
-"e": "Burning cost = losses ÷ exposure (or premium) over a period; it is then loaded for expenses, profit and fluctuations to arrive at the rate."
+"a": 4,
+"e": "Correct answer: There is inefficiency in claim settlement and possible frauds and  over-payments are not being eliminated. (from the IC45 question bank)."
 },
 {
 "n": 23,
-"topic": "Rating Approaches and Pricing Methods",
-"t": "For a five-year period, an excess of loss layer has suffered losses of ₹2 crore, ₹0, ₹3 crore, ₹1 crore and ₹4 crore against subject premium of ₹100 crore each year. The pure burning cost rate for the layer is:",
+"topic": "General Insurance Underwriting",
+"t": "Which among the following is true with regards to individual rating? <br><br>I: It is applicable for risks of same class or category <br>II:  It is as per internal guidelines set by the insurer <br>III: It is based on individual experience",
 "o": [
-"10%",
-"2%",
-"20%",
-"4%"
+"I only / ???? I",
+"II only / ???? II",
+"III only / ???? III",
+"I and II / I ?? II",
+"I, II and III / I ?? II ?? III"
 ],
-"a": 1,
-"e": "Total layer losses = ₹10 crore over total subject premium ₹500 crore = 2% pure burning cost, before loading."
+"a": 2,
+"e": "Correct answer: III only / ???? III (from the IC45 question bank)."
 },
 {
 "n": 24,
-"topic": "IRDAI File and Use Guidelines",
-"t": "Under the File and Use guidelines, the CEO of the insurer was required to certify that:",
+"topic": "General Insurance Underwriting",
+"t": "The advantages of internet for the insurance sector include: <BR><BR>I. Direct access to customers <BR>II. Global reach for insurers <BR>III. Tailored insurance policies to benefit all",
 "o": [
-"The product and its documents comply with the Insurance Act, regulations and the insurer's underwriting policy",
-"Agents have been trained",
-"The product has been approved by the reinsurer",
-"The product is profitable"
+"I only",
+"II only",
+"III only",
+"I and II",
+"I and II and III"
 ],
-"a": 0,
-"e": "The CEO's certificate covers legal and regulatory compliance and adherence to the board-approved underwriting policy; the Appointed Actuary certifies pricing."
+"a": 4,
+"e": "Correct answer: I and II and III (from the IC45 question bank)."
 },
 {
 "n": 25,
-"topic": "IRDAI File and Use Guidelines",
-"t": "Which of the following was exempt from the free pricing introduced on 1 January 2007?",
+"topic": "General Insurance Underwriting",
+"t": "Protection of Policyholders' Interests regulations are related to: <BR><BR>I. Matters to be stated in a general insurance policy <BR>II. Agent training <BR>III. Rating guidelines",
 "o": [
-"Fire insurance of industrial risks",
-"Workmen's compensation insurance",
-"Engineering insurance",
-"Motor third-party liability insurance"
+"I only",
+"II only",
+"III only",
+"I and II",
+"II and III"
 ],
-"a": 3,
-"e": "Motor TP remained under administered pricing because it is compulsory and socially sensitive; the other classes were de-tariffed."
+"a": 0,
+"e": "Correct answer: I only (from the IC45 question bank)."
 },
 {
 "n": 26,
-"topic": "IRDAI File and Use Guidelines",
-"t": "Which of the following is an objective of regulatory product filing requirements?",
+"topic": "General Insurance Underwriting",
+"t": "Give examples of exclusions under All Risk policies <BR><BR>I. Fire <BR>II. Theft <BR>III. Loss or damage caused by mechanical or electrical derangement/breakdown",
 "o": [
-"To maximise insurer profits",
-"To restrict the number of products in the market",
-"To ensure all insurers charge the same premium",
-"To ensure products are fair, viable, clearly worded and not against policyholder interest"
+"I only",
+"II only",
+"III only",
+"I and II",
+"I and II and III"
 ],
-"a": 3,
-"e": "Filing lets the regulator verify that terms are fair and clear, pricing is sound and the product does not disadvantage policyholders, without fixing uniform prices."
+"a": 2,
+"e": "Correct answer: III only (from the IC45 question bank)."
 },
 {
 "n": 27,
-"topic": "IRDAI File and Use Guidelines",
-"t": "In the context of product filing, a 'retail' product is generally understood as one:",
+"topic": "General Insurance Underwriting",
+"t": "None of the following is true with regards to Pure Premium method EXCEPT:- <BR><BR>I. Based on premium <BR>II. Requires existing rates <BR>III. Does not require existing rates",
 "o": [
-"That covers only reinsurance",
-"Sold only through banks",
-"Designed for individuals and small businesses with standardised terms, as distinct from large commercial risks with negotiated terms",
-"With sum insured above ₹100 crore"
+"I only",
+"II only",
+"III only",
+"I and II",
+"II and III"
 ],
 "a": 2,
-"e": "Regulatory guidelines distinguish retail products (standard terms, individuals/SMEs) from commercial products where terms are tailored to each risk."
+"e": "Correct answer: III only (from the IC45 question bank)."
 },
 {
 "n": 28,
-"topic": "Protection of Policyholders' Interests",
-"t": "As per IRDAI's Master Circular on Protection of Policyholders' Interests (2024), the free-look period available to a policyholder for policies with a term of one year or more is:",
+"topic": "General Insurance Underwriting",
+"t": "An insurer shall dispose of a claim within 30 days of receipt of the survey report.",
 "o": [
-"45 days",
-"15 days",
-"30 days",
-"7 days"
+"10",
+"20",
+"40",
+"30",
+"50"
 ],
-"a": 2,
-"e": "★ Key fact (repeated across the mocks of this paper). The 2024 framework provides a uniform free-look period of 30 days from receipt of the policy document, extended from the earlier 15 days.",
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: 30 (from the IC45 question bank).",
 "r": "key"
 },
 {
 "n": 29,
-"topic": "Applications of File and Use and Use and File Procedures",
-"t": "Which of the following best explains why IRDAI moved towards Use and File?",
+"topic": "General Insurance Underwriting",
+"t": "Which among the following category of risks can be the subject matter of general insurance?<br><br>I. Life<br>II. Stock market volatility<br>III. Property risks",
 "o": [
-"To eliminate the need for an Appointed Actuary",
-"To re-introduce tariffs",
-"To reduce the number of insurers",
-"To enable faster introduction of innovative products while placing responsibility for product governance on the insurer's board and PMC"
+"I only",
+"II only",
+"III only",
+"I and II",
+"I and II and III"
 ],
-"a": 3,
-"e": "Use and File balances speed to market with accountability: the insurer self-certifies compliance and the regulator supervises after launch."
+"a": 2,
+"e": "Correct answer: III only (from the IC45 question bank)."
 },
 {
 "n": 30,
-"topic": "Applications of File and Use and Use and File Procedures",
-"t": "Which of the following statements about the Product Management Committee (PMC) is INCORRECT?",
+"topic": "General Insurance Underwriting",
+"t": "Identify the rating factors associated with Workers compensation insurance.",
 "o": [
-"It typically includes the Appointed Actuary",
-"It reviews products before launch under Use and File",
-"It is a committee of the Insurance Ombudsman",
-"It monitors product performance after launch"
+"Occupation Class code",
+"Specialty Territory",
+"Driver class",
+"Age and gender",
+"Accident history"
 ],
-"a": 2,
-"e": "The PMC is an internal committee of the insurer, not of the Ombudsman; it owns product design, pricing sign-off and post-launch review."
+"a": 0,
+"e": "Correct answer: Occupation Class code (from the IC45 question bank)."
 },
 {
 "n": 31,
-"topic": "Tools of Underwriting",
-"t": "Which of the following is NOT typically a source of information for the underwriter?",
+"topic": "General Insurance Underwriting",
+"t": "Which among the following underwriters can be classified as Marine Underwriters based on their area of specialisation?",
 "o": [
-"Proposal form",
-"The Ombudsman's annual award register",
-"Insured's past claims experience",
-"Risk inspection report"
+"Fire underwriters",
+"Group underwriters",
+"Motor underwriters",
+"Miscellaneous underwriters",
+"Cargo underwriters"
 ],
-"a": 1,
-"e": "Underwriters rely on the proposal, inspection, loss runs, financial statements and industry databases; Ombudsman awards are not an underwriting information source."
+"a": 4,
+"e": "Correct answer: Cargo underwriters (from the IC45 question bank)."
 },
 {
 "n": 32,
-"topic": "Tools of Underwriting",
-"t": "A quota share treaty of 40% means that:",
+"topic": "General Insurance Underwriting",
+"t": "None of the following is true with regards to Loss Ratio method EXCEPT: <br><br>I: Based on exposure <br>II: Gives indicated rates  <br>III: Requires existing rates",
 "o": [
-"The treaty covers only 40% of the insurer's classes",
-"The insurer retains 40% of claims only",
-"The reinsurer accepts 40% of every risk within the treaty and receives 40% of the premium",
-"The reinsurer pays claims above 40% of sum insured"
+"I only / ???? I",
+"II only / ???? II",
+"III only / ???? III",
+"I and II / II ?? III",
+"II and III / II ?? III"
 ],
 "a": 2,
-"e": "Quota share is proportional: premium and losses on every risk are shared in the fixed percentage, typically with a ceding commission to the insurer."
+"e": "Correct answer: III only / ???? III (from the IC45 question bank)."
 },
 {
 "n": 33,
-"topic": "Tools of Underwriting",
-"t": "The chief advantage of a surplus treaty over a quota share treaty for the ceding insurer is that:",
+"topic": "General Insurance Underwriting",
+"t": "Give us an example where an insurer would charge higher premium. <br><br>I: New models of vehicles <br>II: Experienced drivers  <br>III: Drivers with an history of accidents",
 "o": [
-"It allows the insurer to retain small risks fully and cede only amounts above its retention on large risks",
-"It needs no reinsurance commission",
-"The reinsurer pays all claims",
-"It is cheaper to administer"
+"I only / ???? I",
+"II only / ???? II",
+"III only / ???? III",
+"I and II / I ?? II",
+"II and III / II ?? III"
 ],
-"a": 0,
-"e": "Under surplus, the insurer keeps all premium on risks within retention and cedes only the surplus, giving better premium retention; quota share cedes a share of every risk."
+"a": 2,
+"e": "Correct answer: III only / ???? III (from the IC45 question bank)."
 },
 {
-"topic": "Health insurance norms",
-"t": "The maximum waiting period for pre-existing diseases in health insurance, after the 2024 IRDAI changes, is:",
+"topic": "Policyholder protection",
+"t": "An Insurance Ombudsman can entertain a complaint where the value of the claim, including expenses, does not exceed:",
 "o": [
-"24 months",
-"36 months",
-"48 months",
-"60 months"
+"₹20 lakh",
+"₹30 lakh",
+"₹50 lakh",
+"₹1 crore"
 ],
-"a": 1,
-"e": "★ Core fact (asked across III papers). Reduced from 48 to 36 months; the moratorium period after which claims cannot be contested (except fraud) is 60 months.",
+"a": 2,
+"e": "★ Core fact (asked across III papers). The limit was raised to ₹50 lakh by the amended Insurance Ombudsman Rules.",
 "r": "core",
 "n": 34
 },
 {
 "n": 35,
-"topic": "Tools of Underwriting",
-"t": "The obligatory cession that Indian general insurers must make to GIC Re on every policy, as notified for recent financial years, is:",
+"topic": "General Insurance Underwriting",
+"t": "Which among the following is exclusion under marine insurance for the proposal mentioned below?<BR> Proposal: Oil in second hand drums. <BR><BR>I. Damage due to water <BR>II. Loss as a result of sunken cargo <BR>III. Leakage and contamination",
 "o": [
-"5%",
-"4%",
-"20%",
-"10%"
+"I only",
+"II only",
+"III only",
+"I and II",
+"II and III"
 ],
-"a": 1,
-"e": "The obligatory cession has been progressively reduced and is notified at 4% of sum insured on each policy, subject to limits specified by IRDAI."
+"a": 2,
+"e": "Correct answer: III only (from the IC45 question bank)."
 },
 {
 "n": 36,
-"topic": "Tools of Underwriting",
-"t": "Catastrophe (CAT) excess of loss reinsurance protects the insurer against:",
+"topic": "General Insurance Underwriting",
+"t": "Which among the following can be classified as a large risk as per the IRDAI?",
 "o": [
-"A single large claim on one risk",
-"Dishonest claims by employees",
-"Fluctuation in investment income",
-"Accumulation of many claims from one event, such as a cyclone or earthquake"
+"Total sum insured of Rs 100 crore or more at one l",
+"Total sum insured of Rs 200 crore or more at one l",
+"Total sum insured of Rs 500 crore or more at one l",
+"Total sum insured of Rs 1500 crore or more at one",
+"Total sum insured of Rs. 2500 crore or more at one location for property insurance,  material damage and business interruption combined"
 ],
-"a": 3,
-"e": "CAT XL responds per event across many policies, unlike per-risk XL which responds per individual risk."
+"a": 4,
+"e": "Correct answer: Total sum insured of Rs. 2500 crore or more at one location for property insurance,  material damage and business interruption combined (from the IC45 question bank)."
 },
 {
 "n": 37,
-"topic": "Types of Policies",
-"t": "Bharat Sookshma Udyam Suraksha policy is intended for enterprises where the total value at risk across all insurable asset classes at one location is:",
+"topic": "General Insurance Underwriting",
+"t": "Underwriting needs a combination of various skills. These include:-<br><br>I. Visualisation of potential risks<br>II. Estimate probability of peril operation<br>III. Estimate liability",
 "o": [
-"Dwellings only",
-"Up to ₹5 crore",
-"Between ₹5 crore and ₹50 crore",
-"Above ₹50 crore"
+"I only",
+"II only",
+"III only",
+"I and II",
+"I and II and III"
 ],
-"a": 1,
-"e": "Bharat Sookshma Udyam Suraksha covers micro enterprises up to ₹5 crore; Bharat Laghu Udyam Suraksha applies from ₹5 crore to ₹50 crore."
+"a": 4,
+"e": "Correct answer: I and II and III (from the IC45 question bank)."
 },
 {
 "n": 38,
-"topic": "Types of Policies",
-"t": "Under the Bharat Sookshma Udyam Suraksha policy, under-insurance is waived up to:",
+"topic": "General Insurance Underwriting",
+"t": "None of the following are contained in a proposal form EXCEPT:-<br><br>I. Bank Guarantee<br>II. Surety bond<br>III. Details of the insured",
 "o": [
-"50%",
-"15%",
-"5%",
-"25%"
+"I only",
+"II only",
+"III only",
+"I and II",
+"I and II and III"
 ],
-"a": 1,
-"e": "The standard micro-enterprise product waives the condition of average where under-insurance does not exceed 15%, a policyholder-friendly feature of the 2021 standard products."
+"a": 2,
+"e": "Correct answer: III only (from the IC45 question bank)."
 },
 {
 "n": 39,
-"topic": "Types of Policies",
-"t": "A Machinery Breakdown policy covers:",
+"topic": "General Insurance Underwriting",
+"t": "Identify the causes for underwriting loss. <BR><BR>I. High Inflation <BR>II. No re-insurance available <BR>III. Need for rate approval from regulator",
 "o": [
-"Unforeseen and sudden physical loss or damage to machinery from causes such as defective material, short circuit or operator error, while working or at rest",
-"Normal wear and tear",
-"Loss of profits only",
-"Fire damage to machines"
+"I only",
+"II only",
+"III only",
+"I and II",
+"II and III"
 ],
-"a": 0,
-"e": "MB insurance responds to mechanical and electrical breakdown; fire perils are excluded (covered under the fire policy) and wear and tear is excluded."
+"a": 2,
+"e": "Correct answer: III only (from the IC45 question bank)."
 },
 {
 "n": 40,
-"topic": "Types of Policies",
-"t": "Which of the following statements about Motor Third Party liability cover in India is correct?",
+"topic": "General Insurance Underwriting",
+"t": "Limits of acceptance vary in relation to: <br><br>I: Type of risk <br>II: Reinsurance arrangement <br>III: Who the client is",
 "o": [
-"Liability for death or bodily injury to third parties is unlimited, while third-party property damage is limited to ₹7.5 lakh",
-"It covers damage to the insured's own vehicle",
-"It is optional for private cars",
-"It is priced freely by each insurer"
+"I only / ???? I",
+"II only / ???? II",
+"III only / ???? III",
+"I and II / I ?? II",
+"II and III / II ?? III"
 ],
-"a": 0,
-"e": "TP cover is compulsory under the Motor Vehicles Act; death/injury liability is unlimited under the Act while TPPD is capped at ₹7.5 lakh in the standard policy."
+"a": 3,
+"e": "Correct answer: I and II / I ?? II (from the IC45 question bank)."
 },
 {
 "n": 41,
-"topic": "Types of Policies",
-"t": "Under a Personal Accident policy, the benefit for loss of one limb or sight of one eye is generally:",
+"topic": "General Insurance Underwriting",
+"t": "State the subsidiary objectives of a premium rating system.",
 "o": [
-"100% of the capital sum insured",
-"Weekly compensation only",
-"25% of the capital sum insured",
-"50% of the capital sum insured"
+"Volatility",
+"Creative",
+"Ingenuity",
+"Intuitive",
+"Stability"
 ],
-"a": 3,
-"e": "Death, loss of two limbs/eyes and permanent total disablement attract 100%; loss of one limb or one eye attracts 50% of the capital sum insured."
+"a": 4,
+"e": "Correct answer: Stability (from the IC45 question bank)."
 },
 {
 "n": 42,
-"topic": "Underwriting Profitability and Re-underwriting Strategies",
-"t": "An insurer's net incurred claims are ₹330 crore on net earned premium of ₹440 crore. The incurred claims ratio is:",
+"topic": "General Insurance Underwriting",
+"t": "Identify the class of insurance against which the risk mentioned below can be categorised.<br><br>Risk: Fire wood / bamboos in the open",
 "o": [
-"133%",
-"66%",
-"75%",
-"25%"
+"Fire",
+"Marine",
+"Miscellaneous",
+"Liability",
+"Personal"
 ],
-"a": 2,
-"e": "Incurred claims ratio = 330 ÷ 440 = 75%."
+"a": 0,
+"e": "Correct answer: Fire (from the IC45 question bank)."
 },
 {
 "n": 43,
-"topic": "Underwriting Profitability and Re-underwriting Strategies",
-"t": "Which of the following would NOT improve underwriting profitability?",
+"topic": "General Insurance Underwriting",
+"t": "___________ is a type of insurance that does not indemnify the pure loss, but ex ante agrees to make a payment upon the occurrence of a triggering event.",
 "o": [
-"Writing more business at inadequate rates to gain market share",
-"Better risk selection and pricing accuracy",
-"Fraud control in claims",
-"Appropriate reinsurance to smooth large losses"
+"General insurance",
+"Liability insurance",
+"Paramedic insurance",
+"Parametric insurance",
+"Industrial insurance"
 ],
-"a": 0,
-"e": "Growth at inadequate rates increases losses faster than premium; the other measures all improve the underwriting result."
+"a": 3,
+"e": "Correct answer: Parametric insurance (from the IC45 question bank)."
 },
 {
 "n": 44,
-"topic": "Underwriting Profitability and Re-underwriting Strategies",
-"t": "'Cash-flow underwriting' describes the practice of:",
+"topic": "General Insurance Underwriting",
+"t": "Which among the following underwriters can be classified as Commercial Liability Underwriters based on their area of specialisation?",
 "o": [
-"Collecting premium only in cash",
-"Paying claims in instalments",
-"Underwriting only short-period policies",
-"Accepting risks at inadequate rates to generate premium for investment income"
+"Fire underwriters",
+"Group underwriters",
+"Motor underwriters",
+"Miscellaneous underwriters",
+"General liability underwriters"
 ],
-"a": 3,
-"e": "Cash-flow underwriting is a soft-market practice that relies on investment returns; it is risky when interest rates fall or losses rise."
+"a": 4,
+"e": "Correct answer: General liability underwriters (from the IC45 question bank)."
 },
 {
-"topic": "Intermediaries",
-"t": "The qualifying examination for an individual insurance agent conducted by the Insurance Institute of India is:",
+"topic": "Policyholder protection",
+"t": "The IRDAI portal through which a policyholder can escalate an unresolved grievance against an insurer is:",
 "o": [
-"IC-01",
-"IC-38",
-"IC-14",
-"IC-33"
+"Bima Sugam",
+"Bima Bharosa",
+"Bima Vahak",
+"Bima Vistaar"
 ],
 "a": 1,
-"e": "★ Core fact (asked across III papers). IC-38 is the agents' pre-recruitment examination; IC-01/02/11/14 are Licentiate papers.",
+"e": "★ Core fact (asked across III papers). Bima Bharosa (formerly IGMS) is the grievance portal; Bima Sugam is the marketplace, Bima Vahak the women-led distribution channel and Bima Vistaar the combined rural product.",
 "r": "core",
 "n": 45
 },
 {
 "n": 46,
-"topic": "Underwriting Profitability and Re-underwriting Strategies",
-"t": "The Expenses of Management (including commission) limit prescribed by IRDAI for a general insurer is:",
+"topic": "General Insurance Underwriting",
+"t": "In case of ______ the premium adjusted on the basis of actual loss experience of the insurance  company.",
 "o": [
-"No limit",
-"30% of gross written premium",
-"20% of gross written premium",
-"35% of gross written premium"
+"Manual method",
+"Pure risk premium",
+"Experience rating method",
+"Loss ratio method",
+"Merit rating method"
 ],
-"a": 1,
-"e": "IRDAI's EoM regulations cap total expenses of management for general insurers at 30% of gross premium written in India (35% for stand-alone health insurers)."
+"a": 3,
+"e": "Correct answer: Loss ratio method (from the IC45 question bank)."
 },
 {
 "n": 47,
-"topic": "Protection of Policyholders' Interests",
-"t": "Under the IRDAI (Protection of Policyholders' Interests) framework, an insurer must communicate its decision on a proposal within:",
+"topic": "General Insurance Underwriting",
+"t": "None of the following can be categorised as Class Rated products EXCEPT:- <BR><BR>I. Exposure rated products <BR>II. Insurance of large risk <BR>III. Packaged or customised products",
 "o": [
-"15 days of receipt of the proposal or any requisitioned information",
-"7 days",
-"60 days",
-"30 days"
+"I only",
+"II only",
+"III only",
+"I and II",
+"II and III"
 ],
-"a": 0,
-"e": "The regulations require insurers to process proposals and convey their decision within 15 days of receiving the proposal or the last required document."
+"a": 2,
+"e": "Correct answer: III only (from the IC45 question bank)."
 },
 {
 "n": 48,
-"topic": "Protection of Policyholders' Interests",
-"t": "When a surveyor is appointed for a general insurance claim, the surveyor's report must ordinarily be submitted within:",
+"topic": "General Insurance Underwriting",
+"t": "Ramesh is a normal individual seeking health insurance. How will his proposal be considered by the underwriter?",
 "o": [
-"7 days",
-"90 days",
-"15 days of appointment",
-"30 days of appointment"
+"Policy issued on a preferred basis / ?????????? ??",
+"Policy issued on a standard basis / ?? ???? ???? ?",
+"Policy issued on a sub-standard basis / ?????? ???",
+"Proposal will be accepted with riders / ???????? ?",
+"Proposal will be declined / ???????? ???????? ?? ?"
 ],
-"a": 2,
-"e": "IRDAI's 2024 claims timelines require the surveyor to submit the report within 15 days, with the insurer deciding the claim within 7 days of receiving the report."
+"a": 1,
+"e": "Correct answer: Policy issued on a standard basis / ?? ???? ???? ? (from the IC45 question bank)."
 },
 {
 "n": 49,
-"topic": "Research and Development in Underwriting, Rating and Product Innovation",
-"t": "Which of the following is a key underwriting challenge posed by climate change for Indian property insurers?",
+"topic": "General Insurance Underwriting",
+"t": "Objective of the ___________ is to estimate proportion of the loss for the underlying policy that is expected in the entire portfolio.",
 "o": [
-"Decline in motor claims",
-"Increased frequency and severity of flood, cyclone and other natural catastrophe losses, requiring better CAT modelling and accumulation control",
-"Elimination of the underwriting cycle",
-"Reduced need for reinsurance"
+"Prospective rating method",
+"Retrospective rating method",
+"Schedule  rating method",
+"Exposure rating method",
+"Loss ratio method"
 ],
-"a": 1,
-"e": "Rising NatCat losses strain traditional pricing based on past experience; insurers need CAT models, zonal accumulation limits and adequate CAT reinsurance."
+"a": 3,
+"e": "Correct answer: Exposure rating method (from the IC45 question bank)."
 },
 {
 "n": 50,
-"topic": "IT Applications in Underwriting",
-"t": "'Straight-through processing' (STP) in underwriting means:",
+"topic": "General Insurance Underwriting",
+"t": "__________ is the process by which the profitability of a portfolio is managed and the claims that take place are duly examined for identifying the loss exposures and taking necessary correction for implementation.",
 "o": [
-"Manual review of every proposal by a senior underwriter",
-"Automated acceptance and policy issue of proposals that meet pre-set rules, without manual intervention",
-"Issuing policies without collecting premium",
-"Processing proposals only at head office"
+"Underwriting",
+"Re-underwriting",
+"Retrocession",
+"Cession",
+"Supercession"
 ],
 "a": 1,
-"e": "STP uses rule engines to auto-underwrite standard risks (e.g. private cars, retail health), freeing underwriters for complex or exceptional cases."
+"e": "Correct answer: Re-underwriting (from the IC45 question bank)."
 }
 ]

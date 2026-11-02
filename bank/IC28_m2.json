@@ -1,657 +1,701 @@
 [
 {
 "n": 1,
-"topic": "Probability",
-"t": "One card is drawn at random from a well-shuffled pack of 52 cards. The probability that it is a king or a heart is:",
+"topic": "Foundation of Actuarial Science",
+"t": "What is the fourth term in the expansion of (3x - 2)<SUP>10</SUP>?",
 "o": [
-"4/13",
-"1/4",
-"1/13",
-"17/52"
+"2,099,520x7",
+"2,099,520x6",
+"4,330,260x6",
+"17,920x4"
 ],
 "a": 0,
-"e": "P(king) = 4/52, P(heart) = 13/52 and P(king of hearts) = 1/52, so P(king or heart) = (4 + 13 − 1)/52 = 16/52 = 4/13."
+"e": "Correct answer: 2,099,520x7 (from the IC28 question bank)."
 },
 {
 "n": 2,
-"topic": "Probability",
-"t": "A portfolio consists of 60% standard lives with a one-year mortality rate of 0.01 and 40% substandard lives with a rate of 0.04. The probability that a life chosen at random dies within the year is:",
+"topic": "Foundation of Actuarial Science",
+"t": "Which method was adopted for LIC a(1996-98)?",
 "o": [
-"0.022",
-"0.025",
-"0.040",
-"0.050"
+"ROC",
+"Calendar year",
+"Financial year",
+"Policy",
+"Life year"
 ],
-"a": 0,
-"e": "By the law of total probability: 0.60 × 0.01 + 0.40 × 0.04 = 0.006 + 0.016 = 0.022."
+"a": 4,
+"e": "Correct answer: Life year (from the IC28 question bank)."
 },
 {
 "n": 3,
-"topic": "Probability",
-"t": "In a group, 60% are standard lives (one-year death probability 0.01) and 40% substandard (0.04). Given that a randomly chosen life has died within the year, the probability that it was substandard is approximately:",
+"topic": "Foundation of Actuarial Science",
+"t": "A sinking fund is set up by uniform payments made at the end of each year, to provide a capital of 4,500 at the end of 16 years; money in the fund accumulating at 15% p.a. What is the uniform payment required?",
 "o": [
-"0.27",
-"0.40",
-"0.64",
-"0.73"
+"61.11",
+"57.2",
+"75.35",
+"80.7645712747342",
+"20.5"
 ],
 "a": 3,
-"e": "Bayes' theorem: P(substandard | died) = 0.016/(0.006 + 0.016) = 0.016/0.022 = 8/11 ≈ 0.73."
+"e": "Correct answer: 80.7645712747342 (from the IC28 question bank)."
 },
 {
 "n": 4,
-"topic": "Probability",
-"t": "Two independent lives each have a probability 0.2 of dying within one year. The probability that at least one of them dies within the year is:",
+"topic": "Foundation of Actuarial Science",
+"t": "A sum of 900 is due at the end of 11 years 6 months. The present interest rate is 6.5% p.a. but it is expected that interest rate will fall to 6% after 6 years. Find the present value of the sum of money under these assumptions.",
 "o": [
-"0.36",
-"0.40",
-"0.04",
-"0.32"
+"512.649974606014",
+"563.914972066616",
+"447.674754204686",
+"484.820609699294",
+"548.535472828435"
 ],
-"a": 0,
-"e": "P(at least one dies) = 1 − P(both survive) = 1 − 0.8 × 0.8 = 1 − 0.64 = 0.36."
+"a": 2,
+"e": "Correct answer: 447.674754204686 (from the IC28 question bank)."
 },
 {
 "n": 5,
-"topic": "Probability",
-"t": "A life has a probability 0.9 of surviving each year, independently of other years. The probability that the life survives the next 3 years is:",
+"topic": "Foundation of Actuarial Science",
+"t": "Expression for present value of whole life assurance benefit in terms of commutation functions is given by:-",
 "o": [
-"0.729",
-"0.810",
-"0.270",
-"0.700"
+"Mx/Dx",
+"(Mx-Mx+n)/Dx",
+"Mx+n/Dx",
+"2Dx+n/Dx",
+"Rx/Dx"
 ],
 "a": 0,
-"e": "The survival probabilities multiply under independence: 0.9 × 0.9 × 0.9 = 0.729."
+"e": "Correct answer: Mx/Dx (from the IC28 question bank)."
 },
 {
 "n": 6,
-"topic": "Basic Statistics",
-"t": "The mode of the observations 2, 3, 3, 5, 7, 3, 9 is:",
+"topic": "Foundation of Actuarial Science",
+"t": "To conform to the requirements of law, minimum surrender values are generally generated as:-",
 "o": [
-"3",
-"5",
-"7",
-"2"
+"A percentage of expenses incurred",
+"A percentage of commission paid",
+"A percentage of future premiums",
+"A percentage of future expenses",
+"A percentage of premiums already paid excluding the premium paid in first year of insurance"
 ],
-"a": 0,
-"e": "The mode is the value occurring most frequently; 3 appears three times, more than any other value."
+"a": 4,
+"e": "Correct answer: A percentage of premiums already paid excluding the premium paid in first year of insurance (from the IC28 question bank)."
 },
 {
 "n": 7,
-"topic": "Basic Statistics",
-"t": "The variance of the population values 1, 2, 3, 4 and 5 is:",
+"topic": "Foundation of Actuarial Science",
+"t": "An office issues 25 year capital redemption policies with sum assured 15,000 and premiums payable in advance. The premium is calculated on the basis of an effective rate of interest of 12% p.a. Calculate the policy value immediately before the 9premium is paid.",
 "o": [
-"2",
-"2.5",
-"10",
-"1"
+"1493.33",
+"1383.71036923093",
+"1004.46",
+"1377.56",
+"2456.34"
 ],
-"a": 0,
-"e": "The mean is 3; the squared deviations are 4, 1, 0, 1, 4 with sum 10, so the variance is 10/5 = 2."
+"a": 1,
+"e": "Correct answer: 1383.71036923093 (from the IC28 question bank)."
 },
 {
 "n": 8,
-"topic": "Basic Statistics",
-"t": "A group of 100 independent lives each has a probability 0.02 of dying in a year. The mean and variance of the number of deaths are respectively:",
+"topic": "Foundation of Actuarial Science",
+"t": "Calculate net annual premium limited to 10 years under a Mortgage Redemption Assurance on the life of (40) for covering an initial loan of 93,000 repayable by uniform amount of capital of 6,200 every year over 15 years. Basis: IALM (1994-96) Ultimate Table and 6% interest.",
 "o": [
-"2 and 0.02",
-"4 and 1.96",
-"2 and 2",
-"2 and 1.96"
+"299.51",
+"230.23",
+"478.7",
+"396.45",
+"348.843"
 ],
-"a": 3,
-"e": "The number of deaths is Binomial(100, 0.02): mean np = 2 and variance np(1 − p) = 100 × 0.02 × 0.98 = 1.96."
+"a": 4,
+"e": "Correct answer: 348.843 (from the IC28 question bank)."
 },
 {
 "n": 9,
-"topic": "Basic Statistics",
-"t": "For a normally distributed variable, approximately what proportion of values lie within two standard deviations of the mean?",
+"topic": "Foundation of Actuarial Science",
+"t": "One card is drawn from a standard 52 card deck.  In describing the occurrence of two possible events, an Ace and a King, these two events are said to be:-",
 "o": [
-"50%",
-"68%",
-"95%",
-"99.7%"
+"Independent",
+"Mutually exclusive",
+"Random variables",
+"Randomly independent",
+"None of the above"
 ],
-"a": 2,
-"e": "The normal distribution has about 68% of values within one standard deviation, 95% within two and 99.7% within three."
+"a": 1,
+"e": "Correct answer: Mutually exclusive (from the IC28 question bank)."
 },
 {
 "n": 10,
-"topic": "Theory of Interest",
-"t": "₹8,000 is invested for 2 years at 5% per annum compound interest. The accumulated amount is:",
+"topic": "Foundation of Actuarial Science",
+"t": "On the basis of IALM (1994-96) Ultimate Table at 6%, calculate the net annual premiums for a sum assured of <IMG border=0 hspace=0 alt=\"\" align=absMiddle src=\"/Attest1_res/topicresources/1394573854/III_Rs_Symbol.jpg\" width=12 height=15>2,000 on a life aged 29 for the deferred temporary assurance - the assurance to commense at age 35 and then to continue for 10 years.",
 "o": [
-"₹8,840",
-"₹9,261",
-"₹8,800",
-"₹8,820"
+"1.42",
+"2.45",
+"2.8",
+"1.86961944384587",
+"1.5"
 ],
 "a": 3,
-"e": "Amount = 8,000 × (1.05)² = 8,000 × 1.1025 = ₹8,820."
+"e": "Correct answer: 1.86961944384587 (from the IC28 question bank)."
 },
 {
 "n": 11,
-"topic": "Probability",
-"t": "A claim amount X is ₹0 with probability 0.7 and ₹1,00,000 with probability 0.3. The expected value of X is:",
+"topic": "Foundation of Actuarial Science",
+"t": "A rate of interest of 5% p.a. convertible monthly is equivalent to what annual effective rate of discount?",
 "o": [
-"₹30,000",
-"₹50,000",
-"₹70,000",
-"₹1,00,000"
+"3.91%",
+"5.6%",
+"4.86717583512427E-02",
+"5.24%",
+"3.118%"
 ],
-"a": 0,
-"e": "★ Key fact (repeated across the mocks of this paper). E[X] = 0 × 0.7 + 1,00,000 × 0.3 = ₹30,000. The expected value is the probability-weighted average of the possible outcomes.",
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: 4.86717583512427E-02 (from the IC28 question bank).",
 "r": "key"
 },
 {
 "n": 12,
-"topic": "Theory of Interest",
-"t": "A nominal rate of 8% per annum convertible half-yearly is equivalent to an effective annual rate of:",
+"topic": "Foundation of Actuarial Science",
+"t": "How many 3-digit numbers can be formed from the digits 2, 3, 5, 6, 7 and 9, which are divisible by 5 and none of the digits is repeated?",
 "o": [
-"8.24%",
-"16.64%",
-"8.00%",
-"8.16%"
+"5",
+"10",
+"15",
+"20",
+"159"
 ],
 "a": 3,
-"e": "The half-yearly rate is 4%, so the effective annual rate is (1.04)² − 1 = 1.0816 − 1 = 8.16%."
+"e": "Correct answer: 20 (from the IC28 question bank)."
 },
 {
 "n": 13,
-"topic": "Theory of Interest",
-"t": "Using the 'rule of 72', an investment earning 7.2% per annum compound will approximately double in:",
+"topic": "Foundation of Actuarial Science",
+"t": "The Life Assurance Fund at the beginning of a certain year is 1,500,000 and at the end of the year after tax provision is 2,500,000. The gross interest credited is 210,000 and the net interest 140,000. Find the gross rate of interest earned by the insurer in the year.",
 "o": [
-"12 years",
-"14 years",
-"7 years",
-"10 years"
+"10.8808%",
+"9.63303%",
+"6%",
+"5.2%",
+"7.34%"
 ],
-"a": 3,
-"e": "Doubling time ≈ 72 ÷ (rate in %) = 72/7.2 = 10 years. Exactly, (1.072)^10 ≈ 2.004."
+"a": 0,
+"e": "Correct answer: 10.8808% (from the IC28 question bank)."
 },
 {
 "n": 14,
-"topic": "Theory of Interest",
-"t": "At 10% per annum effective, the present value of ₹12,100 due in 2 years is:",
+"topic": "Foundation of Actuarial Science",
+"t": "Payments of 300, 200 are due at the end of years 1, 3, and 5, respectively. Assume an annual effective rate of interest of 5% per year. Find the point in time at which a payment of 600 would be equivalent.",
 "o": [
-"₹11,000",
-"₹12,100",
-"₹9,680",
-"₹10,000"
+"8",
+"2.58891",
+"6",
+"3.1",
+"2.35"
 ],
-"a": 3,
-"e": "PV = 12,100/(1.10)² = 12,100/1.21 = ₹10,000."
+"a": 1,
+"e": "Correct answer: 2.58891 (from the IC28 question bank)."
 },
 {
 "n": 15,
-"topic": "Theory of Interest",
-"t": "If the effective annual rate of interest is 6% (ln 1.06 = 0.0583), the equivalent constant force of interest is:",
+"topic": "Foundation of Actuarial Science",
+"t": "Blake's offers a perpetuity that pays annual payments of 8,000. This contract sells for 75,000 today. What is the interest rate?",
 "o": [
-"0.0600",
-"0.0618",
-"0.0566",
-"0.0583"
+"8.75%",
+"10.67%"
 ],
-"a": 3,
-"e": "δ = ln(1 + i) = ln(1.06) = 0.0583 per annum. The force of interest is slightly below the effective rate."
+"a": 1,
+"e": "Correct answer: 10.67% (from the IC28 question bank)."
 },
 {
 "n": 16,
-"topic": "Theory of Interest",
-"t": "If the effective rate of discount is d = 0.06 per annum, the one-year discount factor v is:",
+"topic": "Foundation of Actuarial Science",
+"t": "i<SUP>(m)</sUP>-d<SUP>(m)</sUP>=",
 "o": [
-"0.9400",
-"0.9434",
-"1.0600",
-"1.0638"
+"i(m)/d(m)m",
+"i(m)d(m)m",
+"i(m)d(m)/m",
+"d(m)/mi(m)",
+"None of the above"
 ],
-"a": 0,
-"e": "v = 1 − d = 1 − 0.06 = 0.94. Equivalently, d = 1 − v."
+"a": 2,
+"e": "Correct answer: i(m)d(m)/m (from the IC28 question bank)."
 },
 {
 "n": 17,
-"topic": "Theory of Interest",
-"t": "An investor pays ₹1,000 today and receives ₹1,100 exactly one year later. The effective annual yield on the transaction is:",
+"topic": "Foundation of Actuarial Science",
+"t": "Felicia opens a bank account that pays interest compounded continuously at the annual rate of 2.5%. Her initial deposit is 2,000, and there will be no other transactions until the amount in her account is 2,500. Based on the formula given above, how many years, to the nearest whole number of years, will it take until she has 2,500 in the account?",
 "o": [
-"11.00%",
-"12.10%",
-"9.09%",
-"10.00%"
+"9",
+"10",
+"11",
+"12",
+"8"
 ],
-"a": 3,
-"e": "Solving the equation of value 1,000(1 + i) = 1,100 gives i = 100/1,000 = 10%."
+"a": 0,
+"e": "Correct answer: 9 (from the IC28 question bank)."
 },
 {
 "n": 18,
-"topic": "Annuities-Certain",
-"t": "At 5% per annum, a₅ = 4.3295 and v⁵ = 0.7835. The value of the annuity-due ä₅ is:",
+"topic": "Foundation of Actuarial Science",
+"t": "The life assured expects the payment of:-",
 "o": [
-"4.1133",
-"4.3295",
-"4.5460",
-"5.3295"
+"Premiums",
+"Expenses",
+"Commission",
+"Promised benefits",
+"Bonus"
 ],
-"a": 2,
-"e": "ä₅ = a₅ + 1 − v⁵ = 4.3295 + 0.2165 = 4.5460, which also equals 1.05 × 4.3295."
+"a": 3,
+"e": "Correct answer: Promised benefits (from the IC28 question bank)."
 },
 {
 "n": 19,
-"topic": "Annuities-Certain",
-"t": "At 5% per annum effective, v⁵ = 0.7835. Using the formula aₙ = (1 − vⁿ)/i, the value of a₅ is:",
+"topic": "Foundation of Actuarial Science",
+"t": "On the basis of LIC(a)(1996-98) table and 8% interest, calculate the net single premium for an immediate annuity of 800 p.a. payable monthly in arrear for 14 years certain and thereafter for life to a person aged 65 at entry.",
 "o": [
-"4.546",
-"5.526",
-"3.917",
-"4.330"
+"4045.2",
+"7796.98019131029",
+"7653.11",
+"6806.5",
+"5497.37"
 ],
-"a": 3,
-"e": "a₅ = (1 − 0.7835)/0.05 = 0.2165/0.05 = 4.33."
+"a": 1,
+"e": "Correct answer: 7796.98019131029 (from the IC28 question bank)."
 },
 {
 "n": 20,
-"topic": "Annuities-Certain",
-"t": "At 10% per annum, a₃ = 2.4869. The value of the annuity-due ä₃ is:",
+"topic": "Foundation of Actuarial Science",
+"t": "The compound interest on 30,000 at 7% per annum is 4347. The period (in years) is:-",
 "o": [
-"2.2608",
-"2.4869",
-"2.7356",
-"3.4869"
+"2",
+"2.5",
+"3",
+"4",
+"8.2"
 ],
-"a": 2,
-"e": "★ Key fact (repeated across the mocks of this paper). ä₃ = (1 + i) a₃ = 1.10 × 2.4869 = 2.7356, because each payment of the annuity-due falls one year earlier.",
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: 2 (from the IC28 question bank).",
 "r": "key"
 },
 {
 "n": 21,
-"topic": "Annuities-Certain",
-"t": "At 5% per annum, a₅ = 4.3295 and (1.05)⁵ = 1.2763. The accumulated value s₅ of ₹1 per annum paid in arrear for 5 years is approximately:",
+"topic": "Foundation of Actuarial Science",
+"t": "An annuity of 1 p.a. which starts after t years and is payable to a person aged x for n years thereafter is known as:-",
 "o": [
-"4.546",
-"5.256",
-"5.526",
-"6.802"
+"Temporary immediate life annuity",
+"Educational annuity plan",
+"Deferred temporary life annuity",
+"Fixed term endowment",
+"Increasing life annuity"
 ],
 "a": 2,
-"e": "s₅ = (1 + i)⁵ a₅ = 1.2763 × 4.3295 ≈ 5.526."
+"e": "Correct answer: Deferred temporary life annuity (from the IC28 question bank)."
 },
 {
 "n": 22,
-"topic": "Annuities-Certain",
-"t": "An annuity of ₹1,000 per annum is payable for 3 years, the first payment being at the end of year 3. At 10% (v² = 0.8264, a₃ = 2.4869) its present value is approximately:",
+"topic": "Foundation of Actuarial Science",
+"t": "A loan of 14,000 is repayable by level instalments of principal and interest, payable yearly in arrears over 18 years. The rate of interest is 7% p.a. Calculate the interest contained in the second instalment.",
 "o": [
-"₹2,261",
-"₹2,487",
-"₹1,869",
-"₹2,055"
+"1391.77461204283",
+"951.175777157002",
+"519.9",
+"210.19",
+"440.91"
 ],
-"a": 3,
-"e": "This is a 2-year deferred annuity: ₂|a₃ = v² a₃ = 0.8264 × 2.4869 = 2.0552, so the PV ≈ ₹2,055."
+"a": 1,
+"e": "Correct answer: 951.175777157002 (from the IC28 question bank)."
 },
 {
 "n": 23,
-"topic": "Annuities-Certain",
-"t": "A loan of ₹1,00,000 is to be repaid by five level annual instalments in arrear at 8% per annum. Given a₅ at 8% = 3.9927, the annual instalment is approximately:",
+"topic": "Foundation of Actuarial Science",
+"t": "What is the value of <SUP>5</SUP>C<SUB>0</SUB>+<SUP>5</SUP>C<SUB>1</SUB>+<SUP>5</SUP>C<SUB>2</SUB>+<SUP>5</SUP>C<SUB>3</SUB>+<SUP>5</SUP>C<SUB>4</SUB>+<SUP>5</SUP>C<SUB>5</SUB>?",
 "o": [
-"₹27,000",
-"₹32,000",
-"₹20,000",
-"₹25,046"
+"30",
+"64",
+"32",
+"20",
+"5"
 ],
-"a": 3,
-"e": "Instalment = loan/a₅ = 1,00,000/3.9927 ≈ ₹25,046."
+"a": 2,
+"e": "Correct answer: 32 (from the IC28 question bank)."
 },
 {
 "n": 24,
-"topic": "Life Tables and Survival Models",
-"t": "In a life table l₃₀ = 98,000 and d₃₀ = 196. The rate of mortality q₃₀ is:",
+"topic": "Foundation of Actuarial Science",
+"t": "A person has right to receive 400 p.a. for 7 years and 300 p.a. for the next 5 years. The first payment is due at the end of seven years from now. What is the present value of his rights, assuming interest rate of 4.5% p.a.?",
 "o": [
-"0.0002",
-"0.0020",
-"0.0196",
-"0.0200"
+"2445.36",
+"2553.13",
+"2783",
+"5007",
+"7121.3"
 ],
 "a": 1,
-"e": "q₃₀ = d₃₀/l₃₀ = 196/98,000 = 0.002."
+"e": "Correct answer: 2553.13 (from the IC28 question bank)."
 },
 {
 "n": 25,
-"topic": "Life Tables and Survival Models",
-"t": "If the one-year survival probability p₄₅ = 0.9975, then q₄₅ equals:",
+"topic": "Foundation of Actuarial Science",
+"t": "For Decreasing Temporary Assurance, if P is the net annual premium limited to t years, where t â‰¤ (2n/3), the expression for annual premium, P, is given by:-",
 "o": [
-"0.0025",
-"0.0075",
-"0.0250",
-"1.0025"
+"S(nMx+Rx+1+Rx+n+1)/(Nx-Nx+t)",
+"S(nMx-Rx+1-Rx+n+1)/(Nx-Nx+t)",
+"S(nMx-Rx+1+Rx+n+1)/(Nx-Nx+t)",
+"S(nMx+Rx+1-Rx+n+1)/(Nx+Nx+t)",
+"S(nMx+Rx+1-Rx+n+1)/(Nx-Nx+t)"
 ],
-"a": 0,
-"e": "pₓ + qₓ = 1, so q₄₅ = 1 − 0.9975 = 0.0025."
+"a": 2,
+"e": "Correct answer: S(nMx-Rx+1+Rx+n+1)/(Nx-Nx+t) (from the IC28 question bank)."
 },
 {
 "n": 26,
-"topic": "Life Tables and Survival Models",
-"t": "Given l₄₅ = 92,000 and l₄₈ = 90,160, the probability that a life aged 45 survives for 3 years is:",
+"topic": "Foundation of Actuarial Science",
+"t": "What select period was considered for the participating male lives for the preparation of British Offices Tables?",
 "o": [
-"0.02",
-"0.92",
-"0.98",
-"0.99"
+"5 years",
+"10 years",
+"3 years",
+"9 years",
+"8 years"
 ],
-"a": 2,
-"e": "₃p₄₅ = l₄₈/l₄₅ = 90,160/92,000 = 0.98."
+"a": 1,
+"e": "Correct answer: 10 years (from the IC28 question bank)."
 },
 {
 "n": 27,
-"topic": "Life Tables and Survival Models",
-"t": "Given l₇₀ = 60,000 and l₇₅ = 45,000, the probability that a life aged 70 dies before age 75 is:",
+"topic": "Foundation of Actuarial Science",
+"t": "Ramesh has got an interest payment of 500 from an investment of 1,000 in 10 years. What was the rate of return on his investment considering simple interest?",
 "o": [
-"0.15",
-"0.25",
-"0.33",
-"0.75"
+"1%",
+"2%",
+"5%",
+"10%",
+"6%"
 ],
-"a": 1,
-"e": "₅q₇₀ = (l₇₀ − l₇₅)/l₇₀ = 15,000/60,000 = 0.25."
+"a": 2,
+"e": "Correct answer: 5% (from the IC28 question bank)."
 },
 {
 "n": 28,
-"topic": "Life Tables and Survival Models",
-"t": "A small life table has lₓ = 1,000, lₓ₊₁ = 800, lₓ₊₂ = 500 and lₓ₊₃ = 0. The curtate expectation of life eₓ is:",
+"topic": "Foundation of Actuarial Science",
+"t": "A man borrowed 800 at 10% per annum simple interest and immediately lent the whole sum at 10% per annum compound interest. What does he gain at the end of 2 years?",
 "o": [
-"1.0",
-"1.3",
-"1.8",
-"2.3"
+"Rs. 6",
+"Rs. 10",
+"Rs. 8",
+"Rs. 12",
+"Rs. 13"
 ],
-"a": 1,
-"e": "eₓ = Σ ₖpₓ for k = 1, 2, … = (800 + 500 + 0)/1,000 = 1.3 years."
+"a": 2,
+"e": "Correct answer: Rs. 8 (from the IC28 question bank)."
 },
 {
 "n": 29,
-"topic": "Life Assurances",
-"t": "If Mₓ = 400 and Dₓ = 2,000, the net single premium for a whole life assurance of ₹1 payable at the end of the year of death is:",
+"topic": "Foundation of Actuarial Science",
+"t": "A sum of 12,500 amounts to 15,500 in 4 years at the rate of simple interest. What is the rate of interest?",
 "o": [
-"0.05",
-"0.10",
-"0.20",
-"5.00"
+"3%",
+"4%",
+"5%",
+"6%",
+"None of the above"
 ],
-"a": 2,
-"e": "★ Key fact (repeated across the mocks of this paper). Aₓ = Mₓ/Dₓ = 400/2,000 = 0.20.",
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: 6% (from the IC28 question bank).",
 "r": "key"
 },
 {
 "n": 30,
-"topic": "Life Tables and Survival Models",
-"t": "The central rate of mortality mₓ is defined as:",
+"topic": "Foundation of Actuarial Science",
+"t": "What select period was considered in the preparation of single entry table?",
 "o": [
-"dₓ / lₓ",
-"dₓ / Lₓ",
-"lₓ₊₁ / lₓ",
-"Lₓ / Tₓ"
+"2 years",
+"1 year",
+"3 years",
+"5 years",
+"4 years"
 ],
 "a": 1,
-"e": "mₓ = dₓ/Lₓ divides the deaths in the year of age by the average number of lives exposed during the year (Lₓ), whereas qₓ = dₓ/lₓ uses the lives at the start of the year."
+"e": "Correct answer: 1 year (from the IC28 question bank)."
 },
 {
 "n": 31,
-"topic": "Life Tables and Survival Models",
-"t": "Assuming deaths are uniformly distributed over the year of age, with lₓ = 10,000 and dₓ = 200, the value of Lₓ (number of years lived between ages x and x + 1) is:",
+"topic": "Foundation of Actuarial Science",
+"t": "The net annual premium for a deferred annuity of 1 p.a. payable in m equal instalments of 1/m each in arrear for life to a person aged x at entry with deferment period of t years is given by:-",
 "o": [
-"9,800",
-"9,900",
-"10,000",
-"10,100"
+"ax+t + (m-1)/2m",
+"vt {ax + (m-1)/2m}",
+"vt {ax+t + (m-1)/2m}",
+"vt ax+t",
+"vt {ax+t - (m-1)/2m}"
 ],
-"a": 1,
-"e": "Under the uniform distribution of deaths Lₓ = lₓ − ½dₓ = 10,000 − 100 = 9,900."
+"a": 4,
+"e": "Correct answer: vt {ax+t - (m-1)/2m} (from the IC28 question bank)."
 },
 {
 "n": 32,
-"topic": "Life Annuities",
-"t": "Given N₅₀ = 16,000 and D₅₀ = 1,250, the whole life annuity-due ä₅₀ equals:",
+"topic": "Foundation of Actuarial Science",
+"t": "Two dice are tossed. The probability that the total score is a prime number is:-",
 "o": [
-"11.8",
-"12.0",
-"12.8",
-"13.8"
+"2017-01-06 00:00:00",
+"2017-05-12 00:00:00",
+"2017-01-02 00:00:00",
+"2017-07-09 00:00:00",
+"2017-01-22 00:00:00"
 ],
-"a": 2,
-"e": "äₓ = Nₓ/Dₓ = 16,000/1,250 = 12.8."
+"a": 1,
+"e": "Correct answer: 2017-05-12 00:00:00 (from the IC28 question bank)."
 },
 {
 "n": 33,
-"topic": "Life Annuities",
-"t": "For a life aged 40, N₄₀ = 40,000, N₆₀ = 10,000 and D₄₀ = 2,500. The 20-year temporary life annuity-due ä₄₀:₂₀ is:",
+"topic": "Foundation of Actuarial Science",
+"t": "A loan of 100,000 is to be repaid by 20 level annual payments. The lender wishes to earn 12% on the full loan amount and wil deposit the remainder of the annual payment to a sinking fund earning 8% annually. Just after receiving the 10<SUP>th</SUP> payment, the lender sells the remaining 10 payments. The purchaser considers following to value the remaining payments: earning an annual return of 12% on his investment while recovering his principal in a sinking fund earning 8%. Find the amount of the original lender's sinking fund at the time the remainder of the loan is sold.",
 "o": [
-"4",
-"12",
-"16",
-"20"
+"31656.41",
+"14486",
+"26185.2",
+"28121.14",
+"18522"
 ],
-"a": 1,
-"e": "ä₄₀:₂₀ = (N₄₀ − N₆₀)/D₄₀ = 30,000/2,500 = 12."
+"a": 0,
+"e": "Correct answer: 31656.41 (from the IC28 question bank)."
 },
 {
 "n": 34,
-"topic": "Life Annuities",
-"t": "Given N₅₁ = 14,000 and D₄₀ = 2,000, the value of a whole life annuity-immediate on a life aged 40 deferred 10 years, ₁₀|a₄₀, is:",
+"topic": "Foundation of Actuarial Science",
+"t": "Using IALM (1994-96) Ultimate Table at rate of interest of 4%, calculate net annual premium under a Children's Anticipated policy for 19,000 on the life of a child aged 14, the assurance vesting at age 25 and maturing at 60. At the vesting age three-fourth of the premiums paid during the deferment period are payable to the child in lump sum.",
 "o": [
-"5",
-"7",
-"10",
-"14"
+"153.59",
+"199",
+"180.34",
+"134.532242174972",
+"263.8"
 ],
-"a": 1,
-"e": "ₘ|aₓ = Nₓ₊ₘ₊₁/Dₓ, so ₁₀|a₄₀ = N₅₁/D₄₀ = 14,000/2,000 = 7."
+"a": 3,
+"e": "Correct answer: 134.532242174972 (from the IC28 question bank)."
 },
 {
 "n": 35,
-"topic": "Life Annuities",
-"t": "For the same term and rate of interest, the value of an n-year temporary life annuity aₓ:ₙ compared with the annuity-certain aₙ is:",
+"topic": "Foundation of Actuarial Science",
+"t": "Arti is entitled to 500 p.a. for 3 years, the first payment being payable after two year from now. For the next 4 years she is entitled to 550 p.a. Find the accumulated value of these payments at the end of the term at 7% p.a.",
 "o": [
-"always greater",
-"always smaller",
-"equal",
-"greater only at young ages"
+"2108.04288582699",
+"2008",
+"4548.9840462745",
+"2045.1",
+"1579.02"
 ],
-"a": 1,
-"e": "Each life annuity payment is contingent on survival, so it is discounted for mortality as well as interest and the EPV is smaller than the corresponding annuity-certain."
+"a": 2,
+"e": "Correct answer: 4548.9840462745 (from the IC28 question bank)."
 },
 {
-"topic": "Insurance Act 1938 – key sections",
-"t": "Section 64VB of the Insurance Act 1938 requires that:",
+"topic": "Taxation",
+"t": "Deduction for health insurance premium under Section 80D for an individual below 60 years (self and family) is up to:",
 "o": [
-"Premium is received in advance before the risk is assumed",
-"Every policy carries a free-look clause",
-"Claims are settled within 30 days",
-"Agents hold a valid licence"
+"₹15,000",
+"₹25,000",
+"₹50,000",
+"₹75,000"
 ],
-"a": 0,
-"e": "★ Core fact (asked across III papers). No risk may be assumed unless the premium has been received in advance or is guaranteed in the manner prescribed.",
+"a": 1,
+"e": "★ Core fact (asked across III papers). ₹25,000; ₹50,000 where the insured is a senior citizen; an additional ₹25,000/₹50,000 for parents.",
 "r": "core",
 "n": 36
 },
 {
 "n": 37,
-"topic": "Life Annuities",
-"t": "If aₓ = 12, the approximate value of the annuity payable monthly in arrear aₓ⁽¹²⁾ (using aₓ⁽ᵐ⁾ ≈ aₓ + (m − 1)/2m) is:",
+"topic": "Foundation of Actuarial Science",
+"t": "The net single premium for a deferred annuity of 1 p.a. payable yearly in arrear for life to a person aged x at entry with deferment period of t years is given by:-",
 "o": [
-"11.54",
-"12.00",
-"12.46",
-"12.50"
+"v ax+t",
+"vt ax+t",
+"vt ax",
+"vt at",
+"ax+t"
 ],
-"a": 2,
-"e": "aₓ⁽¹²⁾ ≈ aₓ + 11/24 = 12 + 0.4583 = 12.46. Monthly payments in arrear are received on average earlier than a single annual payment at the year-end."
+"a": 1,
+"e": "Correct answer: vt ax+t (from the IC28 question bank)."
 },
 {
 "n": 38,
-"topic": "Life Assurances",
-"t": "For a life aged 30, M₃₀ = 800, M₅₀ = 500 and D₃₀ = 5,000. The net single premium per ₹1 for a 20-year term assurance is:",
+"topic": "Foundation of Actuarial Science",
+"t": "Immediate annuities can be purchased only on:-",
 "o": [
-"0.06",
-"0.10",
-"0.16",
-"0.60"
+"Annual premium basis",
+"Bi-annual premium basis",
+"Quarterly premium basis",
+"Single premium basis",
+"None of the above"
 ],
-"a": 0,
-"e": "A¹₃₀:₂₀ = (M₃₀ − M₅₀)/D₃₀ = 300/5,000 = 0.06."
+"a": 3,
+"e": "Correct answer: Single premium basis (from the IC28 question bank)."
 },
 {
 "n": 39,
-"topic": "Life Assurances",
-"t": "For a life aged 30, M₃₀ = 800, M₅₀ = 500, D₅₀ = 2,000 and D₃₀ = 5,000. The net single premium per ₹1 for a 20-year endowment assurance is:",
+"topic": "Foundation of Actuarial Science",
+"t": "A box contains 2 white balls, 3 black balls and 4 red balls. In how many ways can 3 balls be drawn from the box, if at least one black ball is to be included in the draw?",
 "o": [
-"0.06",
-"0.40",
-"0.46",
-"0.56"
+"32",
+"48",
+"64",
+"96",
+"11"
 ],
 "a": 2,
-"e": "A₃₀:₂₀ = (M₃₀ − M₅₀ + D₅₀)/D₃₀ = (300 + 2,000)/5,000 = 0.46."
+"e": "Correct answer: 64 (from the IC28 question bank)."
 },
 {
 "n": 40,
-"topic": "Life Assurances",
-"t": "Given M₅₀ = 500 and D₃₀ = 5,000, the net single premium per ₹1 for a whole life assurance on a life aged 30 deferred 20 years is:",
+"topic": "Foundation of Actuarial Science",
+"t": "A loan of INR 25,000 is repayable by equal annual payments at the end of each of the next 5 years. Interest is 8% pa for the first three years and 12% pa thereafter. Calculate the loan outstanding immediately after the second repayment.",
 "o": [
-"0.06",
-"0.10",
-"0.16",
-"0.25"
+"6379.58",
+"25771",
+"37983.1",
+"15890.47",
+"16905.88"
 ],
-"a": 1,
-"e": "ₙ|Aₓ = Mₓ₊ₙ/Dₓ = M₅₀/D₃₀ = 500/5,000 = 0.10; it covers death only after age 50."
+"a": 3,
+"e": "Correct answer: 15890.47 (from the IC28 question bank)."
 },
 {
 "n": 41,
-"topic": "Life Assurances",
-"t": "Aₓ (benefit at the end of the year of death) is 0.30 and (1 + i)^½ = 1.03. Under the uniform distribution of deaths, the assurance payable immediately on death Āₓ is approximately:",
+"topic": "Foundation of Actuarial Science",
+"t": "A card is drawn from a pack of 52 cards. The probability of getting a queen of club or a king of heart is:-",
 "o": [
-"0.291",
-"0.300",
-"0.309",
-"0.330"
+"2017-01-13 00:00:00",
+"2017-02-13 00:00:00",
+"2017-01-26 00:00:00",
+"1952-01-01 00:00:00",
+"1952-03-01 00:00:00"
 ],
 "a": 2,
-"e": "Āₓ ≈ (1 + i)^½ Aₓ = 1.03 × 0.30 = 0.309, because the benefit is paid on average half a year earlier."
+"e": "Correct answer: 2017-01-26 00:00:00 (from the IC28 question bank)."
 },
 {
 "n": 42,
-"topic": "Life Assurances",
-"t": "Under a pure endowment contract, if the life assured dies before the end of the term:",
+"topic": "Foundation of Actuarial Science",
+"t": "Ben has a right to receive an amount of 1,500 at the end of 12 years from now. This right has been sold to Cheng for a present value calculated at the rate of 8% p.a. The money thus received was invested by Ben in a deposit account at 9% p.a. payable half yearly. After 8 years the account had to be closed and Ben then invested the amount available at 6 % p.a. in another bank. How much has Ben gained or lost in this transaction, as at the end of 12 years?",
 "o": [
-"the sum assured is paid immediately",
-"the sum assured is paid at the end of the term",
-"nothing is payable",
-"premiums are returned with interest"
+"Gain of Rs. 3.97",
+"Loss of Rs. 90",
+"Gain of Rs. 13.91",
+"Loss of Rs. 5.95",
+"Gain of Rs. 20.86"
 ],
-"a": 2,
-"e": "A pure endowment pays only on survival to the end of the term; death within the term extinguishes the benefit (unless a return-of-premium rider is added)."
+"a": 4,
+"e": "Correct answer: Gain of Rs. 20.86 (from the IC28 question bank)."
 },
 {
-"topic": "Insurance Act 1938 – key sections",
-"t": "Nomination and assignment of a life insurance policy are governed respectively by which sections of the Insurance Act 1938?",
+"topic": "Motor – statutory",
+"t": "Third-party insurance is compulsory for a motor vehicle used in a public place under which section of the Motor Vehicles Act 1988?",
 "o": [
-"Sections 39 and 38",
-"Sections 38 and 39",
-"Sections 41 and 45",
-"Sections 45 and 41"
+"Section 140",
+"Section 146",
+"Section 163A",
+"Section 166"
 ],
-"a": 0,
-"e": "★ Core fact (asked across III papers). Section 39 deals with nomination; Section 38 with assignment and transfer.",
+"a": 1,
+"e": "★ Core fact (asked across III papers). Section 146 makes TP cover compulsory; Section 164 fixes no-fault compensation (₹5 lakh death / ₹2.5 lakh grievous hurt).",
 "r": "core",
 "n": 43
 },
 {
 "n": 44,
-"topic": "Commutation Functions",
-"t": "Given N₄₀ = 40,000 and N₄₁ = 37,500, the value of D₄₀ is:",
+"topic": "Foundation of Actuarial Science",
+"t": "An assurance in which the sum assured for a year is equal to the outstanding loan of a borrower at the beginning of that year and it generally reduces by uniform amount every year is known as:-",
 "o": [
-"1,500",
-"2,500",
-"3,750",
-"77,500"
+"Double Endowment Assurance",
+"Limited Payment Assurance",
+"Whole Life Assurance",
+"Endowment Assurance",
+"Decreasing Temporary Assurance"
 ],
-"a": 1,
-"e": "Nₓ = Dₓ + Dₓ₊₁ + …, so Dₓ = Nₓ − Nₓ₊₁ = 40,000 − 37,500 = 2,500."
+"a": 4,
+"e": "Correct answer: Decreasing Temporary Assurance (from the IC28 question bank)."
 },
 {
 "n": 45,
-"topic": "Commutation Functions",
-"t": "The commutation function Rₓ = Mₓ + Mₓ₊₁ + Mₓ₊₂ + … is used in valuing:",
+"topic": "Foundation of Actuarial Science",
+"t": "If a person aged 32 is entitled to receive payments of 100, 200, 300.. at the end of 1<SUP>st</SUP>, 2<SUP>nd</SUP>, 3<SUP>rd</SUP> .. year respectively till he is alive, then calculate the present value of this annuity assuming IALM (1994-96) Ultimate at 6% interest rate.",
 "o": [
-"increasing assurances",
-"level annuities",
-"pure endowments",
-"level term assurances"
+"16417",
+"25509.6",
+"17961.41",
+"20112.785532292",
+"37134"
 ],
-"a": 0,
-"e": "Rₓ is the second summation of Cₓ and gives the value of an assurance whose sum assured increases by 1 each year: (IA)ₓ = Rₓ/Dₓ. Sₓ is the analogous function for increasing annuities."
+"a": 3,
+"e": "Correct answer: 20112.785532292 (from the IC28 question bank)."
 },
 {
 "n": 46,
-"topic": "Premiums",
-"t": "For a 20-year endowment assurance of ₹1,000 on a life aged 30, A₃₀:₂₀ = 0.46 and ä₃₀:₂₀ = 12. The net annual premium is approximately:",
+"topic": "Foundation of Actuarial Science",
+"t": "Mortality investigation completed by MMIC does not include:-",
 "o": [
-"₹26.09",
-"₹38.33",
-"₹46.00",
-"₹55.20"
+"Unit-linked business",
+"Whole life assurance business",
+"Term assurance business",
+"Pure Endowment assurance business",
+"Endowment assurance business"
 ],
-"a": 1,
-"e": "P = A₃₀:₂₀/ä₃₀:₂₀ = 0.46/12 = 0.03833 per ₹1, i.e. about ₹38.33 per ₹1,000."
+"a": 0,
+"e": "Correct answer: Unit-linked business (from the IC28 question bank)."
 },
 {
 "n": 47,
-"topic": "Premiums",
-"t": "For a 20-year term assurance of ₹1,000 on a life aged 40, A¹₄₀:₂₀ = 0.06 and ä₄₀:₂₀ = 12. The net annual premium is:",
+"topic": "Foundation of Actuarial Science",
+"t": "Find the office annual premium for a capital redemption assurance policy of 4,000 redeemable at the end of 25 years, assuming interest rate of 6% p.a. and a loading of 8% of Office premium.",
 "o": [
-"₹5",
-"₹6",
-"₹50",
-"₹60"
+"74.7609220473847",
+"107",
+"52.9",
+"47.08",
+"94"
 ],
 "a": 0,
-"e": "P = 0.06/12 = 0.005 per ₹1 = ₹5 per ₹1,000 sum assured."
+"e": "Correct answer: 74.7609220473847 (from the IC28 question bank)."
 },
 {
 "n": 48,
-"topic": "Premiums",
-"t": "Which of the following is NOT normally included when converting a net premium into an office (gross) premium?",
+"topic": "Foundation of Actuarial Science",
+"t": "What is the future value of a 4-year annuity, if the annual interest is 5%, and the annual payment is 1,000?",
 "o": [
-"Initial expenses such as commission",
-"Renewal expenses",
-"A margin for profit and contingencies",
-"The policy reserve"
+"3545",
+"5941.5",
+"4310.1",
+"4356",
+"5460.3"
 ],
-"a": 3,
-"e": "The gross premium adds loadings for initial and renewal expenses and for profit/contingencies to the net premium. The reserve is a liability built up from premiums, not a loading within the premium."
+"a": 2,
+"e": "Correct answer: 4310.1 (from the IC28 question bank)."
 },
 {
 "n": 49,
-"topic": "Premiums",
-"t": "A whole life assurance of ₹1,000 on a life aged x has premiums payable for 10 years only. If Aₓ = 0.36 and äₓ:₁₀ = 8, the net annual premium is:",
+"topic": "Foundation of Actuarial Science",
+"t": "You plan to retire in twenty years. If the annual (year-end) amount you save each year increases annually at a 6 percent rate(the growth rate of your income) and will be 1,000 initially at year end, and if you can earn 8 percent on your savings, how much will your retirement fund be worth in 20 years?",
 "o": [
-"₹30",
-"₹36",
-"₹45",
-"₹80"
+"90938.33",
+"72691",
+"80499.6",
+"111166",
+"48043"
 ],
-"a": 2,
-"e": "₁₀Pₓ = Aₓ/äₓ:₁₀ = 0.36/8 = 0.045 per ₹1 = ₹45 per ₹1,000, higher than the whole-life-premium rate because the same benefit is funded over fewer payments."
+"a": 1,
+"e": "Correct answer: 72691 (from the IC28 question bank)."
 },
 {
 "n": 50,
-"topic": "Reserves and Surrender Values",
-"t": "A one-year-old whole life policy per ₹1 sum assured: net annual premium 0.03 paid at the start of the year, interest 5% and qₓ = 0.01. The retrospective reserve at the end of year 1 is approximately:",
+"topic": "Foundation of Actuarial Science",
+"t": "You are given: e<SUB>50</SUB> = 20, e<SUB>52</SUB> = 19.33 and q<SUB>51</SUB> = 0.035. Calculate: q<SUB>50</SUB>.",
 "o": [
-"0.0200",
-"0.0215",
-"0.0217",
-"0.0315"
+"2.8%",
+"3.2%",
+"3.4%",
+"3.6%",
+"3%"
 ],
-"a": 2,
-"e": "₁V = (P(1 + i) − qₓ)/pₓ = (0.03 × 1.05 − 0.01)/0.99 = 0.0215/0.99 ≈ 0.0217."
+"a": 4,
+"e": "Correct answer: 3% (from the IC28 question bank)."
 }
 ]

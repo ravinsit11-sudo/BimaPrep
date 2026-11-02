@@ -1,657 +1,701 @@
 [
 {
 "n": 1,
-"topic": "Introduction to Engineering Insurance",
-"t": "Which of the following correctly pairs the engineering policy with the phase of an asset's life it protects?",
+"topic": "Engineering Insurance",
+"t": "What was the purpose of the Steam Boiler Assurance Company?<br><br>I. Inspection and revision of steam engines and boilers<br>II. Providing insurance coverage to steam engines and boilers<br>III. Maintenance of steam engines and boilers",
 "o": [
-"CAR – operation of a completed bridge",
-"MBD – transit of machinery from the manufacturer",
-"EAR – erection and testing of plant before commissioning",
-"CECR – construction of a dam"
+"Only I",
+"Only II",
+"Only III",
+"I and II",
+"I and III"
 ],
-"a": 2,
-"e": "EAR covers storage, erection and testing; CAR covers construction, CECR completed structures and MBD operating machinery."
+"a": 1,
+"e": "Correct answer: Only II (from the IC77 question bank)."
 },
 {
 "n": 2,
-"topic": "Introduction to Engineering Insurance",
-"t": "Insurance of engineering risks in India is regulated primarily by:",
+"topic": "Engineering Insurance",
+"t": "Which of the following will not be classified as 'Mine' as per the definition of mine under the Mine Act 1952?<br><br>I. All conveyors or aerial ropeways used in mine<br>II. All power stations for supplying electricity solely for the purpose of working the mine<br>III. Premises, where ten or more workers are working, in any part of which a manufacturing process is being carried on with or without the aid of power",
 "o": [
-"The Reserve Bank of India",
-"The Bureau of Indian Standards",
-"The Tariff Advisory Committee, which still fixes engineering rates",
-"The Insurance Regulatory and Development Authority of India under the Insurance Act, 1938 and the IRDA Act, 1999"
+"I and II",
+"I and III",
+"II and III",
+"I, II and III",
+"Only III"
 ],
-"a": 3,
-"e": "IRDAI regulates insurers, products and policyholder protection; the TAC's rate-fixing role ended with detariffing in 2007."
+"a": 4,
+"e": "Correct answer: Only III (from the IC77 question bank)."
 },
 {
 "n": 3,
-"topic": "Introduction to Engineering Insurance",
-"t": "Which of the following is a common feature of all engineering material damage policies?",
+"topic": "Engineering Insurance",
+"t": "At the time of indemnification all costs of alterations, additions, improvements are also borne by the insurer. Debate. Choose the most appropriate option.",
 "o": [
-"They cover only fire and allied perils",
-"They indemnify sudden and unforeseen physical loss and exclude gradual causes such as wear, tear and corrosion",
-"They are issued without any excess",
-"They cover consequential loss automatically"
+"This statement is right",
+"This statement is wrong",
+"This statement is partially right",
+"All costs of alterations, additions, improvements are to be borne by the insured",
+"No additions or improvements are allowed at the ti"
 ],
-"a": 1,
-"e": "Engineering covers respond to accidental, sudden events; gradual deterioration, consequential loss and claims below the excess are excluded."
+"a": 3,
+"e": "Correct answer: All costs of alterations, additions, improvements are to be borne by the insured (from the IC77 question bank)."
 },
 {
 "n": 4,
-"topic": "Contractors' All Risks (CAR) Insurance",
-"t": "Which of the following parties can be named as insured under a CAR policy?",
+"topic": "Engineering Insurance",
+"t": "The construction phase insurances are also known as _____________.",
 "o": [
-"Only the principal, never the contractor",
-"The contractor alone, in all cases",
-"Only the financing bank",
-"The principal, the contractor and the sub-contractors in respect of their respective interests"
+"Project Insurances",
+"One-time Insurances",
+"Hull Insurances",
+"Limited Insurances",
+"Fixed Insurances"
 ],
-"a": 3,
-"e": "CAR is usually issued in the joint names of all parties with an insurable interest in the works, with the financier's interest noted where required."
+"a": 0,
+"e": "Correct answer: Project Insurances (from the IC77 question bank)."
 },
 {
 "n": 5,
-"topic": "Contractors' All Risks (CAR) Insurance",
-"t": "Under CAR Section I, property damaged by an insured peril is indemnified on the basis of:",
+"topic": "Engineering Insurance",
+"t": "All policies issued in the Engineering department are on ________ basis except those issued for major projects.",
 "o": [
-"Cost of repair or replacement to restore it to its condition immediately before the loss, less salvage",
-"Market value of the damaged materials",
-"Contract profit lost by the contractor",
-"Original cost plus 10% profit"
+"Six months",
+"Annual",
+"18 months",
+"Two year",
+"Three year"
 ],
-"a": 0,
-"e": "CAR pays the cost of reinstating the damaged works; profit, betterment and improvements are not payable."
+"a": 1,
+"e": "Correct answer: Annual (from the IC77 question bank)."
 },
 {
 "n": 6,
-"topic": "Contractors' All Risks (CAR) Insurance",
-"t": "Under CAR, which of the following losses is covered in respect of construction plant on site?",
+"topic": "Engineering Insurance",
+"t": "CAR policy provides virtually a comprehensive cover for the entire civil engineering projects from the time of arrival of the first lot of materials at site and till the _____________.",
 "o": [
-"Only if the value of plant is declared and included under a specific section/extension of the policy",
-"Automatically, as part of the contract works",
-"Never, since plant is a CPM subject",
-"Only for plant belonging to the principal"
+"One year from start of policy",
+"Two years from start of policy",
+"Three years from start of policy",
+"Site activities",
+"Site maintenance"
 ],
-"a": 0,
-"e": "Contractor's plant can be covered under CAR by declaration at a separate rate; otherwise it must be insured under a CPM policy."
+"a": 4,
+"e": "Correct answer: Site maintenance (from the IC77 question bank)."
 },
 {
 "n": 7,
-"topic": "Contractors' All Risks (CAR) Insurance",
-"t": "A CAR policy with a sum insured of ₹120 crore carries the condition of average. At the time of a flood loss of ₹24 lakh, the completed value of the works is found to be ₹150 crore. The excess for AOG perils is 10% of the claim. The amount payable is:",
+"topic": "Engineering Insurance",
+"t": "Which of the following plant, machinery or equipment is primarily used for conveying liquids and / gases from one machine to another or from one place to another?",
 "o": [
-"₹19,20,000",
-"₹21,60,000",
-"₹17,28,000",
-"₹24,00,000"
+"Pumps",
+"Compressors",
+"Steam turbines",
+"Engines such as steam, gas, diesel or petrol engin",
+"Cranes, lifts and conveyors"
 ],
-"a": 2,
-"e": "Average: ₹24 lakh × 120/150 = ₹19,20,000; less 10% AOG excess ₹1,92,000 = ₹17,28,000."
+"a": 0,
+"e": "Correct answer: Pumps (from the IC77 question bank)."
 },
 {
 "n": 8,
-"topic": "Contractors' All Risks (CAR) Insurance",
-"t": "A CAR policy carries an excess of 5% of the claim amount subject to a minimum of ₹25,000 for normal perils. Formwork collapses and the assessed loss is ₹3,60,000. The amount payable is:",
+"topic": "Engineering Insurance",
+"t": "What is the minimum capacity of a vessel to be termed as a boiler under the Indian Boilers Act 1923?",
 "o": [
-"₹3,42,000",
-"₹3,17,000",
-"₹3,35,000",
-"₹3,60,000"
+"10 litres",
+"15 litres",
+"22.75 litres",
+"37.5 litres",
+"45.25 litres"
 ],
 "a": 2,
-"e": "★ Key fact (repeated across the mocks of this paper). 5% of ₹3,60,000 is ₹18,000, which is below the minimum of ₹25,000, so the excess deducted is ₹25,000 and ₹3,35,000 is payable.",
+"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: 22.75 litres (from the IC77 question bank).",
 "r": "key"
 },
 {
 "n": 9,
-"topic": "Contractors' All Risks (CAR) Insurance",
-"t": "Which of the following is normally subject to a higher excess under a CAR policy?",
+"topic": "Engineering Insurance",
+"t": "Device a term to describe the amount mentioned in the policy, which is to be borne by the insured in respect of each and every claim.",
 "o": [
-"Damage by fire",
-"Damage by collision of site vehicles",
-"Damage by earthquake, flood, storm and landslide (AOG perils)",
-"Theft of materials"
+"Short working",
+"Excess",
+"Premium",
+"Float",
+"Cut"
 ],
-"a": 2,
-"e": "AOG perils attract a higher excess because of their catastrophic and widespread nature."
+"a": 1,
+"e": "Correct answer: Excess (from the IC77 question bank)."
 },
 {
 "n": 10,
-"topic": "Contractors' All Risks (CAR) Insurance",
-"t": "A CAR policy on a tunnelling project includes a 'dewatering' exposure. Which statement is correct?",
+"topic": "Engineering Insurance",
+"t": "Which of the following come in the ambit of engineering insurance? <bR><bR>I. Petro chemical plants <br>II. Satellites <br>III. Offshore platforms",
 "o": [
-"Cost of dewatering is covered automatically under Section I",
-"Dewatering is excluded under all circumstances",
-"Dewatering costs are covered only where the extension is purchased and are usually sub-limited",
-"Dewatering is a Section II liability"
+"I and II",
+"I and III",
+"II and III",
+"Only II",
+"ONLY I"
 ],
-"a": 2,
-"e": "Expenses for pumping out water after an insured event (and the risk of failure of dewatering) are specifically underwritten with limits because of the high exposure in tunnels and basements."
+"a": 4,
+"e": "Correct answer: ONLY I (from the IC77 question bank)."
 },
 {
 "n": 11,
-"topic": "Erection All Risks (EAR) Insurance",
-"t": "Which of the following statements regarding the EAR policy excess is correct?",
+"topic": "Engineering Insurance",
+"t": "Which of the below statement is correct with regards to construction annual policies (floaters)?",
 "o": [
-"There is no excess under EAR",
-"The excess during the testing period is generally higher than for the erection period",
-"The excess applies only to third-party claims",
-"The excess is fixed at ₹1,000 for all claims"
+"They are issued on individual declaration basis or turnover basis",
+"They are issued on group declaration basis or turn",
+"They are issued on group declaration basis or perc",
+"They are issued on group declaration basis"
 ],
-"a": 1,
-"e": "Testing is the most hazardous phase and attracts a higher excess, as do AOG perils."
+"a": 0,
+"e": "Correct answer: They are issued on individual declaration basis or turnover basis (from the IC77 question bank)."
 },
 {
 "n": 12,
-"topic": "Erection All Risks (EAR) Insurance",
-"t": "Under an EAR policy for an imported plant, 'additional customs duty' extension covers:",
+"topic": "Engineering Insurance",
+"t": "Under predictive maintenance, which analysis is suitable for analysisng motors, alternators, insulation, brickwork of boilers?",
 "o": [
-"Customs duty refunded by the Government",
-"Anti-dumping duty",
-"Duty on the entire plant",
-"Extra duty payable on import of replacement parts following an insured loss, over and above the duty included in the sum insured"
+"Vibratory analysis",
+"Infrared thermal analysis",
+"Spectrometric analysis",
+"Polygraph Analysis",
+"SNAP analysis"
 ],
-"a": 3,
-"e": "Replacement parts imported after a loss attract fresh duty; the extension covers this additional cost up to a limit."
+"a": 1,
+"e": "Correct answer: Infrared thermal analysis (from the IC77 question bank)."
 },
 {
 "n": 13,
-"topic": "Erection All Risks (EAR) Insurance",
-"t": "For an EAR proposal of a chemical plant, the underwriter asks for a bar chart. The principal reason is to:",
+"topic": "Engineering Insurance",
+"t": "Testing operations can be divided into how many categories?",
 "o": [
-"Verify the contractor's licence",
-"Determine the build-up of sum insured over time and the timing of the testing period",
-"Check the number of workers",
-"Fix the GST rate"
+"Two",
+"Three",
+"Four",
+"Five",
+"Six"
 ],
-"a": 1,
-"e": "The schedule shows when value at risk peaks and when testing — the most hazardous phase — will occur."
+"a": 0,
+"e": "Correct answer: Two (from the IC77 question bank)."
 },
 {
 "n": 14,
-"topic": "Erection All Risks (EAR) Insurance",
-"t": "An EAR policy for a refinery unit with sum insured ₹600 crore is written with a 4-week testing period. Hot testing eventually takes 10 weeks. The insured should:",
+"topic": "Engineering Insurance",
+"t": "Which of the following types of expenditures are covered under the delay in start-up section of a CPI Policy? <bR><br>I. Express deliveries <br>II. Air freight  <br>III. Overtime",
 "o": [
-"Do nothing, as testing is covered until completion",
-"Obtain an extension of the testing period at additional premium before the original period expires",
-"Buy an MBD policy for the testing period",
-"Cancel the EAR policy and buy a fire policy"
+"Only I",
+"Only II",
+"Only III",
+"I, II and III",
+"II and III"
 ],
-"a": 1,
-"e": "Testing beyond the included period must be extended with the insurer's agreement; otherwise damage during the extended testing is uninsured."
+"a": 3,
+"e": "Correct answer: I, II and III (from the IC77 question bank)."
 },
 {
 "n": 15,
-"topic": "Erection All Risks (EAR) Insurance",
-"t": "Which of the following would an EAR insurer regard as a 'second-hand' item for the purpose of the testing exclusion?",
+"topic": "Engineering Insurance",
+"t": "Which of the following are the advantages of an insurance company providing inspection services along with engineering insurance?<br><br>I. Assess risk from underwriting angle<br>II. Recommend loss minimisation<br>III. Risk improvement measures",
 "o": [
-"A new machine imported in CKD condition",
-"A machine purchased new but stored for three months before erection",
-"A used machine relocated from another plant of the insured",
-"A machine manufactured in India under licence"
+"I and II",
+"I and III",
+"II and III",
+"I, II and III",
+"Only I"
 ],
-"a": 2,
-"e": "Previously used/relocated machinery is second-hand; its testing is excluded because latent defects are likely to surface."
+"a": 3,
+"e": "Correct answer: I, II and III (from the IC77 question bank)."
 },
 {
 "n": 16,
-"topic": "Erection All Risks (EAR) Insurance",
-"t": "Under an EAR policy, damage to the insured plant resulting from an error during cold testing (no-load trial) is:",
+"topic": "Engineering Insurance",
+"t": "Which of the following losses are excluded from the scope of a MLOP Policy? <bR><bR>I. Spoilage of materials <br>II. Improvement expenses <br>III. Overhaul expenses to damaged property",
 "o": [
-"Excluded as testing is never covered",
-"Covered only for imported machinery",
-"Covered, cold and hot testing both being within the testing period cover",
-"Covered only if the manufacturer supervised the test"
+"I and II",
+"II and III",
+"I and III",
+"Only I",
+"I, II and III"
 ],
-"a": 2,
-"e": "Both cold (no-load) and hot (load) testing fall within the EAR testing period, subject to the testing excess."
+"a": 4,
+"e": "Correct answer: I, II and III (from the IC77 question bank)."
 },
 {
 "n": 17,
-"topic": "Machinery Breakdown (MBD) Insurance",
-"t": "A compressor insured under MBD for ₹8 lakh suffers a total loss. Its new replacement value at the time of loss is ₹10 lakh and depreciation works out to 30%. Ignoring excess and salvage, the insurer pays:",
+"topic": "Engineering Insurance",
+"t": "In a 'Hydrocarbon Endorsement For Testing & Commissioning' -Article 1, in any operation where hydrocarbons or hydrogen are involved the deductible excess shall be 5% of claim amount subject to minimum of _______.",
 "o": [
-"₹7,00,000",
-"₹5,60,000",
-"₹8,00,000",
-"₹6,40,000"
+"Rs1,00,000",
+"Rs2,00,000",
+"Rs3,00,000",
+"Rs4,00,000",
+"Rs5,00,000"
 ],
-"a": 1,
-"e": "★ Key fact (repeated across the mocks of this paper). Total loss is settled at actual value (₹10 lakh less 30% = ₹7 lakh); as the sum insured is only 80% of the replacement value, average reduces this to ₹5,60,000.",
+"a": 4,
+"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Rs5,00,000 (from the IC77 question bank).",
 "r": "key"
 },
 {
 "n": 18,
-"topic": "Contractors' Plant and Machinery (CPM) Insurance",
-"t": "A CPM policy covers which of the following perils?",
+"topic": "Engineering Insurance",
+"t": "In a deterioration of stock (Potatoes) in cold storage insurance policy, how is the value of the potatoes at the time of commencement of the insurance determined?",
 "o": [
-"Mechanical breakdown of the engine",
-"Normal depreciation",
-"Wear and tear of tracks",
-"Fire, collision, overturning, flood, earthquake, theft and malicious damage to the plant at site"
+"Market value",
+"Historical cost",
+"Mutually agreed upon between the insured and the insurance company",
+"Average price of potatoes in last 3 months period",
+"Average price of potatoes in last 6 months period"
 ],
-"a": 3,
-"e": "CPM is an all-risks cover for external accidents; breakdown, wear and depreciation are excluded."
+"a": 2,
+"e": "Correct answer: Mutually agreed upon between the insured and the insurance company (from the IC77 question bank)."
 },
 {
 "n": 19,
-"topic": "Contractors' Plant and Machinery (CPM) Insurance",
-"t": "Under CPM, damage to replaceable parts such as ropes, belts, chains, tyres and batteries is:",
+"topic": "Engineering Insurance",
+"t": "____________ refers to the amount of money (less discounts allowed) paid or payable to the Insured for goods, products or services sold, delivered or rendered in the course of the insured business conducted at the premises.",
 "o": [
-"Always covered in full",
-"Excluded unless the damage is caused by the same accident that damages the machine as a whole",
-"Covered at 50%",
-"Covered only after 12 months"
+"Turnover",
+"Annual Turnover",
+"Annual gross profit",
+"Rate of gross profit",
+"Net margin"
 ],
-"a": 1,
-"e": "Replaceable parts are excluded on their own, but are paid for when they are damaged along with other parts in an insured accident."
+"a": 0,
+"e": "Correct answer: Turnover (from the IC77 question bank)."
 },
 {
 "n": 20,
-"topic": "Contractors' Plant and Machinery (CPM) Insurance",
-"t": "A contractor's excavator worth ₹80 lakh (replacement value) is insured under CPM for ₹50 lakh. It overturns and the repair cost is ₹8 lakh. Ignoring excess, the insurer pays:",
+"topic": "Engineering Insurance",
+"t": "Identify the reinsurance arrangement which is very much necessary to protect the net account of the insurance company in the event of catastrophic losses.",
 "o": [
-"₹8,00,000",
-"₹5,00,000",
-"₹6,40,000",
-"₹4,00,000"
+"Facultative reinsurance",
+"Coinsurance",
+"Quota share treaty",
+"Surplus treaty",
+"Excess of loss treaty"
 ],
-"a": 1,
-"e": "Average applies: ₹8 lakh × 50/80 = ₹5,00,000, because the sum insured is only 62.5% of the replacement value."
+"a": 4,
+"e": "Correct answer: Excess of loss treaty (from the IC77 question bank)."
 },
 {
 "n": 21,
-"topic": "Machinery Breakdown (MBD) Insurance",
-"t": "Which of the following best explains why fire, lightning, explosion and flood are excluded under MBD?",
+"topic": "Engineering Insurance",
+"t": "Five sets of endorsement wordings are available from the London Market for the Defect Exclusion (D.E.). Which set pertains to DE5?",
 "o": [
-"They never damage machinery",
-"They are covered under the CPM policy",
-"They are uninsurable in India",
-"They are insurable under the Standard Fire and Special Perils policy and MBD avoids duplication of cover"
+"Outright defects exclusion",
+"Extended defective condition exclusion",
+"Limited defective condition exclusion",
+"Defective part exclusion",
+"Design improvement exclusion"
 ],
-"a": 3,
-"e": "MBD complements the fire policy by covering internal causes; the fire perils are left to the fire policy to avoid overlap."
+"a": 4,
+"e": "Correct answer: Design improvement exclusion (from the IC77 question bank)."
 },
 {
 "n": 22,
-"topic": "Machinery Breakdown (MBD) Insurance",
-"t": "Under MBD, loss due to 'centrifugal force' is best illustrated by:",
+"topic": "Engineering Insurance",
+"t": "When does the period of insurance under a ALOP Policy terminates?<br><br>I. End of one year from issue of policy<br>II. Commencement of commercial operations<br>III. Completion of substantial construction",
 "o": [
-"Theft of a motor",
-"Corrosion of a pipeline",
-"Fire in a cable gallery",
-"Bursting of a flywheel or grinding wheel from over-speed"
+"Only I",
+"Only II",
+"Only III",
+"I or II whichever is earlier",
+"II or III whichever is earlier"
 ],
-"a": 3,
-"e": "Tearing apart by centrifugal force (e.g. over-speeding rotors or flywheels) is a classic mechanical breakdown peril."
+"a": 1,
+"e": "Correct answer: Only II (from the IC77 question bank)."
 },
 {
 "n": 23,
-"topic": "Machinery Breakdown (MBD) Insurance",
-"t": "Which of the following conditions commonly applies to an MBD policy?",
+"topic": "Engineering Insurance",
+"t": "The package of which two policies together is often termed as DOS  Insurance?  <bR><bR>I. Only Machinery Insurance policy  <br>II.  Loss of Profit <br>III. Losses due to machinery breakdown IV. Machinery damage and damage to stocks in lieu of the same",
 "o": [
-"The insured must keep the machinery in good working order and permit inspection by the insurer's engineers",
-"The insured must replace all machinery every five years",
-"The insurer will pay for routine servicing",
-"The policy is cancelled if a machine is idle for a day"
+"I and II",
+"IV",
+"I and IV",
+"II and III",
+"II and IV"
 ],
-"a": 0,
-"e": "Maintenance and inspection conditions are central to MBD underwriting; idle machinery remains covered while at rest."
+"a": 1,
+"e": "Correct answer: IV (from the IC77 question bank)."
 },
 {
 "n": 24,
-"topic": "Machinery Breakdown (MBD) Insurance",
-"t": "A sugar mill's cane crusher insured under MBD (sum insured ₹2 crore) suffers damage to its rollers; repair cost ₹12 lakh includes ₹1.5 lakh for replacing the roller linings which were worn and due for replacement. Excess is 1% of sum insured. Amount payable:",
+"topic": "Engineering Insurance",
+"t": "Which of the following are examples of operational phase policies?<BR><BR>I. Machinery Insurance (MI)<BR>II. Civil Engineering Completed Risks (CECR)<BR>III. Machinery Loss of Profits",
 "o": [
-"₹12,00,000",
-"₹10,00,000",
-"₹8,50,000",
-"₹10,50,000"
+"I and II",
+"II and III",
+"I and III",
+"Only I",
+"I, II and III"
 ],
-"a": 2,
-"e": "Worn parts due for replacement are not payable: ₹12 lakh − ₹1.5 lakh = ₹10.5 lakh; less excess ₹2 lakh = ₹8,50,000."
+"a": 4,
+"e": "Correct answer: I, II and III (from the IC77 question bank)."
 },
 {
 "n": 25,
-"topic": "Machinery Breakdown (MBD) Insurance",
-"t": "After a partial loss is paid under MBD, the sum insured on the affected machine:",
+"topic": "Engineering Insurance",
+"t": "Prakash Industries has a bulb manufacturing factory. It has taken a machinery insurance policy for its machines. The owner wants to know which of the following losses shall not be covered under the policy? <bR><bR>I. Theft of machinery parts from the factory <br>II. Damage of machinery due to collision of machines during shifting within premises <br>III. Damage of machinery due to over heating",
 "o": [
-"Is automatically reduced by the claim amount for the rest of the policy period unless reinstated by payment of pro-rata premium",
-"Is doubled",
-"Is cancelled",
-"Remains unchanged without any premium"
+"Only I",
+"Only II",
+"Only III",
+"I and II",
+"I, II and III"
 ],
 "a": 0,
-"e": "Engineering policies provide for reinstatement of the sum insured after a loss on payment of pro-rata additional premium, failing which the sum insured stands reduced."
+"e": "Correct answer: Only I (from the IC77 question bank)."
 },
 {
 "n": 26,
-"topic": "Machinery Breakdown (MBD) Insurance",
-"t": "Which of the following is NOT a standard MBD exclusion?",
+"topic": "Engineering Insurance",
+"t": "Contractor's plant and machinery insurance protects the contractor from which of the following perils?<BR><BR>I. Fire<BR>II. Human error<BR>III. Storm",
 "o": [
-"Loss due to wilful act or gross negligence of the insured",
-"Loss due to cavitation, erosion or rust",
-"Loss due to short circuit",
-"Loss due to experiments or tests involving abnormal stress"
+"Only I",
+"Only II",
+"Only III",
+"I  II & III",
+"I and III"
 ],
-"a": 2,
-"e": "Short circuit is an insured peril; wilful acts, gradual causes and experiments are excluded."
+"a": 3,
+"e": "Correct answer: I  II & III (from the IC77 question bank)."
 },
 {
 "n": 27,
-"topic": "Boiler and Pressure Plant (BPP) Insurance",
-"t": "Which of the following must usually be produced by the insured for a boiler to be accepted under BPP?",
+"topic": "Engineering Insurance",
+"t": "Which of the following plant and machinery shall not be classified under mobile machinery?",
 "o": [
-"An ISO 9001 certificate",
-"A fire NOC from the municipality",
-"A pollution control board certificate",
-"A valid certificate of inspection under the Boilers Act, 1923"
+"Earth moving machines",
+"Tunnelling and mining machines",
+"Road surface finishers",
+"Mobile cranes",
+"Fixed conveyor systems"
 ],
-"a": 3,
-"e": "Statutory inspection certificates evidence that the boiler is in a fit condition and are a basic underwriting requirement."
+"a": 4,
+"e": "Correct answer: Fixed conveyor systems (from the IC77 question bank)."
 },
 {
 "n": 28,
-"topic": "Boiler and Pressure Plant (BPP) Insurance",
-"t": "A BPP policy issued to a textile mill covers the boiler and an air receiver with a combined sum insured of ₹50 lakh and a surrounding property limit of ₹20 lakh. An explosion destroys the boiler (actual value ₹30 lakh, repair not possible) and damages the boiler house costing ₹25 lakh to repair. Ignoring excess and salvage, total payable:",
+"topic": "Engineering Insurance",
+"t": "In an Erection All Risk (EAR) Insurance Policy, the provisions related to third party liability are covered under ___________.",
 "o": [
-"₹55,00,000",
-"₹70,00,000",
-"₹45,00,000",
-"₹50,00,000"
+"Section I",
+"Section II",
+"Section III",
+"Section IV",
+"Section V"
 ],
-"a": 3,
-"e": "Boiler: ₹30 lakh (actual value); surrounding property limited to ₹20 lakh of the ₹25 lakh; total ₹50,00,000."
+"a": 1,
+"e": "Correct answer: Section II (from the IC77 question bank)."
 },
 {
 "n": 29,
-"topic": "Advance Loss of Profits (ALOP) and Machinery Loss of Profits (MLOP)",
-"t": "An MLOP policy is issued with annual gross profit of ₹1.2 crore but the actual annual gross profit is ₹1.6 crore. A breakdown causes a loss of gross profit of ₹20 lakh after time excess. The amount payable is:",
+"topic": "Engineering Insurance",
+"t": "In the Indian context, 10% of all direct Indian Engineering business, subject to a certain limit, is obligatorily ceded by all the Indian insurance companies to the ___________.",
 "o": [
-"₹20,00,000",
-"₹15,00,000",
-"₹16,00,000",
-"₹12,00,000"
+"NIC",
+"GIC",
+"IRDAI",
+"RBI",
+"Prime ministers fund"
 ],
 "a": 1,
-"e": "★ Key fact (repeated across the mocks of this paper). Average applies: ₹20 lakh × 1.2/1.6 = ₹15,00,000; the insured bears the balance for underinsurance.",
+"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: GIC (from the IC77 question bank).",
 "r": "key"
 },
 {
 "n": 30,
-"topic": "Electronic Equipment Insurance (EEI)",
-"t": "Which of the following is a standard EEI exclusion?",
+"topic": "Engineering Insurance",
+"t": "Which of the following costs shall be indemnified in case of a damage to the insured property? <bR><bR>I. Freight <br>II. Costs of dismantling <br>III. Cost of rectifying faults occurred without a claims event",
 "o": [
-"Damage due to failure of the public electricity supply causing a surge in the equipment",
-"Costs incurred for rectification of functional failures not caused by physical damage",
-"Damage caused by water leakage from the roof",
-"Theft by forcible entry"
+"Only I",
+"Only II",
+"Only III",
+"I and II",
+"I, II and III"
 ],
-"a": 1,
-"e": "Functional failure without physical damage is a maintenance matter; surge, water damage and burglary are insured perils."
+"a": 3,
+"e": "Correct answer: I and II (from the IC77 question bank)."
 },
 {
 "n": 31,
-"topic": "Electronic Equipment Insurance (EEI)",
-"t": "Under Section III of an EEI policy, the insured must declare:",
+"topic": "Engineering Insurance",
+"t": "The financial consequences of any delay in commissioning of a plant under construction may relate to: <bR><bR>I. Liquidity <br>II. Growth <br>III. Standing charges during the period of delay in commissioning of the plant / production facility",
 "o": [
-"The indemnity period and the daily or monthly amount of extra cost for substitute facilities",
-"The number of employees",
-"The depreciation rate of the equipment",
-"The fire policy number"
+"I and II",
+"I and III",
+"II and III",
+"Only II",
+"I, II and III"
 ],
-"a": 0,
-"e": "ICOW is rated on the agreed daily/monthly amount and indemnity period, with a time excess."
+"a": 4,
+"e": "Correct answer: I, II and III (from the IC77 question bank)."
 },
 {
 "n": 32,
-"topic": "Electronic Equipment Insurance (EEI)",
-"t": "An EEI proposal is received for computers that are 12 years old. The appropriate underwriting action is:",
+"topic": "Engineering Insurance",
+"t": "In boiler and pressure plant insurance policy, the basic rates of premium depend upon: <bR><bR>I. Type of boiler <br>II. Type of fuel <br>III. Contractor",
 "o": [
-"Accept at standard rate",
-"Accept at half the standard rate",
-"Accept with free data media cover",
-"Decline or accept with suitable loading/higher excess after considering age, maintenance contract and condition"
+"I and II",
+"I and III",
+"II and III",
+"Only I",
+"I, II and III"
 ],
-"a": 3,
-"e": "Age and maintenance are key EEI rating factors; old equipment is prone to failures and spares may be unavailable."
+"a": 0,
+"e": "Correct answer: I and II (from the IC77 question bank)."
 },
 {
 "n": 33,
-"topic": "Electronic Equipment Insurance (EEI)",
-"t": "An EEI policy on a hospital's diagnostic equipment has Sections I and II. After a short circuit damages the equipment, the hospital loses patient scan records stored on an external drive which was physically damaged in the same event. Which sections respond?",
+"topic": "Engineering Insurance",
+"t": "Which of the following are not  examples of of operational phase policies?<br><br>I. Contractor's All Risks (CAR) insurance<br>II. Erection All Risks (EAR) insurance<br>III. Electronic Equipment insurance",
 "o": [
-"Section I only",
-"Section II only",
-"Section I for the equipment and Section II for the damaged data media and reconstruction of data",
-"Neither section"
+"I and II",
+"I and III",
+"I, II and III",
+"II and III",
+"Only III"
 ],
-"a": 2,
-"e": "Section I pays for the equipment; Section II pays for the physically damaged external media and data reconstruction."
+"a": 4,
+"e": "Correct answer: Only III (from the IC77 question bank)."
 },
 {
 "n": 34,
-"topic": "Deterioration of Stock (DOS) Insurance",
-"t": "Which of the following is a standard condition for DOS cover?",
+"topic": "Engineering Insurance",
+"t": "Arrange the stages of risk management in proper sequence starting from first to last. <bR><bR>I. Risk financing <br>II. Risk identification <br>III. Risk control",
 "o": [
-"The cold storage must be inspected and the machinery maintained in good condition, with stock and temperature records kept",
-"The stock must be owned by the insurer",
-"Stock must be insured under a fire policy with the same insurer",
-"The cold storage must be less than 3 years old"
+"I, II and III",
+"I, III and II",
+"II, III and I",
+"III, I and II",
+"II, I and III"
 ],
-"a": 0,
-"e": "Temperature logs and stock registers are essential for assessing a DOS claim and the plant must be maintained to the insurer's satisfaction."
+"a": 2,
+"e": "Correct answer: II, III and I (from the IC77 question bank)."
 },
 {
 "n": 35,
-"topic": "Deterioration of Stock (DOS) Insurance",
-"t": "Under DOS, the premium rate typically depends on:",
+"topic": "Engineering Insurance",
+"t": "The boiler and pressure plant insurance policy covers insured boilers and pressure vessels against the risk of: <bR><bR>I. Explosion <br>II. Collapse <br>III. Damage by fire",
 "o": [
-"The age of the owner",
-"The distance from the nearest market",
-"The type of stock, the condition and age of the refrigeration plant, stand-by arrangements and whether power failure cover is included",
-"The number of cold storage employees"
+"I and II",
+"I and III",
+"II and III",
+"Only I",
+"I, II and III"
 ],
-"a": 2,
-"e": "Perishability of stock, plant reliability and stand-by power determine the likelihood and severity of deterioration."
+"a": 0,
+"e": "Correct answer: I and II (from the IC77 question bank)."
 },
 {
 "n": 36,
-"topic": "Deterioration of Stock (DOS) Insurance",
-"t": "A cold storage insures fruit under DOS with power failure extension. The electricity board cuts supply for 36 hours as scheduled load-shedding, and the stock deteriorates. The claim is:",
+"topic": "Engineering Insurance",
+"t": "In a EAR and MCE policy, containing endorsements for test run definition in respect of thermal power station, till what date is the power station machinery insured are deemed to continue their first test operation of test loading?",
 "o": [
-"Payable under the extension",
-"Not payable, as deliberate withholding of supply/load-shedding by the authority is excluded",
-"Payable at 50%",
-"Payable only if a complaint was lodged with the electricity board"
+"Till the date of   synchronisation of the Turbo Ge",
+"Till the date of introduction of steam into turbin",
+"Till the date Turbo Generator  Set is operated at",
+"Till the Turbo Generator  Set is operated at full load for a continuous period of 72 hours or until expiry of  testing period granted under the policy  which ever is earlier"
 ],
-"a": 1,
-"e": "The extension covers accidental failure of supply; planned load-shedding, strikes and non-payment of dues are excluded."
+"a": 3,
+"e": "Correct answer: Till the Turbo Generator  Set is operated at full load for a continuous period of 72 hours or until expiry of  testing period granted under the policy  which ever is earlier (from the IC77 question bank)."
 },
 {
 "n": 37,
-"topic": "Civil Engineering Completed Risks (CECR) Insurance",
-"t": "Which of the following is correct regarding the sum insured under a CECR policy?",
+"topic": "Engineering Insurance",
+"t": "Which of the following are examples of construction phase policies?<br><br>I. Erection All Risks (EAR)<br>II. Boiler and Pressure Plant insurance (BPP)<br>III. Civil Engineering Completed Risks (CECR) insurance",
 "o": [
-"It should be the original construction cost",
-"It should represent the current reinstatement value, or an agreed first-loss limit where total loss is improbable",
-"It is always 10% of construction cost",
-"It is the annual maintenance budget"
-],
-"a": 1,
-"e": "CECR is usually arranged on reinstatement value; for very large linear assets first-loss limits are common."
-},
-{
-"topic": "IRDAI – regulator",
-"t": "The control level of solvency ratio that every insurer must maintain is:",
-"o": [
-"100%",
-"125%",
-"150%",
-"200%"
+"I and II",
+"I and III",
+"Only I",
+"II and III",
+"Only III"
 ],
 "a": 2,
-"e": "★ Core fact (asked across III papers). Available solvency margin must be at least 150% of the required solvency margin; falling below triggers IRDAI action.",
+"e": "Correct answer: Only I (from the IC77 question bank)."
+},
+{
+"topic": "Intermediaries",
+"t": "A corporate agent may tie up with a maximum of how many insurers in each line of business?",
+"o": [
+"3",
+"6",
+"9",
+"Unlimited"
+],
+"a": 2,
+"e": "★ Core fact (asked across III papers). Raised from 3 to 9 insurers per category (life, general, health) by the 2022 amendment to the Corporate Agents Regulations.",
 "r": "core",
 "n": 38
 },
 {
 "n": 39,
-"topic": "Civil Engineering Completed Risks (CECR) Insurance",
-"t": "Which of the following is NOT a CECR subject matter?",
+"topic": "Engineering Insurance",
+"t": "Which of the following factors determine the rates and terms of a CPM Policy?<br><br>I. Maintenance and upkeep system<br>II. Origin of machinery - local or imported<br>III. Working environment on site",
 "o": [
-"Harbour jetty",
-"Irrigation canal",
-"Hydroelectric turbine",
-"Railway embankment"
+"Only I",
+"Only II",
+"Only III",
+"I and II",
+"I, II and III"
 ],
-"a": 2,
-"e": "The turbine is machinery and belongs under MBD; CECR covers civil structures only."
+"a": 4,
+"e": "Correct answer: I, II and III (from the IC77 question bank)."
 },
 {
 "n": 40,
-"topic": "Advance Loss of Profits (ALOP) and Machinery Loss of Profits (MLOP)",
-"t": "Under an ALOP policy the 'time excess' is usually expressed in:",
+"topic": "Engineering Insurance",
+"t": "Which of the following damages and losses are exceptions to a machinery insurance policy? <bR><bR>I. Physical damage to the machinery due to experiments <br>II. Physical damage due to mallignment <br>III. Damage due to lack od skill",
 "o": [
-"Rupees",
-"Percentage of the sum insured",
-"Days or weeks of delay",
-"Percentage of the project cost"
+"Only I",
+"Only II",
+"Only III",
+"I and III",
+"I, II and III"
 ],
-"a": 2,
-"e": "The time excess is the number of days/weeks of delay borne by the insured before the indemnity period starts."
+"a": 0,
+"e": "Correct answer: Only I (from the IC77 question bank)."
 },
 {
 "n": 41,
-"topic": "Advance Loss of Profits (ALOP) and Machinery Loss of Profits (MLOP)",
-"t": "An ALOP policy for a 500 MW power project has an indemnity period of 12 months, sum insured ₹240 crore (anticipated gross profit) and a time excess of 30 days. A turbine damaged during hot testing (covered under EAR) delays commercial operation by 120 days. Ignoring savings, the ALOP claim is approximately:",
+"topic": "Engineering Insurance",
+"t": "Explain the primary objective of ALOP insurance.",
 "o": [
-"₹80 crore",
-"₹60 crore",
-"₹59.2 crore",
-"₹79 crore"
+"To indemnify the project owner for actual loss sustained due to a delay in commencement of commercial operations of a new project under progress",
+"To indemnify the contractors for actual loss susta",
+"To indemnify the suppliers for actual loss sustain",
+"To indemnify the sub-contractors for actual loss s",
+"To indemnify the project owners and contractors bo"
 ],
-"a": 2,
-"e": "Indemnifiable delay = 120 − 30 = 90 days; ₹240 crore ÷ 365 × 90 ≈ ₹59.2 crore."
+"a": 0,
+"e": "Correct answer: To indemnify the project owner for actual loss sustained due to a delay in commencement of commercial operations of a new project under progress (from the IC77 question bank)."
 },
 {
 "n": 42,
-"topic": "Advance Loss of Profits (ALOP) and Machinery Loss of Profits (MLOP)",
-"t": "Which statement about ALOP and the contractor is correct?",
+"topic": "Engineering Insurance",
+"t": "XYZ Ltd. has taken a MLOP insurance. The company wants to know as to when does the indemnity period terminate in case the policy is exercised? Advise. <bR><bR>I. End of one year from issue of policy <br>II. Production reaches normal level existing at the time of the occurrence of the insured peril  <br>III. Expiry of the number of months selected by the insured",
 "o": [
-"The contractor can insure his liquidated damages under ALOP",
-"The contractor has no insurable interest in the principal's loss of profit and cannot take ALOP",
-"The contractor must pay the ALOP premium under IRDAI rules",
-"ALOP covers the contractor's idle plant hire charges"
+"Only I",
+"Only II",
+"Only III",
+"I or II whichever is earlier",
+"II or III whichever is earlier"
 ],
-"a": 1,
-"e": "ALOP is a principal's cover; contractual penalties and idle plant are excluded from engineering policies."
+"a": 4,
+"e": "Correct answer: II or III whichever is earlier (from the IC77 question bank)."
 },
 {
 "n": 43,
-"topic": "Advance Loss of Profits (ALOP) and Machinery Loss of Profits (MLOP)",
-"t": "Under MLOP, 'gross profit' is defined as:",
+"topic": "Engineering Insurance",
+"t": "In a machinery insurance, if the insured item is totally destroyed or is a constructive total loss, the basis of indemnification is _____________.",
 "o": [
-"Turnover less all expenses",
-"Net profit plus insured standing charges",
-"Net profit only",
-"Sales less cost of raw materials only"
+"Market value of the item immediately before the accident plus cost of removing the damaged machinery less value of salvage",
+"Depreciated value of the item immediately before t",
+"Original Cost of the item plus cost of removing th"
 ],
-"a": 1,
-"e": "As in fire LOP, gross profit comprises net trading profit and standing charges that continue despite reduced turnover."
+"a": 0,
+"e": "Correct answer: Market value of the item immediately before the accident plus cost of removing the damaged machinery less value of salvage (from the IC77 question bank)."
 },
 {
-"topic": "IRDAI – regulator",
-"t": "The permitted limit of foreign direct investment in an Indian insurance company is currently:",
+"topic": "Reinsurance",
+"t": "The obligatory cession that Indian general insurers must make to GIC Re is currently:",
 "o": [
-"26%",
-"49%",
-"74%",
-"100%"
+"4%",
+"5%",
+"10%",
+"15%"
 ],
-"a": 2,
-"e": "★ Core fact (asked across III papers). Raised from 49% to 74% by the Insurance (Amendment) Act 2021; intermediaries may have 100%.",
+"a": 0,
+"e": "★ Core fact (asked across III papers). The obligatory cession was reduced to 4% from 1 April 2022.",
 "r": "core",
 "n": 44
 },
 {
 "n": 45,
-"topic": "Advance Loss of Profits (ALOP) and Machinery Loss of Profits (MLOP)",
-"t": "Which of the following reduces the amount payable under an MLOP claim?",
+"topic": "Engineering Insurance",
+"t": "From the option given below, suggest the correct use of pumps.<br><br>I. They used for conveying liquids and gases from one machine to another<br>II. For storage of steam, liquids and gases under pressure<br>III. They are used for movement of materials, men and machines",
 "o": [
-"Savings in standing charges that ceased or were reduced during the interruption",
-"Increase in the sum insured",
-"Shorter time excess",
-"Reduced rate of gross profit declared"
+"I and II",
+"I and III",
+"Only I",
+"Only II",
+"Only III"
 ],
-"a": 0,
-"e": "Savings in expenses during the interruption are deducted so that the insured is indemnified and not over-compensated."
+"a": 2,
+"e": "Correct answer: Only I (from the IC77 question bank)."
 },
 {
 "n": 46,
-"topic": "Underwriting, Risk Inspection and Rating",
-"t": "A proposal is received for CAR on a bridge across a river in Assam to be built over 36 months. Which of the following would the underwriter consider most carefully?",
+"topic": "Engineering Insurance",
+"t": "Which Act in the UK provides for compulsory inspection of steam boilers in factories to be thoroughly inspected once in 14 months by a competent person?<br><br>I. The Factory and Workshop Act 1901<br>II. The Boiler Explosion Act 1882<br>III. The Coal Mines Act of 1911",
 "o": [
-"The number of toll plazas",
-"The contractor's GST registration",
-"The colour of the bridge railing",
-"Flood and earthquake exposure (seismic zone V) and the construction schedule relative to the monsoon"
+"Only I",
+"Only II",
+"Only III",
+"I and II",
+"I and III"
 ],
-"a": 3,
-"e": "Assam is in zone V and prone to severe floods; AOG exposure and scheduling of the river works drive the rating and reinsurance."
+"a": 0,
+"e": "Correct answer: Only I (from the IC77 question bank)."
 },
 {
 "n": 47,
-"topic": "Underwriting, Risk Inspection and Rating",
-"t": "Which document is the basic source of information for underwriting an engineering risk?",
+"topic": "Engineering Insurance",
+"t": "Which among the following will come under the definition of mines under the Mines Act 1952?<br><br>I. Boring<br>II. Oil wells<br>III. Conveyors used in mines",
 "o": [
-"The proposal form and the specific questionnaire for the class of risk",
-"The insurer's annual report",
-"The IRDAI annual report",
-"The contractor's newspaper advertisement"
+"I and II",
+"I and III",
+"II and III",
+"I, II and III",
+"Only I"
 ],
-"a": 0,
-"e": "Proposal forms and questionnaires elicit the material facts; the underwriter supplements them with inspection and documents such as bar charts."
+"a": 3,
+"e": "Correct answer: I, II and III (from the IC77 question bank)."
 },
 {
 "n": 48,
-"topic": "Underwriting, Risk Inspection and Rating",
-"t": "Which of the following is a typical factor increasing the CPM rate for a crane?",
+"topic": "Engineering Insurance",
+"t": "Which among the following are principles applicable to all classes of engineering insurance?<br><br>I. Utmost good faith<br>II. Indemnity<br>III. Proximate cause",
 "o": [
-"Use at a congested urban site with heavy lifts near existing structures",
-"Use on a flat open site",
-"A new machine with full maintenance contract",
-"Operation by trained and certified operators"
+"I and II",
+"II and III",
+"I and III",
+"Only I",
+"I, II and III"
 ],
-"a": 0,
-"e": "Site congestion and heavy lifts raise the accident potential; training and maintenance reduce it."
+"a": 4,
+"e": "Correct answer: I, II and III (from the IC77 question bank)."
 },
 {
 "n": 49,
-"topic": "Claims Management in Engineering Insurance",
-"t": "Under the Insurance Act, 1938, the provisions on surveyors and loss assessors are contained in Section:",
+"topic": "Engineering Insurance",
+"t": "Any cost incurred to the equipment while being moved outside India shall be covered in the Electronic Equipment Insurance Policy. Debate. Choose the most appropriate answer.",
 "o": [
-"41",
-"64VB",
-"45",
-"64UM"
+"This statement is right",
+"This statement is wrong",
+"This statement is partially right",
+"Cost of time involved in moving the equipment outs",
+"All costs incurred and damages occurred while movi"
 ],
-"a": 3,
-"e": "Section 64UM deals with licensing of surveyors and the requirement of survey reports; 64VB is premium in advance, 45 non-contestability and 41 rebating."
+"a": 1,
+"e": "Correct answer: This statement is wrong (from the IC77 question bank)."
 },
 {
 "n": 50,
-"topic": "Claims Management in Engineering Insurance",
-"t": "A surveyor's report on a CAR claim recommends ₹40 lakh. The insurer may:",
+"topic": "Engineering Insurance",
+"t": "Identify the examples of general exclusions in Contractor's Plant and Machinery (CPM) insurance policy. <bR><bR>I. Loss discovered at the time of taking inventory <br>II. Loss or damage due to tempest <br>III. Loss due to total or partial immersion in tidal water",
 "o": [
-"Settle at a different amount only with recorded reasons, as the survey report is not binding but must be considered",
-"Never deviate from the surveyor's figure",
-"Ignore the report entirely",
-"Ask the insured to appoint another surveyor"
+"Only I",
+"Only II",
+"I and III",
+"I and II",
+"I, II and III"
 ],
-"a": 0,
-"e": "Under IRDAI regulations the surveyor's report is the basis of settlement but the insurer may, for recorded reasons, differ from it."
+"a": 2,
+"e": "Correct answer: I and III (from the IC77 question bank)."
 }
 ]

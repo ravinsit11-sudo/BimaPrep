@@ -1,657 +1,705 @@
 [
 {
 "n": 1,
-"topic": "Introduction to Health Insurance and the Health System in India",
-"t": "The Bhore Committee, whose 1946 report shaped India's post-independence health system, recommended:",
+"topic": "Health Insurance",
+"t": "Which of the following parameters best helps the individual understand the  health insurance product better?",
 "o": [
-"Privatisation of all district hospitals",
-"Integration of preventive and curative services and establishment of primary health centres",
-"Compulsory private health insurance for all citizens",
-"Abolition of indigenous systems of medicine"
+"Transparency",
+"Consumer education",
+"Robust technology",
+"Fair treatment",
+"Health data repository"
 ],
 "a": 1,
-"e": "The Bhore Committee laid the foundation for the PHC-based public health structure and integrated preventive and curative care; it had nothing to do with private insurance."
+"e": "Correct answer: Consumer education (from the IC27 question bank)."
 },
 {
 "n": 2,
-"topic": "Introduction to Health Insurance and the Health System in India",
-"t": "Which of the following is NOT one of the main stakeholders in the health insurance ecosystem in India?",
+"topic": "Health Insurance",
+"t": "Meera is a middle aged women, suffering from Chronic Arthritis. She has a Mediclaim Policy from past 3 years for a sum assured of Rs. 200,000. She consulted an Ayurvedic Doctor and was admitted for  15 days at a Ayurvedic Panchakarma Centre for her treatment. The Total expenses of the treatment amounted to Rs. 115,000 for which she has submitted a claim with her insurance Company. What will happen to her aforementioned claim. choose the most appropriate answer.",
 "o": [
-"Insurers and TPAs",
-"Hospitals and other providers",
-"The Securities and Exchange Board of India",
-"The regulator (IRDAI) and the policyholder"
+"Only Rs. 100,000 of Meera's claim shall be reimbur",
+"Meera's claim shall not be accepted as Ayurvedic Treatments are not covered under Mediclaim policies",
+"Meera's claim shall be fully reimbursed",
+"Meera's claim shall be rejected as she had not inf",
+"Meera's claim shall be rejected because arthritis"
 ],
-"a": 2,
-"e": "SEBI regulates securities markets, not health insurance; insurers, intermediaries, providers, IRDAI and customers are the core stakeholders."
+"a": 1,
+"e": "Correct answer: Meera's claim shall not be accepted as Ayurvedic Treatments are not covered under Mediclaim policies (from the IC27 question bank)."
 },
 {
 "n": 3,
-"topic": "Health Financing Models and Health Financing in India",
-"t": "A State government implements its health scheme by paying a premium per family to an insurer that bears the claims risk, rather than paying hospitals itself. This is the:",
+"topic": "Health Insurance",
+"t": "Claims pay out for which of the following will be in low to medium range? <BR><BR>I. Fire <BR>II. Motor <BR>III. Health",
 "o": [
-"Trust mode",
-"Hybrid mode",
-"Insurance mode",
-"Capitation mode"
+"Only I",
+"Only III",
+"I and II",
+"II and III",
+"I,II and III"
 ],
-"a": 2,
-"e": "In insurance mode the risk is transferred to an insurer for a premium; in trust mode a State trust/agency pays providers directly; hybrid combines both with a threshold."
+"a": 3,
+"e": "Correct answer: II and III (from the IC27 question bank)."
 },
 {
 "n": 4,
-"topic": "Health Financing Models and Health Financing in India",
-"t": "Yeshasvini, one of India's earliest large community health schemes, was launched in Karnataka primarily for:",
+"topic": "Health Insurance",
+"t": "The earliest mention of the insurance system in India can be found in the research and writings of treatise such as:-  <BR><BR>I. Manu <BR>II. Kautilya <BR>III. Rigveda",
 "o": [
-"Members of cooperative societies, mainly farmers",
-"Central government pensioners",
-"Factory workers covered under ESI",
-"Urban slum dwellers"
+"I and II",
+"II and III",
+"I and III",
+"Only III",
+"Only II"
 ],
 "a": 0,
-"e": "Yeshasvini (2003) covered cooperative society members for surgical procedures on a low flat contribution with State support, illustrating the community-based model."
+"e": "Correct answer: I and II (from the IC27 question bank)."
 },
 {
 "n": 5,
-"topic": "Health Financing Models and Health Financing in India",
-"t": "A family's annual consumption expenditure is ₹2,40,000. In the year, it spent ₹36,000 out of pocket on hospitalisation. Under the 10% threshold definition, the family's health spending is:",
+"topic": "Health Insurance",
+"t": "The hospitalisation cover products from various insurers differ from each other in:- <BR><BR>I. Exclusions <BR>II. Waiting periods <BR>III. Cost-sharing provisions",
 "o": [
-"Not catastrophic, as it is below 10%",
-"Catastrophic, as it is 15% of consumption",
-"Catastrophic only if above 25%",
-"Catastrophic only if the family is below the poverty line"
+"Only I",
+"Only II",
+"I and II",
+"I and III",
+"I,II and III"
 ],
-"a": 1,
-"e": "36,000 ÷ 2,40,000 = 15%, which exceeds the 10% threshold used in SDG 3.8.2, so the spending is catastrophic regardless of poverty status."
+"a": 4,
+"e": "Correct answer: I,II and III (from the IC27 question bank)."
 },
 {
 "n": 6,
-"topic": "Health Insurance Products in India",
-"t": "A health policy that allows the insured to choose any hospital but reimburses only after the insured first pays the hospital is operating on a:",
+"topic": "Health Insurance",
+"t": "Mr. B was diagnosed with AIDS. He was admitted in the hospital for 12 days. Which of the following expenses shall be covered by the hospital indemnity policy?",
 "o": [
-"Cashless basis",
-"Reimbursement basis",
-"Capitation basis",
-"Benefit basis"
+"Accommodation costs",
+"Out-patient treatment",
+"Cost of medicines",
+"Physicians fee for in-patient treatment",
+"No expenses will be reimbursed"
 ],
-"a": 1,
-"e": "Reimbursement requires the insured to pay and claim later; cashless is available only at network hospitals where the insurer pays directly."
+"a": 4,
+"e": "Correct answer: No expenses will be reimbursed (from the IC27 question bank)."
 },
 {
 "n": 7,
-"topic": "Health Insurance Products in India",
-"t": "Which of the following is a typical 'optional cover' or add-on in a retail health policy?",
+"topic": "Health Insurance",
+"t": "Which analysis helps in identifying the major disease group, their claim frequency and the cost of treatment by provider?",
 "o": [
-"Cover for accidental hospitalisation",
-"Maternity benefit with a waiting period",
-"Cover for day care procedures",
-"Cover for ICU charges"
+"Payment duration analysis",
+"IBNR analysis",
+"Analysis by diagnosis grouping and provider network analysis",
+"Claims probability distribution analysis",
+"Age distribution analysis"
 ],
-"a": 1,
-"e": "Accident, day care and ICU cover are part of the base indemnity; maternity is generally an optional cover with its own waiting period and sub-limit."
+"a": 2,
+"e": "Correct answer: Analysis by diagnosis grouping and provider network analysis (from the IC27 question bank)."
 },
 {
 "n": 8,
-"topic": "Health Insurance Products in India",
-"t": "A critical illness policy with sum insured ₹25 lakh is held along with a mediclaim policy of ₹5 lakh. The insured is diagnosed with cancer, survives the survival period and incurs hospital bills of ₹4 lakh. The total amount he can receive from both policies is:",
+"topic": "Health Insurance",
+"t": "Data acquisition by IIB is done from:- <BR><BR> I. Insurance companies <BR>II. TPAs <BR> III. Policyholder",
 "o": [
-"₹4 lakh",
-"₹5 lakh",
-"₹25 lakh",
-"₹29 lakh"
+"Only I",
+"Only II",
+"I and II",
+"II and III",
+"I,II and III"
 ],
-"a": 3,
-"e": "The CI policy pays the full ₹25 lakh as a benefit on diagnosis, independent of expenses, and the indemnity policy reimburses the ₹4 lakh actually spent; benefit policies are not subject to the principle of indemnity."
+"a": 2,
+"e": "Correct answer: I and II (from the IC27 question bank)."
 },
 {
 "n": 9,
-"topic": "Regulatory and Legal Aspects of Health Insurance",
-"t": "Under Section 41 of the Insurance Act, 1938, offering a rebate of premium as an inducement to buy a health policy is:",
+"topic": "Health Insurance",
+"t": "Mr. B works in a Company in Japan that employs around 400 employees. Name the health insurance program under which he shall be covered.",
 "o": [
-"Permitted up to 10% of premium",
-"Prohibited and punishable with a penalty of up to ₹10 lakh",
-"Permitted only for group policies",
-"Permitted if disclosed in writing"
+"Society Managed Health Insurance Plans",
+"Government managed health insurance",
+"National Health Insurance",
+"Long life medical care system",
+"The Sickness Fund"
 ],
 "a": 1,
-"e": "★ Key fact (repeated across the mocks of this paper). Section 41 bars rebating by any person; the 2015 amendment raised the penalty to up to ₹10 lakh.",
+"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Government managed health insurance (from the IC27 question bank).",
 "r": "key"
 },
 {
 "n": 10,
-"topic": "Health Insurance Products in India",
-"t": "Under IRDAI's wellness and preventive guidelines, insurers may offer which of the following as wellness rewards?",
+"topic": "Health Insurance",
+"t": "Identify the claims that is typically reinsured using quota share structure? <BR><BR>I. High severity and low frequency <BR>II. Low severity and low frequency <BR>III. High severity and high frequency <BR>IV. Low severity and high frequency",
 "o": [
-"Cash payments equal to the premium",
-"Discounts on renewal premium, redeemable health vouchers or increased sum insured for maintaining health parameters",
-"Guaranteed claim approval",
-"Waiver of all waiting periods"
+"Only I",
+"Only IV",
+"I and III",
+"II,III and IV",
+"I,II,III and IV"
 ],
-"a": 1,
-"e": "Wellness benefits must be non-cash and linked to measurable health behaviour; they cannot override underwriting or claim conditions."
+"a": 2,
+"e": "Correct answer: I and III (from the IC27 question bank)."
 },
 {
 "n": 11,
-"topic": "Health Insurance Products in India",
-"t": "'OPD cover' in a health insurance policy provides for:",
+"topic": "Health Insurance",
+"t": "Which of the following parameters in analysis is used to study the percentage share of each of the age categories for each policy year?",
 "o": [
-"Out-patient consultations, diagnostics and pharmacy expenses that do not involve hospitalisation",
-"Only hospitalisation above 24 hours",
-"Treatment outside India",
-"Overseas emergency evacuation"
+"Earned premium",
+"Written premium",
+"Age distribution",
+"Claim probability distribution",
+"Group size distribution"
 ],
-"a": 0,
-"e": "OPD benefit pays for doctor visits, tests and medicines without admission; it is generally offered with a modest sub-limit because of high frequency and fraud risk."
+"a": 2,
+"e": "Correct answer: Age distribution (from the IC27 question bank)."
 },
 {
 "n": 12,
-"topic": "Health Insurance Products in India",
-"t": "Which of the following statements about a 'combi product' is correct?",
+"topic": "Health Insurance",
+"t": "Diana, aged 40 years is working as a financial consultant. She is a patient of high blood pressure. She has purchased a health insurance policy for herself on 1<SUP>st</SUP> January, 2015 with a clause for an exclusion period of 12 months for pre-existing diseases. In June, 2015 she was admitted to the hospital for a Fracture in her wrist. Her hospital bill amounted to Rs. 20,000. What will happen to Diana's claim?",
 "o": [
-"It is a product combining a life insurance cover and a health insurance cover offered jointly by a life insurer and a general/health insurer",
-"It combines two indemnity policies from the same insurer",
-"It is a combination of fire and health cover",
-"It can be sold only to groups"
+"Diana's claim shall not be accepted as there is an",
+"Only Rs. 10,000 of Diana's claim shall be reimburs",
+"Diana's claim shall be fully reimbursed",
+"Due to the her pre-existing illness, any of Diana'",
+"Diana's claim shall not be reimbursed because for"
 ],
-"a": 0,
-"e": "IRDAI's combi guidelines allow a life insurer and a non-life/health insurer to jointly offer a bundled product, each bearing its own risk."
+"a": 2,
+"e": "Correct answer: Diana's claim shall be fully reimbursed (from the IC27 question bank)."
 },
 {
 "n": 13,
-"topic": "Health Insurance Products in India",
-"t": "A micro-insurance health product is designed primarily for:",
+"topic": "Health Insurance",
+"t": "The whole health care Insurance system of Chile is divided into _____ categories.",
 "o": [
-"High net-worth individuals",
-"Low-income households, with low sum insured and simple terms as defined in IRDAI's micro-insurance regulations",
-"Multinational employers",
-"Hospitals"
+"Two",
+"Three",
+"Four",
+"Five",
+"Six"
 ],
-"a": 1,
-"e": "Micro-insurance targets the economically vulnerable with affordable, simplified products distributed through NGOs, SHGs and similar channels."
+"a": 0,
+"e": "Correct answer: Two (from the IC27 question bank)."
 },
 {
 "n": 14,
-"topic": "Health Insurance Underwriting",
-"t": "'Anti-selection' at the renewal stage occurs when:",
+"topic": "Health Insurance",
+"t": "Group insurance is mainly underwritten based on the _____________________. <BR><BR>I. Law of Averages <BR>II. Law of Deviation <BR>III. Law of Assignment",
 "o": [
-"Healthy policyholders drop out while those with high claims continue, worsening the risk pool",
-"The insurer refuses renewal of a policy",
-"Agents sell more policies to the elderly",
-"The insurer increases sum insured for all"
+"Only I",
+"Only II",
+"II and III",
+"I and III",
+"I,II and III"
 ],
 "a": 0,
-"e": "Selective lapsation by good risks leaves a deteriorating pool, which is why continuity benefits and lifelong renewability are designed to retain healthy lives."
+"e": "Correct answer: Only I (from the IC27 question bank)."
 },
 {
 "n": 15,
-"topic": "Health Insurance Underwriting",
-"t": "Which of the following is a correct statement about 'waiting periods' as an underwriting tool?",
+"topic": "Health Insurance",
+"t": "The objective of the insurance is to compensate the insured by placing him in the same financial position after the loss where he was earlier; the insurer pays nothing more and nothing less. This is known as ________________.",
 "o": [
-"They defer cover for specified conditions so that persons with early symptoms do not buy cover just before treatment",
-"They apply only to accidents",
-"They permanently exclude the condition",
-"They reduce the premium to nil"
+"Principle of Utmost Good faith",
+"Principle of Indemnity",
+"Principle of Insurable Interest",
+"Principle of Contribution",
+"Principle of Proximate cause"
 ],
-"a": 0,
-"e": "Waiting periods (30-day, specified-disease and PED) counter anti-selection by deferring, not permanently excluding, cover; accidents are exempt from the initial waiting period."
+"a": 1,
+"e": "Correct answer: Principle of Indemnity (from the IC27 question bank)."
 },
 {
 "n": 16,
-"topic": "Health Insurance Underwriting",
-"t": "A 35-year-old proposer with no medical history applies for ₹5 lakh cover. Most insurers would:",
+"topic": "Health Insurance",
+"t": "Rekha had taken a health insurance policy for coverage of expenses in the event of hospitalisation on 1<SUP>st</SUP> January, 2015. The policy had a clause for initial waiting period of 30 days. On 19<SUP>th</SUP> January, 2015 Rekha met with an accident and was hospitalised for 5 days. She had to pay heavy hospital bills. She submitted a claim to the insurance Company on 25<SUP>th</SUP> January, 2015. What shall be the result of her claim? <BR><BR>I. The claim shall be approved and reimbursed <BR>II. The insurance Company shall deny the claim <BR>III. The insurance company shall clear the claim by 25<SUP>th</SUP> March, 2015",
 "o": [
-"Accept on the basis of the declaration in the proposal form without medical examination, as he is within the 'no medical' age and sum insured limits",
-"Insist on full medical tests",
-"Decline because he is self-employed",
-"Issue only a group policy"
+"I",
+"II",
+"Either II or III",
+"III",
+"None of I, II and III"
 ],
 "a": 0,
-"e": "Insurers set age and sum insured thresholds below which healthy proposers are accepted on declaration; tests are called for beyond those limits or on adverse disclosures."
+"e": "Correct answer: I (from the IC27 question bank)."
 },
 {
 "n": 17,
-"topic": "Health Insurance Underwriting",
-"t": "Which of the following documents is generally NOT required at the underwriting stage of an individual health policy?",
+"topic": "Health Insurance",
+"t": "Critical illness benefit products provide a lump sum amount to the insured on:- <BR><BR>I. Diagnosis of a specific critical illness <BR>II. On undergoing of certain procedures <BR>III. Hospitalisation for periodic health checkups",
 "o": [
-"Completed proposal form with health declaration",
-"Age proof",
-"Medical examination report, where applicable",
-"Hospital discharge summary of the last claim"
+"Only I",
+"Only II",
+"I and II",
+"I and III",
+"I,II and III"
 ],
-"a": 3,
-"e": "A discharge summary is a claim document; underwriting relies on the proposal, age/identity proof and medical reports where required."
+"a": 2,
+"e": "Correct answer: I and II (from the IC27 question bank)."
 },
 {
 "n": 18,
-"topic": "Health Insurance Policy Forms and Clauses",
-"t": "Under the IRDAI Master Circular on health insurance (2024), after how many months of continuous coverage can an insurer no longer contest a claim on grounds of non-disclosure or misrepresentation, except for established fraud?",
+"topic": "Health Insurance",
+"t": "In which year was the ESI Act enacted?",
 "o": [
-"36 months",
-"48 months",
-"60 months",
-"96 months"
+"1948",
+"1938",
+"1957",
+"1912",
+"1908"
 ],
-"a": 2,
-"e": "★ Key fact (repeated across the mocks of this paper). The moratorium period was reduced from 8 years (96 months) to 60 months in 2024; after it, claims can be contested only for proven fraud or for permanent exclusions.",
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: 1948 (from the IC27 question bank).",
 "r": "key"
 },
 {
 "n": 19,
-"topic": "Health Insurance Underwriting",
-"t": "An underwriter notices that a proposer for a hospital cash policy of ₹10,000 per day earns ₹15,000 per month. The most appropriate concern is:",
+"topic": "Health Insurance",
+"t": "In Mediclaim, the scope of cover has been extended by some insurers to cover:- <BR><BR>I. Hospitalisation expenses of organ donor  <BR>II. Reimbursement for periodic health check-up  <BR>III. Cost of surgeries done under day care",
 "o": [
-"The proposer is too young",
-"The sum insured is too low",
-"Over-insurance creating moral hazard, as the daily benefit far exceeds the proposer's income replacement need",
-"Nothing, since benefit policies need no financial underwriting"
+"Only I",
+"Only III",
+"I and II",
+"II and III",
+"I,II and III"
 ],
-"a": 2,
-"e": "Fixed-benefit covers are vulnerable to unnecessary hospitalisation when the benefit exceeds income; financial underwriting limits the benefit to a reasonable level."
+"a": 4,
+"e": "Correct answer: I,II and III (from the IC27 question bank)."
 },
 {
 "n": 20,
-"topic": "Health Insurance Policy Forms and Clauses",
-"t": "The 'specified disease/procedure waiting period' (Excl02) typically applies to conditions such as:",
+"topic": "Health Insurance",
+"t": "While issuing an insurance cover, most of the insurance companies consider which of the following factors? <BR><BR>I. Pricing <BR>II. Acceptance by customers <BR>III. Maximum coverage of society in general",
 "o": [
-"Accidental fractures",
-"All pre-existing diseases",
-"Cataract, hernia, piles, joint replacement and similar listed conditions",
-"Maternity only"
+"I and II",
+"II and III",
+"I, II and III",
+"Only I",
+"Only II"
 ],
-"a": 2,
-"e": "Excl02 lists conditions commonly needing elective treatment and subject to a waiting period (now capped at 36 months); accidents are not subject to it."
+"a": 0,
+"e": "Correct answer: I and II (from the IC27 question bank)."
 },
 {
 "n": 21,
-"topic": "Health Insurance Policy Forms and Clauses",
-"t": "'Reasonable and customary charges' in a health policy means charges that:",
+"topic": "Health Insurance",
+"t": "The terms 'cherry-picking' or 'cream-skimming' are often used with reference to __________.",
 "o": [
-"Are fixed by IRDAI for each procedure",
-"Are decided by the policyholder",
-"Do not exceed the usual level prevailing for similar treatment in the geographical area for the same service, taking into account the nature of illness",
-"Are equal to the sum insured"
+"Selection of risks / ????? ???",
+"Payment of premium / ???????? ??????",
+"Extent of insurance cover / ???? ???? ?? ????",
+"Paying insurance claims / ???? ????? ??????",
+"Reinsuring risks / ????????? ?????"
 ],
-"a": 2,
-"e": "The standard definition benchmarks charges against the local prevailing rates for identical or similar services; IRDAI does not fix procedure tariffs."
+"a": 0,
+"e": "Correct answer: Selection of risks / ????? ??? (from the IC27 question bank)."
 },
 {
 "n": 22,
-"topic": "Health Insurance Policy Forms and Clauses",
-"t": "A policy states 'non-medical expenses as per the list of items are not payable'. Which of the following is typically a non-payable item?",
+"topic": "Health Insurance",
+"t": "When was the Indian Life Assurance Companies Act enacted?",
 "o": [
-"Surgeon's fees",
-"ICU charges",
-"Toiletries, telephone charges and attendant charges",
-"Anaesthesia"
+"1957",
+"1938",
+"1928",
+"1912",
+"1908"
 ],
-"a": 2,
-"e": "IRDAI's standardised list of optional and non-payable items includes administrative and comfort items such as toiletries and telephone charges; medical fees and ICU are payable."
+"a": 3,
+"e": "Correct answer: 1912 (from the IC27 question bank)."
 },
 {
 "n": 23,
-"topic": "Health Insurance Policy Forms and Clauses",
-"t": "Which of the following statements about the 'condition precedent' clause in a health policy is correct?",
+"topic": "Health Insurance",
+"t": "Which of the following acts are considered to be fraud? <BR><BR>I. Act of concealment <BR>II. Act of deceiving <BR>III. Act of misrepresenting information",
 "o": [
-"It means the policy is void if any claim is made in the first year",
-"It is applicable only to group policies",
-"It makes the insured's compliance with certain terms (such as timely claim intimation and submission of documents) a requirement for the insurer's liability to arise",
-"It allows the insurer to change the premium"
+"Only I",
+"Only II",
+"II and III",
+"I and II",
+"I, II and III"
 ],
-"a": 2,
-"e": "Conditions precedent must be fulfilled for a claim to be admitted; however, IRDAI requires that delay in intimation be condoned where it is due to circumstances beyond the insured's control."
+"a": 4,
+"e": "Correct answer: I, II and III (from the IC27 question bank)."
 },
 {
 "n": 24,
-"topic": "Health Insurance Policy Forms and Clauses",
-"t": "Mr Rao's policy of ₹3 lakh has a cumulative bonus of ₹60,000 and the policy reduces cumulative bonus by 10% of base sum insured for every claim year. He makes a claim of ₹80,000 this year. At the next renewal, the sum insured including bonus will be:",
+"topic": "Health Insurance",
+"t": "Priya has taken a health insurance policy which had a clause for deductible of Rs.20,000. Due to a fracture in her leg, Priya incurred hospitalisation expenses of Rs.55,000. How much will the insurance company pay out of the total expenses?",
 "o": [
-"₹3,00,000",
-"₹3,30,000",
-"₹3,60,000",
-"₹3,90,000"
+"Rs. 20,000",
+"Rs. 55,000",
+"Rs. 35,000",
+"Rs. 75,000",
+"NIL"
 ],
-"a": 1,
-"e": "Bonus of ₹60,000 is reduced by 10% of ₹3 lakh = ₹30,000, leaving ₹30,000; renewed cover = ₹3,00,000 + ₹30,000 = ₹3,30,000."
+"a": 2,
+"e": "Correct answer: Rs. 35,000 (from the IC27 question bank)."
 },
 {
 "n": 25,
-"topic": "Health Insurance Policy Forms and Clauses",
-"t": "The 'migration' facility in health insurance allows a policyholder to:",
+"topic": "Health Insurance",
+"t": "Identify the most important benefit of cashless system of health insurance.",
 "o": [
-"Move to a different insurer with continuity benefits",
-"Transfer the policy to another family member",
-"Convert a health policy into a life policy",
-"Move from one product to another product of the same insurer, with credit for waiting periods already served"
+"It avoids the need to arrange a large amount of money by an individual for payment to the hospital",
+"It is less costly than other insurance options",
+"It ensures 100% reimbursement to the insured",
+"No insurance claim form needs to be submitted for",
+"The insured has to pay only 10% of the total expen"
 ],
-"a": 3,
-"e": "Migration is within the same insurer (e.g. from a withdrawn product or from a group to an individual policy); moving to another insurer is portability."
+"a": 0,
+"e": "Correct answer: It avoids the need to arrange a large amount of money by an individual for payment to the hospital (from the IC27 question bank)."
 },
 {
 "n": 26,
-"topic": "Customer Service in Health Insurance",
-"t": "The maximum value of a complaint that an Insurance Ombudsman can entertain under the Insurance Ombudsman Rules (as amended in 2021) is:",
+"topic": "Health Insurance",
+"t": "Vijay Vyas needs to travel to US on 15<SUP>th</SUP> of next month. Suggest a suitable health insurance product for him.",
 "o": [
-"₹20 lakh",
-"₹30 lakh",
-"₹50 lakh",
-"₹1 crore"
+"Overseas Medical Insurance plan / ?????? ????????",
+"Bhavishya Aarogya / ?????? ??????",
+"Disease Management cover / ??? ??????? ????",
+"High-deductible hospital indemnity cover / ????-??",
+"Daily hospital cash benefit / ????? ??????? ???? ?"
 ],
-"a": 2,
-"e": "★ Key fact (repeated across the mocks of this paper). The limit was raised from ₹30 lakh to ₹50 lakh in 2021; complaints must be filed within one year of the insurer's final reply.",
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Overseas Medical Insurance plan / ?????? ???????? (from the IC27 question bank).",
 "r": "key"
 },
 {
 "n": 27,
-"topic": "Health Insurance Data, Pricing and Reserving",
-"t": "'Claim frequency' in health insurance pricing is defined as:",
+"topic": "Health Insurance",
+"t": "Which of the following statement is correct with regard to modelling process?",
 "o": [
-"Total claims paid divided by premium",
-"Average cost per claim",
-"Number of hospitals per insured",
-"Number of claims divided by the number of exposure units (e.g. insured lives or policy-years)"
+"It is used to analyse the data and come up with a formula which can be used to predict the future with as much accuracy as possible",
+"It refers to setting aside a reserve by the claims",
+"It is an exercise to determine the right level of",
+"It is the portion of an insurance written premium",
+"It refers to process of reserving for the claims w"
 ],
-"a": 3,
-"e": "Frequency is claims per exposure; severity is the average cost per claim; their product gives the pure premium."
+"a": 0,
+"e": "Correct answer: It is used to analyse the data and come up with a formula which can be used to predict the future with as much accuracy as possible (from the IC27 question bank)."
 },
 {
 "n": 28,
-"topic": "Health Insurance Data, Pricing and Reserving",
-"t": "A group policy had 10,000 members and paid claims of ₹3.5 crore last year. Medical inflation is 10% and an IBNR allowance of 5% of paid claims is required. The expected claims cost per member for the coming year, before expense loading, is approximately:",
+"topic": "Health Insurance",
+"t": "Claims which are medium to high severity and low frequency ____________________.",
 "o": [
-"₹3,500",
-"₹3,850",
-"₹4,043",
-"₹4,500"
+"Are not reinsured",
+"Would require a quota share reinsurance structure",
+"Would require a surplus share reinsurance structur",
+"Would require a quota share or a surplus share reinsurance structure",
+"Would require a stop loss type of reinsurance stru"
 ],
-"a": 2,
-"e": "Per-member paid claims = ₹3,500; add 5% IBNR = ₹3,675; trend at 10% = ₹4,042.50, about ₹4,043."
+"a": 3,
+"e": "Correct answer: Would require a quota share or a surplus share reinsurance structure (from the IC27 question bank)."
 },
 {
 "n": 29,
-"topic": "Health Insurance Data, Pricing and Reserving",
-"t": "Which of the following is a reason health insurance pricing uses 'age bands' rather than a single rate for all adults?",
+"topic": "Health Insurance",
+"t": "All of the following statement with regard to claims probability distribution analysis are correct EXCEPT:-",
 "o": [
-"IRDAI prohibits uniform rates",
-"Agents' commission differs by age",
-"Hospitals charge older patients more",
-"Morbidity and average claim cost rise steeply with age, so uniform pricing would be inequitable and cause anti-selection by older lives"
+"This is the distribution of the number of claims p",
+"It helps in calculating the unearned premium reserve at the end of the accounting period, which needs to be shown in the financial statements",
+"This is used to study the percentage of total clai",
+"This distribution is vital to understand the proba",
+"With this knowledge the actuary can develop the ex"
 ],
-"a": 3,
-"e": "Age is the strongest predictor of health claims; age-banded rates align premium with expected cost while keeping younger lives in the pool."
+"a": 1,
+"e": "Correct answer: It helps in calculating the unearned premium reserve at the end of the accounting period, which needs to be shown in the financial statements (from the IC27 question bank)."
 },
 {
 "n": 30,
-"topic": "Health Insurance Data, Pricing and Reserving",
-"t": "The 'expense ratio' of a health insurer is calculated as:",
+"topic": "Health Insurance",
+"t": "Which of the following parameters can be used by insurance companies as a trigger to detect fraudulent claims? <BR><BR>I. Medicine bills having distinct serial numbers and not chronologically numbered <BR>II. Costlier investigations carried out without any justification <BR>III. Documentations usually in perfect order",
 "o": [
-"Claims incurred divided by premium earned",
-"Management expenses plus commission divided by premium (usually gross written or earned premium)",
-"Investment income divided by premium",
-"Reinsurance premium divided by gross premium"
+"Only I",
+"Only II",
+"II and III",
+"I and II",
+"I, II and III"
 ],
-"a": 1,
-"e": "The expense ratio captures operating and acquisition costs; together with the incurred claims ratio it forms the combined ratio."
+"a": 2,
+"e": "Correct answer: II and III (from the IC27 question bank)."
 },
 {
 "n": 31,
-"topic": "Health Insurance Data, Pricing and Reserving",
-"t": "The National Health Claims Exchange (NHCX) developed under ABDM is intended to:",
+"topic": "Health Insurance",
+"t": "Which of the following forms the basis of the rate calculation for sum-insured policies?",
 "o": [
-"Replace IRDAI as regulator of claims",
-"Provide a standardised digital gateway for exchange of claim-related information between hospitals, insurers and TPAs",
-"Fix uniform package rates for all private hospitals",
-"Register all TPAs"
+"Written premium",
+"Earned premium",
+"Claim analysis",
+"Claim probability distribution",
+"Payment duration analysis"
 ],
-"a": 1,
-"e": "NHCX standardises and digitises claim data exchange (using FHIR-based standards) to speed up cashless processing and reduce paperwork."
+"a": 3,
+"e": "Correct answer: Claim probability distribution (from the IC27 question bank)."
 },
 {
 "n": 32,
-"topic": "Regulatory and Legal Aspects of Health Insurance",
-"t": "Which of the following is NOT a principle of insurance that applies to indemnity health insurance?",
+"topic": "Health Insurance",
+"t": "Policy data table contains information with regard to:- <BR><BR> I. Policy Number <BR>II. Product type  <BR> III. Type of cover",
 "o": [
-"Utmost good faith",
-"Insurable interest",
-"Indemnity",
-"Guaranteed profit to the insured"
+"Only I",
+"Only III",
+"I and II",
+"I and III",
+"I,II and III"
 ],
-"a": 3,
-"e": "Insurance restores the insured's position, it does not provide profit; good faith, insurable interest and indemnity all apply to health indemnity contracts."
+"a": 4,
+"e": "Correct answer: I,II and III (from the IC27 question bank)."
 },
 {
 "n": 33,
-"topic": "Regulatory and Legal Aspects of Health Insurance",
-"t": "Under the Insurance Act, 1938, health insurance business conducted by a general insurer is classified as:",
+"topic": "Health Insurance",
+"t": "Health insurance products available in the Indian market are primarily dominated by which of the following types of insurance products?",
 "o": [
-"Life insurance business",
-"Marine insurance business",
-"Fire insurance business",
-"A separate class of 'health insurance business' as defined in Section 2(6C)"
+"Hospitalisation Products / ??????????? ??????",
+"Dimiciliary Treatment Products / ?????? ????? ????",
+"Life Insurance Products / ???? ???? ??????",
+"Overseas Health Insurance Products / ?????? ??????",
+"Maternity Insurance Products / ??????? ???? ??????"
 ],
-"a": 3,
-"e": "Since the 2015 amendment, health insurance is a distinct class, which also enabled stand-alone health insurers to operate under separate registration."
+"a": 0,
+"e": "Correct answer: Hospitalisation Products / ??????????? ?????? (from the IC27 question bank)."
 },
 {
-"topic": "Policyholder protection",
-"t": "An insurer must resolve a policyholder's grievance within how many days of receipt?",
+"topic": "Intermediaries",
+"t": "A corporate agent may tie up with a maximum of how many insurers in each line of business?",
 "o": [
-"7 days",
-"14 days",
-"30 days",
-"45 days"
+"3",
+"6",
+"9",
+"Unlimited"
 ],
-"a": 1,
-"e": "★ Core fact (asked across III papers). 14 days under the 2024 regulations; thereafter the policyholder may approach Bima Bharosa or the Ombudsman.",
+"a": 2,
+"e": "★ Core fact (asked across III papers). Raised from 3 to 9 insurers per category (life, general, health) by the 2022 amendment to the Corporate Agents Regulations.",
 "r": "core",
 "n": 34
 },
 {
 "n": 35,
-"topic": "Regulatory and Legal Aspects of Health Insurance",
-"t": "A health insurer must file which of the following to demonstrate the actuarial basis of its product's premium?",
+"topic": "Health Insurance",
+"t": "Frauds related to increase or decrease in the sum of cover generally happen at:- <BR><BR>I. Proposal and policy stage <BR>II. Claim settlement stage <BR>III. During the contractual period",
 "o": [
-"Only the marketing brochure",
-"A technical note and Appointed Actuary's certification on pricing assumptions",
-"A list of network hospitals",
-"The reinsurance treaty slip"
+"Only I",
+"Only II",
+"Only III",
+"I and II",
+"II and III"
 ],
-"a": 1,
-"e": "Product filings require the technical note describing data, assumptions and pricing methodology, certified by the Appointed Actuary."
+"a": 2,
+"e": "Correct answer: Only III (from the IC27 question bank)."
 },
 {
 "n": 36,
-"topic": "Regulatory and Legal Aspects of Health Insurance",
-"t": "The Clinical Establishments (Registration and Regulation) Act, 2010 is relevant to health insurance because it:",
+"topic": "Health Insurance",
+"t": "Health insurance policies offer the benefits of providing coverage in the event of __________.",
 "o": [
-"Fixes insurance premiums",
-"Regulates TPAs",
-"Governs reinsurance of hospital risks",
-"Provides for registration and minimum standards of hospitals and clinics in adopting States, supporting the 'hospital' definition and quality norms"
+"Accident",
+"Hospitalisation",
+"Death",
+"Disability",
+"Bankruptcy"
 ],
-"a": 3,
-"e": "The Act prescribes registration and standards for clinical establishments; IRDAI's hospital definition refers to registration under local authorities or compliance with equivalent criteria."
+"a": 1,
+"e": "Correct answer: Hospitalisation (from the IC27 question bank)."
 },
 {
 "n": 37,
-"topic": "Regulatory and Legal Aspects of Health Insurance",
-"t": "Which of the following is a correct statement about renewal of health insurance policies under IRDAI norms?",
+"topic": "Health Insurance",
+"t": "Identify the correct full form of CGHS.",
 "o": [
-"An insurer may refuse renewal because the insured is above 70 years",
-"Renewal may be refused if a claim was made in the previous year",
-"Health policies must be renewable lifelong and renewal cannot be denied except on grounds of fraud, moral hazard or misrepresentation",
-"Renewal premium may be loaded for a specific insured on the basis of claims"
+"Central Government Honorary Scheme",
+"Central Government Health Scheme",
+"Corporation Governed Health Scheme",
+"Central Government Hospitalisation Scheme",
+"Cooperative Government Health Scheme"
 ],
-"a": 2,
-"e": "Lifelong renewability is mandatory; refusing renewal for age or claims, or individual claim-based loading, is prohibited."
+"a": 1,
+"e": "Correct answer: Central Government Health Scheme (from the IC27 question bank)."
 },
 {
 "n": 38,
-"topic": "Regulatory and Legal Aspects of Health Insurance",
-"t": "A senior citizen aged 68 pays ₹52,000 as premium for his own health policy. The maximum deduction available to him under Section 80D for this premium is:",
+"topic": "Health Insurance",
+"t": "Which of the following factors have a bearing on morbidity rates?<br><br>I. Environment and residence<br>II. Family history<br>III. Occupation",
 "o": [
-"₹50,000",
-"₹25,000",
-"₹52,000",
-"₹75,000"
+"Only I / ???? I",
+"Only II / ???? II",
+"I and II / I ??? II",
+"II and III / II ??? III",
+"I,II and III / I, II ??? III"
 ],
-"a": 0,
-"e": "For a senior citizen the self/family limit under Section 80D is ₹50,000; the excess premium is not deductible."
+"a": 4,
+"e": "Correct answer: I,II and III / I, II ??? III (from the IC27 question bank)."
 },
 {
 "n": 39,
-"topic": "Regulatory and Legal Aspects of Health Insurance",
-"t": "The Insurance Ombudsman's award, once accepted by the complainant, must be complied with by the insurer within:",
+"topic": "Health Insurance",
+"t": "How is the Fonasa scheme of Chile funded?",
 "o": [
-"7 days",
-"15 days",
-"30 days",
-"90 days"
+"Funded 100% by the government through taxes",
+"Funded by contributions from employees",
+"Funded by contributions from employees and retiree",
+"Funded 50% by the government and 50% through the mandatory contribution by employees and retired people",
+"Funded partly by government and partly by medical"
 ],
-"a": 2,
-"e": "Under the Insurance Ombudsman Rules the insurer must comply within 30 days of receipt of the award and inform the Ombudsman; the award is binding on the insurer."
+"a": 3,
+"e": "Correct answer: Funded 50% by the government and 50% through the mandatory contribution by employees and retired people (from the IC27 question bank)."
 },
 {
 "n": 40,
-"topic": "Customer Service in Health Insurance",
-"t": "Under IRDAI's 2024 norms, a policyholder's health insurance claim must not be rejected without:",
+"topic": "Health Insurance",
+"t": "Michael is a citizen of USA, with very low income. Under which health programme will he and his family be covered in?",
 "o": [
-"Approval of the TPA",
-"Consent of the hospital",
-"Permission of IRDAI",
-"Approval of the insurer's Claims Review Committee (or equivalent), with the rejection communicated in writing with reasons"
+"MEDICAID",
+"MEDICARE",
+"SCHIP",
+"TRICARE",
+"Veterans Health Administration programme"
 ],
-"a": 3,
-"e": "The Master Circular requires that rejections or repudiations pass through a Claims Review Committee and that reasons be communicated, protecting policyholders from arbitrary denials."
+"a": 0,
+"e": "Correct answer: MEDICAID (from the IC27 question bank)."
 },
 {
 "n": 41,
-"topic": "Customer Service in Health Insurance",
-"t": "The role of a TPA at the time of a cashless claim includes all of the following EXCEPT:",
+"topic": "Health Insurance",
+"t": "Which of the following analysis will help insurer to point out the utilisation level at different sum insured range?",
 "o": [
-"Verifying policy coverage and issuing pre-authorisation on behalf of the insurer",
-"Coordinating with the hospital on documentation and final bill",
-"Deciding independently to repudiate the claim",
-"Maintaining the network hospital help desk and 24x7 call centre"
+"Claim analysis by sum insured",
+"Claim analysis by age bands",
+"Claim analysis by Geographic locations",
+"Claim analysis by hospitals",
+"IBNR analysis"
 ],
-"a": 2,
-"e": "TPAs process and service claims but the decision to reject lies with the insurer; the other activities are core TPA services."
+"a": 0,
+"e": "Correct answer: Claim analysis by sum insured (from the IC27 question bank)."
 },
 {
 "n": 42,
-"topic": "Customer Service in Health Insurance",
-"t": "Which of the following best describes 'Bima Sugam'?",
+"topic": "Health Insurance",
+"t": "This type of health insurance policy provides for higher cash allowance for accidents or ICU stay apart from the normal benefits. Which type of Policy is this?",
 "o": [
-"An IRDAI-promoted electronic marketplace for buying, servicing and claiming on insurance policies, including health",
-"A State health scheme for farmers",
-"A hospital accreditation body",
-"A reinsurance pool for health"
+"Convalescence or recuperation benefit plan",
+"Surgical benefit plan",
+"Personal accident benefit and disability benefit P",
+"Critical Illness Plan",
+"Hospitalisation daily cash allowance Policy"
 ],
-"a": 0,
-"e": "Bima Sugam is the digital insurance marketplace envisaged by IRDAI to simplify policy purchase and servicing across insurers."
+"a": 4,
+"e": "Correct answer: Hospitalisation daily cash allowance Policy (from the IC27 question bank)."
 },
 {
 "n": 43,
-"topic": "Customer Service in Health Insurance",
-"t": "A customer complains that the hospital collected ₹15,000 as 'non-payable' items on a cashless claim even though she was told the claim was 'fully approved'. The best customer service practice to prevent such complaints is:",
+"topic": "Health Insurance",
+"t": "Under the RAG analysis which colour is assigned to positive performers in terms of claims?",
 "o": [
-"Refuse cashless to that hospital in future",
-"Ask the customer to approach the Ombudsman",
-"Pay all non-payable items to avoid complaints",
-"Clearly communicate the approved amount, deductions and non-payable items to the insured at pre-authorisation and discharge stages"
+"Amber",
+"Green",
+"Red",
+"Grey",
+"Black"
 ],
-"a": 3,
-"e": "Most cashless grievances stem from expectation gaps; transparent communication of co-pay, sub-limits and non-payables at each stage is the recommended practice."
+"a": 1,
+"e": "Correct answer: Green (from the IC27 question bank)."
 },
 {
 "n": 44,
-"topic": "Health Insurance Fraud",
-"t": "'Unbundling' as a form of provider fraud means:",
+"topic": "Health Insurance",
+"t": "Which of the following is an example of cost sharing mechanism used by insurance companies? <BR><BR>I. Sub-limits on room and ICU charges <BR>II. Sub-limits on payments made for specific surgeries like cataract or hysterectomy <BR>III. Co-payment for using non-network hospitals",
 "o": [
-"Billing separately for components of a procedure that are normally billed as a single package, inflating the total",
-"Refusing cashless facility",
-"Treating two patients in one bed",
-"Billing for a cheaper procedure than performed"
+"Only I",
+"Only III",
+"I and II",
+"I and III",
+"I,II and III"
 ],
-"a": 0,
-"e": "Unbundling fragments a package to charge more; upcoding and phantom billing are the other common provider frauds."
+"a": 4,
+"e": "Correct answer: I,II and III (from the IC27 question bank)."
 },
 {
 "n": 45,
-"topic": "Health Insurance Fraud",
-"t": "Which of the following is the most effective preventive control against impersonation at network hospitals?",
+"topic": "Health Insurance",
+"t": "Which of the following statements are false with respect to standard health insurance policies? <BR><BR>I. All Day care procedures are covered under the Policy <BR>II. Diseases already existing at the time of taking the Policy are also covered  <BR>III. Expenses on diseases contracted during initial waiting period shall not be reimbursed",
 "o": [
-"Photo-ID verification of the patient against the policy records at admission",
-"Increasing the sum insured",
-"Reducing the number of network hospitals",
-"Delaying all cashless approvals"
+"I and II",
+"Only II",
+"I, II and III",
+"Only III",
+"I and III"
 ],
 "a": 0,
-"e": "Identity verification at the point of admission prevents a non-insured person using another's policy; the other options do not address impersonation."
+"e": "Correct answer: I and II (from the IC27 question bank)."
 },
 {
-"topic": "Claims timelines",
-"t": "Under IRDAI's 2024 norms, a surveyor must be appointed within what time of a claim intimation?",
+"topic": "Reinsurance",
+"t": "The obligatory cession that Indian general insurers must make to GIC Re is currently:",
 "o": [
-"24 hours",
-"48 hours",
-"72 hours",
-"7 days"
+"4%",
+"5%",
+"10%",
+"15%"
 ],
 "a": 0,
-"e": "★ Core fact (asked across III papers). Appointment within 24 hours; survey report within 15 days; insurer's decision within 7 days of the report.",
+"e": "★ Core fact (asked across III papers). The obligatory cession was reduced to 4% from 1 April 2022.",
 "r": "core",
 "n": 46
 },
 {
 "n": 47,
-"topic": "Health Insurance Fraud",
-"t": "An insurer's analytics flags that a hospital's average length of stay for dengue is 7 days against a city average of 3 days, and 90% of its patients are insured. The most reasonable inference is:",
+"topic": "Health Insurance",
+"t": "All of the following tasks are performed by Actuaries EXCEPT:-",
 "o": [
-"The hospital treats only severe cases and needs no review",
-"There is a pattern suggesting possible over-treatment or inflated billing that warrants provider audit and possible renegotiation of tariffs",
-"Dengue is more severe in that locality",
-"The insurer's data is wrong"
+"Rating and Underwriting analysis",
+"Experience rating",
+"Segmentation Analysis",
+"Acceptance or Declinature of a risk",
+"Internal Tariff development"
 ],
-"a": 1,
-"e": "Outlier length-of-stay and skewed insured-patient ratios are provider-level red flags; the standard response is a documented audit, not assumption of either innocence or guilt."
+"a": 3,
+"e": "Correct answer: Acceptance or Declinature of a risk (from the IC27 question bank)."
 },
 {
 "n": 48,
-"topic": "Reinsurance",
-"t": "The commission paid by a reinsurer to the ceding insurer under a proportional treaty to compensate for acquisition and administration costs is called:",
+"topic": "Health Insurance",
+"t": "Prateek had taken a mediclaim policy for a cover of Rs.3 lakhs. He met with an accident and had to undergo a critical surgery. The bill raised by the hospital was Rs.285,000. Later after six months he was again admitted to the hospital due to dengue for 5 days. This time the Hospital Bill was for Rs. 45.000. What amount shall be reimbursed by the insurance Company in total for both the claims?",
 "o": [
-"Ceding commission",
-"Brokerage",
-"Profit commission",
-"Retrocession"
+"Rs. 285,000",
+"Rs. 45,000",
+"Rs. 300,000",
+"Rs. 330,000",
+"NIL"
 ],
-"a": 0,
-"e": "Ceding (reinsurance) commission reimburses the cedant's expenses; profit commission is an additional share of treaty profit, and retrocession is reinsurance of a reinsurer."
+"a": 2,
+"e": "Correct answer: Rs. 300,000 (from the IC27 question bank)."
 },
 {
 "n": 49,
-"topic": "Reinsurance",
-"t": "Under the IRDAI (Re-insurance) Regulations, 2018, before placing reinsurance with cross-border reinsurers, an Indian insurer must first offer the business to:",
+"topic": "Health Insurance",
+"t": "The Ministry of Health and Family Welfare is comprised of:-<br><br>I.The Department of Health and Family Welfare<br>II. The Department of Medical Research<br>III. The 'Department of AYUSH'",
 "o": [
-"Any foreign reinsurer of its choice",
-"Indian reinsurers (such as GIC Re) and foreign reinsurance branches in India, following the prescribed order of preference",
-"The Life Insurance Corporation",
-"Other direct insurers only"
+"I and II / I ??? II",
+"II and III / II ??? III",
+"Only I / ???? I",
+"Only II / ???? II",
+"I, II and III / I, II ??? III"
 ],
-"a": 1,
-"e": "The regulations lay down an order of preference favouring Indian reinsurers and FRBs/IFSC entities before cross-border reinsurers, to develop domestic capacity."
+"a": 4,
+"e": "Correct answer: I, II and III / I, II ??? III (from the IC27 question bank)."
 },
 {
 "n": 50,
-"topic": "Reinsurance",
-"t": "A health insurer cedes 30% of a group policy under quota share and the reinsurer allows a 25% ceding commission. On premium of ₹1 crore, the net cash outflow to the reinsurer is:",
+"topic": "Health Insurance",
+"t": "Japan achieved universal health coverage through the _____________.",
 "o": [
-"₹30 lakh",
-"₹25 lakh",
-"₹22.5 lakh",
-"₹7.5 lakh"
+"Statutory health Act",
+"Employment-based public health  Act",
+"Universal Health Coverage Fund Act",
+"Non-profit Sickness Fund Act",
+"National Health Insurance Act"
 ],
-"a": 2,
-"e": "Ceded premium = 30% × ₹1 crore = ₹30 lakh; ceding commission = 25% × ₹30 lakh = ₹7.5 lakh; net outflow = ₹30 lakh − ₹7.5 lakh = ₹22.5 lakh."
+"a": 4,
+"e": "Correct answer: National Health Insurance Act (from the IC27 question bank)."
 }
 ]

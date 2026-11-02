@@ -1,657 +1,704 @@
 [
 {
 "n": 1,
-"topic": "Introduction to Risk and Risk Management",
-"t": "Which of the following is the most widely accepted definition of 'risk' in traditional insurance-oriented risk management?",
+"topic": "Risk Management",
+"t": "Which among the following were in force before the Bhopal Gas tragedy in India?<BR> <BR>I. Environment (Protection) Act <BR>II. Explosives Act <BR>III. Public Liability Insurance Act",
 "o": [
-"The cause of a loss",
-"The certainty that a loss will occur",
-"Uncertainty concerning the occurrence of a loss",
-"A condition that increases the frequency of loss"
+"I and II",
+"II and III",
+"I and III",
+"Only II",
+"I, II and III"
 ],
-"a": 2,
-"e": "Risk is classically defined as uncertainty about the occurrence of loss; the cause of loss is a peril and a loss-increasing condition is a hazard."
+"a": 3,
+"e": "Correct answer: Only II (from the IC86 question bank)."
 },
 {
 "n": 2,
-"topic": "Risk Identification",
-"t": "The Delphi technique of risk identification involves:",
+"topic": "Risk Management",
+"t": "The chances of rains in the month of July are fixed. Which value shall be assigned to the probability of occurrence of the above said event?  <br><br>I.  Zero <br>II. One <br>III. Two",
 "o": [
-"On-site physical inspection of plant and machinery",
-"Obtaining anonymous opinions from a panel of experts in successive rounds until consensus emerges",
-"Reviewing insurance policy schedules",
-"Analysis of fault trees for a specific system failure"
+"Only I",
+"Only II",
+"I, II and III",
+"II and III",
+"Only III"
 ],
 "a": 1,
-"e": "Delphi is a structured expert survey conducted in rounds with feedback, used for emerging or hard-to-quantify risks; it is not a physical or document-based method."
+"e": "Correct answer: Only II (from the IC86 question bank)."
 },
 {
 "n": 3,
-"topic": "Risk Identification",
-"t": "Which of the following is a limitation of using checklists or questionnaires for risk identification?",
+"topic": "Risk Management",
+"t": "If in any manufacturing process, the workers are exposed to risk of falling object, what measures can be taken for protection from the same?<BR> <BR>I. Using clothes to shield <BR>II. Use safety helmets <BR>III. Use safety belts",
 "o": [
-"They are too expensive for most firms",
-"They cannot be used for property exposures",
-"They require advanced statistical skills",
-"They may fail to identify unusual or unique exposures not anticipated in the standard list"
+"I and II",
+"I and III",
+"II and III",
+"Only II",
+"I, II and III"
 ],
 "a": 3,
-"e": "Standard checklists are quick and systematic but tend to miss exposures peculiar to the organisation, so they should be supplemented with inspections, flow charts and interviews."
+"e": "Correct answer: Only II (from the IC86 question bank)."
 },
 {
 "n": 4,
-"topic": "Risk Identification",
-"t": "Fault Tree Analysis (FTA) differs from Event Tree Analysis (ETA) in that FTA:",
+"topic": "Risk Management",
+"t": "Which among the following will be termed as organised and/or deliberate disruption?<BR> <BR>I. Act of terrorism <BR>II. Act of war <BR>III. Act of sabotage",
 "o": [
-"Works forward from an initiating event to its possible outcomes",
-"Ignores human error entirely",
-"Is used only for financial risks",
-"Works backward from an undesired top event to identify combinations of causes"
+"I and II",
+"II and III",
+"I and III",
+"Only I",
+"I, II and III"
 ],
-"a": 3,
-"e": "FTA is a deductive, top-down technique using AND/OR logic gates to trace causes of a top event; ETA is inductive, following an initiating event forward to its consequences."
+"a": 4,
+"e": "Correct answer: I, II and III (from the IC86 question bank)."
 },
 {
 "n": 5,
-"topic": "Risk Identification",
-"t": "Which of the following exposures would be classified as a 'personnel loss exposure'?",
+"topic": "Risk Management",
+"t": "The procedures of risk identification and evaluation will fall in which step of risk management process?",
 "o": [
-"Collapse of a factory shed during a storm",
-"A lawsuit from a customer injured by a defective product",
-"Theft of finished goods in transit",
-"Death or disability of a key design engineer on whom the firm depends"
+"Risk analysis",
+"Risk treatment",
+"Risk financing",
+"Risk control",
+"Risk mitigation"
 ],
-"a": 3,
-"e": "Personnel loss exposures arise from death, disability, retirement or resignation of key employees; the other options are property and liability exposures."
+"a": 0,
+"e": "Correct answer: Risk analysis (from the IC86 question bank)."
 },
 {
 "n": 6,
-"topic": "Risk Analysis and Evaluation",
-"t": "A warehouse has a 2% annual probability of a major fire. The probability that at least one major fire occurs over a 10-year period is approximately:",
+"topic": "Risk Management",
+"t": "Arrange the steps in Risk Management process in proper order starting from first to last. <BR><br>I. Risk Treatment <br>II. Risk Financing <br>III. Risk Analysis",
 "o": [
-"2%",
-"18%",
-"20%",
-"80%"
+"I, II and III",
+"I, III and II",
+"III, I and II",
+"II, I and III",
+"II, III and I"
 ],
-"a": 1,
-"e": "P(at least one) = 1 - (0.98)^10 = 1 - 0.817 = about 18%; simply multiplying 2% by 10 overstates the probability."
+"a": 2,
+"e": "Correct answer: III, I and II (from the IC86 question bank)."
 },
 {
 "n": 7,
-"topic": "Risk Analysis and Evaluation",
-"t": "Estimated Maximum Loss (EML) for a fire risk is normally assessed on the assumption that:",
+"topic": "Risk Management",
+"t": "Under risk financing, which of the following is/are example/s of risk retention? <br><br>I.  Financing by forming a trust <br>II. Payment out of funded reserve <br>III. Financing through debt",
 "o": [
-"All fire protection systems fail and the fire brigade does not respond",
-"Fire protection systems and fire brigade function as expected but the fire spreads within the largest fire compartment",
-"The loss is limited to the deductible",
-"Only contents and not the building are damaged"
+"I and II",
+"I and III",
+"II and III",
+"Only III",
+"I, II and III"
 ],
-"a": 1,
-"e": "EML/PML assumes normal functioning of protections and estimates the loss in the most adverse but realistic scenario; the total-failure scenario is the Maximum Possible Loss."
+"a": 4,
+"e": "Correct answer: I, II and III (from the IC86 question bank)."
 },
 {
 "n": 8,
-"topic": "Risk Analysis and Evaluation",
-"t": "Monte Carlo simulation is used in risk analysis to:",
+"topic": "Risk Management",
+"t": "Helix Ltd is using an enterprise risk management system. Management of the company has set the company's objective, identified, measured and assessed risks. Further it has taken measures to avoid occurrence of risk, limit its severity and reduce its consequences. What is the next step in the risk management process?",
 "o": [
-"Identify hazards using guide words",
-"Allocate insurance premiums among departments",
-"Rank risks by expert opinion",
-"Generate a distribution of possible outcomes by repeatedly sampling input variables from their probability distributions"
+"Monitor risk",
+"Determine the response to risk",
+"Identify opportunity",
+"Establish control activities to manage risk",
+"Financing"
 ],
-"a": 3,
-"e": "Monte Carlo simulation runs thousands of random trials to build a probability distribution of total losses or outcomes, useful when analytical solutions are impractical."
+"a": 4,
+"e": "Correct answer: Financing (from the IC86 question bank)."
 },
 {
 "n": 9,
-"topic": "Risk Analysis and Evaluation",
-"t": "A company recorded the following annual fire losses over five years: ₹2 lakh, ₹5 lakh, ₹3 lakh, ₹20 lakh and ₹5 lakh. The mean annual loss is:",
+"topic": "Risk Management",
+"t": "Risks associated with individuals can be classified as which of the following types of risk?",
 "o": [
-"₹5 lakh",
-"₹7 lakh",
-"₹6 lakh",
-"₹8 lakh"
+"Particular Risk",
+"Speculative Risk",
+"Static Risk",
+"Dynamic Risk",
+"Fundamental Risk"
 ],
-"a": 1,
-"e": "Mean = (2 + 5 + 3 + 20 + 5) / 5 = 35 / 5 = ₹7 lakh; the single large loss of ₹20 lakh pulls the mean above the median of ₹5 lakh."
+"a": 0,
+"e": "Correct answer: Particular Risk (from the IC86 question bank)."
 },
 {
 "n": 10,
-"topic": "Risk Analysis and Evaluation",
-"t": "Which of the following statements about 'severity' and 'frequency' in risk measurement is INCORRECT?",
+"topic": "Risk Management",
+"t": "Device a term that describes the process of envisioning and preparing for extreme events that could threaten the viability of the enterprise.",
 "o": [
-"Frequency measures how often a loss occurs in a given period",
-"Severity measures the size of loss when it occurs",
-"A high-frequency, low-severity risk is best handled by purchasing high-limit insurance",
-"Severity is generally considered more important than frequency when evaluating the need for insurance"
+"Risk Control",
+"Catastrophic risk management",
+"Risk management culture",
+"Strategic risk management",
+"Competitive advantage"
 ],
-"a": 2,
-"e": "High-frequency, low-severity losses are predictable and are usually retained with loss control; insurance is most valuable for low-frequency, high-severity events."
+"a": 1,
+"e": "Correct answer: Catastrophic risk management (from the IC86 question bank)."
 },
 {
 "n": 11,
-"topic": "Risk Financing and Alternative Risk Transfer",
-"t": "A firm decides to bear losses up to ₹5 lakh per event itself and insures amounts above this. The ₹5 lakh figure represents:",
+"topic": "Risk Management",
+"t": "In the year 1932 to 1968, which major industrial disaster took place?",
 "o": [
-"A franchise",
-"A deductible (retention)",
-"A co-insurance share",
-"An excess of loss reinsurance limit"
+"Triangle Factory Fire New York (USA)",
+"Mina Mata Mercury Disaster (Japan)",
+"Seveso Dioxin Disaster (Italy)",
+"Bhopal Gas Disaster (India)",
+"Port Chicago disaster (USA)"
 ],
 "a": 1,
-"e": "★ Key fact (repeated across the mocks of this paper). A deductible is the portion of each loss retained by the insured before the insurer pays; a franchise pays the full loss once a threshold is crossed.",
+"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Mina Mata Mercury Disaster (Japan) (from the IC86 question bank).",
 "r": "key"
 },
 {
 "n": 12,
-"topic": "Risk Control",
-"t": "Prohibiting smoking inside a paint factory is an example of:",
+"topic": "Risk Management",
+"t": "In the year 1984, which major industrial disaster took place?",
 "o": [
-"Loss prevention",
-"Loss reduction",
-"Duplication",
-"Risk financing"
+"Triangle Factory Fire New York (USA)",
+"Mina Mata Mercury Disaster (Japan)",
+"Seveso Dioxin Disaster (Italy)",
+"Bhopal Gas Disaster (India)",
+"Port Chicago disaster (USA)"
 ],
-"a": 0,
-"e": "Loss prevention aims to reduce the frequency of loss by removing causes; loss reduction (e.g. sprinklers) limits the size of loss after it begins."
+"a": 3,
+"e": "Correct answer: Bhopal Gas Disaster (India) (from the IC86 question bank)."
 },
 {
 "n": 13,
-"topic": "Risk Control",
-"t": "Haddon's energy-release theory of accident control suggests strategies such as:",
+"topic": "Risk Management",
+"t": "The risk in which price reduction or the purchase and sale constraints are involved can be classified as which of the following type of risk?",
 "o": [
-"Raising the insurance deductible",
-"Increasing the number of exposure units",
-"Preventing the build-up of energy, modifying its release and separating people from the energy source by barriers",
-"Purchasing a captive insurer"
+"Personal Risk",
+"Market Risk",
+"Liability Risk",
+"Physical Risk",
+"Social Risk"
 ],
-"a": 2,
-"e": "Haddon viewed accidents as uncontrolled energy transfers and proposed countermeasures that prevent, limit or separate energy from the target, e.g. speed limits, guards and barriers."
+"a": 1,
+"e": "Correct answer: Market Risk (from the IC86 question bank)."
 },
 {
 "n": 14,
-"topic": "Risk Control",
-"t": "A courier company splits its fleet between two depots in Delhi so that a single fire cannot destroy all its vehicles. This technique is:",
+"topic": "Risk Management",
+"t": "In the year 1985 which major event took place?",
 "o": [
-"Avoidance",
-"Duplication",
-"Separation (segregation of exposure units)",
-"Contractual transfer"
+"Formation of independent national commission by COSO",
+"Formation of Basel Committee on Banking Supervisio",
+"London stock exchange introduced new legislations",
+"Formation of Basel II accord",
+"COSO initiated a study  to develop practices for m"
 ],
-"a": 2,
-"e": "Separation divides assets in active use across locations to reduce the maximum loss from one event; duplication keeps spare assets in reserve."
+"a": 0,
+"e": "Correct answer: Formation of independent national commission by COSO (from the IC86 question bank)."
 },
 {
 "n": 15,
-"topic": "Risk Control",
-"t": "Which of the following statements about loss control measures is correct?",
+"topic": "Risk Management",
+"t": "Which among the following can be objectives of risk management? <br><br>I.  Mere survival <br>II. Peace of mind <br>III. Lower risk management costs and thus higher profits",
 "o": [
-"Loss control expenditure should be justified by comparing its cost with the expected reduction in losses and premiums",
-"Loss control measures should be implemented only when insurance is unavailable",
-"Loss control eliminates the need for risk financing",
-"Loss control is relevant only for property risks"
+"I and II",
+"I and III",
+"II and III",
+"Only III",
+"I, II and III"
 ],
-"a": 0,
-"e": "Risk control is subject to cost-benefit analysis; it reduces but rarely eliminates losses, so financing of residual risk remains necessary across property, liability and personnel exposures."
+"a": 2,
+"e": "Correct answer: II and III (from the IC86 question bank)."
 },
 {
 "n": 16,
-"topic": "Risk Control",
-"t": "A pharmaceutical firm in Hyderabad decides not to manufacture a drug with a history of serious side-effect litigation. This decision is an example of:",
+"topic": "Risk Management",
+"t": "Which of the following technique relates to risk control?<BR> <BR>I. Preventing losses <BR>II. Minimising losses <BR>III. Paying for the losses",
 "o": [
-"Risk retention",
-"Loss reduction",
-"Risk avoidance",
-"Risk transfer"
+"I and II",
+"I and III",
+"II and III",
+"Only II",
+"I, II and III"
 ],
-"a": 2,
-"e": "Avoidance means refusing to undertake the activity giving rise to the exposure, thereby eliminating the liability risk but also forgoing related revenue."
+"a": 0,
+"e": "Correct answer: I and II (from the IC86 question bank)."
 },
 {
 "n": 17,
-"topic": "Risk Financing and Alternative Risk Transfer",
-"t": "'Active retention' of risk differs from 'passive retention' in that active retention:",
+"topic": "Risk Management",
+"t": "Define physical risk.",
 "o": [
-"Is a conscious decision to bear the risk after identifying and evaluating it",
-"Occurs through ignorance or failure to identify the risk",
-"Always involves purchasing insurance",
-"Applies only to catastrophic risks"
+"The probability of potential loss to the persons i",
+"The probability of potential loss to the property",
+"The probability of potential liability for any ind",
+"The risk arising due to storm, tempest, flood, hurricane and such other natural phenomena is known as physical risk.",
+"The risk arising due to riot, strike, civil commot"
 ],
-"a": 0,
-"e": "Active retention is deliberate (e.g. deductibles, self-insurance funds); passive retention happens when a risk is unknowingly retained because it was never identified."
+"a": 3,
+"e": "Correct answer: The risk arising due to storm, tempest, flood, hurricane and such other natural phenomena is known as physical risk. (from the IC86 question bank)."
 },
 {
 "n": 18,
-"topic": "Risk Financing and Alternative Risk Transfer",
-"t": "Which of the following is a disadvantage of self-insurance for an Indian company?",
+"topic": "Risk Management",
+"t": "Identify the odd one out.",
 "o": [
-"Premium savings on insurer expenses and profit loading",
-"Better control over claims handling",
-"Possible loss of tax deductibility, since contributions to a self-insurance reserve are not deductible whereas insurance premiums are",
-"Direct benefit from good loss experience"
+"Recession",
+"Currency fluctuations",
+"Vandalism",
+"Stock market decline",
+"Changes in customer tastes"
 ],
 "a": 2,
-"e": "Reserves set aside for self-insurance are appropriations of profit and not deductible business expenses, while premiums paid to an insurer are; the other options are advantages."
+"e": "Correct answer: Vandalism (from the IC86 question bank)."
 },
 {
 "n": 19,
-"topic": "Risk Financing and Alternative Risk Transfer",
-"t": "A 'rent-a-captive' arrangement is one in which:",
+"topic": "Risk Management",
+"t": "Which of the following statements are true about a risk preferer person? <br><bR>I. He welcomes risk or uncertainty <br>II. He is willing to take chance of gain against the odds posed by risks <br>III. He shall bet more on the risky team of a match",
 "o": [
-"A company sets up its own licensed insurer",
-"Several insurers pool catastrophe risks",
-"An insurer leases office space to its clients",
-"A company uses the capital and licence of an existing captive owned by someone else, in return for a fee, usually through a separate account or cell"
+"Only I",
+"Only II",
+"Only III",
+"II and III",
+"I, II and III"
 ],
-"a": 3,
-"e": "Rent-a-captives allow firms too small to set up their own captive to access captive benefits by renting a cell; protected cell companies are a common legal form."
+"a": 4,
+"e": "Correct answer: I, II and III (from the IC86 question bank)."
 },
 {
 "n": 20,
-"topic": "Risk Identification",
-"t": "A general insurer identifies that 40% of its motor premium comes from one large fleet client. This is an example of:",
+"topic": "Risk Management",
+"t": "Identify the industrial disaster in which, 3,000 animals died, 70,000 slaughtered to prevent  dioxins entering food chain.",
 "o": [
-"Concentration risk",
-"Legal hazard",
-"Morale hazard",
-"Static risk"
+"Triangle Factory Fire New York (USA)",
+"Mina Mata Mercury Disaster (Japan)",
+"Seveso Dioxin Disaster (Italy)",
+"Bhopal Gas Disaster (India)",
+"Port Chicago disaster (USA)"
 ],
-"a": 0,
-"e": "★ Key fact (repeated across the mocks of this paper). Dependence on one client, region, line or counterparty creates concentration risk, which should be flagged in the risk register and managed through diversification.",
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Seveso Dioxin Disaster (Italy) (from the IC86 question bank).",
 "r": "key"
 },
 {
 "n": 21,
-"topic": "Risk Financing and Alternative Risk Transfer",
-"t": "Which of the following is an advantage of forming a captive insurer?",
+"topic": "Risk Management",
+"t": "As Shimpi explains, \"the term ___________ recognises that each form of capital carries some risk of the firm and can therefore be thought of as insurance or a derivative.",
 "o": [
-"It gives direct access to the reinsurance market and allows premiums to reflect the parent's own loss experience",
-"It eliminates the need for any reinsurance",
-"It removes all risk from the parent's balance sheet",
-"It guarantees lower overall cost of risk in every year"
+"Finite risk Reinsurance",
+"Insuratisation",
+"Credit Securatisation",
+"Alternative Risk Transfer",
+"Insurative"
 ],
-"a": 0,
-"e": "Captives can buy reinsurance directly at wholesale terms and retain underwriting profit from good experience; risk remains within the group and bad years can be costly."
+"a": 4,
+"e": "Correct answer: Insurative (from the IC86 question bank)."
 },
 {
 "n": 22,
-"topic": "Risk Financing and Alternative Risk Transfer",
-"t": "A company retains a layer of ₹50 lakh per loss and buys insurance above it. Its loss history shows 3 losses of ₹20 lakh, 1 loss of ₹80 lakh and 1 loss of ₹1.2 crore in a year. The total amount retained by the company for the year is:",
+"topic": "Risk Management",
+"t": "Risk exposure to employees, managers, board members, etc. is which type of risk exposure? <BR><BR>I. Physical Assets Exposure <BR>II. Financial Assets Exposure <BR>III. Human Assets Exposure <BR>IV. Legal Liability Exposure",
 "o": [
-"₹1.6 crore",
-"₹1.1 crore",
-"₹60 lakh",
-"₹2.6 crore"
+"Only I",
+"Only II",
+"Only III",
+"II and III",
+"I and II"
 ],
-"a": 0,
-"e": "Retained: 3 x ₹20 lakh = ₹60 lakh (below retention), plus ₹50 lakh on the ₹80 lakh loss and ₹50 lakh on the ₹1.2 crore loss = ₹1.6 crore; the insurer pays ₹30 lakh + ₹70 lakh."
+"a": 2,
+"e": "Correct answer: Only III (from the IC86 question bank)."
 },
 {
 "n": 23,
-"topic": "Enterprise Risk Management, ISO 31000 and COSO",
-"t": "Which of the following best distinguishes Enterprise Risk Management from traditional risk management?",
+"topic": "Risk Management",
+"t": "The new rules introduced by London Stock Exchange are based on the ________________ covering financial aspects of corporate governance that would apply to publicly held companies.",
 "o": [
-"ERM deals only with insurable hazard risks",
-"ERM takes a holistic, integrated view of all risks (strategic, operational, financial, hazard) across the organisation, linked to objectives",
-"ERM is performed solely by the insurance department",
-"ERM ignores upside opportunities"
+"Hampel Committee",
+"Bank for International Settlements",
+"Basel Capital Accord",
+"Cadbury Committees Code of Best Practice",
+"Combined Code"
 ],
-"a": 1,
-"e": "ERM integrates risk across silos and links it to strategy and value creation, including opportunity; traditional risk management focused mainly on insurable hazard risks."
+"a": 3,
+"e": "Correct answer: Cadbury Committees Code of Best Practice (from the IC86 question bank)."
 },
 {
 "n": 24,
-"topic": "Enterprise Risk Management, ISO 31000 and COSO",
-"t": "The risk management process in ISO 31000 includes 'risk assessment', which comprises:",
+"topic": "Risk Management",
+"t": "Loss due to burglary. This is an example of which kind of risk? <br><bR>I. Physical Risk <br>II. Social Risk <br>III. Market Risk",
 "o": [
-"Risk identification, risk analysis and risk evaluation",
-"Risk avoidance, risk reduction and risk transfer",
-"Communication, consultation and monitoring",
-"Planning, implementation and audit"
+"Only I",
+"Only II",
+"Only III",
+"I and III",
+"I and II"
 ],
-"a": 0,
-"e": "In ISO 31000, risk assessment is the overall process of identification, analysis and evaluation; treatment, monitoring and communication are separate elements of the process."
+"a": 1,
+"e": "Correct answer: Only II (from the IC86 question bank)."
 },
 {
 "n": 25,
-"topic": "Enterprise Risk Management, ISO 31000 and COSO",
-"t": "A listed Indian company's board approves a policy that no single business line may contribute more than 30% of group revenue, to limit concentration risk. In ERM terms this is an example of:",
+"topic": "Risk Management",
+"t": "Taking a Rs. 10,000 deductible on the machinery insurance policy is an example of__________.",
 "o": [
-"A key risk indicator",
-"A risk tolerance limit",
-"A residual risk score",
-"A risk register entry"
+"Risk avoidance",
+"Loss reduction",
+"Risk assumption",
+"Risk transfer",
+"Hedging"
 ],
-"a": 1,
-"e": "★ Key fact (repeated across the mocks of this paper). A quantitative boundary expressing the acceptable level of a specific risk is a risk tolerance limit; a KRI is a metric monitored to give early warning rather than a limit itself.",
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Risk assumption (from the IC86 question bank).",
 "r": "key"
 },
 {
 "n": 26,
-"topic": "Enterprise Risk Management, ISO 31000 and COSO",
-"t": "Which statement about ISO 31000 is correct?",
+"topic": "Risk Management",
+"t": "Which of the following is/are a basic elements of a valid contract?<BR> <BR>I. Offer and acceptance <BR>II. Legality of purpose <BR>III. Consideration",
 "o": [
-"It provides principles and generic guidelines on risk management and is not intended for certification",
-"It is a certifiable management-system standard like ISO 9001",
-"It applies only to financial institutions",
-"It replaces COSO as a legal requirement in India"
+"I and II",
+"II and III",
+"I and III",
+"I, II and III",
+"Only I"
 ],
-"a": 0,
-"e": "ISO 31000 is a guidance standard applicable to any organisation; it does not contain requirements against which certification can be granted."
+"a": 3,
+"e": "Correct answer: I, II and III (from the IC86 question bank)."
 },
 {
 "n": 27,
-"topic": "Enterprise Risk Management, ISO 31000 and COSO",
-"t": "The original COSO ERM Integrated Framework (2004) depicted ERM as a cube with eight components. Which of the following is one of those components?",
+"topic": "Risk Management",
+"t": "Identify which one the following is not an example of a economic peril. Choose the most  appropriate option.",
 "o": [
-"Capital adequacy",
-"Reinsurance programme",
-"Solvency margin",
-"Event identification"
+"Currency fluctuation",
+"Changes in consumer behaviour",
+"Consequences of riots",
+"Technological advances",
+"Terrorism"
 ],
-"a": 3,
-"e": "The eight components were internal environment, objective setting, event identification, risk assessment, risk response, control activities, information & communication, and monitoring."
+"a": 4,
+"e": "Correct answer: Terrorism (from the IC86 question bank)."
 },
 {
 "n": 28,
-"topic": "Enterprise Risk Management, ISO 31000 and COSO",
-"t": "A Chief Risk Officer (CRO) in an ERM framework should ideally:",
+"topic": "Risk Management",
+"t": "Which among the following can be termed as benefits of risk management? <br><br>I.  Reduced costs of risk <br>II. Lowered adverse effect from exposure to losses <br>III. Reduced waste of resources",
 "o": [
-"Report only to the head of internal audit",
-"Have direct access to the board or its risk committee and be independent of business line targets",
-"Be responsible for achieving the sales budget",
-"Own all risks in the organisation personally"
+"I and II",
+"I and III",
+"II and III",
+"Only III",
+"I, II and III"
 ],
-"a": 1,
-"e": "The CRO coordinates the risk framework and reports to the board/risk committee to preserve independence; individual risks are owned by business managers, not the CRO."
+"a": 4,
+"e": "Correct answer: I, II and III (from the IC86 question bank)."
 },
 {
 "n": 29,
-"topic": "Financial and Operational Risk Management",
-"t": "Credit risk for a general insurer arises mainly from:",
+"topic": "Risk Management",
+"t": "Flow charts can be prepared only relating to the financial aspect of an organisation. Debate. Choose the most appropriate option.",
 "o": [
-"Changes in equity prices",
-"Inadequate claims reserves",
-"Failure of reinsurers, intermediaries or bond issuers to meet their obligations",
-"Errors in policy issuance"
+"This statement is right",
+"This statement is wrong",
+"This statement is partially right",
+"Flow charts can be prepared relating to only marke",
+"In any organisation, flow chats can be prepared on many different aspects like materials flow, accounting flow, marketing flow, distribution flow or flow of utility services"
 ],
-"a": 2,
-"e": "Credit (counterparty) risk is the risk of default by parties owing money to the insurer, notably reinsurers on recoverables and issuers of debt instruments held."
+"a": 4,
+"e": "Correct answer: In any organisation, flow chats can be prepared on many different aspects like materials flow, accounting flow, marketing flow, distribution flow or flow of utility services (from the IC86 question bank)."
 },
 {
 "n": 30,
-"topic": "Financial and Operational Risk Management",
-"t": "Which of the following is an example of 'liquidity risk' for an insurance company?",
+"topic": "Risk Management",
+"t": "_____________ a licensed insurance company established by is a non-insurance parent company to  insure the risks of the parent company, its affiliates or other entities doing business closely with the parent company.",
 "o": [
-"Equity markets fall by 20%",
-"A sudden surge in catastrophe claims forces the insurer to sell investments at a loss to pay claims promptly",
-"A reinsurer becomes insolvent",
-"Premiums are under-priced for a new product"
+"Insurance pool",
+"Contingent capital",
+"Captive Insurer",
+"Self-insurance",
+"Securitisation"
 ],
-"a": 1,
-"e": "Liquidity risk is the inability to meet cash obligations as they fall due without incurring unacceptable losses on asset sales; the other options are market, credit and underwriting risks."
+"a": 2,
+"e": "Correct answer: Captive Insurer (from the IC86 question bank)."
 },
 {
 "n": 31,
-"topic": "Financial and Operational Risk Management",
-"t": "A company holds a ₹10 crore equity portfolio with an estimated daily volatility (standard deviation) of 1.5%. Using a one-tailed 99% confidence factor of 2.33 under the normal distribution, the one-day VaR is approximately:",
+"topic": "Risk Management",
+"t": "Under a risk management programme, which phase in an event is concerned with containing the effects of any damaging or harmful incident?",
 "o": [
-"₹15 lakh",
-"₹35 lakh",
-"₹23 lakh",
-"₹1.5 crore"
+"Pre event",
+"During event",
+"Post event",
+"Start up phase",
+"Reporting phase"
 ],
 "a": 1,
-"e": "VaR = portfolio value x z x sigma = ₹10 crore x 2.33 x 0.015 = ₹0.3495 crore, i.e. about ₹35 lakh."
+"e": "Correct answer: During event (from the IC86 question bank)."
 },
 {
 "n": 32,
-"topic": "Financial and Operational Risk Management",
-"t": "Which of the following is a typical operational risk event for an insurer?",
+"topic": "Risk Management",
+"t": "Define market risk.",
 "o": [
-"A rise in interest rates reducing bond values",
-"A fall in the rupee against the dollar",
-"A rogue employee misappropriating premium collections",
-"A reinsurer delaying claim settlement due to insolvency"
+"The risk arising due to price reduction or the purchase and sale constraints are involved is known as market risk.",
+"When there is existence of a chance of loss only,",
+"When there is a chance of gain as well a loss it i",
+"The risk which is connected with losses caused by",
+"The risk which is associated with changes in human"
 ],
-"a": 2,
-"e": "Internal fraud is a classic operational risk event category; interest rate and currency movements are market risks, and reinsurer insolvency is credit risk."
+"a": 0,
+"e": "Correct answer: The risk arising due to price reduction or the purchase and sale constraints are involved is known as market risk. (from the IC86 question bank)."
 },
 {
 "n": 33,
-"topic": "Financial and Operational Risk Management",
-"t": "A 'put option' purchased on an equity index by an insurer with a large equity portfolio serves to:",
+"topic": "Risk Management",
+"t": "Which of the following values indicate the state of absolute certainty of the probability of occurrence of an event? <BR><br>I. Zero <br>II. One <br>III. Two",
 "o": [
-"Increase exposure to a rising market",
-"Provide protection against a fall in the market below the strike level, at the cost of the premium",
-"Eliminate credit risk on bonds",
-"Fix the yield on future bond purchases"
+"Only I",
+"Only II",
+"I, II and III",
+"II and III",
+"Only III"
 ],
 "a": 1,
-"e": "A put option gives the right to sell at the strike price, so it acts like insurance against a market decline; the premium paid is the cost of the hedge."
+"e": "Correct answer: Only II (from the IC86 question bank)."
 },
 {
 "n": 34,
-"topic": "Business Continuity Management",
-"t": "'Maximum Tolerable Period of Disruption' (MTPD) refers to:",
+"topic": "Risk Management",
+"t": "There was a gas leak after working hours, which was repaired after some hours. Which phase of  disaster is appropriate in this situation?",
 "o": [
-"The time after which the backup generator fails",
-"The period over which data backups are retained",
-"The scheduled duration of a BCP drill",
-"The longest time a critical activity can be unavailable before the organisation's viability is irreparably threatened"
+"Crisis phase",
+"Emergency response phase",
+"Recovery phase",
+"Restoration phase",
+"Impact phase"
 ],
-"a": 3,
-"e": "MTPD (or maximum acceptable outage) sets the outer limit for disruption; the RTO must be set shorter than the MTPD to be meaningful."
+"a": 1,
+"e": "Correct answer: Emergency response phase (from the IC86 question bank)."
 },
 {
 "n": 35,
-"topic": "Business Continuity Management",
-"t": "Which of the following best distinguishes a Disaster Recovery Plan (DRP) from a Business Continuity Plan (BCP)?",
+"topic": "Risk Management",
+"t": "Emergency, disaster and catastrophe - all these terms are _________ frequency ________ severity risks.",
 "o": [
-"DRP covers the whole organisation; BCP covers only IT",
-"DRP is required by IRDAI; BCP is optional",
-"DRP focuses mainly on restoring IT systems and data; BCP covers continuity of all critical business functions",
-"DRP is tested annually; BCP is never tested"
+"High low",
+"Low high",
+"Low low",
+"High high",
+"High moderate"
 ],
-"a": 2,
-"e": "The DRP is typically the technology recovery component within the wider BCP, which addresses people, premises, processes and suppliers."
+"a": 1,
+"e": "Correct answer: Low high (from the IC86 question bank)."
 },
 {
-"topic": "IRDAI – regulator",
-"t": "The permitted limit of foreign direct investment in an Indian insurance company is currently:",
+"topic": "Reinsurance",
+"t": "The obligatory cession that Indian general insurers must make to GIC Re is currently:",
 "o": [
-"26%",
-"49%",
-"74%",
-"100%"
+"4%",
+"5%",
+"10%",
+"15%"
 ],
-"a": 2,
-"e": "★ Core fact (asked across III papers). Raised from 49% to 74% by the Insurance (Amendment) Act 2021; intermediaries may have 100%.",
+"a": 0,
+"e": "★ Core fact (asked across III papers). The obligatory cession was reduced to 4% from 1 April 2022.",
 "r": "core",
 "n": 36
 },
 {
 "n": 37,
-"topic": "Business Continuity Management",
-"t": "During a Business Impact Analysis, a process is found to cause a loss of ₹25 lakh per day if stopped, and management fixes its RTO at 2 days. The potential loss the plan is designed to cap at the RTO is:",
+"topic": "Risk Management",
+"t": "____________ means building up the dual structure of the undertaking, both  material and human.",
 "o": [
-"₹50 lakh",
-"₹25 lakh",
-"₹12.5 lakh",
-"₹75 lakh"
+"Manage",
+"Foresee",
+"Organise",
+"Compare",
+"Coordinate"
 ],
-"a": 0,
-"e": "Loss at RTO = ₹25 lakh per day x 2 days = ₹50 lakh; a shorter RTO would reduce the loss but increase the cost of recovery arrangements."
+"a": 2,
+"e": "Correct answer: Organise (from the IC86 question bank)."
 },
 {
 "n": 38,
-"topic": "Business Continuity Management",
-"t": "Which of the following is the most effective way to validate a business continuity plan?",
+"topic": "Risk Management",
+"t": "While using loss experience statistics, for risk assessment, corrections will be required to  obtain realistic figures, for which of the following factors?<BR><BR> I. Inflation <BR>II. Exposure in units <BR>III. Change  in legislation",
 "o": [
-"Filing the plan with the insurer",
-"Conducting periodic exercises and tests such as walk-throughs, simulations and full rehearsals",
-"Publishing the plan on the company website",
-"Increasing the business interruption sum insured"
+"Only I",
+"Only II",
+"Only III",
+"II and III",
+"I, II and III"
 ],
-"a": 1,
-"e": "Plans must be exercised to confirm that people, procedures and alternate facilities work as intended; untested plans frequently fail during real incidents."
+"a": 4,
+"e": "Correct answer: I, II and III (from the IC86 question bank)."
 },
 {
 "n": 39,
-"topic": "Business Continuity Management",
-"t": "In BCM terminology, a 'warm site' is:",
+"topic": "Risk Management",
+"t": "The likelihood of marriage of 'A' is impossible. Which value shall be assigned to the probability of occurrence of the above said event? <BR> <BR>I. Zero <BR>II. One <BR>III. Two",
 "o": [
-"A partially equipped facility with hardware and connectivity where data and staff must be brought in to resume operations within hours or days",
-"A fully operational duplicate facility with live data replication",
-"An empty building with only power and air-conditioning",
-"A mobile van with communication equipment"
+"Only I",
+"Only II",
+"I, II and III",
+"II and III",
+"Only III"
 ],
 "a": 0,
-"e": "A warm site sits between a hot site (immediate takeover) and a cold site (bare space) in both readiness and cost."
+"e": "Correct answer: Only I (from the IC86 question bank)."
 },
 {
 "n": 40,
-"topic": "Risk Management in Insurance Companies and IRDAI Governance",
-"t": "For a non-life insurer, 'underwriting risk' most directly refers to the risk that:",
+"topic": "Risk Management",
+"t": "The basic elements of any loss exposure comprise of:- <BR> <BR>I. Values exposed to loss <BR>II. Perils causing loss  <BR>III. Financial consequences of loss",
 "o": [
-"Premiums charged and reserves held prove inadequate to meet actual claims and expenses",
-"Investments earn less than expected",
-"The insurer's IT system fails",
-"A reinsurer defaults"
+"I and II",
+"II and III",
+"I and III",
+"Only II",
+"I, II and III"
 ],
-"a": 0,
-"e": "Underwriting (insurance) risk arises from mis-pricing, adverse claims experience, catastrophe accumulation and inadequate reserving; the other options are investment, operational and credit risks."
+"a": 4,
+"e": "Correct answer: I, II and III (from the IC86 question bank)."
 },
 {
 "n": 41,
-"topic": "Risk Management in Insurance Companies and IRDAI Governance",
-"t": "A general insurer has net earned premium of ₹800 crore, net incurred claims of ₹600 crore and net operating expenses plus commission of ₹240 crore. Its combined ratio is:",
+"topic": "Risk Management",
+"t": "Which of the following are the advantages of  the hazard and operability (HAZOP) Study of risk identification? <BR><br>I. This method can be used for all sorts of industries <br>II. This method can be employed at the planning and design stage of a project <br>III. HAZOP provides a qualitative approach to risk identification",
 "o": [
-"75%",
-"95%",
-"130%",
-"105%"
+"Only I",
+"Only II",
+"Only III",
+"II and III",
+"I, II and III"
 ],
 "a": 3,
-"e": "Combined ratio = (600 + 240) / 800 = 105%; a ratio above 100% indicates an underwriting loss before investment income."
+"e": "Correct answer: II and III (from the IC86 question bank)."
 },
 {
 "n": 42,
-"topic": "Risk Management in Insurance Companies and IRDAI Governance",
-"t": "Under the IRDAI corporate governance framework, the Chief Risk Officer of an insurer is:",
+"topic": "Risk Management",
+"t": "For the purpose of determining property loss exposures, property is divided into real and personal  property. The following are examples of personal property, except:-",
 "o": [
-"A Key Management Person responsible for the risk management function, reporting to the Risk Management Committee",
-"An optional position that may be combined with the Chief Financial Officer",
-"A board member nominated by the promoter",
-"The same person as the Appointed Actuary"
+"Money",
+"Aircraft",
+"Machines",
+"Buildings",
+"Supplies"
 ],
-"a": 0,
-"e": "IRDAI treats the CRO as a Key Management Person heading an independent risk function with reporting to the board-level Risk Management Committee."
+"a": 3,
+"e": "Correct answer: Buildings (from the IC86 question bank)."
 },
 {
 "n": 43,
-"topic": "Risk Management in Insurance Companies and IRDAI Governance",
-"t": "An insurer's board wants an independent review of whether the insurer's capital is adequate for its own risk profile and business plan over the planning horizon. This exercise is known as:",
+"topic": "Risk Management",
+"t": "Which of the following statements are true about the organisation charts method of risk identification? <BR><br>I. This method helps pinpointing the \"risk areas\" <br>II. These charts help in understanding the group, group companies and their management structures <br>III. The charts demonstrate level of responsibilities for various tasks, communication links, interdependencies",
 "o": [
-"Statutory audit",
-"Own Risk and Solvency Assessment (ORSA)",
-"Tariff Advisory Committee review",
-"Policyholder protection review"
+"Only I",
+"I and III",
+"I, II and III",
+"II and III",
+"I and II"
 ],
-"a": 1,
-"e": "ORSA is the insurer's own forward-looking assessment of risks and solvency needs, a core element of ERM for insurers under IAIS Insurance Core Principle 16."
+"a": 2,
+"e": "Correct answer: I, II and III (from the IC86 question bank)."
 },
 {
 "n": 44,
-"topic": "Risk Management in Insurance Companies and IRDAI Governance",
-"t": "A catastrophe excess of loss (Cat XL) reinsurance treaty primarily protects the ceding insurer against:",
+"topic": "Risk Management",
+"t": "_________ is a comprehensive statement of consistent actions to be taken before, during and after a disaster.",
 "o": [
-"A single large individual claim on one policy",
-"Low investment yield",
-"Adverse development of long-tail liability reserves",
-"Accumulation of many claims from one event such as a cyclone or earthquake"
-],
-"a": 3,
-"e": "Cat XL responds when aggregate losses from one event exceed the retention; a risk XL covers large individual risks and stop-loss protects the overall loss ratio."
-},
-{
-"topic": "Policyholder protection",
-"t": "Under the IRDAI (Protection of Policyholders' Interests) Regulations 2024, the free-look period for a policy with a term of one year or more is:",
-"o": [
-"15 days",
-"30 days",
-"45 days",
-"60 days"
+"Disaster recovery plan",
+"Business continuity plan",
+"Business strategy plan",
+"Business optimisation plan",
+"Strategy implementation plan"
 ],
 "a": 1,
-"e": "★ Core fact (asked across III papers). 30 days from receipt of the policy document, irrespective of the sales channel.",
+"e": "Correct answer: Business continuity plan (from the IC86 question bank)."
+},
+{
+"topic": "Principles",
+"t": "The principle that allows an insurer who has paid a claim to step into the insured's shoes and recover from a liable third party is:",
+"o": [
+"Contribution",
+"Subrogation",
+"Indemnity",
+"Proximate cause"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). Subrogation is a corollary of indemnity; it does not apply to life or personal accident (benefit) policies.",
 "r": "core",
 "n": 45
 },
 {
 "n": 46,
-"topic": "Insurance as a Risk Management Tool",
-"t": "From the insured's perspective, insurance is best described as a:",
+"topic": "Risk Management",
+"t": "Cooling plant failure is an example of ___________.",
 "o": [
-"Risk control technique that reduces the frequency of loss",
-"Method of eliminating hazards",
-"Risk avoidance technique",
-"Risk financing technique that transfers the financial consequences of loss to the insurer for a premium"
+"Deliberate disruption",
+"Environmental disaster",
+"Loss of utilities and services",
+"Equipment failure"
 ],
 "a": 3,
-"e": "Insurance does not reduce the chance of loss; it funds the loss by transfer, which places it in the financing category of risk management techniques."
+"e": "Correct answer: Equipment failure (from the IC86 question bank)."
 },
 {
 "n": 47,
-"topic": "Insurance as a Risk Management Tool",
-"t": "Which of the following statements about 'adverse selection' is correct?",
+"topic": "Risk Management",
+"t": "For a firm, risk management is the primary responsibility of which of the following executives? <br><br>I.  Auditor <br>II. Risk Manager <br>III. Chairman",
 "o": [
-"It is the tendency of persons with higher-than-average loss probability to seek insurance at standard rates",
-"It occurs when insurers deliberately select only the best risks",
-"It refers to the insurer's rejection of claims",
-"It is eliminated by the law of large numbers"
+"I and II",
+"I and III",
+"II and III",
+"Only II",
+"I, II and III"
 ],
-"a": 0,
-"e": "Adverse selection (anti-selection) is controlled through underwriting, classification and policy conditions; the law of large numbers does not address it."
+"a": 3,
+"e": "Correct answer: Only II (from the IC86 question bank)."
 },
 {
 "n": 48,
-"topic": "Insurance as a Risk Management Tool",
-"t": "A company insures its plant for ₹10 crore at a rate of 0.25% and opts for a voluntary deductible that earns a 10% premium discount. The net annual premium (before taxes) is:",
+"topic": "Risk Management",
+"t": "Which perils do not involve human intervention?",
 "o": [
-"₹25 lakh",
-"₹2.50 lakh",
-"₹2.75 lakh",
-"₹2.25 lakh"
+"Human perils",
+"Natural perils",
+"Economic perils",
+"Social perils",
+"Political perils"
 ],
-"a": 3,
-"e": "Base premium = ₹10 crore x 0.25% = ₹2.50 lakh; less 10% discount = ₹2.25 lakh."
+"a": 1,
+"e": "Correct answer: Natural perils (from the IC86 question bank)."
 },
 {
 "n": 49,
-"topic": "Insurance as a Risk Management Tool",
-"t": "Which of the following is a reason why a risk manager might choose NOT to insure a risk even though insurance is available?",
+"topic": "Risk Management",
+"t": "In a checklist, where answer to a question is \"N\", what is required to be done?<BR><BR> I. Left  Blank <BR>II. Add a descriptive note on that item to include explanation and corrective action <BR>III. Explanation to be  given to supervisor by email",
 "o": [
-"The firm lacks the financial capacity to absorb the loss",
-"The risk is of low frequency and catastrophic severity",
-"The premium exceeds the expected loss plus the value of risk reduction to the firm",
-"The firm's lenders require insurance cover"
+"Only I",
+"Only II",
+"Only III",
+"I and II",
+"I, II and III"
 ],
-"a": 2,
-"e": "Where premium loading greatly exceeds the expected loss and the firm can absorb the loss, retention is rational; the other situations argue in favour of insurance."
+"a": 1,
+"e": "Correct answer: Only II (from the IC86 question bank)."
 },
 {
 "n": 50,
-"topic": "Insurance as a Risk Management Tool",
-"t": "Under the Insurance Act, 1938, a loss above the prescribed threshold under a general insurance policy must be assessed by:",
+"topic": "Risk Management",
+"t": "The following are the examples of human perils except:-",
 "o": [
-"The policyholder's own chartered accountant",
-"A licensed surveyor and loss assessor under Section 64UM",
-"The Insurance Ombudsman",
-"The Tariff Advisory Committee"
+"Electrical overload",
+"Terrorism",
+"Nuclear fission",
+"Arson",
+"Recession"
 ],
-"a": 1,
-"e": "Section 64UM requires licensed surveyors and loss assessors to report on claims above the threshold notified by IRDAI, supporting objective claims assessment."
+"a": 4,
+"e": "Correct answer: Recession (from the IC86 question bank)."
 }
 ]
