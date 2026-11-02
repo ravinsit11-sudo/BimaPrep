@@ -363,7 +363,7 @@ footer .wrap{display:flex;gap:1rem;flex-wrap:wrap;justify-content:space-between}
 
 </main>
 
-<footer><div class="wrap"><span>© BimaPrep · bimaprep.in · <small style="opacity:.6">v15</small> · <a href="#legal">Privacy · Terms · Refunds</a> · Not affiliated with IRDAI, III or any insurer</span><span>Sources: Insurance Act 1938 · IRDA Act 1999 · IRDAI regulations & master circulars 2024 · PMFBY Operational Guidelines 2023</span></div></footer>
+<footer><div class="wrap"><span>© BimaPrep · bimaprep.in · <small style="opacity:.6">v16</small> · <a href="#legal">Privacy · Terms · Refunds</a> · Not affiliated with IRDAI, III or any insurer</span><span>Sources: Insurance Act 1938 · IRDA Act 1999 · IRDAI regulations & master circulars 2024 · PMFBY Operational Guidelines 2023</span></div></footer>
 
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js"></script>
 <script>
@@ -2743,10 +2743,10 @@ const TESTS=[
 // ---------- full-length subject mocks (100 Q, 120 min) loaded from bank/*.json ----------
 // SUBJECTS and PLANS are loaded from catalog.json at boot (single source of truth, shared with the server)
 let SUBJECTS=[], PLANS=[], CATALOG={days:90,packs:[],subjects:[]};
-const mocksFor=id=>[1,2,3,4,5].map(i=>({id:`${id}_m${i}`,title:`Mock ${i}`,file:`bank/${id}_m${i}.json`}));
+const mocksFor=(id,n)=>Array.from({length:n||5},(_,k)=>k+1).map(i=>({id:`${id}_m${i}`,title:`Mock ${i}`,file:`bank/${id}_m${i}.json`}));
 function loadCatalog(c){
   CATALOG=c;
-  SUBJECTS=c.subjects.map(x=>({...x,pack:x.pack||x.id,mocks:mocksFor(x.id)}));
+  SUBJECTS=c.subjects.map(x=>({...x,pack:x.pack||x.id,mocks:mocksFor(x.id,x.mocks)}));
   PLANS=[
     ...c.packs.map(p=>({...p,tests:p.id==='licentiate'?['ic01','life','reg']:p.id==='ic38'?['ic01','reg']:[],bullets:[p.desc||''],pop:p.id==='pe_all'})),
     ...c.subjects.filter(x=>!x.pack).map(x=>({id:x.id,name:`${x.code} ${x.name}`,price:x.price,level:x.level,group:x.group,ready:!!x.ready,also_in:x.also_in,tests:[],bullets:[]}))
@@ -2882,7 +2882,7 @@ function renderPlans(){
   document.getElementById('planList').innerHTML=bundles.map(p=>`<div class="card plan ${p.pop?'pop':''}"><h3>${esc(p.name)}</h3><div class="price">₹${p.price} <small>/ 3 months</small></div><ul>${p.bullets.filter(Boolean).map(b=>`<li>${esc(b)}</li>`).join('')}<li>Explanations for every answer and result history</li></ul>${planBtn(p)}</div>`).join('');
   const levels=[{L:'Associateship',price:499,note:'Core papers (choose one from each pair as per III rules) and optional papers. ₹499 per paper · 5 full-syllabus mocks of 50 questions · 3 months.'},{L:'Fellowship',price:699,note:'40-credit papers and the actuarial compulsory papers. ₹699 per paper · 5 full-syllabus mocks of 50 questions · 3 months.'},{L:'Promotion Exam',price:499,note:'For the departmental promotion exam of PSU general insurers (Scale I–II). Questions are built from the trainers\' own material — Motor, Reinsurance, Accounts and Legal. ₹499 per paper, or all four for ₹1,499 (above).'}];
   document.getElementById('subjectPlans').innerHTML=levels.map(({L,note})=>{const subs=PLANS.filter(p=>p.level===L&&p.id!=='pe_all');const groups=[...new Set(subs.map(p=>p.group))];
-    return `<h2 style="margin-top:1.8rem">${L} papers · subject-wise</h2><p style="color:var(--muted);font-size:.93rem">${note}</p>${groups.map(g=>`<h3 style="margin:1rem 0 .4rem;font-size:1rem;color:var(--muted)">${esc(g)}</h3><div class="tablewrap"><table><tbody>${subs.filter(p=>p.group===g).map(p=>`<tr><td style="white-space:nowrap;font-family:var(--mono)">${esc(p.name.split(' ')[0])}</td><td>${esc(p.name.split(' ').slice(1).join(' '))}${p.ready?'':' <span class="pill tag-paid">coming soon</span>'}</td><td class="num">₹${p.price}</td><td style="text-align:right">${planBtn(p)}</td></tr>`).join('')}</tbody></table></div>`).join('')}`}).join('');
+    return `<h2 style="margin-top:1.8rem">${L} papers · subject-wise</h2><p style="color:var(--muted);font-size:.93rem">${note}</p>${groups.map(g=>`<h3 style="margin:1rem 0 .4rem;font-size:1rem;color:var(--muted)">${esc(g)}</h3><div class="tablewrap"><table><tbody>${subs.filter(p=>p.group===g).map(p=>`<tr><td style="white-space:nowrap;font-family:var(--mono)">${esc(p.name.split(' ')[0])}</td><td>${esc(p.name.split(' ').slice(1).join(' '))}${p.ready?` <small style="color:var(--muted)">· ${(SUBJECTS.find(x=>x.id===p.id)||{mocks:[]}).mocks.length} mocks</small>`:' <span class="pill tag-paid">coming soon</span>'}</td><td class="num">₹${p.price}</td><td style="text-align:right">${planBtn(p)}</td></tr>`).join('')}</tbody></table></div>`).join('')}`}).join('');
   document.querySelectorAll('[data-buy]').forEach(b=>b.addEventListener('click',()=>buy(b.dataset.buy)));
 }
 function buy(pid){
@@ -2962,7 +2962,7 @@ function renderTests(){
   const levels=['Licentiate','Associateship','Fellowship','Promotion Exam'];
   const colorOf=c=>({'IC-02':'life','IC-11':'property','IC-14':'reg','IC-27':'health','IC-72':'motor','IC-71':'crop','IC-57':'property'})[c]||'ic01';
   document.getElementById('subjectList').innerHTML=levels.map(L=>{const subs=SUBJECTS.filter(x=>x.level===L);if(!subs.length)return '';
-    return `<h2 style="margin-top:1.6rem">${L} · subject-wise mock papers</h2><p style="color:var(--muted);font-size:.93rem">50 questions · 60 minutes · 60% to pass. Five mocks per subject; each mock covers the whole syllabus of that paper. The paper's key facts recur across its mocks, and the regulatory basics common to all III papers recur across papers — by design, so they stick.${L==='Licentiate'?'':L==='Promotion Exam'?' Sold per paper or as a 4-paper pack.':' Sold per subject.'}</p><div class="grid g2">${subs.map(sub=>{const pk=PLANS.find(p=>p.id===sub.pack);const ok=ents.some(e=>e.pack===sub.pack||(sub.also_in&&e.pack===sub.also_in));
+    return `<h2 style="margin-top:1.6rem">${L} · subject-wise mock papers</h2><p style="color:var(--muted);font-size:.93rem">50 questions · 60 minutes · 60% to pass. Five or more mocks per subject (up to 17 where the bank is large); each mock covers the whole syllabus of that paper. The paper's key facts recur across its mocks, and the regulatory basics common to all III papers recur across papers — by design, so they stick.${L==='Licentiate'?'':L==='Promotion Exam'?' Sold per paper or as a 4-paper pack.':' Sold per subject.'}</p><div class="grid g2">${subs.map(sub=>{const pk=PLANS.find(p=>p.id===sub.pack);const ok=ents.some(e=>e.pack===sub.pack||(sub.also_in&&e.pack===sub.also_in));
       const body=!sub.ready?`<p class="note" style="margin-top:.5rem">Mock papers for this subject are being prepared. ${pk?`<button class="btn ghost sm" data-unlock="${sub.pack}">Notify me</button>`:''}</p>`:
         `<div style="display:flex;flex-wrap:wrap;gap:.5rem;margin-top:.5rem">${sub.mocks.map(m=>{const b=best(m.id);return ok?`<button class="btn sm ghost" data-mock="${m.id}" ${user?'':'disabled'}>${m.title}${b===null?'':' · '+b+'%'}</button>`:`<span class="pill tag-paid">${m.title} · locked</span>`}).join('')}</div>${ok?'':`<div style="margin-top:.9rem"><button class="btn sm" data-unlock="${sub.pack}" style="background:var(--saffron)">${live?'Unlock':'Coming soon ·'} ${esc(pk?pk.name:'')} · ₹${pk?pk.price:''}</button></div>`}`;
       return `<div class="card c-${colorOf(sub.code)}"><div class="eyebrow">${sub.code}${sub.group?' · '+esc(sub.group):''}</div><h3>${esc(sub.name)}</h3>${body}</div>`}).join('')}</div>`}).join('');
