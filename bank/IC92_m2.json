@@ -16,6 +16,20 @@
 {
 "n": 2,
 "topic": "Actuarial Aspects of Product Development",
+"t": "Which one of the following statements is correct? If there is any ambiguity in the language used in a policy it will generally be construed?",
+"o": [
+"Against the insurer",
+"In favour of the insurer",
+"Against the broker",
+"In favour of the broker",
+"None of the above"
+],
+"a": 0,
+"e": "Correct answer: Against the insurer (from the IC92 question bank)."
+},
+{
+"n": 3,
+"topic": "Actuarial Aspects of Product Development",
 "t": "In Assurances, Events are defined _________________.",
 "o": [
 "before the issue of contract",
@@ -28,7 +42,7 @@
 "e": "Correct answer: before the issue of contract (from the IC92 question bank)."
 },
 {
-"n": 3,
+"n": 4,
 "topic": "Actuarial Aspects of Product Development",
 "t": "In Use and File' system, insurers can introduce the product in the market _________________.",
 "o": [
@@ -42,7 +56,7 @@
 "e": "Correct answer: after it is designed (from the IC92 question bank)."
 },
 {
-"n": 4,
+"n": 5,
 "topic": "Actuarial Aspects of Product Development",
 "t": "Expense in pricing could be:-",
 "o": [
@@ -56,7 +70,7 @@
 "e": "Correct answer: All  of them (from the IC92 question bank)."
 },
 {
-"n": 5,
+"n": 6,
 "topic": "Actuarial Aspects of Product Development",
 "t": "The reasons for requirement of Solvency Ratio greater than one can be described as:-",
 "o": [
@@ -70,7 +84,21 @@
 "e": "Correct answer: A' and 'B' only (from the IC92 question bank)."
 },
 {
-"n": 6,
+"n": 7,
+"topic": "Actuarial Aspects of Product Development",
+"t": "In case of variable insurance products, the insurer may levy guarantee charge, if any, provided the guarantee offered throughout the term of the policy is not less than ______ per annum.",
+"o": [
+"4%",
+"3%",
+"2%",
+"1%",
+"5%"
+],
+"a": 0,
+"e": "Correct answer: 4% (from the IC92 question bank)."
+},
+{
+"n": 8,
 "topic": "Actuarial Aspects of Product Development",
 "t": "With fall in the interest, what would be the impact on the premium rates of a term insurance policy?",
 "o": [
@@ -84,7 +112,7 @@
 "e": "Correct answer: Premium rate will increase (from the IC92 question bank)."
 },
 {
-"n": 7,
+"n": 9,
 "topic": "Actuarial Aspects of Product Development",
 "t": "What is utility of a product?",
 "o": [
@@ -98,7 +126,7 @@
 "e": "Correct answer: use derived from it (from the IC92 question bank)."
 },
 {
-"n": 8,
+"n": 10,
 "topic": "Actuarial Aspects of Product Development",
 "t": "Examples for  Sensitivity of profit affect product design are:-",
 "o": [
@@ -112,7 +140,7 @@
 "e": "Correct answer: All of the above (from the IC92 question bank)."
 },
 {
-"n": 9,
+"n": 11,
 "topic": "Actuarial Aspects of Product Development",
 "t": "Life insurance plans are combinations of two basic plans, viz.",
 "o": [
@@ -126,22 +154,7 @@
 "e": "Correct answer: Term Assurance, Pure Endowment (from the IC92 question bank)."
 },
 {
-"n": 10,
-"topic": "Actuarial Aspects of Product Development",
-"t": "Who among the following will be having highest pure premium for a 10 lakh sum assured 10 years term insurance plan?",
-"o": [
-"40 year old non-smoker male",
-"40 year old non-smoker female",
-"40 year old smoker male",
-"40 year old smoker female",
-"35 year old smoker male"
-],
-"a": 2,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: 40 year old smoker male (from the IC92 question bank).",
-"r": "key"
-},
-{
-"n": 11,
+"n": 12,
 "topic": "Actuarial Aspects of Product Development",
 "t": "If the age is 87, the number of lives is 177.017,  the death rate is 0.261, what will be the number of deaths?",
 "o": [
@@ -155,7 +168,7 @@
 "e": "Correct answer: 46.201 (from the IC92 question bank)."
 },
 {
-"n": 12,
+"n": 13,
 "topic": "Actuarial Aspects of Product Development",
 "t": "If Mr. Ram died of a road accident, which rider will provide him additional benefits?",
 "o": [
@@ -169,7 +182,7 @@
 "e": "Correct answer: Accident Benefit Rider (from the IC92 question bank)."
 },
 {
-"n": 13,
+"n": 14,
 "topic": "Actuarial Aspects of Product Development",
 "t": "For how many companies, an agent is allowed to work for in India?",
 "o": [
@@ -183,7 +196,7 @@
 "e": "Correct answer: None of the above (from the IC92 question bank)."
 },
 {
-"n": 14,
+"n": 15,
 "topic": "Actuarial Aspects of Product Development",
 "t": "Who approves life insurance products?",
 "o": [
@@ -197,7 +210,7 @@
 "e": "Correct answer: IRDA (from the IC92 question bank)."
 },
 {
-"n": 15,
+"n": 16,
 "topic": "Actuarial Aspects of Product Development",
 "t": "Policyholders would be interested in knowing:-",
 "o": [
@@ -211,7 +224,7 @@
 "e": "Correct answer: All A, B & C (from the IC92 question bank)."
 },
 {
-"n": 16,
+"n": 17,
 "topic": "Actuarial Aspects of Product Development",
 "t": "Class 3 occupational class may contain:-<br><br> 1. those in Chemical manufacturing<br> 2. Maintenance workers, Janitorial workers<br> 3. Electricians, plumbers, carpeting <br>4. Skilled craftsmen and tradesmen",
 "o": [
@@ -225,7 +238,7 @@
 "e": "Correct answer: All 4 (from the IC92 question bank)."
 },
 {
-"n": 17,
+"n": 18,
 "topic": "Actuarial Aspects of Product Development",
 "t": "Increase or decrease in reserves are examples of notional cashflow, ie where the flow:-",
 "o": [
@@ -239,7 +252,7 @@
 "e": "Correct answer: does not involve a physical exchange of money (from the IC92 question bank)."
 },
 {
-"n": 18,
+"n": 19,
 "topic": "Actuarial Aspects of Product Development",
 "t": "One of the important variables affecting profitability is ________________________.",
 "o": [
@@ -253,7 +266,7 @@
 "e": "Correct answer: the volume of sales (from the IC92 question bank)."
 },
 {
-"n": 19,
+"n": 20,
 "topic": "Actuarial Aspects of Product Development",
 "t": "If sum of the present value of expected benefit pay-outs is 150,000 and sum of all the expenses is 60,000, which of the following would be the approximate amount of sum of the present value of annual premiums for a 10 years term insurance policy?",
 "o": [
@@ -265,20 +278,6 @@
 ],
 "a": 0,
 "e": "Correct answer: Approximately Rs. 180,000 (from the IC92 question bank)."
-},
-{
-"n": 20,
-"topic": "Actuarial Aspects of Product Development",
-"t": "In case of a 'single premium' 10 years 'term insurance' policy, the policyholder dies in first year, what will happen?",
-"o": [
-"The nominee will get the sum assured along with re",
-"The nominee will get the sum assured",
-"The nominee will get the sum assured along with th",
-"None of the above"
-],
-"a": 1,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: The nominee will get the sum assured (from the IC92 question bank).",
-"r": "key"
 },
 {
 "n": 21,
@@ -339,21 +338,6 @@
 {
 "n": 25,
 "topic": "Actuarial Aspects of Product Development",
-"t": "Calculate the amount invested in unit fund if premium paid is Rs. 1,000 and allocation rate is 90%.",
-"o": [
-"900",
-"1000",
-"100",
-"1100",
-"1900"
-],
-"a": 0,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: 900 (from the IC92 question bank).",
-"r": "key"
-},
-{
-"n": 26,
-"topic": "Actuarial Aspects of Product Development",
 "t": "What properties insurable interest has?",
 "o": [
 "Definite relationship between two parties",
@@ -366,7 +350,7 @@
 "e": "Correct answer: Both A & C (from the IC92 question bank)."
 },
 {
-"n": 27,
+"n": 26,
 "topic": "Actuarial Aspects of Product Development",
 "t": "What kind of insurance products are suitable for retired employees?",
 "o": [
@@ -380,7 +364,7 @@
 "e": "Correct answer: Immediate Annuity Contracts (from the IC92 question bank)."
 },
 {
-"n": 28,
+"n": 27,
 "topic": "Actuarial Aspects of Product Development",
 "t": "Reinsurance' refers to the practice by insurance companies of:-",
 "o": [
@@ -394,7 +378,7 @@
 "e": "Correct answer: Insuring the same risk twice (from the IC92 question bank)."
 },
 {
-"n": 29,
+"n": 28,
 "topic": "Actuarial Aspects of Product Development",
 "t": "Which of the following is true for money back insurance policy?",
 "o": [
@@ -406,6 +390,19 @@
 ],
 "a": 4,
 "e": "Correct answer: Both 1 & 2 (from the IC92 question bank)."
+},
+{
+"n": 29,
+"topic": "Actuarial Aspects of Product Development",
+"t": "Awareness of a gap in the existing product range can also be as a result of change in the market  such as:-",
+"o": [
+"The availability of new financial instruments making a new product",
+"The non-availability of new financial instruments",
+"The availability of old financial instruments maki",
+"The availability of new economic instruments makin"
+],
+"a": 0,
+"e": "Correct answer: The availability of new financial instruments making a new product (from the IC92 question bank)."
 },
 {
 "n": 30,
@@ -452,6 +449,34 @@
 {
 "n": 33,
 "topic": "Actuarial Aspects of Product Development",
+"t": "Under Term Assurance with Return of Premium, benefit is paid on death only during a specified policy term, and return of premiums paid (with or without interest) on the ______________.",
+"o": [
+"date of policy",
+"period of maturity",
+"date of maturity",
+"period of policy",
+"same specified policy term"
+],
+"a": 2,
+"e": "Correct answer: date of maturity (from the IC92 question bank)."
+},
+{
+"n": 34,
+"topic": "Actuarial Aspects of Product Development",
+"t": "When sum assured and premiums are not fixed and customer can choose both, pricing will be used to find out charges that will be deducted from premium or from fund. Hence, in this case:-",
+"o": [
+"charges rather than premium are determined by pricing",
+"premium rather than charges are determined by pric",
+"neither charges nor premium are determined by pric",
+"Either charges or premium are determined by pricin",
+"None of these"
+],
+"a": 0,
+"e": "Correct answer: charges rather than premium are determined by pricing (from the IC92 question bank)."
+},
+{
+"n": 35,
+"topic": "Actuarial Aspects of Product Development",
 "t": "Underwriting cost is considered as:-",
 "o": [
 "Capital expenditure",
@@ -464,7 +489,7 @@
 "e": "Correct answer: Procurement expenses (from the IC92 question bank)."
 },
 {
-"n": 34,
+"n": 36,
 "topic": "Actuarial Aspects of Product Development",
 "t": "What kind of insurance products are suitable for unorganised workers?",
 "o": [
@@ -478,7 +503,7 @@
 "e": "Correct answer: Term Insurance Contracts with Accident Benefits (from the IC92 question bank)."
 },
 {
-"n": 35,
+"n": 37,
 "topic": "Actuarial Aspects of Product Development",
 "t": "Bank agents are allowed to sell life insurance policies of ____________ company / companies.",
 "o": [
@@ -492,7 +517,7 @@
 "e": "Correct answer: One (from the IC92 question bank)."
 },
 {
-"n": 36,
+"n": 38,
 "topic": "Actuarial Aspects of Product Development",
 "t": "Under Term Assurance with Return of Premium, if an insured survives the policy term, then he is entitled to ____________.",
 "o": [
@@ -506,7 +531,7 @@
 "e": "Correct answer: receive premium paid by him (from the IC92 question bank)."
 },
 {
-"n": 37,
+"n": 39,
 "topic": "Actuarial Aspects of Product Development",
 "t": "How can the policyholder not pay the premium amount?",
 "o": [
@@ -520,21 +545,7 @@
 "e": "Correct answer: Daily (from the IC92 question bank)."
 },
 {
-"topic": "IRDAI – regulator",
-"t": "The permitted limit of foreign direct investment in an Indian insurance company is currently:",
-"o": [
-"26%",
-"49%",
-"74%",
-"100%"
-],
-"a": 2,
-"e": "★ Core fact (asked across III papers). Raised from 49% to 74% by the Insurance (Amendment) Act 2021; intermediaries may have 100%.",
-"r": "core",
-"n": 38
-},
-{
-"n": 39,
+"n": 40,
 "topic": "Actuarial Aspects of Product Development",
 "t": "Once an absolute assignment is effected under a life insurance policy, who will be the title holder(s) of this policy?",
 "o": [
@@ -548,7 +559,7 @@
 "e": "Correct answer: The assignee in all cases. (from the IC92 question bank)."
 },
 {
-"n": 40,
+"n": 41,
 "topic": "Actuarial Aspects of Product Development",
 "t": "Which of the following is not a factor that influence design of insurance products?",
 "o": [
@@ -562,7 +573,7 @@
 "e": "Correct answer: None of the above (from the IC92 question bank)."
 },
 {
-"n": 41,
+"n": 42,
 "topic": "Actuarial Aspects of Product Development",
 "t": "In traditional insurance products, investment risks are with:-",
 "o": [
@@ -576,7 +587,7 @@
 "e": "Correct answer: Insurance company (from the IC92 question bank)."
 },
 {
-"n": 42,
+"n": 43,
 "topic": "Actuarial Aspects of Product Development",
 "t": "What is the participative rate for policyholders in India usually?",
 "o": [
@@ -588,20 +599,6 @@
 ],
 "a": 3,
 "e": "Correct answer: 90% (from the IC92 question bank)."
-},
-{
-"topic": "Policyholder protection",
-"t": "Under the IRDAI (Protection of Policyholders' Interests) Regulations 2024, the free-look period for a policy with a term of one year or more is:",
-"o": [
-"15 days",
-"30 days",
-"45 days",
-"60 days"
-],
-"a": 1,
-"e": "★ Core fact (asked across III papers). 30 days from receipt of the policy document, irrespective of the sales channel.",
-"r": "core",
-"n": 43
 },
 {
 "n": 44,

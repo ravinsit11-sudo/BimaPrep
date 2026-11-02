@@ -1,0 +1,699 @@
+[
+{
+"n": 1,
+"topic": "Actuarial Aspects of Product Development",
+"t": "Which of the following is true for high interest rate priced products?",
+"o": [
+"A prolonged high interest rate environment negativ",
+"A prolonged low interest rate environment negatively impacts credit ratings",
+"A prolonged low interest rate environment positive",
+"A prolonged low interest rate environment does not",
+"None of these"
+],
+"a": 1,
+"e": "Correct answer: A prolonged low interest rate environment negatively impacts credit ratings (from the IC92 question bank)."
+},
+{
+"n": 2,
+"topic": "Actuarial Aspects of Product Development",
+"t": "Deferred Annuity is a contract under which regular payments are ___________ for a given period in the contract, provided that the individual is alive at the end of the deferred period when payments commence.",
+"o": [
+"preponed",
+"advanced",
+"made prompt",
+"postponed",
+"increased"
+],
+"a": 3,
+"e": "Correct answer: postponed (from the IC92 question bank)."
+},
+{
+"n": 3,
+"topic": "Actuarial Aspects of Product Development",
+"t": "The new traditional product guidelines states the minimum guaranteed surrender value would be x percent of the total premium paid, excluding any survival benefits paid, if the policy was surrendered in the fifth to Seventh year. What is x in the above statement.",
+"o": [
+"70%",
+"80%",
+"90%",
+"100%",
+"None of the above"
+],
+"a": 0,
+"e": "Correct answer: 70% (from the IC92 question bank)."
+},
+{
+"n": 4,
+"topic": "Actuarial Aspects of Product Development",
+"t": "Basic philosophy of the Risk Based Capital (RBC) regime can be considered as _____________.",
+"o": [
+"RBC regime allows individual companies to identify and measure risks as per their business and therefore allocate capital",
+"Current RSM regime is insufficient to protect i",
+"The current regime allows very few assets to be",
+"B' and 'C' only",
+"All the above"
+],
+"a": 0,
+"e": "Correct answer: RBC regime allows individual companies to identify and measure risks as per their business and therefore allocate capital (from the IC92 question bank)."
+},
+{
+"n": 5,
+"topic": "Actuarial Aspects of Product Development",
+"t": "The reinsurance arrangement which can help in capital management through some form of arbitrage is known as ___________________.",
+"o": [
+"Proportional reinsurance arrangement",
+"Non-proportional reinsurance arrangement",
+"Facultative reinsurance arrangement",
+"Treaty reinsurance arrangement",
+"Financial reinsurance"
+],
+"a": 4,
+"e": "Correct answer: Financial reinsurance (from the IC92 question bank)."
+},
+{
+"n": 6,
+"topic": "Actuarial Aspects of Product Development",
+"t": "Under pure term insurance contract,______ benefit is payable if the policyholder survives to the end of the contract.",
+"o": [
+"Half",
+"No",
+"all",
+"little",
+"partial"
+],
+"a": 1,
+"e": "Correct answer: No (from the IC92 question bank)."
+},
+{
+"n": 7,
+"topic": "Actuarial Aspects of Product Development",
+"t": "What is the participative rate for shareholders in India usually?",
+"o": [
+"5%",
+"10%",
+"15%",
+"17.5%",
+"20%"
+],
+"a": 1,
+"e": "Correct answer: 10% (from the IC92 question bank)."
+},
+{
+"n": 8,
+"topic": "Actuarial Aspects of Product Development",
+"t": "If any information that is material to insurer is suppressed in the original application, then:-",
+"o": [
+"Section 45 of the Insurance Act, 1938 would prevai",
+"Section 40 of the Insurance Act, 1938 would prevai",
+"Section 41 of the Insurance Act, 1938 would prevai",
+"Section 45 of the Insurance Act, 1939 would prevai",
+"Section 45 of the Insurance Act, 1931 would prevai"
+],
+"a": 0,
+"e": "Correct answer: Section 45 of the Insurance Act, 1938 would prevai (from the IC92 question bank)."
+},
+{
+"n": 9,
+"topic": "Actuarial Aspects of Product Development",
+"t": "Two companies with otherwise similar structure ___________________ of benefits depending upon how much bonus is expected to be paid in future.",
+"o": [
+"cannot have very different premium for same guaran",
+"can have very different premium for same guaranteed level",
+"can have same premium for guaranteed level",
+"can have very high premium for same guaranteed lev",
+"can have very different premium for different guar"
+],
+"a": 1,
+"e": "Correct answer: can have very different premium for same guaranteed level (from the IC92 question bank)."
+},
+{
+"n": 10,
+"topic": "Actuarial Aspects of Product Development",
+"t": "Which of the following is false with regard to riders?",
+"o": [
+"They are offered as an option along with main cont",
+"The option can only be cancelled at any time when",
+"The grant of the option could be subject to underw",
+"The option is valid only if main contract is valid",
+"Additional benefits are not dependant on the happening of a specified event"
+],
+"a": 4,
+"e": "Correct answer: Additional benefits are not dependant on the happening of a specified event (from the IC92 question bank)."
+},
+{
+"n": 11,
+"topic": "Actuarial Aspects of Product Development",
+"t": "Which of these is an example of Policy Administration charge?",
+"o": [
+"Rs.30/- per month increased by 2%p.a. on every pol",
+"Rs.40/- per month increased by 2%p.a. on every pol",
+"Rs.40/- per month increased by 1%p.a. on every pol",
+"Rs.90/- per month increased by 2%p.a. on every pol",
+"All"
+],
+"a": 4,
+"e": "Correct answer: All (from the IC92 question bank)."
+},
+{
+"n": 12,
+"topic": "Actuarial Aspects of Product Development",
+"t": "Why was formula method used in earlier times?",
+"o": [
+"Because there were less computational power",
+"Because there were more computational power",
+"Because there were high computational power",
+"Because there heavy computational power",
+"None of these"
+],
+"a": 0,
+"e": "Correct answer: Because there were less computational power (from the IC92 question bank)."
+},
+{
+"n": 13,
+"topic": "Actuarial Aspects of Product Development",
+"t": "Which of the following charges are met by unit-linked contracts?",
+"o": [
+"rider benefits",
+"administration",
+"mortality",
+"other contingencies",
+"All of the above"
+],
+"a": 4,
+"e": "Correct answer: All of the above (from the IC92 question bank)."
+},
+{
+"n": 14,
+"topic": "Actuarial Aspects of Product Development",
+"t": "Under Increasing Term Assurance, policy term is 5 years and sum assured increases every year by Rs.30000/-. If Mr. Harry dies in the first policy year, the death benefit would be Rs. 200,000. If he dies in the 5th policy year, how much would be the death benefit?",
+"o": [
+"Rs 230, 000",
+"Rs 260, 000",
+"Rs 290, 000",
+"Rs 320, 000",
+"Rs 350, 000"
+],
+"a": 3,
+"e": "Correct answer: Rs 320, 000 (from the IC92 question bank)."
+},
+{
+"n": 15,
+"topic": "Actuarial Aspects of Product Development",
+"t": "The main protection need of a 19 -year-old is most likely to be:-",
+"o": [
+"Self protection",
+"Home loan protection",
+"Protection of dependants",
+"Protection of childrens future.",
+"None of the above"
+],
+"a": 0,
+"e": "Correct answer: Self protection (from the IC92 question bank)."
+},
+{
+"n": 16,
+"topic": "Actuarial Aspects of Product Development",
+"t": "An agent is remunerated with commission for following services:-",
+"o": [
+"To explain and advice the policyholder",
+"To conduct medical underwriting",
+"To conduct financial underwriting of the policyhol",
+"To do claims underwriting in case of death of poli",
+"All the above"
+],
+"a": 0,
+"e": "Correct answer: To explain and advice the policyholder (from the IC92 question bank)."
+},
+{
+"n": 17,
+"topic": "Actuarial Aspects of Product Development",
+"t": "Reserves are required to be kept as liability to ensure that company is able to meet the claims as it arises. These are normally invested in or backed by secured assets. These assets earn less than what is required by the shareholders, for example, if assets are earning 9% per annum and risk discount rate is 12% per annum then there is a cost of holding reserve for shareholders. Then?",
+"o": [
+"This cost will be 2% return lost as a result of ho",
+"This cost will be 3% return lost as a result of holding the reserve",
+"This cost will be 9% return lost as a result of ho",
+"This cost will be 12% return lost as a result of h",
+"This cost will be 5% return lost as a result of ho"
+],
+"a": 1,
+"e": "Correct answer: This cost will be 3% return lost as a result of holding the reserve (from the IC92 question bank)."
+},
+{
+"n": 18,
+"topic": "Actuarial Aspects of Product Development",
+"t": "If, after passage of time, the regulator feels that the product is no longer in the interest of public, _____________________.",
+"o": [
+"it may require the insurer to stop selling the product hanceforth",
+"it may require the insurer to start selling the pr",
+"it cannot do anything",
+"it may require the insured to stop paying the prem",
+"None of the above"
+],
+"a": 0,
+"e": "Correct answer: it may require the insurer to stop selling the product hanceforth (from the IC92 question bank)."
+},
+{
+"n": 19,
+"topic": "Actuarial Aspects of Product Development",
+"t": "The usual practice of estimating expenses is to relate their calculation to",
+"o": [
+"Premiums",
+"Per Policy",
+"Per 1000 Sum Assured",
+"Both A & B",
+"All A, B & C"
+],
+"a": 4,
+"e": "Correct answer: All A, B & C (from the IC92 question bank)."
+},
+{
+"n": 20,
+"topic": "Actuarial Aspects of Product Development",
+"t": "Rahul is employed by Sunny. In respect of this employment, Rahul automatically has insurable interest in Sunny's life up to what limit, if any?",
+"o": [
+"Rahul's monthly salary",
+"Rahul's pension fund value",
+"Sunny's annual profit.",
+"There is no limit.",
+"None of the above"
+],
+"a": 0,
+"e": "Correct answer: Rahul's monthly salary (from the IC92 question bank)."
+},
+{
+"n": 21,
+"topic": "Actuarial Aspects of Product Development",
+"t": "Buying gold ornaments and diamonds lead to which kind of utility?",
+"o": [
+"Aesthetic",
+"Political",
+"Philosophical",
+"Economic",
+"Social"
+],
+"a": 3,
+"e": "Correct answer: Economic (from the IC92 question bank)."
+},
+{
+"n": 22,
+"topic": "Actuarial Aspects of Product Development",
+"t": "If sum of the present value of expected benefit pay-outs is 250,000 and sum of all the expenses is 80,000, which of the following would be the approximate amount of sum of the present value of annual premiums for a 10 years term insurance policy?",
+"o": [
+"Approximately Rs. 330,000",
+"A bit more than Rs. 330,000",
+"Approximately Rs. 290,000",
+"Approximately Rs. 250,000",
+"A bit less than Rs. 250,000"
+],
+"a": 2,
+"e": "Correct answer: Approximately Rs. 290,000 (from the IC92 question bank)."
+},
+{
+"n": 23,
+"topic": "Actuarial Aspects of Product Development",
+"t": "Which of the following is competent to enter an insurance contract?",
+"o": [
+"person who cannot sign in view of a physical defor",
+"illiterate person",
+"an individual who is mentally stable",
+"a legal person",
+"All of the above"
+],
+"a": 4,
+"e": "Correct answer: All of the above (from the IC92 question bank)."
+},
+{
+"n": 24,
+"topic": "Actuarial Aspects of Product Development",
+"t": "If total claim of a group health policy was 5,00,000 last year. Medical inflation is x% and profit margin is 10%. The gross premium is 5,94,000. What is x?",
+"o": [
+"7%",
+"8%",
+"9%",
+"10%",
+"None of the above"
+],
+"a": 1,
+"e": "Correct answer: 8% (from the IC92 question bank)."
+},
+{
+"n": 25,
+"topic": "Actuarial Aspects of Product Development",
+"t": "Which of the following products is often used to cover the life of someone who has taken out a mortgage?",
+"o": [
+"Level term insurance",
+"Decreasing term insurance",
+"Renewable term insurance",
+"Increasing term insurance",
+"None of the above"
+],
+"a": 1,
+"e": "Correct answer: Decreasing term insurance (from the IC92 question bank)."
+},
+{
+"n": 26,
+"topic": "Actuarial Aspects of Product Development",
+"t": "Hari has purchased a type of joint life insurance that will pay a death benefit only after the death of the second person insured. Hari's purpose in buying the policy is to payestate taxes on the estate of himself and his wife. This type of policy is known as a:-",
+"o": [
+"Modified whole life insurance policy",
+"Last survivor life insurance policy",
+"Decreasing term insurance policy",
+"Level term insurance policy",
+"None of the above"
+],
+"a": 1,
+"e": "Correct answer: Last survivor life insurance policy (from the IC92 question bank)."
+},
+{
+"n": 27,
+"topic": "Actuarial Aspects of Product Development",
+"t": "Who among the following will be entitled for commission?",
+"o": [
+"Shareholders",
+"Policyholders",
+"Regulator",
+"Agents",
+"All the above"
+],
+"a": 3,
+"e": "Correct answer: Agents (from the IC92 question bank)."
+},
+{
+"n": 28,
+"topic": "Actuarial Aspects of Product Development",
+"t": "Who is a legal person?",
+"o": [
+"an individual whose age is at least 18 years",
+"an individual who is mentally sound",
+"a corporate entity who can enter into a contract b",
+"Both A & B",
+"All of the above"
+],
+"a": 4,
+"e": "Correct answer: All of the above (from the IC92 question bank)."
+},
+{
+"n": 29,
+"topic": "Actuarial Aspects of Product Development",
+"t": "What are the examples of options and choices?",
+"o": [
+"surrender options",
+"policy loan",
+"switching of funds for unit linked insurance",
+"premium discontinuance",
+"All of these"
+],
+"a": 4,
+"e": "Correct answer: All of these (from the IC92 question bank)."
+},
+{
+"n": 30,
+"topic": "Actuarial Aspects of Product Development",
+"t": "Number of individuals in poor health during a given time period (the prevalence rate)  is called:-",
+"o": [
+"Mortality rates",
+"Morbidity Rates",
+"Incidence Rates",
+"A' and 'B' only",
+"None of the above"
+],
+"a": 1,
+"e": "Correct answer: Morbidity Rates (from the IC92 question bank)."
+},
+{
+"n": 31,
+"topic": "Actuarial Aspects of Product Development",
+"t": "In cases where the insurer has to bear litigation costs expense is usually related to the benefit payment, such as:-",
+"o": [
+"X% of benefit amount",
+"X*1% of benefit amount",
+"X-1% of benefit amount",
+"X+10% of benefit amount",
+"None of these"
+],
+"a": 0,
+"e": "Correct answer: X% of benefit amount (from the IC92 question bank)."
+},
+{
+"n": 32,
+"topic": "Actuarial Aspects of Product Development",
+"t": "For single premium group term insurance and single premium Group Credit insurance with long term, the maximum commission or remuneration in any form shall be 2 per cent of premium with a ceiling of:-",
+"o": [
+"Rs.100000/ per scheme",
+"Rs.20000/ per scheme",
+"Rs.200000/ per scheme",
+"Rs.2000/ per scheme",
+"Rs.20/ per scheme"
+],
+"a": 2,
+"e": "Correct answer: Rs.200000/ per scheme (from the IC92 question bank)."
+},
+{
+"n": 33,
+"topic": "Actuarial Aspects of Product Development",
+"t": "What are the examples of legal expenses?",
+"o": [
+"stamp duty",
+"litigations costs",
+"stationary expenses",
+"Both A & B",
+"All A, B & C"
+],
+"a": 3,
+"e": "Correct answer: Both A & B (from the IC92 question bank)."
+},
+{
+"n": 34,
+"topic": "Actuarial Aspects of Product Development",
+"t": "A policy which participates in the distribution of surplus is called a _____________ policy.",
+"o": [
+"Profitable",
+"Participating",
+"Loss making",
+"Non-profit",
+"None of the above"
+],
+"a": 1,
+"e": "Correct answer: Participating (from the IC92 question bank)."
+},
+{
+"n": 35,
+"topic": "Actuarial Aspects of Product Development",
+"t": "Which one of these is true for new companies?",
+"o": [
+"It is not necessary to advertise about their commi",
+"It is necessary to advertise about their commitment to the market",
+"It is necessary to advertise about their success i",
+"It is necessary to advertise about their investmen",
+"It is necessary to advertise about their relations"
+],
+"a": 1,
+"e": "Correct answer: It is necessary to advertise about their commitment to the market (from the IC92 question bank)."
+},
+{
+"n": 36,
+"topic": "Actuarial Aspects of Product Development",
+"t": "Where the policies are procured by Direct marketing:-",
+"o": [
+"minimum commission shall be payable",
+"maximum commission shall be payable",
+"no commission may be payable",
+"no premium shall be payable",
+"None of these"
+],
+"a": 2,
+"e": "Correct answer: no commission may be payable (from the IC92 question bank)."
+},
+{
+"n": 37,
+"topic": "Actuarial Aspects of Product Development",
+"t": "Which of the following statements is false?",
+"o": [
+"Fall in the interest rate assumption results in",
+"Discount rate assumption also takes into accoun",
+"Determination of the premiums involves multiplying expected benefit pay-outs with the discount rate",
+"A' & 'C' only",
+"All the above"
+],
+"a": 2,
+"e": "Correct answer: Determination of the premiums involves multiplying expected benefit pay-outs with the discount rate (from the IC92 question bank)."
+},
+{
+"n": 38,
+"topic": "Actuarial Aspects of Product Development",
+"t": "The terms and conditions between an insurer and a re-insurer are set by ___________.",
+"o": [
+"Retention limit",
+"Facultative limit",
+"Reinsurance Treaty",
+"Treaty limit",
+"Total amount of cover"
+],
+"a": 2,
+"e": "Correct answer: Reinsurance Treaty (from the IC92 question bank)."
+},
+{
+"n": 39,
+"topic": "Actuarial Aspects of Product Development",
+"t": "In case of death due to suicide, within ______________ from the date of inception of the policy, the nominee of the policyholder shall be entitled to at least 80% of the premiums paid.",
+"o": [
+"2 months",
+"10 months",
+"12 months",
+"8 months",
+"5 months"
+],
+"a": 2,
+"e": "Correct answer: 12 months (from the IC92 question bank)."
+},
+{
+"n": 40,
+"topic": "Actuarial Aspects of Product Development",
+"t": "In Endoment Policys If the life assured survives till the date of maturity (expiry of policy  term), then:-",
+"o": [
+"the sum assured with bonuses is payable",
+"the sum assured with guaranteed additions is payab",
+"the sum assured with bonuses or guaranteed additions is payable",
+"None of the above"
+],
+"a": 2,
+"e": "Correct answer: the sum assured with bonuses or guaranteed additions is payable (from the IC92 question bank)."
+},
+{
+"n": 41,
+"topic": "Actuarial Aspects of Product Development",
+"t": "As per the Revised commission structure for Traditional plan The ceiling for first-year commissions has been kept at _____________ for 10 years.",
+"o": [
+"20%",
+"25%",
+"30%",
+"35%",
+"None of the above"
+],
+"a": 2,
+"e": "Correct answer: 30% (from the IC92 question bank)."
+},
+{
+"n": 42,
+"topic": "Actuarial Aspects of Product Development",
+"t": "If any information that is material to insurer is suppressed in the original application (proposal form at time of issue of contract), the insurer may:-",
+"o": [
+"sue the insured",
+"still charge the premium.",
+"cancel the contract",
+"do nothing",
+"cannot take any action"
+],
+"a": 2,
+"e": "Correct answer: cancel the contract (from the IC92 question bank)."
+},
+{
+"n": 43,
+"topic": "Actuarial Aspects of Product Development",
+"t": "What does life insurance business include?",
+"o": [
+"Granting of disability",
+"Granting of annuities upon human life",
+"Granting of double or triple indemnity accident be",
+"Granting of superannuation",
+"All of the above"
+],
+"a": 4,
+"e": "Correct answer: All of the above (from the IC92 question bank)."
+},
+{
+"n": 44,
+"topic": "Actuarial Aspects of Product Development",
+"t": "Assuming single premium of 20,000 for a 15 years term insurance policy which has duration of 12 years. The discount rate has been assumed as 9%. If discount rate assumption would have been 10%, what would have been the approximate premium?",
+"o": [
+"Approximately 25,000",
+"Approximately 17,000",
+"Approximately 16,000",
+"Approximately 18,000",
+"Approximately 22,000"
+],
+"a": 3,
+"e": "Correct answer: Approximately 18,000 (from the IC92 question bank)."
+},
+{
+"n": 45,
+"topic": "Actuarial Aspects of Product Development",
+"t": "What is Cost of benefit?",
+"o": [
+"Cost of benefit is the pure premium that does not",
+"Cost of benefit is the pure premium that meets just the amount of benefits",
+"None of the above"
+],
+"a": 1,
+"e": "Correct answer: Cost of benefit is the pure premium that meets just the amount of benefits (from the IC92 question bank)."
+},
+{
+"n": 46,
+"topic": "Actuarial Aspects of Product Development",
+"t": "What is the other name for Guaranteed Surrender Value?",
+"o": [
+"statutory surrender value",
+"constitutional surrender value",
+"legal surrender value",
+"legislative surrender value",
+"none of the above"
+],
+"a": 0,
+"e": "Correct answer: statutory surrender value (from the IC92 question bank)."
+},
+{
+"n": 47,
+"topic": "Actuarial Aspects of Product Development",
+"t": "In case of initial fixed expenses policies are issued with small premiums, such policies would cause loss. The insurer would have to wait for about 2 to 3 years (or more) to get initial expenses recovered by way of premium income. And therefore the insurers are:-",
+"o": [
+"reluctant to sell small premium policies",
+"excited to sell small premium policies",
+"reluctant to sell high premium policies",
+"willing to sell small premium policies",
+"None of the above"
+],
+"a": 0,
+"e": "Correct answer: reluctant to sell small premium policies (from the IC92 question bank)."
+},
+{
+"n": 48,
+"topic": "Actuarial Aspects of Product Development",
+"t": "Which of the following policies pays a death benefit only upon the second of two insureds to die and is often used to pay estate taxes?",
+"o": [
+"Universal life insurance",
+"variable life insurance",
+"Joint life insurance",
+"last survivor life insurance",
+"None of the above"
+],
+"a": 3,
+"e": "Correct answer: last survivor life insurance (from the IC92 question bank)."
+},
+{
+"n": 49,
+"topic": "Actuarial Aspects of Product Development",
+"t": "Which one of the following is not a stakeholder for an insurance company?",
+"o": [
+"Shareholders",
+"Policyholders",
+"Distributers",
+"Employees",
+"None of the above"
+],
+"a": 4,
+"e": "Correct answer: None of the above (from the IC92 question bank)."
+},
+{
+"n": 50,
+"topic": "Actuarial Aspects of Product Development",
+"t": "Rahul recently applied for a term assurance plan. He was asked to undergo some medical examination. Based on the examination results, the premium was increased by 25%, other terms remaining the same. The reasons for increase in the premium was:-",
+"o": [
+"Increase in the initial expenses",
+"Increase in claim payout amount",
+"Increase in the probability of claim",
+"All the above",
+"B and C only"
+],
+"a": 2,
+"e": "Correct answer: Increase in the probability of claim (from the IC92 question bank)."
+}
+]

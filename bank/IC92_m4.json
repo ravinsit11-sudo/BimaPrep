@@ -72,6 +72,19 @@
 {
 "n": 6,
 "topic": "Actuarial Aspects of Product Development",
+"t": "If it is discovered that the life assured had declared an incorrect age and is not insurable with  corrected age, the insurer:-",
+"o": [
+"may keep the premiums paid so far",
+"may return the premiums paid after deducting administrative expenses and  cancel the policy",
+"cannot cancel the policy",
+"None of the above"
+],
+"a": 1,
+"e": "Correct answer: may return the premiums paid after deducting administrative expenses and  cancel the policy (from the IC92 question bank)."
+},
+{
+"n": 7,
+"topic": "Actuarial Aspects of Product Development",
 "t": "What is the maximum limit on the size of the group?",
 "o": [
 "50",
@@ -84,7 +97,7 @@
 "e": "Correct answer: None of the above (from the IC92 question bank)."
 },
 {
-"n": 7,
+"n": 8,
 "topic": "Actuarial Aspects of Product Development",
 "t": "In which year was the Life Insurance Companies Act passed?",
 "o": [
@@ -98,7 +111,7 @@
 "e": "Correct answer: 1912 (from the IC92 question bank)."
 },
 {
-"n": 8,
+"n": 9,
 "topic": "Actuarial Aspects of Product Development",
 "t": "In insurance industry, which of the following are entitled for commissions?",
 "o": [
@@ -112,7 +125,33 @@
 "e": "Correct answer: A', 'B' and 'C' only (from the IC92 question bank)."
 },
 {
-"n": 9,
+"n": 10,
+"topic": "Actuarial Aspects of Product Development",
+"t": "The sensitivity of profitability to high withdrawal rates could also be reduced by using:-",
+"o": [
+"a commission system whereby there is some \"clawback\" (return) of commission for early withdrawals",
+"a commission system whereby there is some  (return",
+"a commission system whereby there is some (return)",
+"None of these"
+],
+"a": 0,
+"e": "Correct answer: a commission system whereby there is some \"clawback\" (return) of commission for early withdrawals (from the IC92 question bank)."
+},
+{
+"n": 11,
+"topic": "Actuarial Aspects of Product Development",
+"t": "Which of the following is the most true?",
+"o": [
+"Deferred annuity contracts may be issued on a participative or non-participative basis",
+"Deferred annuity contracts may be issued on a non-",
+"Deferred annuity contracts cannot issued on a part",
+"none of the above"
+],
+"a": 0,
+"e": "Correct answer: Deferred annuity contracts may be issued on a participative or non-participative basis (from the IC92 question bank)."
+},
+{
+"n": 12,
 "topic": "Actuarial Aspects of Product Development",
 "t": "Calculate average claim size: No of policy holders: 1500, Expected claim number 10, Total claim amount 10,00,000.",
 "o": [
@@ -126,7 +165,7 @@
 "e": "Correct answer: Rs 100000 (from the IC92 question bank)."
 },
 {
-"n": 10,
+"n": 13,
 "topic": "Actuarial Aspects of Product Development",
 "t": "If premium = Rs.1000 & Premium Allocation Charge: 10% of the premium __________.",
 "o": [
@@ -140,21 +179,7 @@
 "e": "Correct answer: then the charge: Rs.100 and Balance amount of premium is Rs,900 (from the IC92 question bank)."
 },
 {
-"n": 11,
-"topic": "Actuarial Aspects of Product Development",
-"t": "In case of a 'single premium' 10 years 'term insurance' policy, the policyholder dies in first year, what will happen?",
-"o": [
-"The nominee will get the sum assured along with re",
-"The nominee will get the sum assured",
-"The nominee will get the sum assured along with th",
-"None of the above"
-],
-"a": 1,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: The nominee will get the sum assured (from the IC92 question bank).",
-"r": "key"
-},
-{
-"n": 12,
+"n": 14,
 "topic": "Actuarial Aspects of Product Development",
 "t": "For a policy sold directly by the company through internet who is entitled for the commission:-",
 "o": [
@@ -168,7 +193,21 @@
 "e": "Correct answer: Nobody receives the commission (from the IC92 question bank)."
 },
 {
-"n": 13,
+"n": 15,
+"topic": "Actuarial Aspects of Product Development",
+"t": "Required Solvency Margin can be defined as _________________________.",
+"o": [
+"The quantum of minimum equity capital required",
+"The quantum of minimum allowable free assets re",
+"The quantum of minimum technical reserves required by the regulator",
+"B' and 'C' only",
+"None of the above"
+],
+"a": 2,
+"e": "Correct answer: The quantum of minimum technical reserves required by the regulator (from the IC92 question bank)."
+},
+{
+"n": 16,
 "topic": "Actuarial Aspects of Product Development",
 "t": "What benefits do deferred assurances provide?",
 "o": [
@@ -182,7 +221,21 @@
 "e": "Correct answer: payments on vesting to meet education expenses (from the IC92 question bank)."
 },
 {
-"n": 14,
+"n": 17,
+"topic": "Actuarial Aspects of Product Development",
+"t": "Which of the following statement defines claw-back?",
+"o": [
+"Claw-back means reduction of the benefits of a pol",
+"Claw-back means taking back some of the commission paid to the agent if a policy lapses",
+"Claw-back means reduction in dividend to the share",
+"A' & 'C' only",
+"None of the above"
+],
+"a": 1,
+"e": "Correct answer: Claw-back means taking back some of the commission paid to the agent if a policy lapses (from the IC92 question bank)."
+},
+{
+"n": 18,
 "topic": "Actuarial Aspects of Product Development",
 "t": "How much would be the simple bonus @ 7.5% of sum assured 5000?",
 "o": [
@@ -196,7 +249,7 @@
 "e": "Correct answer: 375 (from the IC92 question bank)."
 },
 {
-"n": 15,
+"n": 19,
 "topic": "Actuarial Aspects of Product Development",
 "t": "A mortality rate of 10 per thousand in a population of 1000 would mean mortlity rate of:-",
 "o": [
@@ -210,7 +263,7 @@
 "e": "Correct answer: 1% (from the IC92 question bank)."
 },
 {
-"n": 16,
+"n": 20,
 "topic": "Actuarial Aspects of Product Development",
 "t": "In what plan of insurance the medical examination is never required, whatever be the amount of sum assured?",
 "o": [
@@ -224,7 +277,7 @@
 "e": "Correct answer: Annuity (from the IC92 question bank)."
 },
 {
-"n": 17,
+"n": 21,
 "topic": "Actuarial Aspects of Product Development",
 "t": "While estimating premiums, which of the following factors would be considered in arriving at discount rate assumption:-",
 "o": [
@@ -238,7 +291,7 @@
 "e": "Correct answer: All the above (from the IC92 question bank)."
 },
 {
-"n": 18,
+"n": 22,
 "topic": "Actuarial Aspects of Product Development",
 "t": "How does profitability affect product design?",
 "o": [
@@ -250,7 +303,7 @@
 "e": "Correct answer: A company will want to ensure that the premiums charged for non-linked contracts and charges of unit linked contracts will be sufficient to cover the benefits to be provided and the expenses to be incurred in future, and provide a profit margin (from the IC92 question bank)."
 },
 {
-"n": 19,
+"n": 23,
 "topic": "Actuarial Aspects of Product Development",
 "t": "When does an insurance policy lapse?",
 "o": [
@@ -264,22 +317,7 @@
 "e": "Correct answer: Stopping of periodical payments (from the IC92 question bank)."
 },
 {
-"n": 20,
-"topic": "Actuarial Aspects of Product Development",
-"t": "Calculate the amount invested in unit fund if premium paid is Rs. 1,000 and allocation rate is 90%.",
-"o": [
-"900",
-"1000",
-"100",
-"1100",
-"1900"
-],
-"a": 0,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: 900 (from the IC92 question bank).",
-"r": "key"
-},
-{
-"n": 21,
+"n": 24,
 "topic": "Actuarial Aspects of Product Development",
 "t": "The main role of an underwriter in a non-life insurance company is normally to:-",
 "o": [
@@ -293,7 +331,7 @@
 "e": "Correct answer: Assess the acceptability of particular risks. (from the IC92 question bank)."
 },
 {
-"n": 22,
+"n": 25,
 "topic": "Actuarial Aspects of Product Development",
 "t": "Pricing of products is directly linked to:-",
 "o": [
@@ -307,7 +345,7 @@
 "e": "Correct answer: revenue levels (from the IC92 question bank)."
 },
 {
-"n": 23,
+"n": 26,
 "topic": "Actuarial Aspects of Product Development",
 "t": "What is meant by 'excess of loss' reinsurance?",
 "o": [
@@ -321,7 +359,7 @@
 "e": "Correct answer: The claims in excess of insurer's limit is passed to the reinsurer (from the IC92 question bank)."
 },
 {
-"n": 24,
+"n": 27,
 "topic": "Actuarial Aspects of Product Development",
 "t": "If the stamp duty is usually Re. 0.20 every 1000 sum assured or part thereof, then for a contract of Rs. 10,000, it is necessary to affix stamps of value of:-",
 "o": [
@@ -335,7 +373,7 @@
 "e": "Correct answer: Rs. 2 (from the IC92 question bank)."
 },
 {
-"n": 25,
+"n": 28,
 "topic": "Actuarial Aspects of Product Development",
 "t": "Under deferred annuity with options at the vesting date, the policyholder at vesting can choose to receive a lump sum payment which is known as?",
 "o": [
@@ -349,22 +387,7 @@
 "e": "Correct answer: notional cash option (from the IC92 question bank)."
 },
 {
-"n": 26,
-"topic": "Actuarial Aspects of Product Development",
-"t": "If Fund Management charge (FMC) is 1% p.a. payable annually; Fund before FMC is Rs.100/- and Fund after this charge is:-",
-"o": [
-"Rs.89",
-"Rs.99.9",
-"Rs.79",
-"Rs.90",
-"Rs.99"
-],
-"a": 4,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Rs.99 (from the IC92 question bank).",
-"r": "key"
-},
-{
-"n": 27,
+"n": 29,
 "topic": "Actuarial Aspects of Product Development",
 "t": "Which product may have variable expense structure:-",
 "o": [
@@ -378,7 +401,7 @@
 "e": "Correct answer: Unit linked insurance product (from the IC92 question bank)."
 },
 {
-"n": 28,
+"n": 30,
 "topic": "Actuarial Aspects of Product Development",
 "t": "An insurance company makes profit:-",
 "o": [
@@ -392,7 +415,7 @@
 "e": "Correct answer: Through a 'profit margin' loading in premiums (from the IC92 question bank)."
 },
 {
-"n": 29,
+"n": 31,
 "topic": "Actuarial Aspects of Product Development",
 "t": "In case of death due to suicide, within 12 months from the date of inception, the nominee of the policyholder shall be entitled to at least _____ of the premiums paid.",
 "o": [
@@ -406,7 +429,7 @@
 "e": "Correct answer: 80% (from the IC92 question bank)."
 },
 {
-"n": 30,
+"n": 32,
 "topic": "Actuarial Aspects of Product Development",
 "t": "When was Indian insurance industry privatised and several private players including banks came into life insurance sector?",
 "o": [
@@ -420,7 +443,7 @@
 "e": "Correct answer: 2000 (from the IC92 question bank)."
 },
 {
-"n": 31,
+"n": 33,
 "topic": "Actuarial Aspects of Product Development",
 "t": "Temporary Annuity is a contract under which level payments are made until the survival of the policyholder for a specified period in return of ____________.",
 "o": [
@@ -434,7 +457,7 @@
 "e": "Correct answer: single advance payment (from the IC92 question bank)."
 },
 {
-"n": 32,
+"n": 34,
 "topic": "Actuarial Aspects of Product Development",
 "t": "Which of the follwing is true?",
 "o": [
@@ -447,7 +470,7 @@
 "e": "Correct answer: Commission rates used should not breach the Insurance Act and IRDAI regulation limits or periodical communication from IRDAI (from the IC92 question bank)."
 },
 {
-"n": 33,
+"n": 35,
 "topic": "Actuarial Aspects of Product Development",
 "t": "A claim payable after the life insured has survived the term of the policy is called:-",
 "o": [
@@ -461,7 +484,7 @@
 "e": "Correct answer: Maturity (from the IC92 question bank)."
 },
 {
-"n": 34,
+"n": 36,
 "topic": "Actuarial Aspects of Product Development",
 "t": "As per regulation of variable products, for all modes of premium payment (viz., single premium, annual, half-yearly, quarterly and monthly) the non-negative additional interest rate to be credited shall:-",
 "o": [
@@ -475,7 +498,7 @@
 "e": "Correct answer: not be less than quarterly frequency (from the IC92 question bank)."
 },
 {
-"n": 35,
+"n": 37,
 "topic": "Actuarial Aspects of Product Development",
 "t": "What kind of insurance products are suitable for borrowers?",
 "o": [
@@ -489,21 +512,7 @@
 "e": "Correct answer: Mortgage insurance policies (from the IC92 question bank)."
 },
 {
-"topic": "Policyholder protection",
-"t": "An insurer must resolve a policyholder's grievance within how many days of receipt?",
-"o": [
-"7 days",
-"14 days",
-"30 days",
-"45 days"
-],
-"a": 1,
-"e": "★ Core fact (asked across III papers). 14 days under the 2024 regulations; thereafter the policyholder may approach Bima Bharosa or the Ombudsman.",
-"r": "core",
-"n": 36
-},
-{
-"n": 37,
+"n": 38,
 "topic": "Actuarial Aspects of Product Development",
 "t": "Which of the following is included in life insurance business?",
 "o": [
@@ -517,7 +526,7 @@
 "e": "Correct answer: All of the above (from the IC92 question bank)."
 },
 {
-"n": 38,
+"n": 39,
 "topic": "Actuarial Aspects of Product Development",
 "t": "Reinsurance arrangements help an insurer in following ways:-",
 "o": [
@@ -531,7 +540,7 @@
 "e": "Correct answer: A,B & C (from the IC92 question bank)."
 },
 {
-"n": 39,
+"n": 40,
 "topic": "Actuarial Aspects of Product Development",
 "t": "What happened during the high interest rate days in 1970s and 80s in developed economies?",
 "o": [
@@ -544,7 +553,7 @@
 "e": "Correct answer: Only A & B (from the IC92 question bank)."
 },
 {
-"n": 40,
+"n": 41,
 "topic": "Actuarial Aspects of Product Development",
 "t": "To whom, a policyholder directly pays the commission?",
 "o": [
@@ -558,7 +567,7 @@
 "e": "Correct answer: None of the above (from the IC92 question bank)."
 },
 {
-"n": 41,
+"n": 42,
 "topic": "Actuarial Aspects of Product Development",
 "t": "When was earlier legislation consolidated and amended to by the Insurance Act with the objective of protecting the interests of the insuring public?",
 "o": [
@@ -572,7 +581,7 @@
 "e": "Correct answer: 1938 (from the IC92 question bank)."
 },
 {
-"n": 42,
+"n": 43,
 "topic": "Actuarial Aspects of Product Development",
 "t": "An inflation assumption will be necessary to apply to loadings in respect of:-",
 "o": [
@@ -586,7 +595,7 @@
 "e": "Correct answer: B' & 'C' only (from the IC92 question bank)."
 },
 {
-"n": 43,
+"n": 44,
 "topic": "Actuarial Aspects of Product Development",
 "t": "The mortality rates in the new table compared to the existing will be mostly:-",
 "o": [
@@ -600,7 +609,7 @@
 "e": "Correct answer: Lower (from the IC92 question bank)."
 },
 {
-"n": 44,
+"n": 45,
 "topic": "Actuarial Aspects of Product Development",
 "t": "Which information if not disclosed can nullify the policy?",
 "o": [
@@ -612,20 +621,6 @@
 ],
 "a": 0,
 "e": "Correct answer: Material (from the IC92 question bank)."
-},
-{
-"topic": "Claims timelines",
-"t": "Under IRDAI's 2024 norms, a surveyor must be appointed within what time of a claim intimation?",
-"o": [
-"24 hours",
-"48 hours",
-"72 hours",
-"7 days"
-],
-"a": 0,
-"e": "★ Core fact (asked across III papers). Appointment within 24 hours; survey report within 15 days; insurer's decision within 7 days of the report.",
-"r": "core",
-"n": 45
 },
 {
 "n": 46,

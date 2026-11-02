@@ -114,6 +114,20 @@
 {
 "n": 9,
 "topic": "Management Accounting",
+"t": "What is the sequence of events to be adopted in simulation technique?<br><br>I. Modelling a project<br>II. Select a value at random from probability distribution of each of the variables <br>III. Study Values of parameters and probability distribution on variables",
+"o": [
+"I, II and III",
+"I, III and II",
+"II, III and I",
+"II, I and III",
+"III, I, II"
+],
+"a": 1,
+"e": "Correct answer: I, III and II (from the IC89 question bank)."
+},
+{
+"n": 10,
+"topic": "Management Accounting",
 "t": "If the inter-bank dealers want to make profit, what strategy should they adopt?",
 "o": [
 "Advertise direct quotes instead of indirect quotes",
@@ -126,7 +140,7 @@
 "e": "Correct answer: Buying at the bid and selling at the offer (from the IC89 question bank)."
 },
 {
-"n": 10,
+"n": 11,
 "topic": "Management Accounting",
 "t": "Such forecasts are based on market indicators. Current spot rate and forward rates are generally used for such forecasting. Which type of forecasting is this?",
 "o": [
@@ -138,21 +152,6 @@
 ],
 "a": 2,
 "e": "Correct answer: Market Based Forecasting (from the IC89 question bank)."
-},
-{
-"n": 11,
-"topic": "Management Accounting",
-"t": "The Insurance Regulatory and Development Authority (Investment) Regulations 2000 were recently amended in which year?",
-"o": [
-"2001",
-"2002",
-"2004",
-"2008",
-"2013"
-],
-"a": 4,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: 2013 (from the IC89 question bank).",
-"r": "key"
 },
 {
 "n": 12,
@@ -185,6 +184,20 @@
 {
 "n": 14,
 "topic": "Management Accounting",
+"t": "Which of the following statement are correct about Internal rate of Return (IRR)?<br><br>I. If the project has a return below the IRR then it is profitable<br>II. IRR relies on average return<br>III. IRR is the discount rate which equates the present value of future cash flows with the initial investment",
+"o": [
+"I and II",
+"II and III",
+"I and III",
+"I, II and III",
+"Only III"
+],
+"a": 4,
+"e": "Correct answer: Only III (from the IC89 question bank)."
+},
+{
+"n": 15,
+"topic": "Management Accounting",
 "t": "Expand the term \"SEBI\".",
 "o": [
 "Shares Exchange Board of India",
@@ -197,7 +210,7 @@
 "e": "Correct answer: Securities and Exchange Board of India (from the IC89 question bank)."
 },
 {
-"n": 15,
+"n": 16,
 "topic": "Management Accounting",
 "t": "Propose a life insurance policy that is designed primarily to provide a living benefit and secondarily to provide life insurance protection.",
 "o": [
@@ -211,7 +224,7 @@
 "e": "Correct answer: Endowment Policy (from the IC89 question bank)."
 },
 {
-"n": 16,
+"n": 17,
 "topic": "Management Accounting",
 "t": "Explain the investment prudential norms for a life insurance business in debts instruments prescribed under IRDA (Investment) 5<sup>th</sup> (Amendment) Regulations 2013.",
 "o": [
@@ -224,7 +237,7 @@
 "e": "Correct answer: 75% of Investments in Debt Instruments should be in highly rated securities (sovereign bonds, AAA ratedor equivalent). <br>Not more than 5% of investments should have a rating of A or below (from the IC89 question bank)."
 },
 {
-"n": 17,
+"n": 18,
 "topic": "Management Accounting",
 "t": "Under the Payments of Gratuity Act, 1972 it is employer's statutory liability to pay 15 days salary for every completed year of service to each of his employees on their exit, for any reason after ______________ of continuous service.",
 "o": [
@@ -236,21 +249,6 @@
 ],
 "a": 4,
 "e": "Correct answer: Five years (from the IC89 question bank)."
-},
-{
-"n": 18,
-"topic": "Management Accounting",
-"t": "Sohan purchased a call option on an index of stocks and he is permitted to exercise this option during the period of next 3 months from now. This is a ______.",
-"o": [
-"Short European option",
-"Long European option",
-"Short American option",
-"Long American option",
-"None of the above"
-],
-"a": 3,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Long American option (from the IC89 question bank).",
-"r": "key"
 },
 {
 "n": 19,
@@ -311,6 +309,48 @@
 {
 "n": 23,
 "topic": "Management Accounting",
+"t": "Which of the following is/are correct for  valuation of transactions entering the BoP account?<br><br>I. The transactions should be valued at market prices<br>II. Both imports and exports should be valued at free on board (FOB) basis<br>III. Any transaction denominated in a foreign currency should be converted into the domestic currency at the exchange rates prevailing in the market at the time the transaction took place",
+"o": [
+"I and II",
+"II and III",
+"I and III",
+"I, II and III",
+"Only III"
+],
+"a": 3,
+"e": "Correct answer: I, II and III (from the IC89 question bank)."
+},
+{
+"n": 24,
+"topic": "Management Accounting",
+"t": "These funds are invested in equity shares of companies and enable the investors to derive the benefits of investment opportunities in the stock market. These funds are considered be high-risk-high-return investment propositions. Which type of mutual funds are these?",
+"o": [
+"Equity Funds",
+"Balanced Funds",
+"Sector Funds",
+"Equity-linked Savings Scheme",
+"Index funds"
+],
+"a": 0,
+"e": "Correct answer: Equity Funds (from the IC89 question bank)."
+},
+{
+"n": 25,
+"topic": "Management Accounting",
+"t": "ADRs/GDRs refer to:-<br><br>I. When a home country company lists its shares in a foreign stock exchange denominated in home country currency.<br>II. When a home country company lists its shares in a foreign stock exchange denominated in foreign country currency.<br>III. When a foreign company lists its shares in domestic stock exchange denominated in foreign company's home currency",
+"o": [
+"I and II",
+"I and III",
+"II and III",
+"I, II and III",
+"Only II"
+],
+"a": 4,
+"e": "Correct answer: Only II (from the IC89 question bank)."
+},
+{
+"n": 26,
+"topic": "Management Accounting",
 "t": "Which of the following is true?<br><br>I.  Debt market is almost non-existent in India<br>II. Large caps primarily invest in the shares of well-established companies<br>III. Secondary market deals with securities already issued",
 "o": [
 "I and II",
@@ -323,7 +363,7 @@
 "e": "Correct answer: I, II and III (from the IC89 question bank)."
 },
 {
-"n": 24,
+"n": 27,
 "topic": "Management Accounting",
 "t": "An Indian company may receive Foreign Direct Investment under how many routes specified by the Indian Government?",
 "o": [
@@ -337,7 +377,7 @@
 "e": "Correct answer: Two (from the IC89 question bank)."
 },
 {
-"n": 25,
+"n": 28,
 "topic": "Management Accounting",
 "t": "Shweta wants to know the broad headings that appear in the Current Account of BOP Account. Which of these appear in the Current Account?<br><br>I. Merchandise<br>II. Invisibles<br>III. Foreign investments",
 "o": [
@@ -351,7 +391,7 @@
 "e": "Correct answer: II and III (from the IC89 question bank)."
 },
 {
-"n": 26,
+"n": 29,
 "topic": "Management Accounting",
 "t": "Use the following information to calculate the cash flow from operating activities:-<br> <br>Book profit  <IMG border=0 hspace=0 alt=\"\" align=absMiddle src=\"/Attest1_res/topicresources/457776428/III_Rs_Symbol.jpg\" width=12 height=15>11,664<br>Depreciation charges  <IMG border=0 hspace=0 alt=\"\" align=absMiddle src=\"/Attest1_res/topicresources/457776428/III_Rs_Symbol.jpg\" width=12 height=15>2,916<br>Proceeds of sale of non-current assets                     <IMG border=0 hspace=0 alt=\"\" align=absMiddle src=\"/Attest1_res/topicresources/457776428/III_Rs_Symbol.jpg\" width=12 height=15>486<br>Increase in inventory <IMG border=0 hspace=0 alt=\"\" align=absMiddle src=\"/Attest1_res/topicresources/457776428/III_Rs_Symbol.jpg\" width=12 height=15>495<br>Increase in accounts payable <IMG border=0 hspace=0 alt=\"\" align=absMiddle src=\"/Attest1_res/topicresources/457776428/III_Rs_Symbol.jpg\" width=12 height=15>550",
 "o": [
@@ -365,7 +405,7 @@
 "e": "Correct answer: Rs.14,635 (from the IC89 question bank)."
 },
 {
-"n": 27,
+"n": 30,
 "topic": "Management Accounting",
 "t": "In accordance with IRDA (Preparation of Financial Statements and Auditor's Report of Insurance Companies) Regulations, 2002, which Schedule applies to life insurance business?",
 "o": [
@@ -379,7 +419,7 @@
 "e": "Correct answer: Schedule A (from the IC89 question bank)."
 },
 {
-"n": 28,
+"n": 31,
 "topic": "Management Accounting",
 "t": "The decision function of financial management can be broken down into the ______ decisions.",
 "o": [
@@ -393,22 +433,7 @@
 "e": "Correct answer: Investment, financing, and asset management (from the IC89 question bank)."
 },
 {
-"n": 29,
-"topic": "Management Accounting",
-"t": "These are equity funds offering tax-benefits. Investments in these funds are eligible for income tax deduction under Section 80C of the IT Act, Which type of funds are these?",
-"o": [
-"Equity Funds",
-"Balanced Funds",
-"Sector Funds",
-"Equity-linked Savings Scheme",
-"Index funds"
-],
-"a": 3,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Equity-linked Savings Scheme (from the IC89 question bank).",
-"r": "key"
-},
-{
-"n": 30,
+"n": 32,
 "topic": "Management Accounting",
 "t": "Under the Payments of Gratuity Act, 1972 it is employer's statutory liability to pay ___________ salary for every completed year of service to each of his employees on their exit, for any reason after 5 years of continuous service.",
 "o": [
@@ -422,7 +447,7 @@
 "e": "Correct answer: 15 days (from the IC89 question bank)."
 },
 {
-"n": 31,
+"n": 33,
 "topic": "Management Accounting",
 "t": "Activities that result in changes in the size and composition of the owners' capital (including preference share capital) and borrowings of the entity are termed as _________ with reference to cash flow statements.",
 "o": [
@@ -436,7 +461,7 @@
 "e": "Correct answer: Financing activities (from the IC89 question bank)."
 },
 {
-"n": 32,
+"n": 34,
 "topic": "Management Accounting",
 "t": "Security I has a beta of 1.3, the risk-free rate is 4%, and the expected market risk premium is 11%. What is the expected return for Security I?",
 "o": [
@@ -450,7 +475,7 @@
 "e": "Correct answer: 18.3% (from the IC89 question bank)."
 },
 {
-"n": 33,
+"n": 35,
 "topic": "Management Accounting",
 "t": "Which investments are normally made with the intention of hedging risks and speculation purposes?",
 "o": [
@@ -464,7 +489,7 @@
 "e": "Correct answer: Financial derivatives (from the IC89 question bank)."
 },
 {
-"n": 34,
+"n": 36,
 "topic": "Management Accounting",
 "t": "Identify the situation in which the employee is not eligible for gratuity.",
 "o": [
@@ -478,7 +503,7 @@
 "e": "Correct answer: Retrenchment (from the IC89 question bank)."
 },
 {
-"n": 35,
+"n": 37,
 "topic": "Management Accounting",
 "t": "The activities of portfolio management comprises of:-<br><br>I. Identification of financial assets or securities or asset class and allocation of investment.<br>II. Deciding and determining the weights and portion of different assets in the portfolio.<br>III. Selection of securities within the asset classes identified and weights determined.<br>IV. Evaluation of performance of various securities and render requisite revision.",
 "o": [
@@ -492,21 +517,7 @@
 "e": "Correct answer: All of them (from the IC89 question bank)."
 },
 {
-"topic": "IRDAI – regulator",
-"t": "IRDAI was constituted under the:",
-"o": [
-"Insurance Act 1938",
-"IRDA Act 1999",
-"General Insurance Business (Nationalisation) Act 1972",
-"LIC Act 1956"
-],
-"a": 1,
-"e": "★ Core fact (asked across III papers). The IRDA Act 1999 established the Authority; it began functioning in April 2000 and is headquartered in Hyderabad.",
-"r": "core",
-"n": 36
-},
-{
-"n": 37,
+"n": 38,
 "topic": "Management Accounting",
 "t": "The Union Budget in India is presented by the ___________.",
 "o": [
@@ -520,7 +531,7 @@
 "e": "Correct answer: Finance Minister (from the IC89 question bank)."
 },
 {
-"n": 38,
+"n": 39,
 "topic": "Management Accounting",
 "t": "How is the Return on shareholders funds ratio calculated?",
 "o": [
@@ -534,7 +545,7 @@
 "e": "Correct answer: Net Profit after Interest & Tax / Shareholders Fund x 100 (from the IC89 question bank)."
 },
 {
-"n": 39,
+"n": 40,
 "topic": "Management Accounting",
 "t": "Which of the following organisations belong to the first level of foreign exchange markets?<br><br>I. Commercial banks<br>II. Investment bankers<br>III. Central banks <br>IV. Multi National Companies",
 "o": [
@@ -548,7 +559,7 @@
 "e": "Correct answer: I, II and III (from the IC89 question bank)."
 },
 {
-"n": 40,
+"n": 41,
 "topic": "Management Accounting",
 "t": "Higher the Sharpe's Ratio, better a portfolio return implies the degree of investment risk taken by the investor in a particular portfolio. Is this statement right?",
 "o": [
@@ -562,7 +573,7 @@
 "e": "Correct answer: yes, it is (from the IC89 question bank)."
 },
 {
-"n": 41,
+"n": 42,
 "topic": "Management Accounting",
 "t": "How is the factory overhead ratio calculated?",
 "o": [
@@ -576,7 +587,7 @@
 "e": "Correct answer: Factory overhead / net sales x 100 (from the IC89 question bank)."
 },
 {
-"n": 42,
+"n": 43,
 "topic": "Management Accounting",
 "t": "Projects for which Internal Rate of Return exceeds Weighted Average Cost of Capital should be accepted. Argue.",
 "o": [
@@ -590,7 +601,7 @@
 "e": "Correct answer: Yes. Totally agree (from the IC89 question bank)."
 },
 {
-"n": 43,
+"n": 44,
 "topic": "Management Accounting",
 "t": "Which of the following defines an internal rate of return?",
 "o": [
@@ -602,20 +613,6 @@
 ],
 "a": 1,
 "e": "Correct answer: The discount rate at which the present value of the discounted cash flow is equal to zero (from the IC89 question bank)."
-},
-{
-"topic": "IRDAI – regulator",
-"t": "The minimum paid-up equity capital required to start a life or general insurance company in India is:",
-"o": [
-"₹50 crore",
-"₹100 crore",
-"₹200 crore",
-"₹500 crore"
-],
-"a": 1,
-"e": "★ Core fact (asked across III papers). ₹100 crore for a direct insurer; ₹200 crore for a reinsurer (Section 6 of the Insurance Act).",
-"r": "core",
-"n": 44
 },
 {
 "n": 45,

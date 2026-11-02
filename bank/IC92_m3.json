@@ -2,6 +2,34 @@
 {
 "n": 1,
 "topic": "Actuarial Aspects of Product Development",
+"t": "_____________ allows the policyholder to pay premiums late.",
+"o": [
+"add-on time",
+"Goodwill",
+"Grace period",
+"Good relations",
+"none of the above"
+],
+"a": 2,
+"e": "Correct answer: Grace period (from the IC92 question bank)."
+},
+{
+"n": 2,
+"topic": "Actuarial Aspects of Product Development",
+"t": "An awareness of an inadequacy in an existing product is because of:-",
+"o": [
+"changes in demographics",
+"change in future expense outlook",
+"changes in future investment outlook",
+"Both A & B",
+"All A, B & C"
+],
+"a": 4,
+"e": "Correct answer: All A, B & C (from the IC92 question bank)."
+},
+{
+"n": 3,
+"topic": "Actuarial Aspects of Product Development",
 "t": "Even for traditional participating products, determination of both bonuses to be paid along with  premium to be charged is:-",
 "o": [
 "subject of policyholder",
@@ -14,7 +42,7 @@
 "e": "Correct answer: subject of pricing (from the IC92 question bank)."
 },
 {
-"n": 2,
+"n": 4,
 "topic": "Actuarial Aspects of Product Development",
 "t": "Assets invested for backing reserves earn less than what is required by the shareholders, for example, if assets are earning 9% per annum and risk discount rate is 12% per annum then:-",
 "o": [
@@ -28,7 +56,7 @@
 "e": "Correct answer: there is a cost of holding reserve for shareholder (from the IC92 question bank)."
 },
 {
-"n": 3,
+"n": 5,
 "topic": "Actuarial Aspects of Product Development",
 "t": "Benefit payment on death only during a specified policy term. What type of policy is this?",
 "o": [
@@ -42,7 +70,7 @@
 "e": "Correct answer: Term plan (from the IC92 question bank)."
 },
 {
-"n": 4,
+"n": 6,
 "topic": "Actuarial Aspects of Product Development",
 "t": "Assuming single premium of 50,000 for a 25 years term insurance policy which has duration of 20 years. The discount rate has been assumed as 10%. If discount rate assumption would have been 11%, what would have been the approximate premium?",
 "o": [
@@ -56,7 +84,7 @@
 "e": "Correct answer: Approximately 41,500 (from the IC92 question bank)."
 },
 {
-"n": 5,
+"n": 7,
 "topic": "Actuarial Aspects of Product Development",
 "t": "As per Indian regulations, maximum allowable commission in first year is ________________ than the second year for a 20 years regular premium policy.",
 "o": [
@@ -70,7 +98,7 @@
 "e": "Correct answer: Higher (from the IC92 question bank)."
 },
 {
-"n": 6,
+"n": 8,
 "topic": "Actuarial Aspects of Product Development",
 "t": "What kind of insurance products are suitable for children?",
 "o": [
@@ -84,7 +112,7 @@
 "e": "Correct answer: Deferred Assurances (from the IC92 question bank)."
 },
 {
-"n": 7,
+"n": 9,
 "topic": "Actuarial Aspects of Product Development",
 "t": "One of the main issues associated with product design is _______________________.",
 "o": [
@@ -98,7 +126,7 @@
 "e": "Correct answer: proper communication to a lay customer (from the IC92 question bank)."
 },
 {
-"n": 8,
+"n": 10,
 "topic": "Actuarial Aspects of Product Development",
 "t": "If in a life table, number of survivors at age 32 are 75,670 and number of survivors at age 33 are 74,900, determine the mortality probability at age 32.",
 "o": [
@@ -112,7 +140,7 @@
 "e": "Correct answer: 1.02% (from the IC92 question bank)."
 },
 {
-"n": 9,
+"n": 11,
 "topic": "Actuarial Aspects of Product Development",
 "t": "Benefit payment on death only, and the amount of death benefit gets increased in a specified order according to year of death. What type of policy is this.",
 "o": [
@@ -126,7 +154,7 @@
 "e": "Correct answer: Increasing Term Assurance (from the IC92 question bank)."
 },
 {
-"n": 10,
+"n": 12,
 "topic": "Actuarial Aspects of Product Development",
 "t": "Akshay is a relatively cautious person. In insurance terms, this will normally increase the likelihood that he will:-",
 "o": [
@@ -140,22 +168,7 @@
 "e": "Correct answer: Require insurance cover. (from the IC92 question bank)."
 },
 {
-"n": 11,
-"topic": "Actuarial Aspects of Product Development",
-"t": "Who among the following will be having highest pure premium for a 10 lakh sum assured 10 years term insurance plan?",
-"o": [
-"40 year old non-smoker male",
-"40 year old non-smoker female",
-"40 year old smoker male",
-"40 year old smoker female",
-"35 year old smoker male"
-],
-"a": 2,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: 40 year old smoker male (from the IC92 question bank).",
-"r": "key"
-},
-{
-"n": 12,
+"n": 13,
 "topic": "Actuarial Aspects of Product Development",
 "t": "Indian regulations prescribes a minimum Required Solvency Margin as _______________.",
 "o": [
@@ -169,7 +182,7 @@
 "e": "Correct answer: Rs. 50 crores (from the IC92 question bank)."
 },
 {
-"n": 13,
+"n": 14,
 "topic": "Actuarial Aspects of Product Development",
 "t": "Commutation functions are generally  used under which method?",
 "o": [
@@ -183,7 +196,7 @@
 "e": "Correct answer: Formula method (from the IC92 question bank)."
 },
 {
-"n": 14,
+"n": 15,
 "topic": "Actuarial Aspects of Product Development",
 "t": "What normally happens to the sum insured under a life insurance policy once the period of the lien expires?",
 "o": [
@@ -197,7 +210,7 @@
 "e": "Correct answer: It increases. (from the IC92 question bank)."
 },
 {
-"n": 15,
+"n": 16,
 "topic": "Actuarial Aspects of Product Development",
 "t": "In unit linked products, mortality risk is always with:-",
 "o": [
@@ -211,7 +224,7 @@
 "e": "Correct answer: Insurance company (from the IC92 question bank)."
 },
 {
-"n": 16,
+"n": 17,
 "topic": "Actuarial Aspects of Product Development",
 "t": "profit margin of base scenario must meet ____________ profit requirement.",
 "o": [
@@ -225,7 +238,7 @@
 "e": "Correct answer: Minimum (from the IC92 question bank)."
 },
 {
-"n": 17,
+"n": 18,
 "topic": "Actuarial Aspects of Product Development",
 "t": "A life table is prepared by using the following past data:-",
 "o": [
@@ -239,7 +252,7 @@
 "e": "Correct answer: Mortality rate at different ages (from the IC92 question bank)."
 },
 {
-"n": 18,
+"n": 19,
 "topic": "Actuarial Aspects of Product Development",
 "t": "For regular premium policies, the law prescribes that first year commission can be higher for:-",
 "o": [
@@ -253,7 +266,7 @@
 "e": "Correct answer: Companies with less than 10 years of existance (from the IC92 question bank)."
 },
 {
-"n": 19,
+"n": 20,
 "topic": "Actuarial Aspects of Product Development",
 "t": "Mr. Samit buys an Endowment Assurance contract with profits for a Sum assured of 500,000 and a policy term of 15 years. He dies in the 7<SUP>th</SUP> policy year (i.e. after payment of 7 annual premiums). Total vested bonus for 7 years is 43,000. What is the benefit payable on his death?",
 "o": [
@@ -265,20 +278,6 @@
 ],
 "a": 0,
 "e": "Correct answer: Rs 543000 (from the IC92 question bank)."
-},
-{
-"n": 20,
-"topic": "Actuarial Aspects of Product Development",
-"t": "In case of a 'single premium' 10 years 'term insurance' policy, the policyholder dies in first year, what will happen?",
-"o": [
-"The nominee will get the sum assured along with re",
-"The nominee will get the sum assured",
-"The nominee will get the sum assured along with th",
-"None of the above"
-],
-"a": 1,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: The nominee will get the sum assured (from the IC92 question bank).",
-"r": "key"
 },
 {
 "n": 21,
@@ -311,6 +310,20 @@
 {
 "n": 23,
 "topic": "Actuarial Aspects of Product Development",
+"t": "How we can reduce sensitivity of profit due to mortality?",
+"o": [
+"Make the charge for this variable at the company's discretion",
+"Make the charge for this variable at the individua",
+"Make the charge for this variable at the no body's",
+"Make no charge for this variable at the company's",
+"None of these"
+],
+"a": 0,
+"e": "Correct answer: Make the charge for this variable at the company's discretion (from the IC92 question bank)."
+},
+{
+"n": 24,
+"topic": "Actuarial Aspects of Product Development",
 "t": "What is the process of checking the premiums to see if its affordable and satisfies the internal profit criteria?",
 "o": [
 "Loss testing",
@@ -323,7 +336,21 @@
 "e": "Correct answer: Profit testing (from the IC92 question bank)."
 },
 {
-"n": 24,
+"n": 25,
+"topic": "Actuarial Aspects of Product Development",
+"t": "Adverse Selection refers to:-",
+"o": [
+"Wrong policies being selected",
+"Lack of consensus ad idem",
+"Substandard lives entering insurance contracts by non-disclosure",
+"Selection of wrong target segment by insurance com",
+"None of the above"
+],
+"a": 2,
+"e": "Correct answer: Substandard lives entering insurance contracts by non-disclosure (from the IC92 question bank)."
+},
+{
+"n": 26,
 "topic": "Actuarial Aspects of Product Development",
 "t": "Marketability is greatly enhanced ___________.",
 "o": [
@@ -337,7 +364,7 @@
 "e": "Correct answer: All (a), (b) & (c) (from the IC92 question bank)."
 },
 {
-"n": 25,
+"n": 27,
 "topic": "Actuarial Aspects of Product Development",
 "t": "In case of initial fixed expenses, if policies are issued with small premiums:-",
 "o": [
@@ -351,22 +378,7 @@
 "e": "Correct answer: such policies would cause loss (from the IC92 question bank)."
 },
 {
-"n": 26,
-"topic": "Actuarial Aspects of Product Development",
-"t": "Calculate the amount invested in unit fund if premium paid is Rs. 1,000 and allocation rate is 90%.",
-"o": [
-"900",
-"1000",
-"100",
-"1100",
-"1900"
-],
-"a": 0,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: 900 (from the IC92 question bank).",
-"r": "key"
-},
-{
-"n": 27,
+"n": 28,
 "topic": "Actuarial Aspects of Product Development",
 "t": "Insurance companies use mortality tables to:-",
 "o": [
@@ -380,7 +392,7 @@
 "e": "Correct answer: Predict how long a particular person will live (from the IC92 question bank)."
 },
 {
-"n": 28,
+"n": 29,
 "topic": "Actuarial Aspects of Product Development",
 "t": "What kind of assistance life insurance provides to the insured and to the dependants of the insured in the event of his death?",
 "o": [
@@ -394,7 +406,7 @@
 "e": "Correct answer: financial (from the IC92 question bank)."
 },
 {
-"n": 29,
+"n": 30,
 "topic": "Actuarial Aspects of Product Development",
 "t": "The minimum policy term is:-",
 "o": [
@@ -408,7 +420,7 @@
 "e": "Correct answer: For individual products, shall be at least five years (from the IC92 question bank)."
 },
 {
-"n": 30,
+"n": 31,
 "topic": "Actuarial Aspects of Product Development",
 "t": "Investment freedom is there in:-",
 "o": [
@@ -422,7 +434,7 @@
 "e": "Correct answer: Unit-linked plan (from the IC92 question bank)."
 },
 {
-"n": 31,
+"n": 32,
 "topic": "Actuarial Aspects of Product Development",
 "t": "Measure of the number of deaths in a population is called:-",
 "o": [
@@ -436,7 +448,7 @@
 "e": "Correct answer: Mortality rates (from the IC92 question bank)."
 },
 {
-"n": 32,
+"n": 33,
 "topic": "Actuarial Aspects of Product Development",
 "t": "Product design should balance interests of:-",
 "o": [
@@ -450,7 +462,7 @@
 "e": "Correct answer: Policyholders and  shareholders (from the IC92 question bank)."
 },
 {
-"n": 33,
+"n": 34,
 "topic": "Actuarial Aspects of Product Development",
 "t": "Diversification is one way in which insurance companies can protect themselves against:-",
 "o": [
@@ -464,7 +476,21 @@
 "e": "Correct answer: Positively correlated risks (from the IC92 question bank)."
 },
 {
-"n": 34,
+"n": 35,
+"topic": "Actuarial Aspects of Product Development",
+"t": "For unit fund, Policy Administration charge is levied ___________  each policy month from the unit fund by cancelling units for equivalent amount.",
+"o": [
+"at the beginning of",
+"in the end of",
+"in the middle of",
+"after",
+"None of the above"
+],
+"a": 0,
+"e": "Correct answer: at the beginning of (from the IC92 question bank)."
+},
+{
+"n": 36,
 "topic": "Actuarial Aspects of Product Development",
 "t": "Pure premium' is defined as:-",
 "o": [
@@ -478,21 +504,7 @@
 "e": "Correct answer: Cost of the benefits (from the IC92 question bank)."
 },
 {
-"topic": "Policyholder protection",
-"t": "An Insurance Ombudsman can entertain a complaint where the value of the claim, including expenses, does not exceed:",
-"o": [
-"₹20 lakh",
-"₹30 lakh",
-"₹50 lakh",
-"₹1 crore"
-],
-"a": 2,
-"e": "★ Core fact (asked across III papers). The limit was raised to ₹50 lakh by the amended Insurance Ombudsman Rules.",
-"r": "core",
-"n": 35
-},
-{
-"n": 36,
+"n": 37,
 "topic": "Actuarial Aspects of Product Development",
 "t": "The whole life or term insurance doesn't meet all the needs of the policyholder as these policies do not provide ________ benefits.",
 "o": [
@@ -506,7 +518,7 @@
 "e": "Correct answer: survival (from the IC92 question bank)."
 },
 {
-"n": 37,
+"n": 38,
 "topic": "Actuarial Aspects of Product Development",
 "t": "If sum of the expected benefit pay-outs is 850,000 and sum of the present value of all the expenses is 150,000, which of the following would be the approximate amount of sum of the present value of annual premiums?",
 "o": [
@@ -520,7 +532,7 @@
 "e": "Correct answer: Much less than Rs. 1,000,000 (from the IC92 question bank)."
 },
 {
-"n": 38,
+"n": 39,
 "topic": "Actuarial Aspects of Product Development",
 "t": "Reserves are required to be kept as __________ to ensure that company is able to meet the claims as it arises",
 "o": [
@@ -534,7 +546,7 @@
 "e": "Correct answer: liability (from the IC92 question bank)."
 },
 {
-"n": 39,
+"n": 40,
 "topic": "Actuarial Aspects of Product Development",
 "t": "If Fund Management charge (FMC) is 1% p.a. payable annually; Fund before FMC is Rs.100/- and Fund after this charge is:-",
 "o": [
@@ -548,7 +560,7 @@
 "e": "Correct answer: Rs.99 (from the IC92 question bank)."
 },
 {
-"n": 40,
+"n": 41,
 "topic": "Actuarial Aspects of Product Development",
 "t": "Utility expected is referred to as ______________  in terms of money.",
 "o": [
@@ -562,7 +574,7 @@
 "e": "Correct answer: economic value (from the IC92 question bank)."
 },
 {
-"n": 41,
+"n": 42,
 "topic": "Actuarial Aspects of Product Development",
 "t": "If the life assured dies during the tenure of the insurance contract:-",
 "o": [
@@ -576,7 +588,7 @@
 "e": "Correct answer: the sum assured is payable (from the IC92 question bank)."
 },
 {
-"n": 42,
+"n": 43,
 "topic": "Actuarial Aspects of Product Development",
 "t": "Premium Allocation Charge is a percentage of the premium appropriated towards charges from:-",
 "o": [
@@ -590,7 +602,7 @@
 "e": "Correct answer: premium received (from the IC92 question bank)."
 },
 {
-"n": 43,
+"n": 44,
 "topic": "Actuarial Aspects of Product Development",
 "t": "To which year does the history of insurance date back?",
 "o": [
@@ -602,20 +614,6 @@
 ],
 "a": 2,
 "e": "Correct answer: 6000 (from the IC92 question bank)."
-},
-{
-"topic": "Policyholder protection",
-"t": "The IRDAI portal through which a policyholder can escalate an unresolved grievance against an insurer is:",
-"o": [
-"Bima Sugam",
-"Bima Bharosa",
-"Bima Vahak",
-"Bima Vistaar"
-],
-"a": 1,
-"e": "★ Core fact (asked across III papers). Bima Bharosa (formerly IGMS) is the grievance portal; Bima Sugam is the marketplace, Bima Vahak the women-led distribution channel and Bima Vistaar the combined rural product.",
-"r": "core",
-"n": 44
 },
 {
 "n": 45,

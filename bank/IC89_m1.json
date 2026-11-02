@@ -29,6 +29,20 @@
 {
 "n": 3,
 "topic": "Management Accounting",
+"t": "Karan wants your advise with regards to publication of Revenue Account in the newspaper. Advise which of the following is correct.<br><br>I. Annuity may be clubbed with pension for disclosure purpose.<br>II. Health may be clubbed under the broader head of Linked and Non-linked business<br>III. The relaxation of clubbing is applicable for website along with paper publication",
+"o": [
+"Only I",
+"I and II",
+"Only III",
+"II and III",
+"I, II and III"
+],
+"a": 1,
+"e": "Correct answer: I and II (from the IC89 question bank)."
+},
+{
+"n": 4,
+"topic": "Management Accounting",
 "t": "This risk arises due to inflation or rise in prices leading to rise in costs of production, lower margins, wage rises and profit squeezing, etc. Which type of risk is this?",
 "o": [
 "Social or Regulatory Risk",
@@ -41,7 +55,7 @@
 "e": "Correct answer: Purchasing Power Risk (from the IC89 question bank)."
 },
 {
-"n": 4,
+"n": 5,
 "topic": "Management Accounting",
 "t": "Which one of the following is not involved in the approval process of FDI?",
 "o": [
@@ -55,7 +69,7 @@
 "e": "Correct answer: Ministry of Corporate Affairs (from the IC89 question bank)."
 },
 {
-"n": 5,
+"n": 6,
 "topic": "Management Accounting",
 "t": "Debentures are cheaper source of funds compared to shares. Argue.",
 "o": [
@@ -69,7 +83,21 @@
 "e": "Correct answer: They have fixed rate of interest (cost), and give tax advantage (from the IC89 question bank)."
 },
 {
-"n": 6,
+"n": 7,
+"topic": "Management Accounting",
+"t": "Ajay inputs the risk class, risk particulars, risk location, risk conditions, risk period, risk value into the information system to get the premium rate, premium amount, policy conditions, policy coverage, policy exception automatically. What type of system is this?",
+"o": [
+"Probabilistic system",
+"Open System",
+"Closed System",
+"Deterministic system",
+"Manual System"
+],
+"a": 4,
+"e": "Correct answer: Manual System (from the IC89 question bank)."
+},
+{
+"n": 8,
 "topic": "Management Accounting",
 "t": "Tax benefits are available when funds invested in public provident funds are withdrawn on maturity. This is an example of:-<br><br>I. Initial tax benefits<br>II.Continuing tax benefit<br>III. Terminal tax benefits",
 "o": [
@@ -83,22 +111,7 @@
 "e": "Correct answer: Only III (from the IC89 question bank)."
 },
 {
-"n": 7,
-"topic": "Management Accounting",
-"t": "Any amount which is payable by a company within a period of 12 months from the end of the balance sheet date is referred to as ________.",
-"o": [
-"Capital",
-"Loan",
-"Current asset",
-"Current liability",
-"Contingent liability"
-],
-"a": 3,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Current liability (from the IC89 question bank).",
-"r": "key"
-},
-{
-"n": 8,
+"n": 9,
 "topic": "Management Accounting",
 "t": "Depository receipts traded outside the US are known as __________.",
 "o": [
@@ -112,7 +125,7 @@
 "e": "Correct answer: Global (from the IC89 question bank)."
 },
 {
-"n": 9,
+"n": 10,
 "topic": "Management Accounting",
 "t": "Which of the following is an unsystematic risk?<br><br>I. Regulatory risk<br>II. Financial Risk<br>III. Default risk",
 "o": [
@@ -126,7 +139,7 @@
 "e": "Correct answer: II and III (from the IC89 question bank)."
 },
 {
-"n": 10,
+"n": 11,
 "topic": "Management Accounting",
 "t": "If an investment has a beta of 0.75, what does it indicate?",
 "o": [
@@ -140,7 +153,21 @@
 "e": "Correct answer: Volatility of the returns of the investment as regards economic fluctuations is 3/4<sup>th</sup> that of the market (from the IC89 question bank)."
 },
 {
-"n": 11,
+"n": 12,
+"topic": "Management Accounting",
+"t": "An Indian business man exports rice to a Japanese trader invoiced in Yen and a Japanese trader sells machine to the Indian trader invoiced in Indian rupee. Both parties want to trade and deal in their own currency. Which market shall work as an intermediary in this regard?",
+"o": [
+"Domestic market",
+"Foreign Goods Market",
+"Securities Market",
+"Stock Exchange",
+"Foreign Exchange Market"
+],
+"a": 4,
+"e": "Correct answer: Foreign Exchange Market (from the IC89 question bank)."
+},
+{
+"n": 13,
 "topic": "Management Accounting",
 "t": "Higher _____________ means a better portfolio's returns relative to the degree of market risk taken by the investor.",
 "o": [
@@ -154,7 +181,7 @@
 "e": "Correct answer: Treynor Ratio (from the IC89 question bank)."
 },
 {
-"n": 12,
+"n": 14,
 "topic": "Management Accounting",
 "t": "Required solvency Margin is based on:-<br><br>I. Net premium<br>II. Incurred claims<br>III. Share capital",
 "o": [
@@ -168,7 +195,7 @@
 "e": "Correct answer: I and II (from the IC89 question bank)."
 },
 {
-"n": 13,
+"n": 15,
 "topic": "Management Accounting",
 "t": "The Insurance Regulatory and Development Authority (Investment) Regulations 2000 were recently amended in which year?",
 "o": [
@@ -182,7 +209,7 @@
 "e": "Correct answer: 2013 (from the IC89 question bank)."
 },
 {
-"n": 14,
+"n": 16,
 "topic": "Management Accounting",
 "t": "When should the price / conversion formula of convertible capital instruments be decided in accordance with the FDI Policy in India?",
 "o": [
@@ -196,7 +223,7 @@
 "e": "Correct answer: Upfront at the time of issue of the instruments (from the IC89 question bank)."
 },
 {
-"n": 15,
+"n": 17,
 "topic": "Management Accounting",
 "t": "Future contracts, options and swaps are examples of ____________.",
 "o": [
@@ -210,7 +237,7 @@
 "e": "Correct answer: Financial derivatives (from the IC89 question bank)."
 },
 {
-"n": 16,
+"n": 18,
 "topic": "Management Accounting",
 "t": "Which item will appear as cash outflow in a cash budget?<br><br>I. Reinsurance payments<br>II. Transfer to catastrophe reserve<br>III. Bonus issue of shares",
 "o": [
@@ -224,7 +251,21 @@
 "e": "Correct answer: Only I (from the IC89 question bank)."
 },
 {
-"n": 17,
+"n": 19,
+"topic": "Management Accounting",
+"t": "In an insurance company MIS plays a vital role at various levels of management providing information and integration to which of the following systems and functions:-<br><br>I. HRD System<br>II. Accounting System<br>III. Regulatory Compliance System<br>IV. Grievance Redressal or Customer Care System",
+"o": [
+"Only I",
+"Only II",
+"I, II and III",
+"II, III and IV",
+"All of them"
+],
+"a": 4,
+"e": "Correct answer: All of them (from the IC89 question bank)."
+},
+{
+"n": 20,
 "topic": "Management Accounting",
 "t": "Which was the first stock exchange to be established in India?",
 "o": [
@@ -238,7 +279,7 @@
 "e": "Correct answer: Bombay Stock exchange (from the IC89 question bank)."
 },
 {
-"n": 18,
+"n": 21,
 "topic": "Management Accounting",
 "t": "Explain investing activities.",
 "o": [
@@ -252,22 +293,7 @@
 "e": "Correct answer: Investing activities are activities that related to the acquisition and disposals of long-term assets and other investments (from the IC89 question bank)."
 },
 {
-"n": 19,
-"topic": "Management Accounting",
-"t": "These are equity funds offering tax-benefits. Investments in these funds are eligible for income tax deduction under Section 80C of the IT Act, Which type of funds are these?",
-"o": [
-"Equity Funds",
-"Balanced Funds",
-"Sector Funds",
-"Equity-linked Savings Scheme",
-"Index funds"
-],
-"a": 3,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Equity-linked Savings Scheme (from the IC89 question bank).",
-"r": "key"
-},
-{
-"n": 20,
+"n": 22,
 "topic": "Management Accounting",
 "t": "Sohan purchased a call option on an index of stocks and he is permitted to exercise this option during the period of next 3 months from now. This is a ______.",
 "o": [
@@ -281,7 +307,7 @@
 "e": "Correct answer: Long American option (from the IC89 question bank)."
 },
 {
-"n": 21,
+"n": 23,
 "topic": "Management Accounting",
 "t": "A cash flow statement for a life insurance company should be divided into:-<br><br>I. Operating activity<br>II. Investing activity<br>III. Financing activity",
 "o": [
@@ -295,7 +321,21 @@
 "e": "Correct answer: I, II and III (from the IC89 question bank)."
 },
 {
-"n": 22,
+"n": 24,
+"topic": "Management Accounting",
+"t": "Which of the following is not a valid assumption under CAPM Model?<br><br>I. Investors have identical time horizon<br>II. Information is freely and simultaneously available to investors.<br>III. The asset risks is based on market expectation and investor can borrow at the market rate",
+"o": [
+"III",
+"I and III",
+"II and III",
+"I, II and III",
+"Only I"
+],
+"a": 0,
+"e": "Correct answer: III (from the IC89 question bank)."
+},
+{
+"n": 25,
 "topic": "Management Accounting",
 "t": "The option to sell an asset is generally called ________.",
 "o": [
@@ -309,7 +349,7 @@
 "e": "Correct answer: Put (from the IC89 question bank)."
 },
 {
-"n": 23,
+"n": 26,
 "topic": "Management Accounting",
 "t": "Identify the correct formula to calculate Yearly return percentage.",
 "o": [
@@ -323,7 +363,7 @@
 "e": "Correct answer: {D + C + (NAV1 - NAV0)} / NAV0 (from the IC89 question bank)."
 },
 {
-"n": 24,
+"n": 27,
 "topic": "Management Accounting",
 "t": "A major difference between a forward contract and a future contract is that only a future contract is:-",
 "o": [
@@ -337,7 +377,7 @@
 "e": "Correct answer: A standardized contract that is traded over an exchange (from the IC89 question bank)."
 },
 {
-"n": 25,
+"n": 28,
 "topic": "Management Accounting",
 "t": "_________ is a mechanism for pooling the resources by issuing units to the investors and investing funds in securities and schemes in considerations of prospects or potential of various securities in respect of appreciation, security and return on investment.",
 "o": [
@@ -351,7 +391,7 @@
 "e": "Correct answer: Mutual Fund (from the IC89 question bank)."
 },
 {
-"n": 26,
+"n": 29,
 "topic": "Management Accounting",
 "t": "The quote of INR and US dollars is given as $1 = <IMG border=0 hspace=0 alt=\"\" align=absMiddle src=\"/Attest1_res/topicresources/434431108/III_Rs_Symbol.jpg\" width=12 height=15> 60. This is an example of ________________.",
 "o": [
@@ -365,22 +405,7 @@
 "e": "Correct answer: Direct (from the IC89 question bank)."
 },
 {
-"n": 27,
-"topic": "Management Accounting",
-"t": "Which of the following statement is incorrect as per Section 128 of the Companies Act?",
-"o": [
-"Every company shall prepare and keep at its regist",
-"Books of accounts should explain the transactions",
-"Books shall be kept on accrual basis and according",
-"Books of accounts can be kept at other place on de",
-"Books of accounts need not be prepared if the turnover is less than  10 crores"
-],
-"a": 4,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Books of accounts need not be prepared if the turnover is less than  10 crores (from the IC89 question bank).",
-"r": "key"
-},
-{
-"n": 28,
+"n": 30,
 "topic": "Management Accounting",
 "t": "Propose a Special Purpose Vehicle (SPV) for mobilization of savings and investments and formation of capital for organizations.",
 "o": [
@@ -394,7 +419,7 @@
 "e": "Correct answer: Mutual Fund (from the IC89 question bank)."
 },
 {
-"n": 29,
+"n": 31,
 "topic": "Management Accounting",
 "t": "Sangeeta wants your advise on the regulatory aspects of FD. Select which of the following is correct?<br><br>I. All FIIs and their sub-accounts taken together cannot acquire more than 24% of the paid up capital of an Indian Company<br>II. Investment by foreign corporate or High Net-worth Individuals (HNIs) registered as sub accounts of an FII is restricted to 10% of the paid up capital of the Indian company.<br>III. Investment by SEBI registered FIIs and its sub accounts cannot exceed 5% of the paid up capital of the Indian company.",
 "o": [
@@ -408,7 +433,7 @@
 "e": "Correct answer: Only I (from the IC89 question bank)."
 },
 {
-"n": 30,
+"n": 32,
 "topic": "Management Accounting",
 "t": "A bank in India buys Euros of Europe in exchange for US Dollars from the Bank of US. Which of the following will be termed as the settling location/s?<br><br>I. India<br>II. Europe<br>III. US",
 "o": [
@@ -422,7 +447,7 @@
 "e": "Correct answer: II and III (from the IC89 question bank)."
 },
 {
-"n": 31,
+"n": 33,
 "topic": "Management Accounting",
 "t": "Which of the following is/are the attributes of useful information:-<br><br>I. Frequency<br>II. Quality<br>III. Purpose<br>IV. Availability",
 "o": [
@@ -436,7 +461,7 @@
 "e": "Correct answer: All of them (from the IC89 question bank)."
 },
 {
-"n": 32,
+"n": 34,
 "topic": "Management Accounting",
 "t": "Mr Sharma received a gift from his friend based in UK. Advise whether this transaction will form part of Balance of Payment?",
 "o": [
@@ -450,7 +475,7 @@
 "e": "Correct answer: yes. This is a part of BOP (from the IC89 question bank)."
 },
 {
-"n": 33,
+"n": 35,
 "topic": "Management Accounting",
 "t": "Insurers are required to display information for geographical distribution; Claim Ageing based on the yearly audited statement for how many years?",
 "o": [
@@ -464,7 +489,7 @@
 "e": "Correct answer: 5 years (from the IC89 question bank)."
 },
 {
-"n": 34,
+"n": 36,
 "topic": "Management Accounting",
 "t": "What is the ISO code of Canadian Dollar?",
 "o": [
@@ -478,7 +503,7 @@
 "e": "Correct answer: CAD (from the IC89 question bank)."
 },
 {
-"n": 35,
+"n": 37,
 "topic": "Management Accounting",
 "t": "The firm's decision to invest its current assets most efficiently and effectively in the long-term projects and activities with the objective of earning good return on Investment is defined as _________.",
 "o": [
@@ -492,21 +517,7 @@
 "e": "Correct answer: Capital budgeting (from the IC89 question bank)."
 },
 {
-"topic": "Insurance Act 1938 – key sections",
-"t": "Under Section 45 of the Insurance Act 1938, a life insurance policy cannot be called in question on any ground after how many years from the date of issue, revival or rider addition, whichever is later?",
-"o": [
-"Two years",
-"Three years",
-"Five years",
-"One year"
-],
-"a": 1,
-"e": "★ Core fact (asked across III papers). The 2015 amendment made the three-year bar absolute: after three years no policy may be questioned on any ground, including fraud.",
-"r": "core",
-"n": 36
-},
-{
-"n": 37,
+"n": 38,
 "topic": "Management Accounting",
 "t": "Calculate the investment at the start of the project from the following available information.<br><br>Net present value (NPV) of <IMG border=0 hspace=0 alt=\"\" align=absMiddle src=\"/Attest1_res/topicresources/457776428/III_Rs_Symbol.jpg\" width=12 height=15>10,262 (positive)<br>Cash flows (discounted at the cost of capital of 15% per annum)<br>Expected net cash inflows is <IMG border=0 hspace=0 alt=\"\" align=absMiddle src=\"/Attest1_res/topicresources/457776428/III_Rs_Symbol.jpg\" width=12 height=15>21,520 per annum for five years<br>Cumulative discount (annuity) factor at 15% is 3.350 (for five years)",
 "o": [
@@ -520,7 +531,7 @@
 "e": "Correct answer: Rs.61,830 (from the IC89 question bank)."
 },
 {
-"n": 38,
+"n": 39,
 "topic": "Management Accounting",
 "t": "Issue of Global Depository Receipt requires approvals of:-<br><br>I. Ministry of finance<br>II. RBI Consent<br>III. Consent of stock exchange",
 "o": [
@@ -534,7 +545,7 @@
 "e": "Correct answer: I, II and III (from the IC89 question bank)."
 },
 {
-"n": 39,
+"n": 40,
 "topic": "Management Accounting",
 "t": "Shweta wants to know the broad headings that appear in the Current Account of BOP Account. Which of these appear in the Current Account?<br><br>I. Invisibles<br>II. Loans <br>III. Foreign investments",
 "o": [
@@ -548,7 +559,7 @@
 "e": "Correct answer: Only I (from the IC89 question bank)."
 },
 {
-"n": 40,
+"n": 41,
 "topic": "Management Accounting",
 "t": "Discounted cash flow method focuses on:-<br><br>I. Cash inflows<br>II. Cash outflows<br>III. Operating income",
 "o": [
@@ -562,7 +573,7 @@
 "e": "Correct answer: I and II (from the IC89 question bank)."
 },
 {
-"n": 41,
+"n": 42,
 "topic": "Management Accounting",
 "t": "Under the FDI policy, which of the following instrument is not allowed to be issued by the domestic company to the foreign investors?<br><br>I. Equity Shares<br>II. Convertible preference shares<br>III. Non convertible debentures",
 "o": [
@@ -576,7 +587,7 @@
 "e": "Correct answer: I, II and III (from the IC89 question bank)."
 },
 {
-"n": 42,
+"n": 43,
 "topic": "Management Accounting",
 "t": "How is the profitability index calculated?",
 "o": [
@@ -590,7 +601,7 @@
 "e": "Correct answer: Present Value of Cash inflows after tax / Cash Outflow (from the IC89 question bank)."
 },
 {
-"n": 43,
+"n": 44,
 "topic": "Management Accounting",
 "t": "The trust deed of a AIF needs to be duly registered under the provisions of which Act?",
 "o": [
@@ -602,20 +613,6 @@
 ],
 "a": 1,
 "e": "Correct answer: SEBI Regulations (from the IC89 question bank)."
-},
-{
-"topic": "Insurance Act 1938 – key sections",
-"t": "Section 41 of the Insurance Act 1938 prohibits:",
-"o": [
-"Assignment of a life policy",
-"Payment of any rebate of premium or commission as an inducement to buy insurance",
-"Nomination by a minor",
-"Issue of a policy without a medical examination"
-],
-"a": 1,
-"e": "★ Core fact (asked across III papers). Section 41 bars rebating; contravention attracts a penalty of up to ₹10 lakh.",
-"r": "core",
-"n": 44
 },
 {
 "n": 45,

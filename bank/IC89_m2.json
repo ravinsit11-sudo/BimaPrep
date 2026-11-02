@@ -2,6 +2,20 @@
 {
 "n": 1,
 "topic": "Management Accounting",
+"t": "Which of the statement are correct?<br><br>I. Higher the capital turnover ratio, higher the profitability<br>II. Greater the debtors velocity, better is the credit management of the company<br>III. Higher the inventory turnover ratio, better is the movement of inventory",
+"o": [
+"I",
+"III",
+"I and III",
+"II and III",
+"I, II and III"
+],
+"a": 4,
+"e": "Correct answer: I, II and III (from the IC89 question bank)."
+},
+{
+"n": 2,
+"topic": "Management Accounting",
 "t": "Method of calculation of Persistency Ratio should be as per the guidance provided by the ________.",
 "o": [
 "Institute of Actuaries of India",
@@ -14,7 +28,21 @@
 "e": "Correct answer: Institute of Actuaries of India (from the IC89 question bank)."
 },
 {
-"n": 2,
+"n": 3,
+"topic": "Management Accounting",
+"t": "What is the percentage of funds that are required to be invested in Central Government Securities, State Government Securities or other approved securities for an insurer carrying on general insurance business in India under Regulation 7 of the IRDA (Investment) 5<SUP>th</SUP> (Amendment) Regulations 2013?",
+"o": [
+"Not less than 20%",
+"Not less than 25%",
+"Not less than 30%",
+"Not less than 40%",
+"Not less than 90%"
+],
+"a": 2,
+"e": "Correct answer: Not less than 30% (from the IC89 question bank)."
+},
+{
+"n": 4,
 "topic": "Management Accounting",
 "t": "Expand the term \"BSE\".",
 "o": [
@@ -28,7 +56,7 @@
 "e": "Correct answer: Bombay Stock Exchange (from the IC89 question bank)."
 },
 {
-"n": 3,
+"n": 5,
 "topic": "Management Accounting",
 "t": "Insurance plans providing only death cover are referred to as _______________.",
 "o": [
@@ -42,7 +70,7 @@
 "e": "Correct answer: Term Insurance Policy (from the IC89 question bank)."
 },
 {
-"n": 4,
+"n": 6,
 "topic": "Management Accounting",
 "t": "_______________  is the price of one country's currency in terms of another currency, which is determined in the foreign exchange market.",
 "o": [
@@ -56,7 +84,21 @@
 "e": "Correct answer: Exchange Rate (from the IC89 question bank)."
 },
 {
-"n": 5,
+"n": 7,
+"topic": "Management Accounting",
+"t": "Swap transactions are basically of two types. Which are those?",
+"o": [
+"Interest rate swaps, currency swaps, credit swaps, commodity swaps and equity swaps.",
+"Spot forward transactions and Forward spot transac",
+"Open swaps and closed swaps",
+"Market swaps and intrinsic swaps",
+"None of the above"
+],
+"a": 0,
+"e": "Correct answer: Interest rate swaps, currency swaps, credit swaps, commodity swaps and equity swaps. (from the IC89 question bank)."
+},
+{
+"n": 8,
 "topic": "Management Accounting",
 "t": "Which type of risk affects only a few securities at a time?",
 "o": [
@@ -70,7 +112,7 @@
 "e": "Correct answer: Unsystematic risk (from the IC89 question bank)."
 },
 {
-"n": 6,
+"n": 9,
 "topic": "Management Accounting",
 "t": "Which of the following statement/s is/are incorrect about a term insurance policy?<br><br>I. Interest is also payable on the premium<br>II. The policy term cannot exceed 10 years<br>III. If the insured dies during the policy term, no benefit is payable to him.<br>IV. If the insured lives beyond the policy term he had selected, no benefit is payable to him.",
 "o": [
@@ -84,7 +126,21 @@
 "e": "Correct answer: I, II and III (from the IC89 question bank)."
 },
 {
-"n": 7,
+"n": 10,
+"topic": "Management Accounting",
+"t": "Which of the following is correct for futures contracts?<br><br>I. The forward contracts are standardised and exchange traded contracts<br>II. Forward contracts are never settled by actual delivery<br>III. No exchange of money takes place until the execution date when the buyer pays the cash and the seller delivers the underlying asset",
+"o": [
+"I and II",
+"I and III",
+"II and III",
+"I, II and III",
+"Only III"
+],
+"a": 4,
+"e": "Correct answer: Only III (from the IC89 question bank)."
+},
+{
+"n": 11,
 "topic": "Management Accounting",
 "t": "Which of the following factors are considered in procurement of funds:-<br><br>I. Sources of funds<br>II. Cost of capital<br>III. Control over capital",
 "o": [
@@ -98,7 +154,21 @@
 "e": "Correct answer: I, II and III (from the IC89 question bank)."
 },
 {
-"n": 8,
+"n": 12,
+"topic": "Management Accounting",
+"t": "Which of the following statement(s) is / are correct?<br><br>I. A lower receivables turnover is always desirable.<br>II. An increase in net profit margin without any change in revenue or assets indicates a weaker return on investments (ROI).<br>III. The lower the total debt-to-equity ratio, the lower the financial risk for a firm.",
+"o": [
+"Only I",
+"Only II",
+"Only III",
+"I and II",
+"I and III"
+],
+"a": 2,
+"e": "Correct answer: Only III (from the IC89 question bank)."
+},
+{
+"n": 13,
 "topic": "Management Accounting",
 "t": "An Indian student wants to pursue the CPA course, when the course fee was $ 450. At that time exchange rates happens to be <IMG border=0 hspace=0 alt=\"\" align=absMiddle src=\"/Attest1_res/topicresources/457776428/III_Rs_Symbol.jpg\" width=12 height=15>/$: 54.60 - 55.20.<BR><BR>The exchange rate was <IMG border=0 hspace=0 alt=\"\" align=absMiddle src=\"/Attest1_res/topicresources/457776428/III_Rs_Symbol.jpg\" width=12 height=15>/$: 0.0165 - 0.0169 after 6 months, when he finally decided to join the course. Find the profit/ loss to the Indian student on account of the delay. (Rounded off to nearest decimal)",
 "o": [
@@ -112,7 +182,7 @@
 "e": "Correct answer: Rs.2,432 loss (from the IC89 question bank)."
 },
 {
-"n": 9,
+"n": 14,
 "topic": "Management Accounting",
 "t": "In the Foreign Exchange Market, what is the time period for executing inter-bank transactions?",
 "o": [
@@ -126,22 +196,7 @@
 "e": "Correct answer: 5.5 days (from the IC89 question bank)."
 },
 {
-"n": 10,
-"topic": "Management Accounting",
-"t": "The Insurance Regulatory and Development Authority (Investment) Regulations 2000 were recently amended in which year?",
-"o": [
-"2001",
-"2002",
-"2004",
-"2008",
-"2013"
-],
-"a": 4,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: 2013 (from the IC89 question bank).",
-"r": "key"
-},
-{
-"n": 11,
+"n": 15,
 "topic": "Management Accounting",
 "t": "Which one of the following are aspects of managing in financial management?<br><br>I. Planning<br>II. Directing<br>III. Budgeting",
 "o": [
@@ -155,7 +210,7 @@
 "e": "Correct answer: I, II and III (from the IC89 question bank)."
 },
 {
-"n": 12,
+"n": 16,
 "topic": "Management Accounting",
 "t": "Which of the following risk can be termed as avoidable risk by diversification?<br><br>I. Business risk<br>II. Financial Risk<br>III. Market risk",
 "o": [
@@ -169,7 +224,7 @@
 "e": "Correct answer: I and II (from the IC89 question bank)."
 },
 {
-"n": 13,
+"n": 17,
 "topic": "Management Accounting",
 "t": "__________ are certificates that have legal claim of ownership interest in a foreign company's stock.",
 "o": [
@@ -183,7 +238,7 @@
 "e": "Correct answer: American Depository Receipts (from the IC89 question bank)."
 },
 {
-"n": 14,
+"n": 18,
 "topic": "Management Accounting",
 "t": "These are equity funds offering tax-benefits. Investments in these funds are eligible for income tax deduction under Section 80C of the IT Act, Which type of funds are these?",
 "o": [
@@ -197,7 +252,7 @@
 "e": "Correct answer: Equity-linked Savings Scheme (from the IC89 question bank)."
 },
 {
-"n": 15,
+"n": 19,
 "topic": "Management Accounting",
 "t": "Sanjay wants to understand the features of a futures contract. Explain which are the features to him?<br><br>I. Payment is made when the contract is created<br>II. No payment is made until the settlement date<br>III. The risk is eliminated for both the parties",
 "o": [
@@ -211,7 +266,7 @@
 "e": "Correct answer: Only II (from the IC89 question bank)."
 },
 {
-"n": 16,
+"n": 20,
 "topic": "Management Accounting",
 "t": "The risk-free rate and the expected market rate of return are 0.06 and 0.12, respectively. According to the capital asset pricing model (CAPM), the expected rate of return on security X with a beta of 1.2 is equal to _______________.",
 "o": [
@@ -225,22 +280,7 @@
 "e": "Correct answer: 13.2% (from the IC89 question bank)."
 },
 {
-"n": 17,
-"topic": "Management Accounting",
-"t": "Any amount which is payable by a company within a period of 12 months from the end of the balance sheet date is referred to as ________.",
-"o": [
-"Capital",
-"Loan",
-"Current asset",
-"Current liability",
-"Contingent liability"
-],
-"a": 3,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Current liability (from the IC89 question bank).",
-"r": "key"
-},
-{
-"n": 18,
+"n": 21,
 "topic": "Management Accounting",
 "t": "Which form is prescribed for preparing a statement of the value of assets?",
 "o": [
@@ -254,7 +294,7 @@
 "e": "Correct answer: Form IRDA-Assets-AA (from the IC89 question bank)."
 },
 {
-"n": 19,
+"n": 22,
 "topic": "Management Accounting",
 "t": "___________________ are investments where the premium is invested in units of an insurance fund.",
 "o": [
@@ -268,7 +308,7 @@
 "e": "Correct answer: Unit-linked Endowment Plans (from the IC89 question bank)."
 },
 {
-"n": 20,
+"n": 23,
 "topic": "Management Accounting",
 "t": "This risk arises due to fluctuations in the prices of securities and equity shares traded in the market though the earning power of the corporate sector and the interest rate structure remain more or less unchanged. Which type of risk is this?",
 "o": [
@@ -282,7 +322,7 @@
 "e": "Correct answer: Market Risk (from the IC89 question bank)."
 },
 {
-"n": 21,
+"n": 24,
 "topic": "Management Accounting",
 "t": "With regards to the cross-border capital raised, the term FDI stands for ________.",
 "o": [
@@ -296,7 +336,7 @@
 "e": "Correct answer: Foreign Direct Involvement (from the IC89 question bank)."
 },
 {
-"n": 22,
+"n": 25,
 "topic": "Management Accounting",
 "t": "This ratio measures the differential between the return actually earned on a portfolio and the return expected from the portfolio concerned at the various levels of risk. Which ratio is this?",
 "o": [
@@ -310,7 +350,7 @@
 "e": "Correct answer: Jensen's Alpha Ratio (from the IC89 question bank)."
 },
 {
-"n": 23,
+"n": 26,
 "topic": "Management Accounting",
 "t": "A trainee accountant of Narnia Ltd prepared the following statement of cash flows:-<br><br>Cash flow from operating activities <br>Profit before taxation <IMG border=0 hspace=0 alt=\"\" align=absMiddle src=\"/Attest1_res/topicresources/457776428/III_Rs_Symbol.jpg\" width=12 height=15>640<br>Less: Depreciation (<IMG border=0 hspace=0 alt=\"\" align=absMiddle src=\"/Attest1_res/topicresources/457776428/III_Rs_Symbol.jpg\" width=12 height=15>40)<br>Add: Investment income <IMG border=0 hspace=0 alt=\"\" align=absMiddle src=\"/Attest1_res/topicresources/457776428/III_Rs_Symbol.jpg\" width=12 height=15>200<br>Add: Increase in trade receivable <IMG border=0 hspace=0 alt=\"\" align=absMiddle src=\"/Attest1_res/topicresources/457776428/III_Rs_Symbol.jpg\" width=12 height=15>50<br>Add: Increase in trade payable <IMG border=0 hspace=0 alt=\"\" align=absMiddle src=\"/Attest1_res/topicresources/457776428/III_Rs_Symbol.jpg\" width=12 height=15>10<br>Net cash from operating activities <IMG border=0 hspace=0 alt=\"\" align=absMiddle src=\"/Attest1_res/topicresources/457776428/III_Rs_Symbol.jpg\" width=12 height=15>860<br><br>What is the net cash from operating activities?",
 "o": [
@@ -324,7 +364,7 @@
 "e": "Correct answer: Rs.440 (from the IC89 question bank)."
 },
 {
-"n": 24,
+"n": 27,
 "topic": "Management Accounting",
 "t": "(rp - rf) / &#963;p - This formula is used to calculate which ratio?",
 "o": [
@@ -338,22 +378,7 @@
 "e": "Correct answer: Sharpe's Ratio (from the IC89 question bank)."
 },
 {
-"n": 25,
-"topic": "Management Accounting",
-"t": "Sohan purchased a call option on an index of stocks and he is permitted to exercise this option during the period of next 3 months from now. This is a ______.",
-"o": [
-"Short European option",
-"Long European option",
-"Short American option",
-"Long American option",
-"None of the above"
-],
-"a": 3,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Long American option (from the IC89 question bank).",
-"r": "key"
-},
-{
-"n": 26,
+"n": 28,
 "topic": "Management Accounting",
 "t": "If the exchange rate of Indian Rupee and the UK Pound is <IMG border=0 hspace=0 alt=\"\" align=absMiddle src=\"/Attest1_res/topicresources/457776428/III_Rs_Symbol.jpg\" width=12 height=15> 90; it means:-<br><br>I. 90 units of the UK pound is equal to <IMG border=0 hspace=0 alt=\"\" align=absMiddle src=\"/Attest1_res/topicresources/457776428/III_Rs_Symbol.jpg\" width=12 height=15> 1<br>II. One unit of UK Pound is equal to <IMG border=0 hspace=0 alt=\"\" align=absMiddle src=\"/Attest1_res/topicresources/457776428/III_Rs_Symbol.jpg\" width=12 height=15> 90<br>III. One unit of Indian Rupee is equal to 90 Pound<br>IV. One unit of Indian Rupee is equal to 1 pound",
 "o": [
@@ -367,7 +392,7 @@
 "e": "Correct answer: Only II (from the IC89 question bank)."
 },
 {
-"n": 27,
+"n": 29,
 "topic": "Management Accounting",
 "t": "In preparing a cash budget, the budgeted level of cash receipts would take into account all of the following except:-",
 "o": [
@@ -381,7 +406,7 @@
 "e": "Correct answer: Policy of paying payables (from the IC89 question bank)."
 },
 {
-"n": 28,
+"n": 30,
 "topic": "Management Accounting",
 "t": "How is capital employed calculated?",
 "o": [
@@ -394,7 +419,7 @@
 "e": "Correct answer: Share Capital + Reserve & Surplus + Long Term Loans - Non-operating & Fictitious Assets (from the IC89 question bank)."
 },
 {
-"n": 29,
+"n": 31,
 "topic": "Management Accounting",
 "t": "Gratuity Insurance Plan is governed by which of the following Act?",
 "o": [
@@ -408,7 +433,7 @@
 "e": "Correct answer: Payments of Gratuity Act, 1972 (from the IC89 question bank)."
 },
 {
-"n": 30,
+"n": 32,
 "topic": "Management Accounting",
 "t": "Which of the following methods uses the concept of time value of money in its evaluation?<br><br>I. Payback period<br>II. Net present value<br>III. Internal rate of return",
 "o": [
@@ -422,7 +447,7 @@
 "e": "Correct answer: II and III (from the IC89 question bank)."
 },
 {
-"n": 31,
+"n": 33,
 "topic": "Management Accounting",
 "t": "An European firm requires EURO 7,50,000 for its business. It decides to borrow the amount for 6 months, but interest rates in Europe are quite high. So, it decides to borrow AUD. Presently, AUD/EURO - 1.2360/1.2390. What amount of AUD should be borrowed to fulfil the requirement of EURO 7,50,000? (Rounded off to nearest decimal)",
 "o": [
@@ -436,7 +461,7 @@
 "e": "Correct answer: AUD 9,29,250 (from the IC89 question bank)."
 },
 {
-"n": 32,
+"n": 34,
 "topic": "Management Accounting",
 "t": "Which of the following product/s is / are trade on the organised stock exchange as standardised contracts?<br><br>I. Futures<br>II. Options<br>III. Forwards",
 "o": [
@@ -450,7 +475,7 @@
 "e": "Correct answer: I and II (from the IC89 question bank)."
 },
 {
-"n": 33,
+"n": 35,
 "topic": "Management Accounting",
 "t": "Mutual Funds are no risk investment options. Argue.",
 "o": [
@@ -464,7 +489,7 @@
 "e": "Correct answer: Mutual funds are also subject to market risks (from the IC89 question bank)."
 },
 {
-"n": 34,
+"n": 36,
 "topic": "Management Accounting",
 "t": "Propose a term to describe the price of one country's currency in terms of another currency, which is determined in the foreign exchange market.",
 "o": [
@@ -478,21 +503,7 @@
 "e": "Correct answer: Exchange Rate (from the IC89 question bank)."
 },
 {
-"topic": "Insurance Act 1938 – key sections",
-"t": "Section 64VB of the Insurance Act 1938 requires that:",
-"o": [
-"Premium is received in advance before the risk is assumed",
-"Every policy carries a free-look clause",
-"Claims are settled within 30 days",
-"Agents hold a valid licence"
-],
-"a": 0,
-"e": "★ Core fact (asked across III papers). No risk may be assumed unless the premium has been received in advance or is guaranteed in the manner prescribed.",
-"r": "core",
-"n": 35
-},
-{
-"n": 36,
+"n": 37,
 "topic": "Management Accounting",
 "t": "Which of the following is an example of credit derivatives?<br><br>I. Credit Default Swap<br>II. Credit Linked Notes<br>III. Call option",
 "o": [
@@ -506,7 +517,7 @@
 "e": "Correct answer: I and II (from the IC89 question bank)."
 },
 {
-"n": 37,
+"n": 38,
 "topic": "Management Accounting",
 "t": "The return that equates the present value of the discounted net cash flows on the project to exactly zero is referred to as ______.",
 "o": [
@@ -520,7 +531,7 @@
 "e": "Correct answer: Internal rate of return (from the IC89 question bank)."
 },
 {
-"n": 38,
+"n": 39,
 "topic": "Management Accounting",
 "t": "The buyer of a futures contract is said to have a __________ position and the seller of a futures contract is said to have a __________ position in futures.",
 "o": [
@@ -534,7 +545,7 @@
 "e": "Correct answer: Long, Short (from the IC89 question bank)."
 },
 {
-"n": 39,
+"n": 40,
 "topic": "Management Accounting",
 "t": "What is the percentage of funds that are required to be invested in Central Government Securities for an insurer carrying on Pension, Annuity and group Business in India under  Regulation 5 of the IRDA (Investment) 5<sup>th</sup> (Amendment) Regulations 2013 ?",
 "o": [
@@ -548,7 +559,7 @@
 "e": "Correct answer: Not less than 20% (from the IC89 question bank)."
 },
 {
-"n": 40,
+"n": 41,
 "topic": "Management Accounting",
 "t": "A mutual fund is a collection of ____________, owned by a group of investors.",
 "o": [
@@ -562,7 +573,7 @@
 "e": "Correct answer: Stocks, bonds and securities (from the IC89 question bank)."
 },
 {
-"n": 41,
+"n": 42,
 "topic": "Management Accounting",
 "t": "In case of a unit linked business, if the last date falls on a non business day what is the provision for declaration of NAV?",
 "o": [
@@ -576,7 +587,7 @@
 "e": "Correct answer: The insurer shall declare NAV for the last busines day (from the IC89 question bank)."
 },
 {
-"n": 42,
+"n": 43,
 "topic": "Management Accounting",
 "t": "From the following information of Dark Horse Insurance, you are required to calculate the net cash flows from operating activities for the year ended 31 December 20X8.<br><br>Trade receivables- 1 January 20X8 <IMG border=0 hspace=0 alt=\"\" align=absMiddle src=\"/Attest1_res/topicresources/457776428/III_Rs_Symbol.jpg\" width=12 height=15>40,635<br>Sales  <IMG border=0 hspace=0 alt=\"\" align=absMiddle src=\"/Attest1_res/topicresources/457776428/III_Rs_Symbol.jpg\" width=12 height=15>421,977<br>Salaries paid to office staff     <IMG border=0 hspace=0 alt=\"\" align=absMiddle src=\"/Attest1_res/topicresources/457776428/III_Rs_Symbol.jpg\" width=12 height=15>40,725<br>Pension paid     <IMG border=0 hspace=0 alt=\"\" align=absMiddle src=\"/Attest1_res/topicresources/457776428/III_Rs_Symbol.jpg\" width=12 height=15>17,070<br>Payments to suppliers <IMG border=0 hspace=0 alt=\"\" align=absMiddle src=\"/Attest1_res/topicresources/457776428/III_Rs_Symbol.jpg\" width=12 height=15>271,152<br>Administrative expenses   <IMG border=0 hspace=0 alt=\"\" align=absMiddle src=\"/Attest1_res/topicresources/457776428/III_Rs_Symbol.jpg\" width=12 height=15>4,920<br>Trade receivables - 31 December 20X8    <IMG border=0 hspace=0 alt=\"\" align=absMiddle src=\"/Attest1_res/topicresources/457776428/III_Rs_Symbol.jpg\" width=12 height=15>48,195",
 "o": [
@@ -590,7 +601,7 @@
 "e": "Correct answer: Rs.80,550 (from the IC89 question bank)."
 },
 {
-"n": 43,
+"n": 44,
 "topic": "Management Accounting",
 "t": "For taking decisions with the help of MIS, the data should be________.",
 "o": [
@@ -604,7 +615,7 @@
 "e": "Correct answer: Very accurate (from the IC89 question bank)."
 },
 {
-"n": 44,
+"n": 45,
 "topic": "Management Accounting",
 "t": "Calculate the investment at the start of the project from the following available information:- <br><br>(i) Net present value (NPV) of <IMG border=0 hspace=0 alt=\"\" align=absMiddle src=\"/Attest1_res/topicresources/457776428/III_Rs_Symbol.jpg\" width=12 height=15>15,262 (positive)<br>(ii) Cash flows are discounted at the cost of capital of 15% per annum.<br>(iii) Expected net cash inflows are <IMG border=0 hspace=0 alt=\"\" align=absMiddle src=\"/Attest1_res/topicresources/457776428/III_Rs_Symbol.jpg\" width=12 height=15>26,520 per annum for five years<br>(iv) Cumulative discount (annuity) factor at 15% is 3.350 (for five years)",
 "o": [
@@ -616,20 +627,6 @@
 ],
 "a": 3,
 "e": "Correct answer: Rs.73,580 (from the IC89 question bank)."
-},
-{
-"topic": "Insurance Act 1938 – key sections",
-"t": "Nomination and assignment of a life insurance policy are governed respectively by which sections of the Insurance Act 1938?",
-"o": [
-"Sections 39 and 38",
-"Sections 38 and 39",
-"Sections 41 and 45",
-"Sections 45 and 41"
-],
-"a": 0,
-"e": "★ Core fact (asked across III papers). Section 39 deals with nomination; Section 38 with assignment and transfer.",
-"r": "core",
-"n": 45
 },
 {
 "n": 46,
