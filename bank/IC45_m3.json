@@ -2,6 +2,20 @@
 {
 "n": 1,
 "topic": "General Insurance Underwriting",
+"t": "The proposal form and personal statement contain information relevant to determine <BR><BR>I. Behavioural tendencies <BR>II.  Personal ambitions <BR>III. Level of risk",
+"o": [
+"I only",
+"II only",
+"III only",
+"I and II",
+"II and III"
+],
+"a": 2,
+"e": "Correct answer: III only (from the IC45 question bank)."
+},
+{
+"n": 2,
+"topic": "General Insurance Underwriting",
 "t": "Examine the data mentioned below and answer the question following it using your knowledge of exposure rating system. Total no of insured: 100000 Stroke incidence : 200 Cancer incidence: 60 Blindness incidence : 20 Liver & kidney transplant incidence : 4",
 "o": [
 "32%",
@@ -14,7 +28,35 @@
 "e": "Correct answer: 0.32% (from the IC45 question bank)."
 },
 {
-"n": 2,
+"n": 3,
+"topic": "General Insurance Underwriting",
+"t": "Which among the following is the 2<SUP>nd</SUP> step in the product innovation process?<BR><BR>I. Identifying need for changes in existing products<BR>II. Determining reasons for changes in portfolio<BR>III. Identifying customer needs<BR>IV. Making corrective changes<BR>V. Preparing product proposals<BR>VI. Determining cost and benefits of product changes<BR>VII. Regulatory compliances",
+"o": [
+"I",
+"II",
+"V",
+"VII",
+"IV"
+],
+"a": 0,
+"e": "Correct answer: I (from the IC45 question bank)."
+},
+{
+"n": 4,
+"topic": "General Insurance Underwriting",
+"t": "The file and use guidelines of IRDAI classify all general insurance products into ___ major categories based on the rating plan that is used.",
+"o": [
+"2",
+"3",
+"4",
+"5",
+"6"
+],
+"a": 0,
+"e": "Correct answer: 2 (from the IC45 question bank)."
+},
+{
+"n": 5,
 "topic": "General Insurance Underwriting",
 "t": "What is meant by \"Insurance on Personal Lines\"?",
 "o": [
@@ -28,51 +70,9 @@
 "e": "Correct answer: Insurance taken or given in individual capacity (from the IC45 question bank)."
 },
 {
-"n": 3,
-"topic": "General Insurance Underwriting",
-"t": "As per The Insurance Act, 1938,  non-life insurance business can be broadly classified under ______ categories.",
-"o": [
-"100%",
-"2",
-"3",
-"4",
-"5"
-],
-"a": 2,
-"e": "Correct answer: 3 (from the IC45 question bank)."
-},
-{
-"n": 4,
-"topic": "General Insurance Underwriting",
-"t": "What is the first step in selection and implementation of a software solution?",
-"o": [
-"Study existing systems and solutions",
-"Do cost benefit analysis",
-"Evaluate vendor competence",
-"Evaluate ease of implementation",
-"Rate vendors"
-],
-"a": 0,
-"e": "Correct answer: Study existing systems and solutions (from the IC45 question bank)."
-},
-{
-"n": 5,
-"topic": "General Insurance Underwriting",
-"t": "An insurer is expected to:-<BR><BR>I. Engage in speculation <BR>II. Design products with fair  terms and conditions <BR>III. Have discriminative policies",
-"o": [
-"I only",
-"II only",
-"III only",
-"I and II",
-"II and III"
-],
-"a": 1,
-"e": "Correct answer: II only (from the IC45 question bank)."
-},
-{
 "n": 6,
 "topic": "General Insurance Underwriting",
-"t": "Pricing divergence from what is required can often happen if:- <BR><BR>I. There are technological  changes in market <BR>II. Product is new <BR>III. Execution errors occur",
+"t": "Which among the following is exclusion under marine insurance for the proposal mentioned below?<BR> Proposal: Sanitary ware <BR><BR>I. Damage due to water <BR>II. Loss as a result of sunken cargo <BR>III. Breakage, chipping and denting",
 "o": [
 "I only",
 "II only",
@@ -86,6 +86,62 @@
 {
 "n": 7,
 "topic": "General Insurance Underwriting",
+"t": "As per The Insurance Act, 1938,  non-life insurance business can be broadly classified under ______ categories.",
+"o": [
+"100%",
+"2",
+"3",
+"4",
+"5"
+],
+"a": 2,
+"e": "Correct answer: 3 (from the IC45 question bank)."
+},
+{
+"n": 8,
+"topic": "General Insurance Underwriting",
+"t": "What is the first step in selection and implementation of a software solution?",
+"o": [
+"Study existing systems and solutions",
+"Do cost benefit analysis",
+"Evaluate vendor competence",
+"Evaluate ease of implementation",
+"Rate vendors"
+],
+"a": 0,
+"e": "Correct answer: Study existing systems and solutions (from the IC45 question bank)."
+},
+{
+"n": 9,
+"topic": "General Insurance Underwriting",
+"t": "An insurer is expected to:-<BR><BR>I. Engage in speculation <BR>II. Design products with fair  terms and conditions <BR>III. Have discriminative policies",
+"o": [
+"I only",
+"II only",
+"III only",
+"I and II",
+"II and III"
+],
+"a": 1,
+"e": "Correct answer: II only (from the IC45 question bank)."
+},
+{
+"n": 10,
+"topic": "General Insurance Underwriting",
+"t": "Pricing divergence from what is required can often happen if:- <BR><BR>I. There are technological  changes in market <BR>II. Product is new <BR>III. Execution errors occur",
+"o": [
+"I only",
+"II only",
+"III only",
+"I and II",
+"II and III"
+],
+"a": 2,
+"e": "Correct answer: III only (from the IC45 question bank)."
+},
+{
+"n": 11,
+"topic": "General Insurance Underwriting",
 "t": "As per The Insurance Act 1938  non-life insurance business can be broadly classified under which of the following categories? <BR><BR>I. Health <BR>II. Liability <BR>III. Marine",
 "o": [
 "I only",
@@ -98,7 +154,7 @@
 "e": "Correct answer: III only (from the IC45 question bank)."
 },
 {
-"n": 8,
+"n": 12,
 "topic": "General Insurance Underwriting",
 "t": "Identify the class of insurance against which the risk mentioned below can be categorised. Risk: Celluloid and celluloid articles factories",
 "o": [
@@ -112,7 +168,7 @@
 "e": "Correct answer: Fire / ????? (from the IC45 question bank)."
 },
 {
-"n": 9,
+"n": 13,
 "topic": "General Insurance Underwriting",
 "t": "Identify the class of insurance against which the risk mentioned below can be categorised.<BR><BR>Risk: Perishable goods and sea foods, etc.",
 "o": [
@@ -126,22 +182,7 @@
 "e": "Correct answer: Marine (from the IC45 question bank)."
 },
 {
-"n": 10,
-"topic": "General Insurance Underwriting",
-"t": "What does a percentage deductible of 10% mean?",
-"o": [
-"Insurer pays 10% of loss amount",
-"Insurer pays 90% of loss amount",
-"Insurer pays 10% of premium received in case of cl",
-"Insurer pays 90% of premium received in case of cl",
-"Premium is hiked by 10% in case of claim"
-],
-"a": 1,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Insurer pays 90% of loss amount (from the IC45 question bank).",
-"r": "key"
-},
-{
-"n": 11,
+"n": 14,
 "topic": "General Insurance Underwriting",
 "t": "Identify the class of insurance against which the risk mentioned below can be categorised. Risk: Fire wood / bamboos in the open",
 "o": [
@@ -155,7 +196,7 @@
 "e": "Correct answer: Fire / ????? (from the IC45 question bank)."
 },
 {
-"n": 12,
+"n": 15,
 "topic": "General Insurance Underwriting",
 "t": "As per  legal phrase 'contra preferentum' any ambiguous provision in the policy is construed  against the _________.",
 "o": [
@@ -169,7 +210,7 @@
 "e": "Correct answer: Insurer (from the IC45 question bank)."
 },
 {
-"n": 13,
+"n": 16,
 "topic": "General Insurance Underwriting",
 "t": "Identify the class of insurance against which the risk mentioned below can be categorised. Risk: Second-hand machinery against breakage",
 "o": [
@@ -183,7 +224,7 @@
 "e": "Correct answer: Marine / ???? (from the IC45 question bank)."
 },
 {
-"n": 14,
+"n": 17,
 "topic": "General Insurance Underwriting",
 "t": "If the sum insured exceeds the acceptance limit, it is necessary to _________.",
 "o": [
@@ -197,7 +238,7 @@
 "e": "Correct answer: Arrange reinsurance (from the IC45 question bank)."
 },
 {
-"n": 15,
+"n": 18,
 "topic": "General Insurance Underwriting",
 "t": "Which of the following is an evidence of an insurance contract?",
 "o": [
@@ -211,7 +252,7 @@
 "e": "Correct answer: Acceptance of proposal (from the IC45 question bank)."
 },
 {
-"n": 16,
+"n": 19,
 "topic": "General Insurance Underwriting",
 "t": "Identify the details that are to be mentioned/ referred to the controlling office while referring extra hazardous risks. <br><br>I: Completed  claim form <br>II: Solvency ratio of the operating office <br>III: Risk inspection report, additional questionnaire",
 "o": [
@@ -225,7 +266,7 @@
 "e": "Correct answer: III only / ???? III (from the IC45 question bank)."
 },
 {
-"n": 17,
+"n": 20,
 "topic": "General Insurance Underwriting",
 "t": "A schedule rating plan gives __________ for risk aggravating or bad features. <BR><BR>I. Rate credits <BR>II. Rate debits <BR>III. Loading",
 "o": [
@@ -239,7 +280,7 @@
 "e": "Correct answer: III only (from the IC45 question bank)."
 },
 {
-"n": 18,
+"n": 21,
 "topic": "General Insurance Underwriting",
 "t": "The amount of retention a company can have for any risk depends on factors like:- <BR><BR>I. Spread of risk <BR>II. Composition and size of portfolio <BR>III. Past experience of portfolio",
 "o": [
@@ -253,7 +294,7 @@
 "e": "Correct answer: I and II and III (from the IC45 question bank)."
 },
 {
-"n": 19,
+"n": 22,
 "topic": "General Insurance Underwriting",
 "t": "The _________ entertains grievances pertaining to personal lines insurance.",
 "o": [
@@ -267,22 +308,7 @@
 "e": "Correct answer: Ombudsman (from the IC45 question bank)."
 },
 {
-"n": 20,
-"topic": "General Insurance Underwriting",
-"t": "A combined ratio over 100% indicates ________.",
-"o": [
-"Underwriting loss",
-"Underwriting profits",
-"Surplus reserves",
-"Deficit reserves",
-"Dynamic growth"
-],
-"a": 0,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Underwriting loss (from the IC45 question bank).",
-"r": "key"
-},
-{
-"n": 21,
+"n": 23,
 "topic": "General Insurance Underwriting",
 "t": "Which among the following benefits can be achieved through technology based underwriting?",
 "o": [
@@ -296,7 +322,7 @@
 "e": "Correct answer: Fast delivery of quotes (from the IC45 question bank)."
 },
 {
-"n": 22,
+"n": 24,
 "topic": "General Insurance Underwriting",
 "t": "Identify the causes of adverse results for insurers.",
 "o": [
@@ -310,7 +336,7 @@
 "e": "Correct answer: There is inefficiency in claim settlement and possible frauds and  over-payments are not being eliminated. (from the IC45 question bank)."
 },
 {
-"n": 23,
+"n": 25,
 "topic": "General Insurance Underwriting",
 "t": "Which among the following is true with regards to individual rating? <br><br>I: It is applicable for risks of same class or category <br>II:  It is as per internal guidelines set by the insurer <br>III: It is based on individual experience",
 "o": [
@@ -324,7 +350,7 @@
 "e": "Correct answer: III only / ???? III (from the IC45 question bank)."
 },
 {
-"n": 24,
+"n": 26,
 "topic": "General Insurance Underwriting",
 "t": "The advantages of internet for the insurance sector include: <BR><BR>I. Direct access to customers <BR>II. Global reach for insurers <BR>III. Tailored insurance policies to benefit all",
 "o": [
@@ -338,7 +364,7 @@
 "e": "Correct answer: I and II and III (from the IC45 question bank)."
 },
 {
-"n": 25,
+"n": 27,
 "topic": "General Insurance Underwriting",
 "t": "Protection of Policyholders' Interests regulations are related to: <BR><BR>I. Matters to be stated in a general insurance policy <BR>II. Agent training <BR>III. Rating guidelines",
 "o": [
@@ -352,7 +378,7 @@
 "e": "Correct answer: I only (from the IC45 question bank)."
 },
 {
-"n": 26,
+"n": 28,
 "topic": "General Insurance Underwriting",
 "t": "Give examples of exclusions under All Risk policies <BR><BR>I. Fire <BR>II. Theft <BR>III. Loss or damage caused by mechanical or electrical derangement/breakdown",
 "o": [
@@ -366,7 +392,7 @@
 "e": "Correct answer: III only (from the IC45 question bank)."
 },
 {
-"n": 27,
+"n": 29,
 "topic": "General Insurance Underwriting",
 "t": "None of the following is true with regards to Pure Premium method EXCEPT:- <BR><BR>I. Based on premium <BR>II. Requires existing rates <BR>III. Does not require existing rates",
 "o": [
@@ -380,22 +406,7 @@
 "e": "Correct answer: III only (from the IC45 question bank)."
 },
 {
-"n": 28,
-"topic": "General Insurance Underwriting",
-"t": "An insurer shall dispose of a claim within 30 days of receipt of the survey report.",
-"o": [
-"10",
-"20",
-"40",
-"30",
-"50"
-],
-"a": 3,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: 30 (from the IC45 question bank).",
-"r": "key"
-},
-{
-"n": 29,
+"n": 30,
 "topic": "General Insurance Underwriting",
 "t": "Which among the following category of risks can be the subject matter of general insurance?<br><br>I. Life<br>II. Stock market volatility<br>III. Property risks",
 "o": [
@@ -409,7 +420,7 @@
 "e": "Correct answer: III only (from the IC45 question bank)."
 },
 {
-"n": 30,
+"n": 31,
 "topic": "General Insurance Underwriting",
 "t": "Identify the rating factors associated with Workers compensation insurance.",
 "o": [
@@ -423,7 +434,7 @@
 "e": "Correct answer: Occupation Class code (from the IC45 question bank)."
 },
 {
-"n": 31,
+"n": 32,
 "topic": "General Insurance Underwriting",
 "t": "Which among the following underwriters can be classified as Marine Underwriters based on their area of specialisation?",
 "o": [
@@ -437,7 +448,7 @@
 "e": "Correct answer: Cargo underwriters (from the IC45 question bank)."
 },
 {
-"n": 32,
+"n": 33,
 "topic": "General Insurance Underwriting",
 "t": "None of the following is true with regards to Loss Ratio method EXCEPT: <br><br>I: Based on exposure <br>II: Gives indicated rates  <br>III: Requires existing rates",
 "o": [
@@ -451,7 +462,7 @@
 "e": "Correct answer: III only / ???? III (from the IC45 question bank)."
 },
 {
-"n": 33,
+"n": 34,
 "topic": "General Insurance Underwriting",
 "t": "Give us an example where an insurer would charge higher premium. <br><br>I: New models of vehicles <br>II: Experienced drivers  <br>III: Drivers with an history of accidents",
 "o": [
@@ -463,20 +474,6 @@
 ],
 "a": 2,
 "e": "Correct answer: III only / ???? III (from the IC45 question bank)."
-},
-{
-"topic": "Policyholder protection",
-"t": "An Insurance Ombudsman can entertain a complaint where the value of the claim, including expenses, does not exceed:",
-"o": [
-"₹20 lakh",
-"₹30 lakh",
-"₹50 lakh",
-"₹1 crore"
-],
-"a": 2,
-"e": "★ Core fact (asked across III papers). The limit was raised to ₹50 lakh by the amended Insurance Ombudsman Rules.",
-"r": "core",
-"n": 34
 },
 {
 "n": 35,
@@ -619,21 +616,7 @@
 "e": "Correct answer: General liability underwriters (from the IC45 question bank)."
 },
 {
-"topic": "Policyholder protection",
-"t": "The IRDAI portal through which a policyholder can escalate an unresolved grievance against an insurer is:",
-"o": [
-"Bima Sugam",
-"Bima Bharosa",
-"Bima Vahak",
-"Bima Vistaar"
-],
-"a": 1,
-"e": "★ Core fact (asked across III papers). Bima Bharosa (formerly IGMS) is the grievance portal; Bima Sugam is the marketplace, Bima Vahak the women-led distribution channel and Bima Vistaar the combined rural product.",
-"r": "core",
-"n": 45
-},
-{
-"n": 46,
+"n": 45,
 "topic": "General Insurance Underwriting",
 "t": "In case of ______ the premium adjusted on the basis of actual loss experience of the insurance  company.",
 "o": [
@@ -647,7 +630,7 @@
 "e": "Correct answer: Loss ratio method (from the IC45 question bank)."
 },
 {
-"n": 47,
+"n": 46,
 "topic": "General Insurance Underwriting",
 "t": "None of the following can be categorised as Class Rated products EXCEPT:- <BR><BR>I. Exposure rated products <BR>II. Insurance of large risk <BR>III. Packaged or customised products",
 "o": [
@@ -661,7 +644,7 @@
 "e": "Correct answer: III only (from the IC45 question bank)."
 },
 {
-"n": 48,
+"n": 47,
 "topic": "General Insurance Underwriting",
 "t": "Ramesh is a normal individual seeking health insurance. How will his proposal be considered by the underwriter?",
 "o": [
@@ -673,6 +656,20 @@
 ],
 "a": 1,
 "e": "Correct answer: Policy issued on a standard basis / ?? ???? ???? ? (from the IC45 question bank)."
+},
+{
+"n": 48,
+"topic": "General Insurance Underwriting",
+"t": "Which among the following is true in case the Rates and Terms quoted to individual clients can  vary from the Internal Tariff Rates and Terms?",
+"o": [
+"Arbitrary changes in rates need not be justified",
+"New rating factors cannot be introduced",
+"Existing rating factors are not to be dropped",
+"Rates can be compared with those of products in di",
+"Arbitrary changes in rates to meet stiff competition is not allowed"
+],
+"a": 4,
+"e": "Correct answer: Arbitrary changes in rates to meet stiff competition is not allowed (from the IC45 question bank)."
 },
 {
 "n": 49,

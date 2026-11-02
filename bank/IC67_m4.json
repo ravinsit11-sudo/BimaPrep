@@ -2,6 +2,19 @@
 {
 "n": 1,
 "topic": "Marine Insurance",
+"t": "In which of the following cases, will a vessel NOT attract extra premium?",
+"o": [
+"When a vessel is not on a regular trading pattern",
+"When the vessel is on a regular trading pattern, but is under 10 years old.",
+"Where the vessel is not a mechanically propelled s",
+"Where a vessel is chartered and she is not classed"
+],
+"a": 1,
+"e": "Correct answer: When the vessel is on a regular trading pattern, but is under 10 years old. (from the IC67 question bank)."
+},
+{
+"n": 2,
+"topic": "Marine Insurance",
 "t": "Under The Customs Act, 1862, to whom should the application for refund of duty be made?",
 "o": [
 "The Assistant Controller",
@@ -14,7 +27,7 @@
 "e": "Correct answer: The Assistant Controller (from the IC67 question bank)."
 },
 {
-"n": 2,
+"n": 3,
 "topic": "Marine Insurance",
 "t": "According to which principle of Insurance, all material facts that have a bearing on the risk must be disclosed?",
 "o": [
@@ -28,7 +41,7 @@
 "e": "Correct answer: Utmost good faith / ??? ?????? (from the IC67 question bank)."
 },
 {
-"n": 3,
+"n": 4,
 "topic": "Marine Insurance",
 "t": "For the purpose of shipping, the contents of a container are described as _____________ and ____________.",
 "o": [
@@ -42,7 +55,20 @@
 "e": "Correct answer: Full Container Load, Less than Container Load / ?? (from the IC67 question bank)."
 },
 {
-"n": 4,
+"n": 5,
+"topic": "Marine Insurance",
+"t": "Tea Crop Hail Insurance relates to which of the following?",
+"o": [
+"Cover against the risk of hail damage to standing tea crops.",
+"Cover against the risk of hail damage while transp",
+"Cover against the risk of hail damage while storin",
+"Cover against the risk of hail damage while proces"
+],
+"a": 0,
+"e": "Correct answer: Cover against the risk of hail damage to standing tea crops. (from the IC67 question bank)."
+},
+{
+"n": 6,
 "topic": "Marine Insurance",
 "t": "Sumit traders were to receive a consignment of Jute from Pakistan to be delivered at the Mumbai Port. Sumit Traders approached the port authorities for delivery of consignment and were informed that the goods were not available for delivery. It has been 7 days since the goods have landed. What course of action can Sumit traders take to recover the consignment?",
 "o": [
@@ -56,7 +82,21 @@
 "e": "Correct answer: The consignee must file a log entry. If the log entry is not allowed to be filed, on the same day, a registered letter should be addressed to the Board of Trustees for the Port concerned recording the fact that the Shed Superintendent had refused to allow (from the IC67 question bank)."
 },
 {
-"n": 5,
+"n": 7,
+"topic": "Marine Insurance",
+"t": "If a bill of lading does not give details of number of packages in a container, then for the purpose of assessing the monetary liability of carrier, _______ is considered as a unit of freight.",
+"o": [
+"Each unit in the container",
+"Entire container",
+"Group of 10 units in container",
+"Group of 100 units in container",
+"Group of 1000 units in container"
+],
+"a": 0,
+"e": "Correct answer: Each unit in the container (from the IC67 question bank)."
+},
+{
+"n": 8,
 "topic": "Marine Insurance",
 "t": "What is the duration of the storage cover under Full Package Policy of package policies for cardamom insurance?",
 "o": [
@@ -70,7 +110,21 @@
 "e": "Correct answer: 120 days (from the IC67 question bank)."
 },
 {
-"n": 6,
+"n": 9,
+"topic": "Marine Insurance",
+"t": "The settlement of general average loss is done by ________________________ by obtaining all the information &nbsp;required from the parties involved.",
+"o": [
+"The insurer",
+"A surveyor",
+"An average adjuster",
+"Lloyd's agent",
+"A claim settling agent"
+],
+"a": 2,
+"e": "Correct answer: An average adjuster (from the IC67 question bank)."
+},
+{
+"n": 10,
 "topic": "Marine Insurance",
 "t": "The insured and the insurer of a marine insurance policy are bound by the principle of \"Uberrimai Fidei\", which means ________________.",
 "o": [
@@ -84,7 +138,7 @@
 "e": "Correct answer: Utmost good faith / ??? ?????? (from the IC67 question bank)."
 },
 {
-"n": 7,
+"n": 11,
 "topic": "Marine Insurance",
 "t": "The _________________ are not written on the policies but are deemed to be there.",
 "o": [
@@ -98,7 +152,7 @@
 "e": "Correct answer: Implied Warranties (from the IC67 question bank)."
 },
 {
-"n": 8,
+"n": 12,
 "topic": "Marine Insurance",
 "t": "If a reinsurer agrees to reinsure the entire Hull account that meet the underwriting rules specified in the contract with the primary insurer, this type of arrangement is referred to as ________.",
 "o": [
@@ -112,7 +166,7 @@
 "e": "Correct answer: Automatic treaty / ???????? ???? (from the IC67 question bank)."
 },
 {
-"n": 9,
+"n": 13,
 "topic": "Marine Insurance",
 "t": "A Special Storage Risks Insurance policy is granted in conjunction with ____________.",
 "o": [
@@ -126,7 +180,7 @@
 "e": "Correct answer: Open policy / ??? ?????? (from the IC67 question bank)."
 },
 {
-"n": 10,
+"n": 14,
 "topic": "Marine Insurance",
 "t": "COGSA Act, 1925 applies to __________.",
 "o": [
@@ -140,22 +194,7 @@
 "e": "Correct answer: Goods (from the IC67 question bank)."
 },
 {
-"n": 11,
-"topic": "Marine Insurance",
-"t": "What is the maximum time limit to file a suit for damages against a port which is not covered under the Major Port Trusts Act, 1963?",
-"o": [
-"30 days / 30 ???",
-"60 days / 60 ???",
-"7 months / 7 ?????",
-"1 year / 1 ????",
-"3 years / 3 ????"
-],
-"a": 4,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: 3 years / 3 ???? (from the IC67 question bank).",
-"r": "key"
-},
-{
-"n": 12,
+"n": 15,
 "topic": "Marine Insurance",
 "t": "Evaluate why facultative reinsurance is in more demand as against treaty insurance in the case of hull insurance.",
 "o": [
@@ -169,7 +208,7 @@
 "e": "Correct answer: Facultative reinsurance takes care of special type of risks which are outside the scope of usual (from the IC67 question bank)."
 },
 {
-"n": 13,
+"n": 16,
 "topic": "Marine Insurance",
 "t": "Which of the following statements is true about Strikes, Riots And Civil Commotions Clause (for inland transit only)?",
 "o": [
@@ -183,7 +222,7 @@
 "e": "Correct answer: Loss or damage to the subject-matter caused by any terrorist or any person acting from a political motive is &nbsp;covered under these clauses (from the IC67 question bank)."
 },
 {
-"n": 14,
+"n": 17,
 "topic": "Marine Insurance",
 "t": "The Cargo ISM endorsement  clause is about safety aspect to be  compulsorily complied with by  vessels of _____ Gross Tonne  or more.",
 "o": [
@@ -197,7 +236,7 @@
 "e": "Correct answer: 500 (from the IC67 question bank)."
 },
 {
-"n": 15,
+"n": 18,
 "topic": "Marine Insurance",
 "t": "Which of the following is covered under the Duty of the Assured Clause?",
 "o": [
@@ -210,7 +249,7 @@
 "e": "Correct answer: Under Duty of the Assured Clause, charges reasonably and properly incurred  to avert or   minimise an insured loss and preserve and exercise recovery rights are covered. (from the IC67 question bank)."
 },
 {
-"n": 16,
+"n": 19,
 "topic": "Marine Insurance",
 "t": "__________ is a classification society established in India in 1975.",
 "o": [
@@ -224,7 +263,7 @@
 "e": "Correct answer: Indian Register of Shipping (from the IC67 question bank)."
 },
 {
-"n": 17,
+"n": 20,
 "topic": "Marine Insurance",
 "t": "Which one of the following is a correct advantage of containerisation?",
 "o": [
@@ -238,7 +277,7 @@
 "e": "Correct answer: Multiple handling is minimised or eliminated, particularly for FCLs and door - to -door containers (from the IC67 question bank)."
 },
 {
-"n": 18,
+"n": 21,
 "topic": "Marine Insurance",
 "t": "The customary trade loss in transit, i.e. tendency of a certain cargo to lose weight or volume during transit, is termed as ____________.",
 "o": [
@@ -252,7 +291,7 @@
 "e": "Correct answer: Ullage (from the IC67 question bank)."
 },
 {
-"n": 19,
+"n": 22,
 "topic": "Marine Insurance",
 "t": "The Package policy under duty exemption scheme is divided into how many sections?",
 "o": [
@@ -266,22 +305,7 @@
 "e": "Correct answer: 3 sections (from the IC67 question bank)."
 },
 {
-"n": 20,
-"topic": "Marine Insurance",
-"t": "Under  Section 43 of Major Port Trusts Act, 1963 what is the no. of clear working days after which the Board is not liable for the goods after taking their charge?",
-"o": [
-"5 days / 5 ???",
-"15 days / 15 ???",
-"21 days / 21 ???",
-"14 days / 14 ???",
-"7 days / 7 ???"
-],
-"a": 4,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: 7 days / 7 ??? (from the IC67 question bank).",
-"r": "key"
-},
-{
-"n": 21,
+"n": 23,
 "topic": "Marine Insurance",
 "t": "A marine insurance policy in which the value is determined ahead of time and there is generally no reassessment or revaluation necessary in the event of an insured event or loss are referred to as _____________.",
 "o": [
@@ -295,7 +319,7 @@
 "e": "Correct answer: Valued  policy / ?????????? ?????? (from the IC67 question bank)."
 },
 {
-"n": 22,
+"n": 24,
 "topic": "Marine Insurance",
 "t": "What is the age restriction in case of liner vessels operating to regular advertised itineraries?",
 "o": [
@@ -309,7 +333,7 @@
 "e": "Correct answer: 25 years / 25 ???? (from the IC67 question bank)."
 },
 {
-"n": 23,
+"n": 25,
 "topic": "Marine Insurance",
 "t": "Which of the following statements is true regarding the insurance cover provided to cargo carried in sailing vessels?",
 "o": [
@@ -322,7 +346,7 @@
 "e": "Correct answer: Loss/damage to cargo reasonably attributable to vessel being burnt is covered under Clause C of insurance provided  to cargo carried in sailing vessels. (from the IC67 question bank)."
 },
 {
-"n": 24,
+"n": 26,
 "topic": "Marine Insurance",
 "t": "The Major Ports Trust Act was enacted in the year ______.",
 "o": [
@@ -336,7 +360,7 @@
 "e": "Correct answer: 1963 (from the IC67 question bank)."
 },
 {
-"n": 25,
+"n": 27,
 "topic": "Marine Insurance",
 "t": "Under the Major Ports Trust Act what are the implications, if the goods are not cleared in 7 days from the date of landing?",
 "o": [
@@ -349,7 +373,7 @@
 "e": "Correct answer: Goods will remain on the premises of the Board of Trustees at the sole risk and expense of the owner (from the IC67 question bank)."
 },
 {
-"n": 26,
+"n": 28,
 "topic": "Marine Insurance",
 "t": "In reinsurance terms a treaty condition stating that the insurer's loss must exceed a certain limit for the reinsurer to get involved is called ________________.",
 "o": [
@@ -363,7 +387,7 @@
 "e": "Correct answer: Excess of loss treaty (from the IC67 question bank)."
 },
 {
-"n": 27,
+"n": 29,
 "topic": "Marine Insurance",
 "t": "Which of the following relates to the Type II policy of cardamom insurance?",
 "o": [
@@ -377,7 +401,7 @@
 "e": "Correct answer: These policies commence from picking to insured's godown/ auction centres anywhere in India with 90 days' storage cover. (from the IC67 question bank)."
 },
 {
-"n": 28,
+"n": 30,
 "topic": "Marine Insurance",
 "t": "If the loss or damage to your goods arrived by sea was not apparent at the time of taking delivery, you",
 "o": [
@@ -391,22 +415,7 @@
 "e": "Correct answer: Should give written notice to the carriers / bailees within 3 days of landing of the goods (from the IC67 question bank)."
 },
 {
-"n": 29,
-"topic": "Marine Insurance",
-"t": "Under the Indian Railways Act, 1989, suit for non-delivery or delay in delivery can be filed within _______________ from the probable date when the goods ought to have been delivered.",
-"o": [
-"1 year / 1 ????",
-"3 years / 3 ????",
-"2 years / 2 ????",
-"6 months / 6 ?????",
-"10 months / 10 ?????"
-],
-"a": 1,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: 3 years / 3 ???? (from the IC67 question bank).",
-"r": "key"
-},
-{
-"n": 30,
+"n": 31,
 "topic": "Marine Insurance",
 "t": "To claim a loss under General Average, it is necessary that:-",
 "o": [
@@ -420,7 +429,7 @@
 "e": "Correct answer: The GA act is successful and the ship and cargo actually arrived at the destination (from the IC67 question bank)."
 },
 {
-"n": 31,
+"n": 32,
 "topic": "Marine Insurance",
 "t": "From the following options, identify the true statement related to Termination of Transit (Terrorism) clause.",
 "o": [
@@ -434,7 +443,7 @@
 "e": "Correct answer: Under this clause, cover for terrorism is withdrawn during the time cargo is kept in storage places and is covered only during transits. (from the IC67 question bank)."
 },
 {
-"n": 32,
+"n": 33,
 "topic": "Marine Insurance",
 "t": "Gross tonnage (GT) represents ______________________.",
 "o": [
@@ -448,7 +457,7 @@
 "e": "Correct answer: the volume of the interior of a vessel / ??? ?? ?? (from the IC67 question bank)."
 },
 {
-"n": 33,
+"n": 34,
 "topic": "Marine Insurance",
 "t": "A standard form of survey report for cargo seeks to obtain all the necessary information relating to the loss and circumstances of the _______________________.",
 "o": [
@@ -462,7 +471,7 @@
 "e": "Correct answer: Voyage (from the IC67 question bank)."
 },
 {
-"n": 34,
+"n": 35,
 "topic": "Marine Insurance",
 "t": "In accordance with the Institute Time Clauses â€“ Hulls 1.10.83, the sum insured under Disbursements Insurance cannot exceed ___________ of the sum insured under H&amp;M Policy.",
 "o": [
@@ -476,7 +485,7 @@
 "e": "Correct answer: 25% (from the IC67 question bank)."
 },
 {
-"n": 35,
+"n": 36,
 "topic": "Marine Insurance",
 "t": "If your goods arrived by sea are in doubtful condition, you should not give clean receipts to carriers / bailees / other third parties under any circumstances, except:-",
 "o": [
@@ -490,7 +499,7 @@
 "e": "Correct answer: Under written protest (from the IC67 question bank)."
 },
 {
-"n": 36,
+"n": 37,
 "topic": "Marine Insurance",
 "t": "A reinsurance contract under which the reinsured company agrees to cede and the reinsured agrees to assume a particular class or classes Insurance business automatically is referred to as ____________.",
 "o": [
@@ -504,7 +513,7 @@
 "e": "Correct answer: Treaty / ???? (from the IC67 question bank)."
 },
 {
-"n": 37,
+"n": 38,
 "topic": "Marine Insurance",
 "t": "Which of the following techniques can be adopted to facilitate handling, stowage and general protection of cargo?",
 "o": [
@@ -518,21 +527,20 @@
 "e": "Correct answer: Unitising (from the IC67 question bank)."
 },
 {
-"topic": "IRDAI – regulator",
-"t": "The control level of solvency ratio that every insurer must maintain is:",
+"n": 39,
+"topic": "Marine Insurance",
+"t": "Omprakash is shipping his cargo by sea. In this regard, he secures a marine cover letter. What is the provision in the event of loss/damage to the goods prior to shipment?",
 "o": [
-"100%",
-"125%",
-"150%",
-"200%"
+"In this case, no insurance claim will be honoured",
+"In this case, the basis of valuation shall be the prime cost of the goods plus charges actually incurred and for which the insured is liable.",
+"In this case, the basis of valuation shall be one",
+"In this case, the basis of valuation shall be only"
 ],
-"a": 2,
-"e": "★ Core fact (asked across III papers). Available solvency margin must be at least 150% of the required solvency margin; falling below triggers IRDAI action.",
-"r": "core",
-"n": 38
+"a": 1,
+"e": "Correct answer: In this case, the basis of valuation shall be the prime cost of the goods plus charges actually incurred and for which the insured is liable. (from the IC67 question bank)."
 },
 {
-"n": 39,
+"n": 40,
 "topic": "Marine Insurance",
 "t": "What is the time limit to make Appeal to the Collector of Customs on receipt of communication of the decision of the Assistant Collector of Customs?",
 "o": [
@@ -546,7 +554,7 @@
 "e": "Correct answer: 3 months (from the IC67 question bank)."
 },
 {
-"n": 40,
+"n": 41,
 "topic": "Marine Insurance",
 "t": "Who is reponsible for the cost of obtaining the valuation certificate of the vessel for the purpose of hull insurance?",
 "o": [
@@ -560,7 +568,7 @@
 "e": "Correct answer: Insured / ???????? (from the IC67 question bank)."
 },
 {
-"n": 41,
+"n": 42,
 "topic": "Marine Insurance",
 "t": "Saumil had booked ten boxes weighing 1000 kgs total by a MTO. The goods were lost during transit.  Determine the amount the MTO is liable to pay?",
 "o": [
@@ -574,7 +582,7 @@
 "e": "Correct answer: 6,666 SDR / 6,666 ?????? (from the IC67 question bank)."
 },
 {
-"n": 42,
+"n": 43,
 "topic": "Marine Insurance",
 "t": "During  olden times, how did the Chinese merchants, engaged in trade on the Yangtze river,  distribute risk?",
 "o": [
@@ -588,7 +596,7 @@
 "e": "Correct answer: By distributing their cargo in different boats. (from the IC67 question bank)."
 },
 {
-"n": 43,
+"n": 44,
 "topic": "Marine Insurance",
 "t": "All of the following information will come under the technical details section of the proposal form for hull insurance except:-",
 "o": [
@@ -602,7 +610,7 @@
 "e": "Correct answer: valuation of the vessel (from the IC67 question bank)."
 },
 {
-"n": 44,
+"n": 45,
 "topic": "Marine Insurance",
 "t": "Rekha, an exporter, wants to cover her complete annual sales turnover. What type of policy should  she take?",
 "o": [
@@ -614,20 +622,6 @@
 ],
 "a": 4,
 "e": "Correct answer: Sales Turnover Policy / ?????? ??????? ?????? (from the IC67 question bank)."
-},
-{
-"topic": "IRDAI – regulator",
-"t": "The permitted limit of foreign direct investment in an Indian insurance company is currently:",
-"o": [
-"26%",
-"49%",
-"74%",
-"100%"
-],
-"a": 2,
-"e": "★ Core fact (asked across III papers). Raised from 49% to 74% by the Insurance (Amendment) Act 2021; intermediaries may have 100%.",
-"r": "core",
-"n": 45
 },
 {
 "n": 46,

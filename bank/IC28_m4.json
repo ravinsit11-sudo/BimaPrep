@@ -114,6 +114,20 @@
 {
 "n": 9,
 "topic": "Foundation of Actuarial Science",
+"t": "Earliest form of Life Assurance was:-",
+"o": [
+"Lump sum payment at the time of sickness of the pe",
+"Regular payments up to the time of survival of the",
+"Lump sum payment at the time of death of the person whose life was insured",
+"Regular payments during the time of sickness of th",
+"None of the above"
+],
+"a": 2,
+"e": "Correct answer: Lump sum payment at the time of death of the person whose life was insured (from the IC28 question bank)."
+},
+{
+"n": 10,
+"topic": "Foundation of Actuarial Science",
 "t": "A loan of 15,000 is repayable by level instalments of principal and interest, payable yearly in arrears over 5 years. The rate of interest is 8% p.a. for the first 3 years and 7% p.a. thereafter. Calculate the level yearly instalment.",
 "o": [
 "1746.229",
@@ -124,21 +138,6 @@
 ],
 "a": 4,
 "e": "Correct answer: 4366.7182999239 (from the IC28 question bank)."
-},
-{
-"n": 10,
-"topic": "Foundation of Actuarial Science",
-"t": "The compound interest on 30,000 at 7% per annum is 4347. The period (in years) is:-",
-"o": [
-"2",
-"2.5",
-"3",
-"4",
-"8.2"
-],
-"a": 0,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: 2 (from the IC28 question bank).",
-"r": "key"
 },
 {
 "n": 11,
@@ -255,6 +254,20 @@
 {
 "n": 19,
 "topic": "Foundation of Actuarial Science",
+"t": "A high value of the chi square statistic indicates that the discrepancies between the observed numbers and those predicted by the graduated table are large, ie the fit is not very good. This may be because of:-",
+"o": [
+"Smoothness",
+"Adherence to data",
+"Overgraduation",
+"Survival Period",
+"All of the above"
+],
+"a": 2,
+"e": "Correct answer: Overgraduation (from the IC28 question bank)."
+},
+{
+"n": 20,
+"topic": "Foundation of Actuarial Science",
 "t": "A loan is repayable by a decreasing annuity payable annually in arrears for 20 years. The repayment at the end of the first year is 6,000 and subsequent repayments reduce by 200 each year. The repayments were calculated using a rate of interest of 9% per annum effective. Calculate the original amount of the loan.",
 "o": [
 "27225.13",
@@ -265,21 +278,6 @@
 ],
 "a": 4,
 "e": "Correct answer: 42415.89 (from the IC28 question bank)."
-},
-{
-"n": 20,
-"topic": "Foundation of Actuarial Science",
-"t": "A sum of 12,500 amounts to 15,500 in 4 years at the rate of simple interest. What is the rate of interest?",
-"o": [
-"3%",
-"4%",
-"5%",
-"6%",
-"None of the above"
-],
-"a": 3,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: 6% (from the IC28 question bank).",
-"r": "key"
 },
 {
 "n": 21,
@@ -298,6 +296,20 @@
 {
 "n": 22,
 "topic": "Foundation of Actuarial Science",
+"t": "Annuitants as a class were observed to experience lighter mortality than the assured lives due to a process of:-",
+"o": [
+"Time selection",
+"Spurious selection",
+"Self selection",
+"Adverse selection",
+"None of the above"
+],
+"a": 2,
+"e": "Correct answer: Self selection (from the IC28 question bank)."
+},
+{
+"n": 23,
+"topic": "Foundation of Actuarial Science",
 "t": "This insurance offers protection for as long as you live, provided that premiums are paid as required to keep the policy in force.",
 "o": [
 "Term insurance",
@@ -310,7 +322,7 @@
 "e": "Correct answer: Whole Life Insurance (from the IC28 question bank)."
 },
 {
-"n": 23,
+"n": 24,
 "topic": "Foundation of Actuarial Science",
 "t": "Under a Marriage Endowment Policy, the sum assured is payable only at the end of the term of assurance in the event of death of the proposer within the term of asssurance or on survivance to the end of the term. Premiums are payable during the life time of the proposer or till the end of the term, whichever is earlier. Using IALM (1994-96) Ultimate Table at rate of interest of 4%, calculate the net annual premium for a proposer aged 32 for sum assured of <IMG border=0 hspace=0 alt=\"\" align=absMiddle src=\"/Attest1_res/topicresources/1394573854/III_Rs_Symbol.jpg\" width=12 height=15>15,300 for term of 23 years.",
 "o": [
@@ -324,7 +336,7 @@
 "e": "Correct answer: 409.446138101951 (from the IC28 question bank)."
 },
 {
-"n": 24,
+"n": 25,
 "topic": "Foundation of Actuarial Science",
 "t": "Akash wants to take a loan of 10 Lacs from ABC bank for his higher education. The bank charges an interest of 7.5% per annum convertible quarterly on the loan. The bank offers the following option for the loan repayment: No repayment will be required for next 2 years. After two years, the accumulated loan amount will need to be repaid over 20 equal half-yearly installments payable in advance. Calculate the first installment amount to be paid after first two years of the loan for the above option.",
 "o": [
@@ -338,7 +350,7 @@
 "e": "Correct answer: 80700 (from the IC28 question bank)."
 },
 {
-"n": 25,
+"n": 26,
 "topic": "Foundation of Actuarial Science",
 "t": "A special temporary annuity pays 1,600 annually in arrear to a man aged exactly 44. The term of the annuity is 11 years. Calculate the expected present value of the benefits payable to the policyholder under this contract. Basis: IALM (1994-96) Ultima and 4% pa interest.",
 "o": [
@@ -352,7 +364,7 @@
 "e": "Correct answer: 13701.8841859175 (from the IC28 question bank)."
 },
 {
-"n": 26,
+"n": 27,
 "topic": "Foundation of Actuarial Science",
 "t": "Given l<SUB>16</SUB>=998,679 &amp; d<SUB>16</SUB>=1,308, find the number of persons who survive to age 17.",
 "o": [
@@ -366,7 +378,7 @@
 "e": "Correct answer: 997371 (from the IC28 question bank)."
 },
 {
-"n": 27,
+"n": 28,
 "topic": "Foundation of Actuarial Science",
 "t": "A person aged 30 years has approached a life office for special type of policy providing for the following benefits: 5,000 on death during the first 5 years. (ii) 6,000 on death during the next 15 years. (iii) Survival benefit of 1,000 at the end of the 5th year. (iv) Further payment of 7,000 on survivance to 20 years.  An annuity of 700 pa payable in his lifetime, the first such payment falling due along with the survival benefit of 7,000. Give an expression for the net annual premium paying term is 20 years.",
 "o": [
@@ -378,21 +390,6 @@
 ],
 "a": 4,
 "e": "Correct answer: 1000{5M30+M35-6M50+D35+7D50+0.7N50}/(N30-N50) (from the IC28 question bank)."
-},
-{
-"n": 28,
-"topic": "Foundation of Actuarial Science",
-"t": "Look up the H<SUB>M</SUB> table and find the curtate expectation of life ex for a 21-year old actuarial student.",
-"o": [
-"41.339 (years)",
-"40.339 (years)",
-"41.8 (years)",
-"48.39 (years)",
-"40.839 (years)"
-],
-"a": 4,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: 40.839 (years) (from the IC28 question bank).",
-"r": "key"
 },
 {
 "n": 29,
@@ -493,21 +490,7 @@
 "e": "Correct answer: 50% (from the IC28 question bank)."
 },
 {
-"topic": "Insurance Act 1938 – key sections",
-"t": "Section 41 of the Insurance Act 1938 prohibits:",
-"o": [
-"Assignment of a life policy",
-"Payment of any rebate of premium or commission as an inducement to buy insurance",
-"Nomination by a minor",
-"Issue of a policy without a medical examination"
-],
-"a": 1,
-"e": "★ Core fact (asked across III papers). Section 41 bars rebating; contravention attracts a penalty of up to ₹10 lakh.",
-"r": "core",
-"n": 36
-},
-{
-"n": 37,
+"n": 36,
 "topic": "Foundation of Actuarial Science",
 "t": "If the graduation process results in rates that are smooth but show little adherence to the data, then we say that the data may be:-",
 "o": [
@@ -521,7 +504,7 @@
 "e": "Correct answer: Overgraduated (from the IC28 question bank)."
 },
 {
-"n": 38,
+"n": 37,
 "topic": "Foundation of Actuarial Science",
 "t": "The payments under a special deferred annuity are payable annually in arrear from age 57. The annual payment are 500 pa. Assuming LIC (a) (1996-98) Ultimate table for Annuitants, calculate the value of the annuity for a life now aged 43, if interest is 8%.",
 "o": [
@@ -535,7 +518,7 @@
 "e": "Correct answer: 1535.62419966901 (from the IC28 question bank)."
 },
 {
-"n": 39,
+"n": 38,
 "topic": "Foundation of Actuarial Science",
 "t": "From a pack of 52 cards, two cards are drawn together at random. What is the probability of both the cards being kings?",
 "o": [
@@ -546,6 +529,20 @@
 ],
 "a": 3,
 "e": "Correct answer: 1/221 (from the IC28 question bank)."
+},
+{
+"n": 39,
+"topic": "Foundation of Actuarial Science",
+"t": "Which policy combines pure life insurance with a savings element? If the insured lives to some specified time, he/she receives the policy's face value.",
+"o": [
+"Industrial life policy",
+"P&C policy",
+"Credit life policy",
+"Endowment life policy",
+"Group life policy"
+],
+"a": 3,
+"e": "Correct answer: Endowment life policy (from the IC28 question bank)."
 },
 {
 "n": 40,
@@ -634,6 +631,20 @@
 {
 "n": 46,
 "topic": "Foundation of Actuarial Science",
+"t": "There are temporary life annuities in which the first payment is made at the beginning, that is, on the same date on which the present value is calculated. These are known as:-",
+"o": [
+"Temporary life annuities due",
+"whole life annuity",
+"Deferred Life Annuities",
+"Temporary life annuity certain",
+"Variable Life Annuity"
+],
+"a": 0,
+"e": "Correct answer: Temporary life annuities due (from the IC28 question bank)."
+},
+{
+"n": 47,
+"topic": "Foundation of Actuarial Science",
 "t": "If q<SUB>x</SUB> = 0.4681, find m<SUB>x</SUB>.",
 "o": [
 "61.1136%",
@@ -644,20 +655,6 @@
 ],
 "a": 0,
 "e": "Correct answer: 61.1136% (from the IC28 question bank)."
-},
-{
-"topic": "Insurance Act 1938 – key sections",
-"t": "Section 64VB of the Insurance Act 1938 requires that:",
-"o": [
-"Premium is received in advance before the risk is assumed",
-"Every policy carries a free-look clause",
-"Claims are settled within 30 days",
-"Agents hold a valid licence"
-],
-"a": 0,
-"e": "★ Core fact (asked across III papers). No risk may be assumed unless the premium has been received in advance or is guaranteed in the manner prescribed.",
-"r": "core",
-"n": 47
 },
 {
 "n": 48,

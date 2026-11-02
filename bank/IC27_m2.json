@@ -44,6 +44,34 @@
 {
 "n": 4,
 "topic": "Health Insurance",
+"t": "ABC Insurance Company has recently launched a health insurance product, in which, a portion of the premium collected is used for risk coverage or for meeting claims and the unutilised portion of the premium, which is not used, does not lapse, but is accumulated as savings. Identify the product launched by insurance company.",
+"o": [
+"Overseas Medical Insurance plan",
+"Health Savings Account",
+"Disease Management cover",
+"High-deductible hospital indemnity cover",
+"Daily hospital cash benefit"
+],
+"a": 1,
+"e": "Correct answer: Health Savings Account (from the IC27 question bank)."
+},
+{
+"n": 5,
+"topic": "Health Insurance",
+"t": "Sheela had been diagnosed for  cancer. She took her treatment at Fortis Hospital and had to pay huge medical bills. She had taken a health insurance policy earlier from XYZ Co. She submitted her claim of the medical bills to XYZ Co. Who is the insurer here?<BR><BR> I. Sheela <BR>II. Fortis Hospital <BR>III. XYZ Co.",
+"o": [
+"Only III",
+"Only II",
+"Only I",
+"II and III",
+"I and III"
+],
+"a": 0,
+"e": "Correct answer: Only III (from the IC27 question bank)."
+},
+{
+"n": 6,
+"topic": "Health Insurance",
 "t": "Frauds related to inflation of medical bills generally happen at:- <BR><BR>I. Proposal and policy stage <br>II.Claim settlement stage <BR>III. Frauds during the contractual period",
 "o": [
 "Only I",
@@ -56,7 +84,7 @@
 "e": "Correct answer: Only II (from the IC27 question bank)."
 },
 {
-"n": 5,
+"n": 7,
 "topic": "Health Insurance",
 "t": "All of the following are not covered by any of the hospitalisation insurance policies EXCEPT:-",
 "o": [
@@ -70,7 +98,21 @@
 "e": "Correct answer: Maternity (from the IC27 question bank)."
 },
 {
-"n": 6,
+"n": 8,
+"topic": "Health Insurance",
+"t": "The imperfections in the health insurance market are mainly due to which of the following reasons?<BR><BR> I. The information available to both insurer and insured about each other is either incomplete or not completely transparent <BR>II. Both the insurer and insured will try to make the risk selection on the basis of decision cost-effective to each of them",
+"o": [
+"Only I is true",
+"Only II is true",
+"Both I and II are true",
+"Both I and II are false",
+"Either I or II can be true"
+],
+"a": 2,
+"e": "Correct answer: Both I and II are true (from the IC27 question bank)."
+},
+{
+"n": 9,
 "topic": "Health Insurance",
 "t": "Which of the following frauds take place at the proposal and policy stage? <BR><BR>I. Cash defalcations <BR>II. Providing erroneous address to claim benefit <BR>III. Address and contact details changed",
 "o": [
@@ -84,7 +126,7 @@
 "e": "Correct answer: Only I (from the IC27 question bank)."
 },
 {
-"n": 7,
+"n": 10,
 "topic": "Health Insurance",
 "t": "Health insurance are usually reinsured using which reinsurance structure?<BR><BR> I. Quota share <BR>II. Surplus share <BR> III. Stop loss",
 "o": [
@@ -98,22 +140,7 @@
 "e": "Correct answer: Only III (from the IC27 question bank)."
 },
 {
-"n": 8,
-"topic": "Health Insurance",
-"t": "Mr. B was diagnosed with AIDS. He was admitted in the hospital for 12 days. Which of the following expenses shall be covered by the hospital indemnity policy?",
-"o": [
-"Accommodation costs",
-"Out-patient treatment",
-"Cost of medicines",
-"Physicians fee for in-patient treatment",
-"No expenses will be reimbursed"
-],
-"a": 4,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: No expenses will be reimbursed (from the IC27 question bank).",
-"r": "key"
-},
-{
-"n": 9,
+"n": 11,
 "topic": "Health Insurance",
 "t": "Which of the following parameters in analysis can show the number of people covered and the premium for different group sizes for both group and individual policies?",
 "o": [
@@ -127,7 +154,7 @@
 "e": "Correct answer: Group size distribution (from the IC27 question bank)."
 },
 {
-"n": 10,
+"n": 12,
 "topic": "Health Insurance",
 "t": "Claims which are high frequency but low severity ____________________.",
 "o": [
@@ -141,7 +168,7 @@
 "e": "Correct answer: Would require a stop loss type of reinsurance structure (from the IC27 question bank)."
 },
 {
-"n": 11,
+"n": 13,
 "topic": "Health Insurance",
 "t": "Which of the following products are usually reinsured using a portfolio approach? <BR><BR>I. Indemnity health insurance  <BR>II. Fixed benefits cover <BR>III. Critical Illness cover",
 "o": [
@@ -155,7 +182,7 @@
 "e": "Correct answer: I and II (from the IC27 question bank)."
 },
 {
-"n": 12,
+"n": 14,
 "topic": "Health Insurance",
 "t": "In health insurance business, it is critical to strike an appropriate balance between risk and business. This process of balancing is done by _________________.",
 "o": [
@@ -169,7 +196,7 @@
 "e": "Correct answer: Underwriter (from the IC27 question bank)."
 },
 {
-"n": 13,
+"n": 15,
 "topic": "Health Insurance",
 "t": "Vijay Vyas needs to travel to US on 15<SUP>th</SUP> of next month. Suggest a suitable health insurance product for him.",
 "o": [
@@ -183,7 +210,7 @@
 "e": "Correct answer: Overseas Medical Insurance plan / ?????? ???????? (from the IC27 question bank)."
 },
 {
-"n": 14,
+"n": 16,
 "topic": "Health Insurance",
 "t": "Which of the following statement best describes \"Social reinsurance\"?",
 "o": [
@@ -197,7 +224,7 @@
 "e": "Correct answer: A structure  in which NGOs play the role of the distributor and \"outsource\" the design and administration of the entire insurance product to an insurance company who effectively acts as a reinsurer (from the IC27 question bank)."
 },
 {
-"n": 15,
+"n": 17,
 "topic": "Health Insurance",
 "t": "X applies for a health insurance policy from ABC ltd.  X was required to fill a detailed questionnaire but no health check-up was done.  Which underwriting method was used in this case?",
 "o": [
@@ -211,7 +238,21 @@
 "e": "Correct answer: Non medical underwriting (from the IC27 question bank)."
 },
 {
-"n": 16,
+"n": 18,
+"topic": "Health Insurance",
+"t": "The following statements give a situation of the Indian Health insurance market:-<BR><BR>I. The information available to both insurer and insured about each other is either incomplete or not completely transparent<BR>II. Both the insurer and insured will try to make the risk selection on the basis of decision cost-effective to each of them. <BR><BR>Identify the type of market to which health insurance is exposed to.",
+"o": [
+"Liquid Market",
+"Imperfect market",
+"Thin Market",
+"Inefficient Market",
+"Perfect Market"
+],
+"a": 1,
+"e": "Correct answer: Imperfect market (from the IC27 question bank)."
+},
+{
+"n": 19,
 "topic": "Health Insurance",
 "t": "Mr. A works in a Company in Japan that employs around 800 employees. Name the health insurance program under which he shall be covered.",
 "o": [
@@ -225,7 +266,7 @@
 "e": "Correct answer: Society Managed Health Insurance Plans (from the IC27 question bank)."
 },
 {
-"n": 17,
+"n": 20,
 "topic": "Health Insurance",
 "t": "If X wishes to resolve a dispute seeking compensation worth Rs. 21 lakh from ABC insurance company, then he should approach the  ______________.",
 "o": [
@@ -239,7 +280,7 @@
 "e": "Correct answer: State Commission (from the IC27 question bank)."
 },
 {
-"n": 18,
+"n": 21,
 "topic": "Health Insurance",
 "t": "Age distribution analysis is used to <BR><BR>I. Study the percentage share of each of the age categories for each policy year <BR>II. Understand the customer profile changes from year to year in different age bands <BR>III. Understand the change in claims cost from year to year",
 "o": [
@@ -253,22 +294,7 @@
 "e": "Correct answer: I and II (from the IC27 question bank)."
 },
 {
-"n": 19,
-"topic": "Health Insurance",
-"t": "Mr. B works in a Company in Japan that employs around 400 employees. Name the health insurance program under which he shall be covered.",
-"o": [
-"Society Managed Health Insurance Plans",
-"Government managed health insurance",
-"National Health Insurance",
-"Long life medical care system",
-"The Sickness Fund"
-],
-"a": 1,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Government managed health insurance (from the IC27 question bank).",
-"r": "key"
-},
-{
-"n": 20,
+"n": 22,
 "topic": "Health Insurance",
 "t": "All of the following are submitted as Standard Age proof EXCEPT:-",
 "o": [
@@ -282,7 +308,7 @@
 "e": "Correct answer: Ration card (from the IC27 question bank)."
 },
 {
-"n": 21,
+"n": 23,
 "topic": "Health Insurance",
 "t": "Which was the first standardised health insurance product to be launched in the Indian market?",
 "o": [
@@ -296,7 +322,21 @@
 "e": "Correct answer: Mediclaim (from the IC27 question bank)."
 },
 {
-"n": 22,
+"n": 24,
+"topic": "Health Insurance",
+"t": "Which of the following statements are true with respect to the tax funded system of health care?<br><br>I. The population contributes to the Government revenues via taxes, which is then allocated by the Government for providing healthcare care services to the people<br>II. The payment to the healthcare providers is made by the Government on behalf of the users<br>III. It works on principle of equal treatment and provides equal access to all medical services regardless of the financial status of an individual",
+"o": [
+"Only I / ???? I",
+"I and II / I ??? II",
+"Only III / ???? III",
+"I, II and III / I, II ??? III",
+"II and III / II ??? III"
+],
+"a": 3,
+"e": "Correct answer: I, II and III / I, II ??? III (from the IC27 question bank)."
+},
+{
+"n": 25,
 "topic": "Health Insurance",
 "t": "Explain what is \"Fonasa\".",
 "o": [
@@ -310,7 +350,7 @@
 "e": "Correct answer: National Health Fund of Chile (from the IC27 question bank)."
 },
 {
-"n": 23,
+"n": 26,
 "topic": "Health Insurance",
 "t": "If the complainant is looking for adjudication in respect of claims, then he cannot approach ___________________.",
 "o": [
@@ -324,7 +364,7 @@
 "e": "Correct answer: Grievance redressal cell of IRDAI (from the IC27 question bank)."
 },
 {
-"n": 24,
+"n": 27,
 "topic": "Health Insurance",
 "t": "In Japan the employees who are working with small employers with less than 700 employees and their dependents are automatically enrolled under a which Government operated program?",
 "o": [
@@ -338,7 +378,7 @@
 "e": "Correct answer: Small business national health plan (from the IC27 question bank)."
 },
 {
-"n": 25,
+"n": 28,
 "topic": "Health Insurance",
 "t": "If X wishes to resolve a dispute seeking compensation worth Rs 15 lakh from ABC insurance company, then he should approach the ______________.",
 "o": [
@@ -352,7 +392,7 @@
 "e": "Correct answer: District Forum / ???? ??? (from the IC27 question bank)."
 },
 {
-"n": 26,
+"n": 29,
 "topic": "Health Insurance",
 "t": "Which of the following is a human interface / process improvisation technique for detection of frauds in insurance sector? <BR><BR>I. Propensity Modeling <BR>II. Fraud management philosophy and policy <BR>III. RAG Analysis",
 "o": [
@@ -366,7 +406,7 @@
 "e": "Correct answer: Only II (from the IC27 question bank)."
 },
 {
-"n": 27,
+"n": 30,
 "topic": "Health Insurance",
 "t": "Which of the following is/are submitted as non-standard age proof? <BR><BR>I. School certificate <BR>II. Voter ID <BR>III. Ration card",
 "o": [
@@ -380,7 +420,7 @@
 "e": "Correct answer: II and III (from the IC27 question bank)."
 },
 {
-"n": 28,
+"n": 31,
 "topic": "Health Insurance",
 "t": "Identify the correct full form of NRHM in the context of healthcare system in India.",
 "o": [
@@ -394,22 +434,7 @@
 "e": "Correct answer: National Rural Heath Mission (from the IC27 question bank)."
 },
 {
-"n": 29,
-"topic": "Health Insurance",
-"t": "In which year was the ESI Act enacted?",
-"o": [
-"1948",
-"1938",
-"1957",
-"1912",
-"1908"
-],
-"a": 0,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: 1948 (from the IC27 question bank).",
-"r": "key"
-},
-{
-"n": 30,
+"n": 32,
 "topic": "Health Insurance",
 "t": "Which of the following are the role of Grievance redressal Cell? <BR><BR>I. Adjudicate complaints <BR>II. Provide speedy resolution to complaints by taking up complaints against respective insurance companies <BR>III. Act as judicial channel for grievance redressal",
 "o": [
@@ -423,7 +448,7 @@
 "e": "Correct answer: Only II (from the IC27 question bank)."
 },
 {
-"n": 31,
+"n": 33,
 "topic": "Health Insurance",
 "t": "X has taken a health insurance policy from ABC Ltd. As per the insurance contract, the amount will be paid by the insurer on the occurrence of a certain event  as predetermined in the insurance policy and will not be related to the actual expenditure incurred. What do you infer from this information?",
 "o": [
@@ -437,7 +462,7 @@
 "e": "Correct answer: X has taken insurance coverage on benefit basis (from the IC27 question bank)."
 },
 {
-"n": 32,
+"n": 34,
 "topic": "Health Insurance",
 "t": "Identify the true statement <BR><BR>I. Indemnity health insurance pays for the actual cost of the health episode.  <BR>II. Indemnity health insurance product line is generically given the name of \"Medi-claim\". <BR>III. Indemnity health insurance covers have an average sum insured of Rs. 100,000.",
 "o": [
@@ -451,7 +476,7 @@
 "e": "Correct answer: I,II and III (from the IC27 question bank)."
 },
 {
-"n": 33,
+"n": 35,
 "topic": "Health Insurance",
 "t": "The data with regard to Date of admission and discharge from hospital is recorded in _______________.",
 "o": [
@@ -465,7 +490,7 @@
 "e": "Correct answer: Claims data table (from the IC27 question bank)."
 },
 {
-"n": 34,
+"n": 36,
 "topic": "Health Insurance",
 "t": "Claim analysis by hospitals helps in:-  <BR><BR>I. Illustrating the amount paid to each hospital on the basis of ICD diagnosis codes <BR>II. Determining the average and total amount paid to each hospital for various ICD codes <BR>III. Pointing out the high cost hospitals and renegotiating terms with them",
 "o": [
@@ -479,7 +504,7 @@
 "e": "Correct answer: I,II and III (from the IC27 question bank)."
 },
 {
-"n": 35,
+"n": 37,
 "topic": "Health Insurance",
 "t": "Who among the following will be considered as sub standard risk?",
 "o": [
@@ -493,7 +518,7 @@
 "e": "Correct answer: Driver (from the IC27 question bank)."
 },
 {
-"n": 36,
+"n": 38,
 "topic": "Health Insurance",
 "t": "Identify the true statement. <BR><BR>I. Critical illness benefit products are available as standalone products or as riders to life and non-life policies <BR>II.  Critical illness benefit products, are available as a component of a packaged health insurance product.",
 "o": [
@@ -507,21 +532,7 @@
 "e": "Correct answer: Both I and II are true (from the IC27 question bank)."
 },
 {
-"topic": "Claims timelines",
-"t": "Under IRDAI's 2024 norms, a surveyor must be appointed within what time of a claim intimation?",
-"o": [
-"24 hours",
-"48 hours",
-"72 hours",
-"7 days"
-],
-"a": 0,
-"e": "★ Core fact (asked across III papers). Appointment within 24 hours; survey report within 15 days; insurer's decision within 7 days of the report.",
-"r": "core",
-"n": 37
-},
-{
-"n": 38,
+"n": 39,
 "topic": "Health Insurance",
 "t": "X has taken a Mediclaim policy of Rs. 2.5 lakhs from ABC Insurance Ltd. The policy  states that if in case of any hospitalisation, the company will cover room charges only up to 1% of the sum assured for a day. What amount as room charges will be paid by insurance companies to X in event of hospitalisation?",
 "o": [
@@ -535,7 +546,7 @@
 "e": "Correct answer: Rs 2500 a day (from the IC27 question bank)."
 },
 {
-"n": 39,
+"n": 40,
 "topic": "Health Insurance",
 "t": "Mr. C is a resident of Thailand and a Government employee. Under which health insurance scheme shall he be covered?",
 "o": [
@@ -549,7 +560,7 @@
 "e": "Correct answer: The Civil Servant Medical Benefits Schemes (from the IC27 question bank)."
 },
 {
-"n": 40,
+"n": 41,
 "topic": "Health Insurance",
 "t": "Health insurance is governed by:- <BR><BR>I. Principle of Uberrima fides <BR>II. Principle of indemnity <BR>III. Principle of insurable interest",
 "o": [
@@ -563,7 +574,7 @@
 "e": "Correct answer: I,II and III (from the IC27 question bank)."
 },
 {
-"n": 41,
+"n": 42,
 "topic": "Health Insurance",
 "t": "X applies for a health insurance policy from ABC Insurance Company. The underwriter categorises X as Standard risk.  What decision will be taken by Underwriter with regard to acceptance of risk?",
 "o": [
@@ -577,7 +588,7 @@
 "e": "Correct answer: Accept risk at standard rates (from the IC27 question bank)."
 },
 {
-"n": 42,
+"n": 43,
 "topic": "Health Insurance",
 "t": "The Rashtriya Swasthya Bima Yojana (RSBY) is regulated by which governmental body?",
 "o": [
@@ -591,7 +602,7 @@
 "e": "Correct answer: Ministry of Labour (from the IC27 question bank)."
 },
 {
-"n": 43,
+"n": 44,
 "topic": "Health Insurance",
 "t": "Reinsurance structure helps in:- <BR><BR>I. Providing technical assistance <BR>II. Helps an insurance company optimize the amount of capital it has to hold for solvency purposes <BR>III. Provides the insurer with the ability to equalise claims pay-outs as well as manage liquidity",
 "o": [
@@ -603,20 +614,6 @@
 ],
 "a": 4,
 "e": "Correct answer: I,II and III (from the IC27 question bank)."
-},
-{
-"topic": "Claims timelines",
-"t": "For health insurance, the maximum time an insurer may take to decide a cashless authorisation request under the 2024 master circular is:",
-"o": [
-"1 hour",
-"3 hours",
-"6 hours",
-"24 hours"
-],
-"a": 0,
-"e": "★ Core fact (asked across III papers). Cashless authorisation within 1 hour of request; final discharge authorisation within 3 hours.",
-"r": "core",
-"n": 44
 },
 {
 "n": 45,

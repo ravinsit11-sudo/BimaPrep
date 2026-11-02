@@ -86,21 +86,6 @@
 {
 "n": 7,
 "topic": "Health Insurance",
-"t": "Mr. B works in a Company in Japan that employs around 400 employees. Name the health insurance program under which he shall be covered.",
-"o": [
-"Society Managed Health Insurance Plans",
-"Government managed health insurance",
-"National Health Insurance",
-"Long life medical care system",
-"The Sickness Fund"
-],
-"a": 1,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Government managed health insurance (from the IC27 question bank).",
-"r": "key"
-},
-{
-"n": 8,
-"topic": "Health Insurance",
 "t": "Explain the concept of waiting period.",
 "o": [
 "Waiting period is that period of every year during",
@@ -113,7 +98,7 @@
 "e": "Correct answer: The initial period within which happening of any event giving rise to any claims will not be entertained by the insurer. This period is known as waiting period (from the IC27 question bank)."
 },
 {
-"n": 9,
+"n": 8,
 "topic": "Health Insurance",
 "t": "In India, health insurance products are sold by:- <BR><BR> I. Life insurance companies <BR>II. Non life insurance companies <BR> III. Stand Alone Health Insurance Companies",
 "o": [
@@ -127,7 +112,7 @@
 "e": "Correct answer: I,II and III (from the IC27 question bank)."
 },
 {
-"n": 10,
+"n": 9,
 "topic": "Health Insurance",
 "t": "Identify the type of requests that can be received from the customer with respect to health insurance<BR><BR> I. Cancellation related <BR>II. Endorsement related <BR> III. Product clarification related",
 "o": [
@@ -139,6 +124,20 @@
 ],
 "a": 4,
 "e": "Correct answer: I,II and III (from the IC27 question bank)."
+},
+{
+"n": 10,
+"topic": "Health Insurance",
+"t": "Identify the true statement with regard to High-deductible hospital indemnity covers <BR><BR>I. These products are cost-effective because their premiums are low due to high deductible amount, making this coverage more affordable.  <BR>II. In these products, higher the deductible, the lower will be the insurance premiums, as the chances of a person reaching the high level of deductible are very less.",
+"o": [
+"Only I is true",
+"Only II is true",
+"Both I and II are true",
+"Both I and II are false",
+"Either I or II can be true"
+],
+"a": 2,
+"e": "Correct answer: Both I and II are true (from the IC27 question bank)."
 },
 {
 "n": 11,
@@ -239,17 +238,16 @@
 {
 "n": 18,
 "topic": "Health Insurance",
-"t": "In which year was the ESI Act enacted?",
+"t": "Identify the true statement <BR><BR>I. In health insurance, there is a higher focus on medical or health findings than financial underwriting. <BR>II. Financial underwriting is important to rule out any adverse selection and ensure persistency in health insurance.",
 "o": [
-"1948",
-"1938",
-"1957",
-"1912",
-"1908"
+"Only I is true",
+"Only II is true",
+"Both I and II are true",
+"Both I and II are false",
+"Either I or II can be true"
 ],
-"a": 0,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: 1948 (from the IC27 question bank).",
-"r": "key"
+"a": 2,
+"e": "Correct answer: Both I and II are true (from the IC27 question bank)."
 },
 {
 "n": 19,
@@ -324,6 +322,34 @@
 {
 "n": 24,
 "topic": "Health Insurance",
+"t": "Which of the following statements are true with respect to the healthcare system of France?<br><br>I. There are three healthcare funds operating in France<br>II. The contribution to these funds is mandatory and not optional<br>III. There does not exist any kind of private health insurance in France",
+"o": [
+"Only I / ???? I",
+"I and II / I ??? II",
+"Only III / ???? III",
+"I, II and III / I, II ??? III",
+"Only II / ???? II"
+],
+"a": 1,
+"e": "Correct answer: I and II / I ??? II (from the IC27 question bank)."
+},
+{
+"n": 25,
+"topic": "Health Insurance",
+"t": "Puneet got caught by swine flu spreading widely in his city. He didn't get a bed in any of the hospitals so the doctors suggested to start the treatment at home. The treatment continued at home and costed Puneet more than the hospital. Which provision in Puneet's health insurance Policy would have saved Puneet from this financial loss?",
+"o": [
+"Day Care Procedures Benefit",
+"Domiciliary Hospitalisation Benefit / ???? ???????",
+"Cashless Hospitalisation Procedure / ???????? ????",
+"Deductibles benefit / ????????? ???",
+"Co-pay benefit / ??-?????? ???"
+],
+"a": 1,
+"e": "Correct answer: Domiciliary Hospitalisation Benefit / ???? ??????? (from the IC27 question bank)."
+},
+{
+"n": 26,
+"topic": "Health Insurance",
 "t": "X has taken a health insurance policy from ABC Ltd. As per the insurance contract, insurer will make good part or all of the losses incurred or amount spent during hospitalisation up to the sum assured. What do you infer from this information?",
 "o": [
 "X has taken a health cover on indemnity basis",
@@ -336,22 +362,7 @@
 "e": "Correct answer: X has taken a health cover on indemnity basis (from the IC27 question bank)."
 },
 {
-"n": 25,
-"topic": "Health Insurance",
-"t": "Vijay Vyas needs to travel to US on 15<SUP>th</SUP> of next month. Suggest a suitable health insurance product for him.",
-"o": [
-"Overseas Medical Insurance plan / ?????? ????????",
-"Bhavishya Aarogya / ?????? ??????",
-"Disease Management cover / ??? ??????? ????",
-"High-deductible hospital indemnity cover / ????-??",
-"Daily hospital cash benefit / ????? ??????? ???? ?"
-],
-"a": 0,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Overseas Medical Insurance plan / ?????? ???????? (from the IC27 question bank).",
-"r": "key"
-},
-{
-"n": 26,
+"n": 27,
 "topic": "Health Insurance",
 "t": "Which of the following is a deferred indemnity product, which is similar to the purpose of the Health Savings account?",
 "o": [
@@ -365,7 +376,7 @@
 "e": "Correct answer: Bhavishya Aarogya (from the IC27 question bank)."
 },
 {
-"n": 27,
+"n": 28,
 "topic": "Health Insurance",
 "t": "Which of the following statement best describes the principle of Contribution?",
 "o": [
@@ -379,7 +390,21 @@
 "e": "Correct answer: Each insurer's share of the loss is based on the proportion that its insurance bears to the total amount of insurance (from the IC27 question bank)."
 },
 {
-"n": 28,
+"n": 29,
+"topic": "Health Insurance",
+"t": "Following are the characteristics of risk associated with health insurance. Identify the type of risk. <BR><BR>I. The insurer may be exposed to changes in the policy environment and the economic environment which may affect it adversely <BR>II. Operational and other risks including risk of frauds, risk of not keeping up with technology, risk of losing key human resources etc.",
+"o": [
+"Insurance risk",
+"Investment risk",
+"Credit risk",
+"Liquidity risk",
+"Business environment risk"
+],
+"a": 4,
+"e": "Correct answer: Business environment risk (from the IC27 question bank)."
+},
+{
+"n": 30,
 "topic": "Health Insurance",
 "t": "Identify the true statement. <BR><BR>I. Personal accident policies are offered both on a standalone basis and in a packaged product with other health insurance cover.  <BR>II. Personal Accident policies protects the insured against accidental death and any form of disablement due to accident",
 "o": [
@@ -393,7 +418,7 @@
 "e": "Correct answer: Both I and II are true (from the IC27 question bank)."
 },
 {
-"n": 29,
+"n": 31,
 "topic": "Health Insurance",
 "t": "All of the following are example of cost sharing mechanism used by insurance companies EXCEPT:-",
 "o": [
@@ -407,7 +432,7 @@
 "e": "Correct answer: Introducing clause of waiting period before any benefit commences (from the IC27 question bank)."
 },
 {
-"n": 30,
+"n": 32,
 "topic": "Health Insurance",
 "t": "What do you mean by MEDICARE programme in USA?",
 "o": [
@@ -421,7 +446,7 @@
 "e": "Correct answer: Medicare is the healthcare programme for the elderly person (from the IC27 question bank)."
 },
 {
-"n": 31,
+"n": 33,
 "topic": "Health Insurance",
 "t": "Identify the true statement. <BR><BR>I. Insurance risk assessment is based on prognosis.  <BR>II. Based on the type of coverage, morbidity risk classification is accordingly done.",
 "o": [
@@ -435,7 +460,7 @@
 "e": "Correct answer: Both I and II are true (from the IC27 question bank)."
 },
 {
-"n": 32,
+"n": 34,
 "topic": "Health Insurance",
 "t": "Fixed benefit insurance cover fall under which category? <BR><BR>I. High severity and low frequency <BR>II. Low severity and low frequency <BR>III. High severity and high frequency <BR>IV. Low severity and high frequency",
 "o": [
@@ -449,7 +474,7 @@
 "e": "Correct answer: Only IV (from the IC27 question bank)."
 },
 {
-"n": 33,
+"n": 35,
 "topic": "Health Insurance",
 "t": "Which among the following actions can a regulator take in the event of breach by the insurers?<BR><BR> I. Restricting business activity <BR>II. Ordering removal of personnel <BR> III. Issuing warnings",
 "o": [
@@ -463,7 +488,7 @@
 "e": "Correct answer: I, II, and III (from the IC27 question bank)."
 },
 {
-"n": 34,
+"n": 36,
 "topic": "Health Insurance",
 "t": "Identify the categories under which claim analysis can be done. <BR><BR>I. Claim analysis by sum insured <BR>II. Claim analysis by premium <BR>III. Claim analysis by age bands",
 "o": [
@@ -477,7 +502,7 @@
 "e": "Correct answer: I and III (from the IC27 question bank)."
 },
 {
-"n": 35,
+"n": 37,
 "topic": "Health Insurance",
 "t": "Which of the following statement best describes \"Quota share reinsurance\"?",
 "o": [
@@ -491,7 +516,7 @@
 "e": "Correct answer: The reinsurance contract is proportional to the original insurance contract (from the IC27 question bank)."
 },
 {
-"n": 36,
+"n": 38,
 "topic": "Health Insurance",
 "t": "Which of the following is true regarding the maximum waiting period of 48 months suggested by IRDAI for pre-existing disease? <BR><BR>I. It needs to be fixed 48 months for all insurance companies and cannot be increased or reduced <BR>II. Insurance companies can increase it but not reduce the period <BR>III. Insurance companies can reduce it but not increase it",
 "o": [
@@ -505,21 +530,7 @@
 "e": "Correct answer: Only III (from the IC27 question bank)."
 },
 {
-"topic": "Health insurance norms",
-"t": "The maximum waiting period for pre-existing diseases in health insurance, after the 2024 IRDAI changes, is:",
-"o": [
-"24 months",
-"36 months",
-"48 months",
-"60 months"
-],
-"a": 1,
-"e": "★ Core fact (asked across III papers). Reduced from 48 to 36 months; the moratorium period after which claims cannot be contested (except fraud) is 60 months.",
-"r": "core",
-"n": 37
-},
-{
-"n": 38,
+"n": 39,
 "topic": "Health Insurance",
 "t": "Group size distribution analysis is used to <BR><BR>I. Understand the customer profile changes from year to year in different age bands  <BR>II. Understand the change in claims cost from year to year <BR>III. Facilitate monitoring the individual, small group and large group blocks of business separately",
 "o": [
@@ -533,7 +544,7 @@
 "e": "Correct answer: II and III (from the IC27 question bank)."
 },
 {
-"n": 39,
+"n": 40,
 "topic": "Health Insurance",
 "t": "Identify the true statement. <BR><BR>I. Daily hospital cash benefit could be used to cover the unexpected and incidental costs associated with hospitalisation such as travel and stay costs of an attendant. <BR>II. Daily hospital cash benefit provides the insured with a daily cash benefit ranging from Rs. 500 to Rs. 2000 for each 24 hours spent in the hospital.",
 "o": [
@@ -547,7 +558,7 @@
 "e": "Correct answer: Both I and II are true (from the IC27 question bank)."
 },
 {
-"n": 40,
+"n": 41,
 "topic": "Health Insurance",
 "t": "X had taken a health insurance policy for coverage of expenses in the event of hospitalisation. The policy had a standard waiting period clause. 3 months after taking the policy, X was hospitalised for treatment of malaria for 5 days. Can X claim reimbursement from hospital?",
 "o": [
@@ -561,7 +572,7 @@
 "e": "Correct answer: Yes, as standard waiting period is of 30 days (from the IC27 question bank)."
 },
 {
-"n": 41,
+"n": 42,
 "topic": "Health Insurance",
 "t": "Which of the following statements are false with respect to the healthcare system of Germany? <BR><BR>I. In Germany, most of the residents receive healthcare through the statutory health insurance <BR>II. Employers and employees contribute equally in the premiums <BR>III. The premiums paid by a member depend on the member's marital status, family size or health",
 "o": [
@@ -575,7 +586,7 @@
 "e": "Correct answer: Only III (from the IC27 question bank)."
 },
 {
-"n": 42,
+"n": 43,
 "topic": "Health Insurance",
 "t": "All of the following statement are true with regard to  analysis by diagnosis grouping and provider network analysis  EXCEPT:-",
 "o": [
@@ -589,7 +600,7 @@
 "e": "Correct answer: This is used to illustrate the amount paid to each hospital on the basis of ICD diagnosis codes (from the IC27 question bank)."
 },
 {
-"n": 43,
+"n": 44,
 "topic": "Health Insurance",
 "t": "Which among the following risks can be mitigated with reinsurance?",
 "o": [
@@ -601,20 +612,6 @@
 ],
 "a": 0,
 "e": "Correct answer: Insurance risk (from the IC27 question bank)."
-},
-{
-"topic": "Intermediaries",
-"t": "The qualifying examination for an individual insurance agent conducted by the Insurance Institute of India is:",
-"o": [
-"IC-01",
-"IC-38",
-"IC-14",
-"IC-33"
-],
-"a": 1,
-"e": "★ Core fact (asked across III papers). IC-38 is the agents' pre-recruitment examination; IC-01/02/11/14 are Licentiate papers.",
-"r": "core",
-"n": 44
 },
 {
 "n": 45,

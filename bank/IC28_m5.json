@@ -142,21 +142,6 @@
 {
 "n": 11,
 "topic": "Foundation of Actuarial Science",
-"t": "The compound interest on 30,000 at 7% per annum is 4347. The period (in years) is:-",
-"o": [
-"2",
-"2.5",
-"3",
-"4",
-"8.2"
-],
-"a": 0,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: 2 (from the IC28 question bank).",
-"r": "key"
-},
-{
-"n": 12,
-"topic": "Foundation of Actuarial Science",
 "t": "Oksana plays baseball for one of the community league teams. Her batting average this season is 0.400. What is the probability that Oksana will get only 1 hit in her next 3 times at bat?",
 "o": [
 "40%",
@@ -169,7 +154,7 @@
 "e": "Correct answer: 43.2% (from the IC28 question bank)."
 },
 {
-"n": 13,
+"n": 12,
 "topic": "Foundation of Actuarial Science",
 "t": "Hill Enterprises is expecting tremendous growth from its newest boutique store. Next year the store is expected to bring in net cash flows of 675,000. The company expects its earnings to grow annually at a rate of 13 percent for the next 15 years. What is the present value of this growing annuity if the firm uses a discount rate of 18 percent on its investments?",
 "o": [
@@ -183,7 +168,7 @@
 "e": "Correct answer: 6448519 (from the IC28 question bank)."
 },
 {
-"n": 14,
+"n": 13,
 "topic": "Foundation of Actuarial Science",
 "t": "The life office issues Decreasing Temporary Assurance, either by single premium or by annual premium with the premium paying term limited to:-",
 "o": [
@@ -195,6 +180,20 @@
 ],
 "a": 1,
 "e": "Correct answer: Two-third of the term of assurance (from the IC28 question bank)."
+},
+{
+"n": 14,
+"topic": "Foundation of Actuarial Science",
+"t": "Under this Assurance, it is customary in calculating premiums for this type of policy to ignore the insured's mortality during the deferment period, using only the interest function.",
+"o": [
+"Decreasing Temporary Assurance",
+"Double Endowment Assurance",
+"Children's Deferred Assurance",
+"Limited Payment Assurance",
+"Whole Life Assurance"
+],
+"a": 2,
+"e": "Correct answer: Children's Deferred Assurance (from the IC28 question bank)."
 },
 {
 "n": 15,
@@ -213,21 +212,6 @@
 {
 "n": 16,
 "topic": "Foundation of Actuarial Science",
-"t": "A sum of 12,500 amounts to 15,500 in 4 years at the rate of simple interest. What is the rate of interest?",
-"o": [
-"3%",
-"4%",
-"5%",
-"6%",
-"None of the above"
-],
-"a": 3,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: 6% (from the IC28 question bank).",
-"r": "key"
-},
-{
-"n": 17,
-"topic": "Foundation of Actuarial Science",
 "t": "You have just graduated, and you plan to work for 10 years and then to leave for world tour. You figure you can save 1,000 a year for the first 5 years and 2,000 a year for the next 5 years. These savings cash flows will start one year from now. In addition, your family has just given you a 5,000 graduation gift. If you put the gift now, and your future savings when they start, into an account which pays 8 percent compounded annually, what will your financial \"stake\" be when you leave for world tour 10 years from now?",
 "o": [
 "17427.7",
@@ -240,7 +224,7 @@
 "e": "Correct answer: 31148 (from the IC28 question bank)."
 },
 {
-"n": 18,
+"n": 17,
 "topic": "Foundation of Actuarial Science",
 "t": "e<SUP>x</sup> =",
 "o": [
@@ -254,7 +238,7 @@
 "e": "Correct answer: px (1+ex+1) (from the IC28 question bank)."
 },
 {
-"n": 19,
+"n": 18,
 "topic": "Foundation of Actuarial Science",
 "t": "The Institute of Actuaries of UK tables were prepared based on the data furnished by:-",
 "o": [
@@ -268,7 +252,7 @@
 "e": "Correct answer: 20 life offices (from the IC28 question bank)."
 },
 {
-"n": 20,
+"n": 19,
 "topic": "Foundation of Actuarial Science",
 "t": "Assume that you can invest to earn a stated annual rate of return of 12 percent, but where interest is compounded semiannually. If you make 20 consecutive semiannual deposits of <IMG border=0 hspace=0 alt=\"\" align=absMiddle src=\"/Attest1_res/topicresources/1304891307/III_Rs_Symbol.jpg\" width=12 height=15>500 each, with the first deposit being made today, what will your balance be at the end of Year 20?",
 "o": [
@@ -282,7 +266,7 @@
 "e": "Correct answer: 62527.47 (from the IC28 question bank)."
 },
 {
-"n": 21,
+"n": 20,
 "topic": "Foundation of Actuarial Science",
 "t": "Given L<SUB>70</SUB>=36760, m<SUB>70</SUB>=0.06622, L<SUB>71</SUB>=34309 &amp; m<SUB>71</SUB>=0.07193. On the assumption of uniform distribution of deaths over the year of age, calculate d<SUB>70</SUB>.",
 "o": [
@@ -296,7 +280,7 @@
 "e": "Correct answer: 2434 (from the IC28 question bank)."
 },
 {
-"n": 22,
+"n": 21,
 "topic": "Foundation of Actuarial Science",
 "t": "In return for a single payment of 800 at the present moment a person agrees to receive three equal payments at the end of 4 years, 6 years and 10 years resply. Assuming a rate of interest of 6% p.a. What should be the value of each of the three payments?",
 "o": [
@@ -310,7 +294,7 @@
 "e": "Correct answer: 389.21 (from the IC28 question bank)."
 },
 {
-"n": 23,
+"n": 22,
 "topic": "Foundation of Actuarial Science",
 "t": "Using commutation functions based on IALM (94-96) modified Ultimate mortality at 6% interest calculate for a person aged 35 the present value of the Endowment Assurance of 500 for a period of 25 years.",
 "o": [
@@ -324,7 +308,7 @@
 "e": "Correct answer: 125.85 (from the IC28 question bank)."
 },
 {
-"n": 24,
+"n": 23,
 "topic": "Foundation of Actuarial Science",
 "t": "Find the present value at the rate of 7% of 3 annual payments of 200 p.a. followed by 7 annual payments of 350 p.a., the first payment being made at the end of one year.",
 "o": [
@@ -338,7 +322,7 @@
 "e": "Correct answer: 2064.615 (from the IC28 question bank)."
 },
 {
-"n": 25,
+"n": 24,
 "topic": "Foundation of Actuarial Science",
 "t": "A loan of 2,000 is repayable in 93 days at a simple discount rate of 4% per annum. Calculate the amount repayable in 93 days time.",
 "o": [
@@ -352,7 +336,7 @@
 "e": "Correct answer: 2020.59344552702 (from the IC28 question bank)."
 },
 {
-"n": 26,
+"n": 25,
 "topic": "Foundation of Actuarial Science",
 "t": "Given l<SUb>x</SUb>=1,000,000 and q<SUb>x</SUb>=0.00409. Find d<SUb>x</SUb>.",
 "o": [
@@ -366,7 +350,7 @@
 "e": "Correct answer: 4090 (from the IC28 question bank)."
 },
 {
-"n": 27,
+"n": 26,
 "topic": "Foundation of Actuarial Science",
 "t": "Calculate the present value as at 1 January 2003 of the following payments: INR 200 on the first day of each year during calendar years 2006 to 2015 inclusive. Assume effective rates of interest of 6% per annum until 31 December 2010 and 5% per annum thereafter.",
 "o": [
@@ -380,22 +364,7 @@
 "e": "Correct answer: 1320 (from the IC28 question bank)."
 },
 {
-"n": 28,
-"topic": "Foundation of Actuarial Science",
-"t": "Look up the H<SUB>M</SUB> table and find the curtate expectation of life ex for a 21-year old actuarial student.",
-"o": [
-"41.339 (years)",
-"40.339 (years)",
-"41.8 (years)",
-"48.39 (years)",
-"40.839 (years)"
-],
-"a": 4,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: 40.839 (years) (from the IC28 question bank).",
-"r": "key"
-},
-{
-"n": 29,
+"n": 27,
 "topic": "Foundation of Actuarial Science",
 "t": "A life office issues capital redemption policies on the following basis: Interest: 9%. Expenses: First year: 3 per 1,000 S.A. and 6% of premium; Renewal 1 per 1,000 S.A. and 1.5% of premium. Calculate office annual premium for a policy of 20,000 for term of 15 years.",
 "o": [
@@ -409,7 +378,21 @@
 "e": "Correct answer: 651.27 (from the IC28 question bank)."
 },
 {
-"n": 30,
+"n": 28,
+"topic": "Foundation of Actuarial Science",
+"t": "The market value of a small pension funds assets was 26 lakhs on 1 January 2006 and 30 lakhs on 31 December 2006. During 2006 the only cashflows were:- Bank interest and dividends totalling 125,000 received on 30 June 100,000 received on 1 August when a block of shares was soldA&nbsp;lump sum retirement benefit of 75,000 paid on 1 May A&nbsp;contribution of 50,000 paid by the company on 31 December.Find the money-weighted rate of return.</LI>",
+"o": [
+"16%",
+"5.6%",
+"11%",
+"14.2%",
+"2.5%"
+],
+"a": 3,
+"e": "Correct answer: 14.2% (from the IC28 question bank)."
+},
+{
+"n": 29,
 "topic": "Foundation of Actuarial Science",
 "t": "l<SUb>x+1</SUb> =",
 "o": [
@@ -423,7 +406,7 @@
 "e": "Correct answer: lx - lx qx (from the IC28 question bank)."
 },
 {
-"n": 31,
+"n": 30,
 "topic": "Foundation of Actuarial Science",
 "t": "Rohan is entitled to 400 p.a. for 4 years, the first payment being payable after one year from now. For the next 5 years he is entitled to 150 p.a. Find the accumulated value of the annuity at 7% p.a. at the end of 9 years.",
 "o": [
@@ -435,6 +418,20 @@
 ],
 "a": 0,
 "e": "Correct answer: 3353.525 (from the IC28 question bank)."
+},
+{
+"n": 31,
+"topic": "Foundation of Actuarial Science",
+"t": "A truck, whose price is 18,600, is being paid for in 36 uniform monthly installments, including interest at 10 percent. After making 13 payments, the owner decides to pay off the remaining balance of the purchase price in one lump sum. How much is the lump sum?",
+"o": [
+"12515.45",
+"16800.22",
+"18332",
+"35455.1",
+"25364.87"
+],
+"a": 0,
+"e": "Correct answer: 12515.45 (from the IC28 question bank)."
 },
 {
 "n": 32,
@@ -493,18 +490,18 @@
 "e": "Correct answer: 138.521899865935 (from the IC28 question bank)."
 },
 {
-"topic": "Insurance Act 1938 – key sections",
-"t": "Nomination and assignment of a life insurance policy are governed respectively by which sections of the Insurance Act 1938?",
+"n": 36,
+"topic": "Foundation of Actuarial Science",
+"t": "Which of the following is false?",
 "o": [
-"Sections 39 and 38",
-"Sections 38 and 39",
-"Sections 41 and 45",
-"Sections 45 and 41"
+"The future value of a deferred annuity is the same",
+"A deferred annuity is an annuity in which the paym",
+"To compute the PV of a deferred annuity, we comput",
+"If the first payment is received at the end of the sixth period, it means the ordinary annuity is deferred for six periods.",
+"All of the above"
 ],
-"a": 0,
-"e": "★ Core fact (asked across III papers). Section 39 deals with nomination; Section 38 with assignment and transfer.",
-"r": "core",
-"n": 36
+"a": 3,
+"e": "Correct answer: If the first payment is received at the end of the sixth period, it means the ordinary annuity is deferred for six periods. (from the IC28 question bank)."
 },
 {
 "n": 37,
@@ -551,6 +548,20 @@
 {
 "n": 40,
 "topic": "Foundation of Actuarial Science",
+"t": "A fund had a value of 150,000 on 1 July 2006. A net cash flow of 30,000 was received on 1 July 2007 and a further net cash flow of 40,000 was received on 1 July 2008. The fund had a value of 175,000 on 30 June 2007 and a value of 225,000 on 30 June 2008. The value of the fund on 1 January 2009 was 280,000. Calculate the time-weighted rate of return per annum earned on the fund between 1 July 2006 and 1 January 2009.",
+"o": [
+"13.5%",
+"29.68%",
+"12.85%",
+"8.26%",
+"5.2%"
+],
+"a": 2,
+"e": "Correct answer: 12.85% (from the IC28 question bank)."
+},
+{
+"n": 41,
+"topic": "Foundation of Actuarial Science",
 "t": "Given the following particulars from the records of a life office, calculate the rate of mortality and indicate the age to which it relates: Age nearer birthday = 18 years, No. of policies in force as on 1.1.1983 with the age description as above = 1,300; No. of policies in force as on 1.1.1984 with same age description as above = 1,608 & No. of policies going off by death during 1983 with same age description at the time of death = 5.",
 "o": [
 "0.7%",
@@ -563,7 +574,7 @@
 "e": "Correct answer: 3.43288705801579E-03 (from the IC28 question bank)."
 },
 {
-"n": 41,
+"n": 42,
 "topic": "Foundation of Actuarial Science",
 "t": "Suppose you invest 100 in a savings account that pays 10 percent interest per year. How much will you have in one year?",
 "o": [
@@ -577,7 +588,7 @@
 "e": "Correct answer: Rs.110 (from the IC28 question bank)."
 },
 {
-"n": 42,
+"n": 43,
 "topic": "Foundation of Actuarial Science",
 "t": "Manisha invests 8,000 for 5 years for her son's study fund. Determine how much money she will have at the end of the period if the nominal interest of 6% is compounded quarterly.",
 "o": [
@@ -591,7 +602,7 @@
 "e": "Correct answer: Rs. 10,774.84 (from the IC28 question bank)."
 },
 {
-"n": 43,
+"n": 44,
 "topic": "Foundation of Actuarial Science",
 "t": "Calculate the value of the term assurance of <IMG border=0 hspace=0 alt=\"\" align=absMiddle src=\"/Attest1_res/topicresources/118537616/III_Rs_Symbol.jpg\" width=12 height=15>1 on a life aged 40 and term of 20 years. Basis: l<SUB>x</SUB> = (120 - x) (for x â‰¤ 120); Interest Rate: 4% per annum.",
 "o": [
@@ -605,7 +616,7 @@
 "e": "Correct answer: 16.988% (from the IC28 question bank)."
 },
 {
-"n": 44,
+"n": 45,
 "topic": "Foundation of Actuarial Science",
 "t": "p<SUb>x</SUb> =",
 "o": [
@@ -617,20 +628,6 @@
 ],
 "a": 2,
 "e": "Correct answer: 1-qx (from the IC28 question bank)."
-},
-{
-"topic": "IRDAI – regulator",
-"t": "IRDAI was constituted under the:",
-"o": [
-"Insurance Act 1938",
-"IRDA Act 1999",
-"General Insurance Business (Nationalisation) Act 1972",
-"LIC Act 1956"
-],
-"a": 1,
-"e": "★ Core fact (asked across III papers). The IRDA Act 1999 established the Authority; it began functioning in April 2000 and is headquartered in Hyderabad.",
-"r": "core",
-"n": 45
 },
 {
 "n": 46,

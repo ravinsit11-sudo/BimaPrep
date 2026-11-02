@@ -1,0 +1,702 @@
+[
+{
+"n": 1,
+"topic": "Health Insurance",
+"t": "Identify the technique that is not a technology and process interface technique of fraud detection in Insurance Sector.",
+"o": [
+"Audits / ?????????????",
+"Controls through insurance covers / ???? ?????? ??",
+"RAG Analysis / ????? ????????",
+"Propensity Modeling / ??? ????? ???? ?? ?????????",
+"Doctor seeding / ????????? ?????? ???? ???? ???? ("
+],
+"a": 4,
+"e": "Correct answer: Doctor seeding / ????????? ?????? ???? ???? ???? ( (from the IC27 question bank)."
+},
+{
+"n": 2,
+"topic": "Health Insurance",
+"t": "Claims which are high frequency and high severity  ____________________.",
+"o": [
+"Are not reinsured",
+"Would require a quota share reinsurance structure",
+"Would require a surplus share reinsurance structur",
+"Would require a quota share or a surplus share rei",
+"Would require a stop loss type of reinsurance stru"
+],
+"a": 1,
+"e": "Correct answer: Would require a quota share reinsurance structure (from the IC27 question bank)."
+},
+{
+"n": 3,
+"topic": "Health Insurance",
+"t": "Which of the following is not a valid ground for cancellation of a health insurance Policy? <BR><BR>I. Mr. A lost his job <BR>II. Mr. A produced forged bills to make a claim <BR>III. Mr. A did not disclose his pre-existing chronic disease",
+"o": [
+"I and II",
+"Only I",
+"I, II and III",
+"Only III",
+"I and III"
+],
+"a": 1,
+"e": "Correct answer: Only I (from the IC27 question bank)."
+},
+{
+"n": 4,
+"topic": "Health Insurance",
+"t": "Health insurance provides coverage for which of the following? <BR><BR>I. Medical Expenses <BR>II. Accident benefits <BR>III. Death <BR>IV. Disability",
+"o": [
+"Only I",
+"Only IV",
+"I and II",
+"I, II and IV",
+"I and III"
+],
+"a": 0,
+"e": "Correct answer: Only I (from the IC27 question bank)."
+},
+{
+"n": 5,
+"topic": "Health Insurance",
+"t": "Identify the benefit of cashless system of health insurance. <BR><BR>I. It avoids the need to arrange a large amount of money by an individual for payment to the hospital <BR>II. It is less costly than other insurance options <BR>III. No insurance claim form needs to be submitted for a cashless claim",
+"o": [
+"I and II",
+"II and III",
+"Only I",
+"Only II",
+"I, II and III"
+],
+"a": 2,
+"e": "Correct answer: Only I (from the IC27 question bank)."
+},
+{
+"n": 6,
+"topic": "Health Insurance",
+"t": "What are the reasons for asking so many questions instead of a simple question about an individualâ€™s overall health for a health insurance?<BR><BR>I. To record the facts in detail which forms the basis of the contract.<BR>II. To enable the customer to think through various diseases so that he can provide the necessary information<BR>III. To arrange for further medical examination if any needed to estimate the severity of the disease etc.",
+"o": [
+"Only I / ???? I",
+"Only II / ???? II",
+"II and III / II ??? III",
+"Only III / ???? III",
+"I, II, and III / I, II ??? III"
+],
+"a": 4,
+"e": "Correct answer: I, II, and III / I, II ??? III (from the IC27 question bank)."
+},
+{
+"n": 7,
+"topic": "Health Insurance",
+"t": "The public health sector in India continues to face which of the following problems?  <BR><BR>I. Poorly motivated manpower  <BR>II. Inadequacy of funding <BR>III. Skewed geographical distribution",
+"o": [
+"Only I",
+"I and II",
+"Only III",
+"I, II and III",
+"II and III"
+],
+"a": 3,
+"e": "Correct answer: I, II and III (from the IC27 question bank)."
+},
+{
+"n": 8,
+"topic": "Health Insurance",
+"t": "Requirement of medical reports depends on:- <BR><BR>I. Norms of the insurer <BR>II. Age of the insured <BR>III. The amount of cover opted",
+"o": [
+"Only I",
+"Only II",
+"I and II",
+"II and III",
+"I,II and III"
+],
+"a": 4,
+"e": "Correct answer: I,II and III (from the IC27 question bank)."
+},
+{
+"n": 9,
+"topic": "Health Insurance",
+"t": "Identify the scheme that has been established in Chile to administer the Social Health Insurance Scheme.",
+"o": [
+"Medicare",
+"Fonasa",
+"Isapres",
+"Mediclaim",
+"Medicaid"
+],
+"a": 1,
+"e": "Correct answer: Fonasa (from the IC27 question bank)."
+},
+{
+"n": 10,
+"topic": "Health Insurance",
+"t": "Identify the true statement <BR><BR>I. If there are several causes operating, the proximate cause will be one that will be the dominant one or the most forceful one operating to bring the result. <BR>II. It is the duty of the insurer to prove that the loss was due to the insured peril, which is proximate.",
+"o": [
+"Only I is true",
+"Only II is true",
+"Both I and II are true",
+"Both I and II are false",
+"Either I or II can be true"
+],
+"a": 0,
+"e": "Correct answer: Only I is true (from the IC27 question bank)."
+},
+{
+"n": 11,
+"topic": "Health Insurance",
+"t": "Identify the type of fraud that occurs when people purposely provide false information with regard to the pre-existing illness or other relevant information to influence the underwriting process in the favour of the applicant.",
+"o": [
+"Soft fraud",
+"Hard fraud",
+"Creative fraud",
+"Provider and consumer fraud",
+"Invisible fraud"
+],
+"a": 0,
+"e": "Correct answer: Soft fraud (from the IC27 question bank)."
+},
+{
+"n": 12,
+"topic": "Health Insurance",
+"t": "Which of the following are some of the key characteristics for an effective and efficient fraud management system? <BR><BR>I. Ease of data capture <BR>II. Comprehensive claims information <BR>III. Ability to detect fraud effectively",
+"o": [
+"Only I",
+"Only II",
+"I and II",
+"Only III",
+"I, II and III"
+],
+"a": 4,
+"e": "Correct answer: I, II and III (from the IC27 question bank)."
+},
+{
+"n": 13,
+"topic": "Health Insurance",
+"t": "Claims which are low severity and low frequency  ____________________.",
+"o": [
+"Are not reinsured",
+"Would require a quota share reinsurance structure",
+"Would require a surplus share reinsurance structur",
+"Would require a quota share or a surplus share rei",
+"Would require a stop loss type of reinsurance stru"
+],
+"a": 0,
+"e": "Correct answer: Are not reinsured (from the IC27 question bank)."
+},
+{
+"n": 14,
+"topic": "Health Insurance",
+"t": "Which plan requires companies with 700 or more employees to create and operate their own health insurance plans within the Government regulations in Japan?",
+"o": [
+"Society Managed Health Insurance Plans",
+"Government managed health insurance",
+"National Health Insurance",
+"Long life medical care system",
+"The Sickness Fund"
+],
+"a": 0,
+"e": "Correct answer: Society Managed Health Insurance Plans (from the IC27 question bank)."
+},
+{
+"n": 15,
+"topic": "Health Insurance",
+"t": "Who among the following process claims for the insurers?",
+"o": [
+"Underwriter",
+"Actuary",
+"TPAs",
+"Network Hospitals",
+"Insurance Agents"
+],
+"a": 2,
+"e": "Correct answer: TPAs (from the IC27 question bank)."
+},
+{
+"n": 16,
+"topic": "Health Insurance",
+"t": "Insurance policies are popularly known as insurance contracts. On which of the following principles are insurance contracts based?  <BR><BR>I. Principle of Caveat Emptor <BR>II. Principle of Ambiguity <BR>III. Principle of Uberima Fides",
+"o": [
+"Only I",
+"Only II",
+"I and II",
+"Only III",
+"I, II, and III"
+],
+"a": 3,
+"e": "Correct answer: Only III (from the IC27 question bank)."
+},
+{
+"n": 17,
+"topic": "Health Insurance",
+"t": "Which committee suggested the establishment of an insurance regulator in India?",
+"o": [
+"Malhotra Committee / ????????? ???????",
+"Bhore Committee / ???? ???????",
+"Public Accounts Committee / ??? ???? ?????",
+"Tariff Advisory Committee / ???????? ??????? ?????",
+"L C Gupta Committee / ?? ?? ?????? ?????"
+],
+"a": 0,
+"e": "Correct answer: Malhotra Committee / ????????? ??????? (from the IC27 question bank)."
+},
+{
+"n": 18,
+"topic": "Health Insurance",
+"t": "X has taken a health insurance product from ABC ltd which provides the insured with a daily cash benefit ranging from Rs. 500 to Rs. 2000 for each 24 hours spent in the hospital, which can be availed as per the specific needs of the insured. Which health insurance product has been availed by X?",
+"o": [
+"Hospitalisation indemnity policy / ??????????? ???",
+"Critical Illness benefit products / ????? ?????? ?",
+"High-deductible hospital indemnity covers / ????-?",
+"Daily hospital cash benefit / ????? ??????? ???? ?",
+"Disease Management cover / ??? ??????? ????"
+],
+"a": 3,
+"e": "Correct answer: Daily hospital cash benefit / ????? ??????? ???? ? (from the IC27 question bank)."
+},
+{
+"n": 19,
+"topic": "Health Insurance",
+"t": "Which of the following sentences best describe the term \"Supply side moral hazard\"? <BR><BR>I. A consumer with a health insurance will make use of and accept more health services than he would have otherwise taken without any health insurance <BR>II. The health care providers suggest and provide more health services as well as more expensive treatments to the person having health insurance than what is actually needed <BR>III. Both insured and health care provider mutually agree to increase the medical expenses above the required limit.",
+"o": [
+"Only I",
+"Only II",
+"I and II",
+"I, II and III",
+"I and III"
+],
+"a": 1,
+"e": "Correct answer: Only II (from the IC27 question bank)."
+},
+{
+"n": 20,
+"topic": "Health Insurance",
+"t": "Mr. Amar has made a maternity claim under a health insurance policy which is not covered under the policy benefit and he is making a claim of hysterectomy with fabricated medical papers. Identify the type of fraud.",
+"o": [
+"Claim frauds",
+"Application fraud",
+"Eligibility fraud",
+"Staging claims fraud",
+"Underwriting frauds"
+],
+"a": 0,
+"e": "Correct answer: Claim frauds (from the IC27 question bank)."
+},
+{
+"n": 21,
+"topic": "Health Insurance",
+"t": "In this type of health insurance plan, the total premium is split up into risk premium and investment amount. While the risk premium is allocated for the health insurance coverage, the investment amount is diverted to the unit linked funds which can pay for the future health costs or for the costs like OPD not covered in the risk component. Identify the type of plan.",
+"o": [
+"Immediate needs Disability Benefit Plan",
+"Critical Illness Plan",
+"Pre-funded Disability Benefit Plan",
+"Long term Care Plan",
+"Health savings or investments linked Plan"
+],
+"a": 4,
+"e": "Correct answer: Health savings or investments linked Plan (from the IC27 question bank)."
+},
+{
+"n": 22,
+"topic": "Health Insurance",
+"t": "Identify the statements that are false with respect to the Health Insurance system of Chile.<br><br>I. The healthcare system in Chile is working on dual structure, both public and private sector<br>II. People of Chile need not incur out of pocket expenses for healthcare needs<br>III. Fonasa is fully funded by the government tax revenues",
+"o": [
+"Only I / ???? I",
+"I and II / I ??? II",
+"Only III / ???? III",
+"I, II and III / I, II ??? III",
+"II and III / II ??? III"
+],
+"a": 4,
+"e": "Correct answer: II and III / II ??? III (from the IC27 question bank)."
+},
+{
+"n": 23,
+"topic": "Health Insurance",
+"t": "All of the following statements are correct  EXCEPT:-",
+"o": [
+"A health insurance policy will cover the cost incu",
+"A life insurance policy will cover the risk associated with accidents not necessarily resulting in death.",
+"If a person dies in an accident, the dependents of",
+"PA policies not only cover the risk related to the",
+"PA policy is more relevant where the accident resu"
+],
+"a": 1,
+"e": "Correct answer: A life insurance policy will cover the risk associated with accidents not necessarily resulting in death. (from the IC27 question bank)."
+},
+{
+"n": 24,
+"topic": "Health Insurance",
+"t": "Hema is a 30 year old lady. She slipped in the bathroom and fractured her elbow. She was admitted in the hospital for the treatment of her elbow but also got her whole body check-up done as her medical bills were going to be reimbursed by her health insurance provider. This is an example of which of the following?<br><br>I. Demand Side Moral Hazard<br>II. Supply Side Moral Hazard<br>III. Combined Moral Hazard",
+"o": [
+"Only I / ???? I",
+"Only II / ???? II",
+"I and II / I ??? II",
+"I, II and III / I, II ??? III",
+"I and III / I ??? III"
+],
+"a": 0,
+"e": "Correct answer: Only I / ???? I (from the IC27 question bank)."
+},
+{
+"n": 25,
+"topic": "Health Insurance",
+"t": "Which one of the following aims at identifying the potential fraudsters based on the past experience, backed by data analytics such that the business coming through the proper channel are kept on high alert so that fraudulent business is not entering the company books?",
+"o": [
+"RAG analysis",
+"Propensity Modeling",
+"Risk Audits",
+"CIBIL Ratings",
+"Underwriting"
+],
+"a": 1,
+"e": "Correct answer: Propensity Modeling (from the IC27 question bank)."
+},
+{
+"n": 26,
+"topic": "Health Insurance",
+"t": "Analysis of _________________ helps to monitor the result of rate actions taken by the various underwriting offices.",
+"o": [
+"Written premium",
+"Earned premium",
+"Age distribution",
+"Claim probability distribution",
+"Group size distribution"
+],
+"a": 0,
+"e": "Correct answer: Written premium (from the IC27 question bank)."
+},
+{
+"n": 27,
+"topic": "Health Insurance",
+"t": "Which of the following statement best describes the principle of Utmost Good faith?",
+"o": [
+"In a contract both the parties are obliged to disclose all material information which may be of importance whether or not it is requested",
+"A person should have a pecuniary interest in the a",
+"The objective of insurance is to compensate the in",
+"Each insurer's share of the loss is based on the p",
+"The principle is applied to determine as to whethe"
+],
+"a": 0,
+"e": "Correct answer: In a contract both the parties are obliged to disclose all material information which may be of importance whether or not it is requested (from the IC27 question bank)."
+},
+{
+"n": 28,
+"topic": "Health Insurance",
+"t": "X has taken two hospitalisation indemnity policies, one from ABC Insurance company for a cover of Rs. 2,00,000 and another from  XYZ Insurance Company for a cover of Rs. 1,20,000. X was once hospitalised due to heart attack and incurred hospitalisation expenses of Rs. 1,40,000. Under the Principle of Contribution what will be the share of compensation payable by XYZ insurance company?",
+"o": [
+"Rs 52,500",
+"Rs 87,500",
+"Rs 1,20,000",
+"Rs 1,40,000",
+"Rs 2,00,000"
+],
+"a": 0,
+"e": "Correct answer: Rs 52,500 (from the IC27 question bank)."
+},
+{
+"n": 29,
+"topic": "Health Insurance",
+"t": "Pick the odd one out with reference to exclusions to a health insurance Policy?",
+"o": [
+"Coverage of pre-existing diseases",
+"Diseases contracted during initial waiting period",
+"Injury or disease due to war",
+"Naturopathy treatment",
+"Maternity Expenses"
+],
+"a": 4,
+"e": "Correct answer: Maternity Expenses (from the IC27 question bank)."
+},
+{
+"n": 30,
+"topic": "Health Insurance",
+"t": "XYZ insurance company had launched a new health insurance product in the market last year. The company now wants to understand the areas where it should focus its marketing and sales efforts for the product. Suggest the most appropriate parameter on which analysis should be done.",
+"o": [
+"Written premium",
+"Earned premium",
+"Group size distribution",
+"Age distribution",
+"Claims probability distribution"
+],
+"a": 0,
+"e": "Correct answer: Written premium (from the IC27 question bank)."
+},
+{
+"n": 31,
+"topic": "Health Insurance",
+"t": "Which major event took place in the year 1999?",
+"o": [
+"Issuing of IRDAI Act",
+"Nationalisation of life insurance business",
+"Nationalisation of non-life insurance business",
+"Malhotra Committee Recommendations",
+"Issuing of Life Insurance Corporation Act"
+],
+"a": 0,
+"e": "Correct answer: Issuing of IRDAI Act (from the IC27 question bank)."
+},
+{
+"n": 32,
+"topic": "Health Insurance",
+"t": "_________________is the process of assessing the risk appropriately and deciding the terms on which the insurance cover is to be granted.",
+"o": [
+"Risk selection",
+"Risk assessment",
+"Underwriting",
+"Risk avoidance",
+"Adverse selection"
+],
+"a": 2,
+"e": "Correct answer: Underwriting (from the IC27 question bank)."
+},
+{
+"n": 33,
+"topic": "Health Insurance",
+"t": "Under which of the following schemes is Health Insurance cover provided to the Government Employees in Thailand?",
+"o": [
+"The Social Security Scheme",
+"The Universal Coverage Scheme",
+"The Civil Servant Medical Benefits Schemes",
+"The Long life medical care system",
+"The Sickness Fund"
+],
+"a": 2,
+"e": "Correct answer: The Civil Servant Medical Benefits Schemes (from the IC27 question bank)."
+},
+{
+"n": 34,
+"topic": "Health Insurance",
+"t": "The word contract is derived from the word _________ which means 'to draw together'.",
+"o": [
+"Contrahecho",
+"Contrahent",
+"Contrahere",
+"Contraharmonic",
+"Catastrophe"
+],
+"a": 2,
+"e": "Correct answer: Contrahere (from the IC27 question bank)."
+},
+{
+"n": 35,
+"topic": "Health Insurance",
+"t": "In social reinsurance, NGOs outsource the design and administration of the insurance product to__________________. <BR><BR> I. Insurance Company <BR>II. Micro insurance institute <BR> III. Government",
+"o": [
+"Only I",
+"I and II",
+"II and III",
+"I and III",
+"I,II and III"
+],
+"a": 0,
+"e": "Correct answer: Only I (from the IC27 question bank)."
+},
+{
+"n": 36,
+"topic": "Health Insurance",
+"t": "X had filed his grievance complaint against ABC insurance company with District Forum. He is dissatisfied with the decision and now wish to appeal against the District forum order. Suggest a suitable course of action for X.",
+"o": [
+"Appeal against the order with Ombudsman / ?????? ?",
+"Appeal against the order with State Commission / ?",
+"Appeal against the order with National Commission",
+"Appeal against the order with Grievance cell of in",
+"Appeal against the order with supreme court / ????"
+],
+"a": 1,
+"e": "Correct answer: Appeal against the order with State Commission / ? (from the IC27 question bank)."
+},
+{
+"n": 37,
+"topic": "Health Insurance",
+"t": "When was the central government health scheme introduced?",
+"o": [
+"1948",
+"1938",
+"1954",
+"1912",
+"1908"
+],
+"a": 2,
+"e": "Correct answer: 1954 (from the IC27 question bank)."
+},
+{
+"n": 38,
+"topic": "Health Insurance",
+"t": "The earliest mention of the insurance system in India can be found in the research and writings of treatise such as:-  <BR><BR>I. Manu <BR>II. Yajur Ved <BR>III. Rigveda",
+"o": [
+"I and II",
+"II and III",
+"I and III",
+"Only III",
+"Only I"
+],
+"a": 4,
+"e": "Correct answer: Only I (from the IC27 question bank)."
+},
+{
+"n": 39,
+"topic": "Health Insurance",
+"t": "Claims analysis can show:- <BR><BR>I. The amount of claim <BR>II. The total amount paid <BR>III. The amount paid for different benefits",
+"o": [
+"Only I",
+"Only II",
+"I and III",
+"II and III",
+"I,II and III"
+],
+"a": 4,
+"e": "Correct answer: I,II and III (from the IC27 question bank)."
+},
+{
+"n": 40,
+"topic": "Health Insurance",
+"t": "Identify the true statement. <BR><BR>I. The job of the underwriter is to classify the risk and decide the terms of acceptance at appropriate price. <BR>II. Acceptance of risk is like giving a promise of future claim settlement to the insured.",
+"o": [
+"Only I is true",
+"Only II is true",
+"Both I and II are true",
+"Both I and II are false",
+"Either I or II can be true"
+],
+"a": 2,
+"e": "Correct answer: Both I and II are true (from the IC27 question bank)."
+},
+{
+"n": 41,
+"topic": "Health Insurance",
+"t": "The State Health Directorate comprises of:-<br><br>I. State Director of Health & Family Welfare<br>II. The State Director of Medical education<br>III. The State Director for ISM&H",
+"o": [
+"I and II / I ??? II",
+"II and III / II ??? III",
+"Only I / ???? I",
+"Only II / ???? II",
+"I, II and III / I, II ??? III"
+],
+"a": 4,
+"e": "Correct answer: I, II and III / I, II ??? III (from the IC27 question bank)."
+},
+{
+"n": 42,
+"topic": "Health Insurance",
+"t": "Which of the following is true for a Primary Health Centre? <BR><BR>I. It is a referral unit for about 6 sub centres <BR>II. It is established for every 30,000 population <BR>III. Do not provide OPD and have no in patient bed facility",
+"o": [
+"I and II",
+"II and III",
+"Only I",
+"Only II",
+"I, II and III"
+],
+"a": 0,
+"e": "Correct answer: I and II (from the IC27 question bank)."
+},
+{
+"n": 43,
+"topic": "Health Insurance",
+"t": "Identify the risks that are typically reinsured using a stop loss structure <BR><BR>I. Fire <BR>II. Motor  <BR>III. Health",
+"o": [
+"Only I",
+"I and II",
+"I and III",
+"II and III",
+"I,II and III"
+],
+"a": 3,
+"e": "Correct answer: II and III (from the IC27 question bank)."
+},
+{
+"n": 44,
+"topic": "Health Insurance",
+"t": "All of the following statements are true with regard to hospital indemnity products EXCEPT:-",
+"o": [
+"These products protect individuals from the expend",
+"In most of the cases, it also covers a specific nu",
+"In some cases, it includes some expenses not involving hospitalisation as well",
+"Health insurance in India is dominated by these pr",
+"Mediclaim was the first hospital indemnity product"
+],
+"a": 2,
+"e": "Correct answer: In some cases, it includes some expenses not involving hospitalisation as well (from the IC27 question bank)."
+},
+{
+"n": 45,
+"topic": "Health Insurance",
+"t": "What expenses are covered under hospitalisation indemnity products? <BR><BR>I. Expenses incurred during hospitalisation <BR>II. Expenses incurred for specific number of days prior to and post hospitalisation <BR>III. Expenses not involving hospitalisation",
+"o": [
+"Only I",
+"Only II",
+"I and II",
+"I and III",
+"I,II and III"
+],
+"a": 2,
+"e": "Correct answer: I and II (from the IC27 question bank)."
+},
+{
+"n": 46,
+"topic": "Health Insurance",
+"t": "If X wishes to resolve a dispute seeking compensation worth Rs. 35 lakh from ABC insurance company, then he should approach the  ______________.",
+"o": [
+"District Forum",
+"State Commission",
+"National Commission",
+"Supreme court",
+"IRDAI"
+],
+"a": 1,
+"e": "Correct answer: State Commission (from the IC27 question bank)."
+},
+{
+"n": 47,
+"topic": "Health Insurance",
+"t": "Which analysis can be done on the basis of type of claims, hospitals and cities to determine the reasons for settlement delay?",
+"o": [
+"IBNR analysis",
+"Provider Network analysis",
+"Claims probability distribution analysis",
+"Payment duration analysis",
+"Age distribution analysis"
+],
+"a": 3,
+"e": "Correct answer: Payment duration analysis (from the IC27 question bank)."
+},
+{
+"n": 48,
+"topic": "Health Insurance",
+"t": "What is the importance of data for 'Underwriters' in health insurance?",
+"o": [
+"For making informed decisions and taking correctiv",
+"To perform rating and underwriting analyses",
+"To study the pattern indicated by the data to decide the acceptance or denial of a risk",
+"To evaluate the company's liabilities for financia",
+"To benchmark the performance of underwriting offic"
+],
+"a": 2,
+"e": "Correct answer: To study the pattern indicated by the data to decide the acceptance or denial of a risk (from the IC27 question bank)."
+},
+{
+"n": 49,
+"topic": "Health Insurance",
+"t": "Which of the following products can be particularly useful for persons who are either covered by their employers, or are already holding a hospitalisation policy but with low sum insured?",
+"o": [
+"Mediclaim / ?????????",
+"Critical Illness cover / ????? ?????? ????",
+"Daily hospital cash benefit / ????? ??????? ???? ?",
+"Disease Management cover / ??? ??????? ????",
+"High-deductible hospital indemnity covers / ????-?"
+],
+"a": 4,
+"e": "Correct answer: High-deductible hospital indemnity covers / ????-? (from the IC27 question bank)."
+},
+{
+"n": 50,
+"topic": "Health Insurance",
+"t": "Who are the contributors to the ESIS scheme introduced in 1948 in India?<br><br>I. Employers<br>II. Employees<br>III. Central and State Governments",
+"o": [
+"I and II / I ??? II",
+"II and III / II ??? III",
+"Only I / ???? I",
+"Only II / ???? II",
+"I, II and III / I, II ??? III"
+],
+"a": 4,
+"e": "Correct answer: I, II and III / I, II ??? III (from the IC27 question bank)."
+}
+]

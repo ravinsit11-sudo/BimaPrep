@@ -16,6 +16,34 @@
 {
 "n": 2,
 "topic": "General Insurance Underwriting",
+"t": "Which among the following are a part of the insurers risk management framework? <BR><BR>I. Customer subsidies <BR>II. Agent training <BR>III. Nature of business to be underwritten",
+"o": [
+"I only",
+"II only",
+"III only",
+"I and II",
+"I and II and III"
+],
+"a": 2,
+"e": "Correct answer: III only (from the IC45 question bank)."
+},
+{
+"n": 3,
+"topic": "General Insurance Underwriting",
+"t": "The regulatory standards in India are set in the ______ guidelines and other regulatory directions given from time to time by the insurance regulator.",
+"o": [
+"File and Use / ???? ??? ??????",
+"Registration / ???????",
+"License renewal / ??????? ????????",
+"Code of conduct / ???? ??????",
+"Rating / ?? ????????"
+],
+"a": 0,
+"e": "Correct answer: File and Use / ???? ??? ?????? (from the IC45 question bank)."
+},
+{
+"n": 4,
+"topic": "General Insurance Underwriting",
 "t": "Which among the following factor(s) is are taken into account in case of experience rating? <BR><BR>I. Claim frequency <BR>II. Claim size <BR>III. Pool size",
 "o": [
 "I only",
@@ -28,7 +56,7 @@
 "e": "Correct answer: I and II (from the IC45 question bank)."
 },
 {
-"n": 3,
+"n": 5,
 "topic": "General Insurance Underwriting",
 "t": "Which among the following is a STEP in the selection of risks process?<br><br>I. Evaluating the information provided by the proposer<br>II. Calculating a price to cover the risk<br>III. Classifying the risk",
 "o": [
@@ -42,7 +70,7 @@
 "e": "Correct answer: I only (from the IC45 question bank)."
 },
 {
-"n": 4,
+"n": 6,
 "topic": "General Insurance Underwriting",
 "t": "Which of the following focuses on life time value of customers?",
 "o": [
@@ -56,7 +84,7 @@
 "e": "Correct answer: CRM (from the IC45 question bank)."
 },
 {
-"n": 5,
+"n": 7,
 "topic": "General Insurance Underwriting",
 "t": "Identify the class of insurance against which the risk mentioned below can be categorised. Risk: Cash-in-transit",
 "o": [
@@ -70,7 +98,7 @@
 "e": "Correct answer: Miscellaneous / ????? (from the IC45 question bank)."
 },
 {
-"n": 6,
+"n": 8,
 "topic": "General Insurance Underwriting",
 "t": "_________ is an exception to the general statement of coverage contained in the policy.",
 "o": [
@@ -84,22 +112,7 @@
 "e": "Correct answer: Exclusion (from the IC45 question bank)."
 },
 {
-"n": 7,
-"topic": "General Insurance Underwriting",
-"t": "A combined ratio over 100% indicates ________.",
-"o": [
-"Underwriting loss",
-"Underwriting profits",
-"Surplus reserves",
-"Deficit reserves",
-"Dynamic growth"
-],
-"a": 0,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Underwriting loss (from the IC45 question bank).",
-"r": "key"
-},
-{
-"n": 8,
+"n": 9,
 "topic": "General Insurance Underwriting",
 "t": "________________ focuses on the \"life-time-value\" of a customer and addresses various issues such as customer acquisition, retention, loyalty, cross-selling, etc.",
 "o": [
@@ -113,7 +126,7 @@
 "e": "Correct answer: CRM (from the IC45 question bank)."
 },
 {
-"n": 9,
+"n": 10,
 "topic": "General Insurance Underwriting",
 "t": "The correct formula for calculating combined ratio is:-",
 "o": [
@@ -127,7 +140,7 @@
 "e": "Correct answer: Loss Ratio + Expense ratio (from the IC45 question bank)."
 },
 {
-"n": 10,
+"n": 11,
 "topic": "General Insurance Underwriting",
 "t": "Which among the following would correctly calculate frequency of claims?",
 "o": [
@@ -141,7 +154,7 @@
 "e": "Correct answer: Number of claims / Number of exposures / ????? ?? (from the IC45 question bank)."
 },
 {
-"n": 11,
+"n": 12,
 "topic": "General Insurance Underwriting",
 "t": "Which among the following is exclusion under marine insurance for the proposal mentioned below? <BR>Proposal: Motor spare parts, ball bearing. <BR><BR>I. Damage due to water <BR>II. Loss as a result of sunken cargo <BR>III. Theft",
 "o": [
@@ -155,7 +168,7 @@
 "e": "Correct answer: III only (from the IC45 question bank)."
 },
 {
-"n": 12,
+"n": 13,
 "topic": "General Insurance Underwriting",
 "t": "___________ can be categorised as Class Rated product.",
 "o": [
@@ -169,7 +182,7 @@
 "e": "Correct answer: Packaged or customised product (from the IC45 question bank)."
 },
 {
-"n": 13,
+"n": 14,
 "topic": "General Insurance Underwriting",
 "t": "None of the following is true with regards to Loss Ratio method EXCEPT: <br><br>I: Based on exposure <br>II: Gives indicated rates  <br>III: Based on premium",
 "o": [
@@ -183,7 +196,21 @@
 "e": "Correct answer: III only / ???? III (from the IC45 question bank)."
 },
 {
-"n": 14,
+"n": 15,
+"topic": "General Insurance Underwriting",
+"t": "Which among the following is true with regards to underwriting and claims? <BR><BR>I. The Delegation of Authority for Underwriting and for quoting rates and terms should be commensurate with the technical and underwriting skills required <BR>II. Where the authority is centralized, one should enquire into any possible delays in processing and settlement of claims arising from such centralization <BR>III. In case reinsurer controls the claims one should be mindful of the problems that arise",
+"o": [
+"I only",
+"II only",
+"III only",
+"I and II",
+"I and II and III"
+],
+"a": 4,
+"e": "Correct answer: I and II and III (from the IC45 question bank)."
+},
+{
+"n": 16,
 "topic": "General Insurance Underwriting",
 "t": "Identify the class of insurance against which the risk mentioned below can be categorised.<br><br>Risk: Cement in bags on terms wider than I.C.C.",
 "o": [
@@ -197,7 +224,7 @@
 "e": "Correct answer: Marine (from the IC45 question bank)."
 },
 {
-"n": 15,
+"n": 17,
 "topic": "General Insurance Underwriting",
 "t": "Any changes/amendments in the policy details like changes in the subject matter, personal details, coverage details or cancellation of cover are carried with _______ under the policy.",
 "o": [
@@ -211,7 +238,7 @@
 "e": "Correct answer: Endorsements (from the IC45 question bank)."
 },
 {
-"n": 16,
+"n": 18,
 "topic": "General Insurance Underwriting",
 "t": "Identify the class of insurance against which the risk mentioned below can be categorised.<br><br>Risk: Workmen's compensation",
 "o": [
@@ -225,7 +252,7 @@
 "e": "Correct answer: Miscellaneous (from the IC45 question bank)."
 },
 {
-"n": 17,
+"n": 19,
 "topic": "General Insurance Underwriting",
 "t": "_____________ is basically the limit of sum insured up to which the operating office can underwrite the risk without referring to the Controlling Office.   <br><br>",
 "o": [
@@ -239,7 +266,21 @@
 "e": "Correct answer: Acceptance limit / ????????? ???? (from the IC45 question bank)."
 },
 {
-"n": 18,
+"n": 20,
+"topic": "General Insurance Underwriting",
+"t": "What is the second step in shifting the emphasis of the industry from the problem of \"determining  optimal premium\" to the issue of \"improving customer relationship\"?",
+"o": [
+"Identifying low risk customers",
+"Adjusting premiums of low risk customers in order to win their loyalty",
+"Improving customer retention",
+"Increasing market share",
+"Become the market leader"
+],
+"a": 1,
+"e": "Correct answer: Adjusting premiums of low risk customers in order to win their loyalty (from the IC45 question bank)."
+},
+{
+"n": 21,
 "topic": "General Insurance Underwriting",
 "t": "Which among the following are a part of the policy document? <BR><BR>I. Claim form <BR>II. Surrender form <BR>III. Schedule",
 "o": [
@@ -253,7 +294,7 @@
 "e": "Correct answer: III only (from the IC45 question bank)."
 },
 {
-"n": 19,
+"n": 22,
 "topic": "General Insurance Underwriting",
 "t": "Which among the following is the 5<SUP>th</SUP> step in the product innovation process?<BR><BR>I. Identifying need for changes in existing products<BR>II. Determining reasons for changes in portfolio<BR>III. Identifying customer needs<BR>IV. Making corrective changes<BR>V. Preparing product proposals<BR>VI. Determining cost and benefits of product changes<BR>VII. Regulatory compliances",
 "o": [
@@ -267,22 +308,7 @@
 "e": "Correct answer: IV (from the IC45 question bank)."
 },
 {
-"n": 20,
-"topic": "General Insurance Underwriting",
-"t": "An insurer shall dispose of a claim within 30 days of receipt of the survey report.",
-"o": [
-"10",
-"20",
-"40",
-"30",
-"50"
-],
-"a": 3,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: 30 (from the IC45 question bank).",
-"r": "key"
-},
-{
-"n": 21,
+"n": 23,
 "topic": "General Insurance Underwriting",
 "t": "________ enables an insurer to shift from 'rule based' to 'risk based' underwriting.",
 "o": [
@@ -296,7 +322,7 @@
 "e": "Correct answer: De-tariffing (from the IC45 question bank)."
 },
 {
-"n": 22,
+"n": 24,
 "topic": "General Insurance Underwriting",
 "t": "Protection of Policyholders' Interests regulations are related to:- <BR><BR>I. Rating guidelines <BR>II. Agent training <BR>III. Matters to be stated in a life insurance policy",
 "o": [
@@ -310,7 +336,7 @@
 "e": "Correct answer: III only (from the IC45 question bank)."
 },
 {
-"n": 23,
+"n": 25,
 "topic": "General Insurance Underwriting",
 "t": "Your complaint to the Ombudsman can be about:- <BR><BR>I. Insurance Agent's attitude <BR>II. Policy costs <BR>III. Non-issue of any insurance document to you after you pay your premium",
 "o": [
@@ -324,7 +350,7 @@
 "e": "Correct answer: III only (from the IC45 question bank)."
 },
 {
-"n": 24,
+"n": 26,
 "topic": "General Insurance Underwriting",
 "t": "Which among the following areas in insurance sector should benefit from the deployment of IT systems across the enterprise? <BR><BR>I. Information ordering <BR>II. Brokers, Agents, Loss Assessors Appraisal <BR>III. T.P.A",
 "o": [
@@ -338,7 +364,7 @@
 "e": "Correct answer: I and II and III (from the IC45 question bank)."
 },
 {
-"n": 25,
+"n": 27,
 "topic": "General Insurance Underwriting",
 "t": "The ________ is the party who agrees to compensate the other person against possible losses.",
 "o": [
@@ -352,7 +378,7 @@
 "e": "Correct answer: Insurer / ???? ????? (from the IC45 question bank)."
 },
 {
-"n": 26,
+"n": 28,
 "topic": "General Insurance Underwriting",
 "t": "Give us an example where an insurer would charge higher premium.<br><br>I. New models of vehicles<br>II. Experienced drivers<br>III. Old models of vehicles",
 "o": [
@@ -366,7 +392,7 @@
 "e": "Correct answer: III only (from the IC45 question bank)."
 },
 {
-"n": 27,
+"n": 29,
 "topic": "General Insurance Underwriting",
 "t": "Give an example of property risk.",
 "o": [
@@ -380,22 +406,21 @@
 "e": "Correct answer: House damage as result of fire (from the IC45 question bank)."
 },
 {
-"n": 28,
+"n": 30,
 "topic": "General Insurance Underwriting",
-"t": "A city loss experience of 1000 bikes each valued at Rs. 75,000 by theft shows that over a period of say 10 years, on average 2 bikes are stolen.  How much will be the pure premium?",
+"t": "As per IRDAI regulations which among the following points need to be clearly stated in a general insurance policy? <BR><BR>I. Details of the riders attaching to the main policy <BR>II. Any previous policies bought by the insured <BR>II. Record of claims made by the insured",
 "o": [
-"Rs. 15 / ??. 15",
-"Rs. 150 / ??. 150",
-"Rs. 1500 / ??. 1500",
-"Rs. 500 / ??. 500",
-"Rs. 750 / ??. 750"
+"I only",
+"II only",
+"III only",
+"I and II",
+"II and III"
 ],
-"a": 1,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Rs. 150 / ??. 150 (from the IC45 question bank).",
-"r": "key"
+"a": 0,
+"e": "Correct answer: I only (from the IC45 question bank)."
 },
 {
-"n": 29,
+"n": 31,
 "topic": "General Insurance Underwriting",
 "t": "What is the fifth step in selection and implementation of a software solution?",
 "o": [
@@ -409,7 +434,7 @@
 "e": "Correct answer: Evaluate ease of implementation (from the IC45 question bank)."
 },
 {
-"n": 30,
+"n": 32,
 "topic": "General Insurance Underwriting",
 "t": "If loss frequency is more the problem lies in:-",
 "o": [
@@ -423,7 +448,7 @@
 "e": "Correct answer: Policy selection (from the IC45 question bank)."
 },
 {
-"n": 31,
+"n": 33,
 "topic": "General Insurance Underwriting",
 "t": "__________ is the basic unit of risk that underlies the insurance premium.",
 "o": [
@@ -437,7 +462,7 @@
 "e": "Correct answer: Exposure / ????? (from the IC45 question bank)."
 },
 {
-"n": 32,
+"n": 34,
 "topic": "General Insurance Underwriting",
 "t": "Ramesh is an exceptionally healthy individual with a good medical history. How will his proposal be considered by the underwriter?",
 "o": [
@@ -451,7 +476,7 @@
 "e": "Correct answer: Policy issued on a preferred basis (from the IC45 question bank)."
 },
 {
-"n": 33,
+"n": 35,
 "topic": "General Insurance Underwriting",
 "t": "___________ is the amount that is calculated using actuarial techniques aimed at ensuring that the insurer earns profit even after payment of certain claims.",
 "o": [
@@ -465,21 +490,7 @@
 "e": "Correct answer: Premium (from the IC45 question bank)."
 },
 {
-"topic": "Policyholder protection",
-"t": "An insurer must resolve a policyholder's grievance within how many days of receipt?",
-"o": [
-"7 days",
-"14 days",
-"30 days",
-"45 days"
-],
-"a": 1,
-"e": "★ Core fact (asked across III papers). 14 days under the 2024 regulations; thereafter the policyholder may approach Bima Bharosa or the Ombudsman.",
-"r": "core",
-"n": 34
-},
-{
-"n": 35,
+"n": 36,
 "topic": "General Insurance Underwriting",
 "t": "The formula for pure premium method is expressed as follows. R=(P+F)/(I-V-Q). What does P stand for?",
 "o": [
@@ -493,7 +504,7 @@
 "e": "Correct answer: Pure premium / ???? ???????? (from the IC45 question bank)."
 },
 {
-"n": 36,
+"n": 37,
 "topic": "General Insurance Underwriting",
 "t": "In which case will the insurer need prior approval only in case the rate change is substantial  e.g. 10% - 25%?",
 "o": [
@@ -507,7 +518,7 @@
 "e": "Correct answer: Flex rating laws (from the IC45 question bank)."
 },
 {
-"n": 37,
+"n": 38,
 "topic": "General Insurance Underwriting",
 "t": "In case of Named Peril policies there are some type of exclusions such as war, nuclear risk, etc. which cannot be deleted even upon payment of additional premium. Such exclusions are called ________________.",
 "o": [
@@ -521,7 +532,7 @@
 "e": "Correct answer: Absolute exclusions (from the IC45 question bank)."
 },
 {
-"n": 38,
+"n": 39,
 "topic": "General Insurance Underwriting",
 "t": "Which among the following can be a rating factor in case of fire insurance?",
 "o": [
@@ -535,7 +546,7 @@
 "e": "Correct answer: Type of construction (from the IC45 question bank)."
 },
 {
-"n": 39,
+"n": 40,
 "topic": "General Insurance Underwriting",
 "t": "Which among the following is exclusion under marine insurance for the proposal mentioned below? Proposal: Glass <br><br>I: Damage due  to water <br>II: Loss as a result of sunken cargo <br>III: Breakage, scratching and chipping and denting",
 "o": [
@@ -549,7 +560,7 @@
 "e": "Correct answer: III only / ???? III (from the IC45 question bank)."
 },
 {
-"n": 40,
+"n": 41,
 "topic": "General Insurance Underwriting",
 "t": "None of the following is a function of an Appointed Actuary EXCEPT:-",
 "o": [
@@ -563,7 +574,7 @@
 "e": "Correct answer: State the basis on which the reserve for unexpired risk will be calculated in case of LT insurance (from the IC45 question bank)."
 },
 {
-"n": 41,
+"n": 42,
 "topic": "General Insurance Underwriting",
 "t": "None of the following is a feature of parametric insurance EXCEPT:- <BR><BR>I. Increased administration costs <BR>II. Time consuming <BR>III. Saving of claim investigation and assessment costs",
 "o": [
@@ -577,7 +588,7 @@
 "e": "Correct answer: III only (from the IC45 question bank)."
 },
 {
-"n": 42,
+"n": 43,
 "topic": "General Insurance Underwriting",
 "t": "_________ ensures that no one insurer is overburdened while offering covers to policyholders.",
 "o": [
@@ -589,20 +600,6 @@
 ],
 "a": 1,
 "e": "Correct answer: Reinsurance (from the IC45 question bank)."
-},
-{
-"topic": "Claims timelines",
-"t": "Under IRDAI's 2024 norms, a surveyor must be appointed within what time of a claim intimation?",
-"o": [
-"24 hours",
-"48 hours",
-"72 hours",
-"7 days"
-],
-"a": 0,
-"e": "★ Core fact (asked across III papers). Appointment within 24 hours; survey report within 15 days; insurer's decision within 7 days of the report.",
-"r": "core",
-"n": 43
 },
 {
 "n": 44,

@@ -2,6 +2,20 @@
 {
 "n": 1,
 "topic": "Foundation of Actuarial Science",
+"t": "An investor had savings totalling 41,000 in an account on 1 January 2006. He invested a further 12,000 in this account on 1 August 2006. The total value of the account was 45,000 on 31 July 2006 and was 72,000 on 31 December 2007. Assuming that the investor made no further deposits or withdrawals in relation to this account, calculate the annual effective time-weighted rate of return for the period 1 January 2006 to 31 December 2007.",
+"o": [
+"17.745%",
+"13.8%",
+"6.39%",
+"28.115%",
+"7.7%"
+],
+"a": 0,
+"e": "Correct answer: 17.745% (from the IC28 question bank)."
+},
+{
+"n": 2,
+"topic": "Foundation of Actuarial Science",
 "t": "What is the fourth term in the expansion of (3x - 2)<SUP>10</SUP>?",
 "o": [
 "2,099,520x7",
@@ -13,7 +27,21 @@
 "e": "Correct answer: 2,099,520x7 (from the IC28 question bank)."
 },
 {
-"n": 2,
+"n": 3,
+"topic": "Foundation of Actuarial Science",
+"t": "e<SUB>x</SUB> =",
+"o": [
+"V(Kx)",
+"COV(Kx)",
+"SD (Kx)",
+"E(Kx)",
+"None of the above"
+],
+"a": 3,
+"e": "Correct answer: E(Kx) (from the IC28 question bank)."
+},
+{
+"n": 4,
 "topic": "Foundation of Actuarial Science",
 "t": "Which method was adopted for LIC a(1996-98)?",
 "o": [
@@ -27,7 +55,7 @@
 "e": "Correct answer: Life year (from the IC28 question bank)."
 },
 {
-"n": 3,
+"n": 5,
 "topic": "Foundation of Actuarial Science",
 "t": "A sinking fund is set up by uniform payments made at the end of each year, to provide a capital of 4,500 at the end of 16 years; money in the fund accumulating at 15% p.a. What is the uniform payment required?",
 "o": [
@@ -41,7 +69,7 @@
 "e": "Correct answer: 80.7645712747342 (from the IC28 question bank)."
 },
 {
-"n": 4,
+"n": 6,
 "topic": "Foundation of Actuarial Science",
 "t": "A sum of 900 is due at the end of 11 years 6 months. The present interest rate is 6.5% p.a. but it is expected that interest rate will fall to 6% after 6 years. Find the present value of the sum of money under these assumptions.",
 "o": [
@@ -55,7 +83,7 @@
 "e": "Correct answer: 447.674754204686 (from the IC28 question bank)."
 },
 {
-"n": 5,
+"n": 7,
 "topic": "Foundation of Actuarial Science",
 "t": "Expression for present value of whole life assurance benefit in terms of commutation functions is given by:-",
 "o": [
@@ -69,7 +97,7 @@
 "e": "Correct answer: Mx/Dx (from the IC28 question bank)."
 },
 {
-"n": 6,
+"n": 8,
 "topic": "Foundation of Actuarial Science",
 "t": "To conform to the requirements of law, minimum surrender values are generally generated as:-",
 "o": [
@@ -83,7 +111,7 @@
 "e": "Correct answer: A percentage of premiums already paid excluding the premium paid in first year of insurance (from the IC28 question bank)."
 },
 {
-"n": 7,
+"n": 9,
 "topic": "Foundation of Actuarial Science",
 "t": "An office issues 25 year capital redemption policies with sum assured 15,000 and premiums payable in advance. The premium is calculated on the basis of an effective rate of interest of 12% p.a. Calculate the policy value immediately before the 9premium is paid.",
 "o": [
@@ -97,7 +125,21 @@
 "e": "Correct answer: 1383.71036923093 (from the IC28 question bank)."
 },
 {
-"n": 8,
+"n": 10,
+"topic": "Foundation of Actuarial Science",
+"t": "Amit takes an oral exam in statistics by answering 3 questions from an examination card drawn at random from the set of 20 cards. There are 8 favorable cards (Amit knows answers on all 3 questions). Amit will get a grade A if he answers all 3 questions. What is the probability for Amit to get an A if he draws the card first.",
+"o": [
+"7.69231%",
+"40%",
+"1.92308%",
+"25.4902%",
+"25%"
+],
+"a": 1,
+"e": "Correct answer: 40% (from the IC28 question bank)."
+},
+{
+"n": 11,
 "topic": "Foundation of Actuarial Science",
 "t": "Calculate net annual premium limited to 10 years under a Mortgage Redemption Assurance on the life of (40) for covering an initial loan of 93,000 repayable by uniform amount of capital of 6,200 every year over 15 years. Basis: IALM (1994-96) Ultimate Table and 6% interest.",
 "o": [
@@ -111,7 +153,7 @@
 "e": "Correct answer: 348.843 (from the IC28 question bank)."
 },
 {
-"n": 9,
+"n": 12,
 "topic": "Foundation of Actuarial Science",
 "t": "One card is drawn from a standard 52 card deck.  In describing the occurrence of two possible events, an Ace and a King, these two events are said to be:-",
 "o": [
@@ -125,7 +167,7 @@
 "e": "Correct answer: Mutually exclusive (from the IC28 question bank)."
 },
 {
-"n": 10,
+"n": 13,
 "topic": "Foundation of Actuarial Science",
 "t": "On the basis of IALM (1994-96) Ultimate Table at 6%, calculate the net annual premiums for a sum assured of <IMG border=0 hspace=0 alt=\"\" align=absMiddle src=\"/Attest1_res/topicresources/1394573854/III_Rs_Symbol.jpg\" width=12 height=15>2,000 on a life aged 29 for the deferred temporary assurance - the assurance to commense at age 35 and then to continue for 10 years.",
 "o": [
@@ -139,22 +181,7 @@
 "e": "Correct answer: 1.86961944384587 (from the IC28 question bank)."
 },
 {
-"n": 11,
-"topic": "Foundation of Actuarial Science",
-"t": "A rate of interest of 5% p.a. convertible monthly is equivalent to what annual effective rate of discount?",
-"o": [
-"3.91%",
-"5.6%",
-"4.86717583512427E-02",
-"5.24%",
-"3.118%"
-],
-"a": 2,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: 4.86717583512427E-02 (from the IC28 question bank).",
-"r": "key"
-},
-{
-"n": 12,
+"n": 14,
 "topic": "Foundation of Actuarial Science",
 "t": "How many 3-digit numbers can be formed from the digits 2, 3, 5, 6, 7 and 9, which are divisible by 5 and none of the digits is repeated?",
 "o": [
@@ -168,7 +195,7 @@
 "e": "Correct answer: 20 (from the IC28 question bank)."
 },
 {
-"n": 13,
+"n": 15,
 "topic": "Foundation of Actuarial Science",
 "t": "The Life Assurance Fund at the beginning of a certain year is 1,500,000 and at the end of the year after tax provision is 2,500,000. The gross interest credited is 210,000 and the net interest 140,000. Find the gross rate of interest earned by the insurer in the year.",
 "o": [
@@ -182,7 +209,7 @@
 "e": "Correct answer: 10.8808% (from the IC28 question bank)."
 },
 {
-"n": 14,
+"n": 16,
 "topic": "Foundation of Actuarial Science",
 "t": "Payments of 300, 200 are due at the end of years 1, 3, and 5, respectively. Assume an annual effective rate of interest of 5% per year. Find the point in time at which a payment of 600 would be equivalent.",
 "o": [
@@ -196,7 +223,7 @@
 "e": "Correct answer: 2.58891 (from the IC28 question bank)."
 },
 {
-"n": 15,
+"n": 17,
 "topic": "Foundation of Actuarial Science",
 "t": "Blake's offers a perpetuity that pays annual payments of 8,000. This contract sells for 75,000 today. What is the interest rate?",
 "o": [
@@ -207,7 +234,7 @@
 "e": "Correct answer: 10.67% (from the IC28 question bank)."
 },
 {
-"n": 16,
+"n": 18,
 "topic": "Foundation of Actuarial Science",
 "t": "i<SUP>(m)</sUP>-d<SUP>(m)</sUP>=",
 "o": [
@@ -221,7 +248,7 @@
 "e": "Correct answer: i(m)d(m)/m (from the IC28 question bank)."
 },
 {
-"n": 17,
+"n": 19,
 "topic": "Foundation of Actuarial Science",
 "t": "Felicia opens a bank account that pays interest compounded continuously at the annual rate of 2.5%. Her initial deposit is 2,000, and there will be no other transactions until the amount in her account is 2,500. Based on the formula given above, how many years, to the nearest whole number of years, will it take until she has 2,500 in the account?",
 "o": [
@@ -235,7 +262,7 @@
 "e": "Correct answer: 9 (from the IC28 question bank)."
 },
 {
-"n": 18,
+"n": 20,
 "topic": "Foundation of Actuarial Science",
 "t": "The life assured expects the payment of:-",
 "o": [
@@ -249,7 +276,7 @@
 "e": "Correct answer: Promised benefits (from the IC28 question bank)."
 },
 {
-"n": 19,
+"n": 21,
 "topic": "Foundation of Actuarial Science",
 "t": "On the basis of LIC(a)(1996-98) table and 8% interest, calculate the net single premium for an immediate annuity of 800 p.a. payable monthly in arrear for 14 years certain and thereafter for life to a person aged 65 at entry.",
 "o": [
@@ -263,22 +290,7 @@
 "e": "Correct answer: 7796.98019131029 (from the IC28 question bank)."
 },
 {
-"n": 20,
-"topic": "Foundation of Actuarial Science",
-"t": "The compound interest on 30,000 at 7% per annum is 4347. The period (in years) is:-",
-"o": [
-"2",
-"2.5",
-"3",
-"4",
-"8.2"
-],
-"a": 0,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: 2 (from the IC28 question bank).",
-"r": "key"
-},
-{
-"n": 21,
+"n": 22,
 "topic": "Foundation of Actuarial Science",
 "t": "An annuity of 1 p.a. which starts after t years and is payable to a person aged x for n years thereafter is known as:-",
 "o": [
@@ -292,7 +304,7 @@
 "e": "Correct answer: Deferred temporary life annuity (from the IC28 question bank)."
 },
 {
-"n": 22,
+"n": 23,
 "topic": "Foundation of Actuarial Science",
 "t": "A loan of 14,000 is repayable by level instalments of principal and interest, payable yearly in arrears over 18 years. The rate of interest is 7% p.a. Calculate the interest contained in the second instalment.",
 "o": [
@@ -306,7 +318,7 @@
 "e": "Correct answer: 951.175777157002 (from the IC28 question bank)."
 },
 {
-"n": 23,
+"n": 24,
 "topic": "Foundation of Actuarial Science",
 "t": "What is the value of <SUP>5</SUP>C<SUB>0</SUB>+<SUP>5</SUP>C<SUB>1</SUB>+<SUP>5</SUP>C<SUB>2</SUB>+<SUP>5</SUP>C<SUB>3</SUB>+<SUP>5</SUP>C<SUB>4</SUB>+<SUP>5</SUP>C<SUB>5</SUB>?",
 "o": [
@@ -320,7 +332,7 @@
 "e": "Correct answer: 32 (from the IC28 question bank)."
 },
 {
-"n": 24,
+"n": 25,
 "topic": "Foundation of Actuarial Science",
 "t": "A person has right to receive 400 p.a. for 7 years and 300 p.a. for the next 5 years. The first payment is due at the end of seven years from now. What is the present value of his rights, assuming interest rate of 4.5% p.a.?",
 "o": [
@@ -334,7 +346,7 @@
 "e": "Correct answer: 2553.13 (from the IC28 question bank)."
 },
 {
-"n": 25,
+"n": 26,
 "topic": "Foundation of Actuarial Science",
 "t": "For Decreasing Temporary Assurance, if P is the net annual premium limited to t years, where t â‰¤ (2n/3), the expression for annual premium, P, is given by:-",
 "o": [
@@ -348,7 +360,7 @@
 "e": "Correct answer: S(nMx-Rx+1+Rx+n+1)/(Nx-Nx+t) (from the IC28 question bank)."
 },
 {
-"n": 26,
+"n": 27,
 "topic": "Foundation of Actuarial Science",
 "t": "What select period was considered for the participating male lives for the preparation of British Offices Tables?",
 "o": [
@@ -362,7 +374,7 @@
 "e": "Correct answer: 10 years (from the IC28 question bank)."
 },
 {
-"n": 27,
+"n": 28,
 "topic": "Foundation of Actuarial Science",
 "t": "Ramesh has got an interest payment of 500 from an investment of 1,000 in 10 years. What was the rate of return on his investment considering simple interest?",
 "o": [
@@ -376,7 +388,7 @@
 "e": "Correct answer: 5% (from the IC28 question bank)."
 },
 {
-"n": 28,
+"n": 29,
 "topic": "Foundation of Actuarial Science",
 "t": "A man borrowed 800 at 10% per annum simple interest and immediately lent the whole sum at 10% per annum compound interest. What does he gain at the end of 2 years?",
 "o": [
@@ -388,21 +400,6 @@
 ],
 "a": 2,
 "e": "Correct answer: Rs. 8 (from the IC28 question bank)."
-},
-{
-"n": 29,
-"topic": "Foundation of Actuarial Science",
-"t": "A sum of 12,500 amounts to 15,500 in 4 years at the rate of simple interest. What is the rate of interest?",
-"o": [
-"3%",
-"4%",
-"5%",
-"6%",
-"None of the above"
-],
-"a": 3,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: 6% (from the IC28 question bank).",
-"r": "key"
 },
 {
 "n": 30,
@@ -489,21 +486,7 @@
 "e": "Correct answer: 4548.9840462745 (from the IC28 question bank)."
 },
 {
-"topic": "Taxation",
-"t": "Deduction for health insurance premium under Section 80D for an individual below 60 years (self and family) is up to:",
-"o": [
-"₹15,000",
-"₹25,000",
-"₹50,000",
-"₹75,000"
-],
-"a": 1,
-"e": "★ Core fact (asked across III papers). ₹25,000; ₹50,000 where the insured is a senior citizen; an additional ₹25,000/₹50,000 for parents.",
-"r": "core",
-"n": 36
-},
-{
-"n": 37,
+"n": 36,
 "topic": "Foundation of Actuarial Science",
 "t": "The net single premium for a deferred annuity of 1 p.a. payable yearly in arrear for life to a person aged x at entry with deferment period of t years is given by:-",
 "o": [
@@ -517,7 +500,7 @@
 "e": "Correct answer: vt ax+t (from the IC28 question bank)."
 },
 {
-"n": 38,
+"n": 37,
 "topic": "Foundation of Actuarial Science",
 "t": "Immediate annuities can be purchased only on:-",
 "o": [
@@ -531,7 +514,7 @@
 "e": "Correct answer: Single premium basis (from the IC28 question bank)."
 },
 {
-"n": 39,
+"n": 38,
 "topic": "Foundation of Actuarial Science",
 "t": "A box contains 2 white balls, 3 black balls and 4 red balls. In how many ways can 3 balls be drawn from the box, if at least one black ball is to be included in the draw?",
 "o": [
@@ -545,7 +528,7 @@
 "e": "Correct answer: 64 (from the IC28 question bank)."
 },
 {
-"n": 40,
+"n": 39,
 "topic": "Foundation of Actuarial Science",
 "t": "A loan of INR 25,000 is repayable by equal annual payments at the end of each of the next 5 years. Interest is 8% pa for the first three years and 12% pa thereafter. Calculate the loan outstanding immediately after the second repayment.",
 "o": [
@@ -557,6 +540,19 @@
 ],
 "a": 3,
 "e": "Correct answer: 15890.47 (from the IC28 question bank)."
+},
+{
+"n": 40,
+"topic": "Foundation of Actuarial Science",
+"t": "Which one of the following statements is correct?",
+"o": [
+"The future value of an annuity is unaffected by th",
+"The present value of an annuity is unaffected by t",
+"The present value of an annuity increases when the interest rate decreases",
+"The future value of an annuity increases when the"
+],
+"a": 2,
+"e": "Correct answer: The present value of an annuity increases when the interest rate decreases (from the IC28 question bank)."
 },
 {
 "n": 41,
@@ -587,21 +583,7 @@
 "e": "Correct answer: Gain of Rs. 20.86 (from the IC28 question bank)."
 },
 {
-"topic": "Motor – statutory",
-"t": "Third-party insurance is compulsory for a motor vehicle used in a public place under which section of the Motor Vehicles Act 1988?",
-"o": [
-"Section 140",
-"Section 146",
-"Section 163A",
-"Section 166"
-],
-"a": 1,
-"e": "★ Core fact (asked across III papers). Section 146 makes TP cover compulsory; Section 164 fixes no-fault compensation (₹5 lakh death / ₹2.5 lakh grievous hurt).",
-"r": "core",
-"n": 43
-},
-{
-"n": 44,
+"n": 43,
 "topic": "Foundation of Actuarial Science",
 "t": "An assurance in which the sum assured for a year is equal to the outstanding loan of a borrower at the beginning of that year and it generally reduces by uniform amount every year is known as:-",
 "o": [
@@ -615,7 +597,7 @@
 "e": "Correct answer: Decreasing Temporary Assurance (from the IC28 question bank)."
 },
 {
-"n": 45,
+"n": 44,
 "topic": "Foundation of Actuarial Science",
 "t": "If a person aged 32 is entitled to receive payments of 100, 200, 300.. at the end of 1<SUP>st</SUP>, 2<SUP>nd</SUP>, 3<SUP>rd</SUP> .. year respectively till he is alive, then calculate the present value of this annuity assuming IALM (1994-96) Ultimate at 6% interest rate.",
 "o": [
@@ -629,7 +611,7 @@
 "e": "Correct answer: 20112.785532292 (from the IC28 question bank)."
 },
 {
-"n": 46,
+"n": 45,
 "topic": "Foundation of Actuarial Science",
 "t": "Mortality investigation completed by MMIC does not include:-",
 "o": [
@@ -641,6 +623,20 @@
 ],
 "a": 0,
 "e": "Correct answer: Unit-linked business (from the IC28 question bank)."
+},
+{
+"n": 46,
+"topic": "Foundation of Actuarial Science",
+"t": "Net premiums are obtained by:-",
+"o": [
+"Dividing the present value of benefits by the present value of premiums",
+"Multiplying the present value of benefits by the p",
+"Adding the present value of benefits to the presen",
+"Subtracting the present value of benefits from the",
+"Subtracting the present value of premiums from the"
+],
+"a": 0,
+"e": "Correct answer: Dividing the present value of benefits by the present value of premiums (from the IC28 question bank)."
 },
 {
 "n": 47,

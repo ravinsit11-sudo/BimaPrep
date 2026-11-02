@@ -2,7 +2,7 @@
 {
 "n": 1,
 "topic": "General Insurance Underwriting",
-"t": "Insurance documentation includes:- <BR><BR>I. Agents code of conduct <BR>II. Insurers vision statement <BR>III. Renewal Notice",
+"t": "Why is unearned premium reserve an insurer's liability? <BR><BR>I. Insurer has to pay interest on the same <BR>II. It represents the premium which the insurer has yet to receive <BR>III. It represents insurance premiums prepaid by insured's for services that the insurance company has not yet rendered.",
 "o": [
 "I only",
 "II only",
@@ -16,6 +16,20 @@
 {
 "n": 2,
 "topic": "General Insurance Underwriting",
+"t": "Insurance documentation includes:- <BR><BR>I. Agents code of conduct <BR>II. Insurers vision statement <BR>III. Renewal Notice",
+"o": [
+"I only",
+"II only",
+"III only",
+"I and II",
+"II and III"
+],
+"a": 2,
+"e": "Correct answer: III only (from the IC45 question bank)."
+},
+{
+"n": 3,
+"topic": "General Insurance Underwriting",
 "t": "__________ use past experience so as to determine the costs of coverage for the future.",
 "o": [
 "Prospective systems / ?????????? ??????????",
@@ -28,7 +42,7 @@
 "e": "Correct answer: Prospective systems / ?????????? ?????????? (from the IC45 question bank)."
 },
 {
-"n": 3,
+"n": 4,
 "topic": "General Insurance Underwriting",
 "t": "Design and filing of products should only be done in conformity with:-",
 "o": [
@@ -42,7 +56,7 @@
 "e": "Correct answer: Underwriting policy approved by the board (from the IC45 question bank)."
 },
 {
-"n": 4,
+"n": 5,
 "topic": "General Insurance Underwriting",
 "t": "Identify the rating factors associated with Commercial automobile insurance.",
 "o": [
@@ -56,7 +70,7 @@
 "e": "Correct answer: Drivers class / ???? ?? ?????? (from the IC45 question bank)."
 },
 {
-"n": 5,
+"n": 6,
 "topic": "General Insurance Underwriting",
 "t": "Insurance pricing is also known as ________.",
 "o": [
@@ -70,7 +84,7 @@
 "e": "Correct answer: Rate making / ?? ???????? (from the IC45 question bank)."
 },
 {
-"n": 6,
+"n": 7,
 "topic": "General Insurance Underwriting",
 "t": "None of the following are contained in a proposal form EXCEPT:-<br><br>I. Bank Guarantee<br>II. Surety bond<br>III. Previous insurance",
 "o": [
@@ -84,7 +98,35 @@
 "e": "Correct answer: III only (from the IC45 question bank)."
 },
 {
-"n": 7,
+"n": 8,
+"topic": "General Insurance Underwriting",
+"t": "Which among the following was possible as a result of deregulation? <BR><BR>I. Banks and retailers could enter the insurance market <BR>II. Insurance companies could enter different financial markets and identify potential customers <BR>III. Competition in the insurance sector was reduced",
+"o": [
+"I only",
+"II only",
+"III only",
+"I and II",
+"II and III"
+],
+"a": 3,
+"e": "Correct answer: I and II (from the IC45 question bank)."
+},
+{
+"n": 9,
+"topic": "General Insurance Underwriting",
+"t": "Mention the challenges that an insurer might face if it charges low premium. <br><br>I: Loosing business <br>II: Stiff competition  <br>III: Insolvency if large claims are filed",
+"o": [
+"I only / ???? I",
+"II only / ???? II",
+"III only / ???? III",
+"I and II / I ?? II",
+"II and III / II ?? III"
+],
+"a": 2,
+"e": "Correct answer: III only / ???? III (from the IC45 question bank)."
+},
+{
+"n": 10,
 "topic": "General Insurance Underwriting",
 "t": "The Board approved Underwriting Policy is required to be filed with _______.",
 "o": [
@@ -98,22 +140,21 @@
 "e": "Correct answer: Regulator (from the IC45 question bank)."
 },
 {
-"n": 8,
+"n": 11,
 "topic": "General Insurance Underwriting",
-"t": "A combined ratio over 100% indicates ________.",
+"t": "___________ is a critical component of underwriting. <BR><BR>I. Target marketing <BR>II. Customer Relationship Management <BR>III. Risk segmentation",
 "o": [
-"Underwriting loss",
-"Underwriting profits",
-"Surplus reserves",
-"Deficit reserves",
-"Dynamic growth"
+"I only",
+"II only",
+"III only",
+"I and II",
+"II and III"
 ],
-"a": 0,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Underwriting loss (from the IC45 question bank).",
-"r": "key"
+"a": 2,
+"e": "Correct answer: III only (from the IC45 question bank)."
 },
 {
-"n": 9,
+"n": 12,
 "topic": "General Insurance Underwriting",
 "t": "Give us an example where an insurer would charge higher premium.<br><br>I. New models of vehicles<br>II. Experienced drivers<br>III. Young drivers",
 "o": [
@@ -127,7 +168,7 @@
 "e": "Correct answer: III only (from the IC45 question bank)."
 },
 {
-"n": 10,
+"n": 13,
 "topic": "General Insurance Underwriting",
 "t": "State the ancillary objectives of a premium rating system.",
 "o": [
@@ -141,7 +182,7 @@
 "e": "Correct answer: Incentives to insured / ???????? ?? ?????????? (from the IC45 question bank)."
 },
 {
-"n": 11,
+"n": 14,
 "topic": "General Insurance Underwriting",
 "t": "The most desired quality in underwriting decision making is ________.",
 "o": [
@@ -155,7 +196,7 @@
 "e": "Correct answer: Consistency (from the IC45 question bank)."
 },
 {
-"n": 12,
+"n": 15,
 "topic": "General Insurance Underwriting",
 "t": "Mention the options exercised by the insurer when issuing a policy on a sub-standard basis. <br><br>I: Issue policy with the lower  premiums <br>II: Issue all risk cover policy <br>III: Issue the policy with certain exclusions",
 "o": [
@@ -169,7 +210,7 @@
 "e": "Correct answer: III only / ???? III (from the IC45 question bank)."
 },
 {
-"n": 13,
+"n": 16,
 "topic": "General Insurance Underwriting",
 "t": "Which among the following statement is true?<br><br>I. 'Rates' are not the same as premiums<br>II. A rate is the price of a given unit of insurance<br>III. Rates vary according to the likelihood and potential size of loss",
 "o": [
@@ -183,7 +224,7 @@
 "e": "Correct answer: I and II and III (from the IC45 question bank)."
 },
 {
-"n": 14,
+"n": 17,
 "topic": "General Insurance Underwriting",
 "t": "Ramesh seeks property insurance for his house located on  an earthquake faultline. How will his proposal be considered by the underwriter?",
 "o": [
@@ -197,7 +238,7 @@
 "e": "Correct answer: Proposal will be declined (from the IC45 question bank)."
 },
 {
-"n": 15,
+"n": 18,
 "topic": "General Insurance Underwriting",
 "t": "Identify the scenario where a policy can be issued on a substandard basis.",
 "o": [
@@ -211,22 +252,7 @@
 "e": "Correct answer: Proposal falls outside normal risk boundaries but is not high risk (from the IC45 question bank)."
 },
 {
-"n": 16,
-"topic": "General Insurance Underwriting",
-"t": "An insurer shall dispose of a claim within 30 days of receipt of the survey report.",
-"o": [
-"10",
-"20",
-"40",
-"30",
-"50"
-],
-"a": 3,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: 30 (from the IC45 question bank).",
-"r": "key"
-},
-{
-"n": 17,
+"n": 19,
 "topic": "General Insurance Underwriting",
 "t": "In a certain state, all insurance rates must be approved by the state insurance department before the rates can be used. This type of rating law is called?",
 "o": [
@@ -240,7 +266,7 @@
 "e": "Correct answer: Prior Approval (from the IC45 question bank)."
 },
 {
-"n": 18,
+"n": 20,
 "topic": "General Insurance Underwriting",
 "t": "_________ is a tool to rate large complex risks and where detailed inspection and audit is carried out.",
 "o": [
@@ -254,7 +280,7 @@
 "e": "Correct answer: Complex rating (from the IC45 question bank)."
 },
 {
-"n": 19,
+"n": 21,
 "topic": "General Insurance Underwriting",
 "t": "Identify the point(s) that highlight(s) the need for research and development in the field of insurance. <BR><BR>I. Poor sales performance <BR>II. Increasing liabilities <BR>III. Emerging technologies",
 "o": [
@@ -268,7 +294,7 @@
 "e": "Correct answer: III only (from the IC45 question bank)."
 },
 {
-"n": 20,
+"n": 22,
 "topic": "General Insurance Underwriting",
 "t": "According to File & Use guidelines, large risks are _________.",
 "o": [
@@ -282,7 +308,7 @@
 "e": "Correct answer: Rs.100 crores or more per event for liability insurance (from the IC45 question bank)."
 },
 {
-"n": 21,
+"n": 23,
 "topic": "General Insurance Underwriting",
 "t": "Which among the following is the right formula for calculating pure premium?",
 "o": [
@@ -296,37 +322,9 @@
 "e": "Correct answer: (Actual loss + Loss adjustment expenses)/(Number of Exposure units) (from the IC45 question bank)."
 },
 {
-"n": 22,
-"topic": "General Insurance Underwriting",
-"t": "What is a proposal? <BR><BR>I. A request for an insurance cover <BR>II. An offer to enter into an insurance contract <BR>III. A request to claim policy monies",
-"o": [
-"I only",
-"II only",
-"III only",
-"I and II",
-"II and III"
-],
-"a": 3,
-"e": "Correct answer: I and II (from the IC45 question bank)."
-},
-{
-"n": 23,
-"topic": "General Insurance Underwriting",
-"t": "None of the following is a rating factor in case of motor insurance EXCEPT:- <BR><BR>I. Annual income <BR>II. Lingual preference <BR>III. Occupation",
-"o": [
-"I only",
-"II only",
-"III only",
-"I and II",
-"II and III"
-],
-"a": 2,
-"e": "Correct answer: III only (from the IC45 question bank)."
-},
-{
 "n": 24,
 "topic": "General Insurance Underwriting",
-"t": "___________ is a critical component of underwriting. <BR><BR>I. Target marketing <BR>II. Customer Relationship Management <BR>III. Product management",
+"t": "Which among the following is true with regards to policy prospectus? <BR><BR>I. Prospectus shall indicate the profit margin for the insurer <BR>II. Prospectus shall clearly specify who can avail of the policy <BR>III. Prospectus shall clearly spell out allowable riders",
 "o": [
 "I only",
 "II only",
@@ -340,6 +338,48 @@
 {
 "n": 25,
 "topic": "General Insurance Underwriting",
+"t": "What is a proposal? <BR><BR>I. A request for an insurance cover <BR>II. An offer to enter into an insurance contract <BR>III. A request to claim policy monies",
+"o": [
+"I only",
+"II only",
+"III only",
+"I and II",
+"II and III"
+],
+"a": 3,
+"e": "Correct answer: I and II (from the IC45 question bank)."
+},
+{
+"n": 26,
+"topic": "General Insurance Underwriting",
+"t": "None of the following is a rating factor in case of motor insurance EXCEPT:- <BR><BR>I. Annual income <BR>II. Lingual preference <BR>III. Occupation",
+"o": [
+"I only",
+"II only",
+"III only",
+"I and II",
+"II and III"
+],
+"a": 2,
+"e": "Correct answer: III only (from the IC45 question bank)."
+},
+{
+"n": 27,
+"topic": "General Insurance Underwriting",
+"t": "___________ is a critical component of underwriting. <BR><BR>I. Target marketing <BR>II. Customer Relationship Management <BR>III. Product management",
+"o": [
+"I only",
+"II only",
+"III only",
+"I and II",
+"II and III"
+],
+"a": 2,
+"e": "Correct answer: III only (from the IC45 question bank)."
+},
+{
+"n": 28,
+"topic": "General Insurance Underwriting",
 "t": "Considering all the relevant rating factors ensures that:-",
 "o": [
 "Premiums are high",
@@ -352,7 +392,7 @@
 "e": "Correct answer: Premiums are not inadequate, excessive or unfairly discriminatory (from the IC45 question bank)."
 },
 {
-"n": 26,
+"n": 29,
 "topic": "General Insurance Underwriting",
 "t": "Identify the class of insurance against which the risk mentioned below can be categorised.<br><br>Risk: Fidelity guarantee",
 "o": [
@@ -366,7 +406,7 @@
 "e": "Correct answer: Miscellaneous (from the IC45 question bank)."
 },
 {
-"n": 27,
+"n": 30,
 "topic": "General Insurance Underwriting",
 "t": "In a city loss experience of 1000 bikes each valued at Rs. 75,000 by theft shows that over a period of say 10 years, on average 2 bikes are stolen.  How much will be the pure premium?",
 "o": [
@@ -380,22 +420,7 @@
 "e": "Correct answer: Rs. 150 (from the IC45 question bank)."
 },
 {
-"n": 28,
-"topic": "General Insurance Underwriting",
-"t": "In which case will the insurer need prior approval only in case the rate change is substantial  e.g. 10% - 25%?",
-"o": [
-"Open competition laws",
-"Prior approval laws",
-"Flex rating laws",
-"File and Use laws",
-"Use and File laws"
-],
-"a": 2,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Flex rating laws (from the IC45 question bank).",
-"r": "key"
-},
-{
-"n": 29,
+"n": 31,
 "topic": "General Insurance Underwriting",
 "t": "Which among the following is exclusion under marine insurance for the proposal mentioned below? Proposal: Asbestos cement pipes and  sheets <br><br>I: Damage due to water <br>II: Loss as a result of sunken cargo <br>III: Breakage",
 "o": [
@@ -409,7 +434,7 @@
 "e": "Correct answer: III only / ???? III (from the IC45 question bank)."
 },
 {
-"n": 30,
+"n": 32,
 "topic": "General Insurance Underwriting",
 "t": "___________ means that the insurer should only offer insurance of risks that are quantifiable and manageable and where the premium can be properly assessed.",
 "o": [
@@ -423,7 +448,7 @@
 "e": "Correct answer: Prudent underwriting (from the IC45 question bank)."
 },
 {
-"n": 31,
+"n": 33,
 "topic": "General Insurance Underwriting",
 "t": "Pure premium can be estimated from <BR><BR>I. Likelihood of submitting a claim <BR>II. Expected  size of a claim <BR>III. Cause of the claim",
 "o": [
@@ -437,7 +462,7 @@
 "e": "Correct answer: I and II (from the IC45 question bank)."
 },
 {
-"n": 32,
+"n": 34,
 "topic": "General Insurance Underwriting",
 "t": "Which among the following is the 7<SU><SUP>th</SUP></SUP> step in the product innovation process?<BR><BR>I. Identifying need for changes in existing products<BR>II. Determining reasons for changes in portfolio<BR>III. Identifying customer needs<BR>IV. Making corrective changes<BR>V. Preparing product proposals<BR>VI. Determining cost and benefits of product changes<BR>VII. Regulatory compliances",
 "o": [
@@ -451,7 +476,7 @@
 "e": "Correct answer: VII (from the IC45 question bank)."
 },
 {
-"n": 33,
+"n": 35,
 "topic": "General Insurance Underwriting",
 "t": "Which among the following is a feature of underwriting?<br><br>I. Risk elimination<br>II. Promoting business growth<br>III. To classify risk based upon the risk characteristics",
 "o": [
@@ -465,7 +490,7 @@
 "e": "Correct answer: III only (from the IC45 question bank)."
 },
 {
-"n": 34,
+"n": 36,
 "topic": "General Insurance Underwriting",
 "t": "_________ are special conditions based on the statements made by the insured. These are imposed under the policy, which are to be adhered to by the proposer for performance of the contract.",
 "o": [
@@ -479,7 +504,7 @@
 "e": "Correct answer: Warranties (from the IC45 question bank)."
 },
 {
-"n": 35,
+"n": 37,
 "topic": "General Insurance Underwriting",
 "t": "Identify the class of insurance against which the risk mentioned below can be categorised. Risk: Explosive factories and premises",
 "o": [
@@ -493,21 +518,7 @@
 "e": "Correct answer: Fire / ????? (from the IC45 question bank)."
 },
 {
-"topic": "Claims timelines",
-"t": "For health insurance, the maximum time an insurer may take to decide a cashless authorisation request under the 2024 master circular is:",
-"o": [
-"1 hour",
-"3 hours",
-"6 hours",
-"24 hours"
-],
-"a": 0,
-"e": "★ Core fact (asked across III papers). Cashless authorisation within 1 hour of request; final discharge authorisation within 3 hours.",
-"r": "core",
-"n": 36
-},
-{
-"n": 37,
+"n": 38,
 "topic": "General Insurance Underwriting",
 "t": "Advocate the benefits that computers provide to an underwriter to underwrite more efficiently and accurately. <br><br>I: Reduce all possible  risks <br>II: Reduce cost of insurance <br>III: Recommend acceptance or rejection of the risk <br><br>",
 "o": [
@@ -521,7 +532,7 @@
 "e": "Correct answer: III only / ???? III (from the IC45 question bank)."
 },
 {
-"n": 38,
+"n": 39,
 "topic": "General Insurance Underwriting",
 "t": "In case proposal form is not used then the onus of proof lies with _______ in case of information not recorded.",
 "o": [
@@ -535,7 +546,7 @@
 "e": "Correct answer: Insurer (from the IC45 question bank)."
 },
 {
-"n": 39,
+"n": 40,
 "topic": "General Insurance Underwriting",
 "t": "Identify the rating factor(s) associated with Homeowners insurance. <BR><BR>I. Occupational class code <BR>II. Accident history <BR>III. Construction type",
 "o": [
@@ -549,7 +560,7 @@
 "e": "Correct answer: III only (from the IC45 question bank)."
 },
 {
-"n": 40,
+"n": 41,
 "topic": "General Insurance Underwriting",
 "t": "Provide a valid reason for using individual rating. <br><br>I: Risk covered is miniscule <br>II: Provide generic covers <br>III: To  encourage and motivate more risk control programs",
 "o": [
@@ -563,7 +574,7 @@
 "e": "Correct answer: III only / ???? III (from the IC45 question bank)."
 },
 {
-"n": 41,
+"n": 42,
 "topic": "General Insurance Underwriting",
 "t": "Identify the class of insurance against which the risk mentioned below can be categorised.<BR><BR>Risk: Match factories and matches in transit",
 "o": [
@@ -577,7 +588,7 @@
 "e": "Correct answer: Fire (from the IC45 question bank)."
 },
 {
-"n": 42,
+"n": 43,
 "topic": "General Insurance Underwriting",
 "t": "A/An ________ is the person who sends the proposal form for taking an insurance policy and pays the premium.",
 "o": [
@@ -591,7 +602,7 @@
 "e": "Correct answer: Proposer (from the IC45 question bank)."
 },
 {
-"n": 43,
+"n": 44,
 "topic": "General Insurance Underwriting",
 "t": "Identify the class of insurance against which the risk mentioned below can be categorised. Risk: Cement in bags on terms wider than I.C.C.",
 "o": [
@@ -603,20 +614,6 @@
 ],
 "a": 1,
 "e": "Correct answer: Marine / ???? (from the IC45 question bank)."
-},
-{
-"topic": "Health insurance norms",
-"t": "The maximum waiting period for pre-existing diseases in health insurance, after the 2024 IRDAI changes, is:",
-"o": [
-"24 months",
-"36 months",
-"48 months",
-"60 months"
-],
-"a": 1,
-"e": "★ Core fact (asked across III papers). Reduced from 48 to 36 months; the moratorium period after which claims cannot be contested (except fraud) is 60 months.",
-"r": "core",
-"n": 44
 },
 {
 "n": 45,

@@ -58,6 +58,20 @@
 {
 "n": 5,
 "topic": "Health Insurance",
+"t": "Which of the following statements are true with respect to the social health insurance system of health care? <BR><BR>I. The employees and the employers pay a regular contribution to the funds that are then used for funding healthcare needs for the employees as well as their families <BR>II. The payment to the healthcare providers is made by the Government on behalf of the users <BR>III. It works on principle of equal treatment and provides equal access to all medical services regardless of the financial status of an individual",
+"o": [
+"Only I",
+"I and II",
+"Only III",
+"I, II and III",
+"II and III"
+],
+"a": 0,
+"e": "Correct answer: Only I (from the IC27 question bank)."
+},
+{
+"n": 6,
+"topic": "Health Insurance",
 "t": "Which of the following analysis is used to study the percentage of total claim amount paid for each sum insured range?",
 "o": [
 "Claim analysis by sum insured",
@@ -70,7 +84,7 @@
 "e": "Correct answer: Claim analysis by sum insured (from the IC27 question bank)."
 },
 {
-"n": 6,
+"n": 7,
 "topic": "Health Insurance",
 "t": "Mr. B works in a Company in Japan that employs around 400 employees. Name the health insurance program under which he shall be covered.",
 "o": [
@@ -84,7 +98,7 @@
 "e": "Correct answer: Government managed health insurance (from the IC27 question bank)."
 },
 {
-"n": 7,
+"n": 8,
 "topic": "Health Insurance",
 "t": "Identify the essential components of data warehousing. <BR><BR>I. To retrieve and analyse data <BR>II. To extract, transform and load data <BR>III. To manage the data dictionary",
 "o": [
@@ -98,7 +112,7 @@
 "e": "Correct answer: I,II and III (from the IC27 question bank)."
 },
 {
-"n": 8,
+"n": 9,
 "topic": "Health Insurance",
 "t": "The health financing innovation brought by NRHM is termed as ______.",
 "o": [
@@ -112,7 +126,7 @@
 "e": "Correct answer: Untied funds (from the IC27 question bank)."
 },
 {
-"n": 9,
+"n": 10,
 "topic": "Health Insurance",
 "t": "______________ is a variant of white-labelling in the context of rural insurance.",
 "o": [
@@ -126,22 +140,21 @@
 "e": "Correct answer: Social reinsurance (from the IC27 question bank)."
 },
 {
-"n": 10,
+"n": 11,
 "topic": "Health Insurance",
-"t": "Mr. B was diagnosed with AIDS. He was admitted in the hospital for 12 days. Which of the following expenses shall be covered by the hospital indemnity policy?",
+"t": "Identify the statements that are true with respect to the health insurance system of Thailand. <BR><BR>I. There are three main insurance schemes in Thailand <BR>II. The CSMBS Scheme covers the central government employees <BR>III. The unemployed citizens of the country are not covered under any health insurance scheme",
 "o": [
-"Accommodation costs",
-"Out-patient treatment",
-"Cost of medicines",
-"Physicians fee for in-patient treatment",
-"No expenses will be reimbursed"
+"Only I",
+"I and II",
+"Only III",
+"I, II and III",
+"II and III"
 ],
-"a": 4,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: No expenses will be reimbursed (from the IC27 question bank).",
-"r": "key"
+"a": 1,
+"e": "Correct answer: I and II (from the IC27 question bank)."
 },
 {
-"n": 11,
+"n": 12,
 "topic": "Health Insurance",
 "t": "Which of the following clauses apply when more than one policy covers the same loss?",
 "o": [
@@ -155,7 +168,21 @@
 "e": "Correct answer: Principle of Contribution (from the IC27 question bank)."
 },
 {
-"n": 12,
+"n": 13,
+"topic": "Health Insurance",
+"t": "From the following characteristics of risk associated with health insurance, identify the type of risk. <BR><BR>I. Even if the insurer is profitable, there can still be a mismatch between the cash flows, and current assets and liabilities.  <BR>II. This mismatch reduces the insurer's ability to arrange adequate cash to pay its liabilities at a short notice.",
+"o": [
+"Insurance risk",
+"Investment risk",
+"Credit risk",
+"Liquidity risk",
+"Business environment risk"
+],
+"a": 3,
+"e": "Correct answer: Liquidity risk (from the IC27 question bank)."
+},
+{
+"n": 14,
 "topic": "Health Insurance",
 "t": "Explain what is \"Isapres\".",
 "o": [
@@ -169,7 +196,7 @@
 "e": "Correct answer: The private health insurance system of Chile is known as Isapres. (from the IC27 question bank)."
 },
 {
-"n": 13,
+"n": 15,
 "topic": "Health Insurance",
 "t": "If XYZ insurance company wishes to study the percentage share of number of people for the corresponding product categories in proportion to the total number of people, then analysis of data should be done on which parameter?",
 "o": [
@@ -183,7 +210,7 @@
 "e": "Correct answer: Group size distribution (from the IC27 question bank)."
 },
 {
-"n": 14,
+"n": 16,
 "topic": "Health Insurance",
 "t": "X has taken a Mediclaim policy of Rs. 1 lakhs from ABC Insurance Ltd. The policy  states that if in case of any hospitalisation, the company will cover room charges only up to 1% of the sum assured for a day. What amount as room charges will be paid by insurance companies to X in event of hospitalisation?",
 "o": [
@@ -197,7 +224,7 @@
 "e": "Correct answer: Rs 1000 a day (from the IC27 question bank)."
 },
 {
-"n": 15,
+"n": 17,
 "topic": "Health Insurance",
 "t": "Morbidity risk is generally considered to be lowest in:-",
 "o": [
@@ -211,7 +238,21 @@
 "e": "Correct answer: 22 year old adult (from the IC27 question bank)."
 },
 {
-"n": 16,
+"n": 18,
+"topic": "Health Insurance",
+"t": "Identify the true statement.<BR><BR>I. Hospital cash benefit scheme is particularly useful for persons covered for health by employers, where employers' health schemes may not bear many of the incidental costs associated with hospitalisation. <BR>II. High-deductible hospital indemnity covers are best suited for persons who are either covered by their employers, or are already holding a hospitalisation policy but with low sum insured.",
+"o": [
+"Only I is true",
+"Only II is true",
+"Both I and II are true",
+"Both I and II are false",
+"Either I or II can be true"
+],
+"a": 2,
+"e": "Correct answer: Both I and II are true (from the IC27 question bank)."
+},
+{
+"n": 19,
 "topic": "Health Insurance",
 "t": "_______________is a process of risk selection and risk pricing.",
 "o": [
@@ -225,7 +266,7 @@
 "e": "Correct answer: Underwriting (from the IC27 question bank)."
 },
 {
-"n": 17,
+"n": 20,
 "topic": "Health Insurance",
 "t": "In Social reinsurance _______________ play the role of the distributor.",
 "o": [
@@ -239,7 +280,7 @@
 "e": "Correct answer: NGOs (from the IC27 question bank)."
 },
 {
-"n": 18,
+"n": 21,
 "topic": "Health Insurance",
 "t": "In the Indian health insurance market, what is considered as the key medical underwriting factor for individual health insurance?",
 "o": [
@@ -253,22 +294,7 @@
 "e": "Correct answer: Age (from the IC27 question bank)."
 },
 {
-"n": 19,
-"topic": "Health Insurance",
-"t": "Vijay Vyas needs to travel to US on 15<SUP>th</SUP> of next month. Suggest a suitable health insurance product for him.",
-"o": [
-"Overseas Medical Insurance plan / ?????? ????????",
-"Bhavishya Aarogya / ?????? ??????",
-"Disease Management cover / ??? ??????? ????",
-"High-deductible hospital indemnity cover / ????-??",
-"Daily hospital cash benefit / ????? ??????? ???? ?"
-],
-"a": 0,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Overseas Medical Insurance plan / ?????? ???????? (from the IC27 question bank).",
-"r": "key"
-},
-{
-"n": 20,
+"n": 22,
 "topic": "Health Insurance",
 "t": "Economists describe health insurance as a/an ________________ because normal market forces do not work as expected in this case.",
 "o": [
@@ -282,7 +308,7 @@
 "e": "Correct answer: Imperfect market (from the IC27 question bank)."
 },
 {
-"n": 21,
+"n": 23,
 "topic": "Health Insurance",
 "t": "For Claim analysis by geographic locations which of the following statement is correct?",
 "o": [
@@ -295,7 +321,7 @@
 "e": "Correct answer: This analysis will help insurers pointing out the high cost location and revising its sales and rating strategies (from the IC27 question bank)."
 },
 {
-"n": 22,
+"n": 24,
 "topic": "Health Insurance",
 "t": "Which of the following is not one among the common exclusions of a health insurance policies?",
 "o": [
@@ -309,7 +335,7 @@
 "e": "Correct answer: Organ Transplant (from the IC27 question bank)."
 },
 {
-"n": 23,
+"n": 25,
 "topic": "Health Insurance",
 "t": "The healthcare insurance system of Thailand is divided into how many insurance schemes?",
 "o": [
@@ -323,7 +349,7 @@
 "e": "Correct answer: Three (from the IC27 question bank)."
 },
 {
-"n": 24,
+"n": 26,
 "topic": "Health Insurance",
 "t": "Arrange the events in sequence of which happened first to the last.<BR><BR>I. Establishment of ESIS<BR>II. Establishment of CGHS<BR>III. Introduction of Mediclaim",
 "o": [
@@ -337,7 +363,7 @@
 "e": "Correct answer: I, II and III / I, II ??? III (from the IC27 question bank)."
 },
 {
-"n": 25,
+"n": 27,
 "topic": "Health Insurance",
 "t": "Which one of the following is not an ideal trigger to detect a fraudulent claim?",
 "o": [
@@ -351,7 +377,7 @@
 "e": "Correct answer: Patient's residence and the hospital or chemist address are not in same geographical location (from the IC27 question bank)."
 },
 {
-"n": 26,
+"n": 28,
 "topic": "Health Insurance",
 "t": "Risk of frauds, risk of not keeping up with technology, risk of losing key human resources etc. are examples of which type of risks?",
 "o": [
@@ -365,7 +391,7 @@
 "e": "Correct answer: Business environment risk (from the IC27 question bank)."
 },
 {
-"n": 27,
+"n": 29,
 "topic": "Health Insurance",
 "t": "The Private Health Insurance of Chile known as____________.",
 "o": [
@@ -379,7 +405,7 @@
 "e": "Correct answer: Isapres (from the IC27 question bank)."
 },
 {
-"n": 28,
+"n": 30,
 "topic": "Health Insurance",
 "t": "Which one of the following areas are not regulated by legislations issued by State and Central Government both? <BR><BR>I. Sanitation <BR>II. Hospitals <BR>III. Family welfare",
 "o": [
@@ -393,22 +419,21 @@
 "e": "Correct answer: I and II (from the IC27 question bank)."
 },
 {
-"n": 29,
+"n": 31,
 "topic": "Health Insurance",
-"t": "Mr. A works in a Company in Japan that employs around 800 employees. Name the health insurance program under which he shall be covered.",
+"t": "Identify the true statement <BR><BR>I. Knowing the financial status of the proposer is particularly relevant for benefit products and to reduce the moral hazard.  <BR>II. Normally financial documents are only asked for in cases of high sum assured coverage or where the stated income and occupation vis a vis the coverage sought shows a mismatch.",
 "o": [
-"Society Managed Health Insurance Plans",
-"Government managed health insurance",
-"National Health Insurance",
-"Long life medical care system",
-"The Sickness Fund"
+"Only I is true",
+"Only II is true",
+"Both I and II are true",
+"Both I and II are false",
+"Either I or II can be true"
 ],
-"a": 0,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Society Managed Health Insurance Plans (from the IC27 question bank).",
-"r": "key"
+"a": 2,
+"e": "Correct answer: Both I and II are true (from the IC27 question bank)."
 },
 {
-"n": 30,
+"n": 32,
 "topic": "Health Insurance",
 "t": "What is the objective of NRHM in India?",
 "o": [
@@ -422,7 +447,7 @@
 "e": "Correct answer: To reduce the gap between the healthcare available in urban areas and rural areas (from the IC27 question bank)."
 },
 {
-"n": 31,
+"n": 33,
 "topic": "Health Insurance",
 "t": "Which of the following are examples of various frauds which the system should be able to easily identify? <BR><BR>I. Adverse claim ratio for an agent or partner or group <BR>II. Adverse claim ratio for a given profile/ occupation/ income group <BR>III. Higher LOS (Length of Stay) for a given ailment",
 "o": [
@@ -436,7 +461,7 @@
 "e": "Correct answer: I, II and III (from the IC27 question bank)."
 },
 {
-"n": 32,
+"n": 34,
 "topic": "Health Insurance",
 "t": "Identify the correct full form of CIBIL.",
 "o": [
@@ -450,7 +475,7 @@
 "e": "Correct answer: Credit Information Bureau of India (from the IC27 question bank)."
 },
 {
-"n": 33,
+"n": 35,
 "topic": "Health Insurance",
 "t": "What is the importance of data for 'Regulators' in health insurance?",
 "o": [
@@ -464,7 +489,7 @@
 "e": "Correct answer: To keep track of market developments, to frame policies relating to solvency margins and for customer education and awareness (from the IC27 question bank)."
 },
 {
-"n": 34,
+"n": 36,
 "topic": "Health Insurance",
 "t": "In Analysis by diagnosis grouping and provider network analysis, claims data can be analysed by:- <BR><BR>I. Type of diagnosis <BR>II. Period of stay in hospital <BR>III. Cost of service provided by hospitals",
 "o": [
@@ -478,7 +503,7 @@
 "e": "Correct answer: I,II and III (from the IC27 question bank)."
 },
 {
-"n": 35,
+"n": 37,
 "topic": "Health Insurance",
 "t": "____________ is the sole and exclusive owner of all data collected / received from the insurance industry.",
 "o": [
@@ -492,21 +517,7 @@
 "e": "Correct answer: IRDAI (from the IC27 question bank)."
 },
 {
-"topic": "Policyholder protection",
-"t": "The IRDAI portal through which a policyholder can escalate an unresolved grievance against an insurer is:",
-"o": [
-"Bima Sugam",
-"Bima Bharosa",
-"Bima Vahak",
-"Bima Vistaar"
-],
-"a": 1,
-"e": "★ Core fact (asked across III papers). Bima Bharosa (formerly IGMS) is the grievance portal; Bima Sugam is the marketplace, Bima Vahak the women-led distribution channel and Bima Vistaar the combined rural product.",
-"r": "core",
-"n": 36
-},
-{
-"n": 37,
+"n": 38,
 "topic": "Health Insurance",
 "t": "The ESIS (Employees State Insurance Scheme) is regulated by which governmental body?",
 "o": [
@@ -520,7 +531,7 @@
 "e": "Correct answer: Ministry of Labour (from the IC27 question bank)."
 },
 {
-"n": 38,
+"n": 39,
 "topic": "Health Insurance",
 "t": "The term myocardial infarction indicates _______.",
 "o": [
@@ -534,7 +545,7 @@
 "e": "Correct answer: Death of a portion of the heart muscle (from the IC27 question bank)."
 },
 {
-"n": 39,
+"n": 40,
 "topic": "Health Insurance",
 "t": "TPAs use health insurance data to:- <BR><BR>I. To evaluate their own performance in terms of claim settlement <BR>II. To improve the business intelligence of their processing systems <BR>III. To develop appropriate systems and management structures for controlling cost",
 "o": [
@@ -548,7 +559,7 @@
 "e": "Correct answer: I,II and III (from the IC27 question bank)."
 },
 {
-"n": 40,
+"n": 41,
 "topic": "Health Insurance",
 "t": "X has taken two hospitalisation indemnity policies, one from ABC Insurance company for a cover of Rs. 2,20,000 and another from  XYZ Insurance Company for a cover of Rs. 1,00,000. X was once hospitalised due to heart attack and incurred hospitalisation expenses of Rs. 1,60,000. Under the Principle of Contribution what will be the share of compensation payable by ABC insurance company?",
 "o": [
@@ -562,7 +573,7 @@
 "e": "Correct answer: Rs 1,10,000 (from the IC27 question bank)."
 },
 {
-"n": 41,
+"n": 42,
 "topic": "Health Insurance",
 "t": "Mr. Sanjay has applied for several health insurance policies without revealing his various policies to each insurance provider. Later on he makes an insurance claim with all of the insurance companies for a surgical procedure done. Identify the type of fraud",
 "o": [
@@ -576,7 +587,7 @@
 "e": "Correct answer: Insurance speculation / ???? ???????? (from the IC27 question bank)."
 },
 {
-"n": 42,
+"n": 43,
 "topic": "Health Insurance",
 "t": "Which of the following statements are false with respect to the healthcare system of France? <BR><BR>I. There are three healthcare funds operating in France <BR>II. The funds are under the joint control of employers and employee unions, which are in turn supervised by the state <BR>III. The contribution to these funds is optional and not mandatory",
 "o": [
@@ -590,7 +601,7 @@
 "e": "Correct answer: Only III (from the IC27 question bank)."
 },
 {
-"n": 43,
+"n": 44,
 "topic": "Health Insurance",
 "t": "Motor insurances are usually reinsured using which reinsurance structure? <BR><BR>I. Quota share <BR>II. Surplus share <BR>III. Stop loss",
 "o": [
@@ -604,7 +615,7 @@
 "e": "Correct answer: Only III (from the IC27 question bank)."
 },
 {
-"n": 44,
+"n": 45,
 "topic": "Health Insurance",
 "t": "A person should have a pecuniary interest in the asset he is going to get insured and will suffer financial loss in the event of any damage to such asset. This is known as __________________.",
 "o": [
@@ -618,7 +629,7 @@
 "e": "Correct answer: Principle of Insurable Interest (from the IC27 question bank)."
 },
 {
-"n": 45,
+"n": 46,
 "topic": "Health Insurance",
 "t": "Which of the following insurance products will be most useful to individuals who wish to seek protection against the risk associated with accident?",
 "o": [
@@ -630,20 +641,6 @@
 ],
 "a": 2,
 "e": "Correct answer: Personal Accident policy (from the IC27 question bank)."
-},
-{
-"topic": "Policyholder protection",
-"t": "An insurer must resolve a policyholder's grievance within how many days of receipt?",
-"o": [
-"7 days",
-"14 days",
-"30 days",
-"45 days"
-],
-"a": 1,
-"e": "★ Core fact (asked across III papers). 14 days under the 2024 regulations; thereafter the policyholder may approach Bima Bharosa or the Ombudsman.",
-"r": "core",
-"n": 46
 },
 {
 "n": 47,

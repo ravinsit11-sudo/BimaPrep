@@ -114,17 +114,16 @@
 {
 "n": 9,
 "topic": "Health Insurance",
-"t": "Mr. B works in a Company in Japan that employs around 400 employees. Name the health insurance program under which he shall be covered.",
+"t": "Which of the following statements are false with respect to the Out of Pocket Expenses of Health Care? <BR><BR>I. The employees and the employers pay a regular contribution to the funds that are then used for funding healthcare needs for the employees as well as their families <BR>II. The payment to the healthcare providers is made by the Government on behalf of the users <BR>III. It is a direct payment made by the households to the provider for their healthcare needs without any coverage or reimbursements",
 "o": [
-"Society Managed Health Insurance Plans",
-"Government managed health insurance",
-"National Health Insurance",
-"Long life medical care system",
-"The Sickness Fund"
+"Only I",
+"I and II",
+"Only III",
+"I, II and III",
+"II and III"
 ],
 "a": 1,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Government managed health insurance (from the IC27 question bank).",
-"r": "key"
+"e": "Correct answer: I and II (from the IC27 question bank)."
 },
 {
 "n": 10,
@@ -143,6 +142,20 @@
 {
 "n": 11,
 "topic": "Health Insurance",
+"t": "Which of the following statements are false with respect to the healthcare system of Japan? <BR><BR>I. The Japan health system provides coverage to the entire population with a universal access to all medical services <BR>II. The self-employed, retired, unemployed are covered under the Long life medical care system <BR>III. Enrolment in the health insurance system is compulsory in Japan and applies to all residents including foreigners",
+"o": [
+"Only I",
+"I and II",
+"Only III",
+"Only II",
+"II and III"
+],
+"a": 3,
+"e": "Correct answer: Only II (from the IC27 question bank)."
+},
+{
+"n": 12,
+"topic": "Health Insurance",
 "t": "Which of the following parameters in analysis is used to study the percentage share of each of the age categories for each policy year?",
 "o": [
 "Earned premium",
@@ -155,7 +168,7 @@
 "e": "Correct answer: Age distribution (from the IC27 question bank)."
 },
 {
-"n": 12,
+"n": 13,
 "topic": "Health Insurance",
 "t": "Diana, aged 40 years is working as a financial consultant. She is a patient of high blood pressure. She has purchased a health insurance policy for herself on 1<SUP>st</SUP> January, 2015 with a clause for an exclusion period of 12 months for pre-existing diseases. In June, 2015 she was admitted to the hospital for a Fracture in her wrist. Her hospital bill amounted to Rs. 20,000. What will happen to Diana's claim?",
 "o": [
@@ -169,7 +182,21 @@
 "e": "Correct answer: Diana's claim shall be fully reimbursed (from the IC27 question bank)."
 },
 {
-"n": 13,
+"n": 14,
+"topic": "Health Insurance",
+"t": "Identify the true statement <BR><BR>I. Fixed benefits and Cl Illness covers can have similar patterns of claims incidence.  <BR>II. Indemnity health insurance product line is generically given the name of \"Medi-claim\". <BR>III. Pay-outs for fixed benefits are higher than those of indemnity health covers",
+"o": [
+"Only I",
+"Only II",
+"I and II",
+"II and III",
+"I,II and III"
+],
+"a": 1,
+"e": "Correct answer: Only II (from the IC27 question bank)."
+},
+{
+"n": 15,
 "topic": "Health Insurance",
 "t": "The whole health care Insurance system of Chile is divided into _____ categories.",
 "o": [
@@ -183,7 +210,7 @@
 "e": "Correct answer: Two (from the IC27 question bank)."
 },
 {
-"n": 14,
+"n": 16,
 "topic": "Health Insurance",
 "t": "Group insurance is mainly underwritten based on the _____________________. <BR><BR>I. Law of Averages <BR>II. Law of Deviation <BR>III. Law of Assignment",
 "o": [
@@ -197,7 +224,7 @@
 "e": "Correct answer: Only I (from the IC27 question bank)."
 },
 {
-"n": 15,
+"n": 17,
 "topic": "Health Insurance",
 "t": "The objective of the insurance is to compensate the insured by placing him in the same financial position after the loss where he was earlier; the insurer pays nothing more and nothing less. This is known as ________________.",
 "o": [
@@ -211,7 +238,7 @@
 "e": "Correct answer: Principle of Indemnity (from the IC27 question bank)."
 },
 {
-"n": 16,
+"n": 18,
 "topic": "Health Insurance",
 "t": "Rekha had taken a health insurance policy for coverage of expenses in the event of hospitalisation on 1<SUP>st</SUP> January, 2015. The policy had a clause for initial waiting period of 30 days. On 19<SUP>th</SUP> January, 2015 Rekha met with an accident and was hospitalised for 5 days. She had to pay heavy hospital bills. She submitted a claim to the insurance Company on 25<SUP>th</SUP> January, 2015. What shall be the result of her claim? <BR><BR>I. The claim shall be approved and reimbursed <BR>II. The insurance Company shall deny the claim <BR>III. The insurance company shall clear the claim by 25<SUP>th</SUP> March, 2015",
 "o": [
@@ -225,7 +252,7 @@
 "e": "Correct answer: I (from the IC27 question bank)."
 },
 {
-"n": 17,
+"n": 19,
 "topic": "Health Insurance",
 "t": "Critical illness benefit products provide a lump sum amount to the insured on:- <BR><BR>I. Diagnosis of a specific critical illness <BR>II. On undergoing of certain procedures <BR>III. Hospitalisation for periodic health checkups",
 "o": [
@@ -239,22 +266,7 @@
 "e": "Correct answer: I and II (from the IC27 question bank)."
 },
 {
-"n": 18,
-"topic": "Health Insurance",
-"t": "In which year was the ESI Act enacted?",
-"o": [
-"1948",
-"1938",
-"1957",
-"1912",
-"1908"
-],
-"a": 0,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: 1948 (from the IC27 question bank).",
-"r": "key"
-},
-{
-"n": 19,
+"n": 20,
 "topic": "Health Insurance",
 "t": "In Mediclaim, the scope of cover has been extended by some insurers to cover:- <BR><BR>I. Hospitalisation expenses of organ donor  <BR>II. Reimbursement for periodic health check-up  <BR>III. Cost of surgeries done under day care",
 "o": [
@@ -268,7 +280,7 @@
 "e": "Correct answer: I,II and III (from the IC27 question bank)."
 },
 {
-"n": 20,
+"n": 21,
 "topic": "Health Insurance",
 "t": "While issuing an insurance cover, most of the insurance companies consider which of the following factors? <BR><BR>I. Pricing <BR>II. Acceptance by customers <BR>III. Maximum coverage of society in general",
 "o": [
@@ -282,7 +294,7 @@
 "e": "Correct answer: I and II (from the IC27 question bank)."
 },
 {
-"n": 21,
+"n": 22,
 "topic": "Health Insurance",
 "t": "The terms 'cherry-picking' or 'cream-skimming' are often used with reference to __________.",
 "o": [
@@ -296,7 +308,7 @@
 "e": "Correct answer: Selection of risks / ????? ??? (from the IC27 question bank)."
 },
 {
-"n": 22,
+"n": 23,
 "topic": "Health Insurance",
 "t": "When was the Indian Life Assurance Companies Act enacted?",
 "o": [
@@ -310,7 +322,7 @@
 "e": "Correct answer: 1912 (from the IC27 question bank)."
 },
 {
-"n": 23,
+"n": 24,
 "topic": "Health Insurance",
 "t": "Which of the following acts are considered to be fraud? <BR><BR>I. Act of concealment <BR>II. Act of deceiving <BR>III. Act of misrepresenting information",
 "o": [
@@ -324,7 +336,7 @@
 "e": "Correct answer: I, II and III (from the IC27 question bank)."
 },
 {
-"n": 24,
+"n": 25,
 "topic": "Health Insurance",
 "t": "Priya has taken a health insurance policy which had a clause for deductible of Rs.20,000. Due to a fracture in her leg, Priya incurred hospitalisation expenses of Rs.55,000. How much will the insurance company pay out of the total expenses?",
 "o": [
@@ -338,7 +350,21 @@
 "e": "Correct answer: Rs. 35,000 (from the IC27 question bank)."
 },
 {
-"n": 25,
+"n": 26,
+"topic": "Health Insurance",
+"t": "Which of the following statements are true with respect to Liquidity risks associated with health insurance market? <BR><BR>I. The occurrence of this type of risk depends on the mix of investment options chosen by the insurer, as also the overall environment in the economy.  <BR>II. Even if the insurer is profitable, there can still be a mismatch between the cash flows, and current assets and liabilities.  <BR>III. This mismatch reduces the insurer's ability to arrange adequate cash to pay its liabilities at a short notice.",
+"o": [
+"Only I",
+"Only II",
+"I and II",
+"II and III",
+"I, II, and III"
+],
+"a": 3,
+"e": "Correct answer: II and III (from the IC27 question bank)."
+},
+{
+"n": 27,
 "topic": "Health Insurance",
 "t": "Identify the most important benefit of cashless system of health insurance.",
 "o": [
@@ -352,22 +378,7 @@
 "e": "Correct answer: It avoids the need to arrange a large amount of money by an individual for payment to the hospital (from the IC27 question bank)."
 },
 {
-"n": 26,
-"topic": "Health Insurance",
-"t": "Vijay Vyas needs to travel to US on 15<SUP>th</SUP> of next month. Suggest a suitable health insurance product for him.",
-"o": [
-"Overseas Medical Insurance plan / ?????? ????????",
-"Bhavishya Aarogya / ?????? ??????",
-"Disease Management cover / ??? ??????? ????",
-"High-deductible hospital indemnity cover / ????-??",
-"Daily hospital cash benefit / ????? ??????? ???? ?"
-],
-"a": 0,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Overseas Medical Insurance plan / ?????? ???????? (from the IC27 question bank).",
-"r": "key"
-},
-{
-"n": 27,
+"n": 28,
 "topic": "Health Insurance",
 "t": "Which of the following statement is correct with regard to modelling process?",
 "o": [
@@ -381,7 +392,7 @@
 "e": "Correct answer: It is used to analyse the data and come up with a formula which can be used to predict the future with as much accuracy as possible (from the IC27 question bank)."
 },
 {
-"n": 28,
+"n": 29,
 "topic": "Health Insurance",
 "t": "Claims which are medium to high severity and low frequency ____________________.",
 "o": [
@@ -395,7 +406,21 @@
 "e": "Correct answer: Would require a quota share or a surplus share reinsurance structure (from the IC27 question bank)."
 },
 {
-"n": 29,
+"n": 30,
+"topic": "Health Insurance",
+"t": "X wish to take health insurance coverage quickly without going through a long process of medical examinations, waiting periods and processing delays. Which type of medical policy would you recommend to him?<br><br>I. Medical underwriting policy<br>II. Non medical underwriting policy<br>III. Numerical rating method policy",
+"o": [
+"Only I / ???? I",
+"Only II / ???? II",
+"II and III / II ??? III",
+"I and III / I ??? III",
+"I,II and III / I, II ??? III"
+],
+"a": 1,
+"e": "Correct answer: Only II / ???? II (from the IC27 question bank)."
+},
+{
+"n": 31,
 "topic": "Health Insurance",
 "t": "All of the following statement with regard to claims probability distribution analysis are correct EXCEPT:-",
 "o": [
@@ -409,7 +434,7 @@
 "e": "Correct answer: It helps in calculating the unearned premium reserve at the end of the accounting period, which needs to be shown in the financial statements (from the IC27 question bank)."
 },
 {
-"n": 30,
+"n": 32,
 "topic": "Health Insurance",
 "t": "Which of the following parameters can be used by insurance companies as a trigger to detect fraudulent claims? <BR><BR>I. Medicine bills having distinct serial numbers and not chronologically numbered <BR>II. Costlier investigations carried out without any justification <BR>III. Documentations usually in perfect order",
 "o": [
@@ -423,7 +448,7 @@
 "e": "Correct answer: II and III (from the IC27 question bank)."
 },
 {
-"n": 31,
+"n": 33,
 "topic": "Health Insurance",
 "t": "Which of the following forms the basis of the rate calculation for sum-insured policies?",
 "o": [
@@ -437,7 +462,7 @@
 "e": "Correct answer: Claim probability distribution (from the IC27 question bank)."
 },
 {
-"n": 32,
+"n": 34,
 "topic": "Health Insurance",
 "t": "Policy data table contains information with regard to:- <BR><BR> I. Policy Number <BR>II. Product type  <BR> III. Type of cover",
 "o": [
@@ -451,7 +476,7 @@
 "e": "Correct answer: I,II and III (from the IC27 question bank)."
 },
 {
-"n": 33,
+"n": 35,
 "topic": "Health Insurance",
 "t": "Health insurance products available in the Indian market are primarily dominated by which of the following types of insurance products?",
 "o": [
@@ -465,21 +490,7 @@
 "e": "Correct answer: Hospitalisation Products / ??????????? ?????? (from the IC27 question bank)."
 },
 {
-"topic": "Intermediaries",
-"t": "A corporate agent may tie up with a maximum of how many insurers in each line of business?",
-"o": [
-"3",
-"6",
-"9",
-"Unlimited"
-],
-"a": 2,
-"e": "★ Core fact (asked across III papers). Raised from 3 to 9 insurers per category (life, general, health) by the 2022 amendment to the Corporate Agents Regulations.",
-"r": "core",
-"n": 34
-},
-{
-"n": 35,
+"n": 36,
 "topic": "Health Insurance",
 "t": "Frauds related to increase or decrease in the sum of cover generally happen at:- <BR><BR>I. Proposal and policy stage <BR>II. Claim settlement stage <BR>III. During the contractual period",
 "o": [
@@ -493,7 +504,7 @@
 "e": "Correct answer: Only III (from the IC27 question bank)."
 },
 {
-"n": 36,
+"n": 37,
 "topic": "Health Insurance",
 "t": "Health insurance policies offer the benefits of providing coverage in the event of __________.",
 "o": [
@@ -507,7 +518,7 @@
 "e": "Correct answer: Hospitalisation (from the IC27 question bank)."
 },
 {
-"n": 37,
+"n": 38,
 "topic": "Health Insurance",
 "t": "Identify the correct full form of CGHS.",
 "o": [
@@ -521,7 +532,7 @@
 "e": "Correct answer: Central Government Health Scheme (from the IC27 question bank)."
 },
 {
-"n": 38,
+"n": 39,
 "topic": "Health Insurance",
 "t": "Which of the following factors have a bearing on morbidity rates?<br><br>I. Environment and residence<br>II. Family history<br>III. Occupation",
 "o": [
@@ -535,7 +546,7 @@
 "e": "Correct answer: I,II and III / I, II ??? III (from the IC27 question bank)."
 },
 {
-"n": 39,
+"n": 40,
 "topic": "Health Insurance",
 "t": "How is the Fonasa scheme of Chile funded?",
 "o": [
@@ -549,7 +560,7 @@
 "e": "Correct answer: Funded 50% by the government and 50% through the mandatory contribution by employees and retired people (from the IC27 question bank)."
 },
 {
-"n": 40,
+"n": 41,
 "topic": "Health Insurance",
 "t": "Michael is a citizen of USA, with very low income. Under which health programme will he and his family be covered in?",
 "o": [
@@ -563,7 +574,7 @@
 "e": "Correct answer: MEDICAID (from the IC27 question bank)."
 },
 {
-"n": 41,
+"n": 42,
 "topic": "Health Insurance",
 "t": "Which of the following analysis will help insurer to point out the utilisation level at different sum insured range?",
 "o": [
@@ -577,7 +588,7 @@
 "e": "Correct answer: Claim analysis by sum insured (from the IC27 question bank)."
 },
 {
-"n": 42,
+"n": 43,
 "topic": "Health Insurance",
 "t": "This type of health insurance policy provides for higher cash allowance for accidents or ICU stay apart from the normal benefits. Which type of Policy is this?",
 "o": [
@@ -591,7 +602,7 @@
 "e": "Correct answer: Hospitalisation daily cash allowance Policy (from the IC27 question bank)."
 },
 {
-"n": 43,
+"n": 44,
 "topic": "Health Insurance",
 "t": "Under the RAG analysis which colour is assigned to positive performers in terms of claims?",
 "o": [
@@ -605,7 +616,7 @@
 "e": "Correct answer: Green (from the IC27 question bank)."
 },
 {
-"n": 44,
+"n": 45,
 "topic": "Health Insurance",
 "t": "Which of the following is an example of cost sharing mechanism used by insurance companies? <BR><BR>I. Sub-limits on room and ICU charges <BR>II. Sub-limits on payments made for specific surgeries like cataract or hysterectomy <BR>III. Co-payment for using non-network hospitals",
 "o": [
@@ -619,7 +630,7 @@
 "e": "Correct answer: I,II and III (from the IC27 question bank)."
 },
 {
-"n": 45,
+"n": 46,
 "topic": "Health Insurance",
 "t": "Which of the following statements are false with respect to standard health insurance policies? <BR><BR>I. All Day care procedures are covered under the Policy <BR>II. Diseases already existing at the time of taking the Policy are also covered  <BR>III. Expenses on diseases contracted during initial waiting period shall not be reimbursed",
 "o": [
@@ -631,20 +642,6 @@
 ],
 "a": 0,
 "e": "Correct answer: I and II (from the IC27 question bank)."
-},
-{
-"topic": "Reinsurance",
-"t": "The obligatory cession that Indian general insurers must make to GIC Re is currently:",
-"o": [
-"4%",
-"5%",
-"10%",
-"15%"
-],
-"a": 0,
-"e": "★ Core fact (asked across III papers). The obligatory cession was reduced to 4% from 1 April 2022.",
-"r": "core",
-"n": 46
 },
 {
 "n": 47,

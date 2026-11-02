@@ -128,21 +128,6 @@
 {
 "n": 10,
 "topic": "Life Insurance Finance",
-"t": "For financial year 2012-13, the threshold limit of taxable income for senior citizens (Below 80 years of age) is _____________.",
-"o": [
-"200000",
-"225000",
-"175000",
-"250000",
-"180000"
-],
-"a": 3,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: 250000 (from the IC26 question bank).",
-"r": "key"
-},
-{
-"n": 11,
-"topic": "Life Insurance Finance",
 "t": "Discounted wages model was developed in _______.",
 "o": [
 "1963",
@@ -155,7 +140,7 @@
 "e": "Correct answer: 1971 (from the IC26 question bank)."
 },
 {
-"n": 12,
+"n": 11,
 "topic": "Life Insurance Finance",
 "t": "Concept of insurance is based on the law of _________ numbers.",
 "o": [
@@ -169,7 +154,7 @@
 "e": "Correct answer: Large (from the IC26 question bank)."
 },
 {
-"n": 13,
+"n": 12,
 "topic": "Life Insurance Finance",
 "t": "Which among the following is a feature of whole life insurance plan?",
 "o": [
@@ -183,7 +168,7 @@
 "e": "Correct answer: Provision for old age is totally absent (from the IC26 question bank)."
 },
 {
-"n": 14,
+"n": 13,
 "topic": "Life Insurance Finance",
 "t": "____________ study financial statements to decide when to buy or sell company stock.",
 "o": [
@@ -197,7 +182,7 @@
 "e": "Correct answer: Shareholders (from the IC26 question bank)."
 },
 {
-"n": 15,
+"n": 14,
 "topic": "Life Insurance Finance",
 "t": "Under netting of claim methods, total amount payable less deductions is treated as _______",
 "o": [
@@ -211,22 +196,21 @@
 "e": "Correct answer: Outstanding claim (from the IC26 question bank)."
 },
 {
-"n": 16,
+"n": 15,
 "topic": "Life Insurance Finance",
-"t": "Chapter VI A  payment deductions under sec 80 C, 80 CCC and 80 CCD, are  restricted to Rs. _________ for financial year 2012-13.",
+"t": "What happens in the following case of policy foreclosure? Surrender Value is more than the Policy loan amount and Interest dues and policyholder does not claim the refund:-",
 "o": [
-"75000",
-"125000",
-"150000",
-"80000",
-"100000"
+"Balance is debited to 'Surrender Value Unclaimed A",
+"Balance is credited to 'Surrender Value Unclaimed",
+"Balance is debited to 'Old Outstanding and Unclaim",
+"Balance is refunded to the policyholder",
+"Balance is credited to 'Old Outstanding and Unclai"
 ],
-"a": 4,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: 100000 (from the IC26 question bank).",
-"r": "key"
+"a": 1,
+"e": "Correct answer: Balance is credited to 'Surrender Value Unclaimed (from the IC26 question bank)."
 },
 {
-"n": 17,
+"n": 16,
 "topic": "Life Insurance Finance",
 "t": "Mostly, the standard percentage of first year commission to first year premium should be near _________.",
 "o": [
@@ -240,7 +224,7 @@
 "e": "Correct answer: 25 (from the IC26 question bank)."
 },
 {
-"n": 18,
+"n": 17,
 "topic": "Life Insurance Finance",
 "t": "Risk can be ascertained and measures to mitigate them can be taken with the help of  _______.",
 "o": [
@@ -254,7 +238,7 @@
 "e": "Correct answer: Financial management tools (from the IC26 question bank)."
 },
 {
-"n": 19,
+"n": 18,
 "topic": "Life Insurance Finance",
 "t": "Which of the following errors can happen at balancing stage?",
 "o": [
@@ -268,7 +252,7 @@
 "e": "Correct answer: Wrong totalling (from the IC26 question bank)."
 },
 {
-"n": 20,
+"n": 19,
 "topic": "Life Insurance Finance",
 "t": "Cash sales, other receipts are part of _________.",
 "o": [
@@ -282,7 +266,7 @@
 "e": "Correct answer: Cash inflow (from the IC26 question bank)."
 },
 {
-"n": 21,
+"n": 20,
 "topic": "Life Insurance Finance",
 "t": "Limitations on expenses of management in life insurance business are specified in ________.",
 "o": [
@@ -294,6 +278,20 @@
 ],
 "a": 0,
 "e": "Correct answer: Section 40B of Insurance Act 1938 (from the IC26 question bank)."
+},
+{
+"n": 21,
+"topic": "Life Insurance Finance",
+"t": "Some important guidelines to remember while recording accounting entry INCLUDE:-",
+"o": [
+"At the year end, all debit entries for liquidation of claims under both account heads are set off against credit entries passed at the time of creating liability and the balance amount of outstanding claims is to be arrived at",
+"Claim Account Codes for ordinary policies and grou",
+"Claim payment for ULIP policies is same as ordinar",
+"The balance amount of outstanding claims will be s",
+"While creating liability for net amount of claims"
+],
+"a": 0,
+"e": "Correct answer: At the year end, all debit entries for liquidation of claims under both account heads are set off against credit entries passed at the time of creating liability and the balance amount of outstanding claims is to be arrived at (from the IC26 question bank)."
 },
 {
 "n": 22,
@@ -340,17 +338,16 @@
 {
 "n": 25,
 "topic": "Life Insurance Finance",
-"t": "Life insurance business is taxed at 12.5% of valuation surplus as determined by _____________.",
+"t": "What is the main feature of cash equivalent assets?",
 "o": [
-"Valuers",
-"Actuaries",
-"Tax authorities",
-"MD of the company",
-"IRDA"
+"Items have a present value",
+"Risk of change in value is negligible",
+"Inflows and outflows are equal",
+"Readily convertible to cash and insignificant risk of change in value",
+"Inflows and outflows are not equal"
 ],
-"a": 1,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Actuaries (from the IC26 question bank).",
-"r": "key"
+"a": 3,
+"e": "Correct answer: Readily convertible to cash and insignificant risk of change in value (from the IC26 question bank)."
 },
 {
 "n": 26,
@@ -369,6 +366,20 @@
 {
 "n": 27,
 "topic": "Life Insurance Finance",
+"t": "Which among the following entries need to be recorded in the Deposit Adjustment book? <BR><BR>I: Amount received towards interest on loan taken under a policy etc.  <BR>II: Amount set aside as statutory reserve <BR>III: Amount paid as claim",
+"o": [
+"I only",
+"II only",
+"III only",
+"I and II",
+"I and II and III"
+],
+"a": 0,
+"e": "Correct answer: I only (from the IC26 question bank)."
+},
+{
+"n": 28,
+"topic": "Life Insurance Finance",
 "t": "Determination of replacement cost of an employee is ________.",
 "o": [
 "Relative",
@@ -381,7 +392,7 @@
 "e": "Correct answer: Subjective (from the IC26 question bank)."
 },
 {
-"n": 28,
+"n": 29,
 "topic": "Life Insurance Finance",
 "t": "The ________ is the party who gets his life insured against risks.",
 "o": [
@@ -395,7 +406,7 @@
 "e": "Correct answer: Insured (from the IC26 question bank)."
 },
 {
-"n": 29,
+"n": 30,
 "topic": "Life Insurance Finance",
 "t": "Fund management expenses means ____________.",
 "o": [
@@ -409,7 +420,7 @@
 "e": "Correct answer: Expenses for management of investment funds (from the IC26 question bank)."
 },
 {
-"n": 30,
+"n": 31,
 "topic": "Life Insurance Finance",
 "t": "Income from ___________ is  the only income that is charged on a notional basis",
 "o": [
@@ -423,7 +434,7 @@
 "e": "Correct answer: House Property (from the IC26 question bank)."
 },
 {
-"n": 31,
+"n": 32,
 "topic": "Life Insurance Finance",
 "t": "On receipt of the late fees or balance premiums, the ________ balance is adjusted towards premiums.",
 "o": [
@@ -437,7 +448,7 @@
 "e": "Correct answer: Policy Deposit A/C (from the IC26 question bank)."
 },
 {
-"n": 32,
+"n": 33,
 "topic": "Life Insurance Finance",
 "t": "Accounting  entry, for each type of claims payment, in unit linked health policies, will involve __________.",
 "o": [
@@ -451,7 +462,7 @@
 "e": "Correct answer: Creation of liability and payment of claim (from the IC26 question bank)."
 },
 {
-"n": 33,
+"n": 34,
 "topic": "Life Insurance Finance",
 "t": "Telephone shopee sells a mobile for Rs. 10,000/- to Mrs. Rita, in cash. Identify the entry in Telephone Shopee books",
 "o": [
@@ -465,7 +476,7 @@
 "e": "Correct answer: Cash-Debit; sales-Credit (from the IC26 question bank)."
 },
 {
-"n": 34,
+"n": 35,
 "topic": "Life Insurance Finance",
 "t": "In life insurance business, when the payment to third parties is allowed?",
 "o": [
@@ -479,7 +490,7 @@
 "e": "Correct answer: In death claims payable to legal heir (from the IC26 question bank)."
 },
 {
-"n": 35,
+"n": 36,
 "topic": "Life Insurance Finance",
 "t": "Life insurer should prepare its accounts on quarterly basis in addition to Annual Accounts and submit to IRDA by the following dates for quarter ending June, Sept, Dec, March, by ________.",
 "o": [
@@ -493,21 +504,21 @@
 "e": "Correct answer: 15 Aug, 15 Nov, 15 Feb, 30 Sep (from the IC26 question bank)."
 },
 {
-"topic": "IRDAI – regulator",
-"t": "The control level of solvency ratio that every insurer must maintain is:",
+"n": 37,
+"topic": "Life Insurance Finance",
+"t": "None of the following is a power or function of the IRDAI Except:-<BR><BR>I: Levying fees and other charges for carrying out the purpose of this Act <BR>II: Guarantee superior returns on insurance policies <BR>III: Foster healthy competition in the insurance sector",
 "o": [
-"100%",
-"125%",
-"150%",
-"200%"
+"I only",
+"II only",
+"III only",
+"I and II",
+"II and III"
 ],
-"a": 2,
-"e": "★ Core fact (asked across III papers). Available solvency margin must be at least 150% of the required solvency margin; falling below triggers IRDAI action.",
-"r": "core",
-"n": 36
+"a": 0,
+"e": "Correct answer: I only (from the IC26 question bank)."
 },
 {
-"n": 37,
+"n": 38,
 "topic": "Life Insurance Finance",
 "t": "Profits and gains from 'Other than life insurance business' would be taxed at the _________.",
 "o": [
@@ -521,7 +532,7 @@
 "e": "Correct answer: Normal tax rate (from the IC26 question bank)."
 },
 {
-"n": 38,
+"n": 39,
 "topic": "Life Insurance Finance",
 "t": "Trial balance will not include, which of the following balance?",
 "o": [
@@ -535,7 +546,7 @@
 "e": "Correct answer: Balances of individual creditor accounts (from the IC26 question bank)."
 },
 {
-"n": 39,
+"n": 40,
 "topic": "Life Insurance Finance",
 "t": "___________ is a precise test that indicates whether a firm has enough short-term assets to cover its immediate liabilities without selling inventory.",
 "o": [
@@ -549,7 +560,7 @@
 "e": "Correct answer: Acid test ratio (from the IC26 question bank)."
 },
 {
-"n": 40,
+"n": 41,
 "topic": "Life Insurance Finance",
 "t": "In a balance sheet __________ refers to everything the entity owes to the owners / shareholders including the initial capital contributed by the owners and the profits generated by the business.",
 "o": [
@@ -563,7 +574,7 @@
 "e": "Correct answer: Equity (from the IC26 question bank)."
 },
 {
-"n": 41,
+"n": 42,
 "topic": "Life Insurance Finance",
 "t": "Purchase of capital assets for general use is an example of:-",
 "o": [
@@ -577,7 +588,7 @@
 "e": "Correct answer: Cash outflow from operating activities (from the IC26 question bank)."
 },
 {
-"n": 42,
+"n": 43,
 "topic": "Life Insurance Finance",
 "t": "Goods were sold to Reema, however Rita's account was debited instead of Reema. Which error has taken place?",
 "o": [
@@ -591,7 +602,7 @@
 "e": "Correct answer: Errors of commission (from the IC26 question bank)."
 },
 {
-"n": 43,
+"n": 44,
 "topic": "Life Insurance Finance",
 "t": "In finalisation of accounts, the Auditors will be verifying cash on hand as at close of ________.",
 "o": [
@@ -605,7 +616,7 @@
 "e": "Correct answer: Accounting year (from the IC26 question bank)."
 },
 {
-"n": 44,
+"n": 45,
 "topic": "Life Insurance Finance",
 "t": "Incase of profession, tax audit needs to be carried out if the Total Recipts for AY 2013-14 exceeds Rs. _________.",
 "o": [
@@ -617,20 +628,6 @@
 ],
 "a": 2,
 "e": "Correct answer: 25 lakhs (from the IC26 question bank)."
-},
-{
-"topic": "IRDAI – regulator",
-"t": "The permitted limit of foreign direct investment in an Indian insurance company is currently:",
-"o": [
-"26%",
-"49%",
-"74%",
-"100%"
-],
-"a": 2,
-"e": "★ Core fact (asked across III papers). Raised from 49% to 74% by the Insurance (Amendment) Act 2021; intermediaries may have 100%.",
-"r": "core",
-"n": 45
 },
 {
 "n": 46,

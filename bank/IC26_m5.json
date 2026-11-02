@@ -2,6 +2,20 @@
 {
 "n": 1,
 "topic": "Life Insurance Finance",
+"t": "In case of level premiums, higher premium amount is collected in:-",
+"o": [
+"Later years",
+"Initial years",
+"Cash",
+"Credit",
+"Last year"
+],
+"a": 1,
+"e": "Correct answer: Initial years (from the IC26 question bank)."
+},
+{
+"n": 2,
+"topic": "Life Insurance Finance",
 "t": "In a Private Ltd company Miss Riya has a canteen facility which charges her lunch for Rs.25,000 annually, whereas company spends Rs.40,000 annually for lunch of each employee. What will be the taxable value of perks in hands of Riya?",
 "o": [
 "Rs.40,000/-",
@@ -14,7 +28,21 @@
 "e": "Correct answer: Rs.15,000/- (from the IC26 question bank)."
 },
 {
-"n": 2,
+"n": 3,
+"topic": "Life Insurance Finance",
+"t": "The total value of human resource, can be defined as ___________.",
+"o": [
+"Sum of all cost of all employees",
+"Only sum of training cost",
+"Only sum of development cost",
+"Sum of recruitment cost",
+"Sum of conveyance cost"
+],
+"a": 0,
+"e": "Correct answer: Sum of all cost of all employees (from the IC26 question bank)."
+},
+{
+"n": 4,
 "topic": "Life Insurance Finance",
 "t": "In Insurance accounting, which of the following schedules number is assigned to 'Current liabilities'?",
 "o": [
@@ -28,7 +56,7 @@
 "e": "Correct answer: Schedule 13 (from the IC26 question bank)."
 },
 {
-"n": 3,
+"n": 5,
 "topic": "Life Insurance Finance",
 "t": "Which of the following is one of the rules of personal accounts?",
 "o": [
@@ -42,7 +70,7 @@
 "e": "Correct answer: Credit the giver of the benefit (from the IC26 question bank)."
 },
 {
-"n": 4,
+"n": 6,
 "topic": "Life Insurance Finance",
 "t": "Tax on insurance companies is calculated in accordance with the provisions of which of the following Section?",
 "o": [
@@ -56,7 +84,7 @@
 "e": "Correct answer: 44 read with the first schedule of the income tax (from the IC26 question bank)."
 },
 {
-"n": 5,
+"n": 7,
 "topic": "Life Insurance Finance",
 "t": "The tool in which, calculation of the absolute amount changes and percentage changes from the previous to the current year for a company, is studied through ____________.",
 "o": [
@@ -70,7 +98,7 @@
 "e": "Correct answer: Horizontal analysis (from the IC26 question bank)."
 },
 {
-"n": 6,
+"n": 8,
 "topic": "Life Insurance Finance",
 "t": "From the below given options, identify the correct classification of commission.",
 "o": [
@@ -84,7 +112,7 @@
 "e": "Correct answer: 1st year commission, bonus commission and renewal (from the IC26 question bank)."
 },
 {
-"n": 7,
+"n": 9,
 "topic": "Life Insurance Finance",
 "t": "Presently, Indian Insurance Companies prepare their accounts as per ____________.",
 "o": [
@@ -98,7 +126,7 @@
 "e": "Correct answer: IRDA (Preparation of financial statements and audi (from the IC26 question bank)."
 },
 {
-"n": 8,
+"n": 10,
 "topic": "Life Insurance Finance",
 "t": "Regulation 2 (i) of the IRDA (Registration of Indian Insurance Companies) Regulations, 2000  gives definition of __________",
 "o": [
@@ -112,7 +140,7 @@
 "e": "Correct answer: Linked business (from the IC26 question bank)."
 },
 {
-"n": 9,
+"n": 11,
 "topic": "Life Insurance Finance",
 "t": "Gilt schemes invest major portion of their money, in __________.",
 "o": [
@@ -126,22 +154,7 @@
 "e": "Correct answer: Government securities (from the IC26 question bank)."
 },
 {
-"n": 10,
-"topic": "Life Insurance Finance",
-"t": "For financial year 2012-13, the threshold limit of taxable income for senior citizens (Below 80 years of age) is _____________.",
-"o": [
-"200000",
-"225000",
-"175000",
-"250000",
-"180000"
-],
-"a": 3,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: 250000 (from the IC26 question bank).",
-"r": "key"
-},
-{
-"n": 11,
+"n": 12,
 "topic": "Life Insurance Finance",
 "t": "The two main objective of Asset Liability management are _________ and __________.",
 "o": [
@@ -155,7 +168,21 @@
 "e": "Correct answer: Liquidity and Interest Rate  risk management (from the IC26 question bank)."
 },
 {
-"n": 12,
+"n": 13,
+"topic": "Life Insurance Finance",
+"t": "Identify the feature(s) of moneyback policies. <BR><BR>I: No loan is granted under this plan  <BR>II: Loan facility is available under this policy <BR>III: There is no cash benefit only death benefit",
+"o": [
+"I only",
+"II only",
+"III only",
+"I and II",
+"II and III"
+],
+"a": 0,
+"e": "Correct answer: I only (from the IC26 question bank)."
+},
+{
+"n": 14,
 "topic": "Life Insurance Finance",
 "t": "Pre liberisation, what was one of the main reason due to which many public sector undertakings became sick?",
 "o": [
@@ -169,7 +196,7 @@
 "e": "Correct answer: Labour unrest (from the IC26 question bank)."
 },
 {
-"n": 13,
+"n": 15,
 "topic": "Life Insurance Finance",
 "t": "Creation of proper reserve is done based on the guidelines issued by _________ Authority.",
 "o": [
@@ -183,7 +210,7 @@
 "e": "Correct answer: RBI (from the IC26 question bank)."
 },
 {
-"n": 14,
+"n": 16,
 "topic": "Life Insurance Finance",
 "t": "Income from house property is  the only income that is charged to tax ___________.",
 "o": [
@@ -197,7 +224,7 @@
 "e": "Correct answer: On notional basis (from the IC26 question bank)."
 },
 {
-"n": 15,
+"n": 17,
 "topic": "Life Insurance Finance",
 "t": "None of the following is a power or function of the IRDAI Except:-",
 "o": [
@@ -211,7 +238,21 @@
 "e": "Correct answer: III only (from the IC26 question bank)."
 },
 {
-"n": 16,
+"n": 18,
+"topic": "Life Insurance Finance",
+"t": "Which among the following is true with regards to valuation of equity and derivative instruments?",
+"o": [
+"An impairment loss is not applicable in case of eq",
+"Unrealized gains/losses arising due to change in t",
+"For the purpose of calculation of fair value, the lowest of the last quoted closing price at the stock exchange where the securities are listed shall be taken",
+"Listed equity securities and derivative instrument",
+"The profit/loss on  sale of investments shall excl"
+],
+"a": 2,
+"e": "Correct answer: For the purpose of calculation of fair value, the lowest of the last quoted closing price at the stock exchange where the securities are listed shall be taken (from the IC26 question bank)."
+},
+{
+"n": 19,
 "topic": "Life Insurance Finance",
 "t": "Proposal Deposits which are outstanding for ________ years and more from the date of collection, as at 31<sup>st</sup> March are written back to Revenue Account.",
 "o": [
@@ -225,22 +266,21 @@
 "e": "Correct answer: 2 (from the IC26 question bank)."
 },
 {
-"n": 17,
+"n": 20,
 "topic": "Life Insurance Finance",
-"t": "Chapter VI A  payment deductions under sec 80 C, 80 CCC and 80 CCD, are  restricted to Rs. _________ for financial year 2012-13.",
+"t": "___________ are the specific accounting principles and the methods of applying those principles adopted by an enterprise in the preparation and presentation of financial statements.",
 "o": [
-"75000",
-"125000",
-"150000",
-"80000",
-"100000"
+"Accounting policies",
+"Accounting assumption",
+"Accounting concept",
+"Going concern",
+"Accounting estimates"
 ],
-"a": 4,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: 100000 (from the IC26 question bank).",
-"r": "key"
+"a": 0,
+"e": "Correct answer: Accounting policies (from the IC26 question bank)."
 },
 {
-"n": 18,
+"n": 21,
 "topic": "Life Insurance Finance",
 "t": "____________ is a minimum amount that needs to be paid by the proposer along with the proposal  form.",
 "o": [
@@ -254,7 +294,7 @@
 "e": "Correct answer: Advance Deposit (from the IC26 question bank)."
 },
 {
-"n": 19,
+"n": 22,
 "topic": "Life Insurance Finance",
 "t": "Loan against policies are shown in Balance sheet as _______.",
 "o": [
@@ -268,7 +308,7 @@
 "e": "Correct answer: Asset (from the IC26 question bank)."
 },
 {
-"n": 20,
+"n": 23,
 "topic": "Life Insurance Finance",
 "t": "XYZ ltd received goods in year 12-13, but paid for the same in April 2014 accounting as 2013-14  transaction .This is violation of ________.",
 "o": [
@@ -282,7 +322,7 @@
 "e": "Correct answer: Accrual concept (from the IC26 question bank)."
 },
 {
-"n": 21,
+"n": 24,
 "topic": "Life Insurance Finance",
 "t": "A budgetary  control system is a means of monitoring ________.",
 "o": [
@@ -296,7 +336,7 @@
 "e": "Correct answer: Revenue and cost (from the IC26 question bank)."
 },
 {
-"n": 22,
+"n": 25,
 "topic": "Life Insurance Finance",
 "t": "Identify the advantages of single premium. <BR><BR>I: Prohibitive cost <BR>II: No surrender charges <BR>III: No need to worry about funds every year",
 "o": [
@@ -310,7 +350,7 @@
 "e": "Correct answer: III only (from the IC26 question bank)."
 },
 {
-"n": 23,
+"n": 26,
 "topic": "Life Insurance Finance",
 "t": "Which among the following errors cannot be highlighted by preparing a trial balance?",
 "o": [
@@ -324,7 +364,7 @@
 "e": "Correct answer: Omission (from the IC26 question bank)."
 },
 {
-"n": 24,
+"n": 27,
 "topic": "Life Insurance Finance",
 "t": "The main objective of IFRS 4 is to specify accounting for ___________",
 "o": [
@@ -338,7 +378,7 @@
 "e": "Correct answer: Insurance contracts (from the IC26 question bank)."
 },
 {
-"n": 25,
+"n": 28,
 "topic": "Life Insurance Finance",
 "t": "Given the nature of insurance business, most of the securities are recorded under which category?",
 "o": [
@@ -352,7 +392,7 @@
 "e": "Correct answer: Available for sale (from the IC26 question bank)."
 },
 {
-"n": 26,
+"n": 29,
 "topic": "Life Insurance Finance",
 "t": "Life insurance policy premium can be paid in cash if amount is less than or equal to __________.",
 "o": [
@@ -366,7 +406,7 @@
 "e": "Correct answer: Rs 50000 (from the IC26 question bank)."
 },
 {
-"n": 27,
+"n": 30,
 "topic": "Life Insurance Finance",
 "t": "In case of pension and general annuity business, Government securities investments to be ____________.",
 "o": [
@@ -380,22 +420,7 @@
 "e": "Correct answer: Not less than 20% of fund (from the IC26 question bank)."
 },
 {
-"n": 28,
-"topic": "Life Insurance Finance",
-"t": "Life insurance business is taxed at 12.5% of valuation surplus as determined by _____________.",
-"o": [
-"Valuers",
-"Actuaries",
-"Tax authorities",
-"MD of the company",
-"IRDA"
-],
-"a": 1,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Actuaries (from the IC26 question bank).",
-"r": "key"
-},
-{
-"n": 29,
+"n": 31,
 "topic": "Life Insurance Finance",
 "t": "Which of the following is possibly not a reason for disagreement of balance between Cash book and Bank pass book?",
 "o": [
@@ -409,7 +434,7 @@
 "e": "Correct answer: Cheques presented (from the IC26 question bank)."
 },
 {
-"n": 30,
+"n": 32,
 "topic": "Life Insurance Finance",
 "t": "An entity should apply IFRS 4 to which one of the following?",
 "o": [
@@ -423,7 +448,7 @@
 "e": "Correct answer: Reinsurance contracts (from the IC26 question bank)."
 },
 {
-"n": 31,
+"n": 33,
 "topic": "Life Insurance Finance",
 "t": "All listed entities including ________ and _________ are required to adopt IFRS.",
 "o": [
@@ -437,7 +462,7 @@
 "e": "Correct answer: Banks/insurance companies (from the IC26 question bank)."
 },
 {
-"n": 32,
+"n": 34,
 "topic": "Life Insurance Finance",
 "t": "Cash flows from operating activities are primarily derived from _______",
 "o": [
@@ -451,7 +476,7 @@
 "e": "Correct answer: Principal revenue generating activities (from the IC26 question bank)."
 },
 {
-"n": 33,
+"n": 35,
 "topic": "Life Insurance Finance",
 "t": "In which of following transactions suppliers invoice is the source document for the purchaser?",
 "o": [
@@ -465,7 +490,7 @@
 "e": "Correct answer: Purchases of goods (from the IC26 question bank)."
 },
 {
-"n": 34,
+"n": 36,
 "topic": "Life Insurance Finance",
 "t": "In \"HTM\" classified under IAS 39 category, the debt instruments are held _________.",
 "o": [
@@ -479,21 +504,7 @@
 "e": "Correct answer: Till maturity (from the IC26 question bank)."
 },
 {
-"topic": "Policyholder protection",
-"t": "Under the IRDAI (Protection of Policyholders' Interests) Regulations 2024, the free-look period for a policy with a term of one year or more is:",
-"o": [
-"15 days",
-"30 days",
-"45 days",
-"60 days"
-],
-"a": 1,
-"e": "★ Core fact (asked across III papers). 30 days from receipt of the policy document, irrespective of the sales channel.",
-"r": "core",
-"n": 35
-},
-{
-"n": 36,
+"n": 37,
 "topic": "Life Insurance Finance",
 "t": "A purchase from Rita worth Rs.4500 is recorded as Rs.5400, which type of error is this?",
 "o": [
@@ -507,7 +518,7 @@
 "e": "Correct answer: Transposition error (from the IC26 question bank)."
 },
 {
-"n": 37,
+"n": 38,
 "topic": "Life Insurance Finance",
 "t": "Which of the following category of error would get highlighted in the Trial Balance?",
 "o": [
@@ -521,7 +532,7 @@
 "e": "Correct answer: Posting error (from the IC26 question bank)."
 },
 {
-"n": 38,
+"n": 39,
 "topic": "Life Insurance Finance",
 "t": "The insurer agrees to compensate the insured in consideration of a sum of money  called _______.",
 "o": [
@@ -535,7 +546,7 @@
 "e": "Correct answer: Premium (from the IC26 question bank)."
 },
 {
-"n": 39,
+"n": 40,
 "topic": "Life Insurance Finance",
 "t": "Going concern assumes entity will continue  operation for at-least next _________.",
 "o": [
@@ -549,7 +560,7 @@
 "e": "Correct answer: 12 months (from the IC26 question bank)."
 },
 {
-"n": 40,
+"n": 41,
 "topic": "Life Insurance Finance",
 "t": "Identify the source document relevant to the transaction mentioned here. Transaction: Cash Receipts",
 "o": [
@@ -563,7 +574,7 @@
 "e": "Correct answer: Receipts issued by the entity for cash sales (from the IC26 question bank)."
 },
 {
-"n": 41,
+"n": 42,
 "topic": "Life Insurance Finance",
 "t": "There is a transaction of sale of television for Rs. 50,000/- in cash. Which two operations are involved in this transaction?",
 "o": [
@@ -577,7 +588,7 @@
 "e": "Correct answer: Sale of television and receipt of cash (from the IC26 question bank)."
 },
 {
-"n": 42,
+"n": 43,
 "topic": "Life Insurance Finance",
 "t": "List the main features of unit linked pension plan.",
 "o": [
@@ -591,7 +602,7 @@
 "e": "Correct answer: Policyholders are paid Guaranteed Maturity Value (from the IC26 question bank)."
 },
 {
-"n": 43,
+"n": 44,
 "topic": "Life Insurance Finance",
 "t": "What happens in the following case of policy foreclosure? Balance amount lying for more than three years in 'Surrender Value Unclaimed A/c.'",
 "o": [
@@ -605,7 +616,7 @@
 "e": "Correct answer: Balance is credited to 'Old Outstanding and Unclaimed  Amounts Written Back A/c' (from the IC26 question bank)."
 },
 {
-"n": 44,
+"n": 45,
 "topic": "Life Insurance Finance",
 "t": "Post independence the mixed economy model resulted in ________.",
 "o": [
@@ -619,7 +630,7 @@
 "e": "Correct answer: Slow growth (from the IC26 question bank)."
 },
 {
-"n": 45,
+"n": 46,
 "topic": "Life Insurance Finance",
 "t": "______________ refers to the cost of replacing the set of services required of any incumbent in a  defined position.",
 "o": [
@@ -633,7 +644,7 @@
 "e": "Correct answer: Positional replacement cost (from the IC26 question bank)."
 },
 {
-"n": 46,
+"n": 47,
 "topic": "Life Insurance Finance",
 "t": "When the cash book shows a credit balance, in that case this balance is also known as ________ balance.",
 "o": [
@@ -645,20 +656,6 @@
 ],
 "a": 0,
 "e": "Correct answer: Unfavorable (from the IC26 question bank)."
-},
-{
-"topic": "Policyholder protection",
-"t": "An Insurance Ombudsman can entertain a complaint where the value of the claim, including expenses, does not exceed:",
-"o": [
-"₹20 lakh",
-"₹30 lakh",
-"₹50 lakh",
-"₹1 crore"
-],
-"a": 2,
-"e": "★ Core fact (asked across III papers). The limit was raised to ₹50 lakh by the amended Insurance Ombudsman Rules.",
-"r": "core",
-"n": 47
 },
 {
 "n": 48,

@@ -1,0 +1,702 @@
+[
+{
+"n": 1,
+"topic": "Foundation of Actuarial Science",
+"t": "Find the office annual premium for a capital redemption assurance policy of 4,000 redeemable at the end of 20 years, assuming interest rate of 6% p.a. and a loading of 8% of Office premium.",
+"o": [
+"83.63",
+"111.506666666667",
+"76.94",
+"87",
+"69.4"
+],
+"a": 1,
+"e": "Correct answer: 111.506666666667 (from the IC28 question bank)."
+},
+{
+"n": 2,
+"topic": "Foundation of Actuarial Science",
+"t": "Calculate the accumulated value after 5 years of an investment of 1,000 made now at simple rate of interest of 6% p.a. for first 3 years, reinvested at a simple rate of interest of 7% p.a. for next 2 years.",
+"o": [
+"1382.53",
+"2465",
+"1345.2",
+"5398.8",
+"7708.81"
+],
+"a": 2,
+"e": "Correct answer: 1345.2 (from the IC28 question bank)."
+},
+{
+"n": 3,
+"topic": "Foundation of Actuarial Science",
+"t": "<SUB>n-1</SUB>p<SUB>x+1</SUB> - <SUB>n</SUB>p<SUB>x</SUB> =",
+"o": [
+"(qx) (n-1px+1)",
+"(px) (n-1px+1)",
+"(nqx) (n-1px+1)",
+"(qx) (px+1)",
+"(qx) (n-1px)"
+],
+"a": 0,
+"e": "Correct answer: (qx) (n-1px+1) (from the IC28 question bank)."
+},
+{
+"n": 4,
+"topic": "Foundation of Actuarial Science",
+"t": "Tanya received a 1,000 loan from the bank for a vacation for one year. The bank is uses the 7% simple interest for interest calculation. What is her total interest?",
+"o": [
+"Rs. 3,250",
+"Rs. 3,150",
+"70",
+"Rs. 2,100",
+"Rs. 2,252"
+],
+"a": 2,
+"e": "Correct answer: 70 (from the IC28 question bank)."
+},
+{
+"n": 5,
+"topic": "Foundation of Actuarial Science",
+"t": "Find the accumulated value of 5,200 at the end of 3 years at an eff rate of interest corresponding to nominal rate of discount of 10% p.a. convertible quarterly.",
+"o": [
+"7881.96",
+"5157",
+"6392.5",
+"7975.51",
+"5058"
+],
+"a": 4,
+"e": "Correct answer: 5058 (from the IC28 question bank)."
+},
+{
+"n": 6,
+"topic": "Foundation of Actuarial Science",
+"t": "If two dice are thrown, what is the probability that the sum is equal to 9?",
+"o": [
+"90.625%",
+"25%",
+"75%",
+"50%",
+"11.1111%"
+],
+"a": 4,
+"e": "Correct answer: 11.1111% (from the IC28 question bank)."
+},
+{
+"n": 7,
+"topic": "Foundation of Actuarial Science",
+"t": "This was the last in the series of mortality investigation carried out by LIC for construction of mortality table of assured lives before opening up of the insurance industry in India to the private sector.",
+"o": [
+"1994-96",
+"1961-64",
+"1970-73",
+"1975-79",
+"1981-82"
+],
+"a": 0,
+"e": "Correct answer: 1994-96 (from the IC28 question bank)."
+},
+{
+"n": 8,
+"topic": "Foundation of Actuarial Science",
+"t": "You would like to have enough money saved to receive a growing perpetuity, growing at a rate of 4% per year, the first payment being 60,000, after retirement so that you and your family can lead a good life. How much would you need to save in your retirement fund to achieve this goal (assume that the growing perpetuity payments start one year from the date of your retirement. The interest rate is 8%)?",
+"o": [
+"7500000",
+"1500000",
+"600000",
+"100000",
+"None of the above"
+],
+"a": 1,
+"e": "Correct answer: 1500000 (from the IC28 question bank)."
+},
+{
+"n": 9,
+"topic": "Foundation of Actuarial Science",
+"t": "Given P(A) = 0.30, P(B) = 0.78, P(A&#8745;B) = 0.16. Evaluate P(A<SUP>c</SUP>&#8745;B<SUP>c</SUP>).",
+"o": [
+"1.92308%",
+"25%",
+"24.7253%",
+"8.24176%",
+"8%"
+],
+"a": 4,
+"e": "Correct answer: 8% (from the IC28 question bank)."
+},
+{
+"n": 10,
+"topic": "Foundation of Actuarial Science",
+"t": "For T, the future lifetime random variable for (0): Ï‰ &gt; 70, <SUB>40</SUB>p<SUB>0</SUB> = 0.6, E(T) = 62, E(T = t) = t - 0.005t<SUP>2</SUP> , 0 &lt; t &lt; 60. Calculate the complete expectation of life at 40.",
+"o": [
+"30",
+"35",
+"40",
+"45",
+"50"
+],
+"a": 4,
+"e": "Correct answer: 50 (from the IC28 question bank)."
+},
+{
+"n": 11,
+"topic": "Foundation of Actuarial Science",
+"t": "List the data required for the calculation of the exposed to risk of lives aged x last birthday in a mortality investigation over the two-year period from 1 January 2006 to 1 January 2008.",
+"o": [
+"Date of birth",
+"Date of joining the investigation (if after 1 Janu",
+"Date of leaving the investigation (if before 1 Jan",
+"Reason for leaving the investigation (ie death or",
+"All of the above"
+],
+"a": 4,
+"e": "Correct answer: All of the above (from the IC28 question bank)."
+},
+{
+"n": 12,
+"topic": "Foundation of Actuarial Science",
+"t": "A company is due to receive a payment of 600,000 from a customer in 5 months' time. To smooth its cashflows, the Company would prefer to receive the payment immediately, and has agreed to transfer its entitlement to this payment to a third party (a discount house) in return for an immediate payment calculated using a rate of commercial discount of 17% per annum. How much will the immediate payment made by the discount house be?",
+"o": [
+"460000",
+"560961",
+"541048",
+"557500",
+"685865"
+],
+"a": 3,
+"e": "Correct answer: 557500 (from the IC28 question bank)."
+},
+{
+"n": 13,
+"topic": "Foundation of Actuarial Science",
+"t": "How many deaths were recorded for Northampton table investigation?",
+"o": [
+"7351",
+"5156",
+"4689",
+"6110",
+"2051"
+],
+"a": 2,
+"e": "Correct answer: 4689 (from the IC28 question bank)."
+},
+{
+"n": 14,
+"topic": "Foundation of Actuarial Science",
+"t": "Find the middle term in the expansion of (4x - y)<SUP>8</SUP>.",
+"o": [
+"17,920xy4",
+"17,920x4y",
+"17,920xy",
+"7,920x4y4",
+"17,920x4y4"
+],
+"a": 4,
+"e": "Correct answer: 17,920x4y4 (from the IC28 question bank)."
+},
+{
+"n": 15,
+"topic": "Foundation of Actuarial Science",
+"t": "A dormitory on campus houses 200 students.  120 are male, 50 are upper division students, and 40 are upper division male students.  A student is selected at random. The probability of selecting a lower division student, given the student is a female, is:-",
+"o": [
+"2017-07-08 00:00:00",
+"2017-07-15 00:00:00",
+"2017-02-05 00:00:00",
+"2017-07-20 00:00:00",
+"2017-01-04 00:00:00"
+],
+"a": 0,
+"e": "Correct answer: 2017-07-08 00:00:00 (from the IC28 question bank)."
+},
+{
+"n": 16,
+"topic": "Foundation of Actuarial Science",
+"t": "A loan of 2,500 is to be repaid by level annual instalments of principal and interest over a period of 13 years, the rate of interest being 10% p.a. Find the interest contained in the 6<SUP>th</SUP> payment.",
+"o": [
+"187.759600962309",
+"185.04",
+"351.94413942619",
+"488.1",
+"137.9"
+],
+"a": 0,
+"e": "Correct answer: 187.759600962309 (from the IC28 question bank)."
+},
+{
+"n": 17,
+"topic": "Foundation of Actuarial Science",
+"t": "A bank offers 5% compound interest calculated on half-yearly basis. A customer deposits 1600 each on 1stJanuary and 1ST July of a year. At the end of the year, the amount he would have gained by way of interest is:-",
+"o": [
+"Rs. 120",
+"Rs. 121",
+"Rs. 122",
+"Rs. 123",
+"Rs. 125"
+],
+"a": 1,
+"e": "Correct answer: Rs. 121 (from the IC28 question bank)."
+},
+{
+"n": 18,
+"topic": "Foundation of Actuarial Science",
+"t": "This provides cover for a specified period of term only, and may also be described as temporary insurance.",
+"o": [
+"Endowment insurance",
+"Whole life insurance",
+"Universal life insurance",
+"Annuity",
+"Term insurance"
+],
+"a": 4,
+"e": "Correct answer: Term insurance (from the IC28 question bank)."
+},
+{
+"n": 19,
+"topic": "Foundation of Actuarial Science",
+"t": "While preparing LIC a(1996-98), the following data was considered.",
+"o": [
+"Medically examined male lives and lives under Chil",
+"The policies issued to males under Non-medical (Ge",
+"The policies issued to males under Non-medical (Sp",
+"Group immediate annuities purchased compulsorily by employers' superannuation schemes",
+"None of the above"
+],
+"a": 3,
+"e": "Correct answer: Group immediate annuities purchased compulsorily by employers' superannuation schemes (from the IC28 question bank)."
+},
+{
+"n": 20,
+"topic": "Foundation of Actuarial Science",
+"t": "Suppose the rate of interest is 5% p.a. for the first 8 years. After 8 years, it is 6% p.a. Find the present value of an immediate annuity of 8 p.a. for 13 years.",
+"o": [
+"82.357441540782",
+"39.927",
+"74.514566528",
+"83.605",
+"85.666"
+],
+"a": 2,
+"e": "Correct answer: 74.514566528 (from the IC28 question bank)."
+},
+{
+"n": 21,
+"topic": "Foundation of Actuarial Science",
+"t": "The net yield on a life assurance fund for the year 1979 was 11% according to the usual formula. The amount of the fund was 8.7 crores at the beginning of the year and 24.3 crores at the end. What was the net interest income for the year assuming cash-flows during the middle of the year?",
+"o": [
+"2 crores",
+"6 crores",
+"1.80 crores",
+"5.3 crores",
+"7 crores"
+],
+"a": 2,
+"e": "Correct answer: 1.80 crores (from the IC28 question bank)."
+},
+{
+"n": 22,
+"topic": "Foundation of Actuarial Science",
+"t": "The value of the assets held by a pension fund on 1 January 2010 was 10 million. On 30 April 2010, the value of the assets had fallen to 8.5 million. On 1 May 2010, the fund received a contribution payment of 7.5 million and paid out 2 million in benefits. On 31 December 2010, the value of the fund was 17.1 million. Calculate the annual effective Time-Weighted Rate of Return (TWRR) for 2010.",
+"o": [
+"1.1%p.a.",
+"8.17%p.a.",
+"3.821%p.a.",
+"6.119%p.a.",
+"9.6%p.a."
+],
+"a": 2,
+"e": "Correct answer: 3.821%p.a. (from the IC28 question bank)."
+},
+{
+"n": 23,
+"topic": "Foundation of Actuarial Science",
+"t": "Non par term insurance policy was effected on 10.12.1970 for 1,000 under which quarterly premium of 10 was payable. The life assured died on 17.3.1982, the quarterly premium due on 10.3.1982 having been paid. What is the claim amount payable?",
+"o": [
+"1000",
+"980",
+"990",
+"970",
+"960"
+],
+"a": 1,
+"e": "Correct answer: 980 (from the IC28 question bank)."
+},
+{
+"n": 24,
+"topic": "Foundation of Actuarial Science",
+"t": "A computer dealer offers to lease a system to you for 50 per month for two years. If the going interest rate is 12%, find the present value of the lease payments.",
+"o": [
+"1393.78",
+"1062.17",
+"1155.95",
+"2061.82",
+"1225.53"
+],
+"a": 1,
+"e": "Correct answer: 1062.17 (from the IC28 question bank)."
+},
+{
+"n": 25,
+"topic": "Foundation of Actuarial Science",
+"t": "What is the present value of 550 due at the end of 9 years, the rate of interest being 5.5% for first 3 years from now and 6% convertible halfy-yearly for the next 6 years?",
+"o": [
+"328.517579365772",
+"286",
+"510.1",
+"521.49",
+"531.11"
+],
+"a": 0,
+"e": "Correct answer: 328.517579365772 (from the IC28 question bank)."
+},
+{
+"n": 26,
+"topic": "Foundation of Actuarial Science",
+"t": "The probability that life aged 31 survives 9 years and dies in the 10<SUP>th</SUP> or 11<SUP>th</SUP> year can be expressed as:-",
+"o": [
+"(l40-l42)",
+"(l40/l31)",
+"d40/l31",
+"d42/l31",
+"(l40-l42)/l31"
+],
+"a": 4,
+"e": "Correct answer: (l40-l42)/l31 (from the IC28 question bank)."
+},
+{
+"n": 27,
+"topic": "Foundation of Actuarial Science",
+"t": "Insurance as a protection against natural calamities was first conceived by:-",
+"o": [
+"Miners",
+"Firefighters",
+"Businessmen",
+"Propert owners",
+"Adventurous travellers of the sea"
+],
+"a": 4,
+"e": "Correct answer: Adventurous travellers of the sea (from the IC28 question bank)."
+},
+{
+"n": 28,
+"topic": "Foundation of Actuarial Science",
+"t": "Find the surrender value payable immediately after payment of the 7<SUP>th</SUP> premium, if as per the terms of the contract the net premiums excluding the first accumulated at 7% are returnable in the event of surrender. Assume the annual net premium is 400.",
+"o": [
+"2740.2",
+"2861.32",
+"3965",
+"3744.2",
+"2640.36"
+],
+"a": 1,
+"e": "Correct answer: 2861.32 (from the IC28 question bank)."
+},
+{
+"n": 29,
+"topic": "Foundation of Actuarial Science",
+"t": "An annuity of 1 p.a. which starts after t years and is payable to a person aged x during his lifetime is known as:-",
+"o": [
+"Immediate annuity",
+"Deferred life annuity",
+"Annuity due",
+"Endowment assurance",
+"Educational annuity"
+],
+"a": 1,
+"e": "Correct answer: Deferred life annuity (from the IC28 question bank)."
+},
+{
+"n": 30,
+"topic": "Foundation of Actuarial Science",
+"t": "What is the probability of getting 53 Sundays in a leap year.",
+"o": [
+"11.1111%",
+"28.5714%",
+"90.625%",
+"25%",
+"75%"
+],
+"a": 1,
+"e": "Correct answer: 28.5714% (from the IC28 question bank)."
+},
+{
+"n": 31,
+"topic": "Foundation of Actuarial Science",
+"t": "The total population of a city is 90 lakhs. On the assumption that it is a stationary population experiencing H<SUP>M</SUP> mortality, find the number of persons who are aged 25 years or more but less than 45 years.",
+"o": [
+"9262373",
+"4912914.8",
+"8043491",
+"7959279.3",
+"2542944.6"
+],
+"a": 4,
+"e": "Correct answer: 2542944.6 (from the IC28 question bank)."
+},
+{
+"n": 32,
+"topic": "Foundation of Actuarial Science",
+"t": "Find the present value of an annuity-immediate of 100 per quarter for 4 years, if interest is compounded semiannually at the nominal rate of 6%.",
+"o": [
+"1491",
+"1016.4",
+"1009.11",
+"1414.27",
+"1062"
+],
+"a": 3,
+"e": "Correct answer: 1414.27 (from the IC28 question bank)."
+},
+{
+"n": 33,
+"topic": "Foundation of Actuarial Science",
+"t": "The following payments are received: 60 at time 1, 50 at time 2, 40 at time 3 etc. The last payment is received at time 5. Calculate the present value of the payments at 5% rate of interest.",
+"o": [
+"349.71",
+"521.8",
+"580.67",
+"177.39525727255",
+"290.4"
+],
+"a": 3,
+"e": "Correct answer: 177.39525727255 (from the IC28 question bank)."
+},
+{
+"n": 34,
+"topic": "Foundation of Actuarial Science",
+"t": "Aashi has taken a loan of 1,000 at a rate of interest 5% p.a. payable half-yearly. She repaid 200 after 3 years, 600 after a further 2 years and cleared outstanding dues at the end of 7 years from the commencement of the transaction. What was the final payment made by her?",
+"o": [
+"507",
+"1412.97382097377",
+"243.680579501984",
+"695.816050927734",
+"1475.67"
+],
+"a": 0,
+"e": "Correct answer: 507 (from the IC28 question bank)."
+},
+{
+"n": 35,
+"topic": "Foundation of Actuarial Science",
+"t": "Calculate net annual premium under a Special Endowment Assurance for 15,000 on (36) for 19 years. In the event of death during the first 9 years total premiums paid are returnable, and in the event of death during the last 10 years or on survivance to the end of 19 years, the basic sum assured becomes payable. Basis: IALM (1994-96) and 4% interest.",
+"o": [
+"315.36",
+"589.06",
+"492.22",
+"362.89",
+"414.402723540451"
+],
+"a": 4,
+"e": "Correct answer: 414.402723540451 (from the IC28 question bank)."
+},
+{
+"n": 36,
+"topic": "Foundation of Actuarial Science",
+"t": "Using IALM (1994-96) ultimate mortality table, calculate the present value of a Pure Endowment of 1,300 for a person aged 20 receivable on attaing age 38. Assume that the rate of interest is 6% p.a.",
+"o": [
+"499",
+"332.1",
+"445.695479275251",
+"321.59",
+"586"
+],
+"a": 2,
+"e": "Correct answer: 445.695479275251 (from the IC28 question bank)."
+},
+{
+"n": 37,
+"topic": "Foundation of Actuarial Science",
+"t": "A person aged 53 desires to purchase an immediate annuity payable quarterly in arrear for life. Calculate the quartely instalment of the annuity that can be purchased by a single premium of <IMG border=0 hspace=0 alt=\"\" align=absMiddle src=\"/Attest1_res/topicresources/856348264/III_Rs_Symbol.jpg\" width=12 height=15>14,000. Basis: LIC(a)(1996-98) table and 8% interest.",
+"o": [
+"403.75",
+"304.35",
+"561.51",
+"377.73",
+"333.331891212304"
+],
+"a": 4,
+"e": "Correct answer: 333.331891212304 (from the IC28 question bank)."
+},
+{
+"n": 38,
+"topic": "Foundation of Actuarial Science",
+"t": "Actuarial students study group had a fund balance of 75 on January 1 and 60 on December 31 in a particular calendar year. At the end of every month during the year, the group deposited 10 from membership fees. There were withdrawals of 5 on February 28, 25 on June 30, 80 on October 15, and 35 on October 31. Calculate the money-weighted rate of return for the year.",
+"o": [
+"7%",
+"11%",
+"5%",
+"6%",
+"12%"
+],
+"a": 1,
+"e": "Correct answer: 11% (from the IC28 question bank)."
+},
+{
+"n": 39,
+"topic": "Foundation of Actuarial Science",
+"t": "Mortality for Frodo, age 33, is usually such that: tpx = [(110-x-t)/(110-x)]2 for 0  &#8804; t  &#8804; 110-x. However, Frodo has decided to embark on a dangerous quest that will last for the next three years (starting today). During these three years only, Frodo's mortality will be revised so that he will have a constant force of mortality of 0.2 for each year. After the quest, Frodo's mortality will once again follow the above expression for tpx. Calculate Frodo's revised complete expectation of life.",
+"o": [
+"15.2",
+"15.4",
+"15.6",
+"15.8",
+"16"
+],
+"a": 3,
+"e": "Correct answer: 15.8 (from the IC28 question bank)."
+},
+{
+"n": 40,
+"topic": "Foundation of Actuarial Science",
+"t": "Given l<SUB>35</SUB>=969,861; l<SUB>45</SUB>=950,446 &amp; l<SUB>50</SUB>=932,218. Find the probability that a life aged 35 will not die between 45 and 50.",
+"o": [
+"1.88%",
+"90%",
+"69%",
+"98.12%",
+"86.1%"
+],
+"a": 3,
+"e": "Correct answer: 98.12% (from the IC28 question bank)."
+},
+{
+"n": 41,
+"topic": "Foundation of Actuarial Science",
+"t": "Vivek has loaned you 1,000. The interest rate you must pay is 20%, compounded monthly. The loan will be repaid by making 24 equal monthly payments. What is the amount of each monthly payment?",
+"o": [
+"58",
+"50.9",
+"90.2",
+"101.66",
+"62"
+],
+"a": 1,
+"e": "Correct answer: 50.9 (from the IC28 question bank)."
+},
+{
+"n": 42,
+"topic": "Foundation of Actuarial Science",
+"t": "If d denotes the rate of discount corresponding to rate of interest i p.a., then d=",
+"o": [
+"1+i",
+"1(1+i)",
+"v-1",
+"i",
+"1-v"
+],
+"a": 4,
+"e": "Correct answer: 1-v (from the IC28 question bank)."
+},
+{
+"n": 43,
+"topic": "Foundation of Actuarial Science",
+"t": "When grouping is according to age next birthday, q<SUB>x</SUB> pertains to age:-",
+"o": [
+"x+1",
+"x-1",
+"x",
+"x+0.5",
+"x-0.5"
+],
+"a": 3,
+"e": "Correct answer: x+0.5 (from the IC28 question bank)."
+},
+{
+"n": 44,
+"topic": "Foundation of Actuarial Science",
+"t": "In 'The Seventeen Offices Table', the mortality rates for female lives were found to be heavier than male lives up to age:-",
+"o": [
+"70",
+"60",
+"50",
+"55",
+"65"
+],
+"a": 2,
+"e": "Correct answer: 50 (from the IC28 question bank)."
+},
+{
+"n": 45,
+"topic": "Foundation of Actuarial Science",
+"t": "The life Assurance Fund at the beginning of a certain year is 22,000,000 and at the end of the year after tax provision is 24,800,000. The gross interest credited is 2,102,000 and the net interest 1,300,800. Find the gross rate of interest earned by the insurer in the year.",
+"o": [
+"9.6%",
+"9.23972289622675E-02",
+"3.3%",
+"7.25%",
+"2.293%"
+],
+"a": 1,
+"e": "Correct answer: 9.23972289622675E-02 (from the IC28 question bank)."
+},
+{
+"n": 46,
+"topic": "Foundation of Actuarial Science",
+"t": "Vinay is quoted a nominal interest rate of 9.15% per annum compounded every four months on her investment of 85,000. Calculate the effective rate per annum.",
+"o": [
+"10.5%",
+"9.4%",
+"9.99%",
+"4.92%",
+"11.13%"
+],
+"a": 1,
+"e": "Correct answer: 9.4% (from the IC28 question bank)."
+},
+{
+"n": 47,
+"topic": "Foundation of Actuarial Science",
+"t": "To compute the single premium for this annuity, the seller uses projected mortality and assumes mortality rates will decrease at a rate of 1.5% per year. Interest rate: 5.0% per year, compounded annually. In what range is the single premium for this annuity?",
+"o": [
+"Less than Rs. 180,000",
+"Rs. 180,000 but less than Rs. 181,550",
+"Rs. 181,550 but less than Rs. 183,100",
+"Rs. 183,100 but less than Rs. 184,650",
+"Rs. 184,650 or more"
+],
+"a": 2,
+"e": "Correct answer: Rs. 181,550 but less than Rs. 183,100 (from the IC28 question bank)."
+},
+{
+"n": 48,
+"topic": "Foundation of Actuarial Science",
+"t": "A loan is repaid with level annual payments based on an annual effective interest rate of 7%. The 8<SUP>th</SUP> payment consists of 789 of interest and 211 of principal. Calculate the amount of interest paid in the 18<SUP>th</SUP> payment.",
+"o": [
+"585",
+"415",
+"100",
+"211",
+"789"
+],
+"a": 0,
+"e": "Correct answer: 585 (from the IC28 question bank)."
+},
+{
+"n": 49,
+"topic": "Foundation of Actuarial Science",
+"t": "Calculate the single premium payable by a life now aged exactly 34 in respect of a deferred annuity payable from age 58 for life. The amount of the annuity is 600 pa, payable annually in advance. Basis: LIC (a) (1996-98) Ultimate table, 8% p.a. interest.",
+"o": [
+"2929",
+"1961.4",
+"1057.13",
+"909.138443917699",
+"4159"
+],
+"a": 3,
+"e": "Correct answer: 909.138443917699 (from the IC28 question bank)."
+},
+{
+"n": 50,
+"topic": "Foundation of Actuarial Science",
+"t": "A loan of 6,000 is to be repaid, with interest at a rate of 5% p.a. by 20 level annual payments, the first payment being made at the end of the first year. Immediately after the 10<SUP>th</SUP> payment has been made the borrower requests the lender for extension of the term of the loan by another four years. What is the revised annual payment to be made during the next 14 years on the assumption that the lender now decided to realise an interest of 7% p.a. hence forward?",
+"o": [
+"425.093842363723",
+"481",
+"455.9",
+"227.37",
+"176"
+],
+"a": 0,
+"e": "Correct answer: 425.093842363723 (from the IC28 question bank)."
+}
+]

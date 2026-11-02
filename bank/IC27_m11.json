@@ -1,0 +1,701 @@
+[
+{
+"n": 1,
+"topic": "Health Insurance",
+"t": "Identify the statements that are false with respect to the Health Insurance system of Thailand.<br><br>I. There are three main insurance schemes in Thailand<br>II. Establishments with more than 30 employees are covered under the SSS Scheme<br>III. The unemployed citizens of the country are not covered under any health insurance scheme",
+"o": [
+"Only I / ???? I",
+"I and II / I ??? II",
+"Only III / ???? III",
+"I, II and III / I, II ??? III",
+"II and III / II ??? III"
+],
+"a": 4,
+"e": "Correct answer: II and III / II ??? III (from the IC27 question bank)."
+},
+{
+"n": 2,
+"topic": "Health Insurance",
+"t": "For Claim analysis by age bands which of the following statement is correct?",
+"o": [
+"This analysis will help insurer to point out the u",
+"This analysis helps in identifying the frequency and severity of claims from different age bands",
+"This analysis will help insurers pointing out the",
+"This analysis can show the distribution of number"
+],
+"a": 1,
+"e": "Correct answer: This analysis helps in identifying the frequency and severity of claims from different age bands (from the IC27 question bank)."
+},
+{
+"n": 3,
+"topic": "Health Insurance",
+"t": "XYZ Insurance Company has entered into a reinsurance contract where all premiums above a certain amount is ceded to the reinsurer and all claims corresponding above the same amount are received from the reinsurer. What form of reinsurance contract has been signed by XYZ Insurance Company?",
+"o": [
+"Quota share reinsurance",
+"Surplus share reinsurance",
+"Excess of loss reinsurance",
+"White labelling",
+"Social reinsurance"
+],
+"a": 1,
+"e": "Correct answer: Surplus share reinsurance (from the IC27 question bank)."
+},
+{
+"n": 4,
+"topic": "Health Insurance",
+"t": "A phenomenon under which a consumer with a health insurance will make use of and accept more health services than he would have otherwise taken without any health insurance is known as __________.",
+"o": [
+"Supply side moral hazard",
+"Social  moral hazard",
+"Demand side moral hazard",
+"Economic moral hazard",
+"Conventional moral hazard"
+],
+"a": 2,
+"e": "Correct answer: Demand side moral hazard (from the IC27 question bank)."
+},
+{
+"n": 5,
+"topic": "Health Insurance",
+"t": "Arrange the health institutions in order of their size (Starting from small to big) <BR><BR>I. Primary health centres <BR>II. Sub Centres <BR>III. Community health centres",
+"o": [
+"I, II and III",
+"I, III and II",
+"II, I and III",
+"II, III and I",
+"III, I and II"
+],
+"a": 2,
+"e": "Correct answer: II, I and III (from the IC27 question bank)."
+},
+{
+"n": 6,
+"topic": "Health Insurance",
+"t": "Which of the following are the main features of the healthcare system in Chile? <BR><BR>I. The establishment of the National Health Fund (Fonasa) to administer the social health insurance scheme <BR>II. The establishment of Health Insurance Institutions, Isapres for the private sector players <BR>III. The mandatory contribution by each employee and pensioner, equivalent to 7% of their wages towards healthcare system",
+"o": [
+"Only I",
+"I and II",
+"Only III",
+"I, II and III",
+"II and III"
+],
+"a": 3,
+"e": "Correct answer: I, II and III (from the IC27 question bank)."
+},
+{
+"n": 7,
+"topic": "Health Insurance",
+"t": "Identify the claims that is typically reinsured only at portfolio level? <BR><BR>I. High severity and low frequency <BR>II. Low severity and low frequency <BR>III. High severity and high frequency <BR>IV. Low severity and high frequency",
+"o": [
+"Only I",
+"Only IV",
+"I,II and III",
+"II,III and IV",
+"I,II,III and IV"
+],
+"a": 1,
+"e": "Correct answer: Only IV (from the IC27 question bank)."
+},
+{
+"n": 8,
+"topic": "Health Insurance",
+"t": "All of the following statements are TRUE with regard to Daily hospital cash benefit EXCEPT:-",
+"o": [
+"These are new innovative products available in the",
+"These products could be used to cover the unexpect",
+"It provides the insured with a daily cash benefit",
+"The premium of this product is decided on the basis of the deductible amount selected by insured",
+"This policy covers medical or non-medical expenses"
+],
+"a": 3,
+"e": "Correct answer: The premium of this product is decided on the basis of the deductible amount selected by insured (from the IC27 question bank)."
+},
+{
+"n": 9,
+"topic": "Health Insurance",
+"t": "Which one of the following is not a feature of the health insurance policy introduced in 1986?",
+"o": [
+"It provides coverage for hospitalisation expenses",
+"It has a pre-defined limit / ?? ??? ??????????????",
+"It excludes pre existing diseases / ???? ?? ??????",
+"It includes maternity / ??????? ?? ????? ???? ???",
+"The limit set is for an annual period / ??????? ??"
+],
+"a": 3,
+"e": "Correct answer: It includes maternity / ??????? ?? ????? ???? ??? (from the IC27 question bank)."
+},
+{
+"n": 10,
+"topic": "Health Insurance",
+"t": "Which of the following statement best describes \"IBNR claims\"?",
+"o": [
+"This is total number of claims settled by the end",
+"Reserving for the claims which are incurred but not reported at the end of the accounting period",
+"The distribution of the number of claims paid and",
+"This is the number of people covered in different",
+"The portion of an insurance written premium which"
+],
+"a": 1,
+"e": "Correct answer: Reserving for the claims which are incurred but not reported at the end of the accounting period (from the IC27 question bank)."
+},
+{
+"n": 11,
+"topic": "Health Insurance",
+"t": "Which of the following healthcare initiatives taken by the government aim to reduce the gap between healthcare services provided in rural and urban areas?",
+"o": [
+"Central Government Health Scheme",
+"Accredited Social Health Association",
+"National Rural Heath Mission",
+"Employees State Insurance Scheme",
+"Mediclaim"
+],
+"a": 2,
+"e": "Correct answer: National Rural Heath Mission (from the IC27 question bank)."
+},
+{
+"n": 12,
+"topic": "Health Insurance",
+"t": "________________ is a process of risk selection which is based upon the characteristics of a group or individual.",
+"o": [
+"Underwriting",
+"Risk selection",
+"Risk assessment",
+"Risk avoidance",
+"Adverse selection"
+],
+"a": 0,
+"e": "Correct answer: Underwriting (from the IC27 question bank)."
+},
+{
+"n": 13,
+"topic": "Health Insurance",
+"t": "Which of the following statements are false with respect to investment risks associated with health insurance market? <BR><BR>I. The occurrence of this type of risk depends on the mix of investment options chosen by the insurer, as also the overall environment in the economy.  <BR>II. Underwriting practices and risk appetite of the insurer give rise to this type of risk  <BR>III. Even if the insurer is profitable, there can still be a mismatch between the cash flows, and current assets and liabilities.",
+"o": [
+"Only I",
+"Only II",
+"I and II",
+"II and III",
+"I, II, and III"
+],
+"a": 3,
+"e": "Correct answer: II and III (from the IC27 question bank)."
+},
+{
+"n": 14,
+"topic": "Health Insurance",
+"t": "X applies for a health insurance policy from ABC ltd.  X had to submit his medical reports which were examined and analysed by ABC Ltd before issuing health policy to X.  Which underwriting method was used in this case?",
+"o": [
+"Medical Underwriting",
+"Non medical underwriting",
+"Numeric rating method",
+"Law of Average method",
+"Law of deviation method"
+],
+"a": 0,
+"e": "Correct answer: Medical Underwriting (from the IC27 question bank)."
+},
+{
+"n": 15,
+"topic": "Health Insurance",
+"t": "Read the statement below to identify the type of risk associated to health insurance industry. \"As in any other business with financial dealings, there is risk of default by business associates like providers, suppliers and reinsurers.",
+"o": [
+"Insurance risk",
+"Investment risk",
+"Credit risk",
+"Liquidity risk",
+"Business environment risk"
+],
+"a": 2,
+"e": "Correct answer: Credit risk (from the IC27 question bank)."
+},
+{
+"n": 16,
+"topic": "Health Insurance",
+"t": "Which of the following are the causes of information asymmetry in case of imperfections in health insurance market. <BR><BR>I. The information available to both insurer and insured about each other is either incomplete or not completely transparent <BR>II. The insured's mostly do not understand the exact interpretation, meaning and coverage of their contract <BR>III. Insurer is sometimes not fully aware about the likely risk to a person's health",
+"o": [
+"I and II",
+"II and III",
+"I, II and III",
+"Only I",
+"Only II"
+],
+"a": 2,
+"e": "Correct answer: I, II and III (from the IC27 question bank)."
+},
+{
+"n": 17,
+"topic": "Health Insurance",
+"t": "Which of the following frauds take place at the proposal and policy stage? <BR><BR>I. Cash defalcation <BR>II. Providing erroneous address to claim benefit <BR>III. Sum assured alterations",
+"o": [
+"Only I",
+"Only II",
+"Only III",
+"I and II",
+"II and III"
+],
+"a": 0,
+"e": "Correct answer: Only I (from the IC27 question bank)."
+},
+{
+"n": 18,
+"topic": "Health Insurance",
+"t": "Frauds related to submission of false claims to seek benefit generally happen at:- <BR><BR>I. Proposal and policy stage <br>II.Claim settlement stage <BR>III. During the contractual period",
+"o": [
+"Only I",
+"Only II",
+"Only III",
+"I and II",
+"II and III"
+],
+"a": 1,
+"e": "Correct answer: Only II (from the IC27 question bank)."
+},
+{
+"n": 19,
+"topic": "Health Insurance",
+"t": "Fixed benefits cover:- <BR><BR>I. Pay a fixed amount - usually per day of hospitalisation <BR>II. Pays for the cost of the ailment or disease <BR>III. Pays for the loss of earnings / lifestyle associated with the onset or diagnosis of a disease",
+"o": [
+"Only I",
+"Only III",
+"I and II",
+"II and III",
+"I,II and III"
+],
+"a": 0,
+"e": "Correct answer: Only I (from the IC27 question bank)."
+},
+{
+"n": 20,
+"topic": "Health Insurance",
+"t": "Identify among the following the most dominated insurance product in the Indian market.<BR><BR>I. Hospitalisation insurance<BR>II. Overseas travel insurance<BR>III. Maternity insurance",
+"o": [
+"Both I and II / I ??? II ?????",
+"Both II and III / II ??? III ?????",
+"Only I / ???? I",
+"Only II / ???? II",
+"Only III / ???? III"
+],
+"a": 2,
+"e": "Correct answer: Only I / ???? I (from the IC27 question bank)."
+},
+{
+"n": 21,
+"topic": "Health Insurance",
+"t": "Which of the following parameters in analysis is used to study the percentage share of number of people for the corresponding product categories in proportion to the total number of people?",
+"o": [
+"Earned premium",
+"Written premium",
+"Age distribution",
+"Claim probability distribution",
+"Group size distribution"
+],
+"a": 4,
+"e": "Correct answer: Group size distribution (from the IC27 question bank)."
+},
+{
+"n": 22,
+"topic": "Health Insurance",
+"t": "XYZ Insurance Company wishes to show the percentage completion of payments, based on selected factors, by the end of corresponding number of months for each month of claim occurrence. Suggest a suitable analysis to the insurance company",
+"o": [
+"Payment duration analysis / ?????? ???? ????????",
+"IBNR analysis / ???????? ????????",
+"Analysis by diagnosis grouping and provider networ",
+"Claims probability distribution analysis / ???? ??",
+"Age distribution analysis / ??? ????? ????????"
+],
+"a": 1,
+"e": "Correct answer: IBNR analysis / ???????? ???????? (from the IC27 question bank)."
+},
+{
+"n": 23,
+"topic": "Health Insurance",
+"t": "Each insurer's share of the loss is based on the proportion that its insurance bears to the total amount of insurance. This is known as ________________.",
+"o": [
+"Principle of Utmost Good faith",
+"Principle of Indemnity",
+"Principle of Insurable Interest",
+"Principle of Contribution",
+"Principle of Proximate cause"
+],
+"a": 3,
+"e": "Correct answer: Principle of Contribution (from the IC27 question bank)."
+},
+{
+"n": 24,
+"topic": "Health Insurance",
+"t": "X has taken a Mediclaim policy of Rs. 2 lakhs from ABC Insurance Ltd. The policy  states that if in case of any hospitalisation, the company will cover room charges only up to 1% of the sum assured for a day. What amount as room charges will be paid by insurance companies to X in event of hospitalisation?",
+"o": [
+"Rs 20 a day",
+"Rs 200 a day",
+"Rs 1000 a day",
+"Rs 2000 a day",
+"Rs 5000 a day"
+],
+"a": 3,
+"e": "Correct answer: Rs 2000 a day (from the IC27 question bank)."
+},
+{
+"n": 25,
+"topic": "Health Insurance",
+"t": "Which of the following statements are false with respect to the social health insurance system of health care? <BR><BR>I. The employees and the employers pay a regular contribution to the funds that are then used for funding healthcare needs for the employees as well as their families <BR>II. The payment to the healthcare providers is made by the Government on behalf of the users <BR>III. Social health insurance is a health insurance taken by an individual, to provide coverage towards expenses incurred on his healthcare needs",
+"o": [
+"Only I",
+"I and II",
+"Only III",
+"I, II and III",
+"II and III"
+],
+"a": 4,
+"e": "Correct answer: II and III (from the IC27 question bank)."
+},
+{
+"n": 26,
+"topic": "Health Insurance",
+"t": "What is the Actuaries role in reserving process? <BR><BR>I. To estimate the incurred but not reported (IBNR) claim reserves  <BR>II. To collect the right amount of premium <BR>III. To estimate the expected additional payments on the claims for which the claim management department has kept the reserves",
+"o": [
+"Only I",
+"Only II",
+"I and III",
+"II and III",
+"I,II and III"
+],
+"a": 2,
+"e": "Correct answer: I and III (from the IC27 question bank)."
+},
+{
+"n": 27,
+"topic": "Health Insurance",
+"t": "From the consumer protection perspective, what is the crux of the problem?<BR><BR> I. Ability to settle genuine claims promptly <BR>II. Information symmetry <BR> III. Imbalance of the power, information and resources between policyholders and insurers",
+"o": [
+"Only I",
+"Only III",
+"I and II",
+"I and III",
+"I,II and III"
+],
+"a": 1,
+"e": "Correct answer: Only III (from the IC27 question bank)."
+},
+{
+"n": 28,
+"topic": "Health Insurance",
+"t": "In Social reinsurance, controls over underwriting is implemented by the _________________.",
+"o": [
+"NGO",
+"Insurance company",
+"Insurance regulator",
+"Micro Insurance institute",
+"Government"
+],
+"a": 1,
+"e": "Correct answer: Insurance company (from the IC27 question bank)."
+},
+{
+"n": 29,
+"topic": "Health Insurance",
+"t": "The Pharma sector in India is regulated by ______.",
+"o": [
+"Ministry of Health / ????????? ????????",
+"Ministry of Social Welfare / ???? ?????? ????????",
+"Ministry of Labour / ???? ????????",
+"Ministry of Chemicals / ????? ????????",
+"Ministry of Rural and Urban Development / ???????"
+],
+"a": 3,
+"e": "Correct answer: Ministry of Chemicals / ????? ???????? (from the IC27 question bank)."
+},
+{
+"n": 30,
+"topic": "Health Insurance",
+"t": "Ravi met with an accident while going to his office and had serious injuries. He was hospitalised for five days in Gandhi Hospital. He had taken a health insurance policy earlier from ABC Co. He submitted his claim of the medical bills to ABC Co. Who is the healthcare provider here?<BR><BR> I. Ravi <BR>II. Gandhi Hospital <BR>III. ABC Co.",
+"o": [
+"Only I",
+"Only II",
+"Only III",
+"II and III",
+"I and III"
+],
+"a": 1,
+"e": "Correct answer: Only II (from the IC27 question bank)."
+},
+{
+"n": 31,
+"topic": "Health Insurance",
+"t": "Which of the following are the criteria for the diagnosis for myocardial infarction? <BR><BR>I. A history of typical clinical symptoms consistent with the diagnosis of acute myocardial infarction (for e.g. typical chest pain) <BR>II. New characteristic electrocardiogram changes <BR>III. Histological evidence of malignancy confirmed by a pathologist",
+"o": [
+"Only I",
+"Only II",
+"I and II",
+"Only III",
+"I and III"
+],
+"a": 2,
+"e": "Correct answer: I and II (from the IC27 question bank)."
+},
+{
+"n": 32,
+"topic": "Health Insurance",
+"t": "Mr. Koshima is a citizen of Japan and aged above 75 years. Under which health programme will he be covered in?",
+"o": [
+"Society Managed Health Insurance Plans / ???? ????",
+"Government managed health insurance / ????? ??????",
+"National Health Insurance / ????????? ????????? ??",
+"Long life medical care system / ???????? ????????",
+"Senior Citizen illness insurance / ?????? ?????? ?"
+],
+"a": 3,
+"e": "Correct answer: Long life medical care system / ???????? ???????? (from the IC27 question bank)."
+},
+{
+"n": 33,
+"topic": "Health Insurance",
+"t": "Which of the following is a technology and process interface technique for detection of frauds in insurance sector? <BR><BR>I. Enterprise Risks & Internal Controls <BR>II. Doctor seeding <BR>III. Plugging process gaps",
+"o": [
+"Only I",
+"Only II",
+"Only III",
+"II and III",
+"I, II and III"
+],
+"a": 0,
+"e": "Correct answer: Only I (from the IC27 question bank)."
+},
+{
+"n": 34,
+"topic": "Health Insurance",
+"t": "Claims analysis by geographic locations help insurers to:-  <BR><BR>I. Point out the utilisation level at different sum insured ranges <BR>II. Identify the frequency and severity of claims from different age bands <BR>III. Point out the high cost location and revising its sales and rating strategies",
+"o": [
+"Only I",
+"Only III",
+"I and II",
+"I and III",
+"I,II and III"
+],
+"a": 1,
+"e": "Correct answer: Only III (from the IC27 question bank)."
+},
+{
+"n": 35,
+"topic": "Health Insurance",
+"t": "The healthcare provider plays a major role in the health insurance business as it is the one who decides and provides which of the following? <BR><BR>I. The type of health services to be used by an individual <BR>II. How much is the cost of those services",
+"o": [
+"Only I",
+"Only II",
+"I and II",
+"I, II and III",
+"I and III"
+],
+"a": 2,
+"e": "Correct answer: I and II (from the IC27 question bank)."
+},
+{
+"n": 36,
+"topic": "Health Insurance",
+"t": "Identify the true statement. <BR><BR>I. The standard waiting period in health insurance policies is 30 days. <BR>II. For some of the specific diseases or procedures,  waiting period can be of 12 to 48 months.",
+"o": [
+"Only I is true",
+"Only II is true",
+"Both I and II are true",
+"Both I and II are false",
+"Either I or II can be true"
+],
+"a": 2,
+"e": "Correct answer: Both I and II are true (from the IC27 question bank)."
+},
+{
+"n": 37,
+"topic": "Health Insurance",
+"t": "State the term to describe the tendency of the insurer to select and insure the proposer with a low risk as compared to the one with a high risk.",
+"o": [
+"Adverse Selection / ???????? ???",
+"Cherry Picking / ???? ??????",
+"Preferential selection / ???????? ???",
+"Diverse selection / ????? ???",
+"Biased selection / ???????? ???"
+],
+"a": 1,
+"e": "Correct answer: Cherry Picking / ???? ?????? (from the IC27 question bank)."
+},
+{
+"n": 38,
+"topic": "Health Insurance",
+"t": "All of the following are example of mechanisms to contain costs used by insurance companies EXCEPT:-",
+"o": [
+"Introducing clause of waiting period before any benefit commences",
+"Introducing sub limits on room and ICU charges",
+"Introducing sub-limits on payments made for specif",
+"Co-payment for using non-network hospitals",
+"Co-payment for using network hospitals"
+],
+"a": 0,
+"e": "Correct answer: Introducing clause of waiting period before any benefit commences (from the IC27 question bank)."
+},
+{
+"n": 39,
+"topic": "Health Insurance",
+"t": "For individual health insurance, information on which of the following enable an underwriter to determine presence of any pre-existing diseases or conditions? <BR><BR>I. Current health status <BR>II. Personal medical history <BR>III. Financial condition",
+"o": [
+"Only I",
+"Only II",
+"I and II",
+"II and III",
+"I,II and III"
+],
+"a": 1,
+"e": "Correct answer: Only II (from the IC27 question bank)."
+},
+{
+"n": 40,
+"topic": "Health Insurance",
+"t": "In case of dispute, an insured should approach which of the following authorities?<BR><BR> I. IRDAI <BR>II. Insurance Ombudsmen <BR> III. Civil courts",
+"o": [
+"Only I",
+"Only II",
+"I and II",
+"II and III",
+"I, II, and III"
+],
+"a": 3,
+"e": "Correct answer: II and III (from the IC27 question bank)."
+},
+{
+"n": 41,
+"topic": "Health Insurance",
+"t": "Identify the true statement. <BR><BR>I. Personal accident policies are offered on standalone basis. <BR>II. Personal Accident policies are offered as packaged product with other health insurance cover.",
+"o": [
+"Only I is true",
+"Only II is true",
+"Both I and II are true",
+"Both I and II are false",
+"Either I or II can be true"
+],
+"a": 2,
+"e": "Correct answer: Both I and II are true (from the IC27 question bank)."
+},
+{
+"n": 42,
+"topic": "Health Insurance",
+"t": "Which analysis is used to show the total claims paid to date, estimated outstanding liability and the completion percentage?",
+"o": [
+"Claims analysis",
+"Analysis by diagnosis grouping and provider networ",
+"Payment duration analysis",
+"IBNR analysis",
+"Claims probability distribution analysis"
+],
+"a": 3,
+"e": "Correct answer: IBNR analysis (from the IC27 question bank)."
+},
+{
+"n": 43,
+"topic": "Health Insurance",
+"t": "Which of the following products can be particularly useful for persons covered for health by employers, where employers' health schemes may not bear many of the incidental costs associated with hospitalisation?",
+"o": [
+"Mediclaim",
+"Critical Illness cover",
+"Daily hospital cash benefit",
+"Disease Management cover",
+"High-deductible hospital indemnity covers"
+],
+"a": 2,
+"e": "Correct answer: Daily hospital cash benefit (from the IC27 question bank)."
+},
+{
+"n": 44,
+"topic": "Health Insurance",
+"t": "X has taken an indemnity policy for a cover of Rs. 1,00,000 from an insurance company. X injures himself in a road accident and is hospitalised for 3 days. The hospital expenses incurred accumulate to Rs. 30,000. What amount will be compensated to X by the insurance company?",
+"o": [
+"Rs 1,00,000",
+"Rs 30,000",
+"Rs 70,000",
+"Rs 20,000",
+"No amount will be compensated as indemnity policie"
+],
+"a": 1,
+"e": "Correct answer: Rs 30,000 (from the IC27 question bank)."
+},
+{
+"n": 45,
+"topic": "Health Insurance",
+"t": "In which of the following reinsurance structures, all premiums above a certain amount is ceded (paid) to the reinsurer and all claims above the corresponding amount are received from the reinsurer?",
+"o": [
+"Quota share reinsurance",
+"Excess of loss reinsurance",
+"White labelling",
+"Social reinsurance",
+"Surplus share reinsurance"
+],
+"a": 4,
+"e": "Correct answer: Surplus share reinsurance (from the IC27 question bank)."
+},
+{
+"n": 46,
+"topic": "Health Insurance",
+"t": "Which among the following is/are the main purpose of health insurance frauds? <BR><BR>I. Lowering taxes <BR>II. Financial gain <BR>III. Reducing claims",
+"o": [
+"Only I",
+"Only II",
+"II and III",
+"I and II",
+"I, II and III"
+],
+"a": 1,
+"e": "Correct answer: Only II (from the IC27 question bank)."
+},
+{
+"n": 47,
+"topic": "Health Insurance",
+"t": "Under this type of fraud, fraud occurs as the benefit is paid illegitimately because the beneficiary was not truly eligible to receive benefits because of non-disclosure from the insured. Identify the type of fraud.",
+"o": [
+"Claim frauds",
+"Application fraud",
+"Eligibility fraud",
+"Staging claims fraud",
+"Underwriting frauds"
+],
+"a": 2,
+"e": "Correct answer: Eligibility fraud (from the IC27 question bank)."
+},
+{
+"n": 48,
+"topic": "Health Insurance",
+"t": "Which of the following statements are true with respect to investment risks associated with health insurance market? <BR><BR>I. The occurrence of this type of risk depends on the mix of investment options chosen by the insurer, as also the overall environment in the economy.  <BR>II. Even if the insurer holds good quality assets, holding long term debt can lead to liquidity risk.  <BR>III. Even if the insurer is profitable, there can still be a mismatch between the cash flows, and current assets and liabilities.",
+"o": [
+"Only I",
+"Only II",
+"I and II",
+"Only III",
+"I, II, and III"
+],
+"a": 2,
+"e": "Correct answer: I and II (from the IC27 question bank)."
+},
+{
+"n": 49,
+"topic": "Health Insurance",
+"t": "Personal Accident policy provides covers for which of the following costs? <BR><BR>I. Cost of treatment of the insured <BR>II. Cost of modification of the house in  event of disablement <BR>III. Cost of modification of vehicle to meet the medical needs of the insured after a disabling accident",
+"o": [
+"Only I",
+"Only II",
+"I and II",
+"I and III",
+"I,II and III"
+],
+"a": 4,
+"e": "Correct answer: I,II and III (from the IC27 question bank)."
+},
+{
+"n": 50,
+"topic": "Health Insurance",
+"t": "Explain what is meant by  RAG analysis?",
+"o": [
+"It is used to analyse the performance of the entities that provide business to an Insurance company on periodic basis in terms of claims.",
+"It helps in identifying the potential fraudsters b",
+"It helps to gain knowledge about various types of",
+"It oversees all the processes of an Insurance comp",
+"It is rating methodology of insurance sector to pa"
+],
+"a": 0,
+"e": "Correct answer: It is used to analyse the performance of the entities that provide business to an Insurance company on periodic basis in terms of claims. (from the IC27 question bank)."
+}
+]

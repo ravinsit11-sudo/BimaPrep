@@ -72,6 +72,20 @@
 {
 "n": 6,
 "topic": "Health Insurance",
+"t": "XYZ insurance company has entered into a reinsurance contract with a reinsurer where a certain percentage of the original premium that is received from the customer is paid to the reinsurance company and the corresponding percentage of claims is received from the reinsurance company. What form of reinsurance contract has been signed by XYZ insurance company?",
+"o": [
+"Quota share reinsurance",
+"Stop  Loss reinsurance",
+"Excess of loss reinsurance",
+"White labelling",
+"Social reinsurance"
+],
+"a": 0,
+"e": "Correct answer: Quota share reinsurance (from the IC27 question bank)."
+},
+{
+"n": 7,
+"topic": "Health Insurance",
 "t": "In which occupation/s is health risk considered to be high?<BR><BR> I. Driver <BR>II. Aviator <BR>III. X-ray Machine operator <BR>IV. Asbestos industry workers",
 "o": [
 "I and II",
@@ -84,7 +98,7 @@
 "e": "Correct answer: III and IV (from the IC27 question bank)."
 },
 {
-"n": 7,
+"n": 8,
 "topic": "Health Insurance",
 "t": "Which of the following is a mechanism to provide for higher spending being shared by the insured? <BR><BR>I. Sub-limits on room and ICU charges <BR>II. Sub-limits on payments made for specific surgeries like cataract or hysterectomy <BR>III. Co-payment for using non-network hospitals",
 "o": [
@@ -98,7 +112,7 @@
 "e": "Correct answer: I,II and III (from the IC27 question bank)."
 },
 {
-"n": 8,
+"n": 9,
 "topic": "Health Insurance",
 "t": "Which of the following sentences best describe the term \"Demand side moral hazard\"? <BR><BR>I. A consumer with a health insurance will make use of and accept more health services than he would have otherwise taken without any health insurance <BR>II. The health care providers suggest and provide more health services as well as more expensive treatments to the person having health insurance than what is actually needed <BR>III. Both insured and health care provider mutually agree to increase the medical expenses above the required limit.",
 "o": [
@@ -110,21 +124,6 @@
 ],
 "a": 0,
 "e": "Correct answer: Only I (from the IC27 question bank)."
-},
-{
-"n": 9,
-"topic": "Health Insurance",
-"t": "Mr. B works in a Company in Japan that employs around 400 employees. Name the health insurance program under which he shall be covered.",
-"o": [
-"Society Managed Health Insurance Plans",
-"Government managed health insurance",
-"National Health Insurance",
-"Long life medical care system",
-"The Sickness Fund"
-],
-"a": 1,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Government managed health insurance (from the IC27 question bank).",
-"r": "key"
 },
 {
 "n": 10,
@@ -213,21 +212,6 @@
 {
 "n": 16,
 "topic": "Health Insurance",
-"t": "In which year was the ESI Act enacted?",
-"o": [
-"1948",
-"1938",
-"1957",
-"1912",
-"1908"
-],
-"a": 0,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: 1948 (from the IC27 question bank).",
-"r": "key"
-},
-{
-"n": 17,
-"topic": "Health Insurance",
 "t": "If XYZ insurance company wishes to facilitate monitoring the individual, small group and large group blocks of business separately, then analysis of data should be done on which parameter?",
 "o": [
 "Written premium",
@@ -240,7 +224,7 @@
 "e": "Correct answer: Group size distribution (from the IC27 question bank)."
 },
 {
-"n": 18,
+"n": 17,
 "topic": "Health Insurance",
 "t": "Identify the technique that is not a human Interface and process improvisation technique of fraud detection in Insurance Sector.",
 "o": [
@@ -254,7 +238,7 @@
 "e": "Correct answer: RAG Analysis / ????? ???????? (from the IC27 question bank)."
 },
 {
-"n": 19,
+"n": 18,
 "topic": "Health Insurance",
 "t": "Identify the rural health institution from the following features. <BR><BR>I. It is a referral unit for about 6 sub centres <BR>II. It is established for every 30,000 population (20,000 in hilly, tribal and backward areas) <BR>III. Provides OPD services and has 4 to 6 in-patient bed facility",
 "o": [
@@ -268,7 +252,7 @@
 "e": "Correct answer: Primary Health Centres (from the IC27 question bank)."
 },
 {
-"n": 20,
+"n": 19,
 "topic": "Health Insurance",
 "t": "If XYZ insurance company, wish to understand the customer profile changes from year to year in different age bands, then analysis of data should be done on which parameter?",
 "o": [
@@ -282,7 +266,7 @@
 "e": "Correct answer: Age distribution (from the IC27 question bank)."
 },
 {
-"n": 21,
+"n": 20,
 "topic": "Health Insurance",
 "t": "Claim frequency will be in high range for which risks?<br><br>I. Fire<br>II. Motor<br>III. Health",
 "o": [
@@ -296,7 +280,7 @@
 "e": "Correct answer: II and III / II ??? III (from the IC27 question bank)."
 },
 {
-"n": 22,
+"n": 21,
 "topic": "Health Insurance",
 "t": "Identify the claims that are typically reinsured? <BR><BR>I. High severity and low frequency <BR>II. Low severity and low frequency <BR>III. High severity and high frequency <BR>IV. Low severity and high frequency",
 "o": [
@@ -310,7 +294,7 @@
 "e": "Correct answer: I,III and IV (from the IC27 question bank)."
 },
 {
-"n": 23,
+"n": 22,
 "topic": "Health Insurance",
 "t": "Which analysis can be used to show percentage completion of payments, based on selected factors, by the end of corresponding number of months for each month of claim occurrence?",
 "o": [
@@ -324,7 +308,7 @@
 "e": "Correct answer: IBNR analysis (from the IC27 question bank)."
 },
 {
-"n": 24,
+"n": 23,
 "topic": "Health Insurance",
 "t": "Under which of the following schemes is Health Insurance cover provided to the Private Sector Employees in Thailand?",
 "o": [
@@ -338,7 +322,7 @@
 "e": "Correct answer: The Social Security Scheme (from the IC27 question bank)."
 },
 {
-"n": 25,
+"n": 24,
 "topic": "Health Insurance",
 "t": "Which of the following insurance products provide a lump sum amount to the insured on the diagnosis of a specific critical illness or on undergoing of certain procedures?",
 "o": [
@@ -352,7 +336,7 @@
 "e": "Correct answer: Critical Illness benefit products (from the IC27 question bank)."
 },
 {
-"n": 26,
+"n": 25,
 "topic": "Health Insurance",
 "t": "_________________ is a stop loss cover sold to large companies where the reinsurer undertakes to pay for medical insurance claims beyond the stop loss trigger, and may or may not offer administration services up to the stop loss limit.",
 "o": [
@@ -366,22 +350,7 @@
 "e": "Correct answer: Employee stop loss (from the IC27 question bank)."
 },
 {
-"n": 27,
-"topic": "Health Insurance",
-"t": "Vijay Vyas needs to travel to US on 15<SUP>th</SUP> of next month. Suggest a suitable health insurance product for him.",
-"o": [
-"Overseas Medical Insurance plan / ?????? ????????",
-"Bhavishya Aarogya / ?????? ??????",
-"Disease Management cover / ??? ??????? ????",
-"High-deductible hospital indemnity cover / ????-??",
-"Daily hospital cash benefit / ????? ??????? ???? ?"
-],
-"a": 0,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Overseas Medical Insurance plan / ?????? ???????? (from the IC27 question bank).",
-"r": "key"
-},
-{
-"n": 28,
+"n": 26,
 "topic": "Health Insurance",
 "t": "Identify the claims that are typically not reinsured? <BR><BR>I. High severity and low frequency <BR>II. Low severity and low frequency <BR>III. High severity and high frequency <BR>IV. Low severity and high frequency",
 "o": [
@@ -395,7 +364,7 @@
 "e": "Correct answer: Only II (from the IC27 question bank)."
 },
 {
-"n": 29,
+"n": 27,
 "topic": "Health Insurance",
 "t": "Identify the correct full form of CSMBS in the context of Health Insurance System of Thailand?",
 "o": [
@@ -409,7 +378,7 @@
 "e": "Correct answer: Civil Servant Medical Benefits Schemes (from the IC27 question bank)."
 },
 {
-"n": 30,
+"n": 28,
 "topic": "Health Insurance",
 "t": "X had filed his grievance complaint against ABC insurance company with State Commission. He is dissatisfied with the decision and now wish to appeal against the State Commission order. Suggest a suitable course of action for X.",
 "o": [
@@ -423,7 +392,7 @@
 "e": "Correct answer: Appeal against the order with National Commission (from the IC27 question bank)."
 },
 {
-"n": 31,
+"n": 29,
 "topic": "Health Insurance",
 "t": "In India, IRDAI protects the interests of:- <BR><BR> I. Policyholders <BR>II. Insurers <BR> III. Insurance intermediaries",
 "o": [
@@ -437,7 +406,7 @@
 "e": "Correct answer: I, II, and III (from the IC27 question bank)."
 },
 {
-"n": 32,
+"n": 30,
 "topic": "Health Insurance",
 "t": "Which of the following are the main reasons for providing health insurance? <BR><BR>I. Providing financial access to healthcare providers in case of any illness. <BR>II. Preservation of savings of an individual which may otherwise be wiped out due to illness.",
 "o": [
@@ -451,7 +420,7 @@
 "e": "Correct answer: Both I and II (from the IC27 question bank)."
 },
 {
-"n": 33,
+"n": 31,
 "topic": "Health Insurance",
 "t": "Acceptance of risk is like giving a promise of future claim settlement to the insured.  This statement is _____________.",
 "o": [
@@ -465,7 +434,21 @@
 "e": "Correct answer: Correct (from the IC27 question bank)."
 },
 {
-"n": 34,
+"n": 32,
+"topic": "Health Insurance",
+"t": "Identify the true statement <BR><BR>I. Medical reports form the base of the health insurance contract where all the critical information pertaining to the health and personal details of the proposer  are collected. <BR>II. Any breach or concealment of information in proposal form by the insured shall render the policy void.",
+"o": [
+"Only I is true",
+"Only II is true",
+"Both I and II are true",
+"Both I and II are false",
+"Either I or II can be true"
+],
+"a": 1,
+"e": "Correct answer: Only II is true (from the IC27 question bank)."
+},
+{
+"n": 33,
 "topic": "Health Insurance",
 "t": "Which of the following is a technology and process interface technique for detection of frauds in insurance sector? <BR><BR>I. Robust investigation unit and mystery shopping <BR>II. Doctor seeding <BR>III. Enterprise Risks & Internal Controls",
 "o": [
@@ -477,6 +460,20 @@
 ],
 "a": 2,
 "e": "Correct answer: Only III (from the IC27 question bank)."
+},
+{
+"n": 34,
+"topic": "Health Insurance",
+"t": "Group size distribution analysis is used to:- <BR><BR>I. Study the average premium  <BR>II. Study the percentage share of number of people for the corresponding product categories in proportion to the total number of people <BR>III. Illustrate premium per person for different groups",
+"o": [
+"Only I",
+"I and II",
+"I and III",
+"II and III",
+"I,II and III"
+],
+"a": 4,
+"e": "Correct answer: I,II and III (from the IC27 question bank)."
 },
 {
 "n": 35,
@@ -493,21 +490,7 @@
 "e": "Correct answer: Only I (from the IC27 question bank)."
 },
 {
-"topic": "Principles",
-"t": "The principle that allows an insurer who has paid a claim to step into the insured's shoes and recover from a liable third party is:",
-"o": [
-"Contribution",
-"Subrogation",
-"Indemnity",
-"Proximate cause"
-],
-"a": 1,
-"e": "★ Core fact (asked across III papers). Subrogation is a corollary of indemnity; it does not apply to life or personal accident (benefit) policies.",
-"r": "core",
-"n": 36
-},
-{
-"n": 37,
+"n": 36,
 "topic": "Health Insurance",
 "t": "Explain what is meant by an application fraud.",
 "o": [
@@ -521,7 +504,7 @@
 "e": "Correct answer: Under this type of fraud, fraud is committed when material misrepresentations are made on an application for insurance with the intent to defraud. (from the IC27 question bank)."
 },
 {
-"n": 38,
+"n": 37,
 "topic": "Health Insurance",
 "t": "What is the importance of data for the Management in health insurance?",
 "o": [
@@ -533,6 +516,20 @@
 ],
 "a": 0,
 "e": "Correct answer: For making informed decisions and taking corrective actions related to pricing, product design, business plans, marketing strategy (from the IC27 question bank)."
+},
+{
+"n": 38,
+"topic": "Health Insurance",
+"t": "Identify the utility of reinsurance.  <BR><BR>I. A reinsurance structure provides the insurer with the ability to equalise claims pay-outs as well as manage liquidity <BR>II. Reinsurance serves as a risk transfer mechanism for insurance companies <BR>III. Reinsures provides technical assistance to insurance companies",
+"o": [
+"Only I",
+"Only II",
+"I and II",
+"I and III",
+"I,II and III"
+],
+"a": 4,
+"e": "Correct answer: I,II and III (from the IC27 question bank)."
 },
 {
 "n": 39,
@@ -591,21 +588,7 @@
 "e": "Correct answer: Numeric rating method / ?????????? ?????????? ???? (from the IC27 question bank)."
 },
 {
-"topic": "Principles",
-"t": "In a life insurance contract, insurable interest must exist:",
-"o": [
-"At the time of the claim only",
-"At inception of the policy",
-"Both at inception and at claim",
-"At renewal each year"
-],
-"a": 1,
-"e": "★ Core fact (asked across III papers). Life: at inception only. Marine: at the time of loss. Fire and motor: at both inception and loss.",
-"r": "core",
-"n": 43
-},
-{
-"n": 44,
+"n": 43,
 "topic": "Health Insurance",
 "t": "Rekha has a health insurance Policy for Rs.1,00,000. She undergoes plastic surgery to improve the shape of her lips, which costs  her Rs. 80,000. How much insurance claim will she get?",
 "o": [
@@ -619,7 +602,7 @@
 "e": "Correct answer: Cosmetic surgery comes under exclusion and hence she is not eligible for any claims (from the IC27 question bank)."
 },
 {
-"n": 45,
+"n": 44,
 "topic": "Health Insurance",
 "t": "Performance of the entities that provide business to an Insurance company are analyzed on periodic basis in terms of claims using this model of analysis. Which model is this?",
 "o": [
@@ -631,6 +614,20 @@
 ],
 "a": 0,
 "e": "Correct answer: RAG analysis (from the IC27 question bank)."
+},
+{
+"n": 45,
+"topic": "Health Insurance",
+"t": "In numeric rating method what are the main points considered when imposing terms to cover an extra risk? <BR><BR>I. Whether the extra risk is of an increasing nature, decreasing or constant <BR>II. Whether risk is likely to change greatly or not <BR>III. Whether the extra risk can be covered without an extra premium by some other means",
+"o": [
+"Only I",
+"Only II",
+"II and III",
+"I and III",
+"I,II and III"
+],
+"a": 4,
+"e": "Correct answer: I,II and III (from the IC27 question bank)."
 },
 {
 "n": 46,
