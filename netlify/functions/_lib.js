@@ -76,4 +76,4 @@ async function audit(sb, actor, action, target, detail) {
   await sb.from('audit_log').insert({ actor, action, target, detail });
 }
 
-module.exports = { PACKS, env, admin, userFromRequest, json, bad, parse, validateCoupon, fulfil, hmac, safeEqual, audit, reference };
+module.exports = { PACKS, CATALOG, env, admin, userFromRequest, json, bad, parse, validateCoupon, fulfil, hmac, safeEqual, audit, reference };

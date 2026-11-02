@@ -12,6 +12,11 @@ exports.handler = async (event) => {
   const sb = L.admin();
   const { data: active } = await sb.from('active_entitlements').select('id,expires_at').eq('user_id', user.id).eq('pack', pack);
   if (active && active.length) return L.bad('You already have this pack. It expires on ' + (active[0].expires_at ? new Date(active[0].expires_at).toDateString() : 'never'));
+  const sub = (L.CATALOG.subjects || []).find(s => s.id === pack);
+  if (sub && sub.also_in) {
+    const { data: bund } = await sb.from('active_entitlements').select('id').eq('user_id', user.id).eq('pack', sub.also_in);
+    if (bund && bund.length) return L.bad('This paper is already included in your ' + (L.PACKS[sub.also_in] || {}).name + '.');
+  }
   const { data: pend } = await sb.from('orders').select('id').eq('user_id', user.id).eq('pack', pack).eq('status', 'pending');
   if (pend && pend.length) return L.bad('Your payment for this pack is already awaiting approval.');
   const c = await L.validateCoupon(sb, coupon, pack, user.id, p.price);
