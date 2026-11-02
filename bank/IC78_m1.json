@@ -58,6 +58,20 @@
 {
 "n": 5,
 "topic": "Miscellaneous Insurance",
+"t": "Identify the true statement with regard to burglary insurance.<br><br>I. Premises situated in densely populated areas are considered better risks than those situated in lonely areas.<br>II. The provision of a watchman to effectively guard the insured property round the clock, improves the risk.<br>III. Safety devices and installation of burglar alarms, CCTV and other devices do not attract a discount in the premium.",
+"o": [
+"Only I",
+"Only III",
+"I and II",
+"II and III",
+"I,II and III"
+],
+"a": 2,
+"e": "Correct answer: I and II (from the IC78 question bank)."
+},
+{
+"n": 6,
+"topic": "Miscellaneous Insurance",
 "t": "Which of the following is now -a- days,  the most common form of treaty reinsurance?",
 "o": [
 "Excess of loss reinsurance",
@@ -70,7 +84,7 @@
 "e": "Correct answer: Quota share treaty reinsurance (from the IC78 question bank)."
 },
 {
-"n": 6,
+"n": 7,
 "topic": "Miscellaneous Insurance",
 "t": "Identify the true statement with regard to first loss policies.<br><br>I. Such a policy may be considered only where the total value of stocks to be insured exceeds, a minimum limit specified.<br>II. No First Loss policy is usually issued for less than 25% of the total value of the property.<br>III. Cover in respect of damage to the premises is covered under the policy.",
 "o": [
@@ -84,7 +98,7 @@
 "e": "Correct answer: I and II (from the IC78 question bank)."
 },
 {
-"n": 7,
+"n": 8,
 "topic": "Miscellaneous Insurance",
 "t": "In cattle insurance, if the distance travelled is more than 80 kms, what will be the additional premium charged?",
 "o": [
@@ -98,7 +112,7 @@
 "e": "Correct answer: Additional premium of 1% is charged (from the IC78 question bank)."
 },
 {
-"n": 8,
+"n": 9,
 "topic": "Miscellaneous Insurance",
 "t": "The proposal form for burglary insurances contains questions relating to:-<br><br>I. The profession or occupation of the proposer<br>II. The situation of the premises<br>III. The construction of the premises",
 "o": [
@@ -112,7 +126,7 @@
 "e": "Correct answer: I,II and III (from the IC78 question bank)."
 },
 {
-"n": 9,
+"n": 10,
 "topic": "Miscellaneous Insurance",
 "t": "Which of the following statement best describes an Liquidators bond?",
 "o": [
@@ -126,7 +140,21 @@
 "e": "Correct answer: These are issued to deal with the estates of persons who have filed insolvency petition before the court or are declared insolvent by the courts (from the IC78 question bank)."
 },
 {
-"n": 10,
+"n": 11,
+"topic": "Miscellaneous Insurance",
+"t": "Identify the true statement.<br><br> I. Commercial guarantees are simple contracts.<br>II. Court bonds are specialty contracts executed under seal.<br>III. In court bonds, the proposal does not form part of the contract, and hence the contract is not affected even if the proposal contains materially inaccurate particulars.",
+"o": [
+"Only I",
+"Only III",
+"I and II",
+"II and III",
+"I,II and III"
+],
+"a": 4,
+"e": "Correct answer: I,II and III (from the IC78 question bank)."
+},
+{
+"n": 12,
 "topic": "Miscellaneous Insurance",
 "t": "What is the rate of premium for insuring pigs?",
 "o": [
@@ -140,22 +168,21 @@
 "e": "Correct answer: 5% on peak value during rearing stage (from the IC78 question bank)."
 },
 {
-"n": 11,
+"n": 13,
 "topic": "Miscellaneous Insurance",
-"t": "X has chosen more than 4 sections in shopkeepers insurance policy. Is he entitled for any discount in premium?",
+"t": "X meets with an accident and suffers from shock. This results in weakness. This weakened condition leads to pneumonia and death of X. Analyse the case with regard to doctrine of Proximate cause.",
 "o": [
-"No, discount will be available only if more than 8",
-"Yes, X is entitled to 5% discount in premium",
-"Yes, X is entitled to 10% discount in premium",
-"Yes, X is entitled to 15% discount in premium",
-"Yes, X is entitled to 20% discount in premium"
+"Accident caused is in no way contributed to by the",
+"A claim for the accident cannot be admitted unless",
+"Here, the disease is the remote cause and the acci",
+"The accident remains the proximate cause so long as the events which follow it are the natural ones in such circumstances",
+"The disease, which is a new intervening cause, is"
 ],
 "a": 3,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Yes, X is entitled to 15% discount in premium (from the IC78 question bank).",
-"r": "key"
+"e": "Correct answer: The accident remains the proximate cause so long as the events which follow it are the natural ones in such circumstances (from the IC78 question bank)."
 },
 {
-"n": 12,
+"n": 14,
 "topic": "Miscellaneous Insurance",
 "t": "Surgical Operationâ€ means <br><br>I. Manual procedures for correction of deformities and defects <br>II. Operative procedures for repair or injuries,  diagnosis and cure of disease <br>III. Operative procedures for diagnosis and cure of disease",
 "o": [
@@ -169,7 +196,7 @@
 "e": "Correct answer: I,II and III / I,II ?? III (from the IC78 question bank)."
 },
 {
-"n": 13,
+"n": 15,
 "topic": "Miscellaneous Insurance",
 "t": "Which of the following statement is TRUE with regard to Excess floating  policy?",
 "o": [
@@ -183,7 +210,7 @@
 "e": "Correct answer: This is a combination of collective policy and a floating policy (from the IC78 question bank)."
 },
 {
-"n": 14,
+"n": 16,
 "topic": "Miscellaneous Insurance",
 "t": "Third party Administrators:-<br><br>I. Are the intermediaries between the insurer(s) and the insured(s), who co-ordinate with the hospitals and finalise health claims<br>II. Enter into an MOU with hospitals or health service providers and ensure that any person who undergoes treatment in the network hospitals is given a cashless service<br>III. Are outsourced health claims servicing by insurers at a remuneration of 6% of the premium collected",
 "o": [
@@ -197,7 +224,7 @@
 "e": "Correct answer: I,II and III (from the IC78 question bank)."
 },
 {
-"n": 15,
+"n": 17,
 "topic": "Miscellaneous Insurance",
 "t": "In Rashtriya Swasthya Bima Yojana, beneficiary has to pay _______________ as registration fee.",
 "o": [
@@ -211,7 +238,7 @@
 "e": "Correct answer: Rs 30 per annum (from the IC78 question bank)."
 },
 {
-"n": 16,
+"n": 18,
 "topic": "Miscellaneous Insurance",
 "t": "What are the perils covered under television insurance?<BR><BR>I. Theft <BR>II. Riot <BR>III. Wear and tear",
 "o": [
@@ -225,7 +252,7 @@
 "e": "Correct answer: I and II (from the IC78 question bank)."
 },
 {
-"n": 17,
+"n": 19,
 "topic": "Miscellaneous Insurance",
 "t": "As per section 391 of Indian penal code, Where five or more persons conjointly commit or attempt to commit a robbery or are present and aid such commission or attempt, every one of them is said to commit _______________.",
 "o": [
@@ -239,7 +266,7 @@
 "e": "Correct answer: Dacoity (from the IC78 question bank)."
 },
 {
-"n": 18,
+"n": 20,
 "topic": "Miscellaneous Insurance",
 "t": "In a Personal Accident insurance cover, the principle of utmost good faith &nbsp;_________.",
 "o": [
@@ -253,22 +280,7 @@
 "e": "Correct answer: Applies throughout the policy period&quot (from the IC78 question bank)."
 },
 {
-"n": 19,
-"topic": "Miscellaneous Insurance",
-"t": "Tertiary care insurance cover can be issued for:-<br><br>I. 1 year<br>II. 5 years<br>III. 10 years",
-"o": [
-"Only I",
-"Only III",
-"I and III",
-"II and III",
-"I,II and III"
-],
-"a": 4,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: I,II and III (from the IC78 question bank).",
-"r": "key"
-},
-{
-"n": 20,
+"n": 21,
 "topic": "Miscellaneous Insurance",
 "t": "_________ is a major ailments hospitalisation / domiciliary hospitalisation expenses reimbursement policy for individuals and group.",
 "o": [
@@ -282,7 +294,7 @@
 "e": "Correct answer: Tertiary care insurance (from the IC78 question bank)."
 },
 {
-"n": 21,
+"n": 22,
 "topic": "Miscellaneous Insurance",
 "t": "Which reinsurance arrangement is best suited for miscellaneous accident insurances involving liability insurance?",
 "o": [
@@ -296,7 +308,7 @@
 "e": "Correct answer: Excess of loss reinsurance (from the IC78 question bank)."
 },
 {
-"n": 22,
+"n": 23,
 "topic": "Miscellaneous Insurance",
 "t": "Employer-Employee relationship policies can be granted to:-<br><br>I. Firms<br>II. Clubs<br>III. Associations",
 "o": [
@@ -310,7 +322,7 @@
 "e": "Correct answer: I and III (from the IC78 question bank)."
 },
 {
-"n": 23,
+"n": 24,
 "topic": "Miscellaneous Insurance",
 "t": "What is the minimum amount of sum insured offered under Tertiary care insurance?",
 "o": [
@@ -324,7 +336,7 @@
 "e": "Correct answer: Rs 50000 (from the IC78 question bank)."
 },
 {
-"n": 24,
+"n": 25,
 "topic": "Miscellaneous Insurance",
 "t": "In shopkeepers insurance policy, what is the section under which loss of or damage to building/contents whilst contained in insured premises by fire, lightning, explosion of gas in domestic appliances are covered?",
 "o": [
@@ -338,7 +350,7 @@
 "e": "Correct answer: Section 1 (from the IC78 question bank)."
 },
 {
-"n": 25,
+"n": 26,
 "topic": "Miscellaneous Insurance",
 "t": "In aqua insurance, upon the occurrence of any event giving rise to claim, the insured shall give notice ________________ to the company.",
 "o": [
@@ -352,7 +364,7 @@
 "e": "Correct answer: Within 24 hours (from the IC78 question bank)."
 },
 {
-"n": 26,
+"n": 27,
 "topic": "Miscellaneous Insurance",
 "t": "For what duration, Missing documents indemnity can be issued?",
 "o": [
@@ -366,7 +378,7 @@
 "e": "Correct answer: Several years (from the IC78 question bank)."
 },
 {
-"n": 27,
+"n": 28,
 "topic": "Miscellaneous Insurance",
 "t": "Which of the following statement best describes facultative reinsurance?",
 "o": [
@@ -380,7 +392,7 @@
 "e": "Correct answer: In this type of reinsurance, each risk is proposed (from the IC78 question bank)."
 },
 {
-"n": 28,
+"n": 29,
 "topic": "Miscellaneous Insurance",
 "t": "The word 'Cattle' for the purpose of insurance refers to which of the following animals? <BR><BR>I. Milch cows <BR>II. Stud bulls <BR>III. Bullocks",
 "o": [
@@ -394,22 +406,21 @@
 "e": "Correct answer: I,II and III (from the IC78 question bank)."
 },
 {
-"n": 29,
+"n": 30,
 "topic": "Miscellaneous Insurance",
-"t": "What amount of benefit can senior citizen seek as tax benefit under section 80 D of income tax, by investing in a health insurance policy?",
+"t": "Who among the following have to execute customer bonds?<br><br>I. Persons or corporate bodies who are permitted to import motor cars for their personal use<br>II. Manufacturers who import essential raw materials on which a concessional customs duty is levied provided they produce an end-use certificate that the imported materials have been consumed in the production of goods originally declared by the manufacturer<br>III. Suppliers of industrial chemicals imported in special containers who have to export back the containers after using the content",
 "o": [
-"Rs 10000",
-"Rs 15000",
-"Rs 20000",
-"Rs 30000",
-"Rs 50000"
+"Only I",
+"Only III",
+"I and II",
+"II and III",
+"I,II and III"
 ],
-"a": 2,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Rs 20000 (from the IC78 question bank).",
-"r": "key"
+"a": 4,
+"e": "Correct answer: I,II and III (from the IC78 question bank)."
 },
 {
-"n": 30,
+"n": 31,
 "topic": "Miscellaneous Insurance",
 "t": "X is an official of ABC Ltd and is covered under Corporate frequent traveller's endorsement. As per the policy,  what can be the maximum duration of any trip that can be taken by X abroad?",
 "o": [
@@ -423,7 +434,7 @@
 "e": "Correct answer: Not exceeding 60 days (from the IC78 question bank)."
 },
 {
-"n": 31,
+"n": 32,
 "topic": "Miscellaneous Insurance",
 "t": "An hospital (other than in 'C' towns) should have at least _______ in-patient beds.",
 "o": [
@@ -437,7 +448,7 @@
 "e": "Correct answer: 15 (from the IC78 question bank)."
 },
 {
-"n": 32,
+"n": 33,
 "topic": "Miscellaneous Insurance",
 "t": "If X has taken event insurance cover for New year party, then liabilities cover can be taken for:- <BR><BR>I. Spectators <BR>II. Participants <BR>III. Performers",
 "o": [
@@ -451,7 +462,7 @@
 "e": "Correct answer: I,II and III (from the IC78 question bank)."
 },
 {
-"n": 33,
+"n": 34,
 "topic": "Miscellaneous Insurance",
 "t": "Which of the following statement is CORRECT with regard to Pool reinsurance?",
 "o": [
@@ -465,7 +476,21 @@
 "e": "Correct answer: In this kind of reinsurance, Companies cede a particular percentage of their premium to a pool formed by a Group of  Companies or by the regulators, for better management of risk (from the IC78 question bank)."
 },
 {
-"n": 34,
+"n": 35,
+"topic": "Miscellaneous Insurance",
+"t": "With regard to Videsh Yatra Mitra, the term 'Claim Settlement Agency' refer to <bR><BR>I. Medical practitioners appointed by the relevant â€˜agencyâ€™ <BR>II. Person named in the policy schedule, for whom the appropriate premium has been paid <BR>III. An overseas agency with which insurers have entered into an MOU to provide emergency assistance and claims administration services",
+"o": [
+"Only I / ???? I",
+"Only III / ???? III",
+"I and II / I ?? II",
+"II and III / II ?? III",
+"I,II and III / I,II ?? III"
+],
+"a": 1,
+"e": "Correct answer: Only III / ???? III (from the IC78 question bank)."
+},
+{
+"n": 36,
 "topic": "Miscellaneous Insurance",
 "t": "As per neon sign insurance cover, the insured neon sign must be examined and inspected at regular intervals of:",
 "o": [
@@ -479,21 +504,7 @@
 "e": "Correct answer: Not longer than six months (from the IC78 question bank)."
 },
 {
-"topic": "IRDAI – regulator",
-"t": "The minimum paid-up equity capital required to start a life or general insurance company in India is:",
-"o": [
-"₹50 crore",
-"₹100 crore",
-"₹200 crore",
-"₹500 crore"
-],
-"a": 1,
-"e": "★ Core fact (asked across III papers). ₹100 crore for a direct insurer; ₹200 crore for a reinsurer (Section 6 of the Insurance Act).",
-"r": "core",
-"n": 35
-},
-{
-"n": 36,
+"n": 37,
 "topic": "Miscellaneous Insurance",
 "t": "X wants to insure his pig that is one month old. Can the pig be insured?",
 "o": [
@@ -507,7 +518,7 @@
 "e": "Correct answer: No, the minimum age of pig should be 6 months for (from the IC78 question bank)."
 },
 {
-"n": 37,
+"n": 38,
 "topic": "Miscellaneous Insurance",
 "t": "In case of banker's indemnity policy, if the insurer cancels the policy then refund of premium is made to the insured on:-<br><br>I. Audited basis<br>II. Pro rata basis<br>III. Short period scale",
 "o": [
@@ -521,7 +532,7 @@
 "e": "Correct answer: Only II (from the IC78 question bank)."
 },
 {
-"n": 38,
+"n": 39,
 "topic": "Miscellaneous Insurance",
 "t": "The excise duty is to be paid to the Excise Department in lieu of which ______ may be executed.",
 "o": [
@@ -535,7 +546,7 @@
 "e": "Correct answer: Excise bonds (from the IC78 question bank)."
 },
 {
-"n": 39,
+"n": 40,
 "topic": "Miscellaneous Insurance",
 "t": "In Quota share treaty reinsurance:",
 "o": [
@@ -549,7 +560,7 @@
 "e": "Correct answer: The risks are shared by the ceding company and its reinsurers in some predetermined proportion (from the IC78 question bank)."
 },
 {
-"n": 40,
+"n": 41,
 "topic": "Miscellaneous Insurance",
 "t": "Sports insurance does not provides coverage to <br><br>I. Amateur sportsmen <br>II. Professional Sportsmen <br>III. Named member/s of  the family residing with Amateur sportsmen",
 "o": [
@@ -563,7 +574,7 @@
 "e": "Correct answer: Only II (from the IC78 question bank)."
 },
 {
-"n": 41,
+"n": 42,
 "topic": "Miscellaneous Insurance",
 "t": "Lyrics of song can be protected from being copied via:- <BR><BR>I. Patent <BR>II. Copyright <BR>III. Trademark",
 "o": [
@@ -577,7 +588,7 @@
 "e": "Correct answer: Only II (from the IC78 question bank)."
 },
 {
-"n": 42,
+"n": 43,
 "topic": "Miscellaneous Insurance",
 "t": "Money insurance cover unpaid wages etc. retained at the insured's premises in burglar-resisting safe, or strong room. What does definition of 'wages' comprise of?<br><br>I. Unpaid wages<br>II. Salaries<br>III. Bonus",
 "o": [
@@ -591,7 +602,7 @@
 "e": "Correct answer: I,II and III (from the IC78 question bank)."
 },
 {
-"n": 43,
+"n": 44,
 "topic": "Miscellaneous Insurance",
 "t": "In sports insurance premium depends upon:- <BR><BR>I. The number of sports to be insured and:-  <BR>II. The number of persons to be included in the policy <BR>III. The type of sports event insured is participating",
 "o": [
@@ -605,7 +616,7 @@
 "e": "Correct answer: I and II (from the IC78 question bank)."
 },
 {
-"n": 44,
+"n": 45,
 "topic": "Miscellaneous Insurance",
 "t": "Critical illness cover <br><bR>I. Is an indemnity policy <bR>II. Offers the sum insured in lump sum as a benefit to insured, after ninety days of diagnosis of the named critical illnesses like cancer <bR>III. Does not require any evidence for taking treatment for the disease",
 "o": [
@@ -617,20 +628,6 @@
 ],
 "a": 3,
 "e": "Correct answer: II and III / II ?? III (from the IC78 question bank)."
-},
-{
-"topic": "IRDAI – regulator",
-"t": "The control level of solvency ratio that every insurer must maintain is:",
-"o": [
-"100%",
-"125%",
-"150%",
-"200%"
-],
-"a": 2,
-"e": "★ Core fact (asked across III papers). Available solvency margin must be at least 150% of the required solvency margin; falling below triggers IRDAI action.",
-"r": "core",
-"n": 45
 },
 {
 "n": 46,

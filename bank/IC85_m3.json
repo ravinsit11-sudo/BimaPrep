@@ -2,6 +2,20 @@
 {
 "n": 1,
 "topic": "Reinsurance Management",
+"t": "Identify the true statement.<br><br>I. Inward treaty agreement from the foreign ceding companies will require to be stamped in India.<br>II. Though the agreements are normally received in duplicate, only the copy to be retained by the Indian reinsurer is got stamped.<br>III. In regard to outward treaties, the copy to be retained in India is got stamped with special adhesive stamp for the required amount, as applicable.",
+"o": [
+"Only I",
+"Only III",
+"I and II",
+"II and III",
+"I, II and III"
+],
+"a": 4,
+"e": "Correct answer: I, II and III (from the IC85 question bank)."
+},
+{
+"n": 2,
+"topic": "Reinsurance Management",
 "t": "Free trade and globalising trade in services is an important objective of this world body:-",
 "o": [
 "F.A.I.R.",
@@ -14,7 +28,7 @@
 "e": "Correct answer: WTO (from the IC85 question bank)."
 },
 {
-"n": 2,
+"n": 3,
 "topic": "Reinsurance Management",
 "t": "_____________ form of reinsurance responds if an accumulation of losses exceeds the deductible selected.",
 "o": [
@@ -28,7 +42,7 @@
 "e": "Correct answer: Stop loss (from the IC85 question bank)."
 },
 {
-"n": 3,
+"n": 4,
 "topic": "Reinsurance Management",
 "t": "The accounts for accident proportional reinsurance business are normally rendered on:- <BR><BR>I. Accounts year basis <BR>II. Underwriting year basis <BR>III. Monthly basis",
 "o": [
@@ -42,7 +56,21 @@
 "e": "Correct answer: Only I (from the IC85 question bank)."
 },
 {
-"n": 4,
+"n": 5,
+"topic": "Reinsurance Management",
+"t": "Credit rating opinion takes into account:-<BR><BR>I. Insurer's ability to pay under his insurance policies and contracts in accordance with their terms<BR>II. Surrender or cancellation penalties<BR>III. Timeliness of payment",
+"o": [
+"Only I",
+"Only III",
+"I and II",
+"II and III",
+"I, II and III"
+],
+"a": 0,
+"e": "Correct answer: Only I (from the IC85 question bank)."
+},
+{
+"n": 6,
 "topic": "Reinsurance Management",
 "t": "With regard to Premium on XL cover, 'rate on line': -<br><br>I. Assists the reinsurer to judge rating consistency as between various covers that he quotes<br>II. Provides indication of the number of years in which the limit can be recouped on the basis of the Rate on Line if the total of limit is paid as claim<br>III. Is higher for each successive higher layer of excess cover",
 "o": [
@@ -56,7 +84,7 @@
 "e": "Correct answer: I and II (from the IC85 question bank)."
 },
 {
-"n": 5,
+"n": 7,
 "topic": "Reinsurance Management",
 "t": "In reinsurance business, captive companies are often established in:-<br><br>I. London<br>II. United states<br>III. Tax haven countries",
 "o": [
@@ -70,7 +98,7 @@
 "e": "Correct answer: Only III (from the IC85 question bank)."
 },
 {
-"n": 6,
+"n": 8,
 "topic": "Reinsurance Management",
 "t": "________________ clause intends that reinsurance will apply simultaneously and automatically with that of the ceding insurer as soon as his retention is exceeded with reference to surplus reinsurance.",
 "o": [
@@ -84,22 +112,7 @@
 "e": "Correct answer: Business Covered: Attachment of cessions  proportional (from the IC85 question bank)."
 },
 {
-"n": 7,
-"topic": "Reinsurance Management",
-"t": "In 1961, the Government of India made it compulsory by statute on the part of every insurer to cede 10% in __________.",
-"o": [
-"Fire and Marine Cargo",
-"Miscellaneous Insurance",
-"Credit and Solvency Business",
-"Property Insurance",
-"Engineering Insurance"
-],
-"a": 1,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Miscellaneous Insurance (from the IC85 question bank).",
-"r": "key"
-},
-{
-"n": 8,
+"n": 9,
 "topic": "Reinsurance Management",
 "t": "Which of the following is a type of reinsurance contract?<br><br>I. Facilitative reinsurance<br>II. Entreaty reinsurance<br>III. Facultative reinsurance",
 "o": [
@@ -113,7 +126,7 @@
 "e": "Correct answer: Only III (from the IC85 question bank)."
 },
 {
-"n": 9,
+"n": 10,
 "topic": "Reinsurance Management",
 "t": "As per ____________________clause, losses will normally be debited to the reinsurer in the accounts.",
 "o": [
@@ -127,7 +140,7 @@
 "e": "Correct answer: Loss advices and accounting of losses clause (from the IC85 question bank)."
 },
 {
-"n": 10,
+"n": 11,
 "topic": "Reinsurance Management",
 "t": "What is the consideration for reinsurance contract?",
 "o": [
@@ -141,7 +154,7 @@
 "e": "Correct answer: Premium (from the IC85 question bank)."
 },
 {
-"n": 11,
+"n": 12,
 "topic": "Reinsurance Management",
 "t": "Identify the true statement.<br><br>I. As per Indian Stamps Act 1899, it is obligatory to stamp a document executed in India.<br>II. The treaty reinsurance agreement executed in India does not required to be stamped.<br>III. The Stamp Act provides that every instrument chargeable with duty executed out of India may be stamped within six months after it is received in India",
 "o": [
@@ -155,7 +168,7 @@
 "e": "Correct answer: Only I (from the IC85 question bank)."
 },
 {
-"n": 12,
+"n": 13,
 "topic": "Reinsurance Management",
 "t": "Identify the true statement with regard to rate determination for premium for XL cover.<br><br>I. The reinsurer may quote a Flat Rate as a percentage which is applied to the gross premium income of the particular class of business.<br>II. The flat rate on 'catastrophe' covers is a reflection of the underwriter's experience in that class of business and what the market is prepared to pay.<br>III. When the rate is applied to the limit of cover it is known as \"Rate on Line\".",
 "o": [
@@ -169,7 +182,7 @@
 "e": "Correct answer: I,II and III (from the IC85 question bank)."
 },
 {
-"n": 13,
+"n": 14,
 "topic": "Reinsurance Management",
 "t": "Which of the following statement is CORRECT with regard to \"Loss occurring basis\" method?",
 "o": [
@@ -183,7 +196,7 @@
 "e": "Correct answer: All losses occurring within the contract period are covered, no matter when the original policy was issued (from the IC85 question bank)."
 },
 {
-"n": 14,
+"n": 15,
 "topic": "Reinsurance Management",
 "t": "_______________ is an incentive for ceding insurers to produce profitable business.",
 "o": [
@@ -197,7 +210,7 @@
 "e": "Correct answer: Profit commission (from the IC85 question bank)."
 },
 {
-"n": 15,
+"n": 16,
 "topic": "Reinsurance Management",
 "t": "In a reinsurance contract, the original insurer who, having issued a policy to an insured to cover a certain risk, desires to relieve himself of a part thereof, is referred as:-",
 "o": [
@@ -211,7 +224,7 @@
 "e": "Correct answer: Ceding insurer (from the IC85 question bank)."
 },
 {
-"n": 16,
+"n": 17,
 "topic": "Reinsurance Management",
 "t": "Risk retention group:- <BR><BR>I. Originated in the US with the passing of Liability Risk Retention Act, 1981 <BR>II. Is a corporation owned and operated by insurance companies, that band together as self-insurers and forms an organization that is chartered and licensed as an insurer in at least one state of US to handle liability insurance <BR>III. Addresses gaps in liability cover for its members such as for medical malpractice in US",
 "o": [
@@ -223,21 +236,6 @@
 ],
 "a": 4,
 "e": "Correct answer: I, II and III (from the IC85 question bank)."
-},
-{
-"n": 17,
-"topic": "Reinsurance Management",
-"t": "ABC Insurance Co. has fixed its retention limit at Rs. 20,00,000 for fire insurance. The company has received a fire insurance proposal for Rs. 15,00,000. What will be the 'surplus reinsurance' requirement?",
-"o": [
-"Rs. 5,00,000",
-"Nil",
-"Rs. 15,00,000",
-"Rs. 11,25,000",
-"Rs. 3,75,000"
-],
-"a": 1,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Nil (from the IC85 question bank).",
-"r": "key"
 },
 {
 "n": 18,
@@ -354,6 +352,34 @@
 {
 "n": 26,
 "topic": "Reinsurance Management",
+"t": "Identify the true statement. <BR><BR>I. As soon as a reinsurance acceptance is made, a concurrent decision will have to be taken regarding its retention and underwriting. <BR>II. Retrocession may be resorted to by a lead underwriter who leads quotes on a reinsurance proposal. <BR>III. Retrocession is required to enable acceptance of economical lines.",
+"o": [
+"Only I",
+"Only III",
+"I and II",
+"II and III",
+"I, II and III"
+],
+"a": 4,
+"e": "Correct answer: I, II and III (from the IC85 question bank)."
+},
+{
+"n": 27,
+"topic": "Reinsurance Management",
+"t": "Identify the true statement with regard to Original conditions clause. <br><br>I.  Reinsurances are fully subject to the same terms and conditions as the original insurance <br>II.  Premium is to be paid to the reinsurer at the same rate as received by the ceding insurer <br>III.  The insurer and the reinsurer share the same interest",
+"o": [
+"Only I",
+"Only III",
+"I and II",
+"II and III",
+"I, II and III"
+],
+"a": 4,
+"e": "Correct answer: I, II and III (from the IC85 question bank)."
+},
+{
+"n": 28,
+"topic": "Reinsurance Management",
 "t": "In reinsurance programme design, what is the relevance of Paid up capital and free reserves?",
 "o": [
 "This will influence retentions, cover limits and reinsurance costs",
@@ -366,7 +392,7 @@
 "e": "Correct answer: This will influence retentions, cover limits and reinsurance costs (from the IC85 question bank)."
 },
 {
-"n": 27,
+"n": 29,
 "topic": "Reinsurance Management",
 "t": "In reinsurance programme design, what is the relevance of Risk based capital?",
 "o": [
@@ -380,7 +406,7 @@
 "e": "Correct answer: Relation between largest risk and catastrophe exposures accepted by insurer on a gross and net basis to judge financial effects on insurer's capital base (from the IC85 question bank)."
 },
 {
-"n": 28,
+"n": 30,
 "topic": "Reinsurance Management",
 "t": "As of 2010, GIC Re is entrusted to manage and administer:-<br><br>I. Indian Motor Third Party Declined Pool<br>II. Indian Terrorism Insurance Pool<br>III. Indian Property Insurance Pool",
 "o": [
@@ -394,22 +420,7 @@
 "e": "Correct answer: I and II (from the IC85 question bank)."
 },
 {
-"n": 29,
-"topic": "Reinsurance Management",
-"t": "ABC Insurance Co. has fixed its retention limit at Rs. 20,00,000 for fire insurance. The company has received a fire insurance proposal for Rs. 50,00,000. What will be the 'surplus reinsurance' requirement?",
-"o": [
-"Rs. 20,00,000",
-"Rs. 70,00,000",
-"Rs. 50,00,000",
-"Rs. 30,00,000",
-"Rs. 10,00,000"
-],
-"a": 3,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Rs. 30,00,000 (from the IC85 question bank).",
-"r": "key"
-},
-{
-"n": 30,
+"n": 31,
 "topic": "Reinsurance Management",
 "t": "MillÃ® ReasÃ¼rans T.A.S. is entrusted with the management of the_______________.",
 "o": [
@@ -423,7 +434,7 @@
 "e": "Correct answer: F.A.I.R. Reinsurance pool (from the IC85 question bank)."
 },
 {
-"n": 31,
+"n": 32,
 "topic": "Reinsurance Management",
 "t": "Which of the following statement is correct with regard to \"Business Covered: Attachment of cessions - proportional\" clause?",
 "o": [
@@ -437,7 +448,7 @@
 "e": "Correct answer: This clause intends that reinsurance will apply simultaneously and automatically with that of the ceding insurer as soon as his retention is exceeded with reference to surplus reinsurance (from the IC85 question bank)."
 },
 {
-"n": 32,
+"n": 33,
 "topic": "Reinsurance Management",
 "t": "An insurer or reinsurer may have his own basic treaties to serve as a medium of reciprocity for the inward business in which case he may go in for:-",
 "o": [
@@ -451,7 +462,7 @@
 "e": "Correct answer: Reciprocal trading (from the IC85 question bank)."
 },
 {
-"n": 33,
+"n": 34,
 "topic": "Reinsurance Management",
 "t": "Which of the following statement is true with regard to 'Facultative treaty'?",
 "o": [
@@ -465,7 +476,7 @@
 "e": "Correct answer: This enables direct insurers to produce a more balanced book of business for themselves and for their treaty reinsurers (from the IC85 question bank)."
 },
 {
-"n": 34,
+"n": 35,
 "topic": "Reinsurance Management",
 "t": "The merit of this system is its simplicity, each contract year is self-contained:-<br><br>I. Losses occurring basis<br>II. Risk attaching basis<br>III. Premium basis",
 "o": [
@@ -477,20 +488,6 @@
 ],
 "a": 0,
 "e": "Correct answer: Only I (from the IC85 question bank)."
-},
-{
-"topic": "Principles",
-"t": "In a life insurance contract, insurable interest must exist:",
-"o": [
-"At the time of the claim only",
-"At inception of the policy",
-"Both at inception and at claim",
-"At renewal each year"
-],
-"a": 1,
-"e": "★ Core fact (asked across III papers). Life: at inception only. Marine: at the time of loss. Fire and motor: at both inception and loss.",
-"r": "core",
-"n": 35
 },
 {
 "n": 36,
@@ -565,6 +562,20 @@
 {
 "n": 41,
 "topic": "Reinsurance Management",
+"t": "Identify the true statement.<BR><BR>I. The anticipated incurred loss ratio to the gross and net accounts in a class are very good indices for measuring the effect of the programme on retentions.<BR>II. The net retained account is expected to sustain its loss ratio over a period of time.<BR>III. The gross direct account is expected to be subject to as wide a variation as the exposures permit.",
+"o": [
+"Only I",
+"Only III",
+"I and II",
+"II and III",
+"I, II and III"
+],
+"a": 4,
+"e": "Correct answer: I, II and III (from the IC85 question bank)."
+},
+{
+"n": 42,
+"topic": "Reinsurance Management",
 "t": "In which of the following methods, all losses occurring within the contract period are covered, no matter when the original policy was issued?<br><br>I. Losses occurring basis<br>II. Risk attaching basis<br>III. Premium basis",
 "o": [
 "Only I",
@@ -577,7 +588,7 @@
 "e": "Correct answer: Only I (from the IC85 question bank)."
 },
 {
-"n": 42,
+"n": 43,
 "topic": "Reinsurance Management",
 "t": "National Association of Insurance Commissioners in USA is:-",
 "o": [
@@ -591,7 +602,7 @@
 "e": "Correct answer: An insurance regulatory body (from the IC85 question bank)."
 },
 {
-"n": 43,
+"n": 44,
 "topic": "Reinsurance Management",
 "t": "The Stamp Act 1899 provides that every instrument chargeable with duty executed out of India may be stamped within _______________ after it is received in India.",
 "o": [
@@ -605,7 +616,7 @@
 "e": "Correct answer: 3 months (from the IC85 question bank)."
 },
 {
-"n": 44,
+"n": 45,
 "topic": "Reinsurance Management",
 "t": "Which form of reinsurance limits the aggregate amount of loss the reinsured would lose on a given class of business in an annual period?",
 "o": [
@@ -619,7 +630,7 @@
 "e": "Correct answer: Stop loss (from the IC85 question bank)."
 },
 {
-"n": 45,
+"n": 46,
 "topic": "Reinsurance Management",
 "t": "If a reinsured installs a single composite cover which protects at one go the whole business of the reinsured incorporating all classes of business, then such an arrangement is referred as _________________.",
 "o": [
@@ -631,20 +642,6 @@
 ],
 "a": 1,
 "e": "Correct answer: Whole Account Excess of Loss cover (from the IC85 question bank)."
-},
-{
-"topic": "Principles",
-"t": "Non-disclosure of a material fact by the proposer makes the contract:",
-"o": [
-"Void ab initio",
-"Voidable at the option of the insurer",
-"Illegal",
-"Automatically continued on revised terms"
-],
-"a": 1,
-"e": "★ Core fact (asked across III papers). Breach of utmost good faith renders the contract voidable, not void; the insurer may elect to avoid it (subject to Section 45 for life).",
-"r": "core",
-"n": 46
 },
 {
 "n": 47,

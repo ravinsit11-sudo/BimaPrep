@@ -2,6 +2,20 @@
 {
 "n": 1,
 "topic": "Agriculture Insurance",
+"t": "All these are valid underwriting decisions with regards to Agriculture Pumpset Insurance Scheme EXCEPT:-",
+"o": [
+"The sum insured should not be less than the presen",
+"The pump set should be serviced regularly and over",
+"No refund of premium is allowed if the pump is idl",
+"Sum insured should be less than the present replacement value",
+"Pump sets beyond 25 H.P. capacity should be insure"
+],
+"a": 3,
+"e": "Correct answer: Sum insured should be less than the present replacement value (from the IC71 question bank)."
+},
+{
+"n": 2,
+"topic": "Agriculture Insurance",
 "t": "An animal infected with Anthrax dies within __________________.",
 "o": [
 "10-36 hours",
@@ -14,7 +28,7 @@
 "e": "Correct answer: 10-36 hours (from the IC71 question bank)."
 },
 {
-"n": 2,
+"n": 3,
 "topic": "Agriculture Insurance",
 "t": "State the premium rate charged to insure death of exotic animal under Cattle Insurance Scheme.",
 "o": [
@@ -28,7 +42,21 @@
 "e": "Correct answer: 6% (from the IC71 question bank)."
 },
 {
-"n": 3,
+"n": 4,
+"topic": "Agriculture Insurance",
+"t": "Tell us, what are indigenous breed of cattle known for?  Choose the most appropriate answer",
+"o": [
+"Indigenous breeds are known for their susceptibili",
+"Indigenous breeds are known for heat tolerance and ability to survive under stressful conditions",
+"Indigenous breeds are known for their high milk ou",
+"Indigenous breeds are known for their speed and ag",
+"Indigenous breeds are known for their breeding abi"
+],
+"a": 1,
+"e": "Correct answer: Indigenous breeds are known for heat tolerance and ability to survive under stressful conditions (from the IC71 question bank)."
+},
+{
+"n": 5,
 "topic": "Agriculture Insurance",
 "t": "State the minimum number of layers required for insurance eligibility under \"Comprehensive cover for poultry farms\" in the general category.",
 "o": [
@@ -42,7 +70,7 @@
 "e": "Correct answer: 500 per batch (from the IC71 question bank)."
 },
 {
-"n": 4,
+"n": 6,
 "topic": "Agriculture Insurance",
 "t": "Based on whose recommendations was Pilot Crop Insurance Scheme(PCIS) introduced?",
 "o": [
@@ -56,7 +84,21 @@
 "e": "Correct answer: V.M. Dandekar (from the IC71 question bank)."
 },
 {
-"n": 5,
+"n": 7,
+"topic": "Agriculture Insurance",
+"t": "Propose a way to increase efficiency in premium collection and indemnity payment operations for a crop insurance scheme. Choose the  most appropriate option",
+"o": [
+"Collect all the premium at one go",
+"Make it compulsory for scheme beneficiaries to hav",
+"Effect linkages with organisations already having contacts with the insured",
+"Establish a full network of office and agents for",
+"Request farmers to come to insurer's office for su"
+],
+"a": 2,
+"e": "Correct answer: Effect linkages with organisations already having contacts with the insured (from the IC71 question bank)."
+},
+{
+"n": 8,
 "topic": "Agriculture Insurance",
 "t": "Name the company that replaced ANAGSA as the national public sector crop and livestock insurance company in Mexico.",
 "o": [
@@ -70,7 +112,21 @@
 "e": "Correct answer: Agroasemex (from the IC71 question bank)."
 },
 {
-"n": 6,
+"n": 9,
+"topic": "Agriculture Insurance",
+"t": "For a crop insurance scheme aimed at small and marginal farmers, what kind of Government support would benefit the farmers? Choose the  most appropriate answer",
+"o": [
+"Payment towards administration costs",
+"Premium subsidy",
+"Provision for re-insurance capacity",
+"Ministry personnel to supplement loss adjustment t",
+"Creation of the necessary legislation"
+],
+"a": 1,
+"e": "Correct answer: Premium subsidy (from the IC71 question bank)."
+},
+{
+"n": 10,
 "topic": "Agriculture Insurance",
 "t": "State the maximum sum insured for layers under \"Comprehensive cover for poultry farms\" in case of Non-IRDP scheme.",
 "o": [
@@ -84,7 +140,7 @@
 "e": "Correct answer: Rs.75 (from the IC71 question bank)."
 },
 {
-"n": 7,
+"n": 11,
 "topic": "Agriculture Insurance",
 "t": "State the maximum group discount that can be offered under standard cattle insurance policy.",
 "o": [
@@ -98,7 +154,7 @@
 "e": "Correct answer: 20% (from the IC71 question bank)."
 },
 {
-"n": 8,
+"n": 12,
 "topic": "Agriculture Insurance",
 "t": "State the premium rate charged under \"Silkworm Insurance Scheme\" for Bivoltine breed of silkworms.",
 "o": [
@@ -112,7 +168,7 @@
 "e": "Correct answer: 8% (from the IC71 question bank)."
 },
 {
-"n": 9,
+"n": 13,
 "topic": "Agriculture Insurance",
 "t": "What could be a possible fallout of making crop insurance compulsory?",
 "o": [
@@ -126,22 +182,7 @@
 "e": "Correct answer: Insured farmers will question every feature of the insurance (from the IC71 question bank)."
 },
 {
-"n": 10,
-"topic": "Agriculture Insurance",
-"t": "There is no claim under the \"Comprehensive cover for poultry farms\" scheme for 1 year. What is the no claim discount applicable?",
-"o": [
-"25%",
-"30%",
-"15%",
-"45%",
-"50%"
-],
-"a": 2,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: 15% (from the IC71 question bank).",
-"r": "key"
-},
-{
-"n": 11,
+"n": 14,
 "topic": "Agriculture Insurance",
 "t": "Where is Hallikar breed of bullocks mostly found?",
 "o": [
@@ -155,7 +196,7 @@
 "e": "Correct answer: Karnataka (from the IC71 question bank)."
 },
 {
-"n": 12,
+"n": 15,
 "topic": "Agriculture Insurance",
 "t": "Describe crop insurance. Choose the most appropriate answer.",
 "o": [
@@ -169,7 +210,7 @@
 "e": "Correct answer: It is a financial instrument without social dimension (from the IC71 question bank)."
 },
 {
-"n": 13,
+"n": 16,
 "topic": "Agriculture Insurance",
 "t": "Investigate the mechanism through which Rinderpest spreads from animal to animal.",
 "o": [
@@ -183,7 +224,7 @@
 "e": "Correct answer: Rinderpest spreads mainly through saliva droppings and dugs (from the IC71 question bank)."
 },
 {
-"n": 14,
+"n": 17,
 "topic": "Agriculture Insurance",
 "t": "Classify \"Murrah\" into one of the cattle categories mentioned here.",
 "o": [
@@ -197,7 +238,7 @@
 "e": "Correct answer: Buffalo breed (from the IC71 question bank)."
 },
 {
-"n": 15,
+"n": 18,
 "topic": "Agriculture Insurance",
 "t": "In case of scheme animals, what is the basic rate of premium for death cover under \"Horse / Pony / Mule / Donkey Insurance Scheme\"?",
 "o": [
@@ -211,22 +252,7 @@
 "e": "Correct answer: 2.75% (from the IC71 question bank)."
 },
 {
-"n": 16,
-"topic": "Agriculture Insurance",
-"t": "Based on your knowledge of \"Pig Insurance Scheme\", please answer the following question. A certain pig insured for Rs 1000 under pig  insurance scheme dies due to an accident. Calculate the limit of liability for the insurer",
-"o": [
-"Rs 600",
-"Rs 700",
-"Rs 800",
-"Rs 900",
-"Rs 1000"
-],
-"a": 2,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Rs 800 (from the IC71 question bank).",
-"r": "key"
-},
-{
-"n": 17,
+"n": 19,
 "topic": "Agriculture Insurance",
 "t": "Which  is not a characteristic of facultative reinsurance? Choose the correct option",
 "o": [
@@ -240,7 +266,7 @@
 "e": "Correct answer: Obligatory (from the IC71 question bank)."
 },
 {
-"n": 18,
+"n": 20,
 "topic": "Agriculture Insurance",
 "t": "As a result of weather data uncertainty the loading on a certain weather based insurance product is in multiples of 1.5 to 2. If the expected  loss is 100Rs calculate the range for premium to be charged.",
 "o": [
@@ -254,7 +280,7 @@
 "e": "Correct answer: 150-200 (from the IC71 question bank)."
 },
 {
-"n": 19,
+"n": 21,
 "topic": "Agriculture Insurance",
 "t": "A comprehensive floriculture insurance policy is issued on market value basis with the following depreciation clause.Depreciation of 20%  per year will be applicable on plastic grippers.There is a fire and the plastic grippers are damaged in the fire. The plastic grippers were a year old. The current price of  plastic grippers is Rs 1000. How much will the claim for plastic grippers be worth?",
 "o": [
@@ -268,7 +294,7 @@
 "e": "Correct answer: Rs 800 (from the IC71 question bank)."
 },
 {
-"n": 20,
+"n": 22,
 "topic": "Agriculture Insurance",
 "t": "With respect to NAIS, illustrate the approach used for loss assessment and settlement of claims on the occurrence of localised perils.",
 "o": [
@@ -280,7 +306,21 @@
 "e": "Correct answer: Loss assessment and settlement of claims will be on individual basis (from the IC71 question bank)."
 },
 {
-"n": 21,
+"n": 23,
+"topic": "Agriculture Insurance",
+"t": "Determine the likely reason for failure of multi peril crop insurance in developing countries like India. Choose the most appropriate answer.",
+"o": [
+"No support from the Government",
+"Lack of adequate database for determining premiums and indemnities",
+"Inconsistent weather",
+"Actuarial premium rates",
+"Low transaction costs"
+],
+"a": 1,
+"e": "Correct answer: Lack of adequate database for determining premiums and indemnities (from the IC71 question bank)."
+},
+{
+"n": 24,
 "topic": "Agriculture Insurance",
 "t": "Classify risk aversion into one of the following risk mitigation strategies",
 "o": [
@@ -294,7 +334,7 @@
 "e": "Correct answer: Ex-ante informal (from the IC71 question bank)."
 },
 {
-"n": 22,
+"n": 25,
 "topic": "Agriculture Insurance",
 "t": "Select the option under which no insurer will transact  the business individually.",
 "o": [
@@ -308,7 +348,7 @@
 "e": "Correct answer: Pool insurance (from the IC71 question bank)."
 },
 {
-"n": 23,
+"n": 26,
 "topic": "Agriculture Insurance",
 "t": "Under Animal Driven Cart Insurance, loss or damage due to any accident is subject to an excess of Rs. 50 per claim. What is the exception  to this condition?",
 "o": [
@@ -322,7 +362,7 @@
 "e": "Correct answer: Total loss by fire (from the IC71 question bank)."
 },
 {
-"n": 24,
+"n": 27,
 "topic": "Agriculture Insurance",
 "t": "Identify the feeding habit which makes indigenous cattle more resistant to heat.",
 "o": [
@@ -336,22 +376,7 @@
 "e": "Correct answer: They consume food more often but less at a time thereby generating less internal heat which makes them more heat  resistant (from the IC71 question bank)."
 },
 {
-"n": 25,
-"topic": "Agriculture Insurance",
-"t": "The coefficient of yield variation for a crop in an area is between 15% and 30%. Determine the risk group and the indemnity level under NAIS.",
-"o": [
-"Low risk with 90% indemnity limit",
-"Low risk with 100% indemnity limit",
-"Medium risk with 90% indemnity limit",
-"Medium risk with 80% indemnity limit",
-"High risk with 60% indemnity limit"
-],
-"a": 3,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Medium risk with 80% indemnity limit (from the IC71 question bank).",
-"r": "key"
-},
-{
-"n": 26,
+"n": 28,
 "topic": "Agriculture Insurance",
 "t": "Evaluate which of the following is a formal ex-ante strategy to mitigate agricultural risk",
 "o": [
@@ -365,7 +390,7 @@
 "e": "Correct answer: Infrastructure like dams, irrigation systems (from the IC71 question bank)."
 },
 {
-"n": 27,
+"n": 29,
 "topic": "Agriculture Insurance",
 "t": "Which of the options mentioned ,is not a feature of ANAGSA program implemented in Mexico?",
 "o": [
@@ -379,7 +404,7 @@
 "e": "Correct answer: Premiums were set on an actuarial basis (from the IC71 question bank)."
 },
 {
-"n": 28,
+"n": 30,
 "topic": "Agriculture Insurance",
 "t": "Recommend what is required for a dairy cow to maintain lactation. Choose the most appropriate answer",
 "o": [
@@ -393,7 +418,7 @@
 "e": "Correct answer: Dairy cow must be bred and produce calves (from the IC71 question bank)."
 },
 {
-"n": 29,
+"n": 31,
 "topic": "Agriculture Insurance",
 "t": "Select the institution that is spearheading agricultural credit delivery effort in India. Choose the most appropriate answer",
 "o": [
@@ -407,7 +432,7 @@
 "e": "Correct answer: Primary agricultural co-operative societies (PACs) (from the IC71 question bank)."
 },
 {
-"n": 30,
+"n": 32,
 "topic": "Agriculture Insurance",
 "t": "Evaluate the principle behind AMUL system of milk marketing.",
 "o": [
@@ -421,7 +446,7 @@
 "e": "Correct answer: Co-operative (from the IC71 question bank)."
 },
 {
-"n": 31,
+"n": 33,
 "topic": "Agriculture Insurance",
 "t": "State the fees payable per 100 DFLS payable to Sericulture Officer for Certificates issued by them",
 "o": [
@@ -435,7 +460,7 @@
 "e": "Correct answer: Rs 5 (from the IC71 question bank)."
 },
 {
-"n": 32,
+"n": 34,
 "topic": "Agriculture Insurance",
 "t": "Select a feature which is not eligible for good features discount under \"Comprehensive cover for poultry farms\" scheme.",
 "o": [
@@ -449,7 +474,7 @@
 "e": "Correct answer: Farms with mortality of greater than 5% in previous batch (from the IC71 question bank)."
 },
 {
-"n": 33,
+"n": 35,
 "topic": "Agriculture Insurance",
 "t": "Under the standard cattle insurance scheme what is the acceptable age group for insuring milch buffaloes. Choose the correct answer .",
 "o": [
@@ -463,7 +488,7 @@
 "e": "Correct answer: 3 years (or age at first calving) - 10 years (from the IC71 question bank)."
 },
 {
-"n": 34,
+"n": 36,
 "topic": "Agriculture Insurance",
 "t": "List the two factors that greatly determine hail insurance premiums. Choose the most appropriate answer.",
 "o": [
@@ -477,7 +502,7 @@
 "e": "Correct answer: Location and crop type (from the IC71 question bank)."
 },
 {
-"n": 35,
+"n": 37,
 "topic": "Agriculture Insurance",
 "t": "Select the statement that correctly describes dual purpose breeds. Choose the most appropriate answer",
 "o": [
@@ -491,7 +516,7 @@
 "e": "Correct answer: The cows of this breed are fairly good milk producers and the bullocks are good for draught work (from the IC71 question bank)."
 },
 {
-"n": 36,
+"n": 38,
 "topic": "Agriculture Insurance",
 "t": "State the maximum insurable age for horses.",
 "o": [
@@ -505,7 +530,7 @@
 "e": "Correct answer: 10 (from the IC71 question bank)."
 },
 {
-"n": 37,
+"n": 39,
 "topic": "Agriculture Insurance",
 "t": "Among the crop insurance schemes mentioned here, select the one that was implemented the first.",
 "o": [
@@ -519,21 +544,7 @@
 "e": "Correct answer: PCIS (from the IC71 question bank)."
 },
 {
-"topic": "Intermediaries",
-"t": "A corporate agent may tie up with a maximum of how many insurers in each line of business?",
-"o": [
-"3",
-"6",
-"9",
-"Unlimited"
-],
-"a": 2,
-"e": "★ Core fact (asked across III papers). Raised from 3 to 9 insurers per category (life, general, health) by the 2022 amendment to the Corporate Agents Regulations.",
-"r": "core",
-"n": 38
-},
-{
-"n": 39,
+"n": 40,
 "topic": "Agriculture Insurance",
 "t": "Select a crop from the list ,which can be covered under plantation insurance.",
 "o": [
@@ -547,7 +558,7 @@
 "e": "Correct answer: Poplar (from the IC71 question bank)."
 },
 {
-"n": 40,
+"n": 41,
 "topic": "Agriculture Insurance",
 "t": "Why is crop insurance not compulsory in Canada? Choose the most appropriate answer",
 "o": [
@@ -561,7 +572,7 @@
 "e": "Correct answer: It would be politically unacceptable to mandate participation in crop insurance programs (from the IC71 question bank)."
 },
 {
-"n": 41,
+"n": 42,
 "topic": "Agriculture Insurance",
 "t": "Based on your knowledge of \"Camel Insurance Scheme\", please answer the following question. What is the extra premium that needs to be  paid per year to insure camels that are greater than 10 years of age.",
 "o": [
@@ -575,7 +586,7 @@
 "e": "Correct answer: 0.5% per year (from the IC71 question bank)."
 },
 {
-"n": 42,
+"n": 43,
 "topic": "Agriculture Insurance",
 "t": "Reinsurance of reinsurance refers to _____________.",
 "o": [
@@ -589,7 +600,7 @@
 "e": "Correct answer: Retrocession (from the IC71 question bank)."
 },
 {
-"n": 43,
+"n": 44,
 "topic": "Agriculture Insurance",
 "t": "Identify the variable(s) used in determining the premium rate under NAIS. Choose the most appropriate answer.",
 "o": [
@@ -603,7 +614,7 @@
 "e": "Correct answer: Coefficient of variation and indemnity levels are used to determine premiums (from the IC71 question bank)."
 },
 {
-"n": 44,
+"n": 45,
 "topic": "Agriculture Insurance",
 "t": "Which of these is a desirable quality, if a risk has to lend itself to insurance?",
 "o": [
@@ -615,20 +626,6 @@
 ],
 "a": 4,
 "e": "Correct answer: The occurrence of risk has to cause economic loss to the insured (from the IC71 question bank)."
-},
-{
-"topic": "Reinsurance",
-"t": "The obligatory cession that Indian general insurers must make to GIC Re is currently:",
-"o": [
-"4%",
-"5%",
-"10%",
-"15%"
-],
-"a": 0,
-"e": "★ Core fact (asked across III papers). The obligatory cession was reduced to 4% from 1 April 2022.",
-"r": "core",
-"n": 45
 },
 {
 "n": 46,

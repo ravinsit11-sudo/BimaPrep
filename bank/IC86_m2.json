@@ -86,6 +86,20 @@
 {
 "n": 7,
 "topic": "Risk Management",
+"t": "Which of the following statement are correct about strategic management? <br><br>I.  It deals with speculative risks and not with any other risk <br>II. It aims at growth of an organization to fulfill its full productive potential <br>III. It focuses on an organization as a whole and not only on loss exposures",
+"o": [
+"I and II",
+"I and III",
+"II and III",
+"Only III",
+"I, II and III"
+],
+"a": 2,
+"e": "Correct answer: II and III (from the IC86 question bank)."
+},
+{
+"n": 8,
+"topic": "Risk Management",
 "t": "Under risk financing, which of the following is/are example/s of risk retention? <br><br>I.  Financing by forming a trust <br>II. Payment out of funded reserve <br>III. Financing through debt",
 "o": [
 "I and II",
@@ -98,7 +112,7 @@
 "e": "Correct answer: I, II and III (from the IC86 question bank)."
 },
 {
-"n": 8,
+"n": 9,
 "topic": "Risk Management",
 "t": "Helix Ltd is using an enterprise risk management system. Management of the company has set the company's objective, identified, measured and assessed risks. Further it has taken measures to avoid occurrence of risk, limit its severity and reduce its consequences. What is the next step in the risk management process?",
 "o": [
@@ -112,7 +126,21 @@
 "e": "Correct answer: Financing (from the IC86 question bank)."
 },
 {
-"n": 9,
+"n": 10,
+"topic": "Risk Management",
+"t": "State the reason/s for applying stress testing to all divisions of a company.<BR> <BR>I. To determine the performance of each division under a risk event <BR>II.  To determine the viability of each division under a risk event <BR>III. To determine the liquidity of each division under a risk event",
+"o": [
+"Only I",
+"Only II",
+"Only III",
+"I, II and III",
+"II and III"
+],
+"a": 1,
+"e": "Correct answer: Only II (from the IC86 question bank)."
+},
+{
+"n": 11,
 "topic": "Risk Management",
 "t": "Risks associated with individuals can be classified as which of the following types of risk?",
 "o": [
@@ -126,7 +154,7 @@
 "e": "Correct answer: Particular Risk (from the IC86 question bank)."
 },
 {
-"n": 10,
+"n": 12,
 "topic": "Risk Management",
 "t": "Device a term that describes the process of envisioning and preparing for extreme events that could threaten the viability of the enterprise.",
 "o": [
@@ -140,22 +168,7 @@
 "e": "Correct answer: Catastrophic risk management (from the IC86 question bank)."
 },
 {
-"n": 11,
-"topic": "Risk Management",
-"t": "In the year 1932 to 1968, which major industrial disaster took place?",
-"o": [
-"Triangle Factory Fire New York (USA)",
-"Mina Mata Mercury Disaster (Japan)",
-"Seveso Dioxin Disaster (Italy)",
-"Bhopal Gas Disaster (India)",
-"Port Chicago disaster (USA)"
-],
-"a": 1,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Mina Mata Mercury Disaster (Japan) (from the IC86 question bank).",
-"r": "key"
-},
-{
-"n": 12,
+"n": 13,
 "topic": "Risk Management",
 "t": "In the year 1984, which major industrial disaster took place?",
 "o": [
@@ -169,7 +182,7 @@
 "e": "Correct answer: Bhopal Gas Disaster (India) (from the IC86 question bank)."
 },
 {
-"n": 13,
+"n": 14,
 "topic": "Risk Management",
 "t": "The risk in which price reduction or the purchase and sale constraints are involved can be classified as which of the following type of risk?",
 "o": [
@@ -183,7 +196,7 @@
 "e": "Correct answer: Market Risk (from the IC86 question bank)."
 },
 {
-"n": 14,
+"n": 15,
 "topic": "Risk Management",
 "t": "In the year 1985 which major event took place?",
 "o": [
@@ -197,7 +210,7 @@
 "e": "Correct answer: Formation of independent national commission by COSO (from the IC86 question bank)."
 },
 {
-"n": 15,
+"n": 16,
 "topic": "Risk Management",
 "t": "Which among the following can be objectives of risk management? <br><br>I.  Mere survival <br>II. Peace of mind <br>III. Lower risk management costs and thus higher profits",
 "o": [
@@ -211,7 +224,7 @@
 "e": "Correct answer: II and III (from the IC86 question bank)."
 },
 {
-"n": 16,
+"n": 17,
 "topic": "Risk Management",
 "t": "Which of the following technique relates to risk control?<BR> <BR>I. Preventing losses <BR>II. Minimising losses <BR>III. Paying for the losses",
 "o": [
@@ -225,7 +238,7 @@
 "e": "Correct answer: I and II (from the IC86 question bank)."
 },
 {
-"n": 17,
+"n": 18,
 "topic": "Risk Management",
 "t": "Define physical risk.",
 "o": [
@@ -239,7 +252,7 @@
 "e": "Correct answer: The risk arising due to storm, tempest, flood, hurricane and such other natural phenomena is known as physical risk. (from the IC86 question bank)."
 },
 {
-"n": 18,
+"n": 19,
 "topic": "Risk Management",
 "t": "Identify the odd one out.",
 "o": [
@@ -253,7 +266,7 @@
 "e": "Correct answer: Vandalism (from the IC86 question bank)."
 },
 {
-"n": 19,
+"n": 20,
 "topic": "Risk Management",
 "t": "Which of the following statements are true about a risk preferer person? <br><bR>I. He welcomes risk or uncertainty <br>II. He is willing to take chance of gain against the odds posed by risks <br>III. He shall bet more on the risky team of a match",
 "o": [
@@ -265,21 +278,6 @@
 ],
 "a": 4,
 "e": "Correct answer: I, II and III (from the IC86 question bank)."
-},
-{
-"n": 20,
-"topic": "Risk Management",
-"t": "Identify the industrial disaster in which, 3,000 animals died, 70,000 slaughtered to prevent  dioxins entering food chain.",
-"o": [
-"Triangle Factory Fire New York (USA)",
-"Mina Mata Mercury Disaster (Japan)",
-"Seveso Dioxin Disaster (Italy)",
-"Bhopal Gas Disaster (India)",
-"Port Chicago disaster (USA)"
-],
-"a": 2,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Seveso Dioxin Disaster (Italy) (from the IC86 question bank).",
-"r": "key"
 },
 {
 "n": 21,
@@ -340,21 +338,6 @@
 {
 "n": 25,
 "topic": "Risk Management",
-"t": "Taking a Rs. 10,000 deductible on the machinery insurance policy is an example of__________.",
-"o": [
-"Risk avoidance",
-"Loss reduction",
-"Risk assumption",
-"Risk transfer",
-"Hedging"
-],
-"a": 2,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Risk assumption (from the IC86 question bank).",
-"r": "key"
-},
-{
-"n": 26,
-"topic": "Risk Management",
 "t": "Which of the following is/are a basic elements of a valid contract?<BR> <BR>I. Offer and acceptance <BR>II. Legality of purpose <BR>III. Consideration",
 "o": [
 "I and II",
@@ -365,6 +348,20 @@
 ],
 "a": 3,
 "e": "Correct answer: I, II and III (from the IC86 question bank)."
+},
+{
+"n": 26,
+"topic": "Risk Management",
+"t": "Carter Ltd is considering establishing a risk management system. Which of the following is not a benefit of risk management system? <br><bR>I. Helps organisation seize opportunities <br>II. Enhances risk response decisions <br>III. Insures organizations shares of all major risks",
+"o": [
+"Only I",
+"Only II",
+"Only III",
+"I and II",
+"II and III"
+],
+"a": 2,
+"e": "Correct answer: Only III (from the IC86 question bank)."
 },
 {
 "n": 27,
@@ -453,6 +450,20 @@
 {
 "n": 33,
 "topic": "Risk Management",
+"t": "Which of the following are the advantages of  the flow charts method of risk identification? <br><br>I.  The flow charts help to understand only the financial flow aspects of an organisation and risks involved <br>II. The flow chart helps to understand the potential risks at different stages of the flow <br>III. This methods adopts a broad based approach to risk and is not concerned with identifying individual source of risk",
+"o": [
+"Only I",
+"I and III",
+"I, II and III",
+"II and III",
+"I and II"
+],
+"a": 2,
+"e": "Correct answer: I, II and III (from the IC86 question bank)."
+},
+{
+"n": 34,
+"topic": "Risk Management",
 "t": "Which of the following values indicate the state of absolute certainty of the probability of occurrence of an event? <BR><br>I. Zero <br>II. One <br>III. Two",
 "o": [
 "Only I",
@@ -465,7 +476,7 @@
 "e": "Correct answer: Only II (from the IC86 question bank)."
 },
 {
-"n": 34,
+"n": 35,
 "topic": "Risk Management",
 "t": "There was a gas leak after working hours, which was repaired after some hours. Which phase of  disaster is appropriate in this situation?",
 "o": [
@@ -479,7 +490,7 @@
 "e": "Correct answer: Emergency response phase (from the IC86 question bank)."
 },
 {
-"n": 35,
+"n": 36,
 "topic": "Risk Management",
 "t": "Emergency, disaster and catastrophe - all these terms are _________ frequency ________ severity risks.",
 "o": [
@@ -491,20 +502,6 @@
 ],
 "a": 1,
 "e": "Correct answer: Low high (from the IC86 question bank)."
-},
-{
-"topic": "Reinsurance",
-"t": "The obligatory cession that Indian general insurers must make to GIC Re is currently:",
-"o": [
-"4%",
-"5%",
-"10%",
-"15%"
-],
-"a": 0,
-"e": "★ Core fact (asked across III papers). The obligatory cession was reduced to 4% from 1 April 2022.",
-"r": "core",
-"n": 36
 },
 {
 "n": 37,
@@ -523,6 +520,20 @@
 {
 "n": 38,
 "topic": "Risk Management",
+"t": "Alternative risk transfer and financing concepts and techniques can be differentiated as per which of the following criteria or \"dimensions\". <BR><BR>I. Goal - risk financing vs. risk transfer <BR>II. Market - insurance markets vs. capital markets <BR>III. Products - reinsurance and financial structures",
+"o": [
+"Only I",
+"Only II",
+"Only III",
+"I and II",
+"I, II and III"
+],
+"a": 4,
+"e": "Correct answer: I, II and III (from the IC86 question bank)."
+},
+{
+"n": 39,
+"topic": "Risk Management",
 "t": "While using loss experience statistics, for risk assessment, corrections will be required to  obtain realistic figures, for which of the following factors?<BR><BR> I. Inflation <BR>II. Exposure in units <BR>III. Change  in legislation",
 "o": [
 "Only I",
@@ -535,7 +546,7 @@
 "e": "Correct answer: I, II and III (from the IC86 question bank)."
 },
 {
-"n": 39,
+"n": 40,
 "topic": "Risk Management",
 "t": "The likelihood of marriage of 'A' is impossible. Which value shall be assigned to the probability of occurrence of the above said event? <BR> <BR>I. Zero <BR>II. One <BR>III. Two",
 "o": [
@@ -549,7 +560,7 @@
 "e": "Correct answer: Only I (from the IC86 question bank)."
 },
 {
-"n": 40,
+"n": 41,
 "topic": "Risk Management",
 "t": "The basic elements of any loss exposure comprise of:- <BR> <BR>I. Values exposed to loss <BR>II. Perils causing loss  <BR>III. Financial consequences of loss",
 "o": [
@@ -563,7 +574,7 @@
 "e": "Correct answer: I, II and III (from the IC86 question bank)."
 },
 {
-"n": 41,
+"n": 42,
 "topic": "Risk Management",
 "t": "Which of the following are the advantages of  the hazard and operability (HAZOP) Study of risk identification? <BR><br>I. This method can be used for all sorts of industries <br>II. This method can be employed at the planning and design stage of a project <br>III. HAZOP provides a qualitative approach to risk identification",
 "o": [
@@ -577,7 +588,7 @@
 "e": "Correct answer: II and III (from the IC86 question bank)."
 },
 {
-"n": 42,
+"n": 43,
 "topic": "Risk Management",
 "t": "For the purpose of determining property loss exposures, property is divided into real and personal  property. The following are examples of personal property, except:-",
 "o": [
@@ -591,7 +602,7 @@
 "e": "Correct answer: Buildings (from the IC86 question bank)."
 },
 {
-"n": 43,
+"n": 44,
 "topic": "Risk Management",
 "t": "Which of the following statements are true about the organisation charts method of risk identification? <BR><br>I. This method helps pinpointing the \"risk areas\" <br>II. These charts help in understanding the group, group companies and their management structures <br>III. The charts demonstrate level of responsibilities for various tasks, communication links, interdependencies",
 "o": [
@@ -605,7 +616,7 @@
 "e": "Correct answer: I, II and III (from the IC86 question bank)."
 },
 {
-"n": 44,
+"n": 45,
 "topic": "Risk Management",
 "t": "_________ is a comprehensive statement of consistent actions to be taken before, during and after a disaster.",
 "o": [
@@ -617,20 +628,6 @@
 ],
 "a": 1,
 "e": "Correct answer: Business continuity plan (from the IC86 question bank)."
-},
-{
-"topic": "Principles",
-"t": "The principle that allows an insurer who has paid a claim to step into the insured's shoes and recover from a liable third party is:",
-"o": [
-"Contribution",
-"Subrogation",
-"Indemnity",
-"Proximate cause"
-],
-"a": 1,
-"e": "★ Core fact (asked across III papers). Subrogation is a corollary of indemnity; it does not apply to life or personal accident (benefit) policies.",
-"r": "core",
-"n": 45
 },
 {
 "n": 46,

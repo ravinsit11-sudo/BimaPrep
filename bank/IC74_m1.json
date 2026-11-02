@@ -58,6 +58,20 @@
 {
 "n": 5,
 "topic": "Liability Insurance",
+"t": "Under which scenario will the pollution liability exclusion not be applied under CGL policy?<br><br>I: Damage arising out of pollution inside insureds premises<br>II: Damage arising out of pollution inside premises loaned out by the insured<br>III: Damage arising out of heat, smoke or fumes from a hostile fire",
+"o": [
+"I only",
+"II only",
+"III only",
+"I and II",
+"II and III"
+],
+"a": 2,
+"e": "Correct answer: III only (from the IC74 question bank)."
+},
+{
+"n": 6,
+"topic": "Liability Insurance",
 "t": "List any source of civil liability.",
 "o": [
 "Theft",
@@ -70,7 +84,7 @@
 "e": "Correct answer: Landlord tenant disputes (from the IC74 question bank)."
 },
 {
-"n": 6,
+"n": 7,
 "topic": "Liability Insurance",
 "t": "Which among the following is covered under \"Pollution cover\" for public liability policies?",
 "o": [
@@ -84,7 +98,7 @@
 "e": "Correct answer: Death or bodily injury (from the IC74 question bank)."
 },
 {
-"n": 7,
+"n": 8,
 "topic": "Liability Insurance",
 "t": "______________ is defined as \"an accident involving a fortuitous, sudden or unintentional occurrence while handling any hazardous substance resulting   in continuous, intermittent or repeated exposure to death of, or injury to person or damage to any property but does not include an accident by reason only of war or radio-activity\", under Public Liability Act 1991.",
 "o": [
@@ -98,7 +112,7 @@
 "e": "Correct answer: Accident (from the IC74 question bank)."
 },
 {
-"n": 8,
+"n": 9,
 "topic": "Liability Insurance",
 "t": "Under Liability claims, the amount of claim payable is reduced based on:-",
 "o": [
@@ -112,7 +126,7 @@
 "e": "Correct answer: compulsory excess (from the IC74 question bank)."
 },
 {
-"n": 9,
+"n": 10,
 "topic": "Liability Insurance",
 "t": "Which among the following needs to be answered, before a liability claim can be settled?<BR><BR>I: What is the occupation of the claimant?<BR>II: What is the amount of claim payable?<BR>III: Is the insured legally liable to the claimant?",
 "o": [
@@ -126,7 +140,7 @@
 "e": "Correct answer: II and III (from the IC74 question bank)."
 },
 {
-"n": 10,
+"n": 11,
 "topic": "Liability Insurance",
 "t": "None of the following is true with regards to Criminal Liability EXCEPT:- <BR><BR>I: It results from disputes between individuals<BR>II: Prosecution is not allowed to appeal<BR>III: Case is filed by private party",
 "o": [
@@ -138,21 +152,6 @@
 ],
 "a": 1,
 "e": "Correct answer: II only (from the IC74 question bank)."
-},
-{
-"n": 11,
-"topic": "Liability Insurance",
-"t": "An insurer purchases 75% quota share treaty. What is the percentage of premiums that they would share with the reinsurer?",
-"o": [
-"1/4 of premiums",
-"1/2 of premiums",
-"3/4 of premiums",
-"2/4 of premiums",
-"7/5 of premiums"
-],
-"a": 2,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: 3/4 of premiums (from the IC74 question bank).",
-"r": "key"
 },
 {
 "n": 12,
@@ -227,21 +226,6 @@
 {
 "n": 17,
 "topic": "Liability Insurance",
-"t": "Under Section 59 of the Sale of Goods Act:-",
-"o": [
-"The seller must educate the user on the applicatio",
-"The buyer can claim damages for breach of contract",
-"The seller must warn the buyer regarding the produ",
-"The seller must not overcharge the buyer",
-"The seller must not discount the product below a c"
-],
-"a": 1,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: The buyer can claim damages for breach of contract (from the IC74 question bank).",
-"r": "key"
-},
-{
-"n": 18,
-"topic": "Liability Insurance",
 "t": "Which of the following is not relevant for investigation report on a public liability claim?",
 "o": [
 "Nature and extent of damage of third party propert",
@@ -254,7 +238,7 @@
 "e": "Correct answer: Names of officers of the Insured company (from the IC74 question bank)."
 },
 {
-"n": 19,
+"n": 18,
 "topic": "Liability Insurance",
 "t": "The contents of a proposal form for products liability policy are most likely to include:-",
 "o": [
@@ -268,7 +252,7 @@
 "e": "Correct answer: Full details of products manufactured with leaflet, brochures etc. (from the IC74 question bank)."
 },
 {
-"n": 20,
+"n": 19,
 "topic": "Liability Insurance",
 "t": "____________ is a person who enters a property for reasons of common interest.",
 "o": [
@@ -282,7 +266,7 @@
 "e": "Correct answer: Invitee (from the IC74 question bank)."
 },
 {
-"n": 21,
+"n": 20,
 "topic": "Liability Insurance",
 "t": "Mention exclusions specific to Professional indemnity policies for professionals, other than medical professionals.",
 "o": [
@@ -296,7 +280,7 @@
 "e": "Correct answer: Activities of the Insured as joint venture who is not named in the Schedule. (from the IC74 question bank)."
 },
 {
-"n": 22,
+"n": 21,
 "topic": "Liability Insurance",
 "t": "Under liability insurance policies, clause providing for extension of time limit for notification of claims for the accidents which had taken place during the period of insurance, but could not be made during the policy period, is known as:-",
 "o": [
@@ -310,7 +294,7 @@
 "e": "Correct answer: Extended Claim Reporting Clause (from the IC74 question bank)."
 },
 {
-"n": 23,
+"n": 22,
 "topic": "Liability Insurance",
 "t": "Under Section 17 of the Sale of Goods Act:-",
 "o": [
@@ -324,7 +308,7 @@
 "e": "Correct answer: The seller has to ensure the goods shall, not only correspond with sample in quality, but shall also be free from defects. (from the IC74 question bank)."
 },
 {
-"n": 24,
+"n": 23,
 "topic": "Liability Insurance",
 "t": "The important decision that 'the professional would be liable to persons other than his clients in appropriate circumstances' was held in which of the following court cases?",
 "o": [
@@ -338,7 +322,7 @@
 "e": "Correct answer: Hedley Byrne & Co Ltd. vs. Hellers & Partners ltd. (from the IC74 question bank)."
 },
 {
-"n": 25,
+"n": 24,
 "topic": "Liability Insurance",
 "t": "None of the following is true with regards to investigation of liability claims EXCEPT:-",
 "o": [
@@ -350,6 +334,20 @@
 ],
 "a": 3,
 "e": "Correct answer: Generally, Insurers carry out investigations, immediately after a claim intimation is received (from the IC74 question bank)."
+},
+{
+"n": 25,
+"topic": "Liability Insurance",
+"t": "Identify the civil liability that is outside the purview of Liability Insurance.<br><br>I: Injury to industrial workers due to explosion at work site<br>II: Builder delay in completion of construction contract<br>III: Food poisoning of guests at marriage reception",
+"o": [
+"I only",
+"II only",
+"III only",
+"I and II",
+"II and III"
+],
+"a": 1,
+"e": "Correct answer: II only (from the IC74 question bank)."
 },
 {
 "n": 26,
@@ -368,21 +366,6 @@
 {
 "n": 27,
 "topic": "Liability Insurance",
-"t": "Under Section 16 of the Sale of Goods Act:-",
-"o": [
-"The seller must educate the user on the applicatio",
-"The seller has an obligation to ensure that the goods sold are fit for the purpose for which they are required by the buyer",
-"The seller must warn the buyer regarding the produ",
-"The seller must not overcharge the buyer",
-"The seller must not discount the product below a c"
-],
-"a": 1,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: The seller has an obligation to ensure that the goods sold are fit for the purpose for which they are required by the buyer (from the IC74 question bank).",
-"r": "key"
-},
-{
-"n": 28,
-"topic": "Liability Insurance",
 "t": "Automatic cover for subsidiaries created or acquired by the company during the period of insurance can be sought under ___________ extension of D&O policy.",
 "o": [
 "Blanket Subsidiary cover or auto acquisition of subsidiaries",
@@ -395,7 +378,7 @@
 "e": "Correct answer: Blanket Subsidiary cover or auto acquisition of subsidiaries (from the IC74 question bank)."
 },
 {
-"n": 29,
+"n": 28,
 "topic": "Liability Insurance",
 "t": "Which among the following information is present in claim form for employer's liability insurance policy?<br><br>I: Date of accident<br>II: Circumstances of the accident<br>III: Whether accident is related to  employment",
 "o": [
@@ -409,7 +392,7 @@
 "e": "Correct answer: I and II and III (from the IC74 question bank)."
 },
 {
-"n": 30,
+"n": 29,
 "topic": "Liability Insurance",
 "t": "State the limit of indemnity under an Employees Liability Policy.",
 "o": [
@@ -423,7 +406,7 @@
 "e": "Correct answer: No limit (from the IC74 question bank)."
 },
 {
-"n": 31,
+"n": 30,
 "topic": "Liability Insurance",
 "t": "Umbrella policies originated in ___________.",
 "o": [
@@ -437,7 +420,7 @@
 "e": "Correct answer: USA (from the IC74 question bank)."
 },
 {
-"n": 32,
+"n": 31,
 "topic": "Liability Insurance",
 "t": "Clinical trials may be done on:-<br><br>I: Healthy people<br>II: Patients suffering from disease<br>III: Dead people",
 "o": [
@@ -451,7 +434,7 @@
 "e": "Correct answer: I and II (from the IC74 question bank)."
 },
 {
-"n": 33,
+"n": 32,
 "topic": "Liability Insurance",
 "t": "All of the following are reasons for a primary insurer to use reinsurance EXCEPT:-",
 "o": [
@@ -465,7 +448,7 @@
 "e": "Correct answer: To increase the unearned premium reserve (from the IC74 question bank)."
 },
 {
-"n": 34,
+"n": 33,
 "topic": "Liability Insurance",
 "t": "__________ is the law as enacted by the legislature.",
 "o": [
@@ -479,7 +462,7 @@
 "e": "Correct answer: Statutory law (from the IC74 question bank)."
 },
 {
-"n": 35,
+"n": 34,
 "topic": "Liability Insurance",
 "t": "Effect of the treatment is compared with commonly used treatments in Phase _______ of clinical trials.",
 "o": [
@@ -493,21 +476,7 @@
 "e": "Correct answer: III (from the IC74 question bank)."
 },
 {
-"topic": "Principles",
-"t": "Non-disclosure of a material fact by the proposer makes the contract:",
-"o": [
-"Void ab initio",
-"Voidable at the option of the insurer",
-"Illegal",
-"Automatically continued on revised terms"
-],
-"a": 1,
-"e": "★ Core fact (asked across III papers). Breach of utmost good faith renders the contract voidable, not void; the insurer may elect to avoid it (subject to Section 45 for life).",
-"r": "core",
-"n": 36
-},
-{
-"n": 37,
+"n": 35,
 "topic": "Liability Insurance",
 "t": "Which of the following risks can be categorised as Non-Industrial risk for the purpose of Public Liability Insurance?",
 "o": [
@@ -521,7 +490,21 @@
 "e": "Correct answer: Exhibitions, fairs (from the IC74 question bank)."
 },
 {
-"n": 38,
+"n": 36,
+"topic": "Liability Insurance",
+"t": "Computer services and software developers' professional liability policy  exclude cover for:-<br><br>I: Technical errors<br>II: Negligence or omission<br>III: Liability assumed under any contract or agreement by way of guarantee, warranty, penalty clause or any obligation deemed uninsurable under Law",
+"o": [
+"I only",
+"II only",
+"III only",
+"I and II",
+"II and III"
+],
+"a": 2,
+"e": "Correct answer: III only (from the IC74 question bank)."
+},
+{
+"n": 37,
 "topic": "Liability Insurance",
 "t": "Which among the following is a disadvantage of treaty reinsurance",
 "o": [
@@ -535,7 +518,7 @@
 "e": "Correct answer: No freedom of choice as both parties are tied into the contract (from the IC74 question bank)."
 },
 {
-"n": 39,
+"n": 38,
 "topic": "Liability Insurance",
 "t": "Which among the following information is present in claim form for employer's liability insurance policy?<br><br>I: Annual wages paid to employee<br>II: Details of foreign branches of Insured<br>III: Monthly average wages of the injured",
 "o": [
@@ -549,7 +532,7 @@
 "e": "Correct answer: III only (from the IC74 question bank)."
 },
 {
-"n": 40,
+"n": 39,
 "topic": "Liability Insurance",
 "t": "The amount of relief payable in case of \"Permanent Partial Disability\" under \"Public Liability Insurance Act 1991\" is _____________.",
 "o": [
@@ -563,7 +546,7 @@
 "e": "Correct answer: Based on the percentage of disability as certified by the physician (from the IC74 question bank)."
 },
 {
-"n": 41,
+"n": 40,
 "topic": "Liability Insurance",
 "t": "Which among the following conditions should be followed in case of public liability policy?",
 "o": [
@@ -577,7 +560,7 @@
 "e": "Correct answer: Insured has to notify, as soon as reasonably practicable of any fact which materially changes the information supplied to the company when the policy was effected. (from the IC74 question bank)."
 },
 {
-"n": 42,
+"n": 41,
 "topic": "Liability Insurance",
 "t": "Claims under workmen's compensation policies can fall into which of the following categories?<br><br>I: Bruises<br>II: Wounds<br>III: Permanent Total Disablement",
 "o": [
@@ -591,7 +574,7 @@
 "e": "Correct answer: III only (from the IC74 question bank)."
 },
 {
-"n": 43,
+"n": 42,
 "topic": "Liability Insurance",
 "t": "Expense ratio includes:-<br><br>I: IT costs<br>II: Claims paid<br>III: Brokerage paid to intermediaries",
 "o": [
@@ -605,7 +588,7 @@
 "e": "Correct answer: I only (from the IC74 question bank)."
 },
 {
-"n": 44,
+"n": 43,
 "topic": "Liability Insurance",
 "t": "In investigation of Products Liability Claims, the insurers would like to have information on:-<br><br>I: Packaging and Labelling of products<br>II: Details of wages paid and profits made by the Insured<br>III: Quality Control",
 "o": [
@@ -616,6 +599,20 @@
 "II and III"
 ],
 "a": 1,
+"e": "Correct answer: I & III only (from the IC74 question bank)."
+},
+{
+"n": 44,
+"topic": "Liability Insurance",
+"t": "Under supplemental coverage of CGL policy, if insurers defend an insured against a suit and an indemnitee of the insured is also named as a party to the suit, the insurers will defend that indemnitee on the conditions that:-<BR><BR>I: Allegations in the suit and the information known by the insurer about the occurrence are such that no conflict of interest appears to exist between the interests of the insured and indemnitee<BR>II: Indemnitee is also a client of the insurer<BR>III: Indemnitee and insured authorize insurers to conduct and control the defense of that suit and agree to assign the same counsel for both",
+"o": [
+"I only",
+"II & III only",
+"I & III only",
+"II only",
+"II and III"
+],
+"a": 2,
 "e": "Correct answer: I & III only (from the IC74 question bank)."
 },
 {
@@ -633,21 +630,7 @@
 "e": "Correct answer: III only (from the IC74 question bank)."
 },
 {
-"topic": "Taxation",
-"t": "Deduction for life insurance premium under Section 80C of the Income Tax Act is available up to an overall limit of:",
-"o": [
-"₹1 lakh",
-"₹1.5 lakh",
-"₹2 lakh",
-"₹2.5 lakh"
-],
-"a": 1,
-"e": "★ Core fact (asked across III papers). ₹1,50,000 aggregate for all 80C items; premium qualifies only up to 10% of the sum assured for policies issued after 1 April 2012.",
-"r": "core",
-"n": 46
-},
-{
-"n": 47,
+"n": 46,
 "topic": "Liability Insurance",
 "t": "The process of estimating legal risk involves evaluation of:-",
 "o": [
@@ -661,7 +644,7 @@
 "e": "Correct answer: The probability of the services rendered by the insured causing an event (from the IC74 question bank)."
 },
 {
-"n": 48,
+"n": 47,
 "topic": "Liability Insurance",
 "t": "___________ is the insurance company that accepts the transfer of risk from the ceding company.",
 "o": [
@@ -675,7 +658,7 @@
 "e": "Correct answer: Reinsurer (from the IC74 question bank)."
 },
 {
-"n": 49,
+"n": 48,
 "topic": "Liability Insurance",
 "t": "Which among the following policies cannot be offered under liability insurances?",
 "o": [
@@ -687,6 +670,20 @@
 ],
 "a": 3,
 "e": "Correct answer: Business Interruption insurance (from the IC74 question bank)."
+},
+{
+"n": 49,
+"topic": "Liability Insurance",
+"t": "Application for a claim under Public Liability Act has be to be supported by documents such as _________.<br><br>I: Driving licence in case of motor accident<br>II: No liability certificate<br>III: Medical Certificate from an authorised physician regarding injury, disability or illness",
+"o": [
+"I only",
+"II only",
+"III only",
+"I and II",
+"II and III"
+],
+"a": 2,
+"e": "Correct answer: III only (from the IC74 question bank)."
 },
 {
 "n": 50,

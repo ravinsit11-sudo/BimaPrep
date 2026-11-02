@@ -100,17 +100,16 @@
 {
 "n": 8,
 "topic": "Engineering Insurance",
-"t": "What is the minimum capacity of a vessel to be termed as a boiler under the Indian Boilers Act 1923?",
+"t": "In respect of deterioration of Stock Insurance policy, which of the following statement is correct? <bR><bR>I. In case of serious loss potential it is necessary that acceptance of this risk is made on the basis of technical Inspection Report of an engineer <br>II. Technical inspection should be carried out prior to each renewal <br>III. Such policies are not subject to a deductible excess in respect of each and every claim",
 "o": [
-"10 litres",
-"15 litres",
-"22.75 litres",
-"37.5 litres",
-"45.25 litres"
+"I and II",
+"II and III",
+"I and III",
+"Only I",
+"I, II and III"
 ],
-"a": 2,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: 22.75 litres (from the IC77 question bank).",
-"r": "key"
+"a": 0,
+"e": "Correct answer: I and II (from the IC77 question bank)."
 },
 {
 "n": 9,
@@ -156,6 +155,20 @@
 {
 "n": 12,
 "topic": "Engineering Insurance",
+"t": "Which of the following statements are true about the technical control and underwriting considerations in an electronic equipment insurance policy? <bR><br>I. Separate consideration should be given to the computers used for process control <br>II. A Technical Survey should be conducted of all such electronic equipment and computer installation <br>III. A special questionnaire is to be filled in by the Insured giving relevant particulars of the items proposed for Insurance",
+"o": [
+"Only I",
+"Only II",
+"Only III",
+"I and II",
+"I, II and III"
+],
+"a": 4,
+"e": "Correct answer: I, II and III (from the IC77 question bank)."
+},
+{
+"n": 13,
+"topic": "Engineering Insurance",
 "t": "Under predictive maintenance, which analysis is suitable for analysisng motors, alternators, insulation, brickwork of boilers?",
 "o": [
 "Vibratory analysis",
@@ -168,7 +181,21 @@
 "e": "Correct answer: Infrared thermal analysis (from the IC77 question bank)."
 },
 {
-"n": 13,
+"n": 14,
+"topic": "Engineering Insurance",
+"t": "In respect of property or plant under construction, the sum insured in a Comprehensive Project Insurance Policy should represent which of the following values? <bR><br>I. Depreciated value of the items covered <br>II. Resale value of the items covered <br>III. New reinstating value of the items covered",
+"o": [
+"Only I",
+"Only II",
+"Only III",
+"I and II",
+"I, II and III"
+],
+"a": 2,
+"e": "Correct answer: Only III (from the IC77 question bank)."
+},
+{
+"n": 15,
 "topic": "Engineering Insurance",
 "t": "Testing operations can be divided into how many categories?",
 "o": [
@@ -182,7 +209,7 @@
 "e": "Correct answer: Two (from the IC77 question bank)."
 },
 {
-"n": 14,
+"n": 16,
 "topic": "Engineering Insurance",
 "t": "Which of the following types of expenditures are covered under the delay in start-up section of a CPI Policy? <bR><br>I. Express deliveries <br>II. Air freight  <br>III. Overtime",
 "o": [
@@ -196,7 +223,7 @@
 "e": "Correct answer: I, II and III (from the IC77 question bank)."
 },
 {
-"n": 15,
+"n": 17,
 "topic": "Engineering Insurance",
 "t": "Which of the following are the advantages of an insurance company providing inspection services along with engineering insurance?<br><br>I. Assess risk from underwriting angle<br>II. Recommend loss minimisation<br>III. Risk improvement measures",
 "o": [
@@ -210,7 +237,7 @@
 "e": "Correct answer: I, II and III (from the IC77 question bank)."
 },
 {
-"n": 16,
+"n": 18,
 "topic": "Engineering Insurance",
 "t": "Which of the following losses are excluded from the scope of a MLOP Policy? <bR><bR>I. Spoilage of materials <br>II. Improvement expenses <br>III. Overhaul expenses to damaged property",
 "o": [
@@ -224,22 +251,7 @@
 "e": "Correct answer: I, II and III (from the IC77 question bank)."
 },
 {
-"n": 17,
-"topic": "Engineering Insurance",
-"t": "In a 'Hydrocarbon Endorsement For Testing & Commissioning' -Article 1, in any operation where hydrocarbons or hydrogen are involved the deductible excess shall be 5% of claim amount subject to minimum of _______.",
-"o": [
-"Rs1,00,000",
-"Rs2,00,000",
-"Rs3,00,000",
-"Rs4,00,000",
-"Rs5,00,000"
-],
-"a": 4,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Rs5,00,000 (from the IC77 question bank).",
-"r": "key"
-},
-{
-"n": 18,
+"n": 19,
 "topic": "Engineering Insurance",
 "t": "In a deterioration of stock (Potatoes) in cold storage insurance policy, how is the value of the potatoes at the time of commencement of the insurance determined?",
 "o": [
@@ -253,7 +265,7 @@
 "e": "Correct answer: Mutually agreed upon between the insured and the insurance company (from the IC77 question bank)."
 },
 {
-"n": 19,
+"n": 20,
 "topic": "Engineering Insurance",
 "t": "____________ refers to the amount of money (less discounts allowed) paid or payable to the Insured for goods, products or services sold, delivered or rendered in the course of the insured business conducted at the premises.",
 "o": [
@@ -267,7 +279,7 @@
 "e": "Correct answer: Turnover (from the IC77 question bank)."
 },
 {
-"n": 20,
+"n": 21,
 "topic": "Engineering Insurance",
 "t": "Identify the reinsurance arrangement which is very much necessary to protect the net account of the insurance company in the event of catastrophic losses.",
 "o": [
@@ -281,7 +293,7 @@
 "e": "Correct answer: Excess of loss treaty (from the IC77 question bank)."
 },
 {
-"n": 21,
+"n": 22,
 "topic": "Engineering Insurance",
 "t": "Five sets of endorsement wordings are available from the London Market for the Defect Exclusion (D.E.). Which set pertains to DE5?",
 "o": [
@@ -295,7 +307,7 @@
 "e": "Correct answer: Design improvement exclusion (from the IC77 question bank)."
 },
 {
-"n": 22,
+"n": 23,
 "topic": "Engineering Insurance",
 "t": "When does the period of insurance under a ALOP Policy terminates?<br><br>I. End of one year from issue of policy<br>II. Commencement of commercial operations<br>III. Completion of substantial construction",
 "o": [
@@ -309,7 +321,7 @@
 "e": "Correct answer: Only II (from the IC77 question bank)."
 },
 {
-"n": 23,
+"n": 24,
 "topic": "Engineering Insurance",
 "t": "The package of which two policies together is often termed as DOS  Insurance?  <bR><bR>I. Only Machinery Insurance policy  <br>II.  Loss of Profit <br>III. Losses due to machinery breakdown IV. Machinery damage and damage to stocks in lieu of the same",
 "o": [
@@ -323,7 +335,7 @@
 "e": "Correct answer: IV (from the IC77 question bank)."
 },
 {
-"n": 24,
+"n": 25,
 "topic": "Engineering Insurance",
 "t": "Which of the following are examples of operational phase policies?<BR><BR>I. Machinery Insurance (MI)<BR>II. Civil Engineering Completed Risks (CECR)<BR>III. Machinery Loss of Profits",
 "o": [
@@ -337,7 +349,7 @@
 "e": "Correct answer: I, II and III (from the IC77 question bank)."
 },
 {
-"n": 25,
+"n": 26,
 "topic": "Engineering Insurance",
 "t": "Prakash Industries has a bulb manufacturing factory. It has taken a machinery insurance policy for its machines. The owner wants to know which of the following losses shall not be covered under the policy? <bR><bR>I. Theft of machinery parts from the factory <br>II. Damage of machinery due to collision of machines during shifting within premises <br>III. Damage of machinery due to over heating",
 "o": [
@@ -351,7 +363,7 @@
 "e": "Correct answer: Only I (from the IC77 question bank)."
 },
 {
-"n": 26,
+"n": 27,
 "topic": "Engineering Insurance",
 "t": "Contractor's plant and machinery insurance protects the contractor from which of the following perils?<BR><BR>I. Fire<BR>II. Human error<BR>III. Storm",
 "o": [
@@ -365,7 +377,7 @@
 "e": "Correct answer: I  II & III (from the IC77 question bank)."
 },
 {
-"n": 27,
+"n": 28,
 "topic": "Engineering Insurance",
 "t": "Which of the following plant and machinery shall not be classified under mobile machinery?",
 "o": [
@@ -379,7 +391,21 @@
 "e": "Correct answer: Fixed conveyor systems (from the IC77 question bank)."
 },
 {
-"n": 28,
+"n": 29,
+"topic": "Engineering Insurance",
+"t": "As per a Contractor's Plant and Machinery (CPM) insurance policy if in the event of loss or damage, it is found that the sum insured is less than the amount required to be insured, then _______________.<br><br>I. The amount recoverable by the insured gets reduced in such proportion as the sum insured bears to the amount required to be insured<br>II. The insurer still pays the amount required to recover the loss<br>III. The insurer pays the complete sum insured",
+"o": [
+"Only I",
+"Only II",
+"Only III",
+"I and II",
+"I, II and III"
+],
+"a": 0,
+"e": "Correct answer: Only I (from the IC77 question bank)."
+},
+{
+"n": 30,
 "topic": "Engineering Insurance",
 "t": "In an Erection All Risk (EAR) Insurance Policy, the provisions related to third party liability are covered under ___________.",
 "o": [
@@ -393,22 +419,7 @@
 "e": "Correct answer: Section II (from the IC77 question bank)."
 },
 {
-"n": 29,
-"topic": "Engineering Insurance",
-"t": "In the Indian context, 10% of all direct Indian Engineering business, subject to a certain limit, is obligatorily ceded by all the Indian insurance companies to the ___________.",
-"o": [
-"NIC",
-"GIC",
-"IRDAI",
-"RBI",
-"Prime ministers fund"
-],
-"a": 1,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: GIC (from the IC77 question bank).",
-"r": "key"
-},
-{
-"n": 30,
+"n": 31,
 "topic": "Engineering Insurance",
 "t": "Which of the following costs shall be indemnified in case of a damage to the insured property? <bR><bR>I. Freight <br>II. Costs of dismantling <br>III. Cost of rectifying faults occurred without a claims event",
 "o": [
@@ -422,7 +433,7 @@
 "e": "Correct answer: I and II (from the IC77 question bank)."
 },
 {
-"n": 31,
+"n": 32,
 "topic": "Engineering Insurance",
 "t": "The financial consequences of any delay in commissioning of a plant under construction may relate to: <bR><bR>I. Liquidity <br>II. Growth <br>III. Standing charges during the period of delay in commissioning of the plant / production facility",
 "o": [
@@ -436,7 +447,7 @@
 "e": "Correct answer: I, II and III (from the IC77 question bank)."
 },
 {
-"n": 32,
+"n": 33,
 "topic": "Engineering Insurance",
 "t": "In boiler and pressure plant insurance policy, the basic rates of premium depend upon: <bR><bR>I. Type of boiler <br>II. Type of fuel <br>III. Contractor",
 "o": [
@@ -450,7 +461,7 @@
 "e": "Correct answer: I and II (from the IC77 question bank)."
 },
 {
-"n": 33,
+"n": 34,
 "topic": "Engineering Insurance",
 "t": "Which of the following are not  examples of of operational phase policies?<br><br>I. Contractor's All Risks (CAR) insurance<br>II. Erection All Risks (EAR) insurance<br>III. Electronic Equipment insurance",
 "o": [
@@ -464,7 +475,7 @@
 "e": "Correct answer: Only III (from the IC77 question bank)."
 },
 {
-"n": 34,
+"n": 35,
 "topic": "Engineering Insurance",
 "t": "Arrange the stages of risk management in proper sequence starting from first to last. <bR><bR>I. Risk financing <br>II. Risk identification <br>III. Risk control",
 "o": [
@@ -478,7 +489,7 @@
 "e": "Correct answer: II, III and I (from the IC77 question bank)."
 },
 {
-"n": 35,
+"n": 36,
 "topic": "Engineering Insurance",
 "t": "The boiler and pressure plant insurance policy covers insured boilers and pressure vessels against the risk of: <bR><bR>I. Explosion <br>II. Collapse <br>III. Damage by fire",
 "o": [
@@ -492,7 +503,7 @@
 "e": "Correct answer: I and II (from the IC77 question bank)."
 },
 {
-"n": 36,
+"n": 37,
 "topic": "Engineering Insurance",
 "t": "In a EAR and MCE policy, containing endorsements for test run definition in respect of thermal power station, till what date is the power station machinery insured are deemed to continue their first test operation of test loading?",
 "o": [
@@ -505,7 +516,7 @@
 "e": "Correct answer: Till the Turbo Generator  Set is operated at full load for a continuous period of 72 hours or until expiry of  testing period granted under the policy  which ever is earlier (from the IC77 question bank)."
 },
 {
-"n": 37,
+"n": 38,
 "topic": "Engineering Insurance",
 "t": "Which of the following are examples of construction phase policies?<br><br>I. Erection All Risks (EAR)<br>II. Boiler and Pressure Plant insurance (BPP)<br>III. Civil Engineering Completed Risks (CECR) insurance",
 "o": [
@@ -519,21 +530,21 @@
 "e": "Correct answer: Only I (from the IC77 question bank)."
 },
 {
-"topic": "Intermediaries",
-"t": "A corporate agent may tie up with a maximum of how many insurers in each line of business?",
+"n": 39,
+"topic": "Engineering Insurance",
+"t": "Under endorsement for advance loss of profits insurance, insurers shall not be liable  for delays caused due to: <bR><bR>I. Earthquake not agreed in writing <br>II. Non-availability of funds <br>III. Elimination of deficiencies caused carried out after occurrence of damage",
 "o": [
-"3",
-"6",
-"9",
-"Unlimited"
+"I and II",
+"I and III",
+"II and III",
+"Only I",
+"I, II and III"
 ],
-"a": 2,
-"e": "★ Core fact (asked across III papers). Raised from 3 to 9 insurers per category (life, general, health) by the 2022 amendment to the Corporate Agents Regulations.",
-"r": "core",
-"n": 38
+"a": 4,
+"e": "Correct answer: I, II and III (from the IC77 question bank)."
 },
 {
-"n": 39,
+"n": 40,
 "topic": "Engineering Insurance",
 "t": "Which of the following factors determine the rates and terms of a CPM Policy?<br><br>I. Maintenance and upkeep system<br>II. Origin of machinery - local or imported<br>III. Working environment on site",
 "o": [
@@ -547,7 +558,7 @@
 "e": "Correct answer: I, II and III (from the IC77 question bank)."
 },
 {
-"n": 40,
+"n": 41,
 "topic": "Engineering Insurance",
 "t": "Which of the following damages and losses are exceptions to a machinery insurance policy? <bR><bR>I. Physical damage to the machinery due to experiments <br>II. Physical damage due to mallignment <br>III. Damage due to lack od skill",
 "o": [
@@ -561,7 +572,7 @@
 "e": "Correct answer: Only I (from the IC77 question bank)."
 },
 {
-"n": 41,
+"n": 42,
 "topic": "Engineering Insurance",
 "t": "Explain the primary objective of ALOP insurance.",
 "o": [
@@ -575,7 +586,7 @@
 "e": "Correct answer: To indemnify the project owner for actual loss sustained due to a delay in commencement of commercial operations of a new project under progress (from the IC77 question bank)."
 },
 {
-"n": 42,
+"n": 43,
 "topic": "Engineering Insurance",
 "t": "XYZ Ltd. has taken a MLOP insurance. The company wants to know as to when does the indemnity period terminate in case the policy is exercised? Advise. <bR><bR>I. End of one year from issue of policy <br>II. Production reaches normal level existing at the time of the occurrence of the insured peril  <br>III. Expiry of the number of months selected by the insured",
 "o": [
@@ -589,7 +600,7 @@
 "e": "Correct answer: II or III whichever is earlier (from the IC77 question bank)."
 },
 {
-"n": 43,
+"n": 44,
 "topic": "Engineering Insurance",
 "t": "In a machinery insurance, if the insured item is totally destroyed or is a constructive total loss, the basis of indemnification is _____________.",
 "o": [
@@ -599,20 +610,6 @@
 ],
 "a": 0,
 "e": "Correct answer: Market value of the item immediately before the accident plus cost of removing the damaged machinery less value of salvage (from the IC77 question bank)."
-},
-{
-"topic": "Reinsurance",
-"t": "The obligatory cession that Indian general insurers must make to GIC Re is currently:",
-"o": [
-"4%",
-"5%",
-"10%",
-"15%"
-],
-"a": 0,
-"e": "★ Core fact (asked across III papers). The obligatory cession was reduced to 4% from 1 April 2022.",
-"r": "core",
-"n": 44
 },
 {
 "n": 45,

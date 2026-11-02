@@ -2,6 +2,20 @@
 {
 "n": 1,
 "topic": "Risk Management",
+"t": "A company has a hotel business at a tourist place. The Owner of the company foresees risk in the business due to the ongoing social and geographical changes in the area. He calls a meeting of his staff and takes measures to reduce costs and attract more tourists. What kind of risk response is this?",
+"o": [
+"Avoidance",
+"Acceptance",
+"Reduction",
+"Sharing",
+"Transfer"
+],
+"a": 2,
+"e": "Correct answer: Reduction (from the IC86 question bank)."
+},
+{
+"n": 2,
+"topic": "Risk Management",
 "t": "This method of business impact analysis specifies the amount of unrecoverable transactions or data  that the company can tolerate. Identify the method.",
 "o": [
 "Recovery time objectives (RTOs)",
@@ -14,7 +28,7 @@
 "e": "Correct answer: Recovery point objectives (RPOs) (from the IC86 question bank)."
 },
 {
-"n": 2,
+"n": 3,
 "topic": "Risk Management",
 "t": "In 2001, the _____________ of the Treadway Commission, led by Pricewater house Coopers, initiated  a study to develop practices for managing risk across an organisation.",
 "o": [
@@ -28,7 +42,7 @@
 "e": "Correct answer: COSO (Committee of Sponsoring Organisations) (from the IC86 question bank)."
 },
 {
-"n": 3,
+"n": 4,
 "topic": "Risk Management",
 "t": "The risk attitude is divided into which of the following categories? <br><br>I. Risk Neutral  <br>II. Risk Preferer <br>III. Risk Averter",
 "o": [
@@ -42,7 +56,7 @@
 "e": "Correct answer: I, II and III (from the IC86 question bank)."
 },
 {
-"n": 4,
+"n": 5,
 "topic": "Risk Management",
 "t": "Arrange the steps in Risk Management process in proper order starting from first to last. <BR><br>I. Risk Financing <br>II. Risk Analysis <br>III. Risk Treatment",
 "o": [
@@ -56,7 +70,7 @@
 "e": "Correct answer: II, III and I (from the IC86 question bank)."
 },
 {
-"n": 5,
+"n": 6,
 "topic": "Risk Management",
 "t": "For an event if the variance is greater from the expected outcome, what can we interpret?",
 "o": [
@@ -70,7 +84,7 @@
 "e": "Correct answer: This is a high risk (from the IC86 question bank)."
 },
 {
-"n": 6,
+"n": 7,
 "topic": "Risk Management",
 "t": "In which of the following risk the targets of the organisation remain unaffected?<BR> <BR>I. Medium risk <BR>II. Minor risk <BR>III. Moderate risk",
 "o": [
@@ -84,7 +98,7 @@
 "e": "Correct answer: II and III (from the IC86 question bank)."
 },
 {
-"n": 7,
+"n": 8,
 "topic": "Risk Management",
 "t": "Which among the following risk treatment techniques are classified as risk control methods?<BR> <BR>I. Loss prevention <BR>II. Loss avoidance <BR>III. Insurance",
 "o": [
@@ -98,7 +112,7 @@
 "e": "Correct answer: I and II (from the IC86 question bank)."
 },
 {
-"n": 8,
+"n": 9,
 "topic": "Risk Management",
 "t": "Working capital may be affected if bank credit is not easily available.  This is an example of  which kind of business risk?<BR><BR> I. Pure Risk <BR>II. Speculative Risk <BR>III. Dynamic Risk",
 "o": [
@@ -112,7 +126,21 @@
 "e": "Correct answer: Only II (from the IC86 question bank)."
 },
 {
-"n": 9,
+"n": 10,
+"topic": "Risk Management",
+"t": "The proper identification and analysis of loss exposures will depend upon which of the following important factors? <br><br>I. Classification scheme for identifying all possible exposures, <br>II. Employing proper methods, <br>III. Degree of such exposures in terms of impact on objectives",
+"o": [
+"I and II",
+"I and III",
+"I, II and III",
+"II and III",
+"Only III"
+],
+"a": 2,
+"e": "Correct answer: I, II and III (from the IC86 question bank)."
+},
+{
+"n": 11,
 "topic": "Risk Management",
 "t": "A business faces possibility that it will be held legally liable for property damage or personal injuries suffered by others. This is referred to as ____________.",
 "o": [
@@ -126,7 +154,7 @@
 "e": "Correct answer: Liability exposures (from the IC86 question bank)."
 },
 {
-"n": 10,
+"n": 12,
 "topic": "Risk Management",
 "t": "Which of the following activities in a risk management programme relates to risk financing? <br><br>I.  Risk prevention <br>II. Minimising losses <br>III. Paying for losses due to the occurrence of risks",
 "o": [
@@ -140,22 +168,7 @@
 "e": "Correct answer: Only III (from the IC86 question bank)."
 },
 {
-"n": 11,
-"topic": "Risk Management",
-"t": "In the year 1984, which major industrial disaster took place?",
-"o": [
-"Triangle Factory Fire New York (USA)",
-"Mina Mata Mercury Disaster (Japan)",
-"Seveso Dioxin Disaster (Italy)",
-"Bhopal Gas Disaster (India)",
-"Port Chicago disaster (USA)"
-],
-"a": 3,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Bhopal Gas Disaster (India) (from the IC86 question bank).",
-"r": "key"
-},
-{
-"n": 12,
+"n": 13,
 "topic": "Risk Management",
 "t": "A person who primarily holds responsibility for an organisation's risk management programme is  popularly known as ___________.",
 "o": [
@@ -169,7 +182,21 @@
 "e": "Correct answer: Risk manager (from the IC86 question bank)."
 },
 {
-"n": 13,
+"n": 14,
+"topic": "Risk Management",
+"t": "Which of the following statements are true about the Fault Tree method of risk identification? <br><br>I.  The \"Fault Tree\" is a diagrammatic representation of all the events which may give rise to some major event <br>II. It is a Top Down Analysis that starts with the effect and evaluates all the potential causes (Faults) of that event <br>III. It creates a logical \"tree\" of events",
+"o": [
+"Only I",
+"Only II",
+"Only III",
+"II and III",
+"I, II and III"
+],
+"a": 4,
+"e": "Correct answer: I, II and III (from the IC86 question bank)."
+},
+{
+"n": 15,
 "topic": "Risk Management",
 "t": "Which of the following is an example of prospective finite risk reinsurance covers?<BR> <BR>I. Loss portfolio transfers <BR>II. Financial quota shares <BR>III. Double trigger concepts",
 "o": [
@@ -183,7 +210,7 @@
 "e": "Correct answer: II and III (from the IC86 question bank)."
 },
 {
-"n": 14,
+"n": 16,
 "topic": "Risk Management",
 "t": "The process of risk management generates both benefits and costs for a particular organisation. Argue. Choose the most appropriate option.",
 "o": [
@@ -197,7 +224,7 @@
 "e": "Correct answer: This is totally correct (from the IC86 question bank)."
 },
 {
-"n": 15,
+"n": 17,
 "topic": "Risk Management",
 "t": "Insurative Model defining total average cost of capital helps to determine",
 "o": [
@@ -211,22 +238,7 @@
 "e": "Correct answer: How capital can be used to increase efficiency by using all source of capital (from the IC86 question bank)."
 },
 {
-"n": 16,
-"topic": "Risk Management",
-"t": "In the year 1985 which major event took place?",
-"o": [
-"Formation of independent national commission by COSO",
-"Formation of Basel Committee on Banking Supervisio",
-"London stock exchange introduced new legislations",
-"Formation of Basel II accord",
-"COSO initiated a study  to develop practices for m"
-],
-"a": 0,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Formation of independent national commission by COSO (from the IC86 question bank).",
-"r": "key"
-},
-{
-"n": 17,
+"n": 18,
 "topic": "Risk Management",
 "t": "In context of the COCA Organisation, the acronym COCA stands for the following except:-",
 "o": [
@@ -240,7 +252,7 @@
 "e": "Correct answer: Opportunity (from the IC86 question bank)."
 },
 {
-"n": 18,
+"n": 19,
 "topic": "Risk Management",
 "t": "What is the function of a risk policy statement? <br><br>I.  To emphasise the function of risk management <br>II. To provide a framework for assessing responsibility for accounting losses <br>III. To plan and mitigate probable risks and uncertainties",
 "o": [
@@ -254,7 +266,7 @@
 "e": "Correct answer: Only I (from the IC86 question bank)."
 },
 {
-"n": 19,
+"n": 20,
 "topic": "Risk Management",
 "t": "Which among the following is not a criteria in selecting the best technique for risk management?",
 "o": [
@@ -268,7 +280,7 @@
 "e": "Correct answer: Achieving highest profitability (from the IC86 question bank)."
 },
 {
-"n": 20,
+"n": 21,
 "topic": "Risk Management",
 "t": "Risk management is defined as the protection of assets, earnings, liabilities and people of an enterprise with ________ efficiency and at _________ cost.",
 "o": [
@@ -282,7 +294,7 @@
 "e": "Correct answer: Maximum, Minimum (from the IC86 question bank)."
 },
 {
-"n": 21,
+"n": 22,
 "topic": "Risk Management",
 "t": "Using the appropriate risk/loss protection mechanisms  such as the use of proper fire-fighting systems like hydrant or foam extinguishing systems will be classified under which phase of an event for a risk management programme?",
 "o": [
@@ -296,7 +308,7 @@
 "e": "Correct answer: During event (from the IC86 question bank)."
 },
 {
-"n": 22,
+"n": 23,
 "topic": "Risk Management",
 "t": "Which among the following are examples of passive measures to limit the extent of any loss and to maximise the recovery from loss?<BR> <BR>I. Construction of automatic fire doors <BR>II. Burglar alarms <BR>III. Curtain boards",
 "o": [
@@ -310,7 +322,7 @@
 "e": "Correct answer: I and III (from the IC86 question bank)."
 },
 {
-"n": 23,
+"n": 24,
 "topic": "Risk Management",
 "t": "In which of the following circumstances would risk retention not be a good alternative?<BR> <BR>I. Where the cost of potential loss is minor <BR>II. Where risk is difficult to identify <BR>III. Where risk is difficult to eliminate",
 "o": [
@@ -324,7 +336,7 @@
 "e": "Correct answer: Only I (from the IC86 question bank)."
 },
 {
-"n": 24,
+"n": 25,
 "topic": "Risk Management",
 "t": "The risk attitude is divided into how many categories?",
 "o": [
@@ -338,7 +350,7 @@
 "e": "Correct answer: Three (from the IC86 question bank)."
 },
 {
-"n": 25,
+"n": 26,
 "topic": "Risk Management",
 "t": "__________ means to means examining the future and drawing up the plan of action.",
 "o": [
@@ -352,7 +364,7 @@
 "e": "Correct answer: Foresee (from the IC86 question bank)."
 },
 {
-"n": 26,
+"n": 27,
 "topic": "Risk Management",
 "t": "Which step of the risk management process deals with self insurance?",
 "o": [
@@ -366,7 +378,7 @@
 "e": "Correct answer: Risk financing (from the IC86 question bank)."
 },
 {
-"n": 27,
+"n": 28,
 "topic": "Risk Management",
 "t": "Compute the net contribution to the company using the following information: <BR><BR>I. Gross profit - Rs.75,000 <BR>II. Fixed Factory overheads - Rs.10,000 <BR>III. Sales - Rs.250,000 <BR>IV. Variable costs - Rs.30,000",
 "o": [
@@ -378,21 +390,6 @@
 ],
 "a": 1,
 "e": "Correct answer: Rs.145,000 (from the IC86 question bank)."
-},
-{
-"n": 28,
-"topic": "Risk Management",
-"t": "In the year 1932 to 1968, which major industrial disaster took place?",
-"o": [
-"Triangle Factory Fire New York (USA)",
-"Mina Mata Mercury Disaster (Japan)",
-"Seveso Dioxin Disaster (Italy)",
-"Bhopal Gas Disaster (India)",
-"Port Chicago disaster (USA)"
-],
-"a": 1,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Mina Mata Mercury Disaster (Japan) (from the IC86 question bank).",
-"r": "key"
 },
 {
 "n": 29,
@@ -453,6 +450,20 @@
 {
 "n": 33,
 "topic": "Risk Management",
+"t": "Which of the following is not an advantage of a written risk management policy statement?<BR> <BR>I. Establishing general objectives of the organization's risk management function <BR>II. Helps in improving the brand image of the organisation <BR>III. Establishing and improving communication channels and MIS",
+"o": [
+"Only I",
+"Only II",
+"Only III",
+"I and II",
+"I, II and III"
+],
+"a": 1,
+"e": "Correct answer: Only II (from the IC86 question bank)."
+},
+{
+"n": 34,
+"topic": "Risk Management",
 "t": "Which of the following are activities of the ERM? <br><br>I. Risk Control <br>II. Risk management culture <br>III.  Catastrophic risk management",
 "o": [
 "I and II",
@@ -465,21 +476,21 @@
 "e": "Correct answer: I, II and III (from the IC86 question bank)."
 },
 {
-"topic": "Intermediaries",
-"t": "The qualifying examination for an individual insurance agent conducted by the Insurance Institute of India is:",
+"n": 35,
+"topic": "Risk Management",
+"t": "In the case of an insurance securitisation, the capital is _________________. <br><br>I. Made available upfront before the loss event and is utilised in the loss <br>II. Made available before the loss event but is utilised to make good the loss post the loss event <br>III. Reimbursed after the loss event and is used to recover from the loss",
 "o": [
-"IC-01",
-"IC-38",
-"IC-14",
-"IC-33"
+"Only I",
+"Only II",
+"Only III",
+"II and III",
+"I, II and III"
 ],
-"a": 1,
-"e": "★ Core fact (asked across III papers). IC-38 is the agents' pre-recruitment examination; IC-01/02/11/14 are Licentiate papers.",
-"r": "core",
-"n": 34
+"a": 0,
+"e": "Correct answer: Only I (from the IC86 question bank)."
 },
 {
-"n": 35,
+"n": 36,
 "topic": "Risk Management",
 "t": "At the committee's 1988 meeting at the Bank for International Settlements in Basel, the ___________________ was reached, setting forth a new framework for minimum risk-based capital requirements for internationally active banks which has been adopted by over 100 countries worldwide.",
 "o": [
@@ -493,7 +504,7 @@
 "e": "Correct answer: Basel Capital Accord (from the IC86 question bank)."
 },
 {
-"n": 36,
+"n": 37,
 "topic": "Risk Management",
 "t": "Which among the following involves building up the dual structure of the undertaking, both  material and human? <br><br>I.  Manage <br>II. Organise <br>III. Foresee",
 "o": [
@@ -507,7 +518,7 @@
 "e": "Correct answer: Only II (from the IC86 question bank)."
 },
 {
-"n": 37,
+"n": 38,
 "topic": "Risk Management",
 "t": "If we measure the probability of occurrence or the chance that an event. The observation will lie in the range of:-",
 "o": [
@@ -521,7 +532,7 @@
 "e": "Correct answer: 0 to 1 (from the IC86 question bank)."
 },
 {
-"n": 38,
+"n": 39,
 "topic": "Risk Management",
 "t": "Which of the following identification techniques are used to identify  loss exposures? <BR><br>I. Study and enquiry thro' information and documents <br>II. Physical Inspection / Surveys <br>III. Checklists / Questionnaires",
 "o": [
@@ -535,7 +546,7 @@
 "e": "Correct answer: I, II and III (from the IC86 question bank)."
 },
 {
-"n": 39,
+"n": 40,
 "topic": "Risk Management",
 "t": "Business risks can be of which of the following types? <br><br>I. Social <br>II. Financial  <br>III. Emotional",
 "o": [
@@ -549,7 +560,7 @@
 "e": "Correct answer: I and II (from the IC86 question bank)."
 },
 {
-"n": 40,
+"n": 41,
 "topic": "Risk Management",
 "t": "Device a tool that transfers insurance risk in an insurance bond or derivative format to capital market investors, rather than to the reinsurance market?",
 "o": [
@@ -563,7 +574,7 @@
 "e": "Correct answer: Insurance securitisation (from the IC86 question bank)."
 },
 {
-"n": 41,
+"n": 42,
 "topic": "Risk Management",
 "t": "__________ which are small and regular and which are almost inevitable.  These should be looked  upon as a trade risk. Choose from the options given below. <br><br>I. Chronic losses <br>II. Sporadic losses <br>III.  Catastrophes",
 "o": [
@@ -577,7 +588,7 @@
 "e": "Correct answer: Only I (from the IC86 question bank)."
 },
 {
-"n": 42,
+"n": 43,
 "topic": "Risk Management",
 "t": "Which of the following statements are true about a risk neutral person? <br><bR>I. Reacts to risk in line with its statistical probability <br>II. He tries to neutralise or balance the chance of a loss against the chance of gain <br>III. He shall bet equally on the two teams of a match",
 "o": [
@@ -591,7 +602,7 @@
 "e": "Correct answer: I, II and III (from the IC86 question bank)."
 },
 {
-"n": 43,
+"n": 44,
 "topic": "Risk Management",
 "t": "Which of the following statements are true?<BR> <BR>I. The Basel Committee on Banking Supervision was formed in 1974 <BR>II. In 1985, COSO formed an independent national commission to undertake a private sector study of factors that cause fraudulent financial reporting <BR>III. In 1995, the London Stock Exchange introduced new regulations following a series of high profile corporate frauds and accounting scandals",
 "o": [
@@ -605,7 +616,7 @@
 "e": "Correct answer: I and II (from the IC86 question bank)."
 },
 {
-"n": 44,
+"n": 45,
 "topic": "Risk Management",
 "t": "Which of the following is an example of environmental disaster?<BR> <BR>I. Air conditioning failure <BR>II. Act of war <BR>III. Freezing conditions",
 "o": [
@@ -617,20 +628,6 @@
 ],
 "a": 3,
 "e": "Correct answer: Only III (from the IC86 question bank)."
-},
-{
-"topic": "Intermediaries",
-"t": "A corporate agent may tie up with a maximum of how many insurers in each line of business?",
-"o": [
-"3",
-"6",
-"9",
-"Unlimited"
-],
-"a": 2,
-"e": "★ Core fact (asked across III papers). Raised from 3 to 9 insurers per category (life, general, health) by the 2022 amendment to the Corporate Agents Regulations.",
-"r": "core",
-"n": 45
 },
 {
 "n": 46,

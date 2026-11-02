@@ -16,6 +16,20 @@
 {
 "n": 2,
 "topic": "Agriculture Insurance",
+"t": "Predict which of the following scenarios is most suitable for a named peril crop insurance scheme. Choose the most appropriate answer.",
+"o": [
+"Mixed cropping areas",
+"Areas with climatic patterns where there is comple",
+"Areas with high probability of catastrophic losses",
+"Areas where crops are exposed to specific risks causing measurable damage",
+"Areas with low yield volatility"
+],
+"a": 3,
+"e": "Correct answer: Areas where crops are exposed to specific risks causing measurable damage (from the IC71 question bank)."
+},
+{
+"n": 3,
+"topic": "Agriculture Insurance",
 "t": "State maximum liability of an insurer  for personal injuries caused to third party under Dog Insurance Scheme.",
 "o": [
 "Rs 15000",
@@ -28,7 +42,21 @@
 "e": "Correct answer: Rs 5000 (from the IC71 question bank)."
 },
 {
-"n": 3,
+"n": 4,
+"topic": "Agriculture Insurance",
+"t": "Ajay wants to protect himself from any loss arising out of yield variations due to unfavourable climatic conditions. What should he do?  Choose the most appropriate answer.",
+"o": [
+"Sign up for Government relief",
+"Quit farming as farming is riddled with uncertaint",
+"Buy a yield assurance scheme from a crop insurer",
+"Plant multiple crops",
+"Use the best quality seeds which adapt effectively"
+],
+"a": 2,
+"e": "Correct answer: Buy a yield assurance scheme from a crop insurer (from the IC71 question bank)."
+},
+{
+"n": 5,
 "topic": "Agriculture Insurance",
 "t": "Explain why Crop Insurance Bill was not favoured by the States? Choose the most appropriate reason.",
 "o": [
@@ -42,7 +70,7 @@
 "e": "Correct answer: High financial obligations (from the IC71 question bank)."
 },
 {
-"n": 4,
+"n": 6,
 "topic": "Agriculture Insurance",
 "t": "Based on your knowledge of \"Camel Insurance Scheme\", please answer the following question. What is the indemnity applicable in the following scenario?<BR>Nature of claim: Death claim<BR>Sum Insured for the camel : Rs 10000<BR>Market value at the time of death : Rs 8000",
 "o": [
@@ -56,7 +84,7 @@
 "e": "Correct answer: Rs 6400 (from the IC71 question bank)."
 },
 {
-"n": 5,
+"n": 7,
 "topic": "Agriculture Insurance",
 "t": "Determine the most significant factor affecting crop production in India. Choose the most appropriate answe",
 "o": [
@@ -70,7 +98,7 @@
 "e": "Correct answer: Damage due to natural calamities like floods or droughts (from the IC71 question bank)."
 },
 {
-"n": 6,
+"n": 8,
 "topic": "Agriculture Insurance",
 "t": "In the absence of \"State Livestock Development Board\" for a State who is responsible for the implementation of the \"Central sector pilot  scheme on cattle insurance\"?",
 "o": [
@@ -84,7 +112,7 @@
 "e": "Correct answer: Director of Animal Husbandry of the State Government (from the IC71 question bank)."
 },
 {
-"n": 7,
+"n": 9,
 "topic": "Agriculture Insurance",
 "t": "Suggest a treatment for cattle suffering from Bloat/Tympanitis. Choose the most appropriate answer",
 "o": [
@@ -98,22 +126,7 @@
 "e": "Correct answer: Making a slit through the animalâ€™s left side into the rumen with a surgical instrument allowing the gas to escape (from the IC71 question bank)."
 },
 {
-"n": 8,
-"topic": "Agriculture Insurance",
-"t": "The coefficient of yield variation for a crop in an area is upto 15%. Determine the risk group and the indemnity level under NAIS.",
-"o": [
-"Low risk with 90% indemnity limit",
-"Low risk with 100% indemnity limit",
-"Medium risk with 90% indemnity limit",
-"Medium risk with 80% indemnity limit",
-"High risk with 60% indemnity limit"
-],
-"a": 0,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Low risk with 90% indemnity limit (from the IC71 question bank).",
-"r": "key"
-},
-{
-"n": 9,
+"n": 10,
 "topic": "Agriculture Insurance",
 "t": "Under NAIS _________________ is a proposal cum a master document declaring coverage particulars for a group of insured farmers, made  by the bank.",
 "o": [
@@ -127,7 +140,7 @@
 "e": "Correct answer: Nomination (from the IC71 question bank)."
 },
 {
-"n": 10,
+"n": 11,
 "topic": "Agriculture Insurance",
 "t": "Predict the reason for low rainfall utilisation in India",
 "o": [
@@ -141,7 +154,7 @@
 "e": "Correct answer: Monsoons are active for a short duration (from the IC71 question bank)."
 },
 {
-"n": 11,
+"n": 12,
 "topic": "Agriculture Insurance",
 "t": "The Government requires advance estimates of crop production for taking various policy decisions. When are the second advance estimates  available?",
 "o": [
@@ -155,7 +168,7 @@
 "e": "Correct answer: January (from the IC71 question bank)."
 },
 {
-"n": 12,
+"n": 13,
 "topic": "Agriculture Insurance",
 "t": "Illustrate the scenario wherein death of pig due to swine fever is covered under \"Pigs Insurance Scheme\".",
 "o": [
@@ -169,7 +182,7 @@
 "e": "Correct answer: Certificate of protective inoculation against Swine Fever is supplied to the insurer (from the IC71 question bank)."
 },
 {
-"n": 13,
+"n": 14,
 "topic": "Agriculture Insurance",
 "t": "Under what category does the National Agricultural Insurance Scheme (NAIS) fall?",
 "o": [
@@ -183,7 +196,7 @@
 "e": "Correct answer: Multi-peril area based crop insurance scheme (from the IC71 question bank)."
 },
 {
-"n": 14,
+"n": 15,
 "topic": "Agriculture Insurance",
 "t": "Which of the following is not true regarding Pilot Crop Insurance Scheme(PCIS)?",
 "o": [
@@ -197,7 +210,7 @@
 "e": "Correct answer: It was based on Individual approach (from the IC71 question bank)."
 },
 {
-"n": 15,
+"n": 16,
 "topic": "Agriculture Insurance",
 "t": "State the premium rate for \"Inland Fish Insurance\" in a non-subsidised project.",
 "o": [
@@ -211,7 +224,7 @@
 "e": "Correct answer: 3.4% of peak value of fish (from the IC71 question bank)."
 },
 {
-"n": 16,
+"n": 17,
 "topic": "Agriculture Insurance",
 "t": "Select the most important delivery channel for agriculture insurance in China",
 "o": [
@@ -223,21 +236,6 @@
 ],
 "a": 3,
 "e": "Correct answer: Producer associations (from the IC71 question bank)."
-},
-{
-"n": 17,
-"topic": "Agriculture Insurance",
-"t": "There is no claim under the \"Comprehensive cover for poultry farms\" scheme for 1 year. What is the no claim discount applicable?",
-"o": [
-"25%",
-"30%",
-"15%",
-"45%",
-"50%"
-],
-"a": 2,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: 15% (from the IC71 question bank).",
-"r": "key"
 },
 {
 "n": 18,
@@ -298,6 +296,20 @@
 {
 "n": 22,
 "topic": "Agriculture Insurance",
+"t": "With regards to Pilot Crop Insurance Scheme(PCIS) and Comprehensive Crop Insurance Scheme(CCIS). Choose the correct statement from  the list below.",
+"o": [
+"PCIS and CCIS were both voluntary schemes",
+"PCIS and CCIS were applicable to both loanee and n",
+"PCIS is a voluntary scheme for loanee farmers where as CCIS is a compulsory scheme for loanee farmers",
+"PCIS is a compulsory scheme for loanee farmers whe",
+"PCIS and CCIS are restricted to non-loanee farmers"
+],
+"a": 2,
+"e": "Correct answer: PCIS is a voluntary scheme for loanee farmers where as CCIS is a compulsory scheme for loanee farmers (from the IC71 question bank)."
+},
+{
+"n": 23,
+"topic": "Agriculture Insurance",
 "t": "Land for food versus fuel is becoming a major issue. Analyse and choose the most appropriate reason.",
 "o": [
 "Farm land is being used to set up oil factories",
@@ -310,7 +322,7 @@
 "e": "Correct answer: Grain is used for ethanol production (from the IC71 question bank)."
 },
 {
-"n": 23,
+"n": 24,
 "topic": "Agriculture Insurance",
 "t": "State the premium rate charged to insure death of non-scheme indigenous animal under Cattle Insurance Scheme",
 "o": [
@@ -324,7 +336,21 @@
 "e": "Correct answer: 4% (from the IC71 question bank)."
 },
 {
-"n": 24,
+"n": 25,
+"topic": "Agriculture Insurance",
+"t": "Determine the basis for arriving at the premium rates for a particular location in case of crop hail insurance. Choose the most appropriate  answer.",
+"o": [
+"Locations closer to cities are charged at basic ra",
+"Locations away from cities are charged at basic ra",
+"Premiums are the cheap for locations high above se",
+"Premiums are the cheap for locations below sea lev",
+"Historical data is used to determine the probability of a hailstorm at a location, which decides the premiums to be  charged"
+],
+"a": 4,
+"e": "Correct answer: Historical data is used to determine the probability of a hailstorm at a location, which decides the premiums to be  charged (from the IC71 question bank)."
+},
+{
+"n": 26,
 "topic": "Agriculture Insurance",
 "t": "Ajay is a rice farmer and has availed Farm Income Insurance Scheme. His current crop yield is 2000 kg/hectare against 7 year yield average  of 3000 kg/hectare. The level of indemnity is 80% and the current price for rice is 25 Rs and MSP is 20Rs. Determine if he is eligible to receive compensation. Choose the  most appropriate statement",
 "o": [
@@ -338,7 +364,21 @@
 "e": "Correct answer: No Ajay is not eligible for receiving compensation (from the IC71 question bank)."
 },
 {
-"n": 25,
+"n": 27,
+"topic": "Agriculture Insurance",
+"t": "Determine which of the scenario is likely to occur due to lack of benchmarking in weather based insurance products. Choose the most  appropriate answer.",
+"o": [
+"Lack of benchmarking makes it difficult to underst",
+"Lack of benchmarking leads to technically complex",
+"Lack of benchmarking makes it difficult to compare products from multiple vendors",
+"Lack of benchmarking makes it easy to compare prod",
+"Lack of benchmarking makes it easy to comprehend w"
+],
+"a": 2,
+"e": "Correct answer: Lack of benchmarking makes it difficult to compare products from multiple vendors (from the IC71 question bank)."
+},
+{
+"n": 28,
 "topic": "Agriculture Insurance",
 "t": "Identify  a compulsory requirement for acceptance of proposal under Sheep and Goat Insurance Scheme",
 "o": [
@@ -352,22 +392,7 @@
 "e": "Correct answer: Report of the veterinary surgeon giving the age, identification marks, health of the animal and the inoculation details (from the IC71 question bank)."
 },
 {
-"n": 26,
-"topic": "Agriculture Insurance",
-"t": "Based on your knowledge of \"Pig Insurance Scheme\", please answer the following question. A certain pig insured for Rs 1000 under pig  insurance scheme dies due to an accident. Calculate the limit of liability for the insurer",
-"o": [
-"Rs 600",
-"Rs 700",
-"Rs 800",
-"Rs 900",
-"Rs 1000"
-],
-"a": 2,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Rs 800 (from the IC71 question bank).",
-"r": "key"
-},
-{
-"n": 27,
+"n": 29,
 "topic": "Agriculture Insurance",
 "t": "Delta re-insurance specialises in crop re-insurance. What kind of quality will they not want in a crop insurance program?",
 "o": [
@@ -381,7 +406,7 @@
 "e": "Correct answer: Program which is actuarially unviable (from the IC71 question bank)."
 },
 {
-"n": 28,
+"n": 30,
 "topic": "Agriculture Insurance",
 "t": "Describe the primary objective behind setting up of NDDB.",
 "o": [
@@ -395,7 +420,7 @@
 "e": "Correct answer: Replicate Anand model across various parts of India (from the IC71 question bank)."
 },
 {
-"n": 29,
+"n": 31,
 "topic": "Agriculture Insurance",
 "t": "Analyse how \"Post-disaster assistance programs\" could adversely affect the agriculture insurance industry.",
 "o": [
@@ -408,7 +433,7 @@
 "e": "Correct answer: Relief is provided free of cost through Post-disaster assistance programs which reduces the incentive to buy agriculture  insurance (from the IC71 question bank)."
 },
 {
-"n": 30,
+"n": 32,
 "topic": "Agriculture Insurance",
 "t": "Illustrate the factor which enhances the ability of indigenous breeds to go long without food or water. Choose the most appropriate answer.",
 "o": [
@@ -422,7 +447,7 @@
 "e": "Correct answer: Low rate of metabolism enhances the ability of indigenous breeds to go long without food or water (from the IC71 question bank)."
 },
 {
-"n": 31,
+"n": 33,
 "topic": "Agriculture Insurance",
 "t": "Propose a way to have cattle with reasonably good milk yield and good draught power. Choose the most appropriate answer",
 "o": [
@@ -436,7 +461,7 @@
 "e": "Correct answer: Cross-breeding of exotic bulls with indigenous cows (from the IC71 question bank)."
 },
 {
-"n": 32,
+"n": 34,
 "topic": "Agriculture Insurance",
 "t": "State the basic premium rate charged under \"Lift Irrigation Insurance\".",
 "o": [
@@ -450,7 +475,7 @@
 "e": "Correct answer: 1% of SI (from the IC71 question bank)."
 },
 {
-"n": 33,
+"n": 35,
 "topic": "Agriculture Insurance",
 "t": "Mahesh wants to grow spices and condiments. Which of the options below is the right choice for the same?",
 "o": [
@@ -464,7 +489,7 @@
 "e": "Correct answer: Turmeric (from the IC71 question bank)."
 },
 {
-"n": 34,
+"n": 36,
 "topic": "Agriculture Insurance",
 "t": "State the maximum sum insured for broilers under \"Comprehensive cover for poultry farms\" in case of IRDP scheme.",
 "o": [
@@ -478,21 +503,7 @@
 "e": "Correct answer: Rs.15 (from the IC71 question bank)."
 },
 {
-"topic": "Policyholder protection",
-"t": "The IRDAI portal through which a policyholder can escalate an unresolved grievance against an insurer is:",
-"o": [
-"Bima Sugam",
-"Bima Bharosa",
-"Bima Vahak",
-"Bima Vistaar"
-],
-"a": 1,
-"e": "★ Core fact (asked across III papers). Bima Bharosa (formerly IGMS) is the grievance portal; Bima Sugam is the marketplace, Bima Vahak the women-led distribution channel and Bima Vistaar the combined rural product.",
-"r": "core",
-"n": 35
-},
-{
-"n": 36,
+"n": 37,
 "topic": "Agriculture Insurance",
 "t": "How is crop and livestock insurance delivered in Israel? Choose the most important delivery channel",
 "o": [
@@ -506,7 +517,7 @@
 "e": "Correct answer: Sales agents of KANAT (from the IC71 question bank)."
 },
 {
-"n": 37,
+"n": 38,
 "topic": "Agriculture Insurance",
 "t": "Reinsurers can assist insurers in all the following areas related to crop insurance EXCEPT:-",
 "o": [
@@ -520,7 +531,7 @@
 "e": "Correct answer: Elimination of weather related risks (from the IC71 question bank)."
 },
 {
-"n": 38,
+"n": 39,
 "topic": "Agriculture Insurance",
 "t": "Describe the concerns of the reinsurer with regards to weather data available. Choose the most appropriate answer",
 "o": [
@@ -534,7 +545,7 @@
 "e": "Correct answer: Reinsurers need real-time weather data along with updates on performance of the contract in relation to the data (from the IC71 question bank)."
 },
 {
-"n": 39,
+"n": 40,
 "topic": "Agriculture Insurance",
 "t": "Outline the premium rate at which subsidy is capped under Seguro da Agricultura Familiar (SEAF) operating in Brazil.",
 "o": [
@@ -548,7 +559,7 @@
 "e": "Correct answer: 2% (from the IC71 question bank)."
 },
 {
-"n": 40,
+"n": 41,
 "topic": "Agriculture Insurance",
 "t": "Compare Farm Income Insurance Scheme and NAIS and describe which one protects income risk better and why?",
 "o": [
@@ -562,7 +573,7 @@
 "e": "Correct answer: FIIS is better as it addresses farmers income risk using an interplay of yield risk and price risk (from the IC71 question bank)."
 },
 {
-"n": 41,
+"n": 42,
 "topic": "Agriculture Insurance",
 "t": "A person is insured for Rs 100000 under Janata Personal Accident Policy. He looses sight of one of his eyes. What is the compensation he  is eligible for?",
 "o": [
@@ -576,7 +587,7 @@
 "e": "Correct answer: Rs 50000 (from the IC71 question bank)."
 },
 {
-"n": 42,
+"n": 43,
 "topic": "Agriculture Insurance",
 "t": "Identify the precondition for an index based insurance program. Choose the most appropriate answer.",
 "o": [
@@ -588,20 +599,6 @@
 ],
 "a": 1,
 "e": "Correct answer: Highly correlated loss (from the IC71 question bank)."
-},
-{
-"topic": "Policyholder protection",
-"t": "An insurer must resolve a policyholder's grievance within how many days of receipt?",
-"o": [
-"7 days",
-"14 days",
-"30 days",
-"45 days"
-],
-"a": 1,
-"e": "★ Core fact (asked across III papers). 14 days under the 2024 regulations; thereafter the policyholder may approach Bima Bharosa or the Ombudsman.",
-"r": "core",
-"n": 43
 },
 {
 "n": 44,

@@ -113,6 +113,20 @@
 {
 "n": 9,
 "topic": "Risk Management",
+"t": "A company runs two separate businesses of cloth manufacturing and shoe manufacturing. The Owner of the company foresees that due to change in consumer behaviour there is a risk in the cloth manufacturing business and hence shuts the cloth business. What kind of risk response is this?",
+"o": [
+"Avoidance",
+"Acceptance",
+"Reduction",
+"Sharing",
+"Transfer"
+],
+"a": 0,
+"e": "Correct answer: Avoidance (from the IC86 question bank)."
+},
+{
+"n": 10,
+"topic": "Risk Management",
 "t": "Loss of water supply is an example of ___________.",
 "o": [
 "Deliberate disruption",
@@ -124,7 +138,7 @@
 "e": "Correct answer: Loss of utilities and services (from the IC86 question bank)."
 },
 {
-"n": 10,
+"n": 11,
 "topic": "Risk Management",
 "t": "Which of the following is not a main concern of a HAZOP Study done for risk identification?",
 "o": [
@@ -138,22 +152,21 @@
 "e": "Correct answer: Consequences when there are no deviations (from the IC86 question bank)."
 },
 {
-"n": 11,
+"n": 12,
 "topic": "Risk Management",
-"t": "In the year 1984, which major industrial disaster took place?",
+"t": "Which of the following statements are true about the study and enquiry way of risk identification? <BR><br>I. Can be done through review of documents like Annual Reports , Balance Sheets, Agreements, Contracts, Leases <br>II. Strategic plans of the organisation will provide an indication of likely future developments <br>III. Analysis of the various contracts entered into by the organisation such as sales, purchases and leases will determine the degree to which risks are transferred into and out of the organisation",
 "o": [
-"Triangle Factory Fire New York (USA)",
-"Mina Mata Mercury Disaster (Japan)",
-"Seveso Dioxin Disaster (Italy)",
-"Bhopal Gas Disaster (India)",
-"Port Chicago disaster (USA)"
+"Only I",
+"I and III",
+"I, II and III",
+"II and III",
+"Only III"
 ],
-"a": 3,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Bhopal Gas Disaster (India) (from the IC86 question bank).",
-"r": "key"
+"a": 2,
+"e": "Correct answer: I, II and III (from the IC86 question bank)."
 },
 {
-"n": 12,
+"n": 13,
 "topic": "Risk Management",
 "t": "Device a word to describe the documents that are legally enforceable arrangements that meet the basic test of offer and acceptance, consideration, legality of purpose and legal capacity of the parties.",
 "o": [
@@ -167,7 +180,21 @@
 "e": "Correct answer: Contracts (from the IC86 question bank)."
 },
 {
-"n": 13,
+"n": 14,
+"topic": "Risk Management",
+"t": "Which of the following statements are true about risk identification? <br><br>I.  One particular method of identification may not be sufficient to address all the problems posed by any company <br>II. Same method should be used in identifying risks in all types of industries <br>III. Risk identification cannot be a 'one-off 'exercise but continuous monitoring procedure",
+"o": [
+"I and II",
+"I and III",
+"I, II and III",
+"II and III",
+"Only III"
+],
+"a": 1,
+"e": "Correct answer: I and III (from the IC86 question bank)."
+},
+{
+"n": 15,
 "topic": "Risk Management",
 "t": "The following are the examples of tangible property, except:-",
 "o": [
@@ -181,7 +208,7 @@
 "e": "Correct answer: Customer database in computer (from the IC86 question bank)."
 },
 {
-"n": 14,
+"n": 16,
 "topic": "Risk Management",
 "t": "Objective of continued operations without any interruption is more demanding on the resources and the costs as compared to that of mere survival. Argue. (Choose the most appropriate option)",
 "o": [
@@ -195,7 +222,7 @@
 "e": "Correct answer: Yes. This is totally correct (from the IC86 question bank)."
 },
 {
-"n": 15,
+"n": 17,
 "topic": "Risk Management",
 "t": "Which of the following is not a an advantage of establishing an enterprise risk management system within the organisation? <BR><br>I. Reduces operational surprise <br>II. Eliminates risks <br>III. Identifies opportunities",
 "o": [
@@ -209,7 +236,7 @@
 "e": "Correct answer: Only II (from the IC86 question bank)."
 },
 {
-"n": 16,
+"n": 18,
 "topic": "Risk Management",
 "t": "As per the Reserve Bank of India's Circular Ref. RBI/2004-05/420 dated April 15, 2005 titled \"Operational Risk Management - Business Continuity Planning\", BCP is essential for:<BR> <BR>I. All public sector banks <BR>II. All private sector banks <BR>III. All commercial banks",
 "o": [
@@ -223,7 +250,7 @@
 "e": "Correct answer: I, II and III (from the IC86 question bank)."
 },
 {
-"n": 17,
+"n": 19,
 "topic": "Risk Management",
 "t": "As per the risk matrix, if there is a low likelihood of occurrence of risk and involves a very low cost of damage, what should be the ideal course of action?<BR> <BR>I. Accept the risk <BR>II. Plan contingency <BR>III. Control the risk",
 "o": [
@@ -237,7 +264,7 @@
 "e": "Correct answer: Only I (from the IC86 question bank)."
 },
 {
-"n": 18,
+"n": 20,
 "topic": "Risk Management",
 "t": "If the likelihood of an event is to be assigned a numerical value, which value shall be assigned to those events that are inevitable?  <BR><br>I. Zero <br>II. One <br>III. Two",
 "o": [
@@ -251,7 +278,7 @@
 "e": "Correct answer: Only II (from the IC86 question bank)."
 },
 {
-"n": 19,
+"n": 21,
 "topic": "Risk Management",
 "t": "Which of the following techniques are used for tracing the flow of goods and services through an economy and can equally be used for identifying the exposure of an organisation to risks of disruption of its business.",
 "o": [
@@ -265,22 +292,7 @@
 "e": "Correct answer: Input-output analysis (from the IC86 question bank)."
 },
 {
-"n": 20,
-"topic": "Risk Management",
-"t": "In the year 1985 which major event took place?",
-"o": [
-"Formation of independent national commission by COSO",
-"Formation of Basel Committee on Banking Supervisio",
-"London stock exchange introduced new legislations",
-"Formation of Basel II accord",
-"COSO initiated a study  to develop practices for m"
-],
-"a": 0,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Formation of independent national commission by COSO (from the IC86 question bank).",
-"r": "key"
-},
-{
-"n": 21,
+"n": 22,
 "topic": "Risk Management",
 "t": "Which among the following activity/ies are conducted at the risk analysis stage? <br><br>I.  Risk evaluation <br>II. Risk identification <br>III. Risk elimination",
 "o": [
@@ -294,7 +306,7 @@
 "e": "Correct answer: I and III (from the IC86 question bank)."
 },
 {
-"n": 22,
+"n": 23,
 "topic": "Risk Management",
 "t": "The fundamental objective of risk management is:-",
 "o": [
@@ -308,7 +320,21 @@
 "e": "Correct answer: Minimise the cost of risk (from the IC86 question bank)."
 },
 {
-"n": 23,
+"n": 24,
+"topic": "Risk Management",
+"t": "Which of the following statement is/are correct with regards to  CAT Bonds?<BR> <BR>I. In CAT Bonds, repayment of principal is forgiven if certain specified trigger conditions are met <BR>II. If an event triggers, holders of CAT Bonds get their entire principal back <BR>III. CAT bonds are always linked to some catastrophic event",
+"o": [
+"I and II",
+"I and III",
+"II and III",
+"I, II and III",
+"Only II"
+],
+"a": 1,
+"e": "Correct answer: I and III (from the IC86 question bank)."
+},
+{
+"n": 25,
 "topic": "Risk Management",
 "t": "Which of the following statement/s is/are correct with reference to a disaster?<BR> <BR>I. It will never happen at a convenient time <BR>II. It is always unpredictable <BR>III. Extent of its impact will vary from incident to incident",
 "o": [
@@ -322,7 +348,7 @@
 "e": "Correct answer: I, II and III (from the IC86 question bank)."
 },
 {
-"n": 24,
+"n": 26,
 "topic": "Risk Management",
 "t": "Which organisation introduced new regulations following a series of high profile corporate frauds and accounting scandals?",
 "o": [
@@ -336,7 +362,7 @@
 "e": "Correct answer: London Stock Exchange (from the IC86 question bank)."
 },
 {
-"n": 25,
+"n": 27,
 "topic": "Risk Management",
 "t": "Which one of the following is not a component of ERM?",
 "o": [
@@ -350,22 +376,7 @@
 "e": "Correct answer: Corporate governance (from the IC86 question bank)."
 },
 {
-"n": 26,
-"topic": "Risk Management",
-"t": "In the year 1932 to 1968, which major industrial disaster took place?",
-"o": [
-"Triangle Factory Fire New York (USA)",
-"Mina Mata Mercury Disaster (Japan)",
-"Seveso Dioxin Disaster (Italy)",
-"Bhopal Gas Disaster (India)",
-"Port Chicago disaster (USA)"
-],
-"a": 1,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Mina Mata Mercury Disaster (Japan) (from the IC86 question bank).",
-"r": "key"
-},
-{
-"n": 27,
+"n": 28,
 "topic": "Risk Management",
 "t": "Mr Divakar wants to understand the various types of strategic risks. Advise him.",
 "o": [
@@ -379,7 +390,7 @@
 "e": "Correct answer: Risk of competition, risk of changes in economic environment, Regulatory risks (from the IC86 question bank)."
 },
 {
-"n": 28,
+"n": 29,
 "topic": "Risk Management",
 "t": "Which of the following are the features of an emergency?<BR> <BR>I. Event caused by natural or manmade causes <BR>II. Leads to gradual disruption of normalcy within society <BR>III. Damage caused is beyond the capacity of normal social and economic mechanism to cope up with",
 "o": [
@@ -393,7 +404,7 @@
 "e": "Correct answer: I and III (from the IC86 question bank)."
 },
 {
-"n": 29,
+"n": 30,
 "topic": "Risk Management",
 "t": "The risks that are to be identified are ________ that have a financial cost to them.",
 "o": [
@@ -407,7 +418,7 @@
 "e": "Correct answer: Pure Risk (from the IC86 question bank)."
 },
 {
-"n": 30,
+"n": 31,
 "topic": "Risk Management",
 "t": "Which of the following can be considered as insurative?<BR><BR> I. Debt <BR>II. Insurance <BR>III.  Profit",
 "o": [
@@ -421,7 +432,7 @@
 "e": "Correct answer: I and II (from the IC86 question bank)."
 },
 {
-"n": 31,
+"n": 32,
 "topic": "Risk Management",
 "t": "Under risk financing, which of the following is/are example/s of risk transfer? <br><br>I.  Hedging <br>II. Payment out of funded reserve <br>III. Payment through unfunded loss reserve",
 "o": [
@@ -435,7 +446,21 @@
 "e": "Correct answer: Only I (from the IC86 question bank)."
 },
 {
-"n": 32,
+"n": 33,
+"topic": "Risk Management",
+"t": "The prospective finite risk reinsurance covers provide protection against the _____________.<BR> <BR>I. Contingencies associated with future loss events <BR>II. The negative impact of an adverse loss development <BR>III. The accelerated payout of losses already incurred at inception of the cover",
+"o": [
+"Only I",
+"Only II",
+"Only III",
+"II and III",
+"I, II and III"
+],
+"a": 0,
+"e": "Correct answer: Only I (from the IC86 question bank)."
+},
+{
+"n": 34,
 "topic": "Risk Management",
 "t": "Which among the following are examples of human perils?<BR> <BR>I. Electrical overload <BR>II. Stock market decline <BR>III. Soil erosion",
 "o": [
@@ -449,7 +474,7 @@
 "e": "Correct answer: Only I (from the IC86 question bank)."
 },
 {
-"n": 33,
+"n": 35,
 "topic": "Risk Management",
 "t": "The procedures of deductibles and self insurance will fall in which step of risk management process?",
 "o": [
@@ -463,21 +488,7 @@
 "e": "Correct answer: Risk financing (from the IC86 question bank)."
 },
 {
-"topic": "Principles",
-"t": "In a life insurance contract, insurable interest must exist:",
-"o": [
-"At the time of the claim only",
-"At inception of the policy",
-"Both at inception and at claim",
-"At renewal each year"
-],
-"a": 1,
-"e": "★ Core fact (asked across III papers). Life: at inception only. Marine: at the time of loss. Fire and motor: at both inception and loss.",
-"r": "core",
-"n": 34
-},
-{
-"n": 35,
+"n": 36,
 "topic": "Risk Management",
 "t": "Finite risk reinsurance aims at substantial pre-funding and post-funding of losses over a multi year contract period by the ______. <br><br>I. Insured <br>II. Insurer company <br>III.  Ceding company",
 "o": [
@@ -491,7 +502,7 @@
 "e": "Correct answer: Only III (from the IC86 question bank)."
 },
 {
-"n": 36,
+"n": 37,
 "topic": "Risk Management",
 "t": "An accident may cause loss to an individual. This is an example of which kind of risk? <br><bR>I. Personal Risk <br>II. Property Risk <br>III. Liability Risk",
 "o": [
@@ -505,7 +516,7 @@
 "e": "Correct answer: Only I (from the IC86 question bank)."
 },
 {
-"n": 37,
+"n": 38,
 "topic": "Risk Management",
 "t": "Three basic elements of any loss exposure comprise of which of the following? <br><br>I. Values  exposed to loss <br>II. Perils causing loss <br>III. Financial consequences of loss",
 "o": [
@@ -519,7 +530,7 @@
 "e": "Correct answer: I, II and III (from the IC86 question bank)."
 },
 {
-"n": 38,
+"n": 39,
 "topic": "Risk Management",
 "t": "Which among the following is the first step in risk mitigation activities?",
 "o": [
@@ -533,7 +544,7 @@
 "e": "Correct answer: Priortise action (from the IC86 question bank)."
 },
 {
-"n": 39,
+"n": 40,
 "topic": "Risk Management",
 "t": "A fire has broken out in the building next door which, if not brought under control quickly, may  damage Departmental premises and will certainly require evacuation procedures to be invoked. Which phase of disaster can this  be referred to?",
 "o": [
@@ -547,7 +558,7 @@
 "e": "Correct answer: Emergency response phase (from the IC86 question bank)."
 },
 {
-"n": 40,
+"n": 41,
 "topic": "Risk Management",
 "t": "Under which of the following methods of risk identification the risk assessment is done by preparing charts that represent the flow of various aspects of an organisation?",
 "o": [
@@ -561,7 +572,7 @@
 "e": "Correct answer: Flow Charts (from the IC86 question bank)."
 },
 {
-"n": 41,
+"n": 42,
 "topic": "Risk Management",
 "t": "What is the need for monitoring an implemented risk management programme?<BR> <BR>I. To ensure that it is exceeding the expected results <BR>II. To reduce losses <BR>III. To adjust it for changes in techniques",
 "o": [
@@ -575,7 +586,7 @@
 "e": "Correct answer: Only III (from the IC86 question bank)."
 },
 {
-"n": 42,
+"n": 43,
 "topic": "Risk Management",
 "t": "Which of the following methods are useful to identify exposures to loss of property whether real and personal or tangible and intangible?<BR> <BR>I. Flowcharts <BR>II. Loss histories <BR>III. Financial statements",
 "o": [
@@ -589,7 +600,7 @@
 "e": "Correct answer: I, II and III (from the IC86 question bank)."
 },
 {
-"n": 43,
+"n": 44,
 "topic": "Risk Management",
 "t": "Which one of the following activity is not done at the risk treatment stage?",
 "o": [
@@ -603,7 +614,7 @@
 "e": "Correct answer: Risk evaluation (from the IC86 question bank)."
 },
 {
-"n": 44,
+"n": 45,
 "topic": "Risk Management",
 "t": "Every loss exposure can be considered to have which of the following three dimensions? <br><br>I.  Potential Monetary Loss <br>II. Value exposed loss <br>III. Peril causing loss",
 "o": [
@@ -617,7 +628,7 @@
 "e": "Correct answer: I, II and III (from the IC86 question bank)."
 },
 {
-"n": 45,
+"n": 46,
 "topic": "Risk Management",
 "t": "Simran is in charge of loss control management in her organisation. She wants to ensures that the passive measures are in place to limit the extent of any loss and to maximise the recovery from loss. Suggest which among the following are passive measures. <br><bR>I. Construction of automatic fire doors <br>II. Installation of burglar alarms <br>III. Installation of sprinklers",
 "o": [
@@ -631,7 +642,7 @@
 "e": "Correct answer: Only I (from the IC86 question bank)."
 },
 {
-"n": 46,
+"n": 47,
 "topic": "Risk Management",
 "t": "Which of the following are the advantages of  the fault tree of risk identification? <br><br>I.  It is an excellent way of describing a complicated process or a system, <br>II. It allows for the identification of risks as the tree is being built, <br>III. It can be used to judge the sensitivity of the system to changes or to ascertain which parts of the system have the most impact in terms of risk",
 "o": [
@@ -643,20 +654,6 @@
 ],
 "a": 4,
 "e": "Correct answer: I, II and III (from the IC86 question bank)."
-},
-{
-"topic": "Principles",
-"t": "Non-disclosure of a material fact by the proposer makes the contract:",
-"o": [
-"Void ab initio",
-"Voidable at the option of the insurer",
-"Illegal",
-"Automatically continued on revised terms"
-],
-"a": 1,
-"e": "★ Core fact (asked across III papers). Breach of utmost good faith renders the contract voidable, not void; the insurer may elect to avoid it (subject to Section 45 for life).",
-"r": "core",
-"n": 47
 },
 {
 "n": 48,

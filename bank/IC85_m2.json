@@ -2,6 +2,20 @@
 {
 "n": 1,
 "topic": "Reinsurance Management",
+"t": "Identify the relevant factor/s from following which is relevant in reinsurance programme design, with regard to decision making on retentions and type of reinsurance arrangements?<br><br>I. Paid up capital <br>II. Risk based capital<br>III. Frequency and size of losses",
+"o": [
+"Only I",
+"Only III",
+"I and II",
+"II and III",
+"I, II and III"
+],
+"a": 1,
+"e": "Correct answer: Only III (from the IC85 question bank)."
+},
+{
+"n": 2,
+"topic": "Reinsurance Management",
 "t": "Where both portfolio premium and portfolio loss are withdrawn from all the outgoing reinsurers at the year end and corresponding entries are given to the renewing reinsurers on the treaty for the New Year the method is known as __________.",
 "o": [
 "50% method",
@@ -14,7 +28,21 @@
 "e": "Correct answer: Clean cut method (from the IC85 question bank)."
 },
 {
-"n": 2,
+"n": 3,
+"topic": "Reinsurance Management",
+"t": "Identify the true statement.<br><br>I. Reinsurers on the first surplus treaties rarely spend time investigating the original business rate levels<br>II. Reinsurers on the second surplus treaties rarely spend time investigating the original business rate levels.<br>III. Reinsurers on the facultative reinsurance examine the adequacy of rate levels.",
+"o": [
+"Only I",
+"Only III",
+"I and II",
+"II and III",
+"I, II and III"
+],
+"a": 4,
+"e": "Correct answer: I, II and III (from the IC85 question bank)."
+},
+{
+"n": 4,
 "topic": "Reinsurance Management",
 "t": "Which of the following statement is CORRECT with regard to \"Burning cost\"?",
 "o": [
@@ -28,7 +56,7 @@
 "e": "Correct answer: It is the basis for rating working excess of loss treaty (from the IC85 question bank)."
 },
 {
-"n": 3,
+"n": 5,
 "topic": "Reinsurance Management",
 "t": "____________ is installed to assist to cover any gap in the various reinsurance arrangements made by a reinsured.",
 "o": [
@@ -42,7 +70,7 @@
 "e": "Correct answer: Umbrella excess of loss cover (from the IC85 question bank)."
 },
 {
-"n": 4,
+"n": 6,
 "topic": "Reinsurance Management",
 "t": "In Switzerland, the first reinsurer to be formed was the __________ which started business in 1863.",
 "o": [
@@ -56,7 +84,7 @@
 "e": "Correct answer: Swiss Re (from the IC85 question bank)."
 },
 {
-"n": 5,
+"n": 7,
 "topic": "Reinsurance Management",
 "t": "Which of the following statement best describes Working (Risk) Excess of loss reinsurance?",
 "o": [
@@ -70,7 +98,7 @@
 "e": "Correct answer: This reinsurance is intended to limit losses that arise on the reinsured's day-to-day operations (from the IC85 question bank)."
 },
 {
-"n": 6,
+"n": 8,
 "topic": "Reinsurance Management",
 "t": "The Cologne Reinsurance Company started operations in __________.",
 "o": [
@@ -84,7 +112,7 @@
 "e": "Correct answer: 1852 (from the IC85 question bank)."
 },
 {
-"n": 7,
+"n": 9,
 "topic": "Reinsurance Management",
 "t": "The \"Developing\" designation under \"Credit Watch\" means that a rating may be:- <BR><BR>I. Raised <BR>II. Lowered <BR>III. Affirmed",
 "o": [
@@ -98,7 +126,7 @@
 "e": "Correct answer: I, II or III (from the IC85 question bank)."
 },
 {
-"n": 8,
+"n": 10,
 "topic": "Reinsurance Management",
 "t": "Identify the true statement with regard to F.A.I.R.<BR><BR>I. The Federation of Afro-Asian Insurers and Reinsurers (F.A.I.R.) set up the F.A.I.R Non-Life Reinsurance Pool with effect from 1.1.1974.<BR>II. The principal object of the Pool is to accept reinsurance and retrocession business from the European markets.<BR>III. MillÃ® ReasÃ¼rans T.A.Åž. Istanbul is entrusted with the management of the F.A.I.R. Reinsurance Pool since its establishment.",
 "o": [
@@ -112,22 +140,7 @@
 "e": "Correct answer: I and III (from the IC85 question bank)."
 },
 {
-"n": 9,
-"topic": "Reinsurance Management",
-"t": "In 1961, the Government of India made it compulsory by statute on the part of every insurer to cede 10% in __________.",
-"o": [
-"Fire and Marine Cargo",
-"Miscellaneous Insurance",
-"Credit and Solvency Business",
-"Property Insurance",
-"Engineering Insurance"
-],
-"a": 1,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Miscellaneous Insurance (from the IC85 question bank).",
-"r": "key"
-},
-{
-"n": 10,
+"n": 11,
 "topic": "Reinsurance Management",
 "t": "Lloyd's underwriters write business through:- <BR><BR>I. Registered Lloyd's Brokers <BR>II. Ceding Insurers <BR>III. Captive Companies",
 "o": [
@@ -141,7 +154,7 @@
 "e": "Correct answer: Only I (from the IC85 question bank)."
 },
 {
-"n": 11,
+"n": 12,
 "topic": "Reinsurance Management",
 "t": "With regard to Property reinsurance, the surplus in excess of the first surplus treaty limits is ceded through:- <BR><BR>I. Second surplus treaty <BR>II. Auto/Fac cover and facultatively <BR>III. Third surplus treaty",
 "o": [
@@ -155,7 +168,7 @@
 "e": "Correct answer: I and II (from the IC85 question bank)."
 },
 {
-"n": 12,
+"n": 13,
 "topic": "Reinsurance Management",
 "t": "The most important feature of  ___________ is the option that claims are paid by adjusting the financial loss caused by a 'first trigger' say fire with financial gain from a 'second trigger' say an agreed commodity price movement",
 "o": [
@@ -169,7 +182,7 @@
 "e": "Correct answer: Multi trigger cover (from the IC85 question bank)."
 },
 {
-"n": 13,
+"n": 14,
 "topic": "Reinsurance Management",
 "t": "Reinstatement provisions are relevant for:-<br><br>I. Catastrophe excess of loss covers<br>II. Risk XL cover<br>III. Umbrella excess of loss cover",
 "o": [
@@ -183,7 +196,7 @@
 "e": "Correct answer: I and II (from the IC85 question bank)."
 },
 {
-"n": 14,
+"n": 15,
 "topic": "Reinsurance Management",
 "t": "Financial reinsurance is a useful tool when:-<br><br>I. Substantial new business has materialized<br>II. Earnings from investment are considerably reduced due to situational changes in investment climate<br>III. To get over a tentative financial strain or to stabilize yearly revenues and expenses",
 "o": [
@@ -197,7 +210,7 @@
 "e": "Correct answer: I, II and III (from the IC85 question bank)."
 },
 {
-"n": 15,
+"n": 16,
 "topic": "Reinsurance Management",
 "t": "A treaty underwriter should be conversant with:- <BR><BR>I. Various contractual conditions <BR>II. Up-to-date market conditions <BR>III. Machinery to build up statistics and the ability to interpret them",
 "o": [
@@ -211,7 +224,7 @@
 "e": "Correct answer: I, II and III (from the IC85 question bank)."
 },
 {
-"n": 16,
+"n": 17,
 "topic": "Reinsurance Management",
 "t": "As per loss advice and accounting of loss clause, advice is to be given to the reinsurer when a loss reaches an agreed amount, even if the ceding insurer does not request special settlement. This is known as ____________.",
 "o": [
@@ -225,7 +238,7 @@
 "e": "Correct answer: Preliminary loss advice (from the IC85 question bank)."
 },
 {
-"n": 17,
+"n": 18,
 "topic": "Reinsurance Management",
 "t": "Which of the following forms of reinsurance, reinsures risks on individual basis?<br><br>I. Facultative reinsurance<br>II. Facilitative reinsurance<br>III. Treaty reinsurance",
 "o": [
@@ -239,7 +252,21 @@
 "e": "Correct answer: Only I (from the IC85 question bank)."
 },
 {
-"n": 18,
+"n": 19,
+"topic": "Reinsurance Management",
+"t": "Identify the true statement.<br><br>I. Credit rating is used by insurers and reinsurers to inform the markets of their financial strengths.<br>II. Credit rating opinion is specific to a particular policy or contract.<br>III. Credit ratings address the suitability of a particular policy or contract for a specific purpose or purchaser.",
+"o": [
+"Only I",
+"Only III",
+"I and II",
+"II and III",
+"I, II and III"
+],
+"a": 0,
+"e": "Correct answer: Only I (from the IC85 question bank)."
+},
+{
+"n": 20,
 "topic": "Reinsurance Management",
 "t": "This clause is often challenged by creditors and others interested in maximizing the assets of the insolvent party in the event of insolvency:-",
 "o": [
@@ -253,22 +280,7 @@
 "e": "Correct answer: Set-off clause (from the IC85 question bank)."
 },
 {
-"n": 19,
-"topic": "Reinsurance Management",
-"t": "ABC Insurance Co. has fixed its retention limit at Rs. 20,00,000 for fire insurance. The company has received a fire insurance proposal for Rs. 15,00,000. What will be the 'surplus reinsurance' requirement?",
-"o": [
-"Rs. 5,00,000",
-"Nil",
-"Rs. 15,00,000",
-"Rs. 11,25,000",
-"Rs. 3,75,000"
-],
-"a": 1,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Nil (from the IC85 question bank).",
-"r": "key"
-},
-{
-"n": 20,
+"n": 21,
 "topic": "Reinsurance Management",
 "t": "In reinsurance programme design, which of the following factor influence retentions, cover limits and reinsurance costs?",
 "o": [
@@ -282,7 +294,7 @@
 "e": "Correct answer: Total free assets (from the IC85 question bank)."
 },
 {
-"n": 21,
+"n": 22,
 "topic": "Reinsurance Management",
 "t": "Which form of reinsurance may be affected on an individual risk where a one off' type of large loss may be expected to occur?",
 "o": [
@@ -296,7 +308,7 @@
 "e": "Correct answer: Surplus facultative reinsurance (from the IC85 question bank)."
 },
 {
-"n": 22,
+"n": 23,
 "topic": "Reinsurance Management",
 "t": "Identify the incorrect option. Flexibility provided by facultative reinsurance has resulted in its strategic and widespread use:-",
 "o": [
@@ -310,7 +322,7 @@
 "e": "Correct answer: To obtain the reinsurer's advice on simple, straight foward risks (from the IC85 question bank)."
 },
 {
-"n": 23,
+"n": 24,
 "topic": "Reinsurance Management",
 "t": "The individual insurer rating is:-<BR><BR>I. Superior to its country's rating<BR>II. Subordinate to its country's rating<BR>III. Not dependant on its country's rating",
 "o": [
@@ -324,7 +336,7 @@
 "e": "Correct answer: Only II (from the IC85 question bank)."
 },
 {
-"n": 24,
+"n": 25,
 "topic": "Reinsurance Management",
 "t": "In reinsurance programme design, what is the relevance of Investment and liquidity policy?",
 "o": [
@@ -338,7 +350,21 @@
 "e": "Correct answer: Ascertaining cash flow produced by business (from the IC85 question bank)."
 },
 {
-"n": 25,
+"n": 26,
+"topic": "Reinsurance Management",
+"t": "Reinsurance provides a means of communication between the reinsurers and insurers of different markets and frequently acts as a catalyst by:-<br><br>I. Propogating new forms of insurance<br>II. Communicating international experience<br>III. Suggesting technical restrictions",
+"o": [
+"Only I",
+"Only II",
+"Only III",
+"I and II",
+"I, II and III"
+],
+"a": 4,
+"e": "Correct answer: I, II and III (from the IC85 question bank)."
+},
+{
+"n": 27,
 "topic": "Reinsurance Management",
 "t": "What are accumulation control sheets?",
 "o": [
@@ -352,22 +378,7 @@
 "e": "Correct answer: All liabilities for risks coming under the zone exposed to earthquake are listed in such sheets (from the IC85 question bank)."
 },
 {
-"n": 26,
-"topic": "Reinsurance Management",
-"t": "The Stamp Act 1899 provides that every instrument chargeable with duty executed out of India may be stamped within _______________ after it is received in India.",
-"o": [
-"15 days",
-"1 month",
-"2 months",
-"3 months",
-"5 months"
-],
-"a": 3,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: 3 months (from the IC85 question bank).",
-"r": "key"
-},
-{
-"n": 27,
+"n": 28,
 "topic": "Reinsurance Management",
 "t": "Identify the credit rating agencies of India. <BR><BR>I. CRISIL <BR>II. CARE <BR>III. ICRA",
 "o": [
@@ -381,7 +392,7 @@
 "e": "Correct answer: I, II and III (from the IC85 question bank)."
 },
 {
-"n": 28,
+"n": 29,
 "topic": "Reinsurance Management",
 "t": "All of the following statements are CORRECT with regard to Excess of loss cover EXCEPT:-",
 "o": [
@@ -395,7 +406,7 @@
 "e": "Correct answer: The excess of loss contract is concerned with premium and claims on any one risk (from the IC85 question bank)."
 },
 {
-"n": 29,
+"n": 30,
 "topic": "Reinsurance Management",
 "t": "Which type of Excess of loss reinsurance caters to the reinsured's need for protection against number of losses that arise out of a single accident, occurrence or event?",
 "o": [
@@ -409,7 +420,7 @@
 "e": "Correct answer: Working Excess of loss (from the IC85 question bank)."
 },
 {
-"n": 30,
+"n": 31,
 "topic": "Reinsurance Management",
 "t": "Identify the costs that are not included under claims costs.<br><br>I. Salvage costs<br>II. Salaries of employees<br>III. Office cost",
 "o": [
@@ -423,7 +434,21 @@
 "e": "Correct answer: II and III (from the IC85 question bank)."
 },
 {
-"n": 31,
+"n": 32,
+"topic": "Reinsurance Management",
+"t": "Identify the true statement. <BR><BR>I. The credit rating methodology used involves an examination of the insurer's investment portfolio, investment goals, asset quality and liquidity traits, all of which will enable the rater to come to a conclusion about the risk profile of the portfolio. <BR>II. The credit rating process is specific to a specific policy or contract. <BR>III. The rating process examines the insurance companies' pricing strategies, hedging operations, asset-liability management and exposure to reinsurance.",
+"o": [
+"Only I",
+"Only III",
+"I and III",
+"II and III",
+"I, II and III"
+],
+"a": 2,
+"e": "Correct answer: I and III (from the IC85 question bank)."
+},
+{
+"n": 33,
 "topic": "Reinsurance Management",
 "t": "F.A.I.R operates:-<br><br>I. Aviation pool<br>II. Oil & Energy Insurance Syndicate<br>III. Marine pool",
 "o": [
@@ -437,7 +462,7 @@
 "e": "Correct answer: I and II (from the IC85 question bank)."
 },
 {
-"n": 32,
+"n": 34,
 "topic": "Reinsurance Management",
 "t": "The Pure Burning Cost is loaded by a suitable factor to cover costs of:-<br><br>I. Costs of acquisition<br>II. Expenses of management<br>III. Reserve for catastrophe",
 "o": [
@@ -451,7 +476,7 @@
 "e": "Correct answer: I,II and III (from the IC85 question bank)."
 },
 {
-"n": 33,
+"n": 35,
 "topic": "Reinsurance Management",
 "t": "Identify the true statement with regard to treaties where there is provision for retention of reserves.<br><br>I. In treaties where there is provision for retention of reserves, the ceding insurers will allow the reinsurers interest ranging between 2% and 4% or slightly higher.<br>II. The interest is calculated at the agreed rate and credited in the quarter in which reserve is released.<br>III. Interest will be subject to tax as per local regulations and thus the net return to the reinsurer will be very low.",
 "o": [
@@ -465,21 +490,7 @@
 "e": "Correct answer: I, II and III (from the IC85 question bank)."
 },
 {
-"topic": "Reinsurance",
-"t": "The obligatory cession that Indian general insurers must make to GIC Re is currently:",
-"o": [
-"4%",
-"5%",
-"10%",
-"15%"
-],
-"a": 0,
-"e": "★ Core fact (asked across III papers). The obligatory cession was reduced to 4% from 1 April 2022.",
-"r": "core",
-"n": 34
-},
-{
-"n": 35,
+"n": 36,
 "topic": "Reinsurance Management",
 "t": "In treaty reinsurance, a formal treaty wording is usually drawn up by the parties to describe:-<br><br> I. Territorial scope<br>II. Risks excluded<br>III. Calculation and payment of claims",
 "o": [
@@ -493,7 +504,7 @@
 "e": "Correct answer: I, II and III (from the IC85 question bank)."
 },
 {
-"n": 36,
+"n": 37,
 "topic": "Reinsurance Management",
 "t": "There are some risks inherent to reinsurance. Indeed, several reinsurance companies have suffered considerable setbacks through deficient organsations as a result of:-<br><br> I. Bad planning<br>II. Incomplete control<br>III. Lack of specialist",
 "o": [
@@ -507,7 +518,7 @@
 "e": "Correct answer: I and/or II and/or  III (from the IC85 question bank)."
 },
 {
-"n": 37,
+"n": 38,
 "topic": "Reinsurance Management",
 "t": "In Cash in Transit reinsurance business, which is the most appropriate method of reinsurance?<BR><BR>I. Facultative reinsurance<BR>II. Excess of loss cover<BR>III. Surplus treaty",
 "o": [
@@ -521,7 +532,7 @@
 "e": "Correct answer: Only III (from the IC85 question bank)."
 },
 {
-"n": 38,
+"n": 39,
 "topic": "Reinsurance Management",
 "t": "Engineering insurance business covers:-<br><br>I. Machinery Breakdown<br>II. Boiler Explosion<br>III. Erection All Risks",
 "o": [
@@ -535,7 +546,7 @@
 "e": "Correct answer: I, II and III (from the IC85 question bank)."
 },
 {
-"n": 39,
+"n": 40,
 "topic": "Reinsurance Management",
 "t": "Which of the following zones that are highly exposed to earthquake? <BR><BR>I. Nepal <BR>II. Assam <BR>III. Burma",
 "o": [
@@ -549,7 +560,7 @@
 "e": "Correct answer: I, II and III (from the IC85 question bank)."
 },
 {
-"n": 40,
+"n": 41,
 "topic": "Reinsurance Management",
 "t": "In which of the following methods, claims under policies issued or renewed during the contract period are covered no matter in which year they may occur?<br><br>I. Losses occurring basis<br>II. Risk attaching basis<br>III. Premium basis",
 "o": [
@@ -563,7 +574,7 @@
 "e": "Correct answer: Only II (from the IC85 question bank)."
 },
 {
-"n": 41,
+"n": 42,
 "topic": "Reinsurance Management",
 "t": "Which of the following inwards account records helps in keeping a watch on receipt of accounts and follow-up of delayed accounts?",
 "o": [
@@ -577,7 +588,7 @@
 "e": "Correct answer: Accounts flow chart (from the IC85 question bank)."
 },
 {
-"n": 42,
+"n": 43,
 "topic": "Reinsurance Management",
 "t": "Provision in ______________ allows a party not in privity with the reinsurer to have rights against the reinsurer under the reinsurance agreement.",
 "o": [
@@ -589,20 +600,6 @@
 ],
 "a": 3,
 "e": "Correct answer: Cut through endorsement clause (from the IC85 question bank)."
-},
-{
-"topic": "Principles",
-"t": "The principle that allows an insurer who has paid a claim to step into the insured's shoes and recover from a liable third party is:",
-"o": [
-"Contribution",
-"Subrogation",
-"Indemnity",
-"Proximate cause"
-],
-"a": 1,
-"e": "★ Core fact (asked across III papers). Subrogation is a corollary of indemnity; it does not apply to life or personal accident (benefit) policies.",
-"r": "core",
-"n": 43
 },
 {
 "n": 44,

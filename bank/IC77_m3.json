@@ -30,6 +30,34 @@
 {
 "n": 3,
 "topic": "Engineering Insurance",
+"t": "ABC has invested in boiler plant and has approached ALM Bank for a loan. ALM Bank refuses the loan on the grounds that ABC has not taken any insurance on the boiler plant. ABC has a good creditworthiness in market though. Would you agree with the bank's logic for not extending the loan?",
+"o": [
+"Yes, I would",
+"No, I would not",
+"Yes, I would, depending on IRDAI guidelines",
+"No, I would not, subject to IRDAI guidelines",
+"No, I would not, as the credit standing of ABC is"
+],
+"a": 0,
+"e": "Correct answer: Yes, I would (from the IC77 question bank)."
+},
+{
+"n": 4,
+"topic": "Engineering Insurance",
+"t": "Which among the following are not the two primary legislations that deal with insurance business in India?<br><br>I. Safety Rules of Plant and Machinery<br>II. Insurance Act 1938<br>III. The Indian Boilers Act 1923<br>IV. The Insurance Regulatory and Developing Authority Act 1999",
+"o": [
+"I and II",
+"I&III",
+"III and IV",
+"I and IV",
+"II and IV"
+],
+"a": 1,
+"e": "Correct answer: I&III (from the IC77 question bank)."
+},
+{
+"n": 5,
+"topic": "Engineering Insurance",
 "t": "XYZ Ltd is electricity producing company. They have installed transmission towers and power lines for transmission of electricity. What is their major risk that the transmission towers and power lines may face?",
 "o": [
 "Windstorm",
@@ -42,7 +70,7 @@
 "e": "Correct answer: Windstorm (from the IC77 question bank)."
 },
 {
-"n": 4,
+"n": 6,
 "topic": "Engineering Insurance",
 "t": "The wordings in endorsements pertaining to design Defect Exclusion (DE) used in standard MCE/EAR policies come from __________.",
 "o": [
@@ -56,7 +84,7 @@
 "e": "Correct answer: London Market (from the IC77 question bank)."
 },
 {
-"n": 5,
+"n": 7,
 "topic": "Engineering Insurance",
 "t": "What are the merits of purchasing surplus treaty? <bR><bR>I. Provides additional capacity <br>II. Enables insurer's to write large risk <br>III. Easy to execute with low administration costs",
 "o": [
@@ -70,7 +98,7 @@
 "e": "Correct answer: I, II and III (from the IC77 question bank)."
 },
 {
-"n": 6,
+"n": 8,
 "topic": "Engineering Insurance",
 "t": "Facultative reinsurance help to fill voids in the coverage. Do you agree with this statements?",
 "o": [
@@ -84,7 +112,7 @@
 "e": "Correct answer: This statement is right (from the IC77 question bank)."
 },
 {
-"n": 7,
+"n": 9,
 "topic": "Engineering Insurance",
 "t": "ABC limited is a construction company. It has taken a Contractor's All Risk (CAR) insurance policy for all its sites. It has incurred the following losses at one of its sites. Which of the following losses are  general exclusions in a Contractor's All Risk (CAR) insurance policy?<br><br>I. Damages due to a faulty floor plan<br>II. Depreciation of tools and machinery<br>III. Damages due error of site manager",
 "o": [
@@ -98,7 +126,7 @@
 "e": "Correct answer: I and II (from the IC77 question bank)."
 },
 {
-"n": 8,
+"n": 10,
 "topic": "Engineering Insurance",
 "t": "After which stage does the project authority invites tenders?",
 "o": [
@@ -112,7 +140,7 @@
 "e": "Correct answer: Detailed project planning (from the IC77 question bank)."
 },
 {
-"n": 9,
+"n": 11,
 "topic": "Engineering Insurance",
 "t": "Which of the following issues are addressed by feasibility study of an infrastructure project?<br><br>I. Selection of designs and materials<br>II. Approximate project cost, cost benefit analysis<br>III. Land acquisition",
 "o": [
@@ -126,7 +154,7 @@
 "e": "Correct answer: I and II (from the IC77 question bank)."
 },
 {
-"n": 10,
+"n": 12,
 "topic": "Engineering Insurance",
 "t": "PQR Corp wants to calculate the basic rates of premium under a boiler and pressure plant insurance policy. What factors should he consider in computing the same? <bR><bR>I. Type of boiler <br>II. Type of fuel <br>III. Age of boiler",
 "o": [
@@ -140,22 +168,21 @@
 "e": "Correct answer: I, II and III (from the IC77 question bank)."
 },
 {
-"n": 11,
+"n": 13,
 "topic": "Engineering Insurance",
-"t": "In a 'Hydrocarbon Endorsement For Testing & Commissioning' -Article 1, in any operation where hydrocarbons or hydrogen are involved the deductible excess shall be 5% of claim amount subject to minimum of _______.",
+"t": "Which of the following types of losses or damages are covered under the third party liability of a CPI Policy? <bR><br>I. Loss or damage belonging to a third party <br>II. Injury to a person not involved in the project <br>III. Death of a person not involved in the project",
 "o": [
-"Rs1,00,000",
-"Rs2,00,000",
-"Rs3,00,000",
-"Rs4,00,000",
-"Rs5,00,000"
+"Only I",
+"Only II",
+"Only III",
+"I and II",
+"I, II and III"
 ],
 "a": 4,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Rs5,00,000 (from the IC77 question bank).",
-"r": "key"
+"e": "Correct answer: I, II and III (from the IC77 question bank)."
 },
 {
-"n": 12,
+"n": 14,
 "topic": "Engineering Insurance",
 "t": "A Contractors All Risk (CAR) insurance policy covers which of the following perils? <bR><bR>I. Tornado  <br>II. Theft & Burglary <br>III. Defective materials",
 "o": [
@@ -169,7 +196,7 @@
 "e": "Correct answer: I and II (from the IC77 question bank)."
 },
 {
-"n": 13,
+"n": 15,
 "topic": "Engineering Insurance",
 "t": "Arrange these stages of a project in their correct order.<br><br>I. Award of contract<br>II. Site preparation<br>III. Call for tender",
 "o": [
@@ -183,7 +210,7 @@
 "e": "Correct answer: III, I and II (from the IC77 question bank)."
 },
 {
-"n": 14,
+"n": 16,
 "topic": "Engineering Insurance",
 "t": "Arrange the events in proper order starting from first to last. <bR><bR>I. Turbo Generator Set is operated at full load for a continuous period of 72 hours  <br>II. Synchronisation of the Turbo Generator set with the grid system/bus bar   <br>III. Introduction of steam into turbine",
 "o": [
@@ -197,7 +224,7 @@
 "e": "Correct answer: II, III and I (from the IC77 question bank)."
 },
 {
-"n": 15,
+"n": 17,
 "topic": "Engineering Insurance",
 "t": "The Indian Factories Act was enacted in __________.",
 "o": [
@@ -211,7 +238,7 @@
 "e": "Correct answer: 1948 (from the IC77 question bank)."
 },
 {
-"n": 16,
+"n": 18,
 "topic": "Engineering Insurance",
 "t": "Which of the following are the steps of an infrastructure and construction project planning process?<br><br>I. Call for tender<br>II. Feasibility study<br>III. Preparation of cash flow statement",
 "o": [
@@ -225,7 +252,7 @@
 "e": "Correct answer: I and II (from the IC77 question bank)."
 },
 {
-"n": 17,
+"n": 19,
 "topic": "Engineering Insurance",
 "t": "In a Deterioration of stocks insurance (other than potatoes), how is the sum insured measured? <bR><bR>I. Maximum value of stocks in the cold store at any one time during the currency of the policy <br>II. Minimum value of stocks in the cold store at any one time during the currency of the policy <br>III. Market value of stocks in the cold store at the inception of the policy",
 "o": [
@@ -239,7 +266,7 @@
 "e": "Correct answer: Only I (from the IC77 question bank)."
 },
 {
-"n": 18,
+"n": 20,
 "topic": "Engineering Insurance",
 "t": "In an endorsement concerning storage, The individual storage units shall be either at least _________ or separated by fireproof walls.",
 "o": [
@@ -253,22 +280,7 @@
 "e": "Correct answer: 50 meters (from the IC77 question bank)."
 },
 {
-"n": 19,
-"topic": "Engineering Insurance",
-"t": "In the Indian context, 10% of all direct Indian Engineering business, subject to a certain limit, is obligatorily ceded by all the Indian insurance companies to the ___________.",
-"o": [
-"NIC",
-"GIC",
-"IRDAI",
-"RBI",
-"Prime ministers fund"
-],
-"a": 1,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: GIC (from the IC77 question bank).",
-"r": "key"
-},
-{
-"n": 20,
+"n": 21,
 "topic": "Engineering Insurance",
 "t": "Ajay wants to take an insurance policy to cover loss of profits due to machinery breakdown. Which cover should he avail?",
 "o": [
@@ -282,7 +294,7 @@
 "e": "Correct answer: MLOP insurance (from the IC77 question bank)."
 },
 {
-"n": 21,
+"n": 22,
 "topic": "Engineering Insurance",
 "t": "Where the policies are issued to cover consequential loss such deductibles are expressed in terms of time viz. number of days or months etc. and termed as _________.",
 "o": [
@@ -296,7 +308,7 @@
 "e": "Correct answer: Time excess (from the IC77 question bank)."
 },
 {
-"n": 22,
+"n": 23,
 "topic": "Engineering Insurance",
 "t": "If a company has five line treaty with a net retention of say, Rs. 1 crore, the maximum limit under the surplus treaty will be _________.",
 "o": [
@@ -310,7 +322,7 @@
 "e": "Correct answer: Rs. 5 crore (from the IC77 question bank)."
 },
 {
-"n": 23,
+"n": 24,
 "topic": "Engineering Insurance",
 "t": "Contractor's All Risks Insurance, is a specially designed insurance policy to protect the interests of the principals and ___________ engaged in civil engineering projects.",
 "o": [
@@ -324,7 +336,7 @@
 "e": "Correct answer: Contractors (from the IC77 question bank)."
 },
 {
-"n": 24,
+"n": 25,
 "topic": "Engineering Insurance",
 "t": "ABC Limited is a construction company. It has taken a Comprehensive Project Insurance policy for all its sites. It has incurred the following losses at one of its sites. Which of the following losses shall be covered as per the CPI policy? <bR><bR>I. Damages due to fire on site <br>II. Damages due to accidental falling of cement mixer <br>III. Damages due to error of site manager",
 "o": [
@@ -338,7 +350,7 @@
 "e": "Correct answer: I, II and III (from the IC77 question bank)."
 },
 {
-"n": 25,
+"n": 26,
 "topic": "Engineering Insurance",
 "t": "In EEI insurance, the indemnity under which section is on first loss basis?<br><br> I. Material<br>II. External data media <br>III. Increased cost of working",
 "o": [
@@ -352,7 +364,7 @@
 "e": "Correct answer: Only II (from the IC77 question bank)."
 },
 {
-"n": 26,
+"n": 27,
 "topic": "Engineering Insurance",
 "t": "Identify the correct full form of EEI.",
 "o": [
@@ -364,21 +376,6 @@
 ],
 "a": 0,
 "e": "Correct answer: Electronic Equipment Insurance (from the IC77 question bank)."
-},
-{
-"n": 27,
-"topic": "Engineering Insurance",
-"t": "The risk of transporting the property insured under Sections 1A and Section 1B can be covered under _______ subject to the internationally recognised Standard Institute Cargo Clauses.",
-"o": [
-"Section 1",
-"Section 2",
-"Section 3",
-"Section 4",
-"Section 5"
-],
-"a": 3,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Section 4 (from the IC77 question bank).",
-"r": "key"
 },
 {
 "n": 28,
@@ -519,21 +516,7 @@
 "e": "Correct answer: 5% (from the IC77 question bank)."
 },
 {
-"topic": "Health insurance norms",
-"t": "The maximum waiting period for pre-existing diseases in health insurance, after the 2024 IRDAI changes, is:",
-"o": [
-"24 months",
-"36 months",
-"48 months",
-"60 months"
-],
-"a": 1,
-"e": "★ Core fact (asked across III papers). Reduced from 48 to 36 months; the moratorium period after which claims cannot be contested (except fraud) is 60 months.",
-"r": "core",
-"n": 38
-},
-{
-"n": 39,
+"n": 38,
 "topic": "Engineering Insurance",
 "t": "Which of the following objects are suitable for a cover under the comprehensive machinery insurance? <bR><br>I. Microprocessor production plants <br>II. Shopping centres <br>III. Equipment in the automotive industry",
 "o": [
@@ -547,7 +530,7 @@
 "e": "Correct answer: None of I, II and III (from the IC77 question bank)."
 },
 {
-"n": 40,
+"n": 39,
 "topic": "Engineering Insurance",
 "t": "In the event of a loss or damage, the sum insured stands reduced by the amount of claim. Argue. Choose the most appropriate answer.",
 "o": [
@@ -561,7 +544,7 @@
 "e": "Correct answer: This statement is right. Sum insured stands reduced by the amount of claim and needs to be reinstated by payment of additional premium for the balance period (from the IC77 question bank)."
 },
 {
-"n": 41,
+"n": 40,
 "topic": "Engineering Insurance",
 "t": "Fixed costs resulting from a delay which have to be paid continuously throughout the indemnity period include which of the following? <bR><bR>I. Wages and salaries <br>II. Interest and other fixed, finance costs <br>III. Insurance premiums",
 "o": [
@@ -575,7 +558,7 @@
 "e": "Correct answer: I, II and III (from the IC77 question bank)."
 },
 {
-"n": 42,
+"n": 41,
 "topic": "Engineering Insurance",
 "t": "In cases of all repairable damage in respect of parts replaced, which of the following deductions are made?<br><br>I. Depreciation<br>II. Value of salvage<br>III. Original cost",
 "o": [
@@ -589,7 +572,7 @@
 "e": "Correct answer: Only II (from the IC77 question bank)."
 },
 {
-"n": 43,
+"n": 42,
 "topic": "Engineering Insurance",
 "t": "Which of the following losses shall be covered under electronic equipment insurance? <bR><br>I. Physical damage to the equipment due to short circuit  <br>II. Physical damage due to lack of skill <br>III. Damage due to collision",
 "o": [
@@ -603,7 +586,35 @@
 "e": "Correct answer: I, II and III (from the IC77 question bank)."
 },
 {
+"n": 43,
+"topic": "Engineering Insurance",
+"t": "In a deterioration of stocks insurance (other than potatoes), which of the following are the principal exclusions? <bR><bR>I. Damage caused by action of refrigeration fumes escaping from the refrigeration plant and equipment <br>II. Damage caused by inundation storm <br>III. Damage caused by riot",
+"o": [
+"I and II",
+"I and III",
+"II and III",
+"Only III",
+"I, II and III"
+],
+"a": 2,
+"e": "Correct answer: II and III (from the IC77 question bank)."
+},
+{
 "n": 44,
+"topic": "Engineering Insurance",
+"t": "The plant and machinery is usually exposed to perils like fire, storm, water, etc from the time ________.<br><br>I. First lot of plant and equipment arrives at the construction site<br>II. The plant and machinery is successfully commissioned<br>III. The construction work starts in full swing",
+"o": [
+"Only I",
+"Only II",
+"Only III",
+"I and II",
+"I and III"
+],
+"a": 0,
+"e": "Correct answer: Only I (from the IC77 question bank)."
+},
+{
+"n": 45,
 "topic": "Engineering Insurance",
 "t": "Five sets of Endorsement wordings are available from the London Market for the Defect Exclusion (D.E.) Wordings. Which set pertains to defective part exclusion?",
 "o": [
@@ -617,7 +628,7 @@
 "e": "Correct answer: DE 4 (from the IC77 question bank)."
 },
 {
-"n": 45,
+"n": 46,
 "topic": "Engineering Insurance",
 "t": "____________ refers to the amount by which the annual turnover exceeds the amount of specified working expenses.",
 "o": [
@@ -629,20 +640,6 @@
 ],
 "a": 2,
 "e": "Correct answer: Annual gross profit (from the IC77 question bank)."
-},
-{
-"topic": "Intermediaries",
-"t": "The qualifying examination for an individual insurance agent conducted by the Insurance Institute of India is:",
-"o": [
-"IC-01",
-"IC-38",
-"IC-14",
-"IC-33"
-],
-"a": 1,
-"e": "★ Core fact (asked across III papers). IC-38 is the agents' pre-recruitment examination; IC-01/02/11/14 are Licentiate papers.",
-"r": "core",
-"n": 46
 },
 {
 "n": 47,

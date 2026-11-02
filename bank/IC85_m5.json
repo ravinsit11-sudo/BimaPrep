@@ -2,6 +2,34 @@
 {
 "n": 1,
 "topic": "Reinsurance Management",
+"t": "Identify the true statement with regard to reinstatement provision.<br><br>I. In practice a non-proportional treaty provides that the cover would deplete or cease upon payment of loss.<br>II. The number of reinstatements and the basis for additional premium are subject to negotiation.<br>III. Typically reinstatement provisions are relevant for catastrophe excess of loss covers.",
+"o": [
+"Only I",
+"Only II",
+"I and II",
+"II and III",
+"I,II and III"
+],
+"a": 4,
+"e": "Correct answer: I,II and III (from the IC85 question bank)."
+},
+{
+"n": 2,
+"topic": "Reinsurance Management",
+"t": "Catastrophe Excess of Loss reinsurance can be effective for:-<br><br>I. Reinsurance of legal  liabilities to third parties<br>II. Protecting property risks loss exposures<br>III. Accumulation or aggregation of losses arising from an identified event such as Earthquake",
+"o": [
+"Only I",
+"Only III",
+"I and II",
+"II and III",
+"I,II and III"
+],
+"a": 1,
+"e": "Correct answer: Only III (from the IC85 question bank)."
+},
+{
+"n": 3,
+"topic": "Reinsurance Management",
 "t": "IRDAI normally imposes a framework to ensure that insurer's liabilities are not excessive in proportion to his assets. This is known as _______________.",
 "o": [
 "Retention regulation",
@@ -14,7 +42,7 @@
 "e": "Correct answer: Solvency margin regulation (from the IC85 question bank)."
 },
 {
-"n": 2,
+"n": 4,
 "topic": "Reinsurance Management",
 "t": "In reinsurance programme design, what is the relevance of Business development and marketing plans?",
 "o": [
@@ -28,7 +56,7 @@
 "e": "Correct answer: To ensure prompt cover for the newer and increased exposures being added by new business (from the IC85 question bank)."
 },
 {
-"n": 3,
+"n": 5,
 "topic": "Reinsurance Management",
 "t": "As per currency clause, the unit of currency expressed in a treaty agreement is the:-",
 "o": [
@@ -42,7 +70,7 @@
 "e": "Correct answer: Domestic currency of ceding insurer (from the IC85 question bank)."
 },
 {
-"n": 4,
+"n": 6,
 "topic": "Reinsurance Management",
 "t": "In Switzerland, the first reinsurer to be formed was the Swiss Reinsurance Company which started business in ___________.",
 "o": [
@@ -56,7 +84,7 @@
 "e": "Correct answer: 1863 (from the IC85 question bank)."
 },
 {
-"n": 5,
+"n": 7,
 "topic": "Reinsurance Management",
 "t": "The principal objective of  Oil and energy Insurance Syndicate is to underwrite oil and energy business from _____________.",
 "o": [
@@ -70,7 +98,7 @@
 "e": "Correct answer: F.A.I.R. (from the IC85 question bank)."
 },
 {
-"n": 6,
+"n": 8,
 "topic": "Reinsurance Management",
 "t": "________ is an insurer created and wholly owned by its sponsors to provide a facility to aggregate, insure and reinsure only their risks.",
 "o": [
@@ -84,7 +112,7 @@
 "e": "Correct answer: Captive (from the IC85 question bank)."
 },
 {
-"n": 7,
+"n": 9,
 "topic": "Reinsurance Management",
 "t": "Which member of World bank group promotes Foreign Direct Investment (FDI) into developing countries to help support economic growth, reduce poverty, and improve people's lives?",
 "o": [
@@ -98,22 +126,7 @@
 "e": "Correct answer: MIGA (from the IC85 question bank)."
 },
 {
-"n": 8,
-"topic": "Reinsurance Management",
-"t": "ABC Insurance Co. has fixed its retention limit at Rs. 20,00,000 for fire insurance. The company has received a fire insurance proposal for Rs. 15,00,000. What will be the 'surplus reinsurance' requirement?",
-"o": [
-"Rs. 5,00,000",
-"Nil",
-"Rs. 15,00,000",
-"Rs. 11,25,000",
-"Rs. 3,75,000"
-],
-"a": 1,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Nil (from the IC85 question bank).",
-"r": "key"
-},
-{
-"n": 9,
+"n": 10,
 "topic": "Reinsurance Management",
 "t": "Pure burning cost is usually loaded of _______________.",
 "o": [
@@ -127,7 +140,7 @@
 "e": "Correct answer: 25% to 30 % (from the IC85 question bank)."
 },
 {
-"n": 10,
+"n": 11,
 "topic": "Reinsurance Management",
 "t": "What can be included in pro forma of accumulation control sheets? <br><br>I.  Zone <br>II.  Class of business <br>III.  Ceding insurer",
 "o": [
@@ -141,7 +154,7 @@
 "e": "Correct answer: I, II and III (from the IC85 question bank)."
 },
 {
-"n": 11,
+"n": 12,
 "topic": "Reinsurance Management",
 "t": "Identify the factors that affect the rate for calculating premium for XL cover.<br><br>I. Level of excess point<br>II. The limit and exposure to the reinsurer<br>III. Class of insurance business",
 "o": [
@@ -155,7 +168,7 @@
 "e": "Correct answer: I,II and III (from the IC85 question bank)."
 },
 {
-"n": 12,
+"n": 13,
 "topic": "Reinsurance Management",
 "t": "Which form of reinsurance is on the similar lines as Excess of Loss Ratio reinsurance?",
 "o": [
@@ -169,7 +182,7 @@
 "e": "Correct answer: Aggregate Excess of Loss reinsurance (from the IC85 question bank)."
 },
 {
-"n": 13,
+"n": 14,
 "topic": "Reinsurance Management",
 "t": "Which of the following statement is true with regard to 'Quota share treaty'?",
 "o": [
@@ -183,7 +196,7 @@
 "e": "Correct answer: This treaty is used mainly for small accounts where the extra administrative burden of a surplus would be too great (from the IC85 question bank)."
 },
 {
-"n": 14,
+"n": 15,
 "topic": "Reinsurance Management",
 "t": "The reinsured can split and structure his total Excess of loss requirement in layers depending on:-<br><br>I. Market conditions<br>II. Availability of capacity<br>III. Cost effectiveness",
 "o": [
@@ -197,7 +210,7 @@
 "e": "Correct answer: I,II and III (from the IC85 question bank)."
 },
 {
-"n": 15,
+"n": 16,
 "topic": "Reinsurance Management",
 "t": "_______________ is an additional percentage payable to a ceding insurer on profitable treaties in accordance with an agreed formula.",
 "o": [
@@ -211,7 +224,7 @@
 "e": "Correct answer: Profit commission (from the IC85 question bank)."
 },
 {
-"n": 16,
+"n": 17,
 "topic": "Reinsurance Management",
 "t": "Cover note is taken as evidence for:- <BR><BR>I. Placement of cover <BR>II. Protection of cover <BR>III. Terms of cover",
 "o": [
@@ -223,21 +236,6 @@
 ],
 "a": 4,
 "e": "Correct answer: I, II and III (from the IC85 question bank)."
-},
-{
-"n": 17,
-"topic": "Reinsurance Management",
-"t": "The Stamp Act 1899 provides that every instrument chargeable with duty executed out of India may be stamped within _______________ after it is received in India.",
-"o": [
-"15 days",
-"1 month",
-"2 months",
-"3 months",
-"5 months"
-],
-"a": 3,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: 3 months (from the IC85 question bank).",
-"r": "key"
 },
 {
 "n": 18,
@@ -312,6 +310,20 @@
 {
 "n": 23,
 "topic": "Reinsurance Management",
+"t": "Arbitration clause:-<br><br>I. Is found in all reinsurance agreements<br>II. Shows the intentions of the parties to resolve disputes as  to the interpretation of the agreement<br>III. Arbitrators and the Umpire are required to interpret an agreement as an honourable engagement",
+"o": [
+"Only I",
+"Only II",
+"I and II",
+"II and III",
+"I, II and III"
+],
+"a": 4,
+"e": "Correct answer: I, II and III (from the IC85 question bank)."
+},
+{
+"n": 24,
+"topic": "Reinsurance Management",
 "t": "In reinsurance programme design, which of the following factor is relevant to ensure prompt cover for the newer and increased exposures being added by new business?",
 "o": [
 "Business development and marketing plan",
@@ -324,7 +336,7 @@
 "e": "Correct answer: Business development and marketing plan (from the IC85 question bank)."
 },
 {
-"n": 24,
+"n": 25,
 "topic": "Reinsurance Management",
 "t": "Stop loss method applies:-<br><br>I. To the loss ratio of the reinsured for any one class of business<br>II. On the basis of per risk (working)<br>III. On the basis of catastrophe",
 "o": [
@@ -338,7 +350,7 @@
 "e": "Correct answer: Only I (from the IC85 question bank)."
 },
 {
-"n": 25,
+"n": 26,
 "topic": "Reinsurance Management",
 "t": "Identify the incorrect option. Treaty reinsurance is an obligatory contract in which each party foregoes certain rights such as:-<br><br>I. The reinsurer may not decline risks falling within the scope of agreements<br>II. The insurer must allow all risks coming within the scope to be covered<br>III. The pricing for each risk can be determined individually",
 "o": [
@@ -352,7 +364,7 @@
 "e": "Correct answer: Only III (from the IC85 question bank)."
 },
 {
-"n": 26,
+"n": 27,
 "topic": "Reinsurance Management",
 "t": "ABC Insurance Co. has fixed its retention limit at Rs. 20,00,000 for fire insurance. The company has received a fire insurance proposal for Rs. 50,00,000. What will be the 'surplus reinsurance' requirement?",
 "o": [
@@ -366,7 +378,21 @@
 "e": "Correct answer: Rs. 30,00,000 (from the IC85 question bank)."
 },
 {
-"n": 27,
+"n": 28,
+"topic": "Reinsurance Management",
+"t": "Identify the true statement.<br><br>I. Inflation tends to cause higher claims without compensatory increase in sums insured.<br>II. To preserve the calculated acceptable degree of fluctuation of results an increase in retention exactly equivalent to the economic inflation is called for.<br>III. In times of bad results, reinsurers would normally tend to require higher retentions with the clear intention of causing the insurer to have a greater involvement in the losses and, by implication, provoke them to initiate some remedial action.",
+"o": [
+"Only I",
+"Only III",
+"I and II",
+"II and III",
+"I, II and III"
+],
+"a": 4,
+"e": "Correct answer: I, II and III (from the IC85 question bank)."
+},
+{
+"n": 29,
 "topic": "Reinsurance Management",
 "t": "The effect of an earthquake on a structure depends on:- <BR><BR>I. Its magnitude <BR>II. The type of construction of the structure <BR>III. The type of subsoil in the surroundings",
 "o": [
@@ -380,22 +406,7 @@
 "e": "Correct answer: I, II and III (from the IC85 question bank)."
 },
 {
-"n": 28,
-"topic": "Reinsurance Management",
-"t": "Which type of Excess of loss reinsurance is intended to limit losses that arise on the reinsured's day-to-day operations?",
-"o": [
-"Working Excess of loss",
-"Risk Excess of loss",
-"Surplus facultative reinsurance",
-"Catastrophe Excess of loss",
-"Stop loss"
-],
-"a": 0,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Working Excess of loss (from the IC85 question bank).",
-"r": "key"
-},
-{
-"n": 29,
+"n": 30,
 "topic": "Reinsurance Management",
 "t": "Techniques of risk management are pursued in which of the following ways? <BR><BR>I. Risk Transfer <BR>II. Risk Retention Financing <BR>III. Asset Management",
 "o": [
@@ -409,7 +420,7 @@
 "e": "Correct answer: I, II and III (from the IC85 question bank)."
 },
 {
-"n": 30,
+"n": 31,
 "topic": "Reinsurance Management",
 "t": "In credit rating agencies, who can take decisions with regard to rating? <br><br>I.  CEO <br>II.  Rating committee <br>III.  Credit rating member team",
 "o": [
@@ -423,7 +434,7 @@
 "e": "Correct answer: Only II (from the IC85 question bank)."
 },
 {
-"n": 31,
+"n": 32,
 "topic": "Reinsurance Management",
 "t": "In case of surplus reinsurance treaties, the bordereaux list gives details of:-<br><br>I. Name of the insured<br>II. Class of risk<br>III. Sum insured",
 "o": [
@@ -437,7 +448,7 @@
 "e": "Correct answer: I, II and III (from the IC85 question bank)."
 },
 {
-"n": 32,
+"n": 33,
 "topic": "Reinsurance Management",
 "t": "The \"negative\" designation under \"Credit Watch\" means that a rating may be:- <BR><BR>I. Raised <BR>II. Lowered <BR>III. Affirmed",
 "o": [
@@ -451,7 +462,7 @@
 "e": "Correct answer: Only II (from the IC85 question bank)."
 },
 {
-"n": 33,
+"n": 34,
 "topic": "Reinsurance Management",
 "t": "Under which of the following method/s of calculating portfolio transfer, it is assumed that the expiry periods of cessions under the treaty are uniformly spread through the treaty year so that the mean expiry period can be fixed at the middle of the year?<br><br>I. 50% method<br>II. Twenty fourth system<br>III. Clean cut method",
 "o": [
@@ -465,7 +476,21 @@
 "e": "Correct answer: Only I (from the IC85 question bank)."
 },
 {
-"n": 34,
+"n": 35,
+"topic": "Reinsurance Management",
+"t": "Identify the true statement. <BR><BR>I. An insurer or reinsurer may have his own basic treaties to serve as a medium of reciprocity for the inward business in which case he may go in for non -reciprocal trading. <BR>II. Reciprocal trading may be sought by insurer/reinsurer to increase their net premium. <BR>III. Normally an insurer or reinsurer starting to write reinsurance business will write only net lines.",
+"o": [
+"Only I",
+"Only III",
+"I and II",
+"II and III",
+"I, II and III"
+],
+"a": 1,
+"e": "Correct answer: Only III (from the IC85 question bank)."
+},
+{
+"n": 36,
 "topic": "Reinsurance Management",
 "t": "Identify the true statement with regard to WTO.<br><br>I. The World Trade Organisation (WTO) actively promotes free trade in services.<br>II. India is a signatory to the WTO.<br>III. China is a member of the WTO.",
 "o": [
@@ -479,21 +504,7 @@
 "e": "Correct answer: I, II and III (from the IC85 question bank)."
 },
 {
-"topic": "Motor – statutory",
-"t": "Third-party insurance is compulsory for a motor vehicle used in a public place under which section of the Motor Vehicles Act 1988?",
-"o": [
-"Section 140",
-"Section 146",
-"Section 163A",
-"Section 166"
-],
-"a": 1,
-"e": "★ Core fact (asked across III papers). Section 146 makes TP cover compulsory; Section 164 fixes no-fault compensation (₹5 lakh death / ₹2.5 lakh grievous hurt).",
-"r": "core",
-"n": 35
-},
-{
-"n": 36,
+"n": 37,
 "topic": "Reinsurance Management",
 "t": "In \"loss occurrence\" clause, the duration and extent of any loss occurrence will be limited to what duration for hurricane?",
 "o": [
@@ -507,7 +518,7 @@
 "e": "Correct answer: 72 consecutive hours (from the IC85 question bank)."
 },
 {
-"n": 37,
+"n": 38,
 "topic": "Reinsurance Management",
 "t": "For which of the following treaties, profit commission statements will be prepared on Accounting year basis?<BR><BR>I. Fire proportional treaties<BR>II. Marine proportional treaties<BR>III. Aviation proportional treaties",
 "o": [
@@ -521,7 +532,7 @@
 "e": "Correct answer: Only I (from the IC85 question bank)."
 },
 {
-"n": 38,
+"n": 39,
 "topic": "Reinsurance Management",
 "t": "Fill in the blank.<BR><BR>The detractors of _______ work on the reverse theory of insulated and protected markets.",
 "o": [
@@ -535,7 +546,7 @@
 "e": "Correct answer: WTO (from the IC85 question bank)."
 },
 {
-"n": 39,
+"n": 40,
 "topic": "Reinsurance Management",
 "t": "Identify the true statement with regard to Group underwriting. <BR><BR>I. Where the insurers have a common management or common ownership they may resort to group underwriting. <BR>II. This means that they keep a retention representing the combined capacity of all the group companies and operate a group reinsurance programme. <BR>III. In this the net retained business is then redistributed among the group members.",
 "o": [
@@ -549,7 +560,7 @@
 "e": "Correct answer: I, II and III (from the IC85 question bank)."
 },
 {
-"n": 40,
+"n": 41,
 "topic": "Reinsurance Management",
 "t": "___________ refer to anticipated loss provisions in respect of individual claims which may take long time to get reported and even longer time to get fully settled.",
 "o": [
@@ -563,7 +574,7 @@
 "e": "Correct answer: IBNR losses (from the IC85 question bank)."
 },
 {
-"n": 41,
+"n": 42,
 "topic": "Reinsurance Management",
 "t": "In ________________, the insurer is the sole judge of what constitutes his own risk and to determine his retention accordingly subject to his limits of retention.",
 "o": [
@@ -577,7 +588,7 @@
 "e": "Correct answer: Operative clause (from the IC85 question bank)."
 },
 {
-"n": 42,
+"n": 43,
 "topic": "Reinsurance Management",
 "t": "Net retained lines clause:-",
 "o": [
@@ -591,7 +602,7 @@
 "e": "Correct answer: Allows the ceding insurer to effect other reinsurances in priority so that there is an additional treaty which protects the net account only example, where the treaty operates after proportional treaty or facultative cessions (from the IC85 question bank)."
 },
 {
-"n": 43,
+"n": 44,
 "topic": "Reinsurance Management",
 "t": "______________ is usually employed where the ceding insurer has an insufficient credit rating to attract large commercial policyholders.",
 "o": [
@@ -605,7 +616,7 @@
 "e": "Correct answer: Cut through endorsement clause (from the IC85 question bank)."
 },
 {
-"n": 44,
+"n": 45,
 "topic": "Reinsurance Management",
 "t": "What are the key market conditions under 'Negotiations'?<br><br>I. Ceding insurer<br>II. Ceding insurer's underwriting policy<br>III. Underwriting policy",
 "o": [
@@ -619,7 +630,7 @@
 "e": "Correct answer: I, II and III (from the IC85 question bank)."
 },
 {
-"n": 45,
+"n": 46,
 "topic": "Reinsurance Management",
 "t": "Lloyd's aviation underwriters have the knowledge and ability to insure which of the following risks? <BR><BR>I. Air cargo <BR>II. Satellites <BR>III. Personal insurance for passengers",
 "o": [
@@ -631,20 +642,6 @@
 ],
 "a": 4,
 "e": "Correct answer: I, II and III (from the IC85 question bank)."
-},
-{
-"topic": "Fire – standard products",
-"t": "Since 1 April 2021, the standard fire policy for a dwelling in India is:",
-"o": [
-"Standard Fire and Special Perils Policy",
-"Bharat Griha Raksha",
-"Bharat Sookshma Udyam Suraksha",
-"Householder's Package Policy"
-],
-"a": 1,
-"e": "★ Core fact (asked across III papers). Bharat Griha Raksha for homes; Bharat Sookshma Udyam Suraksha (up to ₹5 crore) and Bharat Laghu Udyam Suraksha (₹5–50 crore) for enterprises.",
-"r": "core",
-"n": 46
 },
 {
 "n": 47,

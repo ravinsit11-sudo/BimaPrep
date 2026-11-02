@@ -72,6 +72,20 @@
 {
 "n": 6,
 "topic": "Agriculture Insurance",
+"t": "Delta Insurance wants to ascertain the probability of loss for a certain peril. Determine the requirement for this estimation. Choose the most  appropriate answer",
+"o": [
+"The probability of losses can be determined if reliable data for losses is available for a sufficiently long period in the  past",
+"The current conditions can be used to determine th",
+"Intelligent guessing can be used to determine the",
+"The nature of the peril combined with crop insured",
+"The nature of the peril can be used to determine t"
+],
+"a": 0,
+"e": "Correct answer: The probability of losses can be determined if reliable data for losses is available for a sufficiently long period in the  past (from the IC71 question bank)."
+},
+{
+"n": 7,
+"topic": "Agriculture Insurance",
 "t": "Who owns a major share of the crop hail insurance market in the USA?",
 "o": [
 "Private insurers",
@@ -84,7 +98,7 @@
 "e": "Correct answer: Private insurers (from the IC71 question bank)."
 },
 {
-"n": 7,
+"n": 8,
 "topic": "Agriculture Insurance",
 "t": "What is the percentage subsidy premium paid by the Israel Government under the Insurance for Natural Disaster (IND) program?",
 "o": [
@@ -98,7 +112,7 @@
 "e": "Correct answer: 80% (from the IC71 question bank)."
 },
 {
-"n": 8,
+"n": 9,
 "topic": "Agriculture Insurance",
 "t": "State the minimum number of broilers required for insurance eligibility under \"Comprehensive cover for poultry farms\" in the general category.",
 "o": [
@@ -112,7 +126,7 @@
 "e": "Correct answer: 100 per batch (from the IC71 question bank)."
 },
 {
-"n": 9,
+"n": 10,
 "topic": "Agriculture Insurance",
 "t": "For a weather index scheme based on rainfall, illustrate the event that cannot trigger a payout",
 "o": [
@@ -124,21 +138,6 @@
 ],
 "a": 3,
 "e": "Correct answer: Frosting (from the IC71 question bank)."
-},
-{
-"n": 10,
-"topic": "Agriculture Insurance",
-"t": "Based on your knowledge of \"Pig Insurance Scheme\", please answer the following question. A certain pig insured for Rs 1000 under pig  insurance scheme dies due to an accident. Calculate the limit of liability for the insurer",
-"o": [
-"Rs 600",
-"Rs 700",
-"Rs 800",
-"Rs 900",
-"Rs 1000"
-],
-"a": 2,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Rs 800 (from the IC71 question bank).",
-"r": "key"
 },
 {
 "n": 11,
@@ -185,6 +184,20 @@
 {
 "n": 14,
 "topic": "Agriculture Insurance",
+"t": "Select the statement that is not true with regards to \"Foot & Mouth\" disease.",
+"o": [
+"Infected animals smack their lips and owing to ten",
+"The disease is characterised by blisters that form",
+"It is a highly infectious disease caused by virus",
+"Exotic and crossbred cattle suffer more severely t",
+"Exotic and crossbred cattle suffer less severely than indigenous cattle"
+],
+"a": 4,
+"e": "Correct answer: Exotic and crossbred cattle suffer less severely than indigenous cattle (from the IC71 question bank)."
+},
+{
+"n": 15,
+"topic": "Agriculture Insurance",
 "t": "Ajay has taken a horticulture (inputs) insurance scheme.  He suffers a loss of Rs 10000 due to reduction in yield. What amount of claim is  he eligible for?",
 "o": [
 "Rs 8000 (Only 80% of assessed loss is payable)",
@@ -197,7 +210,7 @@
 "e": "Correct answer: 0 Rs (Yield losses are not covered) (from the IC71 question bank)."
 },
 {
-"n": 15,
+"n": 16,
 "topic": "Agriculture Insurance",
 "t": "Mahesh wants to grow crops for supply to the pharmaceutical industry. Which of the options below is not the right choice for the same",
 "o": [
@@ -211,7 +224,7 @@
 "e": "Correct answer: Banana (from the IC71 question bank)."
 },
 {
-"n": 16,
+"n": 17,
 "topic": "Agriculture Insurance",
 "t": "Outline the premium subsidy on livestock, forestry and aquaculture insurance products in Brazil.",
 "o": [
@@ -223,21 +236,6 @@
 ],
 "a": 0,
 "e": "Correct answer: 30% (from the IC71 question bank)."
-},
-{
-"n": 17,
-"topic": "Agriculture Insurance",
-"t": "The coefficient of yield variation for a crop in an area is between 15% and 30%. Determine the risk group and the indemnity level under NAIS.",
-"o": [
-"Low risk with 90% indemnity limit",
-"Low risk with 100% indemnity limit",
-"Medium risk with 90% indemnity limit",
-"Medium risk with 80% indemnity limit",
-"High risk with 60% indemnity limit"
-],
-"a": 3,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Medium risk with 80% indemnity limit (from the IC71 question bank).",
-"r": "key"
 },
 {
 "n": 18,
@@ -340,6 +338,20 @@
 {
 "n": 25,
 "topic": "Agriculture Insurance",
+"t": "Which of the following scenarios can bring down the cost of weather based crop insurance. Choose the most appropriate answer",
+"o": [
+"Increased understanding of weather based insurance",
+"Higher penetration of weather based insurance products can bring down the cost",
+"Availability of real-time weather data can bring d",
+"Over-selling of weather based insurance products c",
+"Cost of weather based insurance products can be br"
+],
+"a": 1,
+"e": "Correct answer: Higher penetration of weather based insurance products can bring down the cost (from the IC71 question bank)."
+},
+{
+"n": 26,
+"topic": "Agriculture Insurance",
 "t": "Where are the most widely quoted projections for climate change in India derived from?",
 "o": [
 "PRECIS",
@@ -352,7 +364,21 @@
 "e": "Correct answer: Hadley Centre Regional Climate Model (HadRM2) (from the IC71 question bank)."
 },
 {
-"n": 26,
+"n": 27,
+"topic": "Agriculture Insurance",
+"t": "Mahesh wants to know what is the reason for India's dominant position with regards to milk production. Help him find the answer from the  options below",
+"o": [
+"Green Revolution",
+"Silver Revolution",
+"White Revolution",
+"Blue Revolution",
+"Yellow Revolution"
+],
+"a": 2,
+"e": "Correct answer: White Revolution (from the IC71 question bank)."
+},
+{
+"n": 28,
 "topic": "Agriculture Insurance",
 "t": "Which  cattle diseases can be communicated to human beings? Choose correcr option.",
 "o": [
@@ -366,22 +392,7 @@
 "e": "Correct answer: Anthrax (from the IC71 question bank)."
 },
 {
-"n": 27,
-"topic": "Agriculture Insurance",
-"t": "Standard cover for grape under horticulture is offered at 5% of sum insured.<br>Optional cover of losses due to rain is offered at additional premium of 1.5% of sum insured.<br>Calculate the total premium charged for both covers if sum insured is Rs 50000.",
-"o": [
-"Rs 2500",
-"Rs 3250",
-"Rs 3000",
-"Rs 1500",
-"Rs 3500"
-],
-"a": 1,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Rs 3250 (from the IC71 question bank).",
-"r": "key"
-},
-{
-"n": 28,
+"n": 29,
 "topic": "Agriculture Insurance",
 "t": "Expand the term PICC with respect to agriculture insurance in China.",
 "o": [
@@ -395,7 +406,7 @@
 "e": "Correct answer: Peoples Insurance Company of China (from the IC71 question bank)."
 },
 {
-"n": 29,
+"n": 30,
 "topic": "Agriculture Insurance",
 "t": "Under the standard cattle insurance scheme what is the acceptable age group for insuring \"Stud bulls\". Choose the correct answer",
 "o": [
@@ -409,7 +420,7 @@
 "e": "Correct answer: 3 years  - 8 years (from the IC71 question bank)."
 },
 {
-"n": 30,
+"n": 31,
 "topic": "Agriculture Insurance",
 "t": "Consider the following data with regards to NAIS: Area declared for availing loan: 2 hectares; Loan availed: Rs. 35000; Average yield:  1200; MSP: Rs. 2000; Sum insured: Rs.  50,000; Actuarial premium rate: 8.5%; Indemnity limit: 80%; Crop cultivated: Groundnut. Calculate the premium in Rupees on sum  insured exceeding the value of threshold yield and less than 150% of value of average yield.",
 "o": [
@@ -423,7 +434,7 @@
 "e": "Correct answer: 986 Rs (from the IC71 question bank)."
 },
 {
-"n": 31,
+"n": 32,
 "topic": "Agriculture Insurance",
 "t": "Assess the type of risk emanating from accidents caused while handling farm equipment",
 "o": [
@@ -437,7 +448,7 @@
 "e": "Correct answer: Personal risk (from the IC71 question bank)."
 },
 {
-"n": 32,
+"n": 33,
 "topic": "Agriculture Insurance",
 "t": "Which of the following is not a preferred sector for implementing crop insurance?",
 "o": [
@@ -451,7 +462,7 @@
 "e": "Correct answer: Sectors with high administrative costs (from the IC71 question bank)."
 },
 {
-"n": 33,
+"n": 34,
 "topic": "Agriculture Insurance",
 "t": "Who is responsible for carrying out livestock census of different species of animals in India?",
 "o": [
@@ -463,20 +474,6 @@
 ],
 "a": 1,
 "e": "Correct answer: Directorate of Economics and Statistics (DES) (from the IC71 question bank)."
-},
-{
-"topic": "Principles",
-"t": "The principle that allows an insurer who has paid a claim to step into the insured's shoes and recover from a liable third party is:",
-"o": [
-"Contribution",
-"Subrogation",
-"Indemnity",
-"Proximate cause"
-],
-"a": 1,
-"e": "★ Core fact (asked across III papers). Subrogation is a corollary of indemnity; it does not apply to life or personal accident (benefit) policies.",
-"r": "core",
-"n": 34
 },
 {
 "n": 35,
@@ -523,6 +520,20 @@
 {
 "n": 38,
 "topic": "Agriculture Insurance",
+"t": "Which of the following is a good way to start a crop insurance program?",
+"o": [
+"Start a program with an all-risk cover",
+"Incorporate high level of subsidies to ensure high",
+"Maintain a large workforce to carry out premium co",
+"Start a limited peril based insurance program which addresses the concerns of the farmers",
+"Provide cover to all types of crops spread across"
+],
+"a": 3,
+"e": "Correct answer: Start a limited peril based insurance program which addresses the concerns of the farmers (from the IC71 question bank)."
+},
+{
+"n": 39,
+"topic": "Agriculture Insurance",
 "t": "State the premium rate for exotic animals under \"Sheep and Goat Insurance Scheme",
 "o": [
 "6% per annum",
@@ -535,7 +546,7 @@
 "e": "Correct answer: 6% per annum (from the IC71 question bank)."
 },
 {
-"n": 39,
+"n": 40,
 "topic": "Agriculture Insurance",
 "t": "All these are public support measures for agriculture insurance in the USA EXCEPT:-",
 "o": [
@@ -549,7 +560,7 @@
 "e": "Correct answer: Profit guarantee of 20% for insurance companies (from the IC71 question bank)."
 },
 {
-"n": 40,
+"n": 41,
 "topic": "Agriculture Insurance",
 "t": "Which of the following losses can be covered under a weather based insurance scheme?",
 "o": [
@@ -563,7 +574,7 @@
 "e": "Correct answer: Losses due to deficit rainfall (from the IC71 question bank)."
 },
 {
-"n": 41,
+"n": 42,
 "topic": "Agriculture Insurance",
 "t": "What is the amount given away by the way of insurance to the reinsurer is referred to as?",
 "o": [
@@ -577,7 +588,7 @@
 "e": "Correct answer: Cession (from the IC71 question bank)."
 },
 {
-"n": 42,
+"n": 43,
 "topic": "Agriculture Insurance",
 "t": "State the annual premium rate for broilers under \"Comprehensive cover for poultry farms\" for the period 1 day to 6 weeks.",
 "o": [
@@ -589,20 +600,6 @@
 ],
 "a": 1,
 "e": "Correct answer: 4.8% p.a (from the IC71 question bank)."
-},
-{
-"topic": "Principles",
-"t": "In a life insurance contract, insurable interest must exist:",
-"o": [
-"At the time of the claim only",
-"At inception of the policy",
-"Both at inception and at claim",
-"At renewal each year"
-],
-"a": 1,
-"e": "★ Core fact (asked across III papers). Life: at inception only. Marine: at the time of loss. Fire and motor: at both inception and loss.",
-"r": "core",
-"n": 43
 },
 {
 "n": 44,

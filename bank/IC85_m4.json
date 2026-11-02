@@ -86,6 +86,20 @@
 {
 "n": 7,
 "topic": "Reinsurance Management",
+"t": "Identify the true statement.<BR><BR>I. The Per Event retention is managed through reasonable estimation of financial consequences.<BR>II. The Per risk retention can be managed through controlled and informed decisions.<BR>III. The Per Risk retention relates to the number of individual risks that could be hit by one event.",
+"o": [
+"Only I",
+"Only III",
+"I and II",
+"II and III",
+"I, II and III"
+],
+"a": 4,
+"e": "Correct answer: I, II and III (from the IC85 question bank)."
+},
+{
+"n": 8,
+"topic": "Reinsurance Management",
 "t": "Aviation insurance business reinsurance cover is placed:-<br><br>I. Facultative with low retention<br>II. Surplus treaty with high retention<br>III. Excess of loss cover with low retention",
 "o": [
 "Only I",
@@ -96,21 +110,6 @@
 ],
 "a": 0,
 "e": "Correct answer: Only I (from the IC85 question bank)."
-},
-{
-"n": 8,
-"topic": "Reinsurance Management",
-"t": "ABC Insurance Co. has fixed its retention limit at Rs. 20,00,000 for fire insurance. The company has received a fire insurance proposal for Rs. 15,00,000. What will be the 'surplus reinsurance' requirement?",
-"o": [
-"Rs. 5,00,000",
-"Nil",
-"Rs. 15,00,000",
-"Rs. 11,25,000",
-"Rs. 3,75,000"
-],
-"a": 1,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Nil (from the IC85 question bank).",
-"r": "key"
 },
 {
 "n": 9,
@@ -129,6 +128,20 @@
 {
 "n": 10,
 "topic": "Reinsurance Management",
+"t": "Risk Excess of Loss reinsurance can be effective for:-<br><br>I. Reinsurance of legal  liabilities to third parties<br>II. Protecting property risks loss exposures<br>III. Accumulation or aggregation of losses arising from an identified event such as Earthquake",
+"o": [
+"Only I",
+"Only II",
+"I and II",
+"II and III",
+"I,II and III"
+],
+"a": 1,
+"e": "Correct answer: Only II (from the IC85 question bank)."
+},
+{
+"n": 11,
+"topic": "Reinsurance Management",
 "t": "MIGA promotes Foreign Direct Investment (FDI) into developing countries to help:-<br><br>I. Support economic growth<br>II. Reduce poverty<br>III. Improve people's lives",
 "o": [
 "Only I",
@@ -141,7 +154,7 @@
 "e": "Correct answer: I, II and III (from the IC85 question bank)."
 },
 {
-"n": 11,
+"n": 12,
 "topic": "Reinsurance Management",
 "t": "Which of the following zones are highly exposed to Tornadoes? <br><br>I. Indian Sub continent <br>II.  USA <br>III.  Europe",
 "o": [
@@ -155,7 +168,7 @@
 "e": "Correct answer: II and III (from the IC85 question bank)."
 },
 {
-"n": 12,
+"n": 13,
 "topic": "Reinsurance Management",
 "t": "______________ is an item paid by the reinsurer to the ceding insurer and is expressed as a percentage of the premium.",
 "o": [
@@ -169,7 +182,7 @@
 "e": "Correct answer: Reinsurance commission (from the IC85 question bank)."
 },
 {
-"n": 13,
+"n": 14,
 "topic": "Reinsurance Management",
 "t": "Investment in the stock market increases the:-<BR><BR>I. Cost of administration<BR>II. Exposure to capital loss<BR>III. Liquidity",
 "o": [
@@ -183,7 +196,21 @@
 "e": "Correct answer: I and II (from the IC85 question bank)."
 },
 {
-"n": 14,
+"n": 15,
+"topic": "Reinsurance Management",
+"t": "Per Event retention is:-<br><br>I. Managed through reasonable estimation of financial consequences<br>II. By allowing a catastrophe reserve for funds to accumulate and be available over the long term<br>III. Relates to the number of individual risks that could be hit by one event",
+"o": [
+"Only I",
+"Only III",
+"I and II",
+"II and III",
+"I, II and III"
+],
+"a": 2,
+"e": "Correct answer: I and II (from the IC85 question bank)."
+},
+{
+"n": 16,
 "topic": "Reinsurance Management",
 "t": "In which of the following reinsurance methods does the percentage of retained sum insured vary for different limits of sum insured and reduce with increase in the limit of sum insured?<br><br>I. Variable quota share reinsurance<br>II. Surplus reinsurance<br>III. Proportional reinsurance",
 "o": [
@@ -197,7 +224,7 @@
 "e": "Correct answer: Only I (from the IC85 question bank)."
 },
 {
-"n": 15,
+"n": 17,
 "topic": "Reinsurance Management",
 "t": "The excess of loss contract is concerned with:-<br><br>I. Proportionate shares of the original sum insured<br>II. Premium and claims on any one risk<br>III. Amount of loss being reinsured",
 "o": [
@@ -211,22 +238,7 @@
 "e": "Correct answer: Only III (from the IC85 question bank)."
 },
 {
-"n": 16,
-"topic": "Reinsurance Management",
-"t": "The Stamp Act 1899 provides that every instrument chargeable with duty executed out of India may be stamped within _______________ after it is received in India.",
-"o": [
-"15 days",
-"1 month",
-"2 months",
-"3 months",
-"5 months"
-],
-"a": 3,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: 3 months (from the IC85 question bank).",
-"r": "key"
-},
-{
-"n": 17,
+"n": 18,
 "topic": "Reinsurance Management",
 "t": "As per regulations, GIC Re receives _______ obligatory (statutory) cession from all general insurers on all classes of business underwritten by them.",
 "o": [
@@ -240,7 +252,7 @@
 "e": "Correct answer: 5% (from the IC85 question bank)."
 },
 {
-"n": 18,
+"n": 19,
 "topic": "Reinsurance Management",
 "t": "In marine hull reinsurance, which of the following are included under Local crafts?<br><br>I. Barges<br>II. Trawlers<br>III. Tankers",
 "o": [
@@ -254,7 +266,7 @@
 "e": "Correct answer: I and II (from the IC85 question bank)."
 },
 {
-"n": 19,
+"n": 20,
 "topic": "Reinsurance Management",
 "t": "All of the following statement with regard to treaty wordings are TRUE EXCEPT:-",
 "o": [
@@ -268,7 +280,7 @@
 "e": "Correct answer: Treaty wordings for insurance business now have been standardised (from the IC85 question bank)."
 },
 {
-"n": 20,
+"n": 21,
 "topic": "Reinsurance Management",
 "t": "Lloyd's marine underwriters are recognised specialists in insuring the:- <BR><BR>I. Liability risks of ocean going ships <BR>II. Guarantees <BR>III. Surety",
 "o": [
@@ -282,7 +294,7 @@
 "e": "Correct answer: Only I (from the IC85 question bank)."
 },
 {
-"n": 21,
+"n": 22,
 "topic": "Reinsurance Management",
 "t": "The priority of __________, is preservation and return on capital.",
 "o": [
@@ -296,7 +308,7 @@
 "e": "Correct answer: Shareholder (from the IC85 question bank)."
 },
 {
-"n": 22,
+"n": 23,
 "topic": "Reinsurance Management",
 "t": "In Burglary reinsurance business, which is the most appropriate method of reinsurance?<br><br>I. Facultative reinsurance<br>II. Excess of loss cover<br>III. Surplus treaty",
 "o": [
@@ -310,7 +322,7 @@
 "e": "Correct answer: II and III (from the IC85 question bank)."
 },
 {
-"n": 23,
+"n": 24,
 "topic": "Reinsurance Management",
 "t": "As per ________ clause, in the event of any portion of the limit of cover being reduced by settlement of a loss the amount of limit of cover so reduced will be automatically reinstated from the time of commencement of the loss occurrence until the expiry of the agreement.",
 "o": [
@@ -324,7 +336,21 @@
 "e": "Correct answer: Reinstatement clause (from the IC85 question bank)."
 },
 {
-"n": 24,
+"n": 25,
+"topic": "Reinsurance Management",
+"t": "Accounting clause:-<br><br>I. provides for rendering of accounts and settlement of balances of accounts between the parties to reinsurance agreement<br>II. permits each party to net amounts due against those payable before making payment<br>III. is often challenged by creditors and others interested in maximizing the assets of the insolvent party",
+"o": [
+"Only I",
+"Only II",
+"I and II",
+"II and III",
+"I, II and III"
+],
+"a": 0,
+"e": "Correct answer: Only I (from the IC85 question bank)."
+},
+{
+"n": 26,
 "topic": "Reinsurance Management",
 "t": "Which form of reinsurance protects a reinsured against an accumulation or aggregation of losses arising from an identified event such as Earthquake, Flood, Cyclone, Riots, etc., which may affect a large number of risks?",
 "o": [
@@ -338,7 +364,7 @@
 "e": "Correct answer: Catastrophe Excess of loss (from the IC85 question bank)."
 },
 {
-"n": 25,
+"n": 27,
 "topic": "Reinsurance Management",
 "t": "Which of the following statement best describes Umbrella excess of loss cover?",
 "o": [
@@ -352,7 +378,7 @@
 "e": "Correct answer: This is installed to assist to cover any gap in the various reinsurance arrangements made by a reinsured (from the IC85 question bank)."
 },
 {
-"n": 26,
+"n": 28,
 "topic": "Reinsurance Management",
 "t": "Credit rating assesses a country's overall strength for reliability, return and repayment of principal and interest from an investor's viewpoint. Such ratings are known as _______________.",
 "o": [
@@ -366,7 +392,7 @@
 "e": "Correct answer: Sovereign rating (from the IC85 question bank)."
 },
 {
-"n": 27,
+"n": 29,
 "topic": "Reinsurance Management",
 "t": "Which of the following statement is correct with regard to Access to records clause?",
 "o": [
@@ -380,22 +406,7 @@
 "e": "Correct answer: Give the reinsurer the right to inspect any book or record of the ceding insurer which are relevant to the business reinsured (from the IC85 question bank)."
 },
 {
-"n": 28,
-"topic": "Reinsurance Management",
-"t": "ABC Insurance Co. has fixed its retention limit at Rs. 20,00,000 for fire insurance. The company has received a fire insurance proposal for Rs. 50,00,000. What will be the 'surplus reinsurance' requirement?",
-"o": [
-"Rs. 20,00,000",
-"Rs. 70,00,000",
-"Rs. 50,00,000",
-"Rs. 30,00,000",
-"Rs. 10,00,000"
-],
-"a": 3,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Rs. 30,00,000 (from the IC85 question bank).",
-"r": "key"
-},
-{
-"n": 29,
+"n": 30,
 "topic": "Reinsurance Management",
 "t": "Insolvency of other reinsurers clause:-<BR><BR>I. is usually included in a reinsurance agreement whereby it is stated that the loss to the reinsurer will not be increased due to the inability of the ceding insurer to collect from another reinsurer<BR>II. can restrict inspection to be done only by an appointed representative if at any time a dispute between the parties is subject to arbitration<BR>III. expects immediate rectification and nothing in the clause would operate to increase the liability of the reinsurers beyond agreed limits",
 "o": [
@@ -409,7 +420,7 @@
 "e": "Correct answer: Only I (from the IC85 question bank)."
 },
 {
-"n": 30,
+"n": 31,
 "topic": "Reinsurance Management",
 "t": "Which of the following statement is correct with regard to 'Profit Commission'?",
 "o": [
@@ -423,7 +434,7 @@
 "e": "Correct answer: It is an additional percentage payable to a ceding insurer on profitable treaties in accordance with an agreed formula (from the IC85 question bank)."
 },
 {
-"n": 31,
+"n": 32,
 "topic": "Reinsurance Management",
 "t": "Which of the following statement best describes Risk Retention group?",
 "o": [
@@ -437,7 +448,7 @@
 "e": "Correct answer: It is a corporation owned and operated by insurance companies, that band together as self-insurers and forms an organization that is chartered and licensed as an insurer in at least one state of US to handle liability insurance (from the IC85 question bank)."
 },
 {
-"n": 32,
+"n": 33,
 "topic": "Reinsurance Management",
 "t": "In 1961, the Government of India made it compulsory by statute on the part of every insurer to cede ________ in Marine Hull and Miscellaneous Insurance.",
 "o": [
@@ -451,7 +462,7 @@
 "e": "Correct answer: 10% (from the IC85 question bank)."
 },
 {
-"n": 33,
+"n": 34,
 "topic": "Reinsurance Management",
 "t": "In \"loss occurrence\" clause, the duration and extent of any loss occurrence will be limited to what duration for civil commotions and malicious damage?",
 "o": [
@@ -465,7 +476,21 @@
 "e": "Correct answer: 168 consecutive hours (from the IC85 question bank)."
 },
 {
-"n": 34,
+"n": 35,
+"topic": "Reinsurance Management",
+"t": "Original conditions clause states that:- <br><br>I.  Reinsurances are fully subject to the same terms and conditions as the original insurance <br>II.  Premium is to be paid to the reinsurer at the same rate as received by the ceding insurer <br>III.  The insurer and the reinsurer share the same interest",
+"o": [
+"Only I",
+"Only III",
+"I and II",
+"II and III",
+"I, II and III"
+],
+"a": 4,
+"e": "Correct answer: I, II and III (from the IC85 question bank)."
+},
+{
+"n": 36,
 "topic": "Reinsurance Management",
 "t": "Which of the following statement best describes two risk warranty?",
 "o": [
@@ -479,7 +504,7 @@
 "e": "Correct answer: Two or more risks have to be involved in a single loss before the excess of loss is affected (from the IC85 question bank)."
 },
 {
-"n": 35,
+"n": 37,
 "topic": "Reinsurance Management",
 "t": "Underwriting agencies often transact business on:- <BR><BR>I. Direct basis with ceding companies <BR>II. Through brokers <BR>III. Captive companies",
 "o": [
@@ -493,7 +518,7 @@
 "e": "Correct answer: Only II (from the IC85 question bank)."
 },
 {
-"n": 36,
+"n": 38,
 "topic": "Reinsurance Management",
 "t": "In which of the following reinsurance business, each offer will have to be scrutinised individually and either accepted or declined? <BR><BR>I. Facultative <BR>II. Treaty <BR>III. Proportional",
 "o": [
@@ -507,21 +532,7 @@
 "e": "Correct answer: Only I (from the IC85 question bank)."
 },
 {
-"topic": "Taxation",
-"t": "Deduction for life insurance premium under Section 80C of the Income Tax Act is available up to an overall limit of:",
-"o": [
-"₹1 lakh",
-"₹1.5 lakh",
-"₹2 lakh",
-"₹2.5 lakh"
-],
-"a": 1,
-"e": "★ Core fact (asked across III papers). ₹1,50,000 aggregate for all 80C items; premium qualifies only up to 10% of the sum assured for policies issued after 1 April 2012.",
-"r": "core",
-"n": 37
-},
-{
-"n": 38,
+"n": 39,
 "topic": "Reinsurance Management",
 "t": "What are the  reinsurer's intention behind the calculation of a suitable rate for determining premium for XL cover?<br><br>I. To cover the normal claims expected to occur<br>II. To cover reserve for worsening experience<br>III. To cover the reinsurer's management expenses",
 "o": [
@@ -535,7 +546,7 @@
 "e": "Correct answer: I,II and III (from the IC85 question bank)."
 },
 {
-"n": 39,
+"n": 40,
 "topic": "Reinsurance Management",
 "t": "Which of the following zones are highly exposed to Tropical Cyclones? <br><br>I. Mauritius <br>II.  Australia <br>III.  Far East",
 "o": [
@@ -549,7 +560,7 @@
 "e": "Correct answer: I, II and III (from the IC85 question bank)."
 },
 {
-"n": 40,
+"n": 41,
 "topic": "Reinsurance Management",
 "t": "In Group underwriting:-<br><br>I. Insurers, keep a retention representing the combined capacity of the group<br>II. Operate a group reinsurance programme<br>III. Is suitable where considerable facultative reinsurance is required",
 "o": [
@@ -563,7 +574,7 @@
 "e": "Correct answer: I and II (from the IC85 question bank)."
 },
 {
-"n": 41,
+"n": 42,
 "topic": "Reinsurance Management",
 "t": "In __________________, the commission payable is determined by applying the agreed percentage of commission to the premiums ceded less returns and cancellation.",
 "o": [
@@ -577,7 +588,7 @@
 "e": "Correct answer: Flat rate of commission (from the IC85 question bank)."
 },
 {
-"n": 42,
+"n": 43,
 "topic": "Reinsurance Management",
 "t": "In Europe, the earliest reference to reinsurance in fire insurance business is found in a royal concession granted to the Royal Chartered Insurance Insurer of Copenhagen in ________.",
 "o": [
@@ -591,7 +602,7 @@
 "e": "Correct answer: 1778 (from the IC85 question bank)."
 },
 {
-"n": 43,
+"n": 44,
 "topic": "Reinsurance Management",
 "t": "The objective of _________________ is to enable a customer minimise the total cost of capital needed to deal with a risk by reinsuring.",
 "o": [
@@ -605,7 +616,7 @@
 "e": "Correct answer: Risk transfer (from the IC85 question bank)."
 },
 {
-"n": 44,
+"n": 45,
 "topic": "Reinsurance Management",
 "t": "What is the principal object of the World bank?",
 "o": [
@@ -619,7 +630,7 @@
 "e": "Correct answer: To assist the respective governments in setting up and operating catastrophe insurance programmes (from the IC85 question bank)."
 },
 {
-"n": 45,
+"n": 46,
 "topic": "Reinsurance Management",
 "t": "Retention:-<br><br>I. Is proportion of risk that is retained by cedant<br>II. Is a combination of the financial consequences of risk and event based losses<br>III. Incorporates requirements of rating, liquidity and return",
 "o": [
@@ -631,20 +642,6 @@
 ],
 "a": 4,
 "e": "Correct answer: I, II and III (from the IC85 question bank)."
-},
-{
-"topic": "Taxation",
-"t": "Deduction for health insurance premium under Section 80D for an individual below 60 years (self and family) is up to:",
-"o": [
-"₹15,000",
-"₹25,000",
-"₹50,000",
-"₹75,000"
-],
-"a": 1,
-"e": "★ Core fact (asked across III papers). ₹25,000; ₹50,000 where the insured is a senior citizen; an additional ₹25,000/₹50,000 for parents.",
-"r": "core",
-"n": 46
 },
 {
 "n": 47,

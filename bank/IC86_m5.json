@@ -16,6 +16,34 @@
 {
 "n": 2,
 "topic": "Risk Management",
+"t": "I. These risks are those associated with changes in society <br>III. They result in only loss<BR><br> Based on the above statements identify which type of risk is this?",
+"o": [
+"Pure Risk",
+"Dynamic Risk",
+"Liability Risk",
+"Physical Risk",
+"Static Risk"
+],
+"a": 4,
+"e": "Correct answer: Static Risk (from the IC86 question bank)."
+},
+{
+"n": 3,
+"topic": "Risk Management",
+"t": "Which among the following means to forecast and plan, to organise, to command, to coordinate and to control? <br><br>I.  Manage <br>II. Organise <br>III. Foresee",
+"o": [
+"Only I",
+"Only II",
+"Only III",
+"I and II",
+"II and III"
+],
+"a": 0,
+"e": "Correct answer: Only I (from the IC86 question bank)."
+},
+{
+"n": 4,
+"topic": "Risk Management",
 "t": "Risks that insurance firms will not assume are called ____________.",
 "o": [
 "Uninsurable risks",
@@ -28,7 +56,7 @@
 "e": "Correct answer: Uninsurable risks (from the IC86 question bank)."
 },
 {
-"n": 3,
+"n": 5,
 "topic": "Risk Management",
 "t": "_____________ are more formally known as catastrophe bonds, are risk-linked securities designed to  transfer a specified set of risks from the issuer to the investors.",
 "o": [
@@ -42,7 +70,7 @@
 "e": "Correct answer: CAT Bonds (from the IC86 question bank)."
 },
 {
-"n": 4,
+"n": 6,
 "topic": "Risk Management",
 "t": "Which of the following are the functions of a Business Continuity Plan (BCP)?<BR> <BR>I. Manage the risk <BR>II. Avoid the risk <BR>III. Minimise the risk",
 "o": [
@@ -56,7 +84,7 @@
 "e": "Correct answer: I, II and III (from the IC86 question bank)."
 },
 {
-"n": 5,
+"n": 7,
 "topic": "Risk Management",
 "t": "Arrange the following items in order of their degree of ambition (Starting with least ambition). <BR><BR>I. Profitability <BR>II. Humanitarian behaviour <BR>III. Growth",
 "o": [
@@ -70,7 +98,7 @@
 "e": "Correct answer: I, III and II (from the IC86 question bank)."
 },
 {
-"n": 6,
+"n": 8,
 "topic": "Risk Management",
 "t": "ERM treats market, credit, and operational risks as an element in an overall risk portfolio, integrating them in how many ways?",
 "o": [
@@ -84,22 +112,7 @@
 "e": "Correct answer: Three (from the IC86 question bank)."
 },
 {
-"n": 7,
-"topic": "Risk Management",
-"t": "In the year 1985 which major event took place?",
-"o": [
-"Formation of independent national commission by COSO",
-"Formation of Basel Committee on Banking Supervisio",
-"London stock exchange introduced new legislations",
-"Formation of Basel II accord",
-"COSO initiated a study  to develop practices for m"
-],
-"a": 0,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Formation of independent national commission by COSO (from the IC86 question bank).",
-"r": "key"
-},
-{
-"n": 8,
+"n": 9,
 "topic": "Risk Management",
 "t": "Which among the following is the last step in risk management decision making process?",
 "o": [
@@ -113,7 +126,7 @@
 "e": "Correct answer: Monitoring and improving the programme (from the IC86 question bank)."
 },
 {
-"n": 9,
+"n": 10,
 "topic": "Risk Management",
 "t": "Management of Alfa Ltd has decided to respond to a particular risk by hedging the risk with futures contract. This is an example of:-",
 "o": [
@@ -127,7 +140,7 @@
 "e": "Correct answer: Reduction of risk (from the IC86 question bank)."
 },
 {
-"n": 10,
+"n": 11,
 "topic": "Risk Management",
 "t": "Define liability risk.",
 "o": [
@@ -141,7 +154,7 @@
 "e": "Correct answer: The probability of potential liability for any individual or institution is known as liability risk. (from the IC86 question bank)."
 },
 {
-"n": 11,
+"n": 12,
 "topic": "Risk Management",
 "t": "Which of the following are means by which loss may be prevented or minimised prior to a loss  happening?<BR><BR> I. Eliminating the possibility of its occurrence <BR>II. Reducing the probability of its occurrence  <BR>III. Maximising salvage",
 "o": [
@@ -155,7 +168,7 @@
 "e": "Correct answer: I and II (from the IC86 question bank)."
 },
 {
-"n": 12,
+"n": 13,
 "topic": "Risk Management",
 "t": "Arrange the following industrial disaster in order of their sequence. (Starting from  first)<BR><BR> I. Bhopal Gas Disaster (India) <BR>II. Triangle Factory Fire New York (USA)  <BR>III. Mina Mata Mercury  Disaster (Japan)",
 "o": [
@@ -169,7 +182,7 @@
 "e": "Correct answer: II, III and I (from the IC86 question bank)."
 },
 {
-"n": 13,
+"n": 14,
 "topic": "Risk Management",
 "t": "Which of the following are components for achieving the four categories of objectives that form  the framework of ERM?<BR><BR> I. Risk assessment <BR>II. Risk response <BR>III. Control activities",
 "o": [
@@ -183,7 +196,7 @@
 "e": "Correct answer: I, II and III (from the IC86 question bank)."
 },
 {
-"n": 14,
+"n": 15,
 "topic": "Risk Management",
 "t": "The storms may cause damage to the fields. This is an example of which kind of risk? <br><bR>I. Personal Risk <br>II. Property Risk <br>III. Liability Risk",
 "o": [
@@ -197,7 +210,7 @@
 "e": "Correct answer: Only II (from the IC86 question bank)."
 },
 {
-"n": 15,
+"n": 16,
 "topic": "Risk Management",
 "t": "Under which of the following methods of risk identification the risk assessment is done by preparation and filling of checklists/ questionnaires by staff at the site?",
 "o": [
@@ -209,21 +222,6 @@
 ],
 "a": 2,
 "e": "Correct answer: Checklists / questionnaires (from the IC86 question bank)."
-},
-{
-"n": 16,
-"topic": "Risk Management",
-"t": "In the year 1932 to 1968, which major industrial disaster took place?",
-"o": [
-"Triangle Factory Fire New York (USA)",
-"Mina Mata Mercury Disaster (Japan)",
-"Seveso Dioxin Disaster (Italy)",
-"Bhopal Gas Disaster (India)",
-"Port Chicago disaster (USA)"
-],
-"a": 1,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Mina Mata Mercury Disaster (Japan) (from the IC86 question bank).",
-"r": "key"
 },
 {
 "n": 17,
@@ -284,6 +282,20 @@
 {
 "n": 21,
 "topic": "Risk Management",
+"t": "Which of the following statement are correct about strategic management? <br><br>I.  It encompasses both pure and speculative risks  <br>II. It aims at growth of an organization to fulfill its full productive potential <br>III. It focuses on an organization as a whole and not only on loss exposures",
+"o": [
+"I and II",
+"I and III",
+"II and III",
+"Only III",
+"I, II and III"
+],
+"a": 4,
+"e": "Correct answer: I, II and III (from the IC86 question bank)."
+},
+{
+"n": 22,
+"topic": "Risk Management",
 "t": "Which is a licensed insurance company established by a non- insurance parent company to insure the  risks of the parent company?",
 "o": [
 "CAT Bonds",
@@ -296,7 +308,7 @@
 "e": "Correct answer: Captive Insurer (from the IC86 question bank)."
 },
 {
-"n": 22,
+"n": 23,
 "topic": "Risk Management",
 "t": "Which of the following activities are included in the risk management process? <br><br>I.  Risk evaluation <br>II. Risk identification <br>III. Transfer of risks",
 "o": [
@@ -310,7 +322,7 @@
 "e": "Correct answer: I, II and III (from the IC86 question bank)."
 },
 {
-"n": 23,
+"n": 24,
 "topic": "Risk Management",
 "t": "Which of the following tasks come in the scope of a risk audit? <br><br>I.  Work on company sites, suppliers and customers <br>II. Recording of discussions and findings <br>III. Review",
 "o": [
@@ -324,7 +336,7 @@
 "e": "Correct answer: I, II and III (from the IC86 question bank)."
 },
 {
-"n": 24,
+"n": 25,
 "topic": "Risk Management",
 "t": "A written document that outlines the risk management objectives of a company policy with respect to the treatment of loss exposures, is called a _____________.",
 "o": [
@@ -338,7 +350,7 @@
 "e": "Correct answer: Risk management policy statement (from the IC86 question bank)."
 },
 {
-"n": 25,
+"n": 26,
 "topic": "Risk Management",
 "t": "Which of the following statements are true about pure risks?<BR><BR> I. Pure risks have the  prospect of either loss or gain <BR>II. Risks due to natural disasters is an example of pure risk  <BR>III. Entrepreneurial  risk is an example of pure risk",
 "o": [
@@ -352,7 +364,7 @@
 "e": "Correct answer: Only II (from the IC86 question bank)."
 },
 {
-"n": 26,
+"n": 27,
 "topic": "Risk Management",
 "t": "Which of the following is not an advantage of a written risk management policy statement?",
 "o": [
@@ -364,21 +376,6 @@
 ],
 "a": 3,
 "e": "Correct answer: Helps in improving the brand image of the organisation (from the IC86 question bank)."
-},
-{
-"n": 27,
-"topic": "Risk Management",
-"t": "Identify the industrial disaster in which, 3,000 animals died, 70,000 slaughtered to prevent  dioxins entering food chain.",
-"o": [
-"Triangle Factory Fire New York (USA)",
-"Mina Mata Mercury Disaster (Japan)",
-"Seveso Dioxin Disaster (Italy)",
-"Bhopal Gas Disaster (India)",
-"Port Chicago disaster (USA)"
-],
-"a": 2,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Seveso Dioxin Disaster (Italy) (from the IC86 question bank).",
-"r": "key"
 },
 {
 "n": 28,
@@ -452,6 +449,20 @@
 {
 "n": 33,
 "topic": "Risk Management",
+"t": "When catastrophe strikes, the firm is prepared to take decisive timely action and clear  communications to all stakeholders and media about those actions and does initiate and complete those actions and  communications effectively. Identify which procedure is this?",
+"o": [
+"Trend analysis",
+"Stress testing",
+"Contingency planning",
+"Active catastrophic risk management",
+"Problem post mortem"
+],
+"a": 3,
+"e": "Correct answer: Active catastrophic risk management (from the IC86 question bank)."
+},
+{
+"n": 34,
+"topic": "Risk Management",
 "t": "Finite risk reinsurance also addresses a broad range of goals. Which of the following are some of those? <br><br>I. Optimising investment strategies, <br>II. Supporting corporate planning and risk management, <br>III.  Protecting key ratios and ratings",
 "o": [
 "Only I",
@@ -462,20 +473,6 @@
 ],
 "a": 4,
 "e": "Correct answer: I, II and III (from the IC86 question bank)."
-},
-{
-"topic": "Motor – statutory",
-"t": "Third-party insurance is compulsory for a motor vehicle used in a public place under which section of the Motor Vehicles Act 1988?",
-"o": [
-"Section 140",
-"Section 146",
-"Section 163A",
-"Section 166"
-],
-"a": 1,
-"e": "★ Core fact (asked across III papers). Section 146 makes TP cover compulsory; Section 164 fixes no-fault compensation (₹5 lakh death / ₹2.5 lakh grievous hurt).",
-"r": "core",
-"n": 34
 },
 {
 "n": 35,
@@ -522,6 +519,20 @@
 {
 "n": 38,
 "topic": "Risk Management",
+"t": "Finite risk reinsurance also addresses a broad range of goals. Which of the following are some of those? <br><br>I. Optimising retentions and reinsurance structures, <br>II. Mitigating the impact of low-frequency/high-severity events, <br>III.  Achieving balance sheet relief and liquidity support",
+"o": [
+"Only I",
+"Only II",
+"Only III",
+"I and II",
+"I, II and III"
+],
+"a": 4,
+"e": "Correct answer: I, II and III (from the IC86 question bank)."
+},
+{
+"n": 39,
+"topic": "Risk Management",
 "t": "Which of the following create risk? <br><br>I.  Charitable activities <br>II. Relationship to property <br>III. Environmental scenario",
 "o": [
 "I and II",
@@ -534,7 +545,7 @@
 "e": "Correct answer: I, II and III (from the IC86 question bank)."
 },
 {
-"n": 39,
+"n": 40,
 "topic": "Risk Management",
 "t": "Which among the following are examples of human perils?<BR> <BR>I. Electrical overload <BR>II. Sabotage <BR>III. Soil erosion",
 "o": [
@@ -548,7 +559,7 @@
 "e": "Correct answer: I and II (from the IC86 question bank)."
 },
 {
-"n": 40,
+"n": 41,
 "topic": "Risk Management",
 "t": "_____________ is, therefore, defined as the variation in the outcome that occurs over a specified period in a given situation.",
 "o": [
@@ -562,7 +573,7 @@
 "e": "Correct answer: Risk (from the IC86 question bank)."
 },
 {
-"n": 41,
+"n": 42,
 "topic": "Risk Management",
 "t": "What is the function of a risk policy statement? <br><br>I.  To emphasise the function of risk management <br>II. To audit risk management capabilities <br>III. To plan and mitigate probable risks and uncertainties",
 "o": [
@@ -576,7 +587,7 @@
 "e": "Correct answer: Only I (from the IC86 question bank)."
 },
 {
-"n": 42,
+"n": 43,
 "topic": "Risk Management",
 "t": "Which of the following are the aftermaths of a disaster?<BR> <BR>I. Substantial loss of life <BR>II. Damage to property <BR>III. Long interruption period",
 "o": [
@@ -590,7 +601,7 @@
 "e": "Correct answer: I, II and III (from the IC86 question bank)."
 },
 {
-"n": 43,
+"n": 44,
 "topic": "Risk Management",
 "t": "Under which of the following methods of risk identification the initial risk information is gathered by studying annual Reports / balance sheets, different agreements / contracts / leases, applicable laws and regulations?",
 "o": [
@@ -604,7 +615,7 @@
 "e": "Correct answer: Study and enquiry (from the IC86 question bank)."
 },
 {
-"n": 44,
+"n": 45,
 "topic": "Risk Management",
 "t": "ERM can also be described as ___________.<BR> <BR>I. A risk based approach <BR>II. An uncertainty based approach <BR>III. A certainty based approach",
 "o": [
@@ -618,7 +629,7 @@
 "e": "Correct answer: Only I (from the IC86 question bank)."
 },
 {
-"n": 45,
+"n": 46,
 "topic": "Risk Management",
 "t": "In which of the following risk it is impossible to achieve the targets of the organisation?<BR> <BR>I. Catastrophe risk <BR>II. Major risk <BR>III. Moderate risk",
 "o": [
@@ -630,20 +641,6 @@
 ],
 "a": 0,
 "e": "Correct answer: Only I (from the IC86 question bank)."
-},
-{
-"topic": "Fire – standard products",
-"t": "Since 1 April 2021, the standard fire policy for a dwelling in India is:",
-"o": [
-"Standard Fire and Special Perils Policy",
-"Bharat Griha Raksha",
-"Bharat Sookshma Udyam Suraksha",
-"Householder's Package Policy"
-],
-"a": 1,
-"e": "★ Core fact (asked across III papers). Bharat Griha Raksha for homes; Bharat Sookshma Udyam Suraksha (up to ₹5 crore) and Bharat Laghu Udyam Suraksha (₹5–50 crore) for enterprises.",
-"r": "core",
-"n": 46
 },
 {
 "n": 47,

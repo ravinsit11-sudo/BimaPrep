@@ -2,6 +2,20 @@
 {
 "n": 1,
 "topic": "Miscellaneous Insurance",
+"t": "Corporate frequent travellerâ€™s endorsement is ______________a cover granted to <br><bR>I. Individuals travelling on holiday <bR>II. Officials of corporate registered under the Companies Act who are travelling regularly abroad <bR>III. Partners of registered firms",
+"o": [
+"Only I / ???? I",
+"Only II / ???? II",
+"I and II / I ?? II",
+"II and III / II ?? III",
+"I,II and III / I,II ?? III"
+],
+"a": 3,
+"e": "Correct answer: II and III / II ?? III (from the IC78 question bank)."
+},
+{
+"n": 2,
+"topic": "Miscellaneous Insurance",
 "t": "For what duration, bankers indemnity policy is issued?",
 "o": [
 "6 months",
@@ -14,7 +28,7 @@
 "e": "Correct answer: 12 months (from the IC78 question bank)."
 },
 {
-"n": 2,
+"n": 3,
 "topic": "Miscellaneous Insurance",
 "t": "Valued policies are issued mainly in respect of:-<br><br>I. Paintings<br>II. Curios<br>III. Antiques",
 "o": [
@@ -28,7 +42,21 @@
 "e": "Correct answer: I,II and III (from the IC78 question bank)."
 },
 {
-"n": 3,
+"n": 4,
+"topic": "Miscellaneous Insurance",
+"t": "X has taken a pedal cycle insurance cover. The cover offers protection only against loss to the pedal cycle due to burglary or housebreaking  and Insured's legal liability for damage to the property of the public. Which type of cover has been taken by X?<br><br> I. Third party liability cover  <br>II. Comprehensive  cover <br>III. Dual liability cover",
+"o": [
+"Only I",
+"Only II",
+"I and II",
+"II and III",
+"I,II and III"
+],
+"a": 1,
+"e": "Correct answer: Only II (from the IC78 question bank)."
+},
+{
+"n": 5,
 "topic": "Miscellaneous Insurance",
 "t": "_____________ is a policy designed to cover the education expenses of the insured student, if the providing parent or guardian is involved in an accident, which results in his death or permanent total disablement.",
 "o": [
@@ -42,7 +70,7 @@
 "e": "Correct answer: Amartya Shiksha Yojana policy (from the IC78 question bank)."
 },
 {
-"n": 4,
+"n": 6,
 "topic": "Miscellaneous Insurance",
 "t": "X has taken a Videsh Yatra Mitra policy. During his foreign trip, his passport is confiscated by customs. In such a case, which of the following statement holds true?",
 "o": [
@@ -56,7 +84,21 @@
 "e": "Correct answer: No claim shall be payable (from the IC78 question bank)."
 },
 {
-"n": 5,
+"n": 7,
+"topic": "Miscellaneous Insurance",
+"t": "In Videsh Yatra Mitra, ____________ means a person legally qualified to practice in medicine or surgery including other legally qualified medical practitioners duly licensed by their respective jurisdiction and such person is not a member of the insured person's family.",
+"o": [
+"Medical advisors",
+"Claim settlement agency",
+"Third party Administrator",
+"TPA",
+"Physician"
+],
+"a": 4,
+"e": "Correct answer: Physician (from the IC78 question bank)."
+},
+{
+"n": 8,
 "topic": "Miscellaneous Insurance",
 "t": "Under Banker's indemnity insurance, term 'Employees' is deemed to mean:- <BR><BR>I. Officers <BR>II. Clerks <BR>III. Sub staffs",
 "o": [
@@ -70,7 +112,7 @@
 "e": "Correct answer: I,II and III (from the IC78 question bank)."
 },
 {
-"n": 6,
+"n": 9,
 "topic": "Miscellaneous Insurance",
 "t": "Neon sign insurance policy provides cover to which of the following on payment of additional premium?",
 "o": [
@@ -84,22 +126,7 @@
 "e": "Correct answer: Damage due to riots and strikes (from the IC78 question bank)."
 },
 {
-"n": 7,
-"topic": "Miscellaneous Insurance",
-"t": "X has chosen more than 4 sections in shopkeepers insurance policy. Is he entitled for any discount in premium?",
-"o": [
-"No, discount will be available only if more than 8",
-"Yes, X is entitled to 5% discount in premium",
-"Yes, X is entitled to 10% discount in premium",
-"Yes, X is entitled to 15% discount in premium",
-"Yes, X is entitled to 20% discount in premium"
-],
-"a": 3,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Yes, X is entitled to 15% discount in premium (from the IC78 question bank).",
-"r": "key"
-},
-{
-"n": 8,
+"n": 10,
 "topic": "Miscellaneous Insurance",
 "t": "What is the indemnity limit provided to insured in event of death of draught horse?",
 "o": [
@@ -113,7 +140,7 @@
 "e": "Correct answer: 80% of Sum insured (from the IC78 question bank)."
 },
 {
-"n": 9,
+"n": 11,
 "topic": "Miscellaneous Insurance",
 "t": "In Videsh Yatra Mitra policy, premium depends upon:-<br><br>I. Age<br>II. Duration of stay<br>III. Type of plan selected",
 "o": [
@@ -127,7 +154,7 @@
 "e": "Correct answer: I,II and III (from the IC78 question bank)."
 },
 {
-"n": 10,
+"n": 12,
 "topic": "Miscellaneous Insurance",
 "t": "Which of the following is an examples of floriculture?",
 "o": [
@@ -141,7 +168,7 @@
 "e": "Correct answer: Orchids (from the IC78 question bank)."
 },
 {
-"n": 11,
+"n": 13,
 "topic": "Miscellaneous Insurance",
 "t": "Tertiary care insurance cover can be issued for:-<br><br>I. 1 year<br>II. 5 years<br>III. 10 years",
 "o": [
@@ -155,7 +182,7 @@
 "e": "Correct answer: I,II and III (from the IC78 question bank)."
 },
 {
-"n": 12,
+"n": 14,
 "topic": "Miscellaneous Insurance",
 "t": "What information can be elicited from a health insurance policy proposal form? <br><br>I. Income tax PAN number <br>II. Name and address of medical practitioner <br>III.  Qualification and registration number of medical practitioner",
 "o": [
@@ -169,7 +196,7 @@
 "e": "Correct answer: I,II and III / I,II ?? III (from the IC78 question bank)."
 },
 {
-"n": 13,
+"n": 15,
 "topic": "Miscellaneous Insurance",
 "t": "Organisers of a cricket match to be held in Indore have taken policy for total abandonment of an arranged cricket match from ABC Insurance  Company. The match gets postponed for 1 week due to riots in city, due to which organisers suffers losses. Can the organisers seek claim from insurance company?",
 "o": [
@@ -183,7 +210,7 @@
 "e": "Correct answer: No, postponement of match does not constitute a claim (from the IC78 question bank)."
 },
 {
-"n": 14,
+"n": 16,
 "topic": "Miscellaneous Insurance",
 "t": "Under Banker's indemnity insurance, term 'money' is deemed to mean:-<br><br>I. Ornaments pledged with insured<br>II. Postage and revenue stamps<br>III. Stamp papers",
 "o": [
@@ -197,7 +224,7 @@
 "e": "Correct answer: I,II and III (from the IC78 question bank)."
 },
 {
-"n": 15,
+"n": 17,
 "topic": "Miscellaneous Insurance",
 "t": "Who is appointed by the court to deal with the estates of persons who have filed insolvency petition before the court or are declared insolvent by the courts?<br><br>I. Liquidator<br>II. Administrator<br>III. Receiver",
 "o": [
@@ -211,7 +238,7 @@
 "e": "Correct answer: Only I (from the IC78 question bank)."
 },
 {
-"n": 16,
+"n": 18,
 "topic": "Miscellaneous Insurance",
 "t": "What is the maximum amount of loss that the insured has to bear in banker's indemnity policy?",
 "o": [
@@ -224,22 +251,7 @@
 "e": "Correct answer: 25% of each loss or 2 percent of the basic sum insured, whichever is higher but not exceeding Rs. 50,000/- (from the IC78 question bank)."
 },
 {
-"n": 17,
-"topic": "Miscellaneous Insurance",
-"t": "What amount of benefit can senior citizen seek as tax benefit under section 80 D of income tax, by investing in a health insurance policy?",
-"o": [
-"Rs 10000",
-"Rs 15000",
-"Rs 20000",
-"Rs 30000",
-"Rs 50000"
-],
-"a": 2,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Rs 20000 (from the IC78 question bank).",
-"r": "key"
-},
-{
-"n": 18,
+"n": 19,
 "topic": "Miscellaneous Insurance",
 "t": "X wish to insure his circus animals. Which of the following statement will hold true in this case?",
 "o": [
@@ -253,7 +265,7 @@
 "e": "Correct answer: Sum insured will be based on valuation done by curator and health certificate by veterinary doctor (from the IC78 question bank)."
 },
 {
-"n": 19,
+"n": 20,
 "topic": "Miscellaneous Insurance",
 "t": "In Commercial fidelity guarantee, the percentage charge is applied on:-<br><br>I. The amount guaranteed<br>II. Number of employees to be guaranteed<br>III. The type of occupation",
 "o": [
@@ -267,7 +279,7 @@
 "e": "Correct answer: Only I (from the IC78 question bank)."
 },
 {
-"n": 20,
+"n": 21,
 "topic": "Miscellaneous Insurance",
 "t": "In Commercial fidelity guarantee, the premium for a floating policy comprises:-<br><br>I. A percentage charge<br>II. A per capita charge<br>III. A floating charge",
 "o": [
@@ -281,7 +293,21 @@
 "e": "Correct answer: I and II (from the IC78 question bank)."
 },
 {
-"n": 21,
+"n": 22,
+"topic": "Miscellaneous Insurance",
+"t": "Which of the following statement is correct with regards to commercial guarantees?<br><br>I. Are specialty contracts executed under seal<br>II. Is subject to conditions the breach of which may render the policy void or void able<br>III. The insured is not a party to the contract",
+"o": [
+"Only I",
+"Only III",
+"I and II",
+"II and III",
+"I,II and III"
+],
+"a": 3,
+"e": "Correct answer: II and III (from the IC78 question bank)."
+},
+{
+"n": 23,
 "topic": "Miscellaneous Insurance",
 "t": "In aqua insurance, sum insured is based on:- <BR><BR>I. The input cost per kg of the shrimp / prawns produced as declared by the proposer <BR>II. Valuation done by veterinary doctor <BR>III. Valuation done by an agriculture expert",
 "o": [
@@ -295,7 +321,7 @@
 "e": "Correct answer: Only I (from the IC78 question bank)."
 },
 {
-"n": 22,
+"n": 24,
 "topic": "Miscellaneous Insurance",
 "t": "Under _____________, the ceding company reinsures with the treaty reinsurers surpluses over and above its retention in terms, and within the size of, the treaty.",
 "o": [
@@ -309,7 +335,21 @@
 "e": "Correct answer: Surplus treaty reinsurance (from the IC78 question bank)."
 },
 {
-"n": 23,
+"n": 25,
+"topic": "Miscellaneous Insurance",
+"t": "Sericulture insurance offers indemnity in respect of:- <BR><BR>I. Loss due to improper management and / or rough handling. <BR>II. Theft or clandestine sale <BR>III. Loss or destruction of the cocoons, following the death of silkworm due to accident during period of insurance",
+"o": [
+"Only I",
+"Only III",
+"I and II",
+"II and III",
+"I,II and III"
+],
+"a": 1,
+"e": "Correct answer: Only III (from the IC78 question bank)."
+},
+{
+"n": 26,
 "topic": "Miscellaneous Insurance",
 "t": "Identify the true statement with regard to Videsh Yatra Mitra policy.<br><br>I. The premium of the policy depends upon age and duration of stay.<br>II. The premium of the policy depends upon the type of plan selected.<br>III. Premium could either be calculated on trip band basis or on the number of days exactly calculated.",
 "o": [
@@ -323,7 +363,7 @@
 "e": "Correct answer: I,II and III (from the IC78 question bank)."
 },
 {
-"n": 24,
+"n": 27,
 "topic": "Miscellaneous Insurance",
 "t": "In case of broilers, what is the minimum number of birds that can be insured under poultry insurance?",
 "o": [
@@ -337,7 +377,7 @@
 "e": "Correct answer: 100 per batch (from the IC78 question bank)."
 },
 {
-"n": 25,
+"n": 28,
 "topic": "Miscellaneous Insurance",
 "t": "___________ is appointed to administer the estate of a minor who is placed under the Court of Wards till he attains majority.",
 "o": [
@@ -351,7 +391,7 @@
 "e": "Correct answer: Receivers (from the IC78 question bank)."
 },
 {
-"n": 26,
+"n": 29,
 "topic": "Miscellaneous Insurance",
 "t": "Manufacturers who import essential raw materials on which a concessional customs duty is levied provided they produce an end-use certificate that the imported materials have been consumed in the production of goods originally declared by the manufacturer are required to execute:-",
 "o": [
@@ -365,22 +405,7 @@
 "e": "Correct answer: Custom bonds (from the IC78 question bank)."
 },
 {
-"n": 27,
-"topic": "Miscellaneous Insurance",
-"t": "As per section 391 of Indian penal code, Where five or more persons conjointly commit or attempt to commit a robbery or are present and aid such commission or attempt, every one of them is said to commit _______________.",
-"o": [
-"Burglary",
-"Theft",
-"Robbery",
-"Dacoity",
-"Housebreaking"
-],
-"a": 3,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Dacoity (from the IC78 question bank).",
-"r": "key"
-},
-{
-"n": 28,
+"n": 30,
 "topic": "Miscellaneous Insurance",
 "t": "ABC Bank has opted for banker's indemnity insurance cover from XYZ Insurance Company. The bank suffers a loss, due to the fraud conducted by the employees of the bank, while the money is in transit. What is the maximum amount of claim that bank has to bear in this case?",
 "o": [
@@ -393,7 +418,7 @@
 "e": "Correct answer: 25% of each loss or 2 percent of the basic sum insured, whichever is higher, but not exceeding Rs 50,000 (from the IC78 question bank)."
 },
 {
-"n": 29,
+"n": 31,
 "topic": "Miscellaneous Insurance",
 "t": "Which of the following event/s can be insured under event insurance policy? <br><br>I. Beauty contests <br>II. Musical night <br>III. Film  festivals",
 "o": [
@@ -407,7 +432,7 @@
 "e": "Correct answer: I,II and III (from the IC78 question bank)."
 },
 {
-"n": 30,
+"n": 32,
 "topic": "Miscellaneous Insurance",
 "t": "X has taken Infidelity of employees extension along with Commercial fidelity Guarantee at extra premium. What are the benefits of this extension?",
 "o": [
@@ -421,7 +446,7 @@
 "e": "Correct answer: If this extension is taken, then infidelity is covered even if discovered after the specified number of hours (from the IC78 question bank)."
 },
 {
-"n": 31,
+"n": 33,
 "topic": "Miscellaneous Insurance",
 "t": "For long term group policies premium for tertiary care insurance can be paid in instalments. How many instalments need to be paid for 10 year policy?",
 "o": [
@@ -435,7 +460,7 @@
 "e": "Correct answer: 4 (from the IC78 question bank)."
 },
 {
-"n": 32,
+"n": 34,
 "topic": "Miscellaneous Insurance",
 "t": "Identify the true statement with regard to group discount <br><br>I. The group discount is allowed according to scale depending upon the total number of insured persons covered under the group policy at the inception of the policy. <br>II. Increase / decrease in the size of the group during the currency of the policy is not allowed. <br>III.  The final group discount is adjusted on the basis of the size of the group existing on the last day of the policy period provided the policy is renewed.",
 "o": [
@@ -449,7 +474,7 @@
 "e": "Correct answer: I and III / I ?? III (from the IC78 question bank)."
 },
 {
-"n": 33,
+"n": 35,
 "topic": "Miscellaneous Insurance",
 "t": "X wishes to take goat and sheep insurance for his cross exotic sheeps. What premium rates will be charged to him?",
 "o": [
@@ -463,7 +488,7 @@
 "e": "Correct answer: 6% per annum (from the IC78 question bank)."
 },
 {
-"n": 34,
+"n": 36,
 "topic": "Miscellaneous Insurance",
 "t": "Which mode of transport is covered under Domestic travellers policy? <br><br>I. Rail <br>II. Road <br>III. Air <bR><br>",
 "o": [
@@ -477,21 +502,7 @@
 "e": "Correct answer: I,II and III / I,II ?? III (from the IC78 question bank)."
 },
 {
-"topic": "Policyholder protection",
-"t": "An Insurance Ombudsman can entertain a complaint where the value of the claim, including expenses, does not exceed:",
-"o": [
-"₹20 lakh",
-"₹30 lakh",
-"₹50 lakh",
-"₹1 crore"
-],
-"a": 2,
-"e": "★ Core fact (asked across III papers). The limit was raised to ₹50 lakh by the amended Insurance Ombudsman Rules.",
-"r": "core",
-"n": 35
-},
-{
-"n": 36,
+"n": 37,
 "topic": "Miscellaneous Insurance",
 "t": "ABC Ltd wishes to insure cheques, bank drafts, currency notes, treasury notes, postal orders, money orders and postage stamps in transit from the insured's premises to bank. Suggest a suitable policy.",
 "o": [
@@ -505,7 +516,7 @@
 "e": "Correct answer: Money insurance (from the IC78 question bank)."
 },
 {
-"n": 37,
+"n": 38,
 "topic": "Miscellaneous Insurance",
 "t": "Under a floating fidelity guarantee insurance policy:-<br>I. The policy is cancelled on payment of a claim<br>II. The name of the defaulting employee is deleted<br>III. The cover ceases so far as the defaulting employee is concerned",
 "o": [
@@ -519,7 +530,7 @@
 "e": "Correct answer: Only III (from the IC78 question bank)."
 },
 {
-"n": 38,
+"n": 39,
 "topic": "Miscellaneous Insurance",
 "t": "With regard to Videsh Yatra Mitra, what are the conditions under which a baggage will be identified as  \"Checked baggage\"?<br><br>I. The baggage should be handed over by the insured person<br>II. The baggage should be accepted by an airline for an International flight for transportation in the same aircraft as the insured person<br>III. The baggage for which the airline has provided a baggage receipt",
 "o": [
@@ -533,7 +544,7 @@
 "e": "Correct answer: I,II and III (from the IC78 question bank)."
 },
 {
-"n": 39,
+"n": 40,
 "topic": "Miscellaneous Insurance",
 "t": "Tribal package insurance cover provides for:- <BR><BR>I. Dwelling hut <BR>II. Personal Accident <BR>III. Hospitalisation",
 "o": [
@@ -547,7 +558,7 @@
 "e": "Correct answer: I,II and III (from the IC78 question bank)."
 },
 {
-"n": 40,
+"n": 41,
 "topic": "Miscellaneous Insurance",
 "t": "In Money policy to individuals for withdrawals from ATMs covers, which of the following covers can be taken as extension? <br><br>I.  Accidental damage to wallet and items inside  <br>II. Injuries and consequent medical expenses incurred due to robbery while withdrawing money from ATM <br>III. Cost of  replacement of documents lost during robbery while withdrawing money from ATM",
 "o": [
@@ -561,7 +572,7 @@
 "e": "Correct answer: II and III (from the IC78 question bank)."
 },
 {
-"n": 41,
+"n": 42,
 "topic": "Miscellaneous Insurance",
 "t": "The Videsh Yatra Mitra policy only if the insured journey commences within ________.",
 "o": [
@@ -575,7 +586,7 @@
 "e": "Correct answer: 14 days of the first day of insurance as indicated in the policy schdule (from the IC78 question bank)."
 },
 {
-"n": 42,
+"n": 43,
 "topic": "Miscellaneous Insurance",
 "t": "In a group health insurance scheme, a newborn can be covered under the scheme:-",
 "o": [
@@ -589,7 +600,7 @@
 "e": "Correct answer: From Day 1 (from the IC78 question bank)."
 },
 {
-"n": 43,
+"n": 44,
 "topic": "Miscellaneous Insurance",
 "t": "Which of the following are classified as hazardous risks for Commercial fidelity guarantees?<br><br>I. Estate agents<br>II. Cashiers in cinema halls<br>III. Treasurers of societies",
 "o": [
@@ -603,7 +614,7 @@
 "e": "Correct answer: I,II and III (from the IC78 question bank)."
 },
 {
-"n": 44,
+"n": 45,
 "topic": "Miscellaneous Insurance",
 "t": "X has taken a pedal cycle insurance cover. The cover offers protection only against Insured's legal liability for damage to the property of the  public. Which type of cover has been taken by X?<br><br> I. Third party liability cover  <br>II. Comprehensive cover <br>III. Dual liability cover",
 "o": [
@@ -617,7 +628,7 @@
 "e": "Correct answer: Only I (from the IC78 question bank)."
 },
 {
-"n": 45,
+"n": 46,
 "topic": "Miscellaneous Insurance",
 "t": "The cover under salt water insurance policy applies to:- <BR><BR>I. Mud work <BR>II. Salt stored on platforms  <BR>III. Salt brine",
 "o": [
@@ -631,7 +642,7 @@
 "e": "Correct answer: I and II (from the IC78 question bank)."
 },
 {
-"n": 46,
+"n": 47,
 "topic": "Miscellaneous Insurance",
 "t": "Shopkeepers insurance policy, covers loss of or damage to building/contents whilst contained in insured premises by: <BR><BR>I. Fire, lightning, explosion of gas in domestic appliances <BR>II. Bursting and overflowing of water tanks <BR>III. Aircraft or articles dropped there from",
 "o": [
@@ -643,20 +654,6 @@
 ],
 "a": 4,
 "e": "Correct answer: I,II and III (from the IC78 question bank)."
-},
-{
-"topic": "Policyholder protection",
-"t": "The IRDAI portal through which a policyholder can escalate an unresolved grievance against an insurer is:",
-"o": [
-"Bima Sugam",
-"Bima Bharosa",
-"Bima Vahak",
-"Bima Vistaar"
-],
-"a": 1,
-"e": "★ Core fact (asked across III papers). Bima Bharosa (formerly IGMS) is the grievance portal; Bima Sugam is the marketplace, Bima Vahak the women-led distribution channel and Bima Vistaar the combined rural product.",
-"r": "core",
-"n": 47
 },
 {
 "n": 48,

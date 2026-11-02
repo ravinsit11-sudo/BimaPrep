@@ -44,6 +44,20 @@
 {
 "n": 4,
 "topic": "Risk Management",
+"t": "The apex or tip of the degree of risk triangle indicates that there may be a small number of risks which may have the most devastating effect so that it will make it impossible for the business to achieve any of its targets. Such risks, therefore, are termed ____________.",
+"o": [
+"Catastrophe Risks",
+"Major Risks",
+"Medium Risks",
+"Moderate Risks",
+"Minor Risks"
+],
+"a": 0,
+"e": "Correct answer: Catastrophe Risks (from the IC86 question bank)."
+},
+{
+"n": 5,
+"topic": "Risk Management",
 "t": "The \"Law of large numbers\" is also known as __________. <br><br>I. \"Doctrine of probability\" <br>II. \"Law of average\" <br>III.  \"Law of uncertainty",
 "o": [
 "Only I",
@@ -56,7 +70,7 @@
 "e": "Correct answer: I and II (from the IC86 question bank)."
 },
 {
-"n": 5,
+"n": 6,
 "topic": "Risk Management",
 "t": "What is the purpose of the COSO approach?<BR> <BR>I. Suggest a comprehensive risk management system <BR>II. To regulate portfolio management <BR>III. To ensure liquidity in organisation",
 "o": [
@@ -70,7 +84,7 @@
 "e": "Correct answer: Only I (from the IC86 question bank)."
 },
 {
-"n": 6,
+"n": 7,
 "topic": "Risk Management",
 "t": "The risk transfer of exclusively financial, credit/weather-related or other capital market risks  from capital to insurance markets is structured in the form of a reinsurance solution. This concept is also called  __________________.",
 "o": [
@@ -84,7 +98,7 @@
 "e": "Correct answer: Insuratization (from the IC86 question bank)."
 },
 {
-"n": 7,
+"n": 8,
 "topic": "Risk Management",
 "t": "As per the rule of probability of occurrence which of the following events shall be assigned the value 'Zero'? <br><br>I.  Death of Mr. A <br>II. ABC limited making profits in the first year <br>III. Rains in the month of December",
 "o": [
@@ -98,7 +112,7 @@
 "e": "Correct answer: Only III (from the IC86 question bank)."
 },
 {
-"n": 8,
+"n": 9,
 "topic": "Risk Management",
 "t": "Strategic management encompasses __________.",
 "o": [
@@ -111,7 +125,21 @@
 "e": "Correct answer: Both pure and speculative risks with equal importance (from the IC86 question bank)."
 },
 {
-"n": 9,
+"n": 10,
+"topic": "Risk Management",
+"t": "Identify the part of Catastrophic Risk Management which after any serious problem situation,  whether it results in a loss or if the loss is forestalled by the ERM process, the firm uses the situation as a learning  opportunity and identifies what went well and poorly with the ERM process and communicates that learning broadly.",
+"o": [
+"Risk Control",
+"Catastrophic risk management",
+"Risk management culture",
+"Strategic risk management",
+"Problem post mortem"
+],
+"a": 4,
+"e": "Correct answer: Problem post mortem (from the IC86 question bank)."
+},
+{
+"n": 11,
 "topic": "Risk Management",
 "t": "In the year 1932 to 1968, which major industrial disaster took place?",
 "o": [
@@ -125,22 +153,7 @@
 "e": "Correct answer: Mina Mata Mercury Disaster (Japan) (from the IC86 question bank)."
 },
 {
-"n": 10,
-"topic": "Risk Management",
-"t": "In the year 1985 which major event took place?",
-"o": [
-"Formation of independent national commission by COSO",
-"Formation of Basel Committee on Banking Supervisio",
-"London stock exchange introduced new legislations",
-"Formation of Basel II accord",
-"COSO initiated a study  to develop practices for m"
-],
-"a": 0,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Formation of independent national commission by COSO (from the IC86 question bank).",
-"r": "key"
-},
-{
-"n": 11,
+"n": 12,
 "topic": "Risk Management",
 "t": "Fast Cabs Co. has made it mandatory for their car drivers to complete a driver safety course each year. Requiring drivers to complete a driver safety course is an example of:-",
 "o": [
@@ -154,7 +167,7 @@
 "e": "Correct answer: Loss control (from the IC86 question bank)."
 },
 {
-"n": 12,
+"n": 13,
 "topic": "Risk Management",
 "t": "Which among the following are the benefits of a risk management to an organisation? <br><br>I.  Saving resources such as time, assets, people <br>II. Protecting public image of company <br>III. Raising capital",
 "o": [
@@ -168,7 +181,7 @@
 "e": "Correct answer: I and II (from the IC86 question bank)."
 },
 {
-"n": 13,
+"n": 14,
 "topic": "Risk Management",
 "t": "At which stage does the management of an organisation assess the situation and decides whether or  not to activate the Business Continuity Plan?",
 "o": [
@@ -182,7 +195,7 @@
 "e": "Correct answer: Emergency response phase (from the IC86 question bank)."
 },
 {
-"n": 14,
+"n": 15,
 "topic": "Risk Management",
 "t": "The simplest definition of risk management can be the identification, evaluation, control and prevention and ___________ of risk.",
 "o": [
@@ -196,7 +209,7 @@
 "e": "Correct answer: Transfer (from the IC86 question bank)."
 },
 {
-"n": 15,
+"n": 16,
 "topic": "Risk Management",
 "t": "Narmada Ltd reduces the probability of a potential risk by clearing the waste in its production facilities at more frequent interval. Identify the phase of an event under a risk management programme.",
 "o": [
@@ -208,21 +221,6 @@
 ],
 "a": 0,
 "e": "Correct answer: Pre event (from the IC86 question bank)."
-},
-{
-"n": 16,
-"topic": "Risk Management",
-"t": "Taking a Rs. 10,000 deductible on the machinery insurance policy is an example of__________.",
-"o": [
-"Risk avoidance",
-"Loss reduction",
-"Risk assumption",
-"Risk transfer",
-"Hedging"
-],
-"a": 2,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: Risk assumption (from the IC86 question bank).",
-"r": "key"
 },
 {
 "n": 17,
@@ -241,6 +239,20 @@
 {
 "n": 18,
 "topic": "Risk Management",
+"t": "Which of the following are the disadvantages of the checklists / questionnaires method of risk identification? <BR><br>I. The forms are filled in by somebody other than the risk manager, <br>II. Subjectivities may creep in while filling in the forms, <br>III. Feedback may not be timely",
+"o": [
+"Only I",
+"I and III",
+"I, II and III",
+"II and III",
+"I and II"
+],
+"a": 2,
+"e": "Correct answer: I, II and III (from the IC86 question bank)."
+},
+{
+"n": 19,
+"topic": "Risk Management",
 "t": "The risk of Potential loss to the property can be classified as which of the following type of  risk?",
 "o": [
 "Personal Risk",
@@ -253,7 +265,7 @@
 "e": "Correct answer: Property Risk (from the IC86 question bank)."
 },
 {
-"n": 19,
+"n": 20,
 "topic": "Risk Management",
 "t": "For the purpose of determining property loss exposures, property is divided into real and personal property. Which of the following are examples of real property?<BR> <BR>I. Land <BR>II. Buildings <BR>III. Machinery",
 "o": [
@@ -267,7 +279,7 @@
 "e": "Correct answer: I and II (from the IC86 question bank)."
 },
 {
-"n": 20,
+"n": 21,
 "topic": "Risk Management",
 "t": "A company has a dealership in FMCG Goods. The Owner of the company foresees risk in the business due to current rate of inflation. He tries to mitigate the risks through purchasing insurance products and pooling risks. What kind of risk response is this?",
 "o": [
@@ -281,7 +293,7 @@
 "e": "Correct answer: Sharing (from the IC86 question bank)."
 },
 {
-"n": 21,
+"n": 22,
 "topic": "Risk Management",
 "t": "Which of the following is/are examples retrospective finite risk reinsurance?<BR><BR> I. Multi  line stop loss covers <BR>II. Double trigger concepts <BR>III. Spread loss covers",
 "o": [
@@ -295,7 +307,7 @@
 "e": "Correct answer: I, II and III (from the IC86 question bank)."
 },
 {
-"n": 22,
+"n": 23,
 "topic": "Risk Management",
 "t": "According to the doctrine of probability, reliability of the forecast of future loss experience is dependent upon:- <BR> <BR>I. Number of instances <BR>II. Time period of examination <BR>III. Source of data",
 "o": [
@@ -309,7 +321,7 @@
 "e": "Correct answer: I and II (from the IC86 question bank)."
 },
 {
-"n": 23,
+"n": 24,
 "topic": "Risk Management",
 "t": "The risk of loss due to riot, strike, civil commotion, burglary, theft can be classified as which of the following type of risk?",
 "o": [
@@ -323,7 +335,7 @@
 "e": "Correct answer: Social Risk (from the IC86 question bank)."
 },
 {
-"n": 24,
+"n": 25,
 "topic": "Risk Management",
 "t": "Which of the following is/are the goals of Finite risk reinsurance?<BR><BR> I. Achieving balance  sheet relief and liquidity support <BR>II. Optimising investment strategies <BR>III. Supporting corporate planning and risk  management",
 "o": [
@@ -337,7 +349,7 @@
 "e": "Correct answer: I, II and III (from the IC86 question bank)."
 },
 {
-"n": 25,
+"n": 26,
 "topic": "Risk Management",
 "t": "Under risk financing, which of the following is/are example/s of risk transfer? <br><br>I.  Hedging <br>II. Commercial insurance <br>III. Forming a trust",
 "o": [
@@ -351,7 +363,7 @@
 "e": "Correct answer: I and II (from the IC86 question bank)."
 },
 {
-"n": 26,
+"n": 27,
 "topic": "Risk Management",
 "t": "Kiran is in charge of loss control management in her organisation. She wants to ensure that the proactive measures are in place to limit the extent of any loss and to maximise the recovery from loss. Suggest which among the following are proactive measures. <br><bR>I. Construction of automatic fire doors <br>II. Installation of burglar alarms <br>III. Installation of sprinklers",
 "o": [
@@ -365,7 +377,21 @@
 "e": "Correct answer: II and III (from the IC86 question bank)."
 },
 {
-"n": 27,
+"n": 28,
+"topic": "Risk Management",
+"t": "Which of the following are the advantages of the organisation charts method of risk identification? <BR><br>I. The charts help in understanding the group, group companies and their management structures <br>II. Simple in nature and can be implemented with ease <br>III. This method is reasonably expensive",
+"o": [
+"Only I",
+"I and III",
+"I, II and III",
+"II and III",
+"I and II"
+],
+"a": 4,
+"e": "Correct answer: I and II (from the IC86 question bank)."
+},
+{
+"n": 29,
 "topic": "Risk Management",
 "t": "Which one of the following is the definition of risk given by the American Risk Insurance  Management Association?",
 "o": [
@@ -379,22 +405,7 @@
 "e": "Correct answer: Uncertainty or lack of knowledge concerning the outcome of events (from the IC86 question bank)."
 },
 {
-"n": 28,
-"topic": "Risk Management",
-"t": "In 2001, the _____________ of the Treadway Commission, led by Pricewater house Coopers, initiated  a study to develop practices for managing risk across an organisation.",
-"o": [
-"COSO (Committee of Sponsoring Organisations)",
-"Bank for International Settlements",
-"Basel Capital Accord",
-"London Stock Exchange",
-"Cadbury Committee"
-],
-"a": 0,
-"e": "★ Key fact (repeated across the mocks of this paper). Correct answer: COSO (Committee of Sponsoring Organisations) (from the IC86 question bank).",
-"r": "key"
-},
-{
-"n": 29,
+"n": 30,
 "topic": "Risk Management",
 "t": "Which working group prepared the publication \"The Specialty Guide on Enterprise Risk Management  (ERM)\"?",
 "o": [
@@ -408,7 +419,7 @@
 "e": "Correct answer: Group of the American Society of Actuaries (from the IC86 question bank)."
 },
 {
-"n": 30,
+"n": 31,
 "topic": "Risk Management",
 "t": "Define pure risk.",
 "o": [
@@ -422,7 +433,21 @@
 "e": "Correct answer: When there is existence of a chance of loss only, but not the chance of gain at all is known as pure risk. (from the IC86 question bank)."
 },
 {
-"n": 31,
+"n": 32,
+"topic": "Risk Management",
+"t": "This is a diagrammatic representation of all the events which may give rise to some major event. It shows the way in which individual events can combine together to produce potentially dangerous situations and it forces us to consider all aspects of the problem, including quantification of likelihood. Identify this method of risk identification.",
+"o": [
+"Flow Charts",
+"Threat analysis",
+"Fault Tree",
+"Hazard and operability (HAZOP) Study",
+"Organisational Charts"
+],
+"a": 2,
+"e": "Correct answer: Fault Tree (from the IC86 question bank)."
+},
+{
+"n": 33,
 "topic": "Risk Management",
 "t": "What is the objective of a during event phase under a risk management programme? <br><br>I.  Detecting the occurrence <br>II. Eliminating the possibility of occurrence <br>III. Reducing the probability of its occurrence",
 "o": [
@@ -436,7 +461,7 @@
 "e": "Correct answer: Only I (from the IC86 question bank)."
 },
 {
-"n": 32,
+"n": 34,
 "topic": "Risk Management",
 "t": "The __________ is a diagrammatic representation of all the events which may give rise to some  major event.",
 "o": [
@@ -450,7 +475,7 @@
 "e": "Correct answer: Fault Tree (from the IC86 question bank)."
 },
 {
-"n": 33,
+"n": 35,
 "topic": "Risk Management",
 "t": "_____________________ is the process of envisioning and preparing for extreme events that could  threaten the viability of the enterprise.",
 "o": [
@@ -464,7 +489,7 @@
 "e": "Correct answer: Catastrophic risk management (from the IC86 question bank)."
 },
 {
-"n": 34,
+"n": 36,
 "topic": "Risk Management",
 "t": "Contingent capital programmes provide additional sources of risk financing in case of natural  catastrophes, and mitigate the impact of such catastrophes on ____________ capital. <br><br>I. Insured's <br>II. Insurer's   <br>III. Ceder's",
 "o": [
@@ -478,21 +503,7 @@
 "e": "Correct answer: Only II (from the IC86 question bank)."
 },
 {
-"topic": "Taxation",
-"t": "Deduction for life insurance premium under Section 80C of the Income Tax Act is available up to an overall limit of:",
-"o": [
-"₹1 lakh",
-"₹1.5 lakh",
-"₹2 lakh",
-"₹2.5 lakh"
-],
-"a": 1,
-"e": "★ Core fact (asked across III papers). ₹1,50,000 aggregate for all 80C items; premium qualifies only up to 10% of the sum assured for policies issued after 1 April 2012.",
-"r": "core",
-"n": 35
-},
-{
-"n": 36,
+"n": 37,
 "topic": "Risk Management",
 "t": "How is the net contribution for a company calculated?",
 "o": [
@@ -506,7 +517,7 @@
 "e": "Correct answer: Sales - (Gross profit + Variable cost) (from the IC86 question bank)."
 },
 {
-"n": 37,
+"n": 38,
 "topic": "Risk Management",
 "t": "Identify the correct full form ART in context of risk management.",
 "o": [
@@ -520,7 +531,7 @@
 "e": "Correct answer: Alternative Rate Transfer (from the IC86 question bank)."
 },
 {
-"n": 38,
+"n": 39,
 "topic": "Risk Management",
 "t": "Which of the following statement/s is/are true about risks? <BR><br>I. The probability of its occurrence can be calculated <br>II. It is an event that can cause harm or loss <br>III. it is the exposure to events which cannot be predicted with absolute certainty",
 "o": [
@@ -534,7 +545,7 @@
 "e": "Correct answer: I, II and III (from the IC86 question bank)."
 },
 {
-"n": 39,
+"n": 40,
 "topic": "Risk Management",
 "t": "______________ is the process of reflecting risk and risk capital in the strategic choices that a company makes.",
 "o": [
@@ -548,7 +559,7 @@
 "e": "Correct answer: Strategic risk management (from the IC86 question bank)."
 },
 {
-"n": 40,
+"n": 41,
 "topic": "Risk Management",
 "t": "Which among the following is not a benefit of a risk management function to an organisation?",
 "o": [
@@ -561,7 +572,7 @@
 "e": "Correct answer: Raising capital through an IPO (from the IC86 question bank)."
 },
 {
-"n": 41,
+"n": 42,
 "topic": "Risk Management",
 "t": "_________ is / are sophisticated risk financing and transfer product/s that is / are typically  custom-designed for an organisation. What are these?<BR><BR> I. Alternative Risk Financing products <BR>II. Traditional  insurance products <BR>III. Debt instruments",
 "o": [
@@ -575,7 +586,7 @@
 "e": "Correct answer: Only I (from the IC86 question bank)."
 },
 {
-"n": 42,
+"n": 43,
 "topic": "Risk Management",
 "t": "Which among the following is a basic objective of management after it has suffered a loss?",
 "o": [
@@ -587,20 +598,6 @@
 ],
 "a": 2,
 "e": "Correct answer: Survival (from the IC86 question bank)."
-},
-{
-"topic": "Taxation",
-"t": "Deduction for health insurance premium under Section 80D for an individual below 60 years (self and family) is up to:",
-"o": [
-"₹15,000",
-"₹25,000",
-"₹50,000",
-"₹75,000"
-],
-"a": 1,
-"e": "★ Core fact (asked across III papers). ₹25,000; ₹50,000 where the insured is a senior citizen; an additional ₹25,000/₹50,000 for parents.",
-"r": "core",
-"n": 43
 },
 {
 "n": 44,
