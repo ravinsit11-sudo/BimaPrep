@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Development of reinsurance",
+"t": "The reinsurance pools of 1966 in India covered which classes of business?",
+"o": [
+"Fire and Hull",
+"Motor and Fire",
+"Marine Cargo and Aviation",
+"Engineering and Misc"
+],
+"a": 0,
+"e": "The Indian Insurance Companies Association initiated reinsurance pools in Fire and Hull in 1966."
+},
+{
+"n": 2,
+"topic": "Development of reinsurance",
+"t": "The Financial Strength Rating (FSR) of GIC Re by A.M. Best, as cited, is",
+"o": [
+"BBB (Good)",
+"A- (Excellent)",
+"aaa (Exceptional)",
+"A+ (Superior)"
+],
+"a": 1,
+"e": "A.M. Best assigns GIC Re an FSR of A- (Excellent) and a long-term ICR of A- (Excellent); aaa is its national scale rating."
+},
+{
+"n": 3,
+"topic": "Pools managed by GIC Re",
+"t": "For which pool is GIC Re the designated manager along with the Fertilizer pool?",
+"o": [
+"Motor Third Party Pool",
+"FAIR Natural Catastrophe Reinsurance Pool",
+"Indian Market Terrorism Risk Insurance Pool",
+"India Nuclear Insurance Pool (INIP)"
+],
+"a": 3,
+"e": "GIC Re is designated manager of INIP and the Fertilizer pool; it manages IMTRIP and FNCRIP."
+},
+{
+"n": 4,
+"topic": "Facultative reinsurance",
+"t": "A new cyber-risk product that does not fit any existing treaty terms is best reinsured",
+"o": [
+"under the stop loss cover",
+"under the fire surplus treaty",
+"under the obligatory cession",
+"facultatively, risk by risk"
+],
+"a": 3,
+"e": "Unfamiliar or newly emerging risks such as cyber are a stated use of facultative reinsurance."
+},
+{
+"n": 5,
+"topic": "Rating agencies",
+"t": "A 'Developing' credit watch on a reinsurer indicates that its rating",
+"o": [
+"has been withdrawn",
+"may be raised or lowered",
+"will certainly be lowered",
+"will certainly be raised"
+],
+"a": 1,
+"e": "Credit watch highlights the potential direction: positive (may be raised), negative (may be lowered), developing (may be raised or lowered)."
+},
+{
+"n": 6,
+"topic": "Facultative obligatory treaty",
+"t": "Fac-oblig treaties are typically placed",
+"o": [
+"only through GIC Re",
+"during a weak (soft) reinsurance market",
+"only during a hard reinsurance market",
+"only for catastrophe risks"
+],
+"a": 1,
+"e": "Because of their high exposure and low premium, fac-oblig covers can be placed when the reinsurance market is weak."
+},
+{
+"n": 7,
+"topic": "Facultative obligatory treaty",
+"t": "Though uncommon in general insurance, fac-oblig reinsurance can be seen in",
+"o": [
+"crop insurance",
+"motor TP insurance",
+"aviation insurance",
+"life insurance"
+],
+"a": 3,
+"e": "The material notes that fac-oblig is not common but is seen in life insurance."
+},
+{
+"n": 8,
+"topic": "IRDAI reinsurance regulations",
+"t": "A cedant may not seek reinsurance terms from IIOs or CBRs whose credit rating is below",
+"o": [
+"BBB (S&P) or equivalent",
+"AA (S&P) or equivalent",
+"A- (S&P) or equivalent",
+"A+ (S&P) or equivalent"
+],
+"a": 2,
+"e": "IRDAI regulations bar cedants from seeking terms from IIOs/CBRs rated below A- on the S&P scale or equivalent."
+},
+{
+"n": 9,
+"topic": "Surplus reinsurance",
+"t": "Surplus reinsurance is ideal for",
+"o": [
+"classes with wide variation in sums insured",
+"aggregate loss ratio protection",
+"catastrophe accumulation",
+"a new company with a small, uniform portfolio"
+],
+"a": 0,
+"e": "Surplus allows the cedant to retain small risks fully and cede large risks in proportion, which suits classes with wide SI variation."
+},
+{
+"n": 10,
+"topic": "Surplus reinsurance",
+"t": "Retention is ₹5 lakh and a risk has sum insured ₹30 lakh. How many lines are ceded to the surplus treaty?",
+"o": [
+"5 lines",
+"4 lines",
+"6 lines",
+"25 lines"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). Surplus = 30 − 5 = ₹25 lakh; 25 ÷ 5 = 5 lines ceded.",
+"r": "key"
+},
+{
+"n": 11,
+"topic": "Surplus reinsurance",
+"t": "A risk of sum insured ₹2 crore has a PML of 40%. With a retention of ₹20 lakh and cession on PML basis, the amount reinsured is",
+"o": [
+"₹40 lakh",
+"₹1.8 crore",
+"₹60 lakh",
+"₹80 lakh"
+],
+"a": 2,
+"e": "PML = 40% of ₹2 crore = ₹80 lakh; reinsured = 80 − 20 = ₹60 lakh (3 lines)."
+},
+{
+"n": 12,
+"topic": "Surplus reinsurance",
+"t": "A stated disadvantage of the surplus treaty compared with quota share is",
+"o": [
+"the reinsurer takes a fixed share of every risk",
+"variability in the premium ceded each month",
+"it offers no capital efficiency",
+"the cedant cannot retain small risks"
+],
+"a": 1,
+"e": "Surplus is more complex than quota share and the premium ceded varies month to month with the risks written."
+},
+{
+"n": 13,
+"topic": "Quota share reinsurance",
+"t": "In the variable quota share example, the reinsurer's share on a sum insured of ₹5,00,000 at 10% retention is",
+"o": [
+"₹4,00,000",
+"₹5,00,000",
+"₹50,000",
+"₹4,50,000"
+],
+"a": 3,
+"e": "Retention 10% = ₹50,000; the reinsurer takes the balance ₹4,50,000."
+},
+{
+"n": 14,
+"topic": "Quota share reinsurance",
+"t": "A disadvantage of quota share for the ceding insurer is that",
+"o": [
+"the reinsurer cannot decline poor risks",
+"each risk must be negotiated",
+"it provides no ceding commission",
+"profitable and unprofitable risks are ceded alike"
+],
+"a": 3,
+"e": "Quota share cedes a fixed share of every risk regardless of quality, and is inefficient when the portfolio matures."
+},
+{
+"n": 15,
+"topic": "Combined quota share and surplus",
+"t": "A risk of SI ₹20 lakh is reinsured by a 20% quota share, net retention ₹4 lakh and the balance to a surplus treaty. On a claim of ₹5 lakh the total reinsurance recovery (QS + surplus) is",
+"o": [
+"₹4 lakh",
+"₹5 lakh",
+"₹3 lakh",
+"₹1 lakh"
+],
+"a": 0,
+"e": "QS 20% of SI = ₹4L; retention ₹4L; surplus ₹12L. Shares of the claim: QS 20% = ₹1L, surplus 60% = ₹3L; total recovery ₹4L, cedant bears ₹1L."
+},
+{
+"n": 16,
+"topic": "Reinsurance programme table",
+"t": "For a ₹50 crore risk in the programme table (4% statutory cession, ₹5 crore retention, 20% quota share, 1st surplus 10 lines max ₹40 crore), the 1st surplus absorbs",
+"o": [
+"₹23 crore",
+"₹35 crore",
+"₹33 crore",
+"₹40 crore"
+],
+"a": 2,
+"e": "2 + 5 + 10 = ₹17 crore; the remaining ₹33 crore fits within the 1st surplus limit, so the 2nd surplus and facultative get nil."
+},
+{
+"n": 17,
+"topic": "Treaty document",
+"t": "A cedant's fire treaty is on a risk attaching basis and expires on 31 December. A policy issued in November suffers a fire the following March. The officer should",
+"o": [
+"treat the loss as fully retained",
+"split the claim equally between both treaties",
+"recover from the expired treaty's reinsurers since the policy attached during its period",
+"recover from the renewing treaty's reinsurers"
+],
+"a": 2,
+"e": "Under risk attaching basis the reinsurer remains liable for policies incepting in the treaty period even after the treaty expires."
+},
+{
+"n": 18,
+"topic": "Bordereaux",
+"t": "Which of the following is NOT a detail normally included in a bordereau?",
+"o": [
+"Name of insured",
+"Ceding insurer's retention",
+"Amount reinsured and period of insurance",
+"The reinsurer's security rating"
+],
+"a": 3,
+"e": "The bordereau lists insured, class of risk, SI, premium rate, retention, amount reinsured and period of insurance."
+},
+{
+"n": 19,
+"topic": "Risk excess of loss",
+"t": "A per-risk XL treaty has a priority of ₹50 lakh and a limit of ₹2 crore. A single loss of ₹1.5 crore occurs. The reinsurer pays",
+"o": [
+"₹2 crore",
+"₹1 crore",
+"₹1.5 crore",
+"₹50 lakh"
+],
+"a": 1,
+"e": "★ Key fact (repeated across the mocks of this paper). The reinsurer pays the loss above the priority up to the limit: 1.5 − 0.5 = ₹1 crore.",
+"r": "key"
+},
+{
+"n": 20,
+"topic": "Premium under proportional treaty",
+"t": "Under a proportional treaty, the percentage of premium paid to the reinsurer",
+"o": [
+"is fixed at the rate on line",
+"is the same as the percentage of sum insured ceded",
+"depends on the burning cost",
+"is a percentage of GNPI agreed in advance"
+],
+"a": 1,
+"e": "Premium follows the sum insured in proportional treaties; XL premium, by contrast, is a percentage of GNPI."
+},
+{
+"n": 21,
+"topic": "Ceding commission",
+"t": "Compared with a surplus treaty, the ceding commission under a quota share treaty is",
+"o": [
+"higher",
+"the same",
+"lower",
+"nil"
+],
+"a": 0,
+"e": "Quota share receives a higher rate of ceding commission because the reinsurer participates in every risk without selection against it."
+},
+{
+"n": 22,
+"topic": "Original net rate",
+"t": "The ORC concept is used mainly in which class of business?",
+"o": [
+"Motor",
+"Marine",
+"Fire",
+"Health"
+],
+"a": 1,
+"e": "Original net rate, where premium is ceded net of original commission and only a small ORC is allowed, is used for certain lines such as marine."
+},
+{
+"n": 23,
+"topic": "Inception and termination",
+"t": "At termination of a proportional treaty, unless a portfolio withdrawal is made, the reinsurer",
+"o": [
+"must pay a portfolio entry premium",
+"is liable only for 50% of outstanding losses",
+"is released from all liability immediately",
+"remains liable for all ceded policies yet to expire"
+],
+"a": 3,
+"e": "The reinsurer continues on run-off for unexpired policies unless it cuts off cover by paying a portfolio withdrawal premium."
+},
+{
+"n": 24,
+"topic": "Inception and termination",
+"t": "Under an underwriting year basis treaty, the reinsurer covers",
+"o": [
+"only policies issued or renewed on or after the treaty inception date",
+"only policies renewed before inception",
+"all policies in force on the inception date",
+"all losses occurring after inception irrespective of policy date"
+],
+"a": 0,
+"e": "Underwriting year basis excludes policies already in force at inception unless a portfolio entry premium is paid."
+},
+{
+"n": 25,
+"topic": "Quota share and surplus combined",
+"t": "In a combined QS and surplus arrangement, the 'net line' refers to",
+"o": [
+"the facultative placement",
+"the ceding insurer's retention under the quota share treaty",
+"the surplus treaty capacity",
+"the whole quota share treaty"
+],
+"a": 1,
+"e": "Net line is the cedant's own retention within the quota share; the entire QS treaty is the gross line for the surplus."
+},
+{
+"n": 26,
+"topic": "Sliding scale commission",
+"t": "Premiums ceded during the year are ₹1,00,000, incoming premium reserve ₹55,000 and outgoing premium reserve ₹20,000. The earned premium is",
+"o": [
+"₹65,000",
+"₹1,20,000",
+"₹1,35,000",
+"₹1,75,000"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). Earned premium = premium ceded + unexpired premium reserve at the beginning − unexpired premium reserve at the end = 1,00,000 + 55,000 − 20,000.",
+"r": "key"
+},
+{
+"n": 27,
+"topic": "Slip",
+"t": "Which of the following appears on a reinsurance slip?",
+"o": [
+"Retention, commission and profit commission",
+"Sliding scale loss ratio for the year",
+"The reinsurer's audited accounts",
+"The hours clause duration only"
+],
+"a": 0,
+"e": "The slip sets out reassured, period, business, exclusions, territory, retention, commission, profit commission and reinsurer."
+},
+{
+"n": 28,
+"topic": "Catastrophe excess of loss",
+"t": "Cat XL is designed to protect against",
+"o": [
+"gaps in other reinsurance arrangements",
+"large individual losses on a single risk",
+"accumulation of losses from events such as earthquake, flood, cyclone and riots",
+"a deteriorating annual loss ratio"
+],
+"a": 2,
+"e": "Catastrophe XL responds to accumulation of many losses from one event; it is essential in Indian cyclone belts and Himalayan EQ zones."
+},
+{
+"n": 29,
+"topic": "OICL XL cover",
+"t": "An earthquake causes OICL a net loss of ₹1,000 crore. Under its Cat XL (EQ peril) of ₹2,900 crore xs ₹50 crore, the recovery is",
+"o": [
+"₹1,000 crore",
+"₹2,900 crore",
+"₹950 crore",
+"₹900 crore"
+],
+"a": 2,
+"e": "Recovery = loss − deductible = 1,000 − 50 = ₹950 crore, within the ₹2,900 crore limit."
+},
+{
+"n": 30,
+"topic": "Risk excess of loss",
+"t": "Risk XL is typically sought when",
+"o": [
+"the cedant wants ceding commission",
+"the loss ratio of a class exceeds 80%",
+"a treaty is written on worldwide basis",
+"retention is increased beyond capacity following adverse underwriting results"
+],
+"a": 3,
+"e": "Per-risk XL protection supports increased retention levels and is mainly used in property risks."
+},
+{
+"n": 31,
+"topic": "Catastrophe excess of loss",
+"t": "A per-risk XL of ₹20 lakh xs ₹20 lakh has an event limit of three times the per-risk limit. Four risks in one event produce claims of ₹45L, ₹50L, ₹30L and ₹38L. The reinsurer pays in all",
+"o": [
+"₹68 lakh",
+"₹60 lakh",
+"₹80 lakh",
+"₹83 lakh"
+],
+"a": 1,
+"e": "Per-risk recoveries are 20 + 20 + 10 + 18 = ₹68 lakh, capped by the event limit of 3 × 20 = ₹60 lakh."
+},
+{
+"n": 32,
+"topic": "Stop loss",
+"t": "In the stop loss example (90% of loss ratio xs 80%, max 130%), with a loss ratio of 140% the reinsurer pays",
+"o": [
+"45% and the cedant retains 95%",
+"54% and the cedant retains 86%",
+"50% and the cedant retains 90%",
+"45% and the cedant retains 80%"
+],
+"a": 0,
+"e": "The cover tops out at 130%, so the excess is 50% and the reinsurer pays 90% = 45%; the cedant keeps 80% + 5% + the 10% above 130%."
+},
+{
+"n": 33,
+"topic": "Stop loss",
+"t": "Stop loss covers are commonly used for",
+"o": [
+"fire facultative risks",
+"marine cargo per voyage",
+"motor OD, health and crop portfolios",
+"aviation hull"
+],
+"a": 2,
+"e": "Stop loss limits the aggregate loss ratio of a class and suits portfolios like motor OD, health and crop."
+},
+{
+"topic": "Health insurance norms",
+"t": "The maximum waiting period for pre-existing diseases in health insurance, after the 2024 IRDAI changes, is:",
+"o": [
+"24 months",
+"36 months",
+"48 months",
+"60 months"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). Reduced from 48 to 36 months; the moratorium period after which claims cannot be contested (except fraud) is 60 months.",
+"r": "core",
+"n": 34
+},
+{
+"n": 35,
+"topic": "Whole account excess of loss",
+"t": "A whole account excess of loss cover is",
+"o": [
+"a proportional cover of the whole account",
+"a single composite cover protecting all classes of business",
+"a per-risk cover for property only",
+"a cover for the reinsurer's own retrocession"
+],
+"a": 1,
+"e": "Whole account XL protects the whole business across classes and is common in the miscellaneous class."
+},
+{
+"n": 36,
+"topic": "NPR features",
+"t": "Which of the following is NOT one of the listed factors affecting the rate of an excess of loss cover?",
+"o": [
+"Level of excess point",
+"The past experience of the treaty",
+"The ceding insurer's agency commission rates",
+"The limit and exposure to the reinsurer"
+],
+"a": 2,
+"e": "Rating factors are the excess point, limit and exposure, class of business, exclusions, underwriting limits of the reinsured and past experience."
+},
+{
+"n": 37,
+"topic": "NPR features",
+"t": "The two main factors in rating a catastrophe cover are",
+"o": [
+"the number of policies and agency strength",
+"the ceding commission and profit commission",
+"the amount of retention and the degree of exposure to natural perils",
+"the loss ratio and earned premium"
+],
+"a": 2,
+"e": "Cat cover rating focuses on retention and exposure to natural perils; burning cost is unsuitable."
+},
+{
+"n": 38,
+"topic": "NPR features",
+"t": "Over five years an insurer paid and reserved losses of ₹7 crore to the XL layer on a total GNPI of ₹200 crore. The pure burning cost is",
+"o": [
+"14%",
+"7%",
+"3.5%",
+"0.7%"
+],
+"a": 2,
+"e": "Pure burning cost = 7 × 100 ÷ 200 = 3.5%; loading by 100/70 would give a rate of 5%."
+},
+{
+"n": 39,
+"topic": "NPR features",
+"t": "Under the payback method, recoupment of a catastrophe loss over 100 years corresponds to a probability of",
+"o": [
+"0.1%",
+"1%",
+"10%",
+"0.4%"
+],
+"a": 1,
+"e": "Payback over 100 years is a 1% probability and over 250 years a 0.4% probability of the PML."
+},
+{
+"n": 40,
+"topic": "NPR features",
+"t": "The Pareto curve is useful to the XL underwriter because it shows that",
+"o": [
+"all claims are of equal size",
+"there are many small claims and few large claims, with most loss cost in the lower SI range",
+"losses are evenly spread across layers",
+"80% of claims come from the largest risks"
+],
+"a": 1,
+"e": "The 80/20 rule: a large number of small claims and a small number of large ones; the curve helps price a layer such as ₹10 crore xs ₹43 crore."
+},
+{
+"n": 41,
+"topic": "NPR features",
+"t": "The negative features of a risk attaching basis for XL contracts are",
+"o": [
+"long run-off and difficulty in assigning a claim to the correct contract year",
+"no cover for losses after termination",
+"the reinsurer can cancel mid-term leaving no cover",
+"need for portfolio transfers"
+],
+"a": 0,
+"e": "Risk attaching avoids the cedant being left without cover, but causes long run-off and allocation difficulties; marine and aviation XL use it."
+},
+{
+"n": 42,
+"topic": "Retentions",
+"t": "Which of the following is NOT listed as a factor affecting reinsurance retention?",
+"o": [
+"The number of branches of the reinsurer",
+"Assets, capital and free reserves",
+"State of the reinsurance market (soft or hard)",
+"Corporate liquidity"
+],
+"a": 0,
+"e": "Factors include assets and reserves, portfolio fluctuation, liquidity, competition, inflation, market state and legal imposition."
+},
+{
+"n": 43,
+"topic": "Retentions",
+"t": "For motor, workmen's compensation and burglary, retention is protected through",
+"o": [
+"facultative placements",
+"surplus treaties",
+"quota share treaties",
+"excess of loss cover rated on burning cost"
+],
+"a": 3,
+"e": "Motor/WC/Burglary are protected by XL rated on burning cost; miscellaneous uses surplus; engineering uses combined QS and surplus."
+},
+{
+"n": 44,
+"topic": "Clauses",
+"t": "The operative clause of a treaty",
+"o": [
+"describes the business within scope, the method of cession, maximum liability and territory",
+"sets the period of notice for termination",
+"gives the reinsurer access to records",
+"limits event losses to 72 hours"
+],
+"a": 0,
+"e": "The operative clause defines scope (excluding retrocession of inward business), method of cession, maximum liability and territorial scope."
+},
+{
+"topic": "Intermediaries",
+"t": "The qualifying examination for an individual insurance agent conducted by the Insurance Institute of India is:",
+"o": [
+"IC-01",
+"IC-38",
+"IC-14",
+"IC-33"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). IC-38 is the agents' pre-recruitment examination; IC-01/02/11/14 are Licentiate papers.",
+"r": "core",
+"n": 45
+},
+{
+"n": 46,
+"topic": "Clauses",
+"t": "A treaty provides that it may be terminated as at 31st December by giving notice of not less than",
+"o": [
+"180 days in writing",
+"90 days in writing",
+"60 days in writing",
+"30 days in writing"
+],
+"a": 1,
+"e": "The standard commencement and termination clause allows either party to terminate as at 31 December with not less than 90 days' written notice."
+},
+{
+"n": 47,
+"topic": "Clauses",
+"t": "A reinsurer sends a Provisional Notice of Cancellation (PNC). The ceding insurer should understand that",
+"o": [
+"the reinsurer is reserving its position and must follow up with a definite notice to actually cancel",
+"the treaty stands cancelled immediately",
+"cover continues automatically for three more years",
+"the reinsurer has become insolvent"
+],
+"a": 0,
+"e": "A PNC is a notice of termination made provisional so the reinsurer can review and decide; it must be followed by a definite notice of cancellation."
+},
+{
+"n": 48,
+"topic": "Clauses",
+"t": "Where the PML estimate on a risk proves wrong, the PML excess clause limits the reinsurer's additional liability to",
+"o": [
+"25% of the sum insured",
+"100% of the shortfall",
+"the original PML amount only",
+"50% of the amount that would have been payable had the PML not gone wrong"
+],
+"a": 3,
+"e": "The PML excess clause safeguards reinsurers against PML error by capping the extra liability at 50%."
+},
+{
+"n": 49,
+"topic": "RI accounting",
+"t": "Premiums ceded ₹1,00,000, incoming premium reserve ₹55,000, outgoing premium reserve ₹20,000; losses paid ₹80,000, outgoing loss reserve ₹15,000, incoming loss reserve ₹30,000. The loss ratio is approximately",
+"o": [
+"59%",
+"65%",
+"80%",
+"48%"
+],
+"a": 3,
+"e": "Earned premium = 1,35,000; incurred losses = 80,000 + 15,000 − 30,000 = 65,000; loss ratio = 65,000 ÷ 1,35,000 ≈ 48%."
+},
+{
+"n": 50,
+"topic": "IRDAI reinsurance regulations",
+"t": "Every Indian reinsurer must maintain a minimum retention of its Indian business of",
+"o": [
+"25%",
+"10%",
+"50%",
+"75%"
+],
+"a": 2,
+"e": "IRDAI requires Indian reinsurers to retain a minimum of 50% of their Indian business."
+}
+]

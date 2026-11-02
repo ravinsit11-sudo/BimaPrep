@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "History of motor insurance",
+"t": "The comprehensive motor policy covering own damage was first introduced in England in",
+"o": [
+"1895",
+"1899",
+"1930",
+"1939"
+],
+"a": 1,
+"e": "Own damage (comprehensive) cover appeared in 1899, four years after the first TP-only policy of 1895."
+},
+{
+"n": 2,
+"topic": "Motor tariff",
+"t": "The India Motor Tariff presently followed came into existence with effect from",
+"o": [
+"1 July 1989",
+"1 July 2002",
+"1 January 2007",
+"1 April 2012"
+],
+"a": 1,
+"e": "The new Motor Tariff with 49 General Regulations took effect on 1 July 2002 and its structure continues even after detariffing."
+},
+{
+"n": 3,
+"topic": "Motor tariff",
+"t": "Add-on covers under motor policies may be offered by insurers",
+"o": [
+"Under IRDAI's file and use provisions",
+"Only with TAC approval",
+"Only as part of the tariff wordings",
+"Only for commercial vehicles"
+],
+"a": 0,
+"e": "Post detariffing, insurers can provide add-on covers approved by IRDAI under file and use guidelines; the standard policy wordings continue."
+},
+{
+"n": 4,
+"topic": "Principles of insurance",
+"t": "In double insurance of a motor vehicle, the principle of contribution requires the loss to be shared",
+"o": [
+"Equally between insurers",
+"By the earlier policy alone",
+"On a pro-rata basis",
+"By the later policy alone"
+],
+"a": 2,
+"e": "Contribution applies in double insurance: each insurer bears a ratable proportion of the compensation, costs or expenses."
+},
+{
+"n": 5,
+"topic": "Driving licence",
+"t": "A licence for a non-transport vehicle issued to a 28 year old driver remains effective until",
+"o": [
+"5 years from issue",
+"10 years from issue",
+"The driver attains 40 years",
+"The driver attains 60 years"
+],
+"a": 2,
+"e": "Where the driver is below 30 at issue, the licence is valid till the date he attains 40 years."
+},
+{
+"n": 6,
+"topic": "Driving licence",
+"t": "An endorsement to carry dangerous or hazardous goods is valid for",
+"o": [
+"1 year",
+"3 years",
+"5 years",
+"Life of the transport licence"
+],
+"a": 1,
+"e": "The hazardous goods endorsement is valid for 3 years, requires age 20, medical fitness, a transport licence and knowledge of English plus one Schedule VII language."
+},
+{
+"n": 7,
+"topic": "Driving licence",
+"t": "Under Section 25A, a driving licence issued or renewed is not valid unless it carries a unique number under the",
+"o": [
+"State Register of Driving Licences",
+"Vahan database",
+"Sarathi State list",
+"National Register of Driving Licences"
+],
+"a": 3,
+"e": "The 2019 amendment created a National Register of Driving Licences maintained by the Central Government, subsuming State registers."
+},
+{
+"n": 8,
+"topic": "Registration certificate",
+"t": "If a vehicle owner changes his residential address, he must intimate the new address to the RTO within",
+"o": [
+"7 days",
+"14 days",
+"30 days",
+"45 days"
+],
+"a": 2,
+"e": "The owner must intimate change of address within 30 days of the change; the RC remains valid throughout India."
+},
+{
+"n": 9,
+"topic": "Registration certificate",
+"t": "Under Section 41, in the case of a new vehicle the application for registration in the same State is to be made by",
+"o": [
+"The dealer",
+"The owner personally",
+"The financier",
+"The insurer"
+],
+"a": 0,
+"e": "The dealer applies for registration of a new vehicle in the same State and must not deliver it until the registration mark is displayed."
+},
+{
+"n": 10,
+"topic": "Driving licence",
+"t": "A transport vehicle driving licence issued under Section 10 remains valid for",
+"o": [
+"5 years",
+"3 years",
+"10 years",
+"Till the holder attains 40 years"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). Transport vehicle licences are valid for 5 years; the age-linked durations apply to non-transport classes.",
+"r": "key"
+},
+{
+"n": 11,
+"topic": "Registration certificate",
+"t": "Under Section 54, registration suspended under Section 53 may be cancelled if the suspension continues uninterrupted for not less than",
+"o": [
+"3 months",
+"6 months",
+"12 months",
+"2 years"
+],
+"a": 1,
+"e": "Cancellation follows when suspension for being unroadworthy or dangerous continues for at least six months."
+},
+{
+"n": 12,
+"topic": "Permit",
+"t": "Under Section 81, an application for renewal of a permit must be made not less than",
+"o": [
+"7 days before expiry",
+"15 days before expiry",
+"30 days before expiry",
+"60 days before expiry"
+],
+"a": 1,
+"e": "Permits (other than temporary) are valid for five years and renewal must be applied for at least 15 days before expiry."
+},
+{
+"n": 13,
+"topic": "MV Act definitions",
+"t": "'Aggregator' under Section 2(1A) of the amended MV Act means",
+"o": [
+"A transport company owning more than 50 vehicles",
+"A State Transport Undertaking",
+"A fleet insurance broker",
+"A digital intermediary connecting passengers with drivers"
+],
+"a": 3,
+"e": "The 2019 amendment defined aggregator as a digital intermediary or marketplace for passengers to connect with drivers, enabling app-based operators."
+},
+{
+"n": 14,
+"topic": "Control of traffic",
+"t": "Section 128(3) requires a motorcycle carrying a child aged between nine months and four years as pillion to be driven at a speed not exceeding",
+"o": [
+"20 km/h",
+"30 km/h",
+"40 km/h",
+"50 km/h"
+],
+"a": 2,
+"e": "Safety harness, crash helmet and a speed limit of 40 km/h apply when carrying a child of 9 months to 4 years."
+},
+{
+"n": 15,
+"topic": "Control of traffic",
+"t": "Under Section 134, after an accident causing injury the driver must inform the nearest police station within",
+"o": [
+"6 hours",
+"12 hours",
+"24 hours",
+"48 hours"
+],
+"a": 2,
+"e": "The driver must take the injured to hospital, inform the police within 24 hours and inform the insurer with policy and driver particulars."
+},
+{
+"n": 16,
+"topic": "Control of traffic",
+"t": "A Good Samaritan under Section 134A is protected from civil or criminal liability when he",
+"o": [
+"Renders emergency care or transports the victim in good faith without expectation of reward",
+"Drives the injured person's vehicle to the police station",
+"Pays compensation on behalf of the driver",
+"Reports the accident within 24 hours"
+],
+"a": 0,
+"e": "Section 134A shields persons who voluntarily and without reward render emergency medical or non-medical assistance or transport the victim to hospital."
+},
+{
+"n": 17,
+"topic": "Policy conditions",
+"t": "The arbitration condition of a motor policy applies to disputes regarding",
+"o": [
+"Liability of the insurer",
+"Both liability and quantum",
+"Interpretation of exclusions",
+"Quantum of the claim only"
+],
+"a": 3,
+"e": "Arbitration is available only where the dispute is on the amount payable and not where liability itself is denied."
+},
+{
+"n": 18,
+"topic": "No Claim Bonus",
+"t": "Own damage premium is ₹12,000 and the insured has completed four consecutive claim-free years. The NCB amount is",
+"o": [
+"₹4,200",
+"₹5,400",
+"₹6,000",
+"₹6,600"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). NCB after 4 completed claim-free years is 45%; 45% of ₹12,000 is ₹6,600.",
+"r": "key"
+},
+{
+"n": 19,
+"topic": "Policy conditions",
+"t": "An insured settles with a third party and admits liability without consulting the insurer. This breaches the condition relating to",
+"o": [
+"No admission, offer, promise or payment",
+"Notice of loss",
+"Maintenance of vehicle",
+"Contribution"
+],
+"a": 0,
+"e": "The insured cannot make any admission, offer, promise or payment without the insurer's prior written consent."
+},
+{
+"n": 20,
+"topic": "Own damage perils",
+"t": "Which of the following is a general exclusion applicable to all sections of the motor policy?",
+"o": [
+"Damage to tyres",
+"Loss of accessories not on the vehicle",
+"Contractual liability",
+"Overloading of a commercial vehicle"
+],
+"a": 2,
+"e": "General exclusions cover loss outside the geographical area, contractual liability, breach of limitations as to use or driver clause, consequential loss and war/nuclear risks."
+},
+{
+"n": 21,
+"topic": "Commercial vehicles",
+"t": "Section III (towing of a disabled vehicle) under a commercial vehicle policy provides",
+"o": [
+"Liability cover while towing a disabled vehicle not for hire or reward",
+"OD cover for the towed vehicle",
+"Cover for goods carried in the towed vehicle",
+"Towing charges up to ₹2,500"
+],
+"a": 0,
+"e": "Section III extends Section II liability cover to a mechanically disabled towed vehicle, not for reward, with no OD cover for the towed vehicle or its load."
+},
+{
+"n": 22,
+"topic": "Commercial vehicles",
+"t": "With effect from 30.03.2012, which miscellaneous vehicle was reclassified to be rated as a goods carrying commercial vehicle?",
+"o": [
+"Mobile crane",
+"Fork lift truck",
+"Tipper",
+"Drilling rig"
+],
+"a": 2,
+"e": "Dumpers, tippers, milk vans, tankers, oil transport vehicles, refrigeration units and goods carrying tractors were moved from Class D to GCCV rating under Section 4A."
+},
+{
+"n": 23,
+"topic": "Commercial vehicles",
+"t": "Mobile cranes and excavators can be covered for damage by overturning during operational use under IMT-47 at an additional premium of",
+"o": [
+"0.25% of IDV",
+"0.5% of IDV",
+"1% of IDV",
+"5% of OD premium"
+],
+"a": 1,
+"e": "IMT-47 extends package policies for mobile units to overturning as a tool of trade at 0.5% of IDV."
+},
+{
+"n": 24,
+"topic": "IDV",
+"t": "A car's IDV is ₹5,00,000 and the wreck fetches ₹80,000 on an 'as is where is' basis. The maximum insurer liability on a total loss basis where the insured retains the wreck is",
+"o": [
+"₹5,00,000",
+"₹4,20,000",
+"₹4,00,000",
+"₹3,75,000"
+],
+"a": 1,
+"e": "Insurer's liability cannot exceed IDV less the value of the wreck, i.e. ₹4,20,000 before policy deductibles."
+},
+{
+"n": 25,
+"topic": "Depreciation on parts",
+"t": "The IDV depreciation schedule applies what percentage for a vehicle aged above 6 months but not exceeding 1 year?",
+"o": [
+"5%",
+"10%",
+"15%",
+"20%"
+],
+"a": 2,
+"e": "IDV depreciation is 5% below 6 months, 15% for 6 months to 1 year, 20%, 30%, 40% and 50% for subsequent years up to 5 years."
+},
+{
+"n": 26,
+"topic": "Depreciation on parts",
+"t": "Plastic bumper ₹6,000, airbag ₹30,000 and metal door ₹20,000 are replaced on a car aged 2 years 4 months. Total depreciation is",
+"o": [
+"₹18,000",
+"₹21,000",
+"₹23,000",
+"₹28,000"
+],
+"a": 1,
+"e": "Plastic and airbag attract 50% (₹3,000 + ₹15,000); the metal door at 2-3 years attracts 15% (₹3,000); total ₹21,000."
+},
+{
+"n": 27,
+"topic": "General Regulations",
+"t": "Under GR-12, the short period premium for a cover up to one month is",
+"o": [
+"10% of annual premium",
+"20% of annual premium",
+"25% of annual premium",
+"Full annual premium"
+],
+"a": 1,
+"e": "The short period scale starts at 20% of annual premium for up to one month and reaches full premium above 8 months."
+},
+{
+"n": 28,
+"topic": "Compulsory deductibles",
+"t": "A private car of 1800 cc has an assessed OD loss of ₹25,000 after depreciation. The amount payable after compulsory deductible is",
+"o": [
+"₹24,000",
+"₹23,000",
+"₹24,500",
+"₹22,000"
+],
+"a": 1,
+"e": "★ Key fact (repeated across the mocks of this paper). GR-40 compulsory deductible for private cars exceeding 1500 cc is ₹2,000, so ₹23,000 is payable.",
+"r": "key"
+},
+{
+"n": 29,
+"topic": "General Regulations",
+"t": "Under GR-25, the fee for each issuance of a fresh certificate of insurance on change in the policy is",
+"o": [
+"₹25",
+"₹50",
+"₹100",
+"₹150"
+],
+"a": 1,
+"e": "₹50 is charged for every fresh certificate of insurance, and the old certificate is to be surrendered."
+},
+{
+"n": 30,
+"topic": "General Regulations",
+"t": "Under GR-26, when a certificate of insurance is lost, the fresh certificate issued is to be",
+"o": [
+"Issued without any declaration",
+"Issued only through the RTO",
+"Valid for 60 days only",
+"Marked 'duplicate' after obtaining a declaration on circumstances of loss"
+],
+"a": 3,
+"e": "A declaration with full particulars of loss and efforts made is taken, the fresh certificate is marked duplicate and the original returned if found."
+},
+{
+"n": 31,
+"topic": "Cancellation",
+"t": "A bank requires the earlier-dated of two policies on a financed car to be cancelled. The refund is",
+"o": [
+"Pro-rata",
+"100% of premium",
+"On short period scale for the period in force",
+"Not permitted"
+],
+"a": 2,
+"e": "Where the earlier policy is cancelled at the written requirement of a financial institution, premium is retained on short period scale and the balance refunded."
+},
+{
+"n": 32,
+"topic": "No Claim Bonus",
+"t": "The NCB percentage for one completed claim-free year is",
+"o": [
+"10%",
+"20%",
+"25%",
+"35%"
+],
+"a": 1,
+"e": "NCB runs 20%, 25%, 35%, 45% and 50% for one to five consecutive claim-free years."
+},
+{
+"n": 33,
+"topic": "No Claim Bonus",
+"t": "NCB earned on a vehicle insured abroad can be allowed in India if claimed within",
+"o": [
+"1 year of expiry",
+"2 years of expiry",
+"3 years of expiry",
+"5 years of expiry"
+],
+"a": 2,
+"e": "NCB is applicable worldwide; NCB earned abroad can be allowed within 3 years of the expiry date and vice versa."
+},
+{
+"n": 34,
+"topic": "No Claim Bonus",
+"t": "Where an insured gives an NCB declaration that later proves false, the consequence stated in the declaration wording is",
+"o": [
+"Benefits under Section I (OD) are forfeited",
+"Policy becomes void ab initio",
+"NCB is recovered with 12% interest",
+"Liability cover is cancelled"
+],
+"a": 0,
+"e": "The declaration provides that if found incorrect, all benefits under Section I of the policy stand forfeited."
+},
+{
+"n": 35,
+"topic": "Discounts",
+"t": "An insured opts for a voluntary deductible of ₹15,000 on a car with OD premium of ₹9,000. The discount allowed is",
+"o": [
+"₹2,500",
+"₹2,700",
+"₹3,150",
+"₹2,000"
+],
+"a": 0,
+"e": "₹15,000 voluntary deductible gives 35% (₹3,150) subject to a maximum of ₹2,500, so ₹2,500 applies."
+},
+{
+"n": 36,
+"topic": "Discounts",
+"t": "Vehicles imported without customs duty by embassies, where the duty element is not in the IDV, attract",
+"o": [
+"30% loading on OD premium",
+"30% discount on OD premium",
+"50% loading on TP premium",
+"No change in premium"
+],
+"a": 0,
+"e": "GR-37 (IMT-19) loads OD premium by 30% where import duty is not included in the IDV."
+},
+{
+"topic": "IRDAI – regulator",
+"t": "IRDAI was constituted under the:",
+"o": [
+"Insurance Act 1938",
+"IRDA Act 1999",
+"General Insurance Business (Nationalisation) Act 1972",
+"LIC Act 1956"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). The IRDA Act 1999 established the Authority; it began functioning in April 2000 and is headquartered in Hyderabad.",
+"r": "core",
+"n": 37
+},
+{
+"n": 38,
+"topic": "Compulsory PA cover",
+"t": "Optional PA cover for unnamed passengers in a private car is limited to",
+"o": [
+"Two persons",
+"Five persons",
+"Named persons only",
+"The registered carrying capacity of the vehicle"
+],
+"a": 3,
+"e": "Unnamed passenger PA cover is limited to the registered carrying capacity, excluding the insured, paid driver and cleaner, with CSI up to ₹2 lakh per person."
+},
+{
+"n": 39,
+"topic": "Compulsory deductibles",
+"t": "The compulsory deductible applicable to a passenger carrying vehicle with 40 seats is",
+"o": [
+"₹500",
+"₹1,000",
+"₹1,500",
+"₹2,000"
+],
+"a": 2,
+"e": "PCVs above 36 passengers carry ₹1,500; 17 to 36 passengers ₹1,000; below 17 passengers ₹500."
+},
+{
+"n": 40,
+"topic": "Special vehicles",
+"t": "Under GR-43, the extra OD premium for a fibre glass fuel tank on a Class D commercial vehicle is",
+"o": [
+"₹50",
+"₹100",
+"₹200",
+"₹500"
+],
+"a": 1,
+"e": "GR-43 charges ₹100 for Class D vehicles and ₹50 for all other vehicles."
+},
+{
+"n": 41,
+"topic": "Settlement basis",
+"t": "Constructive total loss mode is generally adopted when",
+"o": [
+"IDV is higher than market value",
+"The vehicle is less than one year old",
+"The insured refuses repairs",
+"IDV less salvage is lower than the repair liability"
+],
+"a": 3,
+"e": "CTL is adopted when retrieval cost is 75% or more and IDV less salvage is lower than the repair liability, making total-loss settlement in the insurer's interest."
+},
+{
+"n": 42,
+"topic": "IRDA claim regulations",
+"t": "Under the regulations summarised by the trainer, the surveyor must submit his interim report within",
+"o": [
+"7 days of appointment",
+"30 days of first visit",
+"90 days of appointment",
+"15 days of first visit"
+],
+"a": 3,
+"e": "Interim report within 15 days of first visit, final report within 30 days, and within 90 days for commercial vehicle and large risk claims."
+},
+{
+"n": 43,
+"topic": "IRDA claim regulations",
+"t": "The insurer must furnish a free copy of the proposal form to the insured within",
+"o": [
+"7 days of acceptance",
+"15 days of acceptance",
+"30 days of acceptance",
+"60 days of acceptance"
+],
+"a": 2,
+"e": "A copy of the proposal must be supplied free of charge within 30 days of acceptance of the proposal."
+},
+{
+"topic": "IRDAI – regulator",
+"t": "The minimum paid-up equity capital required to start a life or general insurance company in India is:",
+"o": [
+"₹50 crore",
+"₹100 crore",
+"₹200 crore",
+"₹500 crore"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). ₹100 crore for a direct insurer; ₹200 crore for a reinsurer (Section 6 of the Insurance Act).",
+"r": "core",
+"n": 44
+},
+{
+"n": 45,
+"topic": "Motor trade policies",
+"t": "Premium under a Motor Trade Transit Risk (Class E) policy is charged on the basis of",
+"o": [
+"Distance to be covered",
+"Number of trade certificates",
+"Area occupied by the dealer",
+"Wages paid to employees"
+],
+"a": 0,
+"e": "Class E covers vehicles driven under their own power from manufacturer's warehouse to showroom and is rated on distance."
+},
+{
+"n": 46,
+"topic": "MV Act Chapter XI",
+"t": "Under Section 157, on transfer of ownership the new owner must apply to the insurer for transfer of the policy within",
+"o": [
+"7 days",
+"14 days",
+"30 days",
+"45 days"
+],
+"a": 1,
+"e": "Section 157 deems the liability portion transferred from the date of transfer and requires the transferee to apply within 14 days."
+},
+{
+"n": 47,
+"topic": "MV Act Chapter XI",
+"t": "Section 164 (earlier 163A) compensation for grievous hurt without proof of fault is",
+"o": [
+"₹50,000",
+"₹1,00,000",
+"₹2,50,000",
+"₹5,00,000"
+],
+"a": 2,
+"e": "Section 164 provides ₹5 lakh for death and ₹2.5 lakh for grievous hurt; the claimant need not establish negligence."
+},
+{
+"n": 48,
+"topic": "Claims Tribunal",
+"t": "A copy of the MACT award is to be given to the parties within",
+"o": [
+"7 days",
+"15 days",
+"30 days",
+"45 days"
+],
+"a": 1,
+"e": "Section 168: copy of award within 15 days and the award to be satisfied within 30 days from the date of award."
+},
+{
+"n": 49,
+"topic": "Lok Adalat and JRY",
+"t": "Jald Rahat Yojana covers",
+"o": [
+"Fatal and hit-and-run cases",
+"Only property damage claims",
+"Only cases pending in High Court",
+"Non-fatal injury cases excluding hit-and-run, for claimants above 18 years"
+],
+"a": 3,
+"e": "JRY (14.03.1992) is a pre-litigation scheme for non-fatal injury cases, fault and no-fault, excluding hit and run, for claimants above 18."
+},
+{
+"n": 50,
+"topic": "Consumer Protection Act",
+"t": "Under the Consumer Protection Act 2019, the pecuniary jurisdiction of the District Commission extends to claims up to",
+"o": [
+"₹20 lakh",
+"₹50 lakh",
+"₹1 crore",
+"₹10 crore"
+],
+"a": 2,
+"e": "District Commission up to ₹1 crore, State Commission above ₹1 crore to ₹10 crore and National Commission above ₹10 crore."
+}
+]

@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "History of motor insurance",
+"t": "The first motor policy issued in England in 1895 covered which risk?",
+"o": [
+"Own damage to the vehicle",
+"Third party liability",
+"Fire and theft only",
+"Personal accident to the driver"
+],
+"a": 1,
+"e": "The 1895 English policy covered third party liability only; a comprehensive policy including own damage followed in 1899."
+},
+{
+"n": 2,
+"topic": "History of motor insurance",
+"t": "The Motor Vehicles Act, 1988 replaced the 1939 Act and came into force on",
+"o": [
+"01.07.1988",
+"09.08.2019",
+"01.07.1989",
+"01.01.2007"
+],
+"a": 2,
+"e": "The 1988 Act became effective from 1 July 1989; 09.08.2019 is the date of the 2019 Amendment Act."
+},
+{
+"n": 3,
+"topic": "Motor tariff",
+"t": "After detariffing of motor business from 1 January 2007, which element continues to be regulated by IRDAI?",
+"o": [
+"Own damage premium rates",
+"Add-on cover premium",
+"Discount structure on OD",
+"Liability Only (TP) premium rates"
+],
+"a": 3,
+"e": "Detariffing freed only rates and discounts on OD; TP liability premium, policy wordings and terms remain regulated."
+},
+{
+"n": 4,
+"topic": "Driving licence",
+"t": "A transport vehicle driving licence issued under Section 10 remains valid for",
+"o": [
+"5 years",
+"3 years",
+"10 years",
+"Till the holder attains 40 years"
+],
+"a": 0,
+"e": "Transport vehicle licences are valid for 5 years; the age-linked durations apply to non-transport classes."
+},
+{
+"n": 5,
+"topic": "Driving licence",
+"t": "A driver aged 45 years obtains an LMV (non-transport) licence. For how long is it effective?",
+"o": [
+"5 years",
+"Till he attains 50 years",
+"10 years",
+"Till he attains 60 years"
+],
+"a": 2,
+"e": "For a driver above 30 but below 50 years at issue, a non-transport licence is valid for 10 years."
+},
+{
+"n": 6,
+"topic": "Driving licence",
+"t": "A private car driver's licence expired 14 months before the accident and was never renewed. For claim purposes the officer should treat the licence as",
+"o": [
+"Effective, since renewal is possible within 5 years",
+"Effective, since a grace period of 2 years applies",
+"Not effective; renewal beyond one year requires a fresh test",
+"Effective only for the OD section"
+],
+"a": 2,
+"e": "Under Section 15, renewal applied within one year of expiry is permitted; beyond one year the authority must refuse unless the applicant passes the test again."
+},
+{
+"n": 7,
+"topic": "Registration certificate",
+"t": "On sale of a vehicle registered in the same State, the seller must report the transfer to the RTO within",
+"o": [
+"7 days",
+"30 days",
+"45 days",
+"14 days"
+],
+"a": 3,
+"e": "Section 50 requires the transferor to report within 14 days (45 days if registered in another State); the transferee applies within 30 days."
+},
+{
+"n": 8,
+"topic": "Motor tariff",
+"t": "India Motor Tariff endorsements (IMTs) are contained in which section of the Motor Tariff?",
+"o": [
+"Section 5",
+"Section 6",
+"Section 7",
+"Section 8"
+],
+"a": 2,
+"e": "Section 7 holds the IMT endorsements; Section 6 has standard wordings and Section 8 statistical codes."
+},
+{
+"n": 9,
+"topic": "Driving licence",
+"t": "The minimum age for obtaining a licence to drive a motor cycle not exceeding 50 cc is",
+"o": [
+"16 years",
+"17 years",
+"18 years",
+"20 years"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). Section 10 permits a licence for motor cycles up to 50 cc at 16 years; geared motor cycles and LMV require 18 and transport vehicles 20.",
+"r": "key"
+},
+{
+"n": 10,
+"topic": "General Regulations",
+"t": "Under GR-4, geographical area extension of a Package Policy to Nepal and Bhutan is charged at",
+"o": [
+"₹100 per vehicle",
+"₹250 per vehicle",
+"₹500 per vehicle",
+"5% of OD premium"
+],
+"a": 2,
+"e": "Extension to Bangladesh, Bhutan, Nepal, Pakistan, Sri Lanka and Maldives costs a flat ₹500 for Package and ₹100 for other policies."
+},
+{
+"n": 11,
+"topic": "General Regulations",
+"t": "A car manufactured in 1935 and certified by the Vintage and Classic Car Club of India is entitled to",
+"o": [
+"25% discount on OD and 50% on TP premium",
+"50% discount on OD and 25% on TP premium",
+"25% discount on OD premium only",
+"No special rating"
+],
+"a": 0,
+"e": "GR-5 vintage cars (manufactured prior to 31.12.1940) get 25% OD and 50% TP discount; classic cars get no special rating."
+},
+{
+"n": 12,
+"topic": "IDV and total loss",
+"t": "A private car has an IDV of ₹4,00,000. The surveyor assesses repair cost at ₹3,20,000. The claim should be treated as",
+"o": [
+"Partial loss on repair basis",
+"Cash loss limited to ₹3,00,000",
+"Total loss payable at ₹3,20,000",
+"Constructive total loss, since repair cost exceeds 75% of IDV"
+],
+"a": 3,
+"e": "Repair cost is 80% of IDV; GR-8 treats the vehicle as CTL when aggregate retrieval/repair cost exceeds 75% of IDV."
+},
+{
+"n": 13,
+"topic": "Depreciation on parts",
+"t": "Under GR-9, depreciation applicable on fibre glass components in a partial loss claim is",
+"o": [
+"30%",
+"Nil",
+"50%",
+"As per age of vehicle"
+],
+"a": 0,
+"e": "Fibre glass components attract 30%; rubber/plastic/tyres/batteries/airbags attract 50%, glass nil, other parts as per age."
+},
+{
+"n": 14,
+"topic": "Depreciation on parts",
+"t": "Metal parts worth ₹40,000 are replaced on a car aged 3 years 8 months. The depreciation deducted on these parts is",
+"o": [
+"₹6,000",
+"₹10,000",
+"₹14,000",
+"₹16,000"
+],
+"a": 1,
+"e": "For a vehicle above 3 years but below 4 years, depreciation on metal parts is 25%, i.e. ₹10,000."
+},
+{
+"n": 15,
+"topic": "Geographical zones",
+"t": "For a private car registered at Pune, the rating zone under GR-10 is",
+"o": [
+"Zone A",
+"Zone B",
+"Zone C",
+"Depends on the owner's residence"
+],
+"a": 0,
+"e": "For private cars and two wheelers, Zone A comprises Ahmedabad, Bangalore, Chennai, Hyderabad, Kolkata, Mumbai, New Delhi and Pune."
+},
+{
+"n": 16,
+"topic": "Driving licence",
+"t": "Under Section 19, on a first offence referred by the licensing authority, the driver may be disqualified from holding a licence for",
+"o": [
+"1 month",
+"3 months",
+"6 months",
+"1 year"
+],
+"a": 1,
+"e": "★ Key fact (repeated across the mocks of this paper). First offence attracts disqualification of 3 months; a second or subsequent offence leads to revocation, and a refresher course is required before return of the licence.",
+"r": "key"
+},
+{
+"n": 17,
+"topic": "Geographical zones",
+"t": "A goods carrying truck registered at Jaipur (a State capital) falls in",
+"o": [
+"Zone A",
+"Zone C",
+"Zone D",
+"Zone B"
+],
+"a": 3,
+"e": "For commercial vehicles (other than 4.C.1/4.C.4), Zone A is the four metros, Zone B all other State capitals and Zone C the rest of India."
+},
+{
+"n": 18,
+"topic": "General Regulations",
+"t": "Short period cover or renewal under GR-12 is not permissible for",
+"o": [
+"Package policies",
+"Two wheeler policies",
+"Liability Only policies",
+"Commercial vehicle policies"
+],
+"a": 2,
+"e": "GR-12 notes that short period covers and renewals are not permissible for Liability Only policies."
+},
+{
+"n": 19,
+"topic": "General Regulations",
+"t": "The minimum premium per vehicle for a vehicle specially modified for use of a handicapped person is",
+"o": [
+"₹25",
+"₹50",
+"₹100",
+"₹200"
+],
+"a": 0,
+"e": "GR-16 prescribes ₹25 for vehicles designed/modified for blind, handicapped or mentally challenged persons and ₹100 for all other vehicles."
+},
+{
+"n": 20,
+"topic": "Cover note",
+"t": "A cover note under GR-22 is issued in which form and is valid for how long?",
+"o": [
+"Form 52, 60 days",
+"Form 51, 30 days",
+"Form 51, 60 days",
+"Form 52, 90 days"
+],
+"a": 0,
+"e": "Cover notes are in Form 52 under Rule 142(1) CMVR 1989 and are valid for 60 days; Form 51 is the certificate of insurance."
+},
+{
+"n": 21,
+"topic": "Cancellation",
+"t": "When the insurer cancels a motor policy, it must give notice by recorded delivery of",
+"o": [
+"7 days with pro-rata refund",
+"15 days with short period refund",
+"30 days with pro-rata refund",
+"7 days with no refund"
+],
+"a": 0,
+"e": "GR-24: insurer cancels with 7 days notice and refunds pro-rata premium; cancellation at the insured's request retains premium on short period scale."
+},
+{
+"n": 22,
+"topic": "No Claim Bonus",
+"t": "Own damage premium is ₹12,000 and the insured has completed four consecutive claim-free years. The NCB amount is",
+"o": [
+"₹4,200",
+"₹5,400",
+"₹6,000",
+"₹6,600"
+],
+"a": 3,
+"e": "NCB after 4 completed claim-free years is 45%; 45% of ₹12,000 is ₹6,600."
+},
+{
+"n": 23,
+"topic": "No Claim Bonus",
+"t": "A policy expired on 1 March and the insured approaches for renewal on 15 June of the same year. His NCB entitlement is",
+"o": [
+"Retained in full",
+"Reduced by one slab",
+"Nil, as renewal is beyond 90 days of expiry",
+"Retained if a no-claim declaration is given"
+],
+"a": 2,
+"e": "GR-27: no NCB is allowed if the policy is not renewed within 90 days of expiry (365 days only for military personnel in forward areas with a declaration)."
+},
+{
+"n": 24,
+"topic": "No Claim Bonus",
+"t": "On accepting an NCB declaration from a new customer, the insurer must write to the previous insurer within",
+"o": [
+"7 days",
+"15 days",
+"21 days",
+"30 days"
+],
+"a": 2,
+"e": "The granting insurer must write within 21 days and the previous insurer must confirm within 30 days; failure by either is a breach of tariff."
+},
+{
+"n": 25,
+"topic": "Discounts",
+"t": "OD premium on a private car is ₹6,000 and the insured is an Automobile Association member. The AA discount allowed is",
+"o": [
+"₹150",
+"₹300",
+"₹500",
+"₹200"
+],
+"a": 3,
+"e": "GR-28 allows 5% of OD premium (₹300) subject to a maximum of ₹200 for cars (₹50 for two wheelers)."
+},
+{
+"n": 26,
+"topic": "Discounts",
+"t": "Anti-theft device discount under GR-30 requires the device to be approved by",
+"o": [
+"Any Automobile Association",
+"ARAI, Pune",
+"Tariff Advisory Committee",
+"The vehicle manufacturer"
+],
+"a": 1,
+"e": "The device must be ARAI-approved and its installation certified by an Automobile Association; discount is 2.5% of OD premium up to ₹500."
+},
+{
+"n": 27,
+"topic": "Fitness and permit",
+"t": "Section 56 provides that a transport vehicle whose fitness certificate has expired shall",
+"o": [
+"Continue to be validly registered for 30 days",
+"Be registered but uninsurable",
+"Be treated as a non-transport vehicle",
+"Not be deemed validly registered under Section 39"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). Without a valid certificate of fitness a transport vehicle is not deemed to be validly registered, which has direct bearing on claim admissibility.",
+"r": "key"
+},
+{
+"n": 28,
+"topic": "Laid-up vehicles",
+"t": "Concession for a laid-up vehicle under GR-31 is available only if the vehicle is not in use for at least",
+"o": [
+"2 consecutive months",
+"1 month",
+"3 consecutive months",
+"6 months"
+],
+"a": 0,
+"e": "The lay-up must be not less than 2 consecutive months, with prior written notice, surrender of the certificate and ₹15 administration charge."
+},
+{
+"n": 29,
+"topic": "Compulsory PA cover",
+"t": "The capital sum insured under the compulsory PA cover for owner-driver is",
+"o": [
+"₹2 lakh",
+"₹5 lakh",
+"₹10 lakh",
+"₹15 lakh"
+],
+"a": 3,
+"e": "GR-36 as revised prescribes CSI of ₹15 lakh for the owner-driver CPA cover."
+},
+{
+"n": 30,
+"topic": "Compulsory PA cover",
+"t": "A private car is owned by a partnership firm. The compulsory PA cover for owner-driver should be",
+"o": [
+"Granted in the name of the managing partner",
+"Granted with CSI of ₹2 lakh only",
+"Not granted and no premium charged",
+"Granted only for the paid driver"
+],
+"a": 2,
+"e": "CPA cover cannot be granted where the vehicle is owned by a company, firm or body corporate, or where the owner has no effective licence; the provision is deleted and no premium charged."
+},
+{
+"n": 31,
+"topic": "Third party property damage",
+"t": "The TPPD limit under a two wheeler policy, unless restricted to the statutory limit, is",
+"o": [
+"₹6,000",
+"₹7.5 lakh",
+"Unlimited",
+"₹1 lakh"
+],
+"a": 3,
+"e": "GR-39: ₹1 lakh for private and commercial two wheelers; ₹7.5 lakh for all other vehicles; the insured may opt to restrict to the statutory limit at inception."
+},
+{
+"n": 32,
+"topic": "Compulsory deductibles",
+"t": "A private car of 1800 cc has an assessed OD loss of ₹25,000 after depreciation. The amount payable after compulsory deductible is",
+"o": [
+"₹24,000",
+"₹23,000",
+"₹24,500",
+"₹22,000"
+],
+"a": 1,
+"e": "GR-40 compulsory deductible for private cars exceeding 1500 cc is ₹2,000, so ₹23,000 is payable."
+},
+{
+"n": 33,
+"topic": "Compulsory deductibles",
+"t": "The compulsory deductible for a goods carrying vehicle of 12,000 kg GVW is",
+"o": [
+"₹500",
+"₹1,000",
+"₹1,500",
+"₹2,000"
+],
+"a": 1,
+"e": "GCVs above 7,500 kg and up to 16,500 kg GVW carry ₹1,000; below 7,500 kg ₹500; above 16,500 kg ₹1,500."
+},
+{
+"n": 34,
+"topic": "Electrical fittings and CNG",
+"t": "Electrical fittings not included in the manufacturer's selling price are valued at ₹50,000. The additional OD premium under GR-41 is",
+"o": [
+"₹1,000",
+"₹2,500",
+"₹5,000",
+"₹2,000"
+],
+"a": 3,
+"e": "GR-41 charges 4% on the value of such fittings, i.e. ₹2,000, provided they are specifically declared."
+},
+{
+"topic": "Insurance Act 1938 – key sections",
+"t": "Under Section 45 of the Insurance Act 1938, a life insurance policy cannot be called in question on any ground after how many years from the date of issue, revival or rider addition, whichever is later?",
+"o": [
+"Two years",
+"Three years",
+"Five years",
+"One year"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). The 2015 amendment made the three-year bar absolute: after three years no policy may be questioned on any ground, including fraud.",
+"r": "core",
+"n": 35
+},
+{
+"n": 36,
+"topic": "Electrical fittings and CNG",
+"t": "For a vehicle fitted with a separately valued RTA-approved CNG kit, the additional premium under GR-42 is",
+"o": [
+"4% on the kit value plus ₹60 for TP",
+"5% extra on OD premium plus ₹60 for TP",
+"4% on the kit value only",
+"₹60 for TP only"
+],
+"a": 0,
+"e": "A separately valued kit is insured at 4% of its value for OD, plus ₹60 towards liability; 5% on OD applies only where kit value is not separately available."
+},
+{
+"n": 37,
+"topic": "Restricted covers",
+"t": "A car kept in a garage and not in use is to be insured for fire and theft only without liability cover. The premium rate is",
+"o": [
+"0.50% of IDV",
+"0.75% of IDV",
+"1% of IDV",
+"25% of OD premium"
+],
+"a": 1,
+"e": "GR-45A: Fire or Theft alone is 0.50% of IDV; Fire and Theft together is 0.75% of IDV, with a written declaration that the vehicle is garaged."
+},
+{
+"n": 38,
+"topic": "Restricted covers",
+"t": "Liability Only Policy with Fire and Theft cover under GR-45B is charged at Liability premium plus",
+"o": [
+"25% of OD premium",
+"30% of OD premium",
+"50% of OD premium",
+"75% of OD premium"
+],
+"a": 2,
+"e": "Fire only adds 25%, theft only 30% and fire plus theft 50% of the appropriate OD premium, subject to minimum premium."
+},
+{
+"n": 39,
+"topic": "Towing and spot repairs",
+"t": "Standard towing charges payable under a private car package policy are limited to",
+"o": [
+"₹300",
+"₹750",
+"₹1,500",
+"₹2,500"
+],
+"a": 2,
+"e": "Towing limits are ₹300 for two wheelers, ₹750 for three wheelers, ₹1,500 for private cars and ₹2,500 for commercial vehicles."
+},
+{
+"n": 40,
+"topic": "Towing and spot repairs",
+"t": "An insured carries out spot repairs on his motor cycle without intimation. Such repairs are permitted up to an estimated cost of",
+"o": [
+"₹150",
+"₹300",
+"₹500",
+"₹750"
+],
+"a": 0,
+"e": "Spot repairs are permitted up to ₹500 for other vehicles and ₹150 for motor cycles."
+},
+{
+"n": 41,
+"topic": "Policy conditions",
+"t": "On the death of an individual insured, the motor policy remains valid in favour of the legal heirs for",
+"o": [
+"30 days or expiry, whichever is earlier",
+"3 months or expiry, whichever is earlier",
+"6 months irrespective of expiry",
+"Till expiry of the policy"
+],
+"a": 1,
+"e": "The policy continues for 3 months from death or until expiry, whichever is earlier, within which heirs must transfer or take a fresh policy."
+},
+{
+"n": 42,
+"topic": "Claims procedure",
+"t": "Under the IRDAI Master Circular dated 11.06.2024 cited by the trainer, a surveyor must be appointed for motor OD claims above",
+"o": [
+"₹20,000",
+"₹25,000",
+"₹50,000",
+"₹1,00,000"
+],
+"a": 2,
+"e": "The 2024 master circular requires surveyor appointment for claims above ₹50,000, allotted within 24 hours on a random tech-based basis."
+},
+{
+"n": 43,
+"topic": "Claims procedure",
+"t": "As per the trainer's summary of the 2024 master circular, the insurer must decide a claim within how many days of receiving the survey report?",
+"o": [
+"7 days",
+"15 days",
+"30 days",
+"45 days"
+],
+"a": 0,
+"e": "The circular requires the survey report within 15 days and the insurer's decision within 7 days thereafter, followed by immediate payment."
+},
+{
+"n": 44,
+"topic": "Survey fees",
+"t": "Under the survey fee schedule w.e.f. 01.10.2022, the fee for a repair estimate of ₹3,00,000 is",
+"o": [
+"₹2,800",
+"₹3,500",
+"₹4,200",
+"₹5,600"
+],
+"a": 1,
+"e": "For estimates between ₹2 lakh and ₹30 lakh the fee is ₹2,800 plus 0.70% on the balance above ₹2 lakh: 2,800 + 700 = ₹3,500."
+},
+{
+"n": 45,
+"topic": "Add-on covers",
+"t": "Which add-on cover pays the difference between the current invoice price and IDV on total loss or theft of a new vehicle?",
+"o": [
+"Nil depreciation cover",
+"Engine protect cover",
+"NCB protection cover",
+"Return to invoice cover"
+],
+"a": 3,
+"e": "Return to Invoice is available for new vehicles owned by the original buyer, covers invoice price minus IDV and also first registration charges and road tax."
+},
+{
+"n": 46,
+"topic": "Motor trade policies",
+"t": "The maximum OD liability of the insurer under a Motor Trade Internal Risks (Class G) package policy for any one accident is",
+"o": [
+"₹25,000",
+"₹50,000",
+"₹1,50,000",
+"Unlimited"
+],
+"a": 1,
+"e": "Class G limits OD to ₹50,000 any one accident; TPPD is ₹1,50,000 and bodily injury unlimited."
+},
+{
+"topic": "Insurance Act 1938 – key sections",
+"t": "Section 41 of the Insurance Act 1938 prohibits:",
+"o": [
+"Assignment of a life policy",
+"Payment of any rebate of premium or commission as an inducement to buy insurance",
+"Nomination by a minor",
+"Issue of a policy without a medical examination"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). Section 41 bars rebating; contravention attracts a penalty of up to ₹10 lakh.",
+"r": "core",
+"n": 47
+},
+{
+"n": 48,
+"topic": "MV Act Chapter XI",
+"t": "Under Section 161 of the MV Act as amended in 2019, compensation for death in a hit-and-run accident is",
+"o": [
+"₹25,000",
+"₹50,000",
+"₹2,00,000",
+"₹5,00,000"
+],
+"a": 2,
+"e": "Section 161 provides ₹2 lakh for death and ₹50,000 for grievous hurt in hit-and-run cases; ₹5 lakh/₹2.5 lakh are the Section 164 no-fault amounts."
+},
+{
+"n": 49,
+"topic": "Claims Tribunal",
+"t": "An appeal against a MACT award lies to the High Court within",
+"o": [
+"30 days",
+"60 days",
+"90 days",
+"180 days"
+],
+"a": 2,
+"e": "Section 173 allows appeal within 90 days, with deposit of ₹25,000 or 50% of the award whichever is less; no appeal if the amount in dispute is below ₹1 lakh."
+},
+{
+"n": 50,
+"topic": "IMT-29 circular",
+"t": "IRDAI's circular of 18 October 2023 directed that IMT-29 cover for employees in an employer's private car be provided",
+"o": [
+"As an optional add-on at ₹50 per employee",
+"Compulsorily as inbuilt cover under the TP section at no additional premium",
+"Only under package policies at 5% extra premium",
+"Only for vehicles owned by companies"
+],
+"a": 1,
+"e": "Following Madras High Court directions, IMT-29 became compulsory inbuilt cover under the TP liability section of private car policies with no additional premium until further directions."
+}
+]

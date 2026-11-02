@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Accounting Standards",
+"t": "Which of the following is NOT a benefit of accounting standards as listed in the material?",
+"o": [
+"Comparability of financial statements",
+"Assisting the auditors",
+"Ensuring uniformity in accounting",
+"Guaranteeing profitability of the entity"
+],
+"a": 3,
+"e": "Benefits listed are uniformity, reliability, comparability, assistance to auditors and measuring management performance; profitability is not guaranteed."
+},
+{
+"n": 2,
+"topic": "Accounting Standards",
+"t": "AS 1 deals with:",
+"o": [
+"Cash flow statements",
+"Revenue recognition",
+"Valuation of inventories",
+"Disclosure of accounting policies"
+],
+"a": 3,
+"e": "AS 1 is Disclosure of Accounting Policies; AS 2 is stock valuation, AS 3 cash flow and AS 9 revenue recognition."
+},
+{
+"n": 3,
+"topic": "Accounting Standards",
+"t": "A large fire claim occurs on 10 April, after the balance sheet date but before the accounts are approved. Which standard governs its treatment?",
+"o": [
+"AS 24 – Discontinued operations",
+"AS 29 – Provisions",
+"AS 4 – Events occurring after the balance sheet date",
+"AS 5 – Prior period items"
+],
+"a": 2,
+"e": "AS 4 deals with events occurring after the balance sheet date and whether they require adjustment or disclosure."
+},
+{
+"n": 4,
+"topic": "Accounting Standards",
+"t": "A small unlisted insurer contends that segment reporting under AS 17 does not apply because its turnover is below the threshold. The correct position is:",
+"o": [
+"AS 17 is not applicable to insurers at all",
+"AS 17 applies only if turnover exceeds ₹500 crore",
+"AS 17 applies only to listed insurers",
+"AS 17 applies to all insurers irrespective of listing and turnover requirements"
+],
+"a": 3,
+"e": "For insurers, AS 17 Segment Reporting applies regardless of the listing and turnover criteria in the standard."
+},
+{
+"n": 5,
+"topic": "Accounting Standards",
+"t": "Which standard enjoys a partial exemption from application as noted in the material?",
+"o": [
+"AS 20 – Earnings Per Share",
+"AS 16 – Borrowing Costs",
+"AS 10 – Property, Plant and Equipment",
+"AS 12 – Government Grants"
+],
+"a": 3,
+"e": "The material notes a partial exemption from application of AS 12 Government Grants."
+},
+{
+"n": 6,
+"topic": "Accounting Principles",
+"t": "Recognising expenses when incurred rather than when paid follows the:",
+"o": [
+"Consistency principle",
+"Conservatism principle",
+"Economic entity principle",
+"Accrual principle"
+],
+"a": 3,
+"e": "Under the accrual principle, revenues and expenses are recognised when earned or incurred, not when cash moves."
+},
+{
+"n": 7,
+"topic": "Accounting Principles",
+"t": "Providing for probable losses on doubtful outstanding premium while not anticipating unrealised gains reflects the:",
+"o": [
+"Accrual principle",
+"Conservatism principle",
+"Economic entity principle",
+"Going concern principle"
+],
+"a": 1,
+"e": "Conservatism (prudence) requires anticipating losses but not gains."
+},
+{
+"n": 8,
+"topic": "Accounting Principles",
+"t": "If capital is ₹300 crore and liabilities are ₹1,700 crore, total assets as per the accounting equation are:",
+"o": [
+"₹1,700 crore",
+"₹300 crore",
+"₹2,000 crore",
+"₹1,400 crore"
+],
+"a": 2,
+"e": "Assets = Capital + Liabilities = 300 + 1,700 = ₹2,000 crore."
+},
+{
+"n": 9,
+"topic": "Companies Act 2013",
+"t": "Which section of the Companies Act, 2013 requires every company to have a Board of Directors?",
+"o": [
+"Section 135",
+"Section 128",
+"Section 149",
+"Section 139"
+],
+"a": 2,
+"e": "Section 149 provides that a company shall have a Board of Directors."
+},
+{
+"n": 10,
+"topic": "Companies Act 2013",
+"t": "Corporate Social Responsibility (CSR) is governed by which section of the Companies Act, 2013?",
+"o": [
+"Section 135",
+"Section 138",
+"Section 149",
+"Section 177"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). Section 135 of the Companies Act, 2013 deals with CSR; 138 is internal audit, 149 Board of Directors and 177 Audit Committee.",
+"r": "key"
+},
+{
+"n": 11,
+"topic": "Companies Act 2013",
+"t": "Internal audit is mandated under which section of the Companies Act, 2013?",
+"o": [
+"Section 138",
+"Section 135",
+"Section 149",
+"Section 177"
+],
+"a": 0,
+"e": "Section 138 deals with internal audit; Section 177 deals with the Audit Committee."
+},
+{
+"n": 12,
+"topic": "Accounting Abbreviations",
+"t": "KMP, a term used in the Companies Act and accounting, expands to:",
+"o": [
+"Knowledge Management Process",
+"Key Monetary Policy",
+"Key Management Person",
+"Key Market Participant"
+],
+"a": 2,
+"e": "KMP refers to Key Management Person(nel) such as the CEO, CFO and Company Secretary."
+},
+{
+"n": 13,
+"topic": "Accounting Abbreviations",
+"t": "NCLAT stands for:",
+"o": [
+"National Commercial Law Advisory Team",
+"National Company Law Appellate Tribunal",
+"National Company Legal Audit Tribunal",
+"National Corporate Litigation and Arbitration Tribunal"
+],
+"a": 1,
+"e": "NCLAT is the appellate body over NCLT (National Company Law Tribunal)."
+},
+{
+"n": 14,
+"topic": "Supplement: Insurance Act and IRDAI Rules",
+"t": "Under Section 64VB of the Insurance Act, 1938, an insurer may assume a risk only when:",
+"o": [
+"The premium is received in advance or guaranteed to be paid in the prescribed manner",
+"The proposal form is signed by the proposer",
+"The policy document has been issued",
+"The agent has collected the premium cheque"
+],
+"a": 0,
+"e": "Section 64VB prohibits assumption of risk unless the premium is received in advance or is guaranteed/deposited as prescribed."
+},
+{
+"n": 15,
+"topic": "Bank Reconciliation Statement",
+"t": "Pass book shows a favourable balance of ₹3,20,000. Cheques issued but not presented ₹60,000; cheques deposited but not collected ₹45,000; interest of ₹5,000 credited by bank not recorded in the cash book. Balance as per cash book is:",
+"o": [
+"₹3,10,000",
+"₹3,40,000",
+"₹3,30,000",
+"₹3,00,000"
+],
+"a": 3,
+"e": "Starting from pass book: 3,20,000 − 60,000 + 45,000 − 5,000 = ₹3,00,000."
+},
+{
+"n": 16,
+"topic": "IFRS and Ind AS",
+"t": "From 2018, Ind AS adoption was widened to NBFCs having net worth:",
+"o": [
+"Of any amount",
+"More than ₹100 crore",
+"More than ₹250 crore but less than ₹500 crore",
+"More than ₹1,000 crore"
+],
+"a": 2,
+"e": "The 2018 phase covered NBFCs with net worth of ₹250 crore or more but below ₹500 crore, besides all listed companies."
+},
+{
+"n": 17,
+"topic": "IFRS and Ind AS",
+"t": "IFRS 17 deals with:",
+"o": [
+"Leases",
+"Financial instruments",
+"Revenue from contracts with customers",
+"Insurance contracts of an insurer and reinsurance"
+],
+"a": 3,
+"e": "IFRS 17 (and Ind AS 117) covers accounting for insurance and reinsurance contracts."
+},
+{
+"n": 18,
+"topic": "Supplement: Insurance Act and IRDAI Rules",
+"t": "Under Ind AS 117, the simplified Premium Allocation Approach (PAA) is typically available for contracts with a coverage period of:",
+"o": [
+"One year or less",
+"Five years or less",
+"More than ten years",
+"Any period, at the insurer's option"
+],
+"a": 0,
+"e": "PAA is permitted for short-duration contracts (coverage of one year or less) or where it approximates the general model, making it relevant to most general insurance business."
+},
+{
+"n": 19,
+"topic": "Solvency Margin",
+"t": "Available Solvency Margin is ₹2,700 crore and Required Solvency Margin ₹1,500 crore. The solvency ratio is:",
+"o": [
+"1.80",
+"1.50",
+"2.70",
+"0.56"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). Solvency ratio = ASM / RSM = 2,700 / 1,500 = 1.80.",
+"r": "key"
+},
+{
+"n": 20,
+"topic": "IRDAI AFI Regulations 2024",
+"t": "Under the IRDAI (Actuarial, Finance and Investment Functions of Insurers) Regulations, 2024, Schedule I relates to:",
+"o": [
+"Actuarial functions",
+"Investment functions",
+"Inspection and supply of returns",
+"Finance functions"
+],
+"a": 0,
+"e": "Schedule I covers actuarial functions; finance is Schedule II and investment Schedule III."
+},
+{
+"n": 21,
+"topic": "Premium Definitions",
+"t": "A premium cheque is received on 25 March for a policy whose risk incepts on 10 April. In the accounts for the year ending 31 March, the amount is shown as:",
+"o": [
+"Sundry creditors",
+"Premium received in advance under current liabilities",
+"Unearned premium reserve",
+"Gross direct premium of the current year"
+],
+"a": 1,
+"e": "Where the inception of risk falls outside the accounting period, the amount is premium received in advance and is a current liability."
+},
+{
+"n": 22,
+"topic": "Claims and Reserves",
+"t": "Gross claims paid ₹500 crore and reinsurance recoveries on claims ₹120 crore. Net claims paid are:",
+"o": [
+"₹120 crore",
+"₹380 crore",
+"₹620 crore",
+"₹500 crore"
+],
+"a": 1,
+"e": "Net claims = gross claims less reinsurance recoveries = 500 − 120 = ₹380 crore."
+},
+{
+"n": 23,
+"topic": "Claims and Reserves",
+"t": "Net claims paid ₹380 crore; net outstanding claims (including IBNR) at year end ₹640 crore and at the beginning ₹600 crore. Net Incurred Claims are:",
+"o": [
+"₹340 crore",
+"₹420 crore",
+"₹1,020 crore",
+"₹1,620 crore"
+],
+"a": 1,
+"e": "Net incurred = 380 + 640 − 600 = ₹420 crore."
+},
+{
+"n": 24,
+"topic": "Premium Definitions",
+"t": "Net Written Premium ₹2,400 crore; opening UPR ₹1,300 crore; closing UPR ₹1,200 crore. Net Earned Premium is:",
+"o": [
+"₹2,500 crore",
+"₹1,100 crore",
+"₹2,300 crore",
+"₹2,400 crore"
+],
+"a": 0,
+"e": "A release of UPR adds to earned premium: 2,400 − (1,200 − 1,300) = ₹2,500 crore."
+},
+{
+"n": 25,
+"topic": "Solvency Margin",
+"t": "A premium receivable under PMFBY from the State Government has been outstanding for 300 days. For solvency purposes it is:",
+"o": [
+"Admissible, as the limit for government-sponsored schemes is 365 days",
+"Admissible at 50 percent",
+"Valued at zero, as the limit is 180 days",
+"Valued at zero, as the limit is 30 days"
+],
+"a": 0,
+"e": "Premiums receivable under State/Central government sponsored schemes are placed at zero only if not realised within 365 days."
+},
+{
+"n": 26,
+"topic": "Solvency Margin",
+"t": "A balance of ₹15 crore due from a foreign reinsurer with no branch in India has been outstanding for 200 days. For solvency computation the amount is:",
+"o": [
+"Admissible in full, as reinsurer balances are always admissible",
+"Valued at zero, as the limit for such reinsurers is 180 days",
+"Valued at zero, as the limit is 90 days",
+"Admissible in full, as the limit is 365 days"
+],
+"a": 1,
+"e": "Reinsurers' balances other than Indian reinsurers and foreign reinsurers with branches in India are placed at zero if outstanding beyond 180 days."
+},
+{
+"n": 27,
+"topic": "Investment Valuation",
+"t": "Listed equity shares costing ₹120 crore have a fair value of ₹150 crore on the balance sheet date. The ₹30 crore difference is:",
+"o": [
+"Credited to the Revenue Account",
+"Credited to the Fair Value Change Account under equity",
+"Credited to the Profit and Loss Account",
+"Credited to the Revaluation Reserve"
+],
+"a": 1,
+"e": "★ Key fact (repeated across the mocks of this paper). Unrealised gains or losses on actively traded equity are taken to the Fair Value Change Account, not to profit.",
+"r": "key"
+},
+{
+"n": 28,
+"topic": "Solvency Margin",
+"t": "Which of the following assets is placed at zero value for solvency computation regardless of age?",
+"o": [
+"Government securities",
+"Cash and bank balances",
+"Listed equity shares",
+"Furniture, fixtures, dead stock and stationery"
+],
+"a": 3,
+"e": "Furniture, fixtures, dead stock, stationery, deferred expenses and fictitious assets are placed at zero value."
+},
+{
+"n": 29,
+"topic": "Solvency Margin",
+"t": "RSM 2 is determined as:",
+"o": [
+"30% of the higher of Gross Incurred Claims × Factor B and Net Incurred Claims",
+"20% of Gross Incurred Claims only",
+"30% of Net Incurred Claims only",
+"20% of the higher of Gross Incurred Claims × Factor B and Net Incurred Claims"
+],
+"a": 0,
+"e": "RSM 2 (claims basis) is 30% of the higher of gross incurred claims multiplied by Factor B and net incurred claims."
+},
+{
+"n": 30,
+"topic": "Solvency Margin",
+"t": "Gross Incurred Claims × Factor B = ₹1,100 crore and Net Incurred Claims = ₹1,250 crore. RSM 2 is:",
+"o": [
+"₹330 crore",
+"₹220 crore",
+"₹250 crore",
+"₹375 crore"
+],
+"a": 3,
+"e": "RSM 2 = 30% of the higher amount, 1,250 × 30% = ₹375 crore."
+},
+{
+"n": 31,
+"topic": "Solvency Margin",
+"t": "For a line of business RSM 1 is ₹420 crore and RSM 2 is ₹450 crore. The RSM for that line is:",
+"o": [
+"₹420 crore",
+"₹870 crore",
+"₹450 crore",
+"₹435 crore"
+],
+"a": 2,
+"e": "RSM is the higher of RSM 1 and RSM 2 for each line, so ₹450 crore."
+},
+{
+"n": 32,
+"topic": "Solvency Margin",
+"t": "ASM ₹1,800 crore and RSM ₹1,350 crore. What is the insurer's position vis-à-vis the regulatory control level?",
+"o": [
+"Ratio 1.33, above the required 1.00",
+"Ratio 0.75, below the required 1.00",
+"Ratio 1.33, below the required 1.50",
+"Ratio 1.50, exactly at the control level"
+],
+"a": 2,
+"e": "1,800 / 1,350 = 1.33, which is below the 150% control level of solvency."
+},
+{
+"n": 33,
+"topic": "Cash Flow Statement (AS 3)",
+"t": "The AS 3 cash flow statement provides information about historical changes in:",
+"o": [
+"Working capital",
+"Net worth",
+"Fixed assets",
+"Cash and cash equivalents"
+],
+"a": 3,
+"e": "AS 3 deals with historical changes in cash and cash equivalents classified into operating, investing and financing activities."
+},
+{
+"n": 34,
+"topic": "Premium Recognition and UPR",
+"t": "Net written premium of the Fire segment during the preceding twelve months is ₹400 crore. Under the percentage method the UPR for Fire is:",
+"o": [
+"₹100 crore",
+"₹400 crore",
+"₹300 crore",
+"₹200 crore"
+],
+"a": 3,
+"e": "Segments other than Marine Hull carry UPR at 50% of net written premium: 50% × 400 = ₹200 crore."
+},
+{
+"n": 35,
+"topic": "Premium Recognition and UPR",
+"t": "An annual policy with net premium ₹36,500 incepted on 1 January. Under the unexpired-period (1/365) method, the UPR at 31 March (90 days expired, non-leap year) is:",
+"o": [
+"₹27,500",
+"₹18,250",
+"₹9,000",
+"₹36,500"
+],
+"a": 0,
+"e": "Daily premium ₹100; unexpired days 365 − 90 = 275; UPR = 275 × 100 = ₹27,500."
+},
+{
+"n": 36,
+"topic": "Premium Recognition and UPR",
+"t": "Premium shall be recognised as income:",
+"o": [
+"At the end of the policy period",
+"On the date the proposal is accepted",
+"On receipt of cash",
+"Over the contract period or the period of risk, whichever is appropriate"
+],
+"a": 3,
+"e": "Premium is recognised as income over the contract period or period of risk, whichever is appropriate."
+},
+{
+"topic": "Taxation",
+"t": "Deduction for health insurance premium under Section 80D for an individual below 60 years (self and family) is up to:",
+"o": [
+"₹15,000",
+"₹25,000",
+"₹50,000",
+"₹75,000"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). ₹25,000; ₹50,000 where the insured is a senior citizen; an additional ₹25,000/₹50,000 for parents.",
+"r": "core",
+"n": 37
+},
+{
+"n": 38,
+"topic": "Investment Valuation",
+"t": "Unlisted equity securities and those not actively traded are measured at:",
+"o": [
+"Net realisable value",
+"Historical cost",
+"Fair value through profit and loss",
+"Fair value through FVCA"
+],
+"a": 1,
+"e": "Unlisted and not actively traded equity and derivatives are carried at historical cost."
+},
+{
+"n": 39,
+"topic": "Investment Valuation",
+"t": "Loans made by an insurer are measured at:",
+"o": [
+"Fair value at balance sheet date",
+"Historical cost subject to impairment provisions",
+"Present value of future cash flows",
+"Lower of cost and market value"
+],
+"a": 1,
+"e": "Loans are measured at historical cost subject to impairment provisions."
+},
+{
+"n": 40,
+"topic": "Investment Valuation",
+"t": "An insurer's office building carried at ₹80 crore is revalued to ₹110 crore. The ₹30 crore increase is:",
+"o": [
+"Taken to equity under Revaluation Reserve",
+"Credited to the Revenue Account",
+"Credited to the Fair Value Change Account",
+"Credited to the Profit and Loss Account"
+],
+"a": 0,
+"e": "Changes in carrying amount of real estate are taken to equity under the Revaluation Reserve."
+},
+{
+"n": 41,
+"topic": "Preparation of Financial Statements",
+"t": "Insurers are required to maintain investment accounts separately for:",
+"o": [
+"Shareholders and policyholders",
+"Fire, marine and miscellaneous segments",
+"Indian and foreign business",
+"Equity and debt instruments"
+],
+"a": 0,
+"e": "All insurers must maintain separate investment accounts for shareholders' and policyholders' funds."
+},
+{
+"n": 42,
+"topic": "Preparation of Financial Statements",
+"t": "An amount retained for diminution in the value of investments, where the amount cannot be determined with substantial accuracy, is a:",
+"o": [
+"Reserve",
+"Contingent asset",
+"Provision",
+"Capital reserve"
+],
+"a": 2,
+"e": "A provision is an amount retained for a known liability or loss whose amount cannot be determined with substantial accuracy."
+},
+{
+"n": 43,
+"topic": "Final Accounts and Segments",
+"t": "Form B-PL is the:",
+"o": [
+"Balance Sheet",
+"Profit and Loss Account (Shareholders' Account)",
+"Revenue Account (Policyholders' Account)",
+"Receipts and Payments Account"
+],
+"a": 1,
+"e": "Form B-PL is the shareholders' Profit and Loss Account."
+},
+{
+"n": 44,
+"topic": "Final Accounts and Segments",
+"t": "Under the Health segment, separate schedules are prepared for which sub-segments?",
+"o": [
+"Health, Personal Accident and Travel",
+"Individual, Group and Government health",
+"Health and Critical Illness",
+"Mediclaim and Overseas Travel only"
+],
+"a": 0,
+"e": "Health is split into (a) Health, (b) Personal Accident and (c) Travel sub-segments."
+},
+{
+"topic": "Motor – statutory",
+"t": "Third-party insurance is compulsory for a motor vehicle used in a public place under which section of the Motor Vehicles Act 1988?",
+"o": [
+"Section 140",
+"Section 146",
+"Section 163A",
+"Section 166"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). Section 146 makes TP cover compulsory; Section 164 fixes no-fault compensation (₹5 lakh death / ₹2.5 lakh grievous hurt).",
+"r": "core",
+"n": 45
+},
+{
+"n": 46,
+"topic": "Policyholders' and Shareholders' Funds",
+"t": "Outstanding claims including IBNR ₹3,000 crore; URR ₹2,500 crore; Catastrophe reserve ₹100 crore; Premium deficiency ₹50 crore; other liabilities ₹400 crore; other assets ₹300 crore. Policyholders' Funds are:",
+"o": [
+"₹5,550 crore",
+"₹5,750 crore",
+"₹6,350 crore",
+"₹5,650 crore"
+],
+"a": 1,
+"e": "Policyholders' funds = 3,000 + 2,500 + 100 + 50 + (400 − 300) = ₹5,750 crore."
+},
+{
+"n": 47,
+"topic": "Loans and Advances to Employees",
+"t": "Which of the following is NOT a permitted purpose for loans to full-time employees of an insurer?",
+"o": [
+"Education of the employee's children",
+"Purchase of a car or two-wheeler",
+"Purchase of equity shares",
+"Construction of a house for personal use"
+],
+"a": 2,
+"e": "Permitted purposes are vehicle, computer/electronics, furniture, house, children's education, festival advance and other Board-approved purposes."
+},
+{
+"n": 48,
+"topic": "Capital of Insurers",
+"t": "Minimum paid-up equity capital for a general insurance company is:",
+"o": [
+"₹500 crore",
+"₹200 crore",
+"₹100 crore",
+"₹50 crore"
+],
+"a": 2,
+"e": "General insurance, life insurance and standalone health insurers require ₹100 crore minimum paid-up capital."
+},
+{
+"n": 49,
+"topic": "Expenses of Management",
+"t": "An insurer's foreign branches write gross premium of ₹300 crore. The additional allowable expenses of management on this account are:",
+"o": [
+"₹45 crore",
+"₹15 crore",
+"₹30 crore",
+"₹90 crore"
+],
+"a": 2,
+"e": "10% of gross premium written outside India by foreign branches or IFSC is additionally allowed: 10% × 300 = ₹30 crore."
+},
+{
+"n": 50,
+"topic": "Ratio Analysis",
+"t": "Net premium ₹1,500 crore; gross direct premium income ₹1,900 crore; reinsurance accepted ₹100 crore. Net retention ratio is:",
+"o": [
+"78.9%",
+"75%",
+"79%",
+"80%"
+],
+"a": 1,
+"e": "Net retention ratio = 1,500 / (1,900 + 100) = 75%."
+}
+]

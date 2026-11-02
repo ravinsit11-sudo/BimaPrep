@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "CPA 2019 – Consumer definition",
+"t": "Under which provision of the Consumer Protection Act, 2019 is the term 'consumer' defined?",
+"o": [
+"Section 2(47)",
+"Section 34",
+"Section 2(1)",
+"Section 2(7)"
+],
+"a": 3,
+"e": "Section 2(7) defines a consumer as a person who buys goods or hires/avails services for consideration, paid, promised or under deferred payment. Section 34 deals with District Commission jurisdiction."
+},
+{
+"n": 2,
+"topic": "CPA 2019 – Consumer definition",
+"t": "A hardware dealer buys 200 electric kettles from a manufacturer to stock in his shop. One batch is defective. For a complaint under the Consumer Protection Act, 2019 the dealer is:",
+"o": [
+"Not a consumer, as the goods were obtained for resale",
+"Not a consumer, as the value exceeds ₹50 lakh",
+"A consumer, since consideration was paid",
+"A consumer, since the goods were defective"
+],
+"a": 0,
+"e": "Section 2(7) excludes a person who obtains goods for resale or for any commercial purpose. The dealer bought for resale and therefore cannot file as a consumer."
+},
+{
+"n": 3,
+"topic": "CPA 2019 – Product liability",
+"t": "An online marketplace sold a defective geyser that injured the buyer. In the product liability action the marketplace pleads that it is merely a 'platform/aggregator' and not a seller. Under the 2019 Act this plea:",
+"o": [
+"Is accepted, as platforms are intermediaries under IT law",
+"Is accepted only if the manufacturer is also impleaded",
+"Is not accepted; 'product seller' includes e-commerce platforms",
+"Is accepted if the platform refunds the price"
+],
+"a": 2,
+"e": "'Product seller' includes any person involved in placing the product for a commercial purpose, which covers e-commerce platforms; the defence of being a mere platform or aggregator is not accepted."
+},
+{
+"n": 4,
+"topic": "CPA 2019 – Jurisdiction & limitation",
+"t": "Under Section 34 of the Consumer Protection Act, 2019 the District Commission entertains complaints where the value of goods or services paid as consideration does not exceed:",
+"o": [
+"₹50 lakh",
+"₹1 crore",
+"₹2 crore",
+"₹20 lakh"
+],
+"a": 0,
+"e": "The District Commission's pecuniary jurisdiction is up to ₹50 lakh of consideration paid; above that up to ₹2 crore lies with the State Commission and beyond ₹2 crore with the NCDRC."
+},
+{
+"n": 5,
+"topic": "CPA 2019 – Jurisdiction & limitation",
+"t": "A policyholder paid ₹45,000 premium on a fire policy with a sum insured of ₹5 crore. His claim of ₹1.2 crore is repudiated. Which forum has pecuniary jurisdiction over his consumer complaint?",
+"o": [
+"District Commission, as consideration paid is ₹45,000",
+"State Commission, as the claim exceeds ₹50 lakh",
+"NCDRC, as the sum insured exceeds ₹2 crore",
+"State Commission, as the claim is below ₹2 crore"
+],
+"a": 0,
+"e": "Pecuniary jurisdiction under the 2019 Act is decided by the value of goods or services paid as consideration, i.e. the premium, not the compensation claimed or sum insured. ₹45,000 falls within the District Commission's limit."
+},
+{
+"n": 6,
+"topic": "CPA 2019 – Jurisdiction & limitation",
+"t": "The period of limitation for filing a consumer complaint before a Commission, with power to condone delay, is provided in:",
+"o": [
+"Section 41 – 45 days",
+"Section 73 – 3 years",
+"Section 38 – 1 year",
+"Section 69 – 2 years"
+],
+"a": 3,
+"e": "Section 69 prescribes 2 years from the date on which the cause of action arose, and the Commission may condone delay for sufficient cause."
+},
+{
+"n": 7,
+"topic": "CPA 2019 – Jurisdiction & limitation",
+"t": "A District Commission order against an insurer is pronounced on 1 March. By which date must the insurer's appeal reach the State Commission within the normal limitation period?",
+"o": [
+"15 April",
+"30 April",
+"30 May",
+"31 March"
+],
+"a": 0,
+"e": "Section 41 allows an appeal to the State Commission within 45 days of the District Commission's order; 45 days from 1 March ends on 15 April. Delay beyond that requires condonation."
+},
+{
+"n": 8,
+"topic": "CPA 2019 – Jurisdiction & limitation",
+"t": "On receiving notice of a consumer complaint, the opposite party must file its reply within:",
+"o": [
+"30 days, extendable by a further 15 days",
+"45 days, not extendable",
+"60 days, extendable by 30 days",
+"15 days, extendable by 15 days"
+],
+"a": 0,
+"e": "Sections 38(2)(a) and 38(3)(a) require the written version within 30 days, extendable by a further period not exceeding 15 days."
+},
+{
+"n": 9,
+"topic": "MV Act s.147 – 2019 amendment",
+"t": "Before the 2019 amendment, Section 147(1)(b)(ii) required cover for death or bodily injury of passengers of:",
+"o": [
+"A public service vehicle",
+"A goods carriage only",
+"A private car",
+"Any transport vehicle"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). The un-amended clause referred to passengers of a public service vehicle; the 2019 amendment widened it to passengers of a transport vehicle, excluding gratuitous passengers of a goods vehicle.",
+"r": "key"
+},
+{
+"n": 10,
+"topic": "CPA 2019 – E-filing & place of complaint",
+"t": "A policyholder residing in Jaipur bought a policy from an insurer's Mumbai office and works in Delhi. Under the 2019 Act he may file his consumer complaint:",
+"o": [
+"Only in Mumbai, where the policy was issued",
+"Only where the insurer's registered office is located",
+"At Jaipur or Delhi, i.e. his place of residence or work",
+"Only at the NCDRC in New Delhi"
+],
+"a": 2,
+"e": "The 2019 Act lets the consumer file at the jurisdictional forum of his place of residence or work, departing from the earlier practice of filing at the place of purchase or the seller's office."
+},
+{
+"n": 11,
+"topic": "CPA 2019 – Jurisdiction & limitation",
+"t": "A revision petition before the State Commission under Section 47(1)(b) must be filed within:",
+"o": [
+"30 days",
+"45 days",
+"60 days",
+"90 days"
+],
+"a": 3,
+"e": "Regulation 14(1)(i) of the Consumer Protection (Consumer Commission Procedure) Regulations, 2020 prescribes 90 days for revision petitions before the State Commission and the NCDRC."
+},
+{
+"n": 12,
+"topic": "MV Act s.147 – Requirements of policy",
+"t": "Section 147(1)(a) of the Motor Vehicles Act, 1988 requires that a policy complying with Chapter XI must be issued by:",
+"o": [
+"An authorised insurer",
+"A public-sector insurer only",
+"An insurer approved by the State Transport Authority",
+"Any insurer registered with the Registrar of Companies"
+],
+"a": 0,
+"e": "Section 147(1)(a) mandates that the policy be issued by a person who is an 'authorised insurer', a term defined in Section 145."
+},
+{
+"n": 13,
+"topic": "MV Act s.147 – Requirements of policy",
+"t": "The owner of goods travelling in a goods carriage with his consignment is injured in an accident. Under Section 147(1)(b)(i), liability for his bodily injury:",
+"o": [
+"Must be covered, as the clause includes the owner of goods or his authorised representative carried in the vehicle",
+"Is covered only if a separate passenger premium was paid",
+"Is covered only under the Employees' Compensation Act",
+"Is outside the compulsory cover as he is not a third party"
+],
+"a": 0,
+"e": "Section 147(1)(b)(i) expressly includes death of or bodily injury to any person 'including owner of the goods or his authorised representative carried in the vehicle'."
+},
+{
+"n": 14,
+"topic": "MV Act s.147 – 2019 amendment",
+"t": "After the Motor Vehicles (Amendment) Act, 2019, Section 147(1)(b)(ii) requires the policy to cover death or bodily injury to passengers of a transport vehicle, except:",
+"o": [
+"Passengers travelling without a ticket",
+"Passengers above 60 years of age",
+"Passengers of a stage carriage",
+"Gratuitous passengers of a goods vehicle"
+],
+"a": 3,
+"e": "The amended clause covers any passenger of a transport vehicle 'except gratuitous passengers of a goods vehicle', replacing the earlier reference to passengers of a public service vehicle."
+},
+{
+"n": 15,
+"topic": "MV Act s.147 – Proviso",
+"t": "Under the proviso to Section 147(1), in respect of which employees of the insured is the policy NOT required to cover death or injury arising out of employment beyond the liability under the Workmen's/Employees' Compensation Act?",
+"o": [
+"All employees of the insured wherever they are",
+"Only employees carried in a goods carriage",
+"Only the driver of the vehicle",
+"The driver, the conductor or ticket examiner of a public service vehicle, and employees carried in a goods carriage"
+],
+"a": 3,
+"e": "The proviso lists three categories: (a) employees engaged in driving, (b) conductors or ticket examiners of a public service vehicle, and (c) employees carried in a goods carriage. For them only the Compensation Act liability need be covered."
+},
+{
+"n": 16,
+"topic": "MV Act s.147 – Proviso",
+"t": "A fleet owner's contract with a logistics company makes him liable to pay ₹5 lakh for every late delivery caused by an accident. Under Section 147(1), the motor policy:",
+"o": [
+"Must cover this liability as it arises from use of the vehicle",
+"Must cover it if the vehicle is a goods carriage",
+"Is not required to cover any contractual liability",
+"Must cover it up to ₹6,000 only"
+],
+"a": 2,
+"e": "Proviso (ii) to Section 147(1) states that a policy is not required to cover any contractual liability."
+},
+{
+"n": 17,
+"topic": "MV Act s.147 – Explanation",
+"t": "A truck on a public road skids and crashes into a private compound, injuring a man standing inside his own house. For the purpose of Section 147, the injury is:",
+"o": [
+"Covered only if the compound was open to the public",
+"Covered under the own-damage section of the policy",
+"Not covered, as the victim was not in a public place",
+"Deemed to arise from use of the vehicle in a public place, since the act leading to the accident occurred in a public place"
+],
+"a": 3,
+"e": "The Explanation to Section 147(1) deems the injury or damage to have arisen out of use in a public place if the act or omission that led to the accident occurred in a public place, even though the victim was not in a public place."
+},
+{
+"n": 18,
+"topic": "MV Act s.147 – Limits of liability",
+"t": "Under the un-amended Section 147(2)(a), the policy must cover liability for death or bodily injury of a third party up to:",
+"o": [
+"₹6,000",
+"₹50,000",
+"₹5 lakh",
+"The amount of liability incurred (unlimited)"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). Section 147(2)(a) required cover for 'the amount of liability incurred', i.e. unlimited, whereas clause (b) fixed ₹6,000 for third-party property damage.",
+"r": "key"
+},
+{
+"n": 19,
+"topic": "MV Act s.147 – Limits of liability",
+"t": "A private car policy carries third-party property damage cover restricted to the statutory limit under the un-amended Section 147(2)(b). The insured's car damages a shop front worth ₹25,000. The insurer's liability for the property damage is:",
+"o": [
+"₹25,000",
+"₹7,50,000",
+"₹6,000",
+"₹12,500"
+],
+"a": 2,
+"e": "Section 147(2)(b) (pre-2019) fixed the compulsory limit for damage to third-party property at ₹6,000; where the policy is restricted to this statutory limit, the insurer pays only ₹6,000."
+},
+{
+"n": 20,
+"topic": "MV Act s.147 – 2019 amendment",
+"t": "Under the amended Section 147(2), for third-party insurance relating to death or grievous hurt, the base premium and the insurer's liability are to be prescribed by:",
+"o": [
+"The State Government in consultation with the Transport Commissioner",
+"The Motor Accidents Claims Tribunal",
+"IRDAI in consultation with GIC Re",
+"The Central Government in consultation with IRDAI"
+],
+"a": 3,
+"e": "The 2019 amendment empowers the Central Government to prescribe a base premium and the insurer's liability in relation to that premium, in consultation with the Insurance Regulatory and Development Authority."
+},
+{
+"n": 21,
+"topic": "MV Act s.147 – Certificate of insurance",
+"t": "Under Section 147(3), a motor policy is of no effect for the purposes of Chapter XI unless and until:",
+"o": [
+"The policy is endorsed by the registering authority",
+"The vehicle has a valid fitness certificate",
+"The premium is paid in cash",
+"A certificate of insurance in the prescribed form is issued by the insurer"
+],
+"a": 3,
+"e": "Section 147(3) requires the insurer to issue a certificate of insurance in the prescribed form containing the prescribed particulars; without it the policy has no effect under the Chapter."
+},
+{
+"n": 22,
+"topic": "MV Act s.147 – Cover note",
+"t": "A cover note issued on 1 June valid for 60 days is not followed by a policy. By what date must the insurer notify the registering authority under Section 147?",
+"o": [
+"Within 30 days of expiry, i.e. by 30 August",
+"No notification is required if premium was refunded",
+"Within 7 days of issue of the cover note, i.e. by 8 June",
+"Within 7 days of expiry of the cover note's validity, i.e. by 7 August"
+],
+"a": 3,
+"e": "Section 147 (sub-section (4) old / (5) amended) requires the insurer, within seven days of the expiry of the cover note's validity, to notify the registering authority or other authority prescribed by the State Government. A 60-day note from 1 June expires 31 July."
+},
+{
+"n": 23,
+"topic": "MV Act – Chapters X–XII",
+"t": "Under Section 164 of the Motor Vehicles Act (as amended in 2019), the no-fault compensation payable by the owner/insurer for death and grievous hurt respectively is:",
+"o": [
+"₹50,000 and ₹25,000",
+"₹2 lakh and ₹50,000",
+"₹5 lakh and ₹2.5 lakh",
+"₹10 lakh and ₹5 lakh"
+],
+"a": 2,
+"e": "Section 164 replaced the old Section 140/163A and fixes ₹5 lakh for death and ₹2.5 lakh for grievous hurt, payable without the claimant having to prove fault."
+},
+{
+"n": 24,
+"topic": "MV Act – Chapters X–XII",
+"t": "A pedestrian is killed by an unidentified vehicle. Under the hit-and-run provisions (Section 161) as amended in 2019 and the 2022 Scheme, the compensation for death is:",
+"o": [
+"₹25,000",
+"₹50,000",
+"₹1 lakh",
+"₹2 lakh"
+],
+"a": 3,
+"e": "The amended Section 161 and the Compensation to Victims of Hit and Run Motor Accidents Scheme, 2022 provide ₹2 lakh for death and ₹50,000 for grievous hurt, up from ₹25,000 and ₹12,500."
+},
+{
+"n": 25,
+"topic": "MV Act – Chapters X–XII",
+"t": "The 2019 amendment to Section 166 reintroduced a limitation period for filing a claim application before the Claims Tribunal of:",
+"o": [
+"1 year from the accident",
+"2 years from the accident",
+"3 months from the accident",
+"6 months from the accident"
+],
+"a": 3,
+"e": "Section 166(3) as inserted in 2019 provides that no application for compensation shall be entertained unless made within six months of the occurrence of the accident."
+},
+{
+"n": 26,
+"topic": "MV Act s.147 – 2019 amendment",
+"t": "The amended Section 147(2) refers to prescribing a base premium for third-party insurance in respect of:",
+"o": [
+"Death or grievous hurt to a person",
+"Property damage only",
+"Own-damage of the insured vehicle",
+"Passengers of a goods vehicle"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). The amended sub-section covers third-party insurance related to either death of a person or grievous hurt, for which the Central Government prescribes a base premium and insurer's liability.",
+"r": "key"
+},
+{
+"n": 27,
+"topic": "MV Act – Chapters X–XII",
+"t": "Motor Accidents Claims Tribunals under Section 165 are constituted by:",
+"o": [
+"The Central Government",
+"The State Government",
+"The High Court of the State",
+"IRDAI"
+],
+"a": 1,
+"e": "Section 165 empowers a State Government to constitute one or more Motor Accidents Claims Tribunals for specified areas by notification."
+},
+{
+"n": 28,
+"topic": "MV Act – Chapters X–XII",
+"t": "A Claims Tribunal awards ₹6 lakh against an insurer, which wishes to appeal to the High Court under Section 173. What amount must the insurer deposit with the appeal?",
+"o": [
+"₹25,000",
+"₹3,00,000",
+"₹6,00,000",
+"₹1,00,000"
+],
+"a": 0,
+"e": "Section 173 requires deposit of ₹25,000 or 50% of the amount awarded, whichever is less. 50% of ₹6 lakh is ₹3 lakh, so the lower figure of ₹25,000 applies. The appeal must be filed within 90 days."
+},
+{
+"n": 29,
+"topic": "Insurance Act 1938",
+"t": "Section 64VB of the Insurance Act, 1938 lays down that:",
+"o": [
+"No risk shall be assumed unless the premium is received in advance",
+"Every claim above ₹50,000 needs a surveyor",
+"Agents must not offer rebates",
+"Assets must exceed liabilities by the required solvency margin"
+],
+"a": 0,
+"e": "Section 64VB prohibits an insurer from assuming any risk unless the premium payable is received in advance or guaranteed/deposited in the prescribed manner."
+},
+{
+"n": 30,
+"topic": "Insurance Act 1938",
+"t": "A development officer offers a prospect a share of his commission as an inducement to take a policy. Under Section 41 of the Insurance Act, 1938 the penalty for such rebating may extend to:",
+"o": [
+"₹500",
+"₹1 lakh",
+"₹10 lakh",
+"₹1 crore"
+],
+"a": 2,
+"e": "Section 41 prohibits rebates of premium or commission as inducement; after the 2015 amendment the penalty may extend to ₹10 lakh."
+},
+{
+"n": 31,
+"topic": "Insurance Act 1938",
+"t": "Under Section 64UM read with the IRDAI surveyor regulations, a licensed/registered surveyor's report is mandatory before settling a claim exceeding:",
+"o": [
+"₹20,000 for motor and ₹50,000 for others",
+"₹50,000 for motor and ₹1 lakh for other classes",
+"₹1 lakh for all classes",
+"₹5 lakh for all classes"
+],
+"a": 1,
+"e": "Section 64UM(2) read with the surveyor regulations fixes the threshold at ₹50,000 for motor claims and ₹1,00,000 for other claims, above which a surveyor must be appointed."
+},
+{
+"n": 32,
+"topic": "Insurance Act 1938",
+"t": "Under Section 45 of the Insurance Act, 1938 a life policy cannot be called in question on any ground after:",
+"o": [
+"1 year from issue",
+"2 years from issue",
+"3 years from issue, revival or rider addition, whichever is later",
+"5 years from issue"
+],
+"a": 2,
+"e": "Section 45 (as amended in 2015) bars any challenge to a life policy after three years from the date of issue, commencement of risk, revival or rider, whichever is later, even on the ground of fraud."
+},
+{
+"n": 33,
+"topic": "Insurance Act 1938",
+"t": "Under Section 64VA, the control level of solvency (required solvency ratio) that an insurer must maintain is:",
+"o": [
+"100%",
+"125%",
+"150%",
+"200%"
+],
+"a": 2,
+"e": "Section 64VA requires assets to exceed liabilities by the required solvency margin; IRDAI prescribes a control level solvency ratio of 150% (1.5 times), below which regulatory action follows."
+},
+{
+"n": 34,
+"topic": "IRDA Act 1999",
+"t": "Under the IRDA Act, 1999 the Authority consists of a Chairperson and:",
+"o": [
+"Not more than 3 whole-time and 2 part-time members",
+"Not more than 5 whole-time and 4 part-time members",
+"Not more than 7 whole-time members only",
+"Not more than 10 members in total, all part-time"
+],
+"a": 1,
+"e": "Section 4 of the IRDA Act provides for a Chairperson, not more than five whole-time members and not more than four part-time members, appointed by the Central Government."
+},
+{
+"n": 35,
+"topic": "IRDAI PPHI Regulations 2024",
+"t": "Under the IRDAI (Protection of Policyholders' Interests, Operations and Allied Matters of Insurers) Regulations, 2024, the free-look period for a policy with a term of one year or more is:",
+"o": [
+"15 days from receipt of the policy",
+"30 days from receipt of the policy",
+"45 days from receipt of the policy",
+"15 days, or 30 days if sold through distance marketing"
+],
+"a": 1,
+"e": "The 2024 regulations extended the free-look period to 30 days from receipt of the policy document for all policies with a tenure of one year or more, irrespective of the sales channel."
+},
+{
+"n": 36,
+"topic": "IRDAI PPHI Regulations 2024",
+"t": "A motor own-damage claim of ₹3 lakh is intimated on Monday at 10 a.m. Under the 2024 IRDAI policyholder-protection framework, the insurer must appoint a surveyor and the surveyor must submit the report within, respectively:",
+"o": [
+"72 hours and 30 days",
+"24 hours and 15 days",
+"7 days and 30 days",
+"48 hours and 45 days"
+],
+"a": 1,
+"e": "The 2024 regulations and Master Circular require surveyor appointment within 24 hours of intimation and submission of the survey report within 15 days of appointment, with the insurer deciding the claim within 7 days of the report."
+},
+{
+"topic": "IRDAI – regulator",
+"t": "The minimum paid-up equity capital required to start a life or general insurance company in India is:",
+"o": [
+"₹50 crore",
+"₹100 crore",
+"₹200 crore",
+"₹500 crore"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). ₹100 crore for a direct insurer; ₹200 crore for a reinsurer (Section 6 of the Insurance Act).",
+"r": "core",
+"n": 37
+},
+{
+"n": 38,
+"topic": "Insurance Ombudsman Rules",
+"t": "Under the Insurance Ombudsman Rules, 2017 (as amended in 2021), the Ombudsman can entertain complaints where the value of the claim including expenses does not exceed:",
+"o": [
+"₹20 lakh",
+"₹30 lakh",
+"₹50 lakh",
+"₹1 crore"
+],
+"a": 2,
+"e": "The pecuniary limit for complaints before the Insurance Ombudsman is ₹50 lakh, inclusive of expenses claimed."
+},
+{
+"n": 39,
+"topic": "Insurance Ombudsman Rules",
+"t": "An insurer rejected a claim on 10 January 2025. The complainant approaches the Insurance Ombudsman on 20 February 2026. The complaint is:",
+"o": [
+"Maintainable, as it is within 2 years",
+"Not maintainable, as it is beyond one year of the insurer's rejection",
+"Maintainable only if the claim exceeds ₹50 lakh",
+"Not maintainable, as Ombudsman complaints must be within 90 days"
+],
+"a": 1,
+"e": "Under the Ombudsman Rules the complaint must be made within one year of the insurer's rejection or final reply (or of expiry of one month without reply); 20 February 2026 is beyond one year."
+},
+{
+"n": 40,
+"topic": "Public Liability Insurance Act 1991",
+"t": "Under the Public Liability Insurance Act, 1991 the owner handling hazardous substances must take a policy whose amount is not less than the paid-up capital of the undertaking, subject to a maximum of:",
+"o": [
+"₹5 crore",
+"₹15 crore",
+"₹50 crore",
+"₹100 crore"
+],
+"a": 2,
+"e": "The PLI Rules require insurance of not less than the paid-up capital of the undertaking and not more than ₹50 crore; the insurer's liability is capped at ₹5 crore per accident and ₹15 crore per year."
+},
+{
+"n": 41,
+"topic": "Public Liability Insurance Act 1991",
+"t": "A chemical unit pays ₹2 lakh premium for its Public Liability Insurance Act policy. Its mandatory contribution to the Environmental Relief Fund is:",
+"o": [
+"₹20,000",
+"₹1 lakh",
+"₹2 lakh",
+"₹4 lakh"
+],
+"a": 2,
+"e": "Section 7A of the PLI Act requires the owner to contribute to the Environmental Relief Fund an amount equal to the premium paid, collected by the insurer along with the premium."
+},
+{
+"n": 42,
+"topic": "Employees' Compensation Act 1923",
+"t": "A workman aged 30 (relevant factor 207.98) drawing ₹20,000 per month dies in an accident arising out of employment. The compensation payable under the Employees' Compensation Act, 1923 is:",
+"o": [
+"₹12,00,000",
+"₹15,59,850",
+"₹20,79,800",
+"₹18,71,820"
+],
+"a": 1,
+"e": "Death compensation is 50% of monthly wages × relevant factor, or ₹1,20,000, whichever is more, with wages capped at ₹15,000. 50% × 15,000 × 207.98 = ₹15,59,850."
+},
+{
+"n": 43,
+"topic": "Indian Contract Act",
+"t": "In the formation of an insurance contract, the proposal form, the issue of the policy and the premium respectively represent:",
+"o": [
+"Acceptance, offer and consideration",
+"Offer, acceptance and consideration",
+"Consideration, offer and acceptance",
+"Offer, consideration and acceptance"
+],
+"a": 1,
+"e": "The proposal is the offer by the proposer, the insurer's issue of the policy (or acceptance letter) is the acceptance, and the premium is the consideration, satisfying Section 10 of the Contract Act."
+},
+{
+"n": 44,
+"topic": "Indian Contract Act",
+"t": "Although Section 30 of the Indian Contract Act makes wagering agreements void, an insurance contract is enforceable because:",
+"o": [
+"The premium is paid in advance under Section 64VB",
+"The insured has an insurable interest in the subject matter",
+"It is approved by IRDAI",
+"It is in writing"
+],
+"a": 1,
+"e": "Insurable interest distinguishes insurance from a wager: the insured stands to lose on the happening of the event, so the contract is one of indemnity, not a bet."
+},
+{
+"topic": "IRDAI – regulator",
+"t": "The control level of solvency ratio that every insurer must maintain is:",
+"o": [
+"100%",
+"125%",
+"150%",
+"200%"
+],
+"a": 2,
+"e": "★ Core fact (asked across III papers). Available solvency margin must be at least 150% of the required solvency margin; falling below triggers IRDAI action.",
+"r": "core",
+"n": 45
+},
+{
+"n": 46,
+"topic": "Limitation Act 1963",
+"t": "The period of limitation under the Limitation Act, 1963 for a civil suit against an insurer on a policy of insurance is:",
+"o": [
+"1 year",
+"2 years",
+"3 years",
+"12 years"
+],
+"a": 2,
+"e": "Article 44 of the Schedule to the Limitation Act provides three years for suits against an insurer on a policy, running from the occurrence of the loss or the date the claim is denied."
+},
+{
+"n": 47,
+"topic": "Arbitration & Conciliation Act 1996",
+"t": "An arbitral award on quantum under a fire policy is received by the insurer on 1 April. An application to set it aside under Section 34 must ordinarily be filed within:",
+"o": [
+"30 days, extendable by 15 days",
+"3 months, extendable by a further 30 days",
+"6 months",
+"1 year"
+],
+"a": 1,
+"e": "Section 34(3) requires the application within three months of receipt of the award; the court may condone a further 30 days but not thereafter."
+},
+{
+"n": 48,
+"topic": "PMLA / KYC",
+"t": "Under the Prevention of Money Laundering Act, 2002 and its Rules, an insurer as a reporting entity must report cash transactions to FIU-IND where the amount in a month is:",
+"o": [
+"₹50,000 or more",
+"₹2 lakh or more",
+"₹10 lakh or more (or integrally connected transactions aggregating to ₹10 lakh)",
+"₹1 crore or more"
+],
+"a": 2,
+"e": "Cash Transaction Reports cover cash transactions of ₹10 lakh and above, including integrally connected transactions aggregating to that amount in a month; records are kept for five years."
+},
+{
+"n": 49,
+"topic": "PMLA / KYC",
+"t": "As per IRDAI's AML/CFT framework, KYC became mandatory for all new general insurance policies, including motor, with effect from:",
+"o": [
+"1 April 2020",
+"1 January 2023",
+"1 April 2024",
+"1 October 2017"
+],
+"a": 1,
+"e": "IRDAI's AML Master Guidelines 2022 made KYC mandatory for all insurance policies, including general insurance, from 1 January 2023, irrespective of premium amount."
+},
+{
+"n": 50,
+"topic": "RTI Act 2005",
+"t": "A Public Information Officer of a PSU insurer replies to an RTI application 50 days after receipt without reasonable cause. The penalty the Information Commission may impose is:",
+"o": [
+"₹250 per day for the 20 days' delay, i.e. ₹5,000",
+"₹250 per day for all 50 days, i.e. ₹12,500",
+"A flat ₹25,000",
+"₹100 per day, i.e. ₹2,000"
+],
+"a": 0,
+"e": "Section 7 requires a reply within 30 days; Section 20 imposes ₹250 per day of delay, subject to a maximum of ₹25,000. The delay is 20 days, so ₹5,000."
+}
+]

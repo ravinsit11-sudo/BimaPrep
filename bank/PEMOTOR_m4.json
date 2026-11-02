@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "History of motor insurance",
+"t": "India's first legislation making third party motor insurance compulsory was the",
+"o": [
+"Motor Vehicles Act 1939",
+"Motor Vehicles Act 1988",
+"Insurance Act 1938",
+"Road Traffic Act 1934"
+],
+"a": 0,
+"e": "The Motor Vehicles Act 1939, effective 01.07.1939, introduced compulsory TP insurance along with licensing and traffic regulation in India."
+},
+{
+"n": 2,
+"topic": "History of motor insurance",
+"t": "The 1988 Motor Vehicles Act was enacted on the recommendations of a committee of experts appointed in 1985 by",
+"o": [
+"IRDAI",
+"Tariff Advisory Committee",
+"GIC",
+"Law Commission"
+],
+"a": 2,
+"e": "A GIC-appointed expert committee of 1985 led to the 1988 Act; the 1994 amendment added Sections 163A/163B on structured formula compensation."
+},
+{
+"n": 3,
+"topic": "Motor tariff",
+"t": "Which of the following is one of the three categories of vehicles for motor insurance purposes?",
+"o": [
+"Commercial vehicles",
+"Vintage vehicles",
+"Government vehicles",
+"Electric vehicles"
+],
+"a": 0,
+"e": "The three classes are private cars, motorised two wheelers and commercial vehicles (GCCV, PCCV and miscellaneous)."
+},
+{
+"n": 4,
+"topic": "Principles of insurance",
+"t": "Insurable interest in a motor vehicle may vest in all of the following EXCEPT",
+"o": [
+"The registered owner",
+"A dealer holding stock",
+"A hire purchase financier",
+"A regular passenger of the vehicle"
+],
+"a": 3,
+"e": "Owner, dealer, hire purchase and hypothecation parties have insurable interest; a passenger has none in the vehicle itself."
+},
+{
+"n": 5,
+"topic": "Driving licence",
+"t": "The 1994 amendment to the MV Act (effective 14.11.1994) replaced medium and heavy goods/passenger vehicle categories with the single entry",
+"o": [
+"Transport vehicle",
+"Commercial vehicle",
+"Public service vehicle",
+"Goods carriage"
+],
+"a": 0,
+"e": "The amendment merged MGV/MPV/HGV/HPV into 'Transport Vehicle' and replaced 'without gear' with 'up to 50 cc'."
+},
+{
+"n": 6,
+"topic": "Driving licence",
+"t": "A road roller driving licence is valid for",
+"o": [
+"3 years with medical certificate",
+"5 years without medical",
+"10 years",
+"Till age 40"
+],
+"a": 0,
+"e": "Road roller licences are valid for 3 years, minimum age 20, and require a medical certificate."
+},
+{
+"n": 7,
+"topic": "Driving licence",
+"t": "A licence for a geared motor cycle issued to a driver aged 52 is valid until",
+"o": [
+"5 years from issue",
+"10 years from issue",
+"The driver attains 60 years",
+"The driver attains 65 years"
+],
+"a": 2,
+"e": "For a driver above 50 but below 55 at issue, validity runs till age 60; above 55 it is 5 years."
+},
+{
+"n": 8,
+"topic": "Registration certificate",
+"t": "An owner must apply for registration within how many days of taking delivery of a vehicle?",
+"o": [
+"7 days",
+"14 days",
+"30 days",
+"45 days"
+],
+"a": 0,
+"e": "The application for registration is to be made within 7 days of delivery; temporary registration is valid for one month."
+},
+{
+"n": 9,
+"topic": "Registration certificate",
+"t": "Under Section 55, if a vehicle is found used in an offence under Section 199A, the RC may be cancelled for",
+"o": [
+"Six months",
+"One year",
+"Three years",
+"Permanently"
+],
+"a": 1,
+"e": "After hearing the owner, the authority may cancel the RC for one year, after which fresh registration can be applied for."
+},
+{
+"n": 10,
+"topic": "Depreciation on parts",
+"t": "Metal parts worth ₹40,000 are replaced on a car aged 3 years 8 months. The depreciation deducted on these parts is",
+"o": [
+"₹6,000",
+"₹10,000",
+"₹14,000",
+"₹16,000"
+],
+"a": 1,
+"e": "★ Key fact (repeated across the mocks of this paper). For a vehicle above 3 years but below 4 years, depreciation on metal parts is 25%, i.e. ₹10,000.",
+"r": "key"
+},
+{
+"n": 11,
+"topic": "Fitness and permit",
+"t": "A certificate of fitness for a transport vehicle on renewal is valid for",
+"o": [
+"6 months",
+"1 year",
+"2 years",
+"3 years"
+],
+"a": 1,
+"e": "Fitness is valid 2 years for a brand new transport vehicle and 1 year on each renewal, tested at an automated testing station."
+},
+{
+"n": 12,
+"topic": "Fitness and permit",
+"t": "A permit renewed after a gap of four months takes effect from",
+"o": [
+"The date of renewal",
+"The date of application",
+"The date of expiry of the old permit",
+"The first day of the following month"
+],
+"a": 2,
+"e": "Renewal of a permit takes effect from the date of expiry even when there is a gap in renewal."
+},
+{
+"n": 13,
+"topic": "MV Act definitions",
+"t": "'Golden hour' under Section 2(12A) refers to",
+"o": [
+"The hour after sunrise when visibility is best",
+"The hour within which police must be informed",
+"The time within which an FIR must be lodged",
+"One hour following a traumatic injury when prompt medical care is most likely to prevent death"
+],
+"a": 3,
+"e": "The golden hour is the one hour after trauma with the highest chance of saving life; Section 162 provides for cashless treatment during it."
+},
+{
+"n": 14,
+"topic": "Control of traffic",
+"t": "Under Section 129, the requirement to wear protective headgear on a motorcycle does not apply to",
+"o": [
+"Pillion riders",
+"Persons below 18 years",
+"A Sikh wearing a turban",
+"Drivers on highways only"
+],
+"a": 2,
+"e": "Every person above four years must wear a helmet, except a Sikh wearing a turban while driving or riding."
+},
+{
+"n": 15,
+"topic": "Control of traffic",
+"t": "Under Section 110A, a manufacturer who detects a defect, informs the Central Government and initiates a voluntary recall",
+"o": [
+"Must still pay the prescribed fine",
+"Must replace all vehicles free of cost regardless",
+"Loses the right to manufacture that model",
+"Is not liable to pay fine"
+],
+"a": 3,
+"e": "Voluntary disclosure and recall exempts the manufacturer from fine, though repair, replacement or refund obligations continue."
+},
+{
+"n": 16,
+"topic": "Policy conditions",
+"t": "When the insured cancels the policy, premium is refunded",
+"o": [
+"After retaining premium on short period scale",
+"Pro-rata for the unexpired period",
+"In full if no claim has arisen",
+"Only at renewal"
+],
+"a": 0,
+"e": "Insured-initiated cancellation retains short period premium; insurer-initiated cancellation refunds pro-rata after 7 days notice."
+},
+{
+"n": 17,
+"topic": "Policy conditions",
+"t": "The option to repair, replace or pay in cash after an accident rests with",
+"o": [
+"The insured",
+"The surveyor",
+"The insurer, subject to the IDV",
+"The repairer"
+],
+"a": 2,
+"e": "The policy gives the insurer the option to repair, reinstate or pay in cash, but the liability cannot exceed the IDV."
+},
+{
+"n": 18,
+"topic": "Own damage perils",
+"t": "A car is damaged while being carried by rail. Under Section I this loss is",
+"o": [
+"Excluded as transit risk",
+"Covered only under a marine policy",
+"Covered only if the railway admits liability",
+"Covered, as transit by road, rail, inland waterway, lift, elevator or air is a listed peril"
+],
+"a": 3,
+"e": "Transit by road, rail, inland waterway, lift, elevator or air is an insured peril under Section I."
+},
+{
+"n": 19,
+"topic": "Discounts",
+"t": "OD premium on a private car is ₹6,000 and the insured is an Automobile Association member. The AA discount allowed is",
+"o": [
+"₹150",
+"₹300",
+"₹500",
+"₹200"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). GR-28 allows 5% of OD premium (₹300) subject to a maximum of ₹200 for cars (₹50 for two wheelers).",
+"r": "key"
+},
+{
+"n": 20,
+"topic": "Limitations as to use",
+"t": "For a private car used for driving tuition, the limitations as to use are modified by adding the words",
+"o": [
+"'other than for the purpose of driving tuition' after 'hire or reward'",
+"'including driving tuition' after 'motor trade'",
+"'excluding learner drivers' after 'racing'",
+"'for tuition only' at the beginning"
+],
+"a": 0,
+"e": "The tariff directs insertion of 'other than for the purpose of driving tuition' after the words 'hire or reward' for tuition vehicles."
+},
+{
+"n": 21,
+"topic": "Commercial vehicles",
+"t": "Under IMT-23, items excluded by IMT-21 can be covered on payment of extra premium, with the claim payable at",
+"o": [
+"100%",
+"75%",
+"50%",
+"25%"
+],
+"a": 2,
+"e": "IMT-23 buys back the IMT-21 exclusion for commercial vehicles on extra premium, but only 50% of the loss is payable."
+},
+{
+"n": 22,
+"topic": "Commercial vehicles",
+"t": "A fork lift truck used only within a factory can be insured for damage risks (other than road liability) under",
+"o": [
+"A private car package policy",
+"A motor trade internal risks policy",
+"A liability only policy",
+"A non-motor policy"
+],
+"a": 3,
+"e": "For Class D vehicles such as fork lifts, cranes and excavators, cover other than road legal liability may be given under a non-motor policy."
+},
+{
+"n": 23,
+"topic": "General Regulations",
+"t": "GR-1 provides that motor insurance in India",
+"o": [
+"Cannot be transacted outside the purview of the India Motor Tariff",
+"May be transacted outside the tariff with IRDAI approval",
+"Is optional for government vehicles",
+"Is governed by the Marine tariff for transit"
+],
+"a": 0,
+"e": "GR-1 states that motor insurance in India cannot be transacted outside the purview of the India Motor Tariff."
+},
+{
+"n": 24,
+"topic": "General Regulations",
+"t": "A fresh proposal form is NOT required at renewal when the only change is",
+"o": [
+"Change of insurer",
+"Change in IDV",
+"Addition of CNG kit",
+"Change of registered owner"
+],
+"a": 1,
+"e": "GR-2 requires a written proposal for new insurance and at renewal where there is material alteration, except a change in IDV."
+},
+{
+"n": 25,
+"topic": "IDV",
+"t": "The IDV depreciation for a vehicle aged above 4 years but not exceeding 5 years is",
+"o": [
+"30%",
+"35%",
+"40%",
+"50%"
+],
+"a": 3,
+"e": "The IDV schedule reads 5%, 15%, 20%, 30%, 40% and 50% for the successive age bands up to 5 years."
+},
+{
+"n": 26,
+"topic": "Electrical fittings and CNG",
+"t": "Electrical fittings not included in the manufacturer's selling price are valued at ₹50,000. The additional OD premium under GR-41 is",
+"o": [
+"₹1,000",
+"₹2,500",
+"₹5,000",
+"₹2,000"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). GR-41 charges 4% on the value of such fittings, i.e. ₹2,000, provided they are specifically declared.",
+"r": "key"
+},
+{
+"n": 27,
+"topic": "Depreciation on parts",
+"t": "Partial loss depreciation on parts of a vehicle aged exactly 4 months is",
+"o": [
+"Nil",
+"5%",
+"10%",
+"15%"
+],
+"a": 0,
+"e": "For parts other than rubber/plastic/glass/fibre glass, depreciation is nil below 6 months, 5% for 6 months to 1 year, then 10%, 15%, 25%, 35%, 40% and 50%."
+},
+{
+"n": 28,
+"topic": "Depreciation on parts",
+"t": "A tyre claim of ₹8,000 arises where the vehicle is also damaged in the accident. The amount admissible for the tyre (before deductible) is",
+"o": [
+"₹8,000",
+"₹6,000",
+"₹4,000",
+"Nil"
+],
+"a": 2,
+"e": "Tyres attract 50% depreciation, so ₹4,000 is admissible when the vehicle is damaged at the same time."
+},
+{
+"n": 29,
+"topic": "Geographical zones",
+"t": "A two wheeler registered at Hyderabad falls in which rating zone?",
+"o": [
+"Zone A",
+"Zone B",
+"Zone C",
+"Zone D"
+],
+"a": 0,
+"e": "Hyderabad is among the eight Zone A cities for private cars and two wheelers."
+},
+{
+"n": 30,
+"topic": "Geographical zones",
+"t": "For commercial vehicles other than those under 4.C.1 and 4.C.4, Zone A comprises",
+"o": [
+"Eight metros",
+"Chennai, Delhi, Kolkata and Mumbai",
+"All State capitals",
+"Cities with population above 10 lakh"
+],
+"a": 1,
+"e": "Commercial vehicle zoning: Zone A is the four metros, Zone B other State capitals, Zone C rest of India."
+},
+{
+"n": 31,
+"topic": "No Claim Bonus",
+"t": "NCB is to be computed on the OD premium",
+"o": [
+"After deducting the rebate for vehicle laid up",
+"Before any discount",
+"After adding loadings only",
+"On the IDV"
+],
+"a": 0,
+"e": "GR-27 directs NCB to be computed on OD premium after deducting the laid-up vehicle rebate."
+},
+{
+"n": 32,
+"topic": "No Claim Bonus",
+"t": "An insured sells his car and does not replace it immediately. His NCB certificate remains valid for",
+"o": [
+"90 days from expiry",
+"1 year from expiry",
+"3 years from the expiry date of the previous insurance",
+"Indefinitely"
+],
+"a": 2,
+"e": "GR-27: on sale without immediate replacement, NCB certificate is valid for 3 years from expiry of the previous insurance."
+},
+{
+"n": 33,
+"topic": "Discounts",
+"t": "If Automobile Association membership is cancelled during the policy currency, the insurer should",
+"o": [
+"Ignore it till renewal",
+"Recover the discount on a pro-rata basis",
+"Cancel the policy",
+"Recover the full discount"
+],
+"a": 1,
+"e": "GR-28: discount is allowed pro-rata for mid-term membership and recovered pro-rata if membership is cancelled mid-term."
+},
+{
+"n": 34,
+"topic": "Discounts",
+"t": "Under GR-32, mid-term inclusion or cancellation of extra benefits in a policy is permitted",
+"o": [
+"Any number of times",
+"Not more than once during the policy currency",
+"Only in the first month",
+"Only at renewal"
+],
+"a": 1,
+"e": "GR-32 prohibits mid-term inclusion/cancellation of extra benefits more than once during the currency of a policy."
+},
+{
+"n": 35,
+"topic": "Compulsory PA cover",
+"t": "Compulsory PA cover for owner-driver is available",
+"o": [
+"Under package policies only",
+"Under liability only policies only",
+"Under both liability only and package policies",
+"Only for two wheelers"
+],
+"a": 2,
+"e": "GR-36 CPA cover applies under both Liability Only and Package policies for the registered owner holding an effective licence."
+},
+{
+"n": 36,
+"topic": "Compulsory deductibles",
+"t": "A motorised two wheeler has an OD claim assessed at ₹3,600 after depreciation. The payable amount is",
+"o": [
+"₹3,600",
+"₹3,500",
+"₹3,100",
+"₹2,600"
+],
+"a": 1,
+"e": "Compulsory deductible for two wheelers is ₹100, so ₹3,500 is payable."
+},
+{
+"topic": "IRDAI – regulator",
+"t": "The control level of solvency ratio that every insurer must maintain is:",
+"o": [
+"100%",
+"125%",
+"150%",
+"200%"
+],
+"a": 2,
+"e": "★ Core fact (asked across III papers). Available solvency margin must be at least 150% of the required solvency margin; falling below triggers IRDAI action.",
+"r": "core",
+"n": 37
+},
+{
+"n": 38,
+"topic": "Compulsory deductibles",
+"t": "Under GR-40, compulsory deductibles apply also to",
+"o": [
+"Liability only policies",
+"PA claims of owner-driver",
+"TPPD claims",
+"Restricted fire and/or theft covers under GR-45A/B"
+],
+"a": 3,
+"e": "Compulsory deductibles apply to OD section claims for all vehicle classes and also where restricted fire/theft covers are granted."
+},
+{
+"n": 39,
+"topic": "Restricted covers",
+"t": "Liability Only policy with fire-only cover is charged at liability premium plus",
+"o": [
+"25% of OD premium",
+"30% of OD premium",
+"50% of OD premium",
+"0.5% of IDV"
+],
+"a": 0,
+"e": "GR-45B: fire only 25%, theft only 30%, fire and theft 50% of the appropriate OD premium."
+},
+{
+"n": 40,
+"topic": "Restricted covers",
+"t": "Restricted covers under GR-45A and GR-45B are prohibited for",
+"o": [
+"Two wheelers",
+"Private cars above 1500 cc",
+"Vehicles above 10 years old",
+"Class D miscellaneous and special type vehicles"
+],
+"a": 3,
+"e": "Both restricted covers are prohibited for Class D vehicles; GR-45A is additionally barred for Class E, F and G motor trade risks."
+},
+{
+"n": 41,
+"topic": "Towing and spot repairs",
+"t": "An insured opts for additional towing cover of ₹1,500 on his private car under GR-47. The extra premium is",
+"o": [
+"₹50",
+"₹75",
+"₹100",
+"₹150"
+],
+"a": 1,
+"e": "GR-47 charges 5% of the amount opted; 5% of ₹1,500 is ₹75."
+},
+{
+"n": 42,
+"topic": "Survey fees",
+"t": "For an outstation survey involving overnight stay away from the normal place of work, the fee payable is",
+"o": [
+"100% of scale plus halting allowance only",
+"125% of scale",
+"150% of the amount determined as per the scale",
+"Double the scale"
+],
+"a": 2,
+"e": "Outstation spot/final/re-inspection surveys with overnight stay are paid at 150% of the scale fee."
+},
+{
+"topic": "IRDAI – regulator",
+"t": "The permitted limit of foreign direct investment in an Indian insurance company is currently:",
+"o": [
+"26%",
+"49%",
+"74%",
+"100%"
+],
+"a": 2,
+"e": "★ Core fact (asked across III papers). Raised from 49% to 74% by the Insurance (Amendment) Act 2021; intermediaries may have 100%.",
+"r": "core",
+"n": 43
+},
+{
+"n": 44,
+"topic": "Survey fees",
+"t": "Where the repair estimate exceeds the IDV, the maximum survey fee is to be computed on",
+"o": [
+"The estimate",
+"The IDV",
+"The assessed loss",
+"The salvage value"
+],
+"a": 1,
+"e": "The schedule provides that if the estimate is more than the IDV, the maximum survey fee is based on IDV, not the estimate."
+},
+{
+"n": 45,
+"topic": "Claims procedure",
+"t": "Under the 2024 master circular as summarised by the trainer, depreciation is NOT to be applied on",
+"o": [
+"Tyres and tubes",
+"Glass parts",
+"Batteries",
+"Non-OEM/non-OES parts"
+],
+"a": 3,
+"e": "The circular directs that no depreciation be deducted on non-OEM/non-OES replacement parts."
+},
+{
+"n": 46,
+"topic": "Add-on covers",
+"t": "Which add-on is generally offered only for the first 4 to 5 years of a vehicle?",
+"o": [
+"Return to invoice",
+"NCB protection",
+"Battery protect",
+"Key cover"
+],
+"a": 1,
+"e": "NCB protection is generally available for the first 4-5 years and keeps the accrued NCB intact despite small OD claims."
+},
+{
+"n": 47,
+"topic": "Motor trade policies",
+"t": "Under a Motor Trade Road Risks policy, issuance of fire and/or theft cover without liability only cover is",
+"o": [
+"Permitted at 0.75% of IDV",
+"Permitted for new vehicles only",
+"Not permitted",
+"Permitted with TAC approval"
+],
+"a": 2,
+"e": "Class F policies cannot be issued for fire and/or theft without the Liability Only cover."
+},
+{
+"n": 48,
+"topic": "MV Act Chapter XI",
+"t": "Under Section 150(2), which of the following is NOT a defence available to the insurer?",
+"o": [
+"Use for hire or reward without a permit",
+"Driving by a person not duly licensed",
+"Vehicle being driven above the speed limit",
+"Non-receipt of premium under Section 64VB"
+],
+"a": 2,
+"e": "Statutory defences are limited to specified breaches (use, driver, war risks), policy void for non-disclosure and non-receipt of premium; speeding is not one."
+},
+{
+"n": 49,
+"topic": "MV Act Chapter XI",
+"t": "Under Section 146, vehicles carrying dangerous or hazardous goods must additionally have",
+"o": [
+"A fidelity guarantee policy",
+"A marine cargo policy",
+"Workmen's compensation cover only",
+"A public liability insurance policy"
+],
+"a": 3,
+"e": "Section 146 makes a Public Liability Insurance policy mandatory for vehicles carrying dangerous or hazardous goods."
+},
+{
+"n": 50,
+"topic": "Claims Tribunal",
+"t": "An application for compensation under Section 166 must be made within",
+"o": [
+"3 months of the accident",
+"6 months of the accident",
+"1 year of the accident",
+"3 years of the accident"
+],
+"a": 1,
+"e": "The 2019 amendment restored a limitation of six months from the accident; a Section 159 police report is also treated as an application."
+}
+]
