@@ -16,6 +16,14 @@
    "level": "IC-38",
    "ready": false,
    "desc": "Agent pre-recruitment syllabus"
+  },
+  {
+   "id": "pe_all",
+   "name": "Promotion Exam – all 4 papers",
+   "price": 1499,
+   "level": "Promotion Exam",
+   "ready": true,
+   "desc": "Motor · Reinsurance · Accounts · Legal — GIPSA/PSU promotion exam, built from trainers' material; 20 mocks"
   }
  ],
  "subjects": [
@@ -329,6 +337,46 @@
    "group": "Actuarial (compulsory – choose one)",
    "price": 699,
    "ready": true
+  },
+  {
+   "id": "PEMOTOR",
+   "code": "PE-Motor",
+   "name": "Motor Insurance",
+   "level": "Promotion Exam",
+   "group": "PSU general insurer promotion exam (Scale I–II)",
+   "price": 499,
+   "ready": true,
+   "also_in": "pe_all"
+  },
+  {
+   "id": "PERI",
+   "code": "PE-RI",
+   "name": "Reinsurance",
+   "level": "Promotion Exam",
+   "group": "PSU general insurer promotion exam (Scale I–II)",
+   "price": 499,
+   "ready": true,
+   "also_in": "pe_all"
+  },
+  {
+   "id": "PEACC",
+   "code": "PE-Accounts",
+   "name": "Accounts & Finance",
+   "level": "Promotion Exam",
+   "group": "PSU general insurer promotion exam (Scale I–II)",
+   "price": 499,
+   "ready": true,
+   "also_in": "pe_all"
+  },
+  {
+   "id": "PELEGAL",
+   "code": "PE-Legal",
+   "name": "Legal Framework",
+   "level": "Promotion Exam",
+   "group": "PSU general insurer promotion exam (Scale I–II)",
+   "price": 499,
+   "ready": true,
+   "also_in": "pe_all"
   }
  ]
 }

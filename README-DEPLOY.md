@@ -55,5 +55,13 @@ To put a subject on sale: upload its five files `bank/<ID>_m1..m5.json`, set `"r
 subject in `catalog.json`, commit. Until then it shows "Coming soon · Notify me" and cannot be bought
 (admin can still grant access). Prices: change the number in `catalog.json`; no code change needed.
 
+## Promotion Exam section
+Four papers (PE-Motor, PE-RI, PE-Accounts, PE-Legal) at ₹499 each or the `pe_all` bundle at ₹1,499,
+built from the trainers' material in `pe/`. A bundle entitlement unlocks all four (`also_in` in catalog.json).
+
+## Emails
+See `email/README-EMAIL.md` — Zoho mailbox + Brevo SMTP + Supabase templates + welcome mail function
+(`send-welcome`, needs BREVO_SMTP_USER, BREVO_SMTP_KEY, MAIL_FROM; run `supabase/schema_v3_welcome.sql` once).
+
 ## Updating the site later
 Edit files on github.com (pencil icon) or upload new versions. Question bank: replace files in `bank/`.

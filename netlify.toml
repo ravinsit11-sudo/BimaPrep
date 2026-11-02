@@ -10,3 +10,6 @@
   [headers.values]
     X-Content-Type-Options = "nosniff"
     Referrer-Policy = "strict-origin-when-cross-origin"
+
+[functions."send-welcome"]
+  included_files = ["netlify/functions/welcome.html"]
