@@ -198,7 +198,7 @@
 {
 "n": 16,
 "topic": "Reinsurance programme table",
-"t": "In the programme table, a ₹25 crore risk (4% statutory cession, ₹5 crore retention, 20% quota share) leaves how much for the 1st surplus?",
+"t": "In the programme table, a ₹15 crore risk (4% statutory cession, ₹5 crore retention, 20% quota share) leaves how much for the 1st surplus?",
 "o": [
 "₹14 crore",
 "₹10 crore",
@@ -216,7 +216,7 @@
 "20% of each risk",
 "8 lines subject to a maximum of ₹35 crore",
 "10 lines subject to a maximum of ₹40 crore",
-"5 lines subject to a maximum of ₹25 crore"
+"5 lines subject to a maximum of ₹15 crore"
 ],
 "a": 1,
 "e": "The 1st surplus is 10 lines (max ₹40 crore) and the 2nd surplus 8 lines (max ₹35 crore) on a ₹5 crore retention."
@@ -394,12 +394,12 @@
 },
 {
 "n": 31,
-"topic": "OICL XL cover",
-"t": "OICL's catastrophe XL for all perils (non-marine) is",
+"topic": "an Indian general insurer XL cover",
+"t": "the insurer’s catastrophe XL for all perils (non-marine) is",
 "o": [
 "₹1,200 crore xs ₹50 crore",
-"₹575 crore xs ₹25 crore",
-"₹1,200 crore xs ₹25 crore",
+"₹375 crore xs ₹15 crore",
+"₹1,200 crore xs ₹15 crore",
 "₹2,900 crore xs ₹50 crore"
 ],
 "a": 0,
