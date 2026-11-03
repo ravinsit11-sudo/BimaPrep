@@ -126,7 +126,7 @@ footer .wrap{display:flex;gap:1rem;flex-wrap:wrap;justify-content:space-between}
   <div class="wrap">
     <a class="brand" href="#home">BimaPrep <small>Insurance exam preparation · India</small></a>
     <nav id="nav">
-      <a href="#home">Home</a><a href="#insurance">About Insurance</a><a href="#irdai">About IRDAI</a><a href="#tests">Mock Tests</a><a href="#pricing">Pricing</a><a href="#about">About Us</a><a href="#account" id="navAccount">Sign in</a>
+      <a href="#home">Home</a><a href="#insurance">About Insurance</a><a href="#irdai">About IRDAI</a><a href="#tests">Mock Tests</a><a href="#pricing">Pricing</a><a href="#library">Library</a><a href="#about">About Us</a><a href="#account" id="navAccount">Sign in</a>
     </nav>
   </div>
 </header>
@@ -160,7 +160,10 @@ footer .wrap{display:flex;gap:1rem;flex-wrap:wrap;justify-content:space-between}
     <div class="card step"><div class="eyebrow">Step 1</div><h3>Learn the principles</h3><p>Insurable interest, utmost good faith, indemnity, subrogation, contribution and proximate cause, each with an example you will meet at the branch.</p><a href="#insurance">Read the notes →</a></div>
     <div class="card step"><div class="eyebrow">Step 2</div><h3>Know the regulator</h3><p>What IRDAI does, which Acts it works under, how a policyholder complains, and the 2024 rules on free-look, waiting periods and grievance timelines.</p><a href="#irdai">About IRDAI →</a></div>
     <div class="card step"><div class="eyebrow">Step 3</div><h3>Test yourself, timed</h3><p>Full-length, subject-wise mocks for Licentiate, Associateship and Fellowship papers — 50 questions in 60 minutes, scored like the III paper. Free sample sets to try first. Every answer comes with an explanation.</p><a href="#tests">Open mock tests →</a></div>
+    <div class="card step"><div class="eyebrow">Free</div><h3>Reading room</h3><p>Acts, IRDAI regulations, PMFBY guidelines and BimaPrep study notes — free to read and download, no sign-in.</p><a href="#library">Open the library →</a></div>
   </div>
+
+  <div id="homeFeedback" style="margin-top:2.2rem"></div>
 
   <div class="stripe" style="margin-top:2rem">Educational site. BimaPrep is not affiliated with IRDAI, the Insurance Institute of India or any insurer. Syllabus references follow the III study courses IC-01, IC-02, IC-11 and IC-14 and current IRDAI regulations; always check the latest notification before an exam.</div>
 </section>
@@ -279,7 +282,17 @@ footer .wrap{display:flex;gap:1rem;flex-wrap:wrap;justify-content:space-between}
   <p style="color:var(--muted)">Licentiate is sold as one pack (all four papers). Associateship and Fellowship papers are sold <b>subject-wise</b>, so you pay only for the papers you are sitting. Every purchase is valid for 3 months; new mocks added in that period are free. Prices are inclusive of applicable taxes.</p>
   <div class="grid g2" id="planList" style="margin-top:1rem"></div>
   <div id="subjectPlans"></div>
-  <div class="card" style="margin-top:1.2rem"><h3>How payment works</h3><p>Pay by <b>UPI</b> (Google Pay, PhonePe, Paytm, BHIM or any UPI app): click Buy, scan the QR code or tap "Pay with UPI app", pay the amount shown, then enter the UPI transaction number (UTR) and attach the payment screenshot. Your request is checked by us and the pack is activated on your account, usually within 24 hours; you can see the status on your account page.</p><p class="note">Refund policy: packs are non-refundable once purchased. A refund is made only for a failed transaction where the amount was debited and received by us but the pack did not get activated on your account; such cases are refunded to the original payment method within 7 working days of verification. Write to us with the transaction ID.</p></div>
+  <div class="card" style="margin-top:1.2rem"><h3>How payment works</h3><p>Pay by <b>UPI</b> (Google Pay, PhonePe, Paytm, BHIM or any UPI app): click Buy, scan the QR code, pay the amount shown, then enter the UPI transaction number (UTR) and attach the payment screenshot. Your request is checked by us and the pack is activated on your account, usually within 24 hours; you can see the status on your account page.</p><p class="note">Refund policy: packs are non-refundable once purchased. A refund is made only for a failed transaction where the amount was debited and received by us but the pack did not get activated on your account; such cases are refunded to the original payment method within 7 working days of verification. Write to us with the transaction ID.</p></div>
+</section>
+
+<!-- FEEDBACK (shown on Home + About) -->
+<!-- LIBRARY -->
+<section class="view" id="v-library" hidden>
+  <div class="eyebrow">Free library</div>
+  <h1>Reading room — free to download</h1>
+  <p style="color:var(--muted)">Acts, regulations, guidelines and BimaPrep study notes. No sign-in needed. Official documents open at their source so you always get the current version.</p>
+  <div id="libList"><p class="note">Loading…</p></div>
+  <p class="note" style="margin-top:1.2rem">Study notes are BimaPrep's own summaries for personal study. Statutes and regulations belong to their publishers; links go to the official sites. If you believe any item should not be here, write to support@bimaprep.in.</p>
 </section>
 
 <!-- LEGAL -->
@@ -312,6 +325,15 @@ footer .wrap{display:flex;gap:1rem;flex-wrap:wrap;justify-content:space-between}
     <div class="card"><h3>Why BimaPrep</h3><p>Most of us learn insurance on the job, one policy and one claim at a time. The III papers ask for the same knowledge in an orderly way. BimaPrep puts the syllabus into short notes you can read on a phone between branch visits, and mock tests that behave like the real paper.</p></div>
     <div class="card"><h3>Who it is for</h3><p>Employees of public and private insurers preparing for Licentiate, Associateship or Fellowship; agents and bank staff preparing for IC-38; and anyone who wants to understand the policy they have bought.</p></div>
     <div class="card"><h3>How the content is prepared</h3><p>Notes follow the III study courses and IRDAI regulations and circulars. Every mock question is written by us and carries an explanation with the rule it tests. When a regulation changes, the note and the question change with it, with the date shown.</p></div>
+    <div class="card" style="grid-column:1/-1"><h3>Write to us — feedback, query or a correction</h3><p class="note">Approved messages may be shown on the home page with your first name. Queries are answered by email.</p>
+      <form id="fbForm" style="display:grid;gap:.7rem;grid-template-columns:repeat(2,minmax(0,1fr))">
+        <div class="field" style="margin:0"><label for="fbName">Your name</label><input id="fbName" required maxlength="60"></div>
+        <div class="field" style="margin:0"><label for="fbEmail">Email</label><input id="fbEmail" type="email" required></div>
+        <div class="field" style="margin:0"><label for="fbKind">Type</label><select id="fbKind"><option value="feedback">Feedback</option><option value="query">Query</option><option value="correction">Correction to a question</option></select></div>
+        <div class="field" style="margin:0"><label for="fbOrg">Organisation / exam (optional)</label><input id="fbOrg" maxlength="80"></div>
+        <div class="field" style="margin:0;grid-column:1/-1"><label for="fbMsg">Message</label><textarea id="fbMsg" required maxlength="1000" rows="4" style="width:100%;font:inherit;padding:.6rem;border:1.5px solid var(--line);border-radius:8px;background:var(--surface);color:var(--fg)"></textarea></div>
+        <div style="grid-column:1/-1;display:flex;gap:.6rem;align-items:center;flex-wrap:wrap"><button class="btn sm" type="submit" id="fbGo">Send</button><span class="err" id="fbErr"></span></div>
+      </form></div>
     <div class="card"><h3>Contact</h3><p>Suggestions, corrections and requests for new topics are welcome. We reply within two working days.</p><p><span style="font-family:var(--mono)">knowyourrights1947@gmail.com</span> <button class="btn ghost sm" id="copyMail">Copy</button></p><p class="note">BimaPrep is an independent educational project and is not affiliated with IRDAI, the Insurance Institute of India or any insurer.</p></div>
   </div>
 </section>
@@ -356,14 +378,14 @@ footer .wrap{display:flex;gap:1rem;flex-wrap:wrap;justify-content:space-between}
   <div class="eyebrow">Admin console</div>
   <h1>BimaPrep administration</h1>
   <div style="display:flex;gap:.4rem;flex-wrap:wrap;margin:1rem 0" id="adminTabs">
-    <button class="btn sm" data-tab="users">Users</button><button class="btn ghost sm" data-tab="grant">Grant access</button><button class="btn ghost sm" data-tab="coupons">Coupons</button><button class="btn ghost sm" data-tab="orders">Payments</button><button class="btn ghost sm" data-tab="attempts">Results</button><button class="btn ghost sm" data-tab="interest">Launch interest</button><button class="btn ghost sm" data-tab="audit">Audit log</button>
+    <button class="btn sm" data-tab="users">Users</button><button class="btn ghost sm" data-tab="grant">Grant access</button><button class="btn ghost sm" data-tab="coupons">Coupons</button><button class="btn ghost sm" data-tab="orders">Payments</button><button class="btn ghost sm" data-tab="attempts">Results</button><button class="btn ghost sm" data-tab="interest">Launch interest</button><button class="btn ghost sm" data-tab="feedback">Feedback</button><button class="btn ghost sm" data-tab="visits">Visits</button><button class="btn ghost sm" data-tab="audit">Audit log</button>
   </div>
   <div id="adminBody" class="card"><p class="note">Loading…</p></div>
 </section>
 
 </main>
 
-<footer><div class="wrap"><span>© BimaPrep · bimaprep.in · <small style="opacity:.6">v16</small> · <a href="#legal">Privacy · Terms · Refunds</a> · Not affiliated with IRDAI, III or any insurer</span><span>Sources: Insurance Act 1938 · IRDA Act 1999 · IRDAI regulations & master circulars 2024 · PMFBY Operational Guidelines 2023</span></div></footer>
+<footer><div class="wrap"><span>© BimaPrep · bimaprep.in · <small style="opacity:.6">v18</small> · <a href="#legal">Privacy · Terms · Refunds</a> · Not affiliated with IRDAI, III or any insurer</span><span>Sources: Insurance Act 1938 · IRDA Act 1999 · IRDAI regulations & master circulars 2024 · PMFBY Operational Guidelines 2023</span></div></footer>
 
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js"></script>
 <script>
@@ -2772,9 +2794,10 @@ async function boot(){
   if(CFG.supabaseUrl&&window.supabase){
     sb=window.supabase.createClient(CFG.supabaseUrl,CFG.supabaseAnonKey);
     const {data}=await sb.auth.getSession(); session=data.session; await loadUser();
-    sb.auth.onAuthStateChange(async(ev,s)=>{session=s; if(ev==='PASSWORD_RECOVERY'){recovery=true;history.replaceState(null,'','#account')} await loadUser(); renderNav(); show(location.hash.replace('#','').split('&')[0])});
+    if(/type=recovery/.test(location.hash)||/type=recovery/.test(location.search)){recovery=true}
+    sb.auth.onAuthStateChange(async(ev,s)=>{session=s; if(ev==='PASSWORD_RECOVERY'){recovery=true} await loadUser(); renderNav(); if(recovery){history.replaceState(null,'','#account');show('account')} else show(location.hash.replace('#','').split('&')[0])});
   }
-  renderNav(); show(location.hash.replace('#',''));
+  renderNav(); show(recovery?'account':location.hash.replace('#','').split('&')[0]); renderHomeFeedback();
 }
 async function loadUser(){
   user=null; ents=[]; results=[]; pending=[];
@@ -2799,16 +2822,19 @@ function packFor(testId){return PLANS.find(p=>p.id===QUICKPACK[testId])}
 function best(id){const r=results.filter(x=>x.mock_id===id);return r.length?Math.max(...r.map(x=>x.pct)):null}
 
 // ================= routing =================
-const VIEWS=['home','insurance','irdai','tests','pricing','about','legal','account','admin'];
+const VIEWS=['home','insurance','irdai','tests','pricing','library','about','legal','account','admin'];
 function show(tok){
   if(!VIEWS.includes(tok)) tok='home';
   if(tok==='admin'&&!(user&&user.is_admin)) tok='account';
   VIEWS.forEach(v=>{document.getElementById('v-'+v).hidden=(v!==tok)});
   document.querySelectorAll('#nav a').forEach(a=>a.classList.toggle('active',a.getAttribute('href')==='#'+tok));
-  if(tok==='tests') renderTests(); if(tok==='pricing') renderPlans(); if(tok==='account') renderAccount(); if(tok==='admin') adminTab('users');
+  if(tok==='tests') renderTests(); if(tok==='pricing') renderPlans(); if(tok==='account') renderAccount(); if(tok==='admin') adminTab('users'); if(tok==='library') renderLibrary(); if(tok==='home') renderHomeFeedback();
   window.scrollTo({top:0});
 }
 window.addEventListener('hashchange',()=>show(location.hash.replace('#','')));
+let _vid=null; try{_vid=localStorage.getItem('bp_vid'); if(!_vid){_vid=Math.random().toString(36).slice(2)+Date.now().toString(36); localStorage.setItem('bp_vid',_vid)}}catch(e){_vid='anon'}
+function hit(tok){try{fetch('/.netlify/functions/hit',{method:'POST',keepalive:true,headers:{'content-type':'application/json'},body:JSON.stringify({page:tok||'home',vid:_vid})}).catch(()=>{})}catch(e){}}
+const _show=show; show=function(tok){_show(tok); hit(VIEWS.includes(tok)?tok:'home')};
 function renderNav(){
   const a=document.getElementById('navAccount'); a.textContent=user?(user.name||user.email).split(' ')[0]:'Sign in';
   let ad=document.getElementById('navAdmin');
@@ -2842,23 +2868,24 @@ document.getElementById('formSignin').addEventListener('submit',async e=>{
 document.getElementById('btnForgot').addEventListener('click',async()=>{
   const email=document.getElementById('fEmail').value.trim(),err=document.getElementById('fErr');
   if(!email){err.textContent='Type your email above first, then click Forgot password.';return}
-  const {error}=await sb.auth.resetPasswordForEmail(email,{redirectTo:location.origin+'/#account'});
+  const {error}=await sb.auth.resetPasswordForEmail(email,{redirectTo:location.origin+'/'});
   err.style.color=error?'var(--bad)':'var(--ok)'; err.textContent=error?error.message:'Password reset email sent. Open the link, then set a new password here.';
 });
 document.getElementById('btnSignout').addEventListener('click',async()=>{await sb.auth.signOut();user=null;ents=[];results=[];renderNav();renderAccount()});
 async function renderAccount(){
   document.getElementById('signedOut').hidden=!!user; document.getElementById('signedIn').hidden=!user;
+  document.querySelectorAll('.recoverbox').forEach(x=>x.remove());
+  if(recovery){
+    const d=document.createElement('div'); d.className='card paybox recoverbox'; d.style.cssText='margin:0 0 1rem;border-color:var(--saffron)';
+    d.innerHTML=`<h3>Set a new password</h3><p class="note">You opened a password-reset link. Choose a new password below.</p><div class="field" style="max-width:320px"><label for="npass">New password</label><input id="npass" type="password" autocomplete="new-password" placeholder="At least 8 characters"></div><button class="btn sm" id="npGo">Save password</button> <span class="err" id="npErr"></span>`;
+    document.getElementById('v-account').prepend(d);
+    d.querySelector('#npGo').onclick=async()=>{const e=d.querySelector('#npErr');e.style.color='var(--bad)';const p=d.querySelector('#npass').value;if(p.length<8){e.textContent='At least 8 characters.';return}if(!session){e.textContent='The reset link has expired or was already used. Request a new one from the sign-in form.';return}const {error}=await sb.auth.updateUser({password:p});if(error){e.textContent=error.message}else{recovery=false;await loadUser();renderNav();renderAccount();const ok=document.createElement('div');ok.className='card recoverbox';ok.style.cssText='margin:0 0 1rem;border-color:var(--ok)';ok.innerHTML='<h3>Password updated</h3><p>You are signed in with your new password.</p><a class="btn sm" href="#tests">Go to mock tests</a>';document.getElementById('v-account').prepend(ok)}};
+  }
   if(!user) return;
   document.getElementById('accName').textContent=user.name||user.email;
   document.getElementById('accProfile').innerHTML=`<dt>Email</dt><dd>${esc(user.email)}</dd><dt>Organisation</dt><dd>${esc(user.org||'—')}</dd><dt>Preparing for</dt><dd>${esc(user.goal||'—')}</dd><dt>Member since</dt><dd>${fmtDate(user.created_at)}</dd>`;
   const pendHtml=pending.length?`<h4 style="margin:.9rem 0 .3rem">Payment requests</h4><div class="tablewrap"><table><thead><tr><th>Pack</th><th>Amount</th><th>Ref</th><th>UTR</th><th>Status</th></tr></thead><tbody>${pending.map(o=>`<tr><td>${esc((PLANS.find(p=>p.id===o.pack)||{}).name||o.pack)}</td><td class="num">₹${o.final_amount}</td><td style="font-family:var(--mono)">${refOf(o.id)}</td><td style="font-family:var(--mono);font-size:.8rem">${esc(o.utr||'')}</td><td>${o.status==='pending'?'<span class="pill warn">Pending approval</span>':`<span class="pill bad">Rejected</span><br><small>${esc(o.review_note||'')}</small>`}</td></tr>`).join('')}</tbody></table></div><p class="note">Pending requests are usually approved within 24 hours. Rejected? Check the note and <a href="#pricing">submit again</a> with the correct UTR and screenshot.</p>`:'';
   document.getElementById('accPacks').innerHTML=(ents.length?`<div class="tablewrap"><table><thead><tr><th>Pack</th><th>Valid till</th><th>How</th></tr></thead><tbody>${ents.map(e=>`<tr><td>${esc((PLANS.find(p=>p.id===e.pack)||{}).name||e.pack)}</td><td>${fmtDate(e.expires_at)}</td><td>${esc(e.source)}</td></tr>`).join('')}</tbody></table></div>`:'<p class="note">No packs yet · <a href="#pricing">see pricing</a></p>')+pendHtml;
-  if(recovery){
-    const d=document.createElement('div'); d.className='card paybox'; d.style.gridColumn='1/-1';
-    d.innerHTML=`<h3>Set a new password</h3><div class="field" style="max-width:320px"><label for="npass">New password</label><input id="npass" type="password" autocomplete="new-password"></div><button class="btn sm" id="npGo">Save password</button> <span class="err" id="npErr"></span>`;
-    document.getElementById('signedIn').querySelector('.grid').prepend(d);
-    d.querySelector('#npGo').onclick=async()=>{const e=d.querySelector('#npErr');const p=d.querySelector('#npass').value;if(p.length<8){e.textContent='At least 8 characters.';return}const {error}=await sb.auth.updateUser({password:p});if(error){e.textContent=error.message}else{recovery=false;d.innerHTML='<h3>Password updated</h3><p>You are signed in.</p>'}};
-  }
   document.getElementById('accHistory').innerHTML=historyTable();
 }
 function historyTable(){
@@ -2896,7 +2923,7 @@ function buy(pid){
     box.querySelector('#payGo').onclick=async()=>{try{await api('notify',{pack:pid});notify.push(pid);box.innerHTML=`<h3>Thanks</h3><p>We will email ${esc(user.email)} when ${esc(p.name)} opens.</p>`;renderPlans()}catch(e){box.querySelector('#payErr').textContent=e.message}};
     return;
   }
-  box.innerHTML=`<h3>${esc(p.name)} · ₹<span id="payAmt">${p.price}</span></h3><div style="display:flex;gap:.6rem;flex-wrap:wrap;align-items:flex-end"><div class="field" style="margin:0;flex:1;min-width:180px"><label for="coupon">Coupon code (optional)</label><input id="coupon" placeholder="e.g. LAUNCH20" style="text-transform:uppercase"></div><button class="btn ghost sm" id="payApply">Apply</button></div><div class="err" id="payErr"></div><p class="note">Payment by UPI (any app). After paying you enter the transaction number and attach the screenshot; we activate the pack after checking, usually within 24 hours. Pack valid 3 months from activation.</p><div style="display:flex;gap:.6rem;flex-wrap:wrap"><button class="btn sm" id="payGo" style="background:var(--saffron)">Pay ₹<span id="payAmt2">${p.price}</span> by UPI</button><button class="btn ghost sm" id="payCancel">Cancel</button></div>`;
+  box.innerHTML=`<h3>${esc(p.name)} · ₹<span id="payAmt">${p.price}</span></h3><div style="display:flex;gap:.6rem;flex-wrap:wrap;align-items:flex-end"><div class="field" style="margin:0;flex:1;min-width:180px"><label for="coupon">Coupon code (optional)</label><input id="coupon" placeholder="e.g. LAUNCH20" style="text-transform:uppercase"></div><button class="btn ghost sm" id="payApply">Apply</button></div><div class="err" id="payErr"></div><p class="note">Payment by UPI: scan the QR with any UPI app. After paying you enter the transaction number and attach the screenshot; we activate the pack after checking, usually within 24 hours. Pack valid 3 months from activation.</p><div style="display:flex;gap:.6rem;flex-wrap:wrap"><button class="btn sm" id="payGo" style="background:var(--saffron)">Pay ₹<span id="payAmt2">${p.price}</span> by UPI</button><button class="btn ghost sm" id="payCancel">Cancel</button></div>`;
   document.getElementById('subjectPlans').after(box); box.scrollIntoView({behavior:'smooth',block:'center'});
   box.querySelector('#payCancel').onclick=()=>box.remove();
   box.querySelector('#payApply').onclick=()=>checkout(pid,box,true);
@@ -2919,7 +2946,7 @@ function showUpiStep(o,box){
   box.innerHTML=`<h3>${esc(o.pack)} · pay ₹${o.amount} by UPI</h3>
   <div class="grid g2" style="align-items:start">
     <div style="text-align:center"><img src="${MY_QR}" alt="BimaPrep UPI QR code" style="width:min(260px,100%);background:#fff;border:1px solid var(--line);border-radius:8px;padding:4px">
-      ${/Android|iPhone|iPad/i.test(navigator.userAgent)?`<div style="margin-top:.5rem"><a class="btn sm" href="${esc(o.upiLink)}" style="background:var(--saffron)">Pay with UPI app</a></div><p class="note" style="margin-top:.5rem">Tap the button to open your UPI app with the amount filled in. If your app does not open or refuses, take a screenshot of the QR and scan it from inside Google Pay / PhonePe / Paytm (Scan → Upload from gallery), entering <b>₹${o.amount}</b> and the note <b>${esc(o.reference)}</b>.</p>`:`<p class="note" style="margin-top:.5rem">Open Google Pay / PhonePe / Paytm / BHIM on your phone, scan this QR, enter <b>₹${o.amount}</b> as the amount and <b>${esc(o.reference)}</b> in the note, and pay.</p>`}</div>
+      <p class="note" style="margin-top:.5rem">Scan this QR with Google Pay / PhonePe / Paytm / BHIM, enter <b>₹${o.amount}</b> as the amount and <b>${esc(o.reference)}</b> in the note, and pay. On a phone: take a screenshot of the QR, then in your UPI app choose Scan → Upload from gallery.</p></div>
     <div>
       <dl class="terms"><dt>Pay to</dt><dd>${esc(o.upiName)}</dd><dt>Amount</dt><dd><b>₹${o.amount}</b> (exact amount)</dd><dt>Reference</dt><dd style="font-family:var(--mono)"><b>${esc(o.reference)}</b> — put this in the UPI remarks/note</dd></dl>
       <h4 style="margin:1rem 0 .4rem">After paying</h4>
@@ -2947,6 +2974,32 @@ function showUpiStep(o,box){
       await loadUser(); renderPlans();
     }catch(e){err.textContent=e.message;btn.disabled=false;btn.textContent='Submit for approval'}
   };
+}
+
+// ================= feedback =================
+document.getElementById('fbForm').addEventListener('submit',async e=>{
+  e.preventDefault(); const err=document.getElementById('fbErr'); err.style.color='var(--bad)'; err.textContent='';
+  const b=document.getElementById('fbGo'); b.disabled=true;
+  try{
+    await api('feedback',{name:document.getElementById('fbName').value,email:document.getElementById('fbEmail').value,kind:document.getElementById('fbKind').value,org:document.getElementById('fbOrg').value,message:document.getElementById('fbMsg').value});
+    err.style.color='var(--ok)'; err.textContent='Thank you — received. We reply to queries by email.'; document.getElementById('fbForm').reset();
+  }catch(x){err.textContent=x.message}
+  b.disabled=false;
+});
+async function renderHomeFeedback(){
+  const el=document.getElementById('homeFeedback'); if(!el||!sb) return;
+  const {data}=await sb.from('feedback').select('name,org,message,created_at').eq('approved',true).order('created_at',{ascending:false}).limit(6);
+  if(!data||!data.length){el.innerHTML='';return}
+  el.innerHTML=`<h2>What candidates say</h2><div class="grid g3" style="margin-top:.8rem">${data.map(f=>`<div class="card" style="border-top:3px solid var(--saffron)"><p style="font-size:.95rem;line-height:1.5">“${esc(f.message)}”</p><div class="eyebrow" style="margin-top:.6rem">${esc(f.name.split(' ')[0])}${f.org?' · '+esc(f.org):''}</div></div>`).join('')}</div>`;
+}
+
+// ================= library =================
+let LIB=null;
+async function renderLibrary(){
+  const el=document.getElementById('libList');
+  if(!LIB){try{LIB=(await (await fetch('library.json',{cache:'no-cache'})).json()).items}catch(e){el.innerHTML='<p class="err">Could not load the library list.</p>';return}}
+  const cats=[...new Set(LIB.map(i=>i.cat))];
+  el.innerHTML=cats.map(c=>`<h2 style="margin-top:1.4rem">${esc(c)}</h2><div class="grid g2">${LIB.filter(i=>i.cat===c).map(i=>{const isFile=i.type==='file';const href=isFile?`library/${i.file}`:i.url;return `<div class="card"><h3 style="font-size:1.05rem">${esc(i.title)}</h3><p style="color:var(--muted);font-size:.92rem">${esc(i.desc||'')}</p><a class="btn sm ${isFile?'':'ghost'}" href="${esc(href)}" ${isFile?'download':'target="_blank" rel="noopener"'}>${isFile?'Download PDF':'Open official source ↗'}</a>${i.size?` <small style="color:var(--muted)">${esc(i.size)}</small>`:''}</div>`}).join('')}</div>`).join('');
 }
 
 // ================= tests list =================
@@ -3053,6 +3106,21 @@ async function adminTab(tab){
     if(tab==='interest'){
       const d=await api('admin',{action:'interest'});
       body.innerHTML=`<p class="note">People who clicked "Notify me" before launch. Copy the emails into your mailer on launch day.</p><div class="tablewrap"><table><thead><tr><th>Email</th><th>Pack</th><th>Date</th></tr></thead><tbody>${d.interest.map(i=>`<tr><td>${esc(i.email)}</td><td>${esc(i.pack)}</td><td>${fmtDate(i.created_at)}</td></tr>`).join('')||'<tr><td colspan="3">None yet</td></tr>'}</tbody></table></div>`;
+    }
+    if(tab==='feedback'){
+      const d=await api('admin',{action:'feedback'});
+      body.innerHTML=`<p class="note">Approve to show a message on the home page (first name + organisation only). Reply to queries from your mailbox.</p><div class="tablewrap"><table><thead><tr><th>When</th><th>From</th><th>Type</th><th>Message</th><th>Status</th><th></th></tr></thead><tbody>${d.items.map(f=>`<tr><td>${fmtDate(f.created_at)}</td><td>${esc(f.name)}<br><small><a href="mailto:${esc(f.email)}">${esc(f.email)}</a>${f.org?'<br>'+esc(f.org):''}</small></td><td>${esc(f.kind)}</td><td style="max-width:420px;white-space:pre-wrap">${esc(f.message)}</td><td>${f.approved?'<span class="pill ok">on home page</span>':'<span class="pill warn">pending</span>'}</td><td style="white-space:nowrap">${f.approved?`<button class="btn ghost sm" data-fb="${f.id}" data-v="0">Hide</button>`:`<button class="btn sm" data-fb="${f.id}" data-v="1">Approve</button>`} <button class="btn ghost sm" data-fbdel="${f.id}">Delete</button></td></tr>`).join('')||'<tr><td colspan="6">Nothing yet</td></tr>'}</tbody></table></div>`;
+      document.querySelectorAll('[data-fb]').forEach(b=>b.onclick=async()=>{await api('admin',{action:'feedback_set',id:b.dataset.fb,approved:b.dataset.v==='1'});adminTab('feedback')});
+      document.querySelectorAll('[data-fbdel]').forEach(b=>b.onclick=async()=>{if(confirm('Delete this message?')){await api('admin',{action:'feedback_delete',id:b.dataset.fbdel});adminTab('feedback')}});
+    }
+    if(tab==='visits'){
+      const d=await api('admin',{action:'visits'});
+      const bar=(v,max)=>`<div style="background:var(--accent);height:10px;border-radius:3px;width:${max?Math.max(2,Math.round(v/max*100)):0}%"></div>`;
+      const mx=Math.max(1,...d.daily.map(x=>x.visits));
+      body.innerHTML=`<div class="grid g3"><div class="card"><div class="big">${d.today}</div><div class="eyebrow">Visits today</div></div><div class="card"><div class="big">${d.week}</div><div class="eyebrow">Last 7 days</div></div><div class="card"><div class="big">${d.total}</div><div class="eyebrow">All time</div></div></div>
+      <h3 style="margin-top:1.2rem">Daily visits (last 30 days)</h3><div class="tablewrap"><table><tbody>${d.daily.map(x=>`<tr><td style="white-space:nowrap">${esc(x.day)}</td><td style="width:60%">${bar(x.visits,mx)}</td><td class="num">${x.visits}</td><td class="num"><small>${x.unique} unique</small></td></tr>`).join('')}</tbody></table></div>
+      <h3 style="margin-top:1.2rem">Most viewed pages (30 days)</h3><div class="tablewrap"><table><thead><tr><th>Page</th><th>Views</th></tr></thead><tbody>${d.pages.map(p=>`<tr><td>${esc(p.page)}</td><td class="num">${p.views}</td></tr>`).join('')}</tbody></table></div>
+      <p class="note">A visit = one page view. Unique = distinct visitors per day (anonymous id in the browser; no personal data stored).</p>`;
     }
     if(tab==='audit'){
       const d=await api('admin',{action:'audit'});
