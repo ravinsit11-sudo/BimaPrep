@@ -95,6 +95,34 @@ exports.handler = async (event) => {
       const { data } = await sb.from('notify_interest').select('*').order('created_at', { ascending: false }).limit(500);
       return L.json(200, { interest: data || [] });
     }
+    if (a === 'feedback') {
+      const { data } = await sb.from('feedback').select('*').order('created_at', { ascending: false }).limit(300);
+      return L.json(200, { items: data || [] });
+    }
+    if (a === 'feedback_set') {
+      await sb.from('feedback').update({ approved: !!b.approved, approved_at: b.approved ? new Date().toISOString() : null, approved_by: me.id }).eq('id', b.id);
+      await L.audit(sb, me.id, 'feedback_set', b.id, { approved: !!b.approved });
+      return L.json(200, { ok: true });
+    }
+    if (a === 'feedback_delete') {
+      await sb.from('feedback').delete().eq('id', b.id);
+      await L.audit(sb, me.id, 'feedback_delete', b.id, null);
+      return L.json(200, { ok: true });
+    }
+    if (a === 'visits') {
+      const since30 = new Date(Date.now() - 30 * 86400000).toISOString();
+      const { data: rows } = await sb.from('hits').select('page,vid,created_at').gte('created_at', since30).limit(100000);
+      const { count: total } = await sb.from('hits').select('*', { count: 'exact', head: true });
+      const ist = d => new Date(new Date(d).getTime() + 330 * 60000).toISOString().slice(0, 10);
+      const todayKey = ist(new Date()); const week = new Date(Date.now() - 7 * 86400000).toISOString();
+      const byDay = {}, pages = {};
+      for (const r of rows || []) {
+        const k = ist(r.created_at); byDay[k] = byDay[k] || { visits: 0, u: new Set() }; byDay[k].visits++; byDay[k].u.add(r.vid);
+        pages[r.page] = (pages[r.page] || 0) + 1;
+      }
+      const daily = Object.keys(byDay).sort().reverse().map(k => ({ day: k, visits: byDay[k].visits, unique: byDay[k].u.size }));
+      return L.json(200, { today: byDay[todayKey] ? byDay[todayKey].visits : 0, week: (rows || []).filter(r => r.created_at >= week).length, total: total || 0, daily, pages: Object.entries(pages).sort((x, y) => y[1] - x[1]).map(([page, views]) => ({ page, views })) });
+    }
     return L.bad('Unknown action');
   } catch (e) { return L.bad(e.message, 500); }
 };
