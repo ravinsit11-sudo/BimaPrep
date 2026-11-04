@@ -393,7 +393,7 @@ footer .wrap{display:flex;gap:1rem;flex-wrap:wrap;justify-content:space-between}
 
 </main>
 
-<footer><div class="wrap"><span>© BimaPrep · bimaprep.in · <small style="opacity:.6">v19</small> · <a href="#legal">Privacy · Terms · Refunds</a> · Not affiliated with IRDAI, III or any insurer</span><span>Sources: Insurance Act 1938 · IRDA Act 1999 · IRDAI regulations & master circulars 2024 · PMFBY Operational Guidelines 2023</span></div></footer>
+<footer><div class="wrap"><span>© BimaPrep · bimaprep.in · <small style="opacity:.6">v20</small> · <a href="#legal">Privacy · Terms · Refunds</a> · Not affiliated with IRDAI, III or any insurer</span><span>Sources: Insurance Act 1938 · IRDA Act 1999 · IRDAI regulations & master circulars 2024 · PMFBY Operational Guidelines 2023</span></div></footer>
 
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js"></script>
 <script>
@@ -3057,6 +3057,7 @@ function renderTests(){
 let T=null,ans=[],flags=[],cur=0,left=0,tick=null;
 function startTest(id,obj){
   T=obj||TESTS.find(x=>x.id===id)||T; ans=Array(T.q.length).fill(-1); flags=Array(T.q.length).fill(false); cur=0; left=T.minutes*60;
+  if(document.getElementById('v-tests').hidden){VIEWS.forEach(v=>{document.getElementById('v-'+v).hidden=(v!=='tests')});document.querySelectorAll('#nav a').forEach(x=>x.classList.toggle('active',x.getAttribute('href')==='#tests'));history.replaceState(null,'','#tests')}
   document.getElementById('testHome').hidden=true; document.getElementById('testResult').hidden=true; document.getElementById('testRun').hidden=false; document.getElementById('confirmBox').hidden=true;
   document.getElementById('runPaper').textContent=T.paper; document.getElementById('runTitle').textContent=T.title;
   clearInterval(tick); tick=setInterval(()=>{left--;drawTimer();if(left<=0){clearInterval(tick);finish()}},1000); drawTimer(); drawQ(); window.scrollTo({top:0});
