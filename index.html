@@ -385,7 +385,7 @@ footer .wrap{display:flex;gap:1rem;flex-wrap:wrap;justify-content:space-between}
 
 </main>
 
-<footer><div class="wrap"><span>© BimaPrep · bimaprep.in · <small style="opacity:.6">v18</small> · <a href="#legal">Privacy · Terms · Refunds</a> · Not affiliated with IRDAI, III or any insurer</span><span>Sources: Insurance Act 1938 · IRDA Act 1999 · IRDAI regulations & master circulars 2024 · PMFBY Operational Guidelines 2023</span></div></footer>
+<footer><div class="wrap"><span>© BimaPrep · bimaprep.in · <small style="opacity:.6">v19</small> · <a href="#legal">Privacy · Terms · Refunds</a> · Not affiliated with IRDAI, III or any insurer</span><span>Sources: Insurance Act 1938 · IRDA Act 1999 · IRDAI regulations & master circulars 2024 · PMFBY Operational Guidelines 2023</span></div></footer>
 
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js"></script>
 <script>
@@ -2828,10 +2828,11 @@ function show(tok){
   if(tok==='admin'&&!(user&&user.is_admin)) tok='account';
   VIEWS.forEach(v=>{document.getElementById('v-'+v).hidden=(v!==tok)});
   document.querySelectorAll('#nav a').forEach(a=>a.classList.toggle('active',a.getAttribute('href')==='#'+tok));
-  if(tok==='tests') renderTests(); if(tok==='pricing') renderPlans(); if(tok==='account') renderAccount(); if(tok==='admin') adminTab('users'); if(tok==='library') renderLibrary(); if(tok==='home') renderHomeFeedback();
+  if(tok==='tests'){renderTests();setTimeout(jumpToSubject,80)} if(tok==='pricing') renderPlans(); if(tok==='account') renderAccount(); if(tok==='admin') adminTab('users'); if(tok==='library') renderLibrary(); if(tok==='home') renderHomeFeedback();
   window.scrollTo({top:0});
 }
-window.addEventListener('hashchange',()=>show(location.hash.replace('#','')));
+window.addEventListener('hashchange',()=>show(location.hash.replace('#','').split('&')[0]));
+function jumpToSubject(){const parts=location.hash.replace('#','').split('&');if(parts[0]==='tests'&&parts[1]){const el=document.getElementById('sub-'+parts[1]);if(el){el.scrollIntoView({behavior:'smooth',block:'start'});el.style.boxShadow='0 0 0 3px var(--saffron)';setTimeout(()=>{el.style.boxShadow=''},2500)}}}
 let _vid=null; try{_vid=localStorage.getItem('bp_vid'); if(!_vid){_vid=Math.random().toString(36).slice(2)+Date.now().toString(36); localStorage.setItem('bp_vid',_vid)}}catch(e){_vid='anon'}
 function hit(tok){try{fetch('/.netlify/functions/hit',{method:'POST',keepalive:true,headers:{'content-type':'application/json'},body:JSON.stringify({page:tok||'home',vid:_vid})}).catch(()=>{})}catch(e){}}
 const _show=show; show=function(tok){_show(tok); hit(VIEWS.includes(tok)?tok:'home')};
@@ -2884,8 +2885,10 @@ async function renderAccount(){
   if(!user) return;
   document.getElementById('accName').textContent=user.name||user.email;
   document.getElementById('accProfile').innerHTML=`<dt>Email</dt><dd>${esc(user.email)}</dd><dt>Organisation</dt><dd>${esc(user.org||'—')}</dd><dt>Preparing for</dt><dd>${esc(user.goal||'—')}</dd><dt>Member since</dt><dd>${fmtDate(user.created_at)}</dd>`;
+  const mine=SUBJECTS.filter(sub=>ents.some(e=>e.pack===sub.pack||(sub.also_in&&e.pack===sub.also_in)));
+  const mineHtml=mine.length?`<h4 style="margin:.2rem 0 .5rem">My papers</h4><div style="display:flex;flex-wrap:wrap;gap:.5rem;margin-bottom:.9rem">${mine.map(sub=>`<a class="btn sm" href="#tests&${sub.id}" style="background:var(--saffron)">${esc(sub.code)} ${esc(sub.name)} · ${sub.mocks.length} mocks</a>`).join('')}</div>`:'';
   const pendHtml=pending.length?`<h4 style="margin:.9rem 0 .3rem">Payment requests</h4><div class="tablewrap"><table><thead><tr><th>Pack</th><th>Amount</th><th>Ref</th><th>UTR</th><th>Status</th></tr></thead><tbody>${pending.map(o=>`<tr><td>${esc((PLANS.find(p=>p.id===o.pack)||{}).name||o.pack)}</td><td class="num">₹${o.final_amount}</td><td style="font-family:var(--mono)">${refOf(o.id)}</td><td style="font-family:var(--mono);font-size:.8rem">${esc(o.utr||'')}</td><td>${o.status==='pending'?'<span class="pill warn">Pending approval</span>':`<span class="pill bad">Rejected</span><br><small>${esc(o.review_note||'')}</small>`}</td></tr>`).join('')}</tbody></table></div><p class="note">Pending requests are usually approved within 24 hours. Rejected? Check the note and <a href="#pricing">submit again</a> with the correct UTR and screenshot.</p>`:'';
-  document.getElementById('accPacks').innerHTML=(ents.length?`<div class="tablewrap"><table><thead><tr><th>Pack</th><th>Valid till</th><th>How</th></tr></thead><tbody>${ents.map(e=>`<tr><td>${esc((PLANS.find(p=>p.id===e.pack)||{}).name||e.pack)}</td><td>${fmtDate(e.expires_at)}</td><td>${esc(e.source)}</td></tr>`).join('')}</tbody></table></div>`:'<p class="note">No packs yet · <a href="#pricing">see pricing</a></p>')+pendHtml;
+  document.getElementById('accPacks').innerHTML=mineHtml+(ents.length?`<div class="tablewrap"><table><thead><tr><th>Pack</th><th>Valid till</th><th>How</th></tr></thead><tbody>${ents.map(e=>`<tr><td>${esc((PLANS.find(p=>p.id===e.pack)||{}).name||e.pack)}</td><td>${fmtDate(e.expires_at)}</td><td>${esc(e.source)}</td></tr>`).join('')}</tbody></table></div>`:'<p class="note">No packs yet · <a href="#pricing">see pricing</a></p>')+pendHtml;
   document.getElementById('accHistory').innerHTML=historyTable();
 }
 function historyTable(){
@@ -2907,7 +2910,7 @@ function planBtn(p){
 function renderPlans(){
   const bundles=PLANS.filter(p=>p.level==='Licentiate'||p.level==='IC-38'||p.id==='pe_all');
   document.getElementById('planList').innerHTML=bundles.map(p=>`<div class="card plan ${p.pop?'pop':''}"><h3>${esc(p.name)}</h3><div class="price">₹${p.price} <small>/ 3 months</small></div><ul>${p.bullets.filter(Boolean).map(b=>`<li>${esc(b)}</li>`).join('')}<li>Explanations for every answer and result history</li></ul>${planBtn(p)}</div>`).join('');
-  const levels=[{L:'Associateship',price:499,note:'Core papers (choose one from each pair as per III rules) and optional papers. ₹499 per paper · 5 full-syllabus mocks of 50 questions · 3 months.'},{L:'Fellowship',price:699,note:'40-credit papers and the actuarial compulsory papers. ₹699 per paper · 5 full-syllabus mocks of 50 questions · 3 months.'},{L:'Promotion Exam',price:499,note:'For the departmental promotion exam of PSU general insurers (Scale I–II). Questions are built from the trainers\' own material — Motor, Reinsurance, Accounts and Legal. ₹499 per paper, or all four for ₹1,499 (above).'}];
+  const levels=[{L:'Associateship',price:499,note:'Core papers (choose one from each pair as per III rules) and optional papers. ₹499 per paper · 5 full-syllabus mocks of 50 questions · 3 months.'},{L:'Fellowship',price:699,note:'40-credit papers and the actuarial compulsory papers. ₹699 per paper · 5 full-syllabus mocks of 50 questions · 3 months.'},{L:'Promotion Exam',price:499,note:'For the departmental promotion exam of general insurers — common for all scales. Motor, Reinsurance, Accounts and Legal. ₹499 per paper, or all four for ₹1,499 (above).'}];
   document.getElementById('subjectPlans').innerHTML=levels.map(({L,note})=>{const subs=PLANS.filter(p=>p.level===L&&p.id!=='pe_all');const groups=[...new Set(subs.map(p=>p.group))];
     return `<h2 style="margin-top:1.8rem">${L} papers · subject-wise</h2><p style="color:var(--muted);font-size:.93rem">${note}</p>${groups.map(g=>`<h3 style="margin:1rem 0 .4rem;font-size:1rem;color:var(--muted)">${esc(g)}</h3><div class="tablewrap"><table><tbody>${subs.filter(p=>p.group===g).map(p=>`<tr><td style="white-space:nowrap;font-family:var(--mono)">${esc(p.name.split(' ')[0])}</td><td>${esc(p.name.split(' ').slice(1).join(' '))}${p.ready?` <small style="color:var(--muted)">· ${(SUBJECTS.find(x=>x.id===p.id)||{mocks:[]}).mocks.length} mocks</small>`:' <span class="pill tag-paid">coming soon</span>'}</td><td class="num">₹${p.price}</td><td style="text-align:right">${planBtn(p)}</td></tr>`).join('')}</tbody></table></div>`).join('')}`}).join('');
   document.querySelectorAll('[data-buy]').forEach(b=>b.addEventListener('click',()=>buy(b.dataset.buy)));
@@ -2951,7 +2954,7 @@ function showUpiStep(o,box){
       <dl class="terms"><dt>Pay to</dt><dd>${esc(o.upiName)}</dd><dt>Amount</dt><dd><b>₹${o.amount}</b> (exact amount)</dd><dt>Reference</dt><dd style="font-family:var(--mono)"><b>${esc(o.reference)}</b> — put this in the UPI remarks/note</dd></dl>
       <h4 style="margin:1rem 0 .4rem">After paying</h4>
       <div class="field"><label for="utr">UPI transaction number (UTR / Ref no.)</label><input id="utr" placeholder="12-digit number from your UPI app" autocomplete="off"></div>
-      <div class="field"><label for="proof">Payment screenshot (JPG/PNG/PDF, max 5 MB)</label><input id="proof" type="file" accept="image/*,application/pdf"></div>
+      <div class="field"><label for="proof">Payment screenshot or receipt (image or PDF, max 10 MB)</label><input id="proof" type="file"></div>
       <div class="err" id="payErr"></div>
       <div style="display:flex;gap:.6rem;flex-wrap:wrap"><button class="btn sm" id="paySubmit">Submit for approval</button><button class="btn ghost sm" id="payCancel">Cancel</button></div>
     </div>
@@ -2962,13 +2965,15 @@ function showUpiStep(o,box){
     const utr=box.querySelector('#utr').value.trim(); const f=box.querySelector('#proof').files[0];
     if(!/^[A-Za-z0-9-]{6,40}$/.test(utr)){err.textContent='Enter the UPI transaction number shown in your UPI app (usually 12 digits).';return}
     if(!f){err.textContent='Attach the payment screenshot.';return}
-    if(f.size>5*1024*1024){err.textContent='Screenshot is larger than 5 MB.';return}
+    if(f.size>10*1024*1024){err.textContent='File is larger than 10 MB.';return}
     const btn=box.querySelector('#paySubmit'); btn.disabled=true; btn.textContent='Uploading…';
     try{
-      const ext=(f.name.split('.').pop()||'jpg').toLowerCase().replace(/[^a-z0-9]/g,'')||'jpg';
+      let ext=(f.name.includes('.')?f.name.split('.').pop():'').toLowerCase().replace(/[^a-z0-9]/g,'').slice(0,5);
+      const mime=(f.type||'').toLowerCase(); if(!ext){ext=mime==='application/pdf'?'pdf':mime.startsWith('image/')?mime.split('/')[1].replace('jpeg','jpg'):'bin'}
+      const ctype=mime||(ext==='pdf'?'application/pdf':ext==='png'?'image/png':ext==='webp'?'image/webp':ext==='heic'?'image/heic':'image/jpeg');
       const path=`${user.id}/${o.orderId}.${ext}`;
-      const {error}=await sb.storage.from('proofs').upload(path,f,{upsert:true,contentType:f.type||undefined});
-      if(error) throw new Error('Upload failed: '+error.message);
+      const {error}=await sb.storage.from('proofs').upload(path,f,{upsert:true,contentType:ctype});
+      if(error) throw new Error('Upload failed: '+(error.message||'')+'. Try a screenshot image instead, or email it to support@bimaprep.in with your reference '+o.reference+'.');
       const r=await api('submit-payment',{orderId:o.orderId,utr,proofPath:path});
       box.innerHTML=`<h3>Submitted — pending approval</h3><p>Thanks. We have received your payment details for <b>${esc(o.pack)}</b> (reference <b>${esc(r.reference)}</b>, UTR ${esc(utr)}). The pack is activated after we verify the payment, usually within 24 hours. You can check the status on your <a href="#account">account page</a>.</p>`;
       await loadUser(); renderPlans();
@@ -3005,6 +3010,9 @@ async function renderLibrary(){
 // ================= tests list =================
 function renderTests(){
   document.getElementById('signinGate').hidden=!!user;
+  const mineT=user?SUBJECTS.filter(sub=>ents.some(e=>e.pack===sub.pack||(sub.also_in&&e.pack===sub.also_in))):[];
+  let myBox=document.getElementById('myPapers'); if(!myBox){myBox=document.createElement('div');myBox.id='myPapers';document.getElementById('testHome').prepend(myBox)}
+  myBox.innerHTML=mineT.length?`<div class="card" style="border-color:var(--saffron);margin-bottom:1rem"><h3 style="margin:0 0 .5rem">My papers</h3><div style="display:flex;flex-wrap:wrap;gap:.5rem">${mineT.map(sub=>`<a class="btn sm" href="#tests&${sub.id}" style="background:var(--saffron)">${esc(sub.code)} ${esc(sub.name)}</a>`).join('')}</div></div>`:'';
   document.getElementById('testHome').hidden=false; document.getElementById('testRun').hidden=true; document.getElementById('testResult').hidden=true;
   const live=CFG.paymentsLive;
   document.getElementById('testList').innerHTML=TESTS.map(t=>{const b=best(t.id),ok=owned(t.id),pk=packFor(t.id),free=FREE.includes(t.id);
@@ -3018,7 +3026,7 @@ function renderTests(){
     return `<h2 style="margin-top:1.6rem">${L} · subject-wise mock papers</h2><p style="color:var(--muted);font-size:.93rem">50 questions · 60 minutes · 60% to pass. Five or more mocks per subject (up to 17 where the bank is large); each mock covers the whole syllabus of that paper. The paper's key facts recur across its mocks, and the regulatory basics common to all III papers recur across papers — by design, so they stick.${L==='Licentiate'?'':L==='Promotion Exam'?' Sold per paper or as a 4-paper pack.':' Sold per subject.'}</p><div class="grid g2">${subs.map(sub=>{const pk=PLANS.find(p=>p.id===sub.pack);const ok=ents.some(e=>e.pack===sub.pack||(sub.also_in&&e.pack===sub.also_in));
       const body=!sub.ready?`<p class="note" style="margin-top:.5rem">Mock papers for this subject are being prepared. ${pk?`<button class="btn ghost sm" data-unlock="${sub.pack}">Notify me</button>`:''}</p>`:
         `<div style="display:flex;flex-wrap:wrap;gap:.5rem;margin-top:.5rem">${sub.mocks.map(m=>{const b=best(m.id);return ok?`<button class="btn sm ghost" data-mock="${m.id}" ${user?'':'disabled'}>${m.title}${b===null?'':' · '+b+'%'}</button>`:`<span class="pill tag-paid">${m.title} · locked</span>`}).join('')}</div>${ok?'':`<div style="margin-top:.9rem"><button class="btn sm" data-unlock="${sub.pack}" style="background:var(--saffron)">${live?'Unlock':'Coming soon ·'} ${esc(pk?pk.name:'')} · ₹${pk?pk.price:''}</button></div>`}`;
-      return `<div class="card c-${colorOf(sub.code)}"><div class="eyebrow">${sub.code}${sub.group?' · '+esc(sub.group):''}</div><h3>${esc(sub.name)}</h3>${body}</div>`}).join('')}</div>`}).join('');
+      return `<div class="card c-${colorOf(sub.code)}" id="sub-${sub.id}"><div class="eyebrow">${sub.code}${sub.group?' · '+esc(sub.group):''}</div><h3>${esc(sub.name)}</h3>${body}</div>`}).join('')}</div>`}).join('');
   document.querySelectorAll('[data-mock]').forEach(b=>b.addEventListener('click',async()=>{const sub=SUBJECTS.find(x=>x.mocks.some(m=>m.id===b.dataset.mock));const m=sub.mocks.find(m=>m.id===b.dataset.mock);b.textContent='Loading…';try{if(!bankCache[m.id]){const r=await fetch(m.file);bankCache[m.id]=await r.json()}startTest(m.id,{id:m.id,paper:`${sub.code} · ${sub.name}`,title:`${sub.code} ${m.title}`,minutes:60,q:bankCache[m.id]})}catch(e){b.textContent='Could not load, retry'}}));
   document.querySelectorAll('[data-unlock]').forEach(b=>b.addEventListener('click',()=>{location.hash='#pricing';setTimeout(()=>buy(b.dataset.unlock),50)}));
   document.getElementById('history').innerHTML=user&&results.length?`<h2>Your attempts</h2>${historyTable()}`:'';
