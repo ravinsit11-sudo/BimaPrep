@@ -23,7 +23,7 @@
    "price": 1499,
    "level": "Promotion Exam",
    "ready": true,
-   "desc": "Motor · Reinsurance · Accounts · Legal — GIPSA/PSU promotion exam, built from trainers' material; 20 mocks"
+   "desc": "Motor · Reinsurance · Accounts · Legal — departmental promotion exam of general insurers, all scales; 20 mocks"
   }
  ],
  "subjects": [
@@ -359,7 +359,7 @@
    "code": "PE-Motor",
    "name": "Motor Insurance",
    "level": "Promotion Exam",
-   "group": "PSU general insurer promotion exam (Scale I–II)",
+   "group": "Departmental promotion exam · all scales",
    "price": 499,
    "ready": true,
    "also_in": "pe_all"
@@ -369,7 +369,7 @@
    "code": "PE-RI",
    "name": "Reinsurance",
    "level": "Promotion Exam",
-   "group": "PSU general insurer promotion exam (Scale I–II)",
+   "group": "Departmental promotion exam · all scales",
    "price": 499,
    "ready": true,
    "also_in": "pe_all"
@@ -379,7 +379,7 @@
    "code": "PE-Accounts",
    "name": "Accounts & Finance",
    "level": "Promotion Exam",
-   "group": "PSU general insurer promotion exam (Scale I–II)",
+   "group": "Departmental promotion exam · all scales",
    "price": 499,
    "ready": true,
    "also_in": "pe_all"
@@ -389,7 +389,7 @@
    "code": "PE-Legal",
    "name": "Legal Framework",
    "level": "Promotion Exam",
-   "group": "PSU general insurer promotion exam (Scale I–II)",
+   "group": "Departmental promotion exam · all scales",
    "price": 499,
    "ready": true,
    "also_in": "pe_all"
