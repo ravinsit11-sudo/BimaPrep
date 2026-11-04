@@ -126,7 +126,7 @@ footer .wrap{display:flex;gap:1rem;flex-wrap:wrap;justify-content:space-between}
   <div class="wrap">
     <a class="brand" href="#home">BimaPrep <small>Insurance exam preparation · India</small></a>
     <nav id="nav">
-      <a href="#home">Home</a><a href="#insurance">About Insurance</a><a href="#irdai">About IRDAI</a><a href="#tests">Mock Tests</a><a href="#pricing">Pricing</a><a href="#library">Library</a><a href="#about">About Us</a><a href="#account" id="navAccount">Sign in</a>
+      <a href="#home">Home</a><a href="#insurance">About Insurance</a><a href="#irdai">About IRDAI</a><a href="#tests">Mock Tests</a><a href="#pricing">Pricing</a><a href="#library">Library</a><a href="#mypapers" id="navMine" hidden>My Papers</a><a href="#about">About Us</a><a href="#account" id="navAccount">Sign in</a>
     </nav>
   </div>
 </header>
@@ -287,6 +287,14 @@ footer .wrap{display:flex;gap:1rem;flex-wrap:wrap;justify-content:space-between}
 
 <!-- FEEDBACK (shown on Home + About) -->
 <!-- LIBRARY -->
+<section class="view" id="v-mypapers" hidden>
+  <div class="wrap">
+    <div class="eyebrow">Your purchases</div>
+    <h2>My Papers</h2>
+    <p class="lead">Every paper you have paid for, with its mocks ready to attempt. Scores are saved to your account.</p>
+    <div id="mineList"></div>
+  </div>
+</section>
 <section class="view" id="v-library" hidden>
   <div class="eyebrow">Free library</div>
   <h1>Reading room — free to download</h1>
@@ -2822,13 +2830,13 @@ function packFor(testId){return PLANS.find(p=>p.id===QUICKPACK[testId])}
 function best(id){const r=results.filter(x=>x.mock_id===id);return r.length?Math.max(...r.map(x=>x.pct)):null}
 
 // ================= routing =================
-const VIEWS=['home','insurance','irdai','tests','pricing','library','about','legal','account','admin'];
+const VIEWS=['home','insurance','irdai','tests','pricing','library','mypapers','about','legal','account','admin'];
 function show(tok){
   if(!VIEWS.includes(tok)) tok='home';
   if(tok==='admin'&&!(user&&user.is_admin)) tok='account';
   VIEWS.forEach(v=>{document.getElementById('v-'+v).hidden=(v!==tok)});
   document.querySelectorAll('#nav a').forEach(a=>a.classList.toggle('active',a.getAttribute('href')==='#'+tok));
-  if(tok==='tests'){renderTests();setTimeout(jumpToSubject,80)} if(tok==='pricing') renderPlans(); if(tok==='account') renderAccount(); if(tok==='admin') adminTab('users'); if(tok==='library') renderLibrary(); if(tok==='home') renderHomeFeedback();
+  if(tok==='tests'){renderTests();setTimeout(jumpToSubject,80)} if(tok==='pricing') renderPlans(); if(tok==='account') renderAccount(); if(tok==='admin') adminTab('users'); if(tok==='library') renderLibrary(); if(tok==='mypapers') renderMine(); if(tok==='home') renderHomeFeedback();
   window.scrollTo({top:0});
 }
 window.addEventListener('hashchange',()=>show(location.hash.replace('#','').split('&')[0]));
@@ -2836,8 +2844,21 @@ function jumpToSubject(){const parts=location.hash.replace('#','').split('&');if
 let _vid=null; try{_vid=localStorage.getItem('bp_vid'); if(!_vid){_vid=Math.random().toString(36).slice(2)+Date.now().toString(36); localStorage.setItem('bp_vid',_vid)}}catch(e){_vid='anon'}
 function hit(tok){try{fetch('/.netlify/functions/hit',{method:'POST',keepalive:true,headers:{'content-type':'application/json'},body:JSON.stringify({page:tok||'home',vid:_vid})}).catch(()=>{})}catch(e){}}
 const _show=show; show=function(tok){_show(tok); hit(VIEWS.includes(tok)?tok:'home')};
+window.colorOf=c=>({'IC-02':'life','IC-11':'property','IC-14':'reg','IC-27':'health','IC-72':'motor','IC-71':'crop','IC-57':'property'})[c]||'ic01';
+function ownedSubjects(){return user?SUBJECTS.filter(sub=>ents.some(e=>e.pack===sub.pack||(sub.also_in&&e.pack===sub.also_in))):[]}
+function renderMine(){
+  const box=document.getElementById('mineList');
+  if(!user){box.innerHTML='<div class="card" style="border-color:var(--gold)">Sign in to see the papers you have bought. <a class="btn sm" href="#account">Sign in</a></div>';return}
+  const mine=ownedSubjects();
+  const pend=pending;
+  if(!mine.length){box.innerHTML=`<div class="card">${pend.length?'Your payment is under verification — the paper will appear here as soon as it is approved (usually within 24 hours).':'You have not bought any paper yet.'} <a class="btn sm" href="#pricing" style="background:var(--saffron)">See papers &amp; prices</a></div>`;return}
+  box.innerHTML=mine.map(sub=>{const ent=ents.find(e=>e.pack===sub.pack||(sub.also_in&&e.pack===sub.also_in));const till=ent&&ent.expires_at?new Date(ent.expires_at).toLocaleDateString('en-IN',{day:'numeric',month:'short',year:'numeric'}):'';
+    return `<div class="card c-${colorOf(sub.code)}" style="margin-bottom:1rem"><div class="eyebrow">${esc(sub.code)} · ${esc(sub.level)}</div><h3 style="margin:.2rem 0">${esc(sub.name)}</h3><p style="margin:.2rem 0 .6rem;opacity:.8">${sub.mocks.length} mocks · 50 questions · 60 minutes each${till?' · valid till '+till:''}</p><div style="display:flex;flex-wrap:wrap;gap:.5rem">${sub.mocks.map(m=>{const b=best(m.id);return `<button class="btn sm" data-mock="${m.id}" style="background:var(--saffron)">${m.title}${b===null?'':' · best '+b+'%'}</button>`}).join('')}</div></div>`}).join('');
+  box.querySelectorAll('[data-mock]').forEach(b=>b.addEventListener('click',async()=>{const sub=SUBJECTS.find(x=>x.mocks.some(m=>m.id===b.dataset.mock));const m=sub.mocks.find(m=>m.id===b.dataset.mock);b.textContent='Loading…';try{if(!bankCache[m.id]){const r=await fetch(m.file);bankCache[m.id]=await r.json()}startTest(m.id,{id:m.id,paper:`${sub.code} · ${sub.name}`,title:`${sub.code} ${m.title}`,minutes:60,q:bankCache[m.id]})}catch(e){b.textContent='Could not load, retry'}}));
+}
 function renderNav(){
   const a=document.getElementById('navAccount'); a.textContent=user?(user.name||user.email).split(' ')[0]:'Sign in';
+  const nm=document.getElementById('navMine'); if(nm) nm.hidden=!user;
   let ad=document.getElementById('navAdmin');
   if(user&&user.is_admin){ if(!ad){ad=document.createElement('a');ad.id='navAdmin';ad.href='#admin';ad.textContent='Admin';a.after(ad)} } else if(ad) ad.remove();
 }
@@ -2886,7 +2907,7 @@ async function renderAccount(){
   document.getElementById('accName').textContent=user.name||user.email;
   document.getElementById('accProfile').innerHTML=`<dt>Email</dt><dd>${esc(user.email)}</dd><dt>Organisation</dt><dd>${esc(user.org||'—')}</dd><dt>Preparing for</dt><dd>${esc(user.goal||'—')}</dd><dt>Member since</dt><dd>${fmtDate(user.created_at)}</dd>`;
   const mine=SUBJECTS.filter(sub=>ents.some(e=>e.pack===sub.pack||(sub.also_in&&e.pack===sub.also_in)));
-  const mineHtml=mine.length?`<h4 style="margin:.2rem 0 .5rem">My papers</h4><div style="display:flex;flex-wrap:wrap;gap:.5rem;margin-bottom:.9rem">${mine.map(sub=>`<a class="btn sm" href="#tests&${sub.id}" style="background:var(--saffron)">${esc(sub.code)} ${esc(sub.name)} · ${sub.mocks.length} mocks</a>`).join('')}</div>`:'';
+  const mineHtml=mine.length?`<h4 style="margin:.2rem 0 .5rem">My papers</h4><div style="display:flex;flex-wrap:wrap;gap:.5rem;margin-bottom:.9rem">${mine.map(sub=>`<a class="btn sm" href="#mypapers" style="background:var(--saffron)">${esc(sub.code)} ${esc(sub.name)} · ${sub.mocks.length} mocks</a>`).join('')}</div>`:'';
   const pendHtml=pending.length?`<h4 style="margin:.9rem 0 .3rem">Payment requests</h4><div class="tablewrap"><table><thead><tr><th>Pack</th><th>Amount</th><th>Ref</th><th>UTR</th><th>Status</th></tr></thead><tbody>${pending.map(o=>`<tr><td>${esc((PLANS.find(p=>p.id===o.pack)||{}).name||o.pack)}</td><td class="num">₹${o.final_amount}</td><td style="font-family:var(--mono)">${refOf(o.id)}</td><td style="font-family:var(--mono);font-size:.8rem">${esc(o.utr||'')}</td><td>${o.status==='pending'?'<span class="pill warn">Pending approval</span>':`<span class="pill bad">Rejected</span><br><small>${esc(o.review_note||'')}</small>`}</td></tr>`).join('')}</tbody></table></div><p class="note">Pending requests are usually approved within 24 hours. Rejected? Check the note and <a href="#pricing">submit again</a> with the correct UTR and screenshot.</p>`:'';
   document.getElementById('accPacks').innerHTML=mineHtml+(ents.length?`<div class="tablewrap"><table><thead><tr><th>Pack</th><th>Valid till</th><th>How</th></tr></thead><tbody>${ents.map(e=>`<tr><td>${esc((PLANS.find(p=>p.id===e.pack)||{}).name||e.pack)}</td><td>${fmtDate(e.expires_at)}</td><td>${esc(e.source)}</td></tr>`).join('')}</tbody></table></div>`:'<p class="note">No packs yet · <a href="#pricing">see pricing</a></p>')+pendHtml;
   document.getElementById('accHistory').innerHTML=historyTable();
@@ -3012,7 +3033,7 @@ function renderTests(){
   document.getElementById('signinGate').hidden=!!user;
   const mineT=user?SUBJECTS.filter(sub=>ents.some(e=>e.pack===sub.pack||(sub.also_in&&e.pack===sub.also_in))):[];
   let myBox=document.getElementById('myPapers'); if(!myBox){myBox=document.createElement('div');myBox.id='myPapers';document.getElementById('testHome').prepend(myBox)}
-  myBox.innerHTML=mineT.length?`<div class="card" style="border-color:var(--saffron);margin-bottom:1rem"><h3 style="margin:0 0 .5rem">My papers</h3><div style="display:flex;flex-wrap:wrap;gap:.5rem">${mineT.map(sub=>`<a class="btn sm" href="#tests&${sub.id}" style="background:var(--saffron)">${esc(sub.code)} ${esc(sub.name)}</a>`).join('')}</div></div>`:'';
+  myBox.innerHTML=mineT.length?`<div class="card" style="border-color:var(--saffron);margin-bottom:1rem"><h3 style="margin:0 0 .5rem">My papers</h3><div style="display:flex;flex-wrap:wrap;gap:.5rem">${mineT.map(sub=>`<a class="btn sm" href="#mypapers" style="background:var(--saffron)">${esc(sub.code)} ${esc(sub.name)}</a>`).join('')}</div></div>`:'';
   document.getElementById('testHome').hidden=false; document.getElementById('testRun').hidden=true; document.getElementById('testResult').hidden=true;
   const live=CFG.paymentsLive;
   document.getElementById('testList').innerHTML=TESTS.map(t=>{const b=best(t.id),ok=owned(t.id),pk=packFor(t.id),free=FREE.includes(t.id);
@@ -3021,7 +3042,7 @@ function renderTests(){
     return `<div class="card c-${t.id}"><div class="eyebrow">${esc(t.paper)}</div><h3>${esc(t.title)}</h3><p style="color:var(--muted);font-size:.92rem">${t.q.length} questions · ${t.minutes} min · pass 60%</p><div style="display:flex;gap:.4rem;flex-wrap:wrap">${tag}${b===null?'':`<span class="pill ${b>=60?'ok':'bad'}">Best ${b}%</span>`}</div><div style="margin-top:.9rem">${action}</div></div>`}).join('');
   document.querySelectorAll('[data-start]').forEach(b=>b.addEventListener('click',()=>startTest(b.dataset.start)));
   const levels=['Licentiate','Associateship','Fellowship','Promotion Exam'];
-  const colorOf=c=>({'IC-02':'life','IC-11':'property','IC-14':'reg','IC-27':'health','IC-72':'motor','IC-71':'crop','IC-57':'property'})[c]||'ic01';
+  const colorOf=window.colorOf||(c=>({'IC-02':'life','IC-11':'property','IC-14':'reg','IC-27':'health','IC-72':'motor','IC-71':'crop','IC-57':'property'})[c]||'ic01');
   document.getElementById('subjectList').innerHTML=levels.map(L=>{const subs=SUBJECTS.filter(x=>x.level===L);if(!subs.length)return '';
     return `<h2 style="margin-top:1.6rem">${L} · subject-wise mock papers</h2><p style="color:var(--muted);font-size:.93rem">50 questions · 60 minutes · 60% to pass. Five or more mocks per subject (up to 17 where the bank is large); each mock covers the whole syllabus of that paper. The paper's key facts recur across its mocks, and the regulatory basics common to all III papers recur across papers — by design, so they stick.${L==='Licentiate'?'':L==='Promotion Exam'?' Sold per paper or as a 4-paper pack.':' Sold per subject.'}</p><div class="grid g2">${subs.map(sub=>{const pk=PLANS.find(p=>p.id===sub.pack);const ok=ents.some(e=>e.pack===sub.pack||(sub.also_in&&e.pack===sub.also_in));
       const body=!sub.ready?`<p class="note" style="margin-top:.5rem">Mock papers for this subject are being prepared. ${pk?`<button class="btn ghost sm" data-unlock="${sub.pack}">Notify me</button>`:''}</p>`:
