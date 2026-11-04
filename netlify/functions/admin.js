@@ -111,7 +111,8 @@ exports.handler = async (event) => {
     }
     if (a === 'visits') {
       const since30 = new Date(Date.now() - 30 * 86400000).toISOString();
-      const { data: rows } = await sb.from('hits').select('page,vid,created_at').gte('created_at', since30).limit(100000);
+      const { data: rows, error: hErr } = await sb.from('hits').select('page,vid,created_at').gte('created_at', since30).limit(100000);
+      if (hErr) return L.json(200, { today: 0, week: 0, total: 0, daily: [], pages: [], error: 'hits table: ' + hErr.message + ' — run supabase/schema_v4_feedback_hits.sql in the Supabase SQL editor.' });
       const { count: total } = await sb.from('hits').select('*', { count: 'exact', head: true });
       const ist = d => new Date(new Date(d).getTime() + 330 * 60000).toISOString().slice(0, 10);
       const todayKey = ist(new Date()); const week = new Date(Date.now() - 7 * 86400000).toISOString();
