@@ -393,7 +393,7 @@ footer .wrap{display:flex;gap:1rem;flex-wrap:wrap;justify-content:space-between}
 
 </main>
 
-<footer><div class="wrap"><span>© BimaPrep · bimaprep.in · <small style="opacity:.6">v20</small> · <a href="#legal">Privacy · Terms · Refunds</a> · Not affiliated with IRDAI, III or any insurer</span><span>Sources: Insurance Act 1938 · IRDA Act 1999 · IRDAI regulations & master circulars 2024 · PMFBY Operational Guidelines 2023</span></div></footer>
+<footer><div class="wrap"><span>© BimaPrep · bimaprep.in · <small style="opacity:.6">v21</small> · <a href="#legal">Privacy · Terms · Refunds</a> · Not affiliated with IRDAI, III or any insurer</span><span>Sources: Insurance Act 1938 · IRDA Act 1999 · IRDAI regulations & master circulars 2024 · PMFBY Operational Guidelines 2023</span></div></footer>
 
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js"></script>
 <script>
@@ -3147,10 +3147,12 @@ async function adminTab(tab){
       const d=await api('admin',{action:'visits'});
       const bar=(v,max)=>`<div style="background:var(--accent);height:10px;border-radius:3px;width:${max?Math.max(2,Math.round(v/max*100)):0}%"></div>`;
       const mx=Math.max(1,...d.daily.map(x=>x.visits));
-      body.innerHTML=`<div class="grid g3"><div class="card"><div class="big">${d.today}</div><div class="eyebrow">Visits today</div></div><div class="card"><div class="big">${d.week}</div><div class="eyebrow">Last 7 days</div></div><div class="card"><div class="big">${d.total}</div><div class="eyebrow">All time</div></div></div>
+      const warn=d.error?`<div class="card" style="border-color:#c0392b;margin-bottom:1rem"><b>Counter not working:</b> ${esc(d.error)}</div>`:'';
+      body.innerHTML=warn+`<p><button class="btn sm ghost" id="hitTest">Test the counter</button> <span id="hitTestOut" class="note"></span></p>`+`<div class="grid g3"><div class="card"><div class="big">${d.today}</div><div class="eyebrow">Visits today</div></div><div class="card"><div class="big">${d.week}</div><div class="eyebrow">Last 7 days</div></div><div class="card"><div class="big">${d.total}</div><div class="eyebrow">All time</div></div></div>
       <h3 style="margin-top:1.2rem">Daily visits (last 30 days)</h3><div class="tablewrap"><table><tbody>${d.daily.map(x=>`<tr><td style="white-space:nowrap">${esc(x.day)}</td><td style="width:60%">${bar(x.visits,mx)}</td><td class="num">${x.visits}</td><td class="num"><small>${x.unique} unique</small></td></tr>`).join('')}</tbody></table></div>
       <h3 style="margin-top:1.2rem">Most viewed pages (30 days)</h3><div class="tablewrap"><table><thead><tr><th>Page</th><th>Views</th></tr></thead><tbody>${d.pages.map(p=>`<tr><td>${esc(p.page)}</td><td class="num">${p.views}</td></tr>`).join('')}</tbody></table></div>
       <p class="note">A visit = one page view. Unique = distinct visitors per day (anonymous id in the browser; no personal data stored).</p>`;
+      document.getElementById('hitTest').addEventListener('click',async()=>{const o=document.getElementById('hitTestOut');o.textContent='Testing…';try{const r=await fetch('/.netlify/functions/hit',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({page:'admin',vid:_vid})});const t=await r.text();let j={};try{j=JSON.parse(t)}catch(e){}o.textContent=r.status===404?'hit.js is not deployed — upload netlify/functions/hit.js to GitHub.':(j.ok?'OK — one visit recorded. Reload this tab.':'Function error: '+(j.error||t.slice(0,120)))}catch(e){o.textContent='Could not reach the function: '+e.message}});
     }
     if(tab==='audit'){
       const d=await api('admin',{action:'audit'});
