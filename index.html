@@ -356,6 +356,7 @@ footer .wrap{display:flex;gap:1rem;flex-wrap:wrap;justify-content:space-between}
         <div style="display:flex;gap:.4rem;margin-bottom:1rem"><button type="button" class="btn sm" id="tabIn">Sign in</button><button type="button" class="btn ghost sm" id="tabUp">Create account</button></div>
         <div id="upFields" hidden>
           <div class="field"><label for="fName">Full name</label><input id="fName" autocomplete="name" placeholder="As on your employee ID"></div>
+          <div class="field"><label for="fPhone">Mobile number</label><input id="fPhone" type="tel" inputmode="numeric" maxlength="10" placeholder="10-digit mobile" autocomplete="tel-national"></div>
           <div class="field"><label for="fOrg">Employer / organisation</label><input id="fOrg" placeholder="e.g. The Oriental Insurance Co. Ltd"></div>
           <div class="field"><label for="fGoal">Preparing for</label><select id="fGoal"><option>Licentiate</option><option>Associateship</option><option>Fellowship</option><option>IC-38 (Agent)</option><option>General knowledge</option></select></div>
         </div>
@@ -393,7 +394,7 @@ footer .wrap{display:flex;gap:1rem;flex-wrap:wrap;justify-content:space-between}
 
 </main>
 
-<footer><div class="wrap"><span>© BimaPrep · bimaprep.in · <small style="opacity:.6">v21</small> · <a href="#legal">Privacy · Terms · Refunds</a> · Not affiliated with IRDAI, III or any insurer</span><span>Sources: Insurance Act 1938 · IRDA Act 1999 · IRDAI regulations & master circulars 2024 · PMFBY Operational Guidelines 2023</span></div></footer>
+<footer><div class="wrap"><span>© BimaPrep · bimaprep.in · <small style="opacity:.6">v22</small> · <a href="#legal">Privacy · Terms · Refunds</a> · Not affiliated with IRDAI, III or any insurer</span><span>Sources: Insurance Act 1938 · IRDA Act 1999 · IRDAI regulations & master circulars 2024 · PMFBY Operational Guidelines 2023</span></div></footer>
 
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js"></script>
 <script>
@@ -2877,7 +2878,8 @@ document.getElementById('formSignin').addEventListener('submit',async e=>{
   try{
     if(mode==='up'){
       const name=document.getElementById('fName').value.trim(); if(name.length<2) throw new Error('Enter your name.');
-      const {data,error}=await sb.auth.signUp({email,password:pass,options:{data:{name,org:document.getElementById('fOrg').value.trim(),goal:document.getElementById('fGoal').value}}});
+      const phone=document.getElementById('fPhone').value.replace(/\D/g,''); if(!/^[6-9]\d{9}$/.test(phone)) throw new Error('Enter a valid 10-digit mobile number.');
+      const {data,error}=await sb.auth.signUp({email,password:pass,options:{data:{name,phone,org:document.getElementById('fOrg').value.trim(),goal:document.getElementById('fGoal').value}}});
       if(error) throw error;
       if(!data.session){err.style.color='var(--ok)';err.textContent='Account created. Check your email for the confirmation link, then sign in.';btn.disabled=false;return}
     }else{
@@ -2905,7 +2907,7 @@ async function renderAccount(){
   }
   if(!user) return;
   document.getElementById('accName').textContent=user.name||user.email;
-  document.getElementById('accProfile').innerHTML=`<dt>Email</dt><dd>${esc(user.email)}</dd><dt>Organisation</dt><dd>${esc(user.org||'—')}</dd><dt>Preparing for</dt><dd>${esc(user.goal||'—')}</dd><dt>Member since</dt><dd>${fmtDate(user.created_at)}</dd>`;
+  document.getElementById('accProfile').innerHTML=`<dt>Email</dt><dd>${esc(user.email)}</dd><dt>Mobile</dt><dd>${esc(user.phone||'—')}</dd><dt>Organisation</dt><dd>${esc(user.org||'—')}</dd><dt>Preparing for</dt><dd>${esc(user.goal||'—')}</dd><dt>Member since</dt><dd>${fmtDate(user.created_at)}</dd>`;
   const mine=SUBJECTS.filter(sub=>ents.some(e=>e.pack===sub.pack||(sub.also_in&&e.pack===sub.also_in)));
   const mineHtml=mine.length?`<h4 style="margin:.2rem 0 .5rem">My papers</h4><div style="display:flex;flex-wrap:wrap;gap:.5rem;margin-bottom:.9rem">${mine.map(sub=>`<a class="btn sm" href="#mypapers" style="background:var(--saffron)">${esc(sub.code)} ${esc(sub.name)} · ${sub.mocks.length} mocks</a>`).join('')}</div>`:'';
   const pendHtml=pending.length?`<h4 style="margin:.9rem 0 .3rem">Payment requests</h4><div class="tablewrap"><table><thead><tr><th>Pack</th><th>Amount</th><th>Ref</th><th>UTR</th><th>Status</th></tr></thead><tbody>${pending.map(o=>`<tr><td>${esc((PLANS.find(p=>p.id===o.pack)||{}).name||o.pack)}</td><td class="num">₹${o.final_amount}</td><td style="font-family:var(--mono)">${refOf(o.id)}</td><td style="font-family:var(--mono);font-size:.8rem">${esc(o.utr||'')}</td><td>${o.status==='pending'?'<span class="pill warn">Pending approval</span>':`<span class="pill bad">Rejected</span><br><small>${esc(o.review_note||'')}</small>`}</td></tr>`).join('')}</tbody></table></div><p class="note">Pending requests are usually approved within 24 hours. Rejected? Check the note and <a href="#pricing">submit again</a> with the correct UTR and screenshot.</p>`:'';
@@ -3102,7 +3104,7 @@ async function adminTab(tab){
   try{
     if(tab==='users'){
       body.innerHTML=`<div style="display:flex;gap:.6rem;flex-wrap:wrap;margin-bottom:.8rem"><input id="uq" placeholder="Search name or email" style="max-width:320px"><button class="btn sm" id="ugo">Search</button></div><div id="ulist"></div>`;
-      const load=async()=>{const d=await api('admin',{action:'users',q:document.getElementById('uq').value});document.getElementById('ulist').innerHTML=`<div class="tablewrap"><table><thead><tr><th>Name</th><th>Email</th><th>Org</th><th>Goal</th><th>Packs</th><th>Attempts</th><th>Joined</th><th>Admin</th></tr></thead><tbody>${d.users.map(u=>`<tr><td>${esc(u.name)}</td><td>${esc(u.email)}</td><td>${esc(u.org)}</td><td>${esc(u.goal)}</td><td>${u.entitlements.filter(e=>!e.revoked_at).map(e=>`${esc(e.pack)} <small>(${e.source}, till ${fmtDate(e.expires_at)})</small> <button class="btn ghost sm" data-revoke="${e.id}" style="padding:.1rem .4rem">revoke</button>`).join('<br>')||'—'}</td><td class="num">${u.attempts}</td><td>${fmtDate(u.created_at)}</td><td>${u.is_admin?'<span class="pill ok">admin</span>':''}</td></tr>`).join('')}</tbody></table></div>`;
+      const load=async()=>{const d=await api('admin',{action:'users',q:document.getElementById('uq').value});document.getElementById('ulist').innerHTML=`<div class="tablewrap"><table><thead><tr><th>Name</th><th>Email</th><th>Mobile</th><th>Org</th><th>Goal</th><th>Packs</th><th>Attempts</th><th>Joined</th><th>Admin</th></tr></thead><tbody>${d.users.map(u=>`<tr><td>${esc(u.name)}</td><td>${esc(u.email)}</td><td>${esc(u.phone||'')}</td><td>${esc(u.org)}</td><td>${esc(u.goal)}</td><td>${u.entitlements.filter(e=>!e.revoked_at).map(e=>`${esc(e.pack)} <small>(${e.source}, till ${fmtDate(e.expires_at)})</small> <button class="btn ghost sm" data-revoke="${e.id}" style="padding:.1rem .4rem">revoke</button>`).join('<br>')||'—'}</td><td class="num">${u.attempts}</td><td>${fmtDate(u.created_at)}</td><td>${u.is_admin?'<span class="pill ok">admin</span>':''}</td></tr>`).join('')}</tbody></table></div>`;
         document.querySelectorAll('[data-revoke]').forEach(b=>b.onclick=async()=>{b.textContent='…';await api('admin',{action:'revoke',id:b.dataset.revoke});load()})};
       document.getElementById('ugo').onclick=load; load();
     }
@@ -3123,7 +3125,7 @@ async function adminTab(tab){
     if(tab==='orders'){
       const d=await api('admin',{action:'orders'});
       const pend=d.orders.filter(o=>o.status==='pending'),rest=d.orders.filter(o=>o.status!=='pending');
-      const row=o=>`<tr><td>${new Date(o.submitted_at||o.created_at).toLocaleString('en-IN',{day:'2-digit',month:'short',hour:'2-digit',minute:'2-digit'})}</td><td>${esc(o.profiles?.email)}<br><small>${esc(o.profiles?.name||'')}</small></td><td>${esc(o.pack)}</td><td class="num">₹${o.final_amount}${o.discount?`<br><small>${esc(o.coupon_code)} −₹${o.discount}</small>`:''}</td><td style="font-family:var(--mono);font-size:.8rem">${esc(o.reference)}<br>${esc(o.utr||'')}</td><td>${o.proof_url?`<a href="${esc(o.proof_url)}" target="_blank" rel="noopener">View screenshot</a>`:'—'}</td><td><span class="pill ${o.status==='paid'||o.status==='free'?'ok':o.status==='pending'?'warn':'bad'}">${o.status}</span>${o.review_note?`<br><small>${esc(o.review_note)}</small>`:''}</td><td>${o.status==='pending'?`<button class="btn sm" data-approve="${o.id}" style="padding:.2rem .6rem">Approve</button> <button class="btn ghost sm" data-reject="${o.id}" style="padding:.2rem .6rem">Reject</button>`:''}</td></tr>`;
+      const row=o=>`<tr><td>${new Date(o.submitted_at||o.created_at).toLocaleString('en-IN',{day:'2-digit',month:'short',hour:'2-digit',minute:'2-digit'})}</td><td>${esc(o.profiles?.email)}<br><small>${esc(o.profiles?.name||'')}${o.profiles?.phone?' · '+esc(o.profiles.phone):''}</small></td><td>${esc(o.pack)}</td><td class="num">₹${o.final_amount}${o.discount?`<br><small>${esc(o.coupon_code)} −₹${o.discount}</small>`:''}</td><td style="font-family:var(--mono);font-size:.8rem">${esc(o.reference)}<br>${esc(o.utr||'')}</td><td>${o.proof_url?`<a href="${esc(o.proof_url)}" target="_blank" rel="noopener">View screenshot</a>`:'—'}</td><td><span class="pill ${o.status==='paid'||o.status==='free'?'ok':o.status==='pending'?'warn':'bad'}">${o.status}</span>${o.review_note?`<br><small>${esc(o.review_note)}</small>`:''}</td><td>${o.status==='pending'?`<button class="btn sm" data-approve="${o.id}" style="padding:.2rem .6rem">Approve</button> <button class="btn ghost sm" data-reject="${o.id}" style="padding:.2rem .6rem">Reject</button>`:''}</td></tr>`;
       const table=rows=>`<div class="tablewrap"><table><thead><tr><th>Submitted</th><th>User</th><th>Pack</th><th>Amount</th><th>Ref / UTR</th><th>Proof</th><th>Status</th><th></th></tr></thead><tbody>${rows.map(row).join('')||'<tr><td colspan="8">None</td></tr>'}</tbody></table></div>`;
       body.innerHTML=`<h3>Awaiting approval (${pend.length})</h3><p class="note">Open the screenshot, match the UTR and amount with your UPI app / bank statement, then Approve. Approving activates the pack for 90 days.</p>${table(pend)}<h3 style="margin-top:1.4rem">History</h3>${table(rest)}`;
       document.querySelectorAll('[data-approve]').forEach(b=>b.onclick=async()=>{if(!confirm('Approve this payment and activate the pack?'))return;b.disabled=true;try{await api('admin',{action:'approve',id:b.dataset.approve});adminTab('orders')}catch(e){alert(e.message);b.disabled=false}});
