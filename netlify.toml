@@ -13,3 +13,18 @@
 
 [functions."send-welcome"]
   included_files = ["netlify/functions/welcome.html"]
+
+[[headers]]
+  for = "/bank/*"
+  [headers.values]
+    Cache-Control = "public, max-age=86400, stale-while-revalidate=604800"
+
+[[headers]]
+  for = "/library/*"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+
+[[headers]]
+  for = "/qr.png"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
