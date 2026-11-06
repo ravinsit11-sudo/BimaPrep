@@ -8,7 +8,7 @@ exports.handler = async (event) => {
   try {
     if (a === 'users') {
       const q = (b.q || '').trim();
-      let qry = sb.from('profiles').select('id,email,name,org,goal,is_admin,created_at').order('created_at', { ascending: false }).limit(100);
+      let qry = sb.from('profiles').select('id,email,name,phone,org,goal,is_admin,created_at').order('created_at', { ascending: false }).limit(100);
       if (q) qry = qry.or(`email.ilike.%${q}%,name.ilike.%${q}%`);
       const { data: users } = await qry;
       const ids = (users || []).map(u => u.id);
@@ -31,7 +31,7 @@ exports.handler = async (event) => {
       return L.json(200, { ok: true });
     }
     if (a === 'orders') {
-      const { data, error } = await sb.from('orders').select('*, profiles!orders_user_id_fkey(email,name)').neq('status', 'created').order('created_at', { ascending: false }).limit(300);
+      const { data, error } = await sb.from('orders').select('*, profiles!orders_user_id_fkey(email,name,phone)').neq('status', 'created').order('created_at', { ascending: false }).limit(300);
       if (error) return L.bad('Orders query failed: ' + error.message, 500);
       const orders = data || [];
       const paths = orders.filter(o => o.proof_path).map(o => o.proof_path);
