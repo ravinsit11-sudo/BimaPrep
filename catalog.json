@@ -19,11 +19,11 @@
   },
   {
    "id": "pe_all",
-   "name": "Promotion Exam – all 4 papers",
+   "name": "Promotion Exam – all 7 papers",
    "price": 1499,
    "level": "Promotion Exam",
    "ready": true,
-   "desc": "Motor · Reinsurance · Accounts · Legal — departmental promotion exam of general insurers, all scales; 20 mocks"
+   "desc": "Motor OD · Motor TP Claims · Fire & Engineering · Marine · Reinsurance · Accounts · Legal — all seven papers of the departmental promotion exam, 44 mocks"
   }
  ],
  "subjects": [
@@ -357,11 +357,45 @@
   {
    "id": "PEMOTOR",
    "code": "PE-Motor",
-   "name": "Motor Insurance",
+   "name": "Motor Insurance (Own Damage)",
    "level": "Promotion Exam",
    "group": "Departmental promotion exam · all scales",
    "price": 499,
    "ready": true,
+   "also_in": "pe_all",
+   "mocks": 10
+  },
+  {
+   "id": "PETP",
+   "code": "PE-Motor TP",
+   "name": "Motor Third Party Claims",
+   "level": "Promotion Exam",
+   "group": "Departmental promotion exam · all scales",
+   "price": 499,
+   "ready": true,
+   "mocks": 6,
+   "also_in": "pe_all"
+  },
+  {
+   "id": "PEFIRE",
+   "code": "PE-Fire",
+   "name": "Fire & Engineering Insurance",
+   "level": "Promotion Exam",
+   "group": "Departmental promotion exam · all scales",
+   "price": 499,
+   "ready": true,
+   "mocks": 8,
+   "also_in": "pe_all"
+  },
+  {
+   "id": "PEMARINE",
+   "code": "PE-Marine",
+   "name": "Marine Insurance",
+   "level": "Promotion Exam",
+   "group": "Departmental promotion exam · all scales",
+   "price": 499,
+   "ready": true,
+   "mocks": 5,
    "also_in": "pe_all"
   },
   {
@@ -372,7 +406,8 @@
    "group": "Departmental promotion exam · all scales",
    "price": 499,
    "ready": true,
-   "also_in": "pe_all"
+   "also_in": "pe_all",
+   "mocks": 10
   },
   {
    "id": "PEACC",
