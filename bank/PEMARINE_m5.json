@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Institute Cargo Clauses 2009",
+"t": "Which of the following is a change introduced by the Institute Cargo Clauses 2009 as compared with the 1982 clauses?",
+"o": [
+"The 60-day period after discharge was reduced to 30 days",
+"The word 'servants' was replaced by 'employees' and the term 'goods' by 'subject-matter insured'",
+"ICC (C) was widened to include earthquake",
+"War risks were included in ICC (A)"
+],
+"a": 1,
+"e": "The 2009 revision modernised the wording (employees, subject-matter insured), advanced the attachment of transit to first movement for loading, narrowed the unseaworthiness and insolvency exclusions and added the terrorism motive clause."
+},
+{
+"n": 2,
+"topic": "ICC exclusions",
+"t": "Under clause 7 of ICC 2009, loss caused by any person acting from a political, ideological or religious motive is",
+"o": [
+"Excluded from the cargo clauses and insurable only under the Institute Strikes Clauses",
+"Covered under ICC (A) only",
+"Covered under all three sets of clauses",
+"Covered under the Institute War Clauses"
+],
+"a": 0,
+"e": "Clause 7.4 was added in 2009 to exclude such acts along with terrorism (7.3); both are bought back under the Institute Strikes Clauses (Cargo) 2009."
+},
+{
+"n": 3,
+"topic": "Institute Cargo Clauses – perils",
+"t": "ICC (C) is best described as",
+"o": [
+"An all-risks cover",
+"A cover for extraneous risks only",
+"A restricted named-perils cover for major casualties such as fire, stranding, sinking, collision, jettison and GA sacrifice",
+"A war and strikes cover"
+],
+"a": 2,
+"e": "ICC (C) is the minimum cover (used for CIF minimum obligations and bulk/low-value cargo); it excludes earthquake, washing overboard, water entry and sling loss, which ICC (B) adds."
+},
+{
+"n": 4,
+"topic": "ICC exclusions",
+"t": "Ordinary leakage, ordinary loss in weight or volume and ordinary wear and tear of the subject-matter are",
+"o": [
+"Covered under ICC (A) only",
+"Covered under ICC (B) and (C)",
+"Covered subject to a 3% franchise",
+"Excluded under ICC (A), (B) and (C) alike"
+],
+"a": 3,
+"e": "Clause 4.2 excludes these inevitable trade losses in all three sets; only fortuitous leakage or shortage is covered under ICC (A)."
+},
+{
+"n": 5,
+"topic": "ICC exclusions",
+"t": "Under ICC 2009, loss caused by unfitness of a container or conveyance for the safe carriage of the goods is excluded only where",
+"o": [
+"The container belongs to the shipping line",
+"Loading into it was carried out before attachment of the insurance or by the assured or their employees who were privy to the unfitness",
+"The container was more than 10 years old",
+"The goods were not insured under ICC (A)"
+],
+"a": 1,
+"e": "Clause 5.1.2 narrows the exclusion to cases where the assured or their employees are privy to the unfitness at the time of loading or where loading took place before the insurance attached."
+},
+{
+"n": 6,
+"topic": "ICC duration",
+"t": "Under the Forwarding Charges clause (clause 12) of the ICC, where transit is terminated at a port other than the destination by an insured peril, insurers reimburse",
+"o": [
+"Loss of market at destination",
+"The freight for the original voyage",
+"General average contributions only",
+"Extra charges properly and reasonably incurred in unloading, storing and forwarding the goods to the insured destination"
+],
+"a": 3,
+"e": "Clause 12 covers the extra costs of getting the goods to destination after an insured casualty; it does not apply to GA, salvage charges or losses excluded by clause 4 to 7."
+},
+{
+"n": 7,
+"topic": "ICC duration",
+"t": "The 'Reasonable Despatch' clause of the ICC requires the assured to",
+"o": [
+"Act with reasonable despatch in all circumstances within their control",
+"Ship the goods within 30 days of attachment",
+"Use only the fastest available vessel",
+"Notify insurers of each delay"
+],
+"a": 0,
+"e": "Clause 18 is a condition requiring the assured to avoid delays within their control; unreasonable delay may prejudice the claim."
+},
+{
+"n": 8,
+"topic": "ICC (Air)",
+"t": "Institute Cargo Clauses (Air) are expressly stated to be for air sendings",
+"o": [
+"Including sendings by post",
+"Only for air freight within India",
+"Excluding sendings by post",
+"Only with the Institute War Clauses (Air)"
+],
+"a": 2,
+"e": "ICC (Air) (excluding sendings by post) 2009 cover all risks of loss during air transit with a 30-day post-unloading period; postal sendings use separate Institute clauses."
+},
+{
+"n": 9,
+"topic": "Inland transit (ITC)",
+"t": "Inland Transit Clause (C) 2010 covers",
+"o": [
+"All risks of loss or damage",
+"Named perils including collision, overturning and derailment",
+"Fire and lightning only",
+"Theft, pilferage and non-delivery"
+],
+"a": 2,
+"e": "ITC (A) is all risks, ITC (B) the basic named-perils cover (fire, lightning, breakage of bridges, collision, overturning, derailment) and ITC (C) is restricted to fire and lightning."
+},
+{
+"n": 10,
+"topic": "Cargo claim calculation",
+"t": "FOB value of an export consignment is ₹20 lakh, freight ₹1,50,000 and insurance premium ₹50,000. The customary insured value (CIF + 10%) is",
+"o": [
+"₹22 lakh",
+"₹24.2 lakh",
+"₹23.65 lakh",
+"₹24 lakh"
+],
+"a": 1,
+"e": "★ Key fact (repeated across the mocks of this paper). CIF = 20,00,000 + 1,50,000 + 50,000 = ₹22 lakh; adding 10% for anticipated profit and incidental expenses gives ₹24.2 lakh.",
+"r": "key"
+},
+{
+"n": 11,
+"topic": "Inland transit (ITC)",
+"t": "Under the Inland Transit Clauses, cover for goods carried by rail or road terminates on",
+"o": [
+"Delivery to the consignee's warehouse at the destination named in the policy, or on expiry of 7 days after arrival of the conveyance at the destination town, whichever is earlier",
+"Arrival of the conveyance at the destination town",
+"Delivery to the consignee in all cases, however late",
+"Expiry of 60 days after arrival at the destination town"
+],
+"a": 0,
+"e": "ITC duration is warehouse to warehouse with a 7-day limit after arrival at the destination town; extensions can be obtained by prior notice and additional premium."
+},
+{
+"n": 12,
+"topic": "Open policy",
+"t": "The 'basis of valuation' clause in an open policy normally fixes the insured value of each declaration as",
+"o": [
+"Invoice value only",
+"Market value at destination",
+"FOB value plus freight",
+"Invoice (CIF) value plus an agreed percentage, usually 10%, for profit and incidentals"
+],
+"a": 3,
+"e": "Declarations are valued at CIF + 10% (or another agreed percentage); this avoids arguments on valuation and reflects the agreed-value nature of marine cargo policies."
+},
+{
+"n": 13,
+"topic": "Open policy",
+"t": "An open cover in export/import business can normally be cancelled by either party on giving",
+"o": [
+"15 days' notice",
+"30 days' notice (7 days for war and strikes risks)",
+"60 days' notice",
+"No notice; it runs for a fixed 12 months"
+],
+"a": 1,
+"e": "Open covers contain a cancellation clause of 30 days' notice for marine risks and 7 days for war/strikes (48 hours for US strikes); shipments already declared remain covered."
+},
+{
+"n": 14,
+"topic": "Types of cargo policies",
+"t": "A 'specific' (voyage) policy in marine cargo insurance",
+"o": [
+"Covers a single identified consignment for one transit and expires on its completion",
+"Covers all consignments of the insured for 12 months",
+"Is issued only for inland transits",
+"Is issued only to importers"
+],
+"a": 0,
+"e": "The specific policy is the basic contract for a single shipment; regular shippers use open covers/open policies to avoid issuing a policy for each sending."
+},
+{
+"n": 15,
+"topic": "Marine hull",
+"t": "A Hull & Machinery policy is a 'valued' policy, which means",
+"o": [
+"The vessel is valued by a surveyor after each loss",
+"The insured value agreed in the policy is conclusive between insurer and assured in the absence of fraud, and is paid in a total loss",
+"The market value at the time of loss is paid",
+"Depreciation is applied to the agreed value"
+],
+"a": 1,
+"e": "Section 29 of the MIA 1963: the value fixed by a valued policy is conclusive of the insurable value whether the loss is total or partial, so a total loss is settled at the agreed value irrespective of market value."
+},
+{
+"n": 16,
+"topic": "Marine hull",
+"t": "A Total Loss Only (TLO) hull policy",
+"o": [
+"Pays total loss and 3/4ths collision liability",
+"Covers total loss and general average",
+"Pays only actual or constructive total loss of the vessel and not partial losses or collision liability",
+"Is issued only for vessels under construction"
+],
+"a": 2,
+"e": "TLO policies (e.g. on old vessels, disbursements or sailing vessels) exclude particular average, GA and RDC; they carry a lower rate."
+},
+{
+"n": 17,
+"topic": "Marine hull",
+"t": "A Builders' Risks policy covers the vessel",
+"o": [
+"Only during sea trials",
+"Only after delivery for the first 12 months",
+"Only while on the slipway",
+"From laying of the keel through construction, launching and trials until delivery to the owner"
+],
+"a": 3,
+"e": "Builders' risks (Institute Clauses for Builders' Risks) are issued to the shipyard for the construction period, often exceeding 12 months, including launching and trial trips."
+},
+{
+"n": 18,
+"topic": "Marine hull",
+"t": "A vessel to be laid up and out of commission for a long period is best insured under",
+"o": [
+"A voyage policy",
+"A Port Risks policy",
+"A TLO policy on freight",
+"A builders' risks policy"
+],
+"a": 1,
+"e": "Port risks cover insures the vessel while confined to port/lay-up area, including certain liabilities, at a lower rate than a trading H&M policy."
+},
+{
+"n": 19,
+"topic": "Duty policy – numerical",
+"t": "Basic policy sum insured ₹25 lakh; duty policy sum insured ₹5 lakh; actual customs duty paid ₹4 lakh. Total loss admitted under the basic policy; nothing is refundable by Customs. The claim under the duty policy is",
+"o": [
+"₹5 lakh",
+"₹3 lakh",
+"₹3.75 lakh",
+"₹4 lakh"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). Duty policy pays actual duty paid (₹4 lakh) or sum insured (₹5 lakh), whichever is less, i.e. ₹4 lakh. The 75% rule applies to IV policies, not duty policies.",
+"r": "key"
+},
+{
+"n": 20,
+"topic": "Marine hull",
+"t": "Under ITC Hulls, wages and maintenance of the master, officers and crew are recoverable",
+"o": [
+"In all repair claims",
+"Never, as they are operating expenses",
+"Only during lay-up",
+"Only while the vessel is moving from one port to another for repairs necessary for the safe prosecution of the voyage, or on trial trips for such repairs"
+],
+"a": 3,
+"e": "Clause 16 limits wages and maintenance to the removal to the repair port and trial trips, not for the period the vessel is under repair."
+},
+{
+"n": 21,
+"topic": "Bill of lading & carriers' liability",
+"t": "Under COGSA 1925 (Hague Rules), a suit against the sea carrier for loss or damage must be brought within",
+"o": [
+"One year from delivery of the goods or the date when they should have been delivered",
+"Three years from delivery",
+"Six months from delivery",
+"Nine months from delivery"
+],
+"a": 0,
+"e": "Article III rule 6 bars suits after one year; this short period makes prompt notice to the carrier and timely subrogation action essential in marine recoveries."
+},
+{
+"n": 22,
+"topic": "Bill of lading & carriers' liability",
+"t": "Under the Multimodal Transportation of Goods Act, 1993 the multimodal transport operator is discharged from liability unless a suit is brought within",
+"o": [
+"One year from delivery",
+"Three years from delivery",
+"Nine months from delivery or the date when the goods should have been delivered",
+"Six months from booking"
+],
+"a": 2,
+"e": "The Act (Section 24) fixes a nine-month limitation; liability limits follow Hague-Visby (666.67 SDR per package or 2 SDR per kg) when the stage of loss is unknown."
+},
+{
+"n": 23,
+"topic": "Bill of lading & carriers' liability",
+"t": "A sea waybill and an air waybill differ from a bill of lading in that they",
+"o": [
+"Are not evidence of the contract of carriage",
+"Are not receipts for the goods",
+"Are non-negotiable and not documents of title",
+"Cannot be used for insured consignments"
+],
+"a": 2,
+"e": "The bill of lading is negotiable and transfers title by endorsement; waybills simply name the consignee who takes delivery on identification."
+},
+{
+"n": 24,
+"topic": "Claims documents",
+"t": "For an overseas cargo claim where the loss occurs abroad, surveys and settlements are usually handled through",
+"o": [
+"The claim settling agent named in the policy/certificate (e.g. Lloyd's agent) at the destination",
+"The Indian consulate",
+"The carrier's local office",
+"The buyer's bank"
+],
+"a": 0,
+"e": "Open covers for exports name overseas settling agents who survey, settle in foreign currency up to authorised limits and pursue recoveries on the insurer's behalf."
+},
+{
+"n": 25,
+"topic": "Marine Insurance Act & principles",
+"t": "Where the same subject-matter is insured with two or more insurers for a sum exceeding its value (double insurance), the assured",
+"o": [
+"Recovers in full from each insurer",
+"Recovers only from the first policy in time",
+"Forfeits all policies",
+"May claim from the insurers in any order but cannot recover more than the indemnity, each insurer being liable to contribute rateably"
+],
+"a": 3,
+"e": "MIA 1963: in double insurance each insurer is bound, as between himself and the others, to contribute rateably to the loss in proportion to the amount for which he is liable."
+},
+{
+"n": 26,
+"topic": "Marine Insurance Act & principles",
+"t": "Where a vessel insured under a voyage policy deviates from the agreed course without lawful excuse, the insurer",
+"o": [
+"Remains liable if the vessel regains her route",
+"Is discharged from liability from the time of deviation, even if the vessel has regained her route before the loss",
+"Is liable but may charge extra premium",
+"Is liable only for total loss"
+],
+"a": 1,
+"e": "Deviation discharges the insurer from the time of deviation; excuses include saving life, authorised deviation, and ensuring safety of ship or subject-matter. ICC include a held-covered provision for deviation."
+},
+{
+"n": 27,
+"topic": "Sue & labour – numerical",
+"t": "Wheat is insured under ICC (A) for ₹10 lakh. The insured's agents spent ₹3 lakh as sue and labour charges to protect the cargo from an insured peril. The voyage continued and the cargo later became a total loss covered by the policy. Total claim payable is",
+"o": [
+"₹10 lakh",
+"₹3 lakh",
+"₹13 lakh",
+"₹11 lakh"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). Sue and labour charges properly incurred are recoverable in addition to the sum insured even where a total loss follows: ₹10 lakh + ₹3 lakh = ₹13 lakh.",
+"r": "key"
+},
+{
+"n": 28,
+"topic": "Marine Insurance Act & principles",
+"t": "A warranty in marine insurance (e.g. a trading or lay-up warranty) must be",
+"o": [
+"Exactly complied with whether material to the risk or not; breach discharges the insurer from the date of breach",
+"Substantially complied with",
+"Complied with only if it increases the risk",
+"Complied with only when the vessel is at sea"
+],
+"a": 0,
+"e": "Section 35 (MIA 1963): a warranty is a condition which must be exactly complied with; if not, the insurer is discharged from liability as from the date of breach, without prejudice to earlier liability."
+},
+{
+"n": 29,
+"topic": "Marine Insurance Act & principles",
+"t": "The duty of utmost good faith in marine insurance requires the assured to disclose",
+"o": [
+"Only facts specifically asked for in the proposal",
+"Every material circumstance known to him which would influence a prudent insurer in fixing the premium or deciding to accept the risk",
+"Only facts relating to previous claims",
+"Only the value of the goods"
+],
+"a": 1,
+"e": "Sections 19-20 of the MIA 1963: non-disclosure of a material circumstance entitles the insurer to avoid the contract; the assured is deemed to know what he ought to know in the ordinary course of business."
+},
+{
+"n": 30,
+"topic": "Marine Insurance Act & principles",
+"t": "Under the Marine Insurance Act, 1963 the insurer is liable for any loss",
+"o": [
+"Remotely connected with an insured peril",
+"Caused by delay arising from an insured peril",
+"Proximately caused by a peril insured against, but not for any loss not proximately so caused",
+"Caused by wilful misconduct of the assured"
+],
+"a": 2,
+"e": "Section 57 codifies the doctrine of proximate cause: the dominant, effective cause determines liability; losses from delay, wear and tear and wilful misconduct are excluded unless the policy provides otherwise."
+},
+{
+"n": 31,
+"topic": "Marine Insurance Act & principles",
+"t": "A cargo of fruit insured under ICC (A) rotted because the vessel was delayed by a collision. The insurer",
+"o": [
+"Pays, since collision is an insured peril",
+"Pays 75% of the loss",
+"Pays only if the fruit was refrigerated",
+"Declines the claim, since loss by delay is excluded even though the delay was caused by an insured peril"
+],
+"a": 3,
+"e": "Clause 4.5 excludes loss proximately caused by delay even when the delay results from an insured peril; only expenses recoverable under the GA clause are excepted."
+},
+{
+"n": 32,
+"topic": "Increased Value policy",
+"t": "An importer holds three IV policies on one consignment. On a total loss the first two policies together exhaust 75% of the actual loss. The third IV policy",
+"o": [
+"Pays 75% of its own sum insured",
+"Pays nothing, since contribution does not apply between IV policies and the 75% ceiling is reached",
+"Shares the loss rateably with the other two",
+"Pays the balance 25% of the actual loss"
+],
+"a": 1,
+"e": "IV policies pay in the order taken until 75% of the actual loss is reached; later policies pay nothing and rateable contribution is not applied."
+},
+{
+"n": 33,
+"topic": "Marine hull",
+"t": "A ship insured for ₹50 crore is sold to a new owner mid-term without insurers' written agreement. Two weeks later she is lost. Under ITC Hulls the insurer",
+"o": [
+"Is not liable, as the insurance terminated automatically on change of ownership",
+"Is liable to the new owner",
+"Is liable to the original owner",
+"Is liable only for 50% of the loss"
+],
+"a": 0,
+"e": "Clause 4 terminates the insurance automatically on change of ownership or flag (deferred until arrival at port if the vessel is at sea with cargo), with pro rata return of premium."
+},
+{
+"n": 34,
+"topic": "General average & salvage",
+"t": "Salvors engaged under Lloyd's Open Form rescued a vessel and her cargo. The cargo owner's share of the salvage award is",
+"o": [
+"Not recoverable, as salvage is a shipowner's expense",
+"Recoverable only under a GA guarantee",
+"Recoverable from his cargo insurer as salvage charges, in proportion to insured value against contributory value",
+"Recoverable from the carrier"
+],
+"a": 2,
+"e": "Salvage charges incurred to prevent loss by insured perils are recoverable under the policy (and the ICC GA/salvage clause), subject to the under-insurance proportion if the insured value is less than the contributory value."
+},
+{
+"n": 35,
+"topic": "ICC duration",
+"t": "Imported goods insured under ICC (A) were cleared from the port and taken to a bonded warehouse where the importer stored them for three months before despatch to his factory. Fire destroyed them in the bonded warehouse. The claim is",
+"o": [
+"Payable, since the final warehouse was not reached",
+"Payable, as fire is a named peril",
+"Payable up to 60 days of storage",
+"Not payable, since the transit terminated when the goods were placed in storage other than in the ordinary course of transit"
+],
+"a": 3,
+"e": "Clause 8.1.2 terminates cover when the assured elects to use a warehouse for storage other than in the ordinary course of transit; a fire policy or special storage cover is needed thereafter."
+},
+{
+"n": 36,
+"topic": "Incoterms & sale contracts",
+"t": "An Indian importer buys on FOB terms. Who should arrange the marine insurance and from where does cover attach under ICC (A)?",
+"o": [
+"The seller arranges it up to the port of destination",
+"The importer arranges it, and ICC cover attaches from the seller's warehouse (warehouse to warehouse) though the buyer's risk begins only on board",
+"The importer arranges it, and cover attaches only from loading on board",
+"The carrier arranges it"
+],
+"a": 1,
+"e": "Under FOB the buyer carries the sea risk and insures; the ICC transit clause still gives warehouse-to-warehouse cover, and Indian importers are encouraged to buy FOB and insure in India."
+},
+{
+"n": 37,
+"topic": "Marine hull",
+"t": "A fishing vessel insured under a hull policy loses its nets and fishing gear at sea during fishing operations. The claim is",
+"o": [
+"Generally not payable, as loss of nets and gear while in use at sea is excluded under fishing vessel clauses",
+"Payable under the 4/4ths collision clause",
+"Payable as general average",
+"Payable as sue and labour"
+],
+"a": 0,
+"e": "Fishing vessel clauses cover nets and gear only in limited circumstances (e.g. on board when the vessel is lost); loss of gear during fishing operations is a trade risk and is excluded."
+},
+{
+"topic": "Motor – statutory",
+"t": "Third-party insurance is compulsory for a motor vehicle used in a public place under which section of the Motor Vehicles Act 1988?",
+"o": [
+"Section 140",
+"Section 146",
+"Section 163A",
+"Section 166"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). Section 146 makes TP cover compulsory; Section 164 fixes no-fault compensation (₹5 lakh death / ₹2.5 lakh grievous hurt).",
+"r": "core",
+"n": 38
+},
+{
+"n": 39,
+"topic": "War & SRCC",
+"t": "Goods are detained at a foreign port by order of the government there and the importer suffers loss. Under ICC (A) the loss is",
+"o": [
+"Covered as an all risk",
+"Excluded under the war exclusion (capture, seizure, arrest, restraint or detainment) and only partly insurable under the War Clauses",
+"Covered under the Strikes Clauses",
+"Covered after 60 days of detention"
+],
+"a": 1,
+"e": "Clause 6.2 excludes capture, seizure, arrest, restraint or detainment (other than piracy); the Institute War Clauses cover such risks only while waterborne and exclude losses from frustration of the voyage."
+},
+{
+"n": 40,
+"topic": "Increased Value policy – numerical",
+"t": "Basic policy ₹15 lakh; IV policy ₹6 lakh; market value on arrival ₹19 lakh; total loss admitted. The IV policy pays",
+"o": [
+"₹4 lakh",
+"₹4.5 lakh",
+"₹6 lakh",
+"₹3 lakh"
+],
+"a": 3,
+"e": "Actual loss ₹4 lakh; 75% = ₹3 lakh. 75% of IV sum insured ₹6 lakh = ₹4.5 lakh. The lesser, ₹3 lakh, is payable."
+},
+{
+"n": 41,
+"topic": "Increased Value policy – numerical",
+"t": "500 drums are insured for ₹50 lakh under the basic policy and ₹10 lakh under an IV policy. 50 drums are lost; the market value of the whole consignment on arrival is ₹70 lakh. The IV claim is",
+"o": [
+"₹1,50,000",
+"₹75,000",
+"₹2,00,000",
+"₹1,00,000"
+],
+"a": 1,
+"e": "For 50 drums: basic insured value ₹5 lakh, market value ₹7 lakh, actual loss ₹2 lakh, 75% = ₹1.5 lakh. IV sum insured for 50 drums = ₹1 lakh, 75% = ₹75,000. The lesser, ₹75,000, is payable."
+},
+{
+"n": 42,
+"topic": "Duty policy – numerical",
+"t": "Duty policy sum insured ₹8 lakh; customs duty actually paid ₹6 lakh; total loss admitted under the basic policy; no refund from Customs. The duty policy pays",
+"o": [
+"₹8 lakh",
+"₹4.5 lakh",
+"₹7 lakh",
+"₹6 lakh"
+],
+"a": 3,
+"e": "Duty policy pays actual duty paid or sum insured whichever is less: ₹6 lakh. Over-insurance of duty does not increase the claim."
+},
+{
+"n": 43,
+"topic": "Duty policy – numerical",
+"t": "Customs duty of ₹10 lakh was paid on a consignment insured under a duty policy for ₹10 lakh. 20% of the consignment was damaged beyond use in inland transit after clearance and the basic policy claim was admitted. The duty policy pays",
+"o": [
+"₹2 lakh",
+"₹10 lakh",
+"₹1.5 lakh",
+"Nil"
+],
+"a": 0,
+"e": "Duty attributable to the damaged 20% = ₹2 lakh; no abatement is available after clearance, so no deduction."
+},
+{
+"topic": "Fire – standard products",
+"t": "Since 1 April 2021, the standard fire policy for a dwelling in India is:",
+"o": [
+"Standard Fire and Special Perils Policy",
+"Bharat Griha Raksha",
+"Bharat Sookshma Udyam Suraksha",
+"Householder's Package Policy"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). Bharat Griha Raksha for homes; Bharat Sookshma Udyam Suraksha (up to ₹5 crore) and Bharat Laghu Udyam Suraksha (₹5–50 crore) for enterprises.",
+"r": "core",
+"n": 44
+},
+{
+"n": 45,
+"topic": "General average – numerical",
+"t": "The GA adjustment fixes a contribution rate of 4%. A cargo owner's contributory value is ₹50 lakh and his goods are insured for ₹55 lakh. His insurer pays",
+"o": [
+"₹2.2 lakh",
+"₹1.5 lakh",
+"₹2 lakh, the full contribution",
+"₹1.82 lakh"
+],
+"a": 2,
+"e": "Contribution = 4% of ₹50 lakh = ₹2 lakh; the insured value exceeds the contributory value, so the insurer pays the contribution in full (not more)."
+},
+{
+"n": 46,
+"topic": "General average – numerical",
+"t": "Cargo with a contributory value of ₹40 lakh is insured for ₹30 lakh. GA contribution assessed on the cargo is ₹2 lakh. The insurer pays",
+"o": [
+"₹2 lakh",
+"₹1 lakh",
+"₹1.5 lakh",
+"₹2.67 lakh"
+],
+"a": 2,
+"e": "Under-insurance applies to GA contributions: ₹2 lakh × 30/40 = ₹1.5 lakh; the insured bears ₹50,000."
+},
+{
+"n": 47,
+"topic": "Agreed value settlement – numerical",
+"t": "2,000 bags are insured for an agreed value of ₹44 lakh. 400 bags are totally lost; the market value of the consignment on arrival is ₹60 lakh. The basic policy pays",
+"o": [
+"₹8.8 lakh",
+"₹12 lakh",
+"₹9 lakh",
+"₹11 lakh"
+],
+"a": 0,
+"e": "Total loss of part under a valued policy = 400/2,000 × ₹44 lakh = ₹8.8 lakh; the higher arrived market value is recoverable only under an IV policy."
+},
+{
+"n": 48,
+"topic": "Agreed value settlement – numerical",
+"t": "Goods insured for an agreed value of ₹3,30,000 arrive damaged; gross sound value at destination ₹3,00,000, gross damaged value ₹2,25,000. The claim is",
+"o": [
+"₹75,000",
+"₹1,05,000",
+"₹55,000",
+"₹82,500"
+],
+"a": 3,
+"e": "Depreciation = 75,000/3,00,000 = 25%; 25% of the agreed value ₹3,30,000 = ₹82,500."
+},
+{
+"n": 49,
+"topic": "Constructive total loss – numerical",
+"t": "Machinery insured for ₹20 lakh is damaged at an intermediate port. Repair and forwarding to destination would cost ₹12 lakh; its value on arrival would be ₹11 lakh. Notice of abandonment is given. The claim is",
+"o": [
+"₹12 lakh",
+"₹20 lakh as a constructive total loss",
+"₹11 lakh",
+"₹1 lakh"
+],
+"a": 1,
+"e": "Where the cost of repairing and forwarding exceeds the value on arrival, the goods may be abandoned as a CTL and the insured value is payable; the insurer takes over the goods."
+},
+{
+"n": 50,
+"topic": "Marine hull – numerical",
+"t": "A vessel insured under ITC Hulls for an agreed value of ₹80 crore with a deductible of ₹1 crore sinks and is an actual total loss. Its market value at the time was ₹70 crore. The insurer pays",
+"o": [
+"₹80 crore",
+"₹79 crore",
+"₹70 crore",
+"₹69 crore"
+],
+"a": 0,
+"e": "A hull policy is a valued policy: the agreed value ₹80 crore is paid in a total loss, and under clause 12 the deductible does not apply to total loss claims."
+}
+]

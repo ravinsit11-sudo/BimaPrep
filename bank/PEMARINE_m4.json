@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Marine hull",
+"t": "The 'Inchmaree' (additional perils) clause of ITC Hulls covers loss of or damage to the vessel caused by",
+"o": [
+"Ordinary wear and tear of machinery",
+"Negligence of master, officers, crew or pilots, latent defects and bursting of boilers, provided it did not result from want of due diligence by the owners or managers",
+"War, strikes and malicious acts",
+"Deliberate scuttling by the owner"
+],
+"a": 1,
+"e": "Clause 6.2 (named after the Inchmaree case) adds bursting of boilers, latent defect in machinery/hull, negligence of master/crew/pilots/repairers/charterers, barratry and contact with aircraft, subject to the due diligence proviso."
+},
+{
+"n": 2,
+"topic": "Marine hull",
+"t": "Which of the following is a peril insured under clause 6.1 of ITC Hulls without the due diligence proviso?",
+"o": [
+"Negligence of repairers",
+"Latent defect in the machinery",
+"Barratry of master and crew",
+"Violent theft by persons from outside the vessel"
+],
+"a": 3,
+"e": "Clause 6.1 lists perils of the seas, fire/explosion, violent theft by persons from outside the vessel, jettison, piracy, breakdown of nuclear installations, contact with aircraft/land conveyance/dock, earthquake and volcanic eruption; 6.2 perils carry the due diligence proviso."
+},
+{
+"n": 3,
+"topic": "Marine hull",
+"t": "Under ITC Hulls the policy deductible does NOT apply to",
+"o": [
+"A claim for total or constructive total loss of the vessel",
+"A particular average claim for machinery damage",
+"A 3/4ths collision liability claim",
+"A general average contribution claim"
+],
+"a": 0,
+"e": "Clause 12.1 applies the deductible to the aggregate of all claims from one accident, but not to a total/constructive total loss or the associated sue and labour claim."
+},
+{
+"n": 4,
+"topic": "Marine hull",
+"t": "The 'New for Old' clause of ITC Hulls provides that in repair claims",
+"o": [
+"One-third is deducted for new material replacing old",
+"Depreciation is deducted according to the age of the vessel",
+"No deduction for depreciation is made when old parts are replaced by new",
+"Only the scrap value of old parts is allowed"
+],
+"a": 2,
+"e": "Clause 14 states that claims are payable without deduction new for old, abolishing the traditional one-third deduction."
+},
+{
+"n": 5,
+"topic": "Marine hull",
+"t": "Under the Unrepaired Damage clause of ITC Hulls, the measure of indemnity is",
+"o": [
+"The full estimated cost of repairs",
+"The insured value less scrap value",
+"The reasonable depreciation in market value at expiry, not exceeding the reasonable cost of repairs",
+"Nil until repairs are actually carried out"
+],
+"a": 2,
+"e": "Clause 18 pays the reasonable depreciation in the vessel's market value arising from unrepaired damage, capped at the reasonable cost of repairs, and nothing if the vessel becomes a total loss during the policy period."
+},
+{
+"n": 6,
+"topic": "Marine hull",
+"t": "The Pollution Hazard clause of ITC Hulls covers",
+"o": [
+"Loss of or damage to the vessel caused by a governmental authority acting to prevent or mitigate a pollution hazard resulting from damage to the vessel",
+"Liability for oil pollution of the sea",
+"Cost of cleaning up pollution caused by the vessel",
+"Fines imposed for pollution"
+],
+"a": 0,
+"e": "Clause 7 covers damage to the vessel itself (e.g. destruction by the authorities to prevent an oil spill); liability for pollution is excluded from hull cover and is a P&I risk."
+},
+{
+"n": 7,
+"topic": "Marine hull",
+"t": "Under the Notice of Claim and Tenders clause of ITC Hulls, failure to give notice of an accident before survey, or to comply with the tender provisions, attracts",
+"o": [
+"Forfeiture of the whole claim",
+"A deduction of 25% from the ascertained claim",
+"A deduction of 10% from the ascertained claim",
+"A deduction of 15% from the ascertained claim"
+],
+"a": 3,
+"e": "Clause 10 entitles insurers to be notified so they may appoint a surveyor and call for tenders; non-compliance leads to a 15% deduction from the amount of the ascertained claim."
+},
+{
+"n": 8,
+"topic": "Marine hull",
+"t": "The standard Institute Time Clauses (Hulls) in common use are dated",
+"o": [
+"1.1.1982 and 1.1.2009",
+"1.10.1983 and 1.11.1995",
+"1.1.1963 and 1.1.1987",
+"20.7.1987 and 1.1.2001"
+],
+"a": 1,
+"e": "ITC Hulls 1/10/83 remains the most widely used set; the 1/11/95 revision introduced a classification clause and a stricter approach to latent defects and class requirements."
+},
+{
+"n": 9,
+"topic": "Cargo claim calculation",
+"t": "FOB value of an export consignment is ₹20 lakh, freight ₹1,50,000 and insurance premium ₹50,000. The customary insured value (CIF + 10%) is",
+"o": [
+"₹22 lakh",
+"₹24.2 lakh",
+"₹23.65 lakh",
+"₹24 lakh"
+],
+"a": 1,
+"e": "★ Key fact (repeated across the mocks of this paper). CIF = 20,00,000 + 1,50,000 + 50,000 = ₹22 lakh; adding 10% for anticipated profit and incidental expenses gives ₹24.2 lakh.",
+"r": "key"
+},
+{
+"n": 10,
+"topic": "Marine hull",
+"t": "Which liability of the shipowner is covered by a P&I Club but NOT by the Hull & Machinery policy?",
+"o": [
+"Liability for loss of life and personal injury of crew and passengers",
+"Three-fourths of collision liability to another vessel",
+"General average contribution of the ship",
+"Sue and labour expenses"
+],
+"a": 0,
+"e": "P&I cover takes in the remaining 1/4th collision liability, loss of life/injury, cargo liability, wreck removal, pollution and crew claims, which hull policies exclude."
+},
+{
+"n": 11,
+"topic": "Marine hull",
+"t": "The Indian classification society for ships is",
+"o": [
+"Lloyd's Register of Shipping",
+"Indian Register of Shipping (IRS)",
+"Bureau Veritas",
+"Det Norske Veritas"
+],
+"a": 1,
+"e": "The Indian Register of Shipping, a member of IACS, classifies Indian vessels; hull underwriters insist on class with an IACS member society and automatic termination applies on loss of class."
+},
+{
+"n": 12,
+"topic": "Marine hull",
+"t": "Deadweight tonnage (DWT) of a ship represents",
+"o": [
+"The volume of all enclosed spaces",
+"The weight of the empty ship",
+"The weight of cargo, fuel, stores, water and crew the vessel can carry when loaded to her marks",
+"The volume of cargo spaces only"
+],
+"a": 2,
+"e": "DWT = loaded displacement minus light displacement; gross tonnage measures total enclosed volume and net tonnage the earning (cargo) spaces."
+},
+{
+"n": 13,
+"topic": "Total loss & abandonment",
+"t": "Where the assured elects to claim a constructive total loss, he must",
+"o": [
+"Wait until the vessel is actually lost",
+"Obtain the carrier's consent to abandon",
+"Sell the damaged property first",
+"Give notice of abandonment to the insurer with reasonable diligence after receiving reliable information of the loss"
+],
+"a": 3,
+"e": "Under the MIA, failure to give notice of abandonment means the loss can be treated only as a partial loss; the insurer may decline the notice but still settle as a total loss."
+},
+{
+"n": 14,
+"topic": "Types of cargo policies",
+"t": "The main difference between an open cover and an open policy is that",
+"o": [
+"An open cover is for inland transits only",
+"An open cover is an unstamped agreement under which stamped certificates/policies are issued per declaration, whereas an open policy is itself a stamped policy",
+"An open policy requires no declarations",
+"An open cover is issued for 24 months and an open policy for 12 months"
+],
+"a": 1,
+"e": "Both run for 12 months and oblige the insured to declare all shipments; the open cover is an agreement to insure (export/import) under which individual certificates are issued, while the open policy (mainly inland) is a stamped contract for a sum insured."
+},
+{
+"n": 15,
+"topic": "Types of cargo policies",
+"t": "A Special Declaration Policy is available where the estimated annual value of inland dispatches is not less than",
+"o": [
+"₹50 lakh",
+"₹1 crore",
+"₹5 crore",
+"₹2 crore"
+],
+"a": 3,
+"e": "SDP is granted to large inland consignors with an estimated annual turnover of at least ₹2 crore; premium is paid on the estimated value and adjusted on actual quarterly declarations with turnover discounts."
+},
+{
+"n": 16,
+"topic": "Types of cargo policies",
+"t": "Under a Sales Turnover Policy (STOP), the premium is charged on",
+"o": [
+"The insured's annual sales turnover, covering all incoming and outgoing transits including inter-depot movements",
+"The maximum value at risk at any one time",
+"The value of each consignment declared monthly",
+"The sum insured per bottom"
+],
+"a": 0,
+"e": "STOP is a seamless cover for manufacturers: a single rate is applied to the annual sales turnover, dispensing with declarations of individual transits."
+},
+{
+"n": 17,
+"topic": "Types of cargo policies",
+"t": "A package policy under the Duty Exemption (advance licence) Scheme is issued to",
+"o": [
+"Importers of consumer goods only",
+"Domestic traders",
+"Exporters who import duty-free inputs for manufacture of goods to be exported",
+"Customs house agents"
+],
+"a": 2,
+"e": "The package policy covers the import transit of duty-free raw material, storage and processing, and the export transit of finished goods for exporters operating under the Duty Exemption Scheme."
+},
+{
+"n": 18,
+"topic": "General average – numerical",
+"t": "Cargo with a contributory value of ₹40 lakh is insured for ₹30 lakh. GA contribution assessed on the cargo is ₹2 lakh. The insurer pays",
+"o": [
+"₹2 lakh",
+"₹1 lakh",
+"₹1.5 lakh",
+"₹2.67 lakh"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). Under-insurance applies to GA contributions: ₹2 lakh × 30/40 = ₹1.5 lakh; the insured bears ₹50,000.",
+"r": "key"
+},
+{
+"n": 19,
+"topic": "Incoterms & sale contracts",
+"t": "Under which Incoterms is the seller obliged to arrange cargo insurance for the buyer's benefit?",
+"o": [
+"FOB and CFR",
+"EXW and FCA",
+"CIF and CIP only",
+"DAP and DDP"
+],
+"a": 2,
+"e": "Only the two 'C' terms with 'I' — CIF (sea) and CIP (any mode) — require the seller to procure insurance; under all other terms each party insures its own risk if it wishes."
+},
+{
+"n": 20,
+"topic": "Incoterms & sale contracts",
+"t": "Incoterms 2020 made which change relevant to cargo insurance?",
+"o": [
+"CIP now requires ICC (A) level cover while CIF retains ICC (C) minimum, and DAT was replaced by DPU",
+"CIF now requires ICC (A) cover",
+"All terms now require the seller to insure",
+"FOB was deleted"
+],
+"a": 0,
+"e": "Incoterms 2020 differentiated insurance levels: CIP (containerised/multimodal) needs all-risks cover, CIF stays at minimum cover; Delivered at Terminal became Delivered at Place Unloaded."
+},
+{
+"n": 21,
+"topic": "Incoterms & sale contracts",
+"t": "Under an FOB contract, risk of loss passes from seller to buyer",
+"o": [
+"When the goods leave the seller's warehouse",
+"When the goods are discharged at the destination port",
+"When the buyer pays for the goods",
+"When the goods are placed on board the vessel at the port of shipment"
+],
+"a": 3,
+"e": "In FOB the seller's responsibility ends on board at the port of shipment; the buyer bears the sea transit risk and must arrange the marine insurance."
+},
+{
+"n": 22,
+"topic": "Bill of lading & carriers' liability",
+"t": "A 'clean' bill of lading is one that",
+"o": [
+"Has been endorsed in blank",
+"Bears no adverse remark about the apparent condition or packing of the goods",
+"Covers goods shipped under a charter party",
+"Is issued before the goods are loaded"
+],
+"a": 1,
+"e": "A clean (unclaused) bill of lading evidences receipt of goods in apparent good order and condition; a claused BL noting damage weakens the cargo claim and recovery."
+},
+{
+"n": 23,
+"topic": "Bill of lading & carriers' liability",
+"t": "The Hague-Visby limits of a sea carrier's liability (adopted in India by the 1993 amendment to COGSA 1925) are",
+"o": [
+"666.67 SDR per package or 2 SDR per kg of gross weight, whichever is higher",
+"835 SDR per package or 2.5 SDR per kg",
+"875 SDR per package or 3 SDR per kg",
+"17 SDR per kg"
+],
+"a": 0,
+"e": "Hague-Visby: 666.67 SDR/package or 2 SDR/kg; Hamburg Rules: 835 SDR or 2.5 SDR/kg; Rotterdam Rules: 875 SDR or 3 SDR/kg; Montreal (air) 17 SDR/kg originally."
+},
+{
+"n": 24,
+"topic": "Bill of lading & carriers' liability",
+"t": "Under the Carriage by Road Act, 2007 and Rules 2011, the common carrier's liability for loss of a consignment, where no higher value is declared, is limited to",
+"o": [
+"The invoice value of the goods",
+"Ten times the freight paid or payable",
+"₹10 per kg",
+"Twice the freight paid"
+],
+"a": 1,
+"e": "The 2007 Act (replacing the Carriers Act, 1865) fixes liability at ten times the freight unless the consignor declares a higher value and pays the higher risk rate."
+},
+{
+"n": 25,
+"topic": "Bill of lading & carriers' liability",
+"t": "Under the Railways Act, 1989 a claim for loss or damage must be preferred on the railway administration within",
+"o": [
+"3 days from delivery",
+"30 days from delivery",
+"6 months from the date of entrustment of the goods",
+"1 year from delivery"
+],
+"a": 2,
+"e": "Section 106 requires notice of claim within six months of entrustment; a suit can be filed within three years under the Limitation Act."
+},
+{
+"n": 26,
+"topic": "Increased Value policy – numerical",
+"t": "A specific voyage policy covers rice for ₹100 lakh and an Increased Value policy for ₹40 lakh. The transit ends in a total loss; market value of the goods on the date of loss is ₹120 lakh. The claim payable under the IV policy is",
+"o": [
+"₹15 lakh",
+"₹20 lakh",
+"₹30 lakh",
+"₹40 lakh"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). Actual loss = ₹120 − ₹100 = ₹20 lakh; 75% = ₹15 lakh. 75% of the IV sum insured ₹40 lakh = ₹30 lakh. The lesser, ₹15 lakh, is payable.",
+"r": "key"
+},
+{
+"n": 27,
+"topic": "War & SRCC",
+"t": "Under the Institute Strikes Clauses (Cargo), which loss is EXCLUDED?",
+"o": [
+"Damage caused by strikers or locked-out workmen",
+"Damage caused by rioters",
+"Loss caused by an act of terrorism",
+"Loss arising from the absence, shortage or withholding of labour resulting from a strike"
+],
+"a": 3,
+"e": "Strikes clauses cover physical damage by strikers, locked-out workmen, rioters and terrorists, but not the consequential loss of the strike itself (e.g. goods deteriorating because labour is unavailable)."
+},
+{
+"n": 28,
+"topic": "Marine Insurance Act & principles",
+"t": "Particular average means",
+"o": [
+"Any expense incurred to prevent a loss",
+"A partial loss of the subject-matter caused by an insured peril which is not a general average loss",
+"A total loss of part of the cargo",
+"A loss to be shared by all interests in the voyage"
+],
+"a": 1,
+"e": "Section 66 (MIA 1963): a particular average loss is a partial loss proximately caused by an insured peril and not a GA loss; particular charges are not included in particular average."
+},
+{
+"n": 29,
+"topic": "Claims documents",
+"t": "A shortlanding certificate in an import claim is issued by",
+"o": [
+"The master of the vessel",
+"The customs authorities",
+"The insurer's surveyor",
+"The port authority / custodian of the cargo, confirming packages not landed from the vessel"
+],
+"a": 3,
+"e": "The port trust/custodian tallies landed cargo against the manifest and certifies shortlanding; it is the key document for non-delivery claims and recovery from the carrier."
+},
+{
+"n": 30,
+"topic": "Claims procedure",
+"t": "Marine cargo claims may be settled in foreign currency in which of the following cases?",
+"o": [
+"Export claims where the insurer is satisfied that ownership of the goods vests in a non-resident claimant",
+"Any claim where the claimant is an Indian entity that paid premium in rupees",
+"Inland transit claims of exporters",
+"All import claims of Indian importers"
+],
+"a": 0,
+"e": "Exchange control permits foreign currency settlement for exports where the overseas buyer owns the goods, for government imports to facilitate replacement, and for merchanting trade; Indian claimants are paid in rupees."
+},
+{
+"n": 31,
+"topic": "Claims procedure",
+"t": "Under the Insurance Act (Section 64UM) as amended in 2015, a licensed surveyor's report is mandatory for a marine cargo (non-motor) claim exceeding",
+"o": [
+"₹20,000",
+"₹50,000",
+"₹1,00,000",
+"₹5,00,000"
+],
+"a": 2,
+"e": "The threshold was raised from ₹20,000 to ₹1 lakh for non-motor claims (₹50,000 for motor) by the 2015 amendment and IRDAI surveyor regulations; smaller claims may be assessed in-house or survey waived."
+},
+{
+"n": 32,
+"topic": "ICC exclusions",
+"t": "Goods sold on CIF terms and insured under ICC (A) 2009 are stranded when the shipping line becomes insolvent after loading. The buyer (assured) purchased in good faith without knowledge of the line's finances. The claim for forwarding expenses is",
+"o": [
+"Excluded under the insolvency exclusion in all cases",
+"Payable only under ICC (B)",
+"Payable, because the insolvency exclusion does not apply where the assured bought the goods under a binding contract without being aware of the carrier's insolvency",
+"Excluded unless the shipping line is declared bankrupt by a court"
+],
+"a": 2,
+"e": "Clause 4.6 of ICC 2009 excludes insolvency only where the assured, at the time of loading, were aware or should have been aware that it could prevent the voyage; it does not apply to a bona fide purchaser bound to buy."
+},
+{
+"n": 33,
+"topic": "Marine hull",
+"t": "A hull insurer settles a vessel as a constructive total loss. The assured had earlier incurred ₹2 crore repairing unrelated damage sustained in the same policy year but not yet claimed. The insurer",
+"o": [
+"Pays the unrepaired damage in addition to the total loss",
+"Pays 50% of the unrepaired damage",
+"Pays the unrepaired damage only if it exceeds the deductible",
+"Is not liable for the unrepaired damage, since a total loss has occurred during the policy period"
+],
+"a": 3,
+"e": "Clause 18.3: insurers are not liable for unrepaired damage in the event of a subsequent total loss (whether or not covered) during the period of the insurance."
+},
+{
+"n": 34,
+"topic": "General average & salvage",
+"t": "After a GA act, the shipowner refuses to release the cargo until security is furnished. The consignee should",
+"o": [
+"Sign an average bond and obtain a GA guarantee from his cargo insurer in lieu of cash deposit",
+"Pay the full value of the cargo as deposit",
+"Refuse to take delivery and claim total loss",
+"Lodge a claim against the carrier for wrongful detention"
+],
+"a": 0,
+"e": "The shipowner has a lien on cargo for GA contribution; the consignee signs a GA bond and the insurer issues a GA guarantee (or the consignee deposits cash) so that cargo is released pending adjustment."
+},
+{
+"topic": "Taxation",
+"t": "Deduction for life insurance premium under Section 80C of the Income Tax Act is available up to an overall limit of:",
+"o": [
+"₹1 lakh",
+"₹1.5 lakh",
+"₹2 lakh",
+"₹2.5 lakh"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). ₹1,50,000 aggregate for all 80C items; premium qualifies only up to 10% of the sum assured for policies issued after 1 April 2012.",
+"r": "core",
+"n": 35
+},
+{
+"n": 36,
+"topic": "Sue & labour and extra charges",
+"t": "A consignee incurred ₹40,000 to recondition and re-bag damaged cement so that it could be sold, reducing the loss. The expenditure was incurred at destination after the loss. This is",
+"o": [
+"A sue and labour charge, payable over and above the sum insured only if incurred en route",
+"An extra charge, payable with the admitted claim",
+"A general average expenditure",
+"A salvage charge recoverable from the carrier"
+],
+"a": 1,
+"e": "Charges incurred at destination to ascertain, prove or reduce the loss (reconditioning, survey, sale expenses) are 'extra charges'; sue and labour relates to action to avert or minimise a loss during the transit."
+},
+{
+"n": 37,
+"topic": "Duty policy",
+"t": "An importer wants to insure the customs duty on a consignment that is already on the high seas. The insurer should",
+"o": [
+"Refuse, since duty must be insured together with the basic policy before sailing",
+"Issue it only with a 10% loading",
+"Refuse, since duty is payable only after arrival",
+"Issue the duty policy, since duty insurance may be arranged any time before the goods arrive at the destination port"
+],
+"a": 3,
+"e": "Duty insurance may be effected up to arrival of the vessel at the port of discharge (not after), on the same conditions as the basic policy; the duty amount is taken from the bill of entry."
+},
+{
+"n": 38,
+"topic": "Increased Value policy",
+"t": "An importer whose goods are expected to command a much higher price in India than the CIF value wishes to protect the anticipated market value. The appropriate cover is",
+"o": [
+"An Increased Value policy for the expected increase, paying 75% of the actual increase or 75% of its sum insured, whichever is less",
+"A duty policy",
+"A seller's contingency policy",
+"An open cover for the extra value"
+],
+"a": 0,
+"e": "IV insurance covers the difference between the market value at destination and the basic insured value; the 75% limit keeps the insured interested in the safe arrival of the goods."
+},
+{
+"n": 39,
+"topic": "Types of cargo policies",
+"t": "An exporter selling on FOB terms is concerned that if the goods are damaged in transit the overseas buyer may refuse the shipping documents and not pay. The appropriate cover is",
+"o": [
+"A CIF policy in the buyer's name",
+"Buyer's contingency insurance",
+"Seller's interest contingency insurance, kept confidential from the buyer",
+"Export incentives insurance"
+],
+"a": 2,
+"e": "Seller's contingency protects the unpaid seller when the buyer rejects goods lost or damaged by insured perils; the buyer must not be told of its existence and the policy is non-assignable."
+},
+{
+"n": 40,
+"topic": "Increased Value policy – numerical",
+"t": "Basic policy ₹30 lakh; IV policy ₹12 lakh; market value on arrival ₹36 lakh; total loss admitted. The IV policy pays",
+"o": [
+"₹6 lakh",
+"₹9 lakh",
+"₹4.5 lakh",
+"₹12 lakh"
+],
+"a": 2,
+"e": "Actual loss ₹36 − ₹30 = ₹6 lakh; 75% = ₹4.5 lakh. 75% of IV sum insured ₹12 lakh = ₹9 lakh. The lesser ₹4.5 lakh is payable."
+},
+{
+"n": 41,
+"topic": "Increased Value policy – numerical",
+"t": "Basic policy ₹50 lakh; IV policy ₹5 lakh; market value on arrival ₹70 lakh; total loss admitted. The IV claim is",
+"o": [
+"₹3.75 lakh",
+"₹15 lakh",
+"₹5 lakh",
+"₹20 lakh"
+],
+"a": 0,
+"e": "Actual loss ₹20 lakh, 75% = ₹15 lakh; but 75% of the IV sum insured ₹5 lakh = ₹3.75 lakh is lower and is the amount payable."
+},
+{
+"n": 42,
+"topic": "Duty policy – numerical",
+"t": "Customs duty of ₹2 lakh was paid on 1,000 units. 300 units were destroyed in inland transit after clearance; the basic policy claim was admitted. No refund is available from Customs. The duty policy (sum insured ₹2 lakh) pays",
+"o": [
+"₹2,00,000",
+"₹45,000",
+"₹40,000",
+"₹60,000"
+],
+"a": 3,
+"e": "Duty on the lost units = 300/1,000 × ₹2 lakh = ₹60,000; as the loss arose after clearance, no abatement is available and nothing is deducted."
+},
+{
+"n": 43,
+"topic": "General average – numerical",
+"t": "General average expenditure of ₹1.5 crore is to be apportioned over ship (₹60 crore) and cargo (₹15 crore). The cargo is insured for ₹15 crore. The cargo insurer pays",
+"o": [
+"₹15 lakh",
+"₹30 lakh",
+"₹37.5 lakh",
+"₹1.5 crore"
+],
+"a": 1,
+"e": "Rate = 1.5/75 = 2%; cargo contribution = 2% × ₹15 crore = ₹30 lakh, payable in full since insured value equals contributory value."
+},
+{
+"n": 44,
+"topic": "Agreed value settlement – numerical",
+"t": "Goods insured for an agreed value of ₹11 lakh arrive damaged; the sound market value at destination is ₹10 lakh and the damaged value ₹8 lakh. The claim is",
+"o": [
+"₹2,20,000",
+"₹2,00,000",
+"₹3,00,000",
+"₹1,80,000"
+],
+"a": 0,
+"e": "Depreciation 20% (₹2 lakh on ₹10 lakh) applied to the agreed value: 20% of ₹11 lakh = ₹2,20,000, which exceeds the actual market loss because the policy is a valued one."
+},
+{
+"n": 45,
+"topic": "Marine hull – numerical",
+"t": "Vessels A and B collide, each 50% to blame. A suffers damage of ₹20 lakh and B ₹40 lakh. Under the cross-liabilities principle, A's Hull & Machinery insurer pays as collision liability",
+"o": [
+"₹20 lakh",
+"₹15 lakh (3/4ths of A's 50% liability for B's damage of ₹40 lakh)",
+"₹10 lakh",
+"₹7.5 lakh"
+],
+"a": 1,
+"e": "A is liable for 50% of B's damage = ₹20 lakh; the RDC pays 3/4ths = ₹15 lakh. A's own damage (₹20 lakh) is a particular average claim under its hull cover, with recovery of 50% from B."
+},
+{
+"n": 46,
+"topic": "Marine hull – numerical",
+"t": "A vessel insured under ITC Hulls with a deductible of ₹20 lakh suffers machinery damage costing ₹1.2 crore to repair, and in the same accident incurs ₹10 lakh sue and labour expenses. The insurer pays",
+"o": [
+"₹1.2 crore",
+"₹1.3 crore",
+"₹1.1 crore",
+"₹1 crore"
+],
+"a": 2,
+"e": "The deductible applies once to the aggregate of all claims (including sue and labour) arising from one accident: ₹1.2 crore + ₹10 lakh − ₹20 lakh = ₹1.1 crore."
+},
+{
+"topic": "Taxation",
+"t": "Deduction for health insurance premium under Section 80D for an individual below 60 years (self and family) is up to:",
+"o": [
+"₹15,000",
+"₹25,000",
+"₹50,000",
+"₹75,000"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). ₹25,000; ₹50,000 where the insured is a senior citizen; an additional ₹25,000/₹50,000 for parents.",
+"r": "core",
+"n": 47
+},
+{
+"n": 48,
+"topic": "Underwriting & rating – numerical",
+"t": "A manufacturer's Sales Turnover Policy is rated at 0.05% on an estimated annual turnover of ₹400 crore. The provisional premium is",
+"o": [
+"₹2 lakh",
+"₹2 crore",
+"₹40 lakh",
+"₹20 lakh"
+],
+"a": 3,
+"e": "0.05% of ₹400 crore = ₹20 lakh, payable in advance and adjusted at year end on the actual turnover."
+},
+{
+"n": 49,
+"topic": "Cargo claim calculation",
+"t": "1,000 bags insured for ₹10 lakh were damaged when the vessel stranded. At an intermediate port the goods were sold with the insurer's consent for net proceeds of ₹6 lakh. The claim (salvage loss) is",
+"o": [
+"₹6 lakh",
+"₹4 lakh",
+"₹10 lakh",
+"₹3 lakh"
+],
+"a": 1,
+"e": "A salvage loss is settled by paying the insured value less the net proceeds of sale: ₹10 lakh − ₹6 lakh = ₹4 lakh."
+},
+{
+"n": 50,
+"topic": "Duty policy – numerical",
+"t": "Duty policy sum insured ₹6 lakh; duty actually paid ₹6 lakh; the consignment is a total loss admitted under the basic policy; Customs refund ₹1 lakh received by the importer. The duty policy pays",
+"o": [
+"₹6 lakh",
+"₹4.5 lakh",
+"₹3.75 lakh",
+"₹5 lakh"
+],
+"a": 3,
+"e": "Duty paid and sum insured are both ₹6 lakh; the refund of ₹1 lakh obtained from Customs is deducted, giving ₹5 lakh. Duty policies pay 100% (not 75%) of the net duty lost."
+}
+]

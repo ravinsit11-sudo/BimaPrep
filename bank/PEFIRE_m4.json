@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Short period scale",
+"t": "An exhibition stall is insured under SFSP for 12 days. The applicable short-period premium is",
+"o": [
+"Pro-rata for 12 days",
+"10% of the annual premium",
+"15% of the annual premium",
+"5% of the annual premium"
+],
+"a": 1,
+"e": "AIFT Rule 8: for a period not exceeding 15 days, 10% of the annual rate; not exceeding 1 month, 15%."
+},
+{
+"n": 2,
+"topic": "Mid-term cover",
+"t": "The mid-term inclusion rate for STFI on materials stored in the open rateable under Section VI is",
+"o": [
+"0.15‰",
+"2.00‰",
+"0.20‰",
+"0.35‰"
+],
+"a": 1,
+"e": "Mid-term STFI rates: Section III 0.20‰; Section VI godown 0.35‰; Section VI open 2.00‰; Sections IV, V, VII 0.35‰. RSMTD is 0.15‰ in all cases."
+},
+{
+"n": 3,
+"topic": "Perils",
+"t": "Which of the following is covered under SFSP without any add-on?",
+"o": [
+"Damage by earthquake shock",
+"Damage by a bush fire",
+"Damage by terrorism",
+"Damage by a forest fire"
+],
+"a": 1,
+"e": "Bush Fire is the 12th insured peril (excluding forest fire); forest fire, earthquake and terrorism are add-on covers."
+},
+{
+"n": 4,
+"topic": "Exclusions",
+"t": "Curios and works of art are excluded under SFSP for an amount exceeding",
+"o": [
+"₹10,000 unless otherwise expressly stated in the policy",
+"₹1,00,000",
+"₹50,000",
+"₹25,000"
+],
+"a": 0,
+"e": "General exclusion: bullion, unset precious stones, curios or works of art exceeding ₹10,000, manuscripts, plans, drawings, securities, stamps, coins, cheques, books of account, computer records and explosives unless expressly stated."
+},
+{
+"n": 5,
+"topic": "Conditions",
+"t": "Condition 6 of the SFSP policy provides that the insurer is not liable for any loss after the expiry of how many months from the happening of the loss, unless the claim is the subject of pending action or arbitration?",
+"o": [
+"6 months",
+"12 months",
+"24 months",
+"36 months"
+],
+"a": 1,
+"e": "Condition 6(ii): no liability after 12 months from the loss unless pending action/arbitration; a disclaimed claim not taken to court within 12 months of disclaimer is deemed abandoned."
+},
+{
+"n": 6,
+"topic": "Conditions",
+"t": "Two policies cover the same stock: Policy A ₹10,000 and Policy B ₹20,000. Value at risk ₹40,000, loss ₹16,000. Policy B pays",
+"o": [
+"₹4,000",
+"₹12,000",
+"₹10,667",
+"₹8,000"
+],
+"a": 3,
+"e": "Contribution with average: total SI 30,000 against VAR 40,000 gives under-insurance factor 3/4; B's share 2/3. B pays 16,000 × 2/3 × 3/4 = ₹8,000 (A pays ₹4,000; ₹4,000 is borne by the insured)."
+},
+{
+"n": 7,
+"topic": "Conditions",
+"t": "Under the SFSP policy, the insurer's right of subrogation (Condition 12) arises",
+"o": [
+"Only if the loss exceeds the sum insured",
+"Only where a third party admits liability",
+"Only after full payment of the claim",
+"Even before the insurer has indemnified the insured, in respect of acts required to enforce rights"
+],
+"a": 3,
+"e": "Condition 12 requires the insured, at the insurer's expense, to do all acts necessary to enforce rights against third parties, whether before or after indemnification."
+},
+{
+"n": 8,
+"topic": "RIV vs MV",
+"t": "Under an RIV policy, if the insured does not carry out reinstatement within the stipulated period, the claim is settled",
+"o": [
+"On market value basis (reinstatement value less depreciation)",
+"Not at all",
+"On reinstatement value basis in any case",
+"At 50% of the reinstatement value"
+],
+"a": 0,
+"e": "If reinstatement is not completed within 12 months (or extended period), no payment beyond the amount payable without the memorandum, i.e. market value (RIV − depreciation), is made."
+},
+{
+"n": 9,
+"topic": "Add-on covers",
+"t": "The Temporary Removal of Stocks clause covers stock temporarily removed to other premises for processing up to",
+"o": [
+"10% of the total sum insured on such stock",
+"25% of the sum insured on stock",
+"₹10 lakh",
+"The full sum insured on stock"
+],
+"a": 0,
+"e": "Stock up to 10% of the total stock SI is covered while temporarily removed for fabrication, processing or finishing; rated at 10% of the policy rate on the policy SI; average applies to both the limit and the stock SI."
+},
+{
+"n": 10,
+"topic": "Add-on covers",
+"t": "Earthquake (fire and shock) add-on for a shop in Zone I is chargeable at",
+"o": [
+"₹0.10‰ (uniform rate for Section III risks regardless of zone)",
+"₹1.00‰",
+"₹0.20‰",
+"₹0.50‰"
+],
+"a": 0,
+"e": "EQ rates: Zone I ₹1.00‰, Zone II ₹0.50‰, Zone III ₹0.20‰, Zone IV ₹0.10‰ on the policy SI; dwellings, offices, hotels and shops under Section III may be covered at a uniform ₹0.10‰ regardless of zone."
+},
+{
+"n": 11,
+"topic": "Exclusions",
+"t": "An SFSP policy with sum insured ₹8 crore at a location suffers a fire loss assessed at ₹1,50,000. The compulsory excess deductible is",
+"o": [
+"₹5,000",
+"₹10,000",
+"₹7,500",
+"₹25,000"
+],
+"a": 1,
+"e": "★ Key fact (repeated across the mocks of this paper). For SI up to ₹10 crore per location the excess is 5% of the claim subject to a minimum of ₹10,000; 5% of ₹1,50,000 = ₹7,500, so the minimum ₹10,000 applies.",
+"r": "key"
+},
+{
+"n": 12,
+"topic": "Add-on covers",
+"t": "Under the Omission to Insure Additions, Alterations or Extensions add-on, the liability of the insurer is limited to",
+"o": [
+"₹5 lakh per location",
+"5% of the sum insured of the relevant item of building, machinery and accessories",
+"10% of the total sum insured",
+"15% of the sum insured on stock"
+],
+"a": 1,
+"e": "Cover is for additions to buildings/machinery/plant and other contents (furniture, not stocks) up to 5% of the item SI, rated at the policy rate on 5% of the BMA SI; additions must be declared within 30 days after expiry."
+},
+{
+"n": 13,
+"topic": "Floater policy",
+"t": "A floater policy covers stocks in several godowns and a process block in the same compound; the process block rate (2.50‰) is higher than the storage rate (1.50‰). The rate chargeable is",
+"o": [
+"2.50‰ without floater extra, since all stocks are within the same compound",
+"2.00‰",
+"2.75‰",
+"1.65‰"
+],
+"a": 0,
+"e": "N.B.1 and N.B.3 to AIFT Rule 13: where process rate exceeds storage rate, the process rate applies; but no floater extra is chargeable when stocks in godowns/process blocks within the same compound are covered."
+},
+{
+"n": 14,
+"topic": "Clauses",
+"t": "The Local Authorities clause extending an RIV policy is granted",
+"o": [
+"Without any additional premium, with reinstatement to be completed within 12 months",
+"Only for stocks and machinery",
+"At 10% of the policy rate",
+"Only where notice has already been served by the authority"
+],
+"a": 0,
+"e": "The clause covers additional cost of reinstatement to comply with building regulations; no additional premium is charged; costs for regulations notified before the loss or for undamaged property are excluded."
+},
+{
+"n": 15,
+"topic": "Rating",
+"t": "Risks in a multiple occupancy industrial estate are rated",
+"o": [
+"Per se, with a rate of ₹1.80‰ on the building if the entire building is insured under one sum insured",
+"At the highest rate of all occupancies",
+"At the rate of the majority occupancy",
+"At a flat ₹2.50‰"
+],
+"a": 0,
+"e": "AIFT Rule 18: multiple occupancy industrial estates are rated per se; ₹1.80‰ applies to the building when insured as a whole under one SI."
+},
+{
+"n": 16,
+"topic": "Earthquake",
+"t": "Under an EAR policy, earthquake cover is granted on first-loss basis for 20% of the sum insured. The EQ premium chargeable is",
+"o": [
+"20% of the tariff EQ rate",
+"100% of the tariff EQ rate",
+"40% of the tariff EQ rate",
+"50% of the tariff EQ rate"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). First-loss EQ in project policies: 20% of SI attracts 50% of the tariff rate; 10% of SI attracts 40% of the tariff rate. EQ rates are applied pro-rata to the policy period.",
+"r": "key"
+},
+{
+"n": 17,
+"topic": "Rating",
+"t": "A factory with sum insured above ₹50 crore has an incurred claims ratio of 8% for the preceding 36 months. The claims experience adjustment under AIFT is",
+"o": [
+"10% discount",
+"5% discount",
+"15% discount",
+"No discount or loading"
+],
+"a": 0,
+"e": "Rule 16: ICR up to 5% – 15% discount; above 5% up to 10% – 10%; above 10% up to 15% – 5%; 15–30% – nil; 30–40% – 2.5% loading; 40–55% – 5%; 55–75% – 10%; 75–100% – 15%; above 100% – refer to TAC."
+},
+{
+"n": 18,
+"topic": "Bharat products",
+"t": "Under Bharat Griha Raksha, general contents are automatically covered up to",
+"o": [
+"50% of the building sum insured",
+"₹5 lakh flat",
+"10% of the building sum insured without any cap",
+"20% of the home building sum insured, subject to a maximum of ₹10 lakh"
+],
+"a": 3,
+"e": "BGR automatically covers general contents at 20% of the building SI (max ₹10 lakh); higher contents or contents-only cover is optional, and valuables are on agreed value."
+},
+{
+"n": 19,
+"topic": "Bharat products",
+"t": "Under BGR, the requirement of a valuation certificate for valuable contents is waived if",
+"o": [
+"The SI opted is up to ₹10 lakh",
+"The items are jewellery only",
+"The policy is for 10 years",
+"The SI opted is up to ₹5 lakh and no individual item exceeds ₹1 lakh in value"
+],
+"a": 3,
+"e": "Valuable contents (jewellery, silverware, art) are on agreed value; valuation certificate waived where SI is up to ₹5 lakh and individual item value does not exceed ₹1 lakh."
+},
+{
+"n": 20,
+"topic": "Storage classification",
+"t": "For the purpose of storage rating, a flammable liquid with a flash point of 45°C stored loose (not in sealed drums) is classified as",
+"o": [
+"Category 1 hazardous goods",
+"Non-hazardous goods",
+"Category 2 hazardous goods",
+"Category 3 hazardous goods"
+],
+"a": 2,
+"e": "Category 1: flash point above 65°C; Category 2: flash point above 32°C up to 65°C (and sub-32°C liquids in sealed tins/drums); Category 3: flash point below 32°C, explosives, self-ignitable materials."
+},
+{
+"n": 21,
+"topic": "Warranties",
+"t": "A paint factory rated at ₹2.00‰ as 'water based' will carry the warranty that",
+"o": [
+"The factory works single shift only",
+"Hazardous goods do not exceed 25% of stock",
+"Other than water-based paint manufacturing is not carried out",
+"Nitrocellulose paints are stored in sealed drums"
+],
+"a": 2,
+"e": "Rates differ by process (water based 2.00‰, other than water based 3.25‰, nitrocellulose based 4.50‰), so a warranty restricts the process to the one rated."
+},
+{
+"n": 22,
+"topic": "Claims",
+"t": "Ex-gratia settlements of fire claims are approved by",
+"o": [
+"The Board of Directors",
+"The claim settling authority",
+"The Regional claims committee",
+"The surveyor"
+],
+"a": 0,
+"e": "As per the question bank, ex-gratia payments (outside policy terms) are made with the approval of the Board of Directors."
+},
+{
+"n": 23,
+"topic": "Business interruption",
+"t": "Insured standing charges ₹4,00,000, uninsured standing charges ₹1,00,000, net trading loss ₹1,00,000. The gross profit for the LOP policy is",
+"o": [
+"₹5,00,000",
+"₹3,00,000",
+"₹4,20,000",
+"₹3,20,000"
+],
+"a": 3,
+"e": "When all standing charges are not insured, GP = insured standing charges − (insured standing charges × net loss / total standing charges) = 4,00,000 − (4,00,000 × 1,00,000/5,00,000) = ₹3,20,000."
+},
+{
+"n": 24,
+"topic": "Business interruption",
+"t": "Under contingent BI extension, the limit for named customers and suppliers is",
+"o": [
+"30 days of gross profit",
+"20% of the BI sum insured/loss limit, restricted to FLEXA perils for overseas and FLEXA plus AOG for domestic",
+"17% of the BI SI for all perils",
+"10% of the BI SI, FLEXA perils only"
+],
+"a": 1,
+"e": "Contingent BI limits: named customers/suppliers 20%; unnamed Indian customers/suppliers 10% (FLEXA only, none overseas); public utilities 17%; prevention of access 30 days within 5 km for mega policies."
+},
+{
+"n": 25,
+"topic": "Project insurance",
+"t": "Which of the following parties can be insured under a CAR policy?",
+"o": [
+"Contractor and sub-contractors only",
+"Principal, contractor, sub-contractor, engineering consultant, manufacturer and financier",
+"Principal and financier only",
+"Contractor only"
+],
+"a": 1,
+"e": "All parties with an interest in the project – principal, consultant, contractor, sub-contractors, manufacturer and financier – may be named as insured under CAR/EAR."
+},
+{
+"n": 26,
+"topic": "Scope of cover",
+"t": "Which group of risks covered under EAR is classified as 'testing and commissioning risks'?",
+"o": [
+"Carelessness, strike and riot",
+"Fire, theft and burglary",
+"Impact during handling",
+"Leakage of electricity and explosion"
+],
+"a": 3,
+"e": "EAR scope: location risks (fire, theft, burglary), handling risks (impact), testing/commissioning risks (leakage of electricity, explosion), human risks (carelessness, strike, riot, faults in erection) and AOG perils."
+},
+{
+"n": 27,
+"topic": "Rating",
+"t": "The CAR tariff rate depends on",
+"o": [
+"The contractor's turnover",
+"The type of contract work (buildings, factories, bridges, dams) and the project period",
+"The number of workers employed",
+"The age of the principal's existing plant"
+],
+"a": 1,
+"e": "CAR rates vary with the type of civil work and project duration; EAR rates vary with the type of plant erected and the erection and testing periods."
+},
+{
+"n": 28,
+"topic": "Exclusions",
+"t": "Under EAR, the cost of rectifying an error in erection that has not resulted in any physical loss or damage is",
+"o": [
+"Covered if the error is detected within 14 days",
+"Covered up to 10% of the sum insured",
+"Not covered",
+"Covered subject to the testing period excess"
+],
+"a": 2,
+"e": "EAR covers physical loss or damage; rectification of errors without physical damage, inventory losses and faulty design are excluded, while employee negligence resulting in damage is covered."
+},
+{
+"n": 29,
+"topic": "Exclusions",
+"t": "An SFSP policy with sum insured ₹600 crore at one location sustains a flood loss of ₹80 lakh. The excess applicable is",
+"o": [
+"₹25 lakh",
+"₹25,000",
+"₹5 lakh",
+"₹4 lakh"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). For SI above ₹100 crore up to ₹1,500 crore per location: 5% of the claim subject to a minimum of ₹5 lakh; 5% of ₹80 lakh = ₹4 lakh, so the minimum ₹5 lakh applies.",
+"r": "key"
+},
+{
+"n": 30,
+"topic": "Design defect",
+"t": "Defective workmanship at the manufacturer's premises versus at site is treated under EAR/CAR as follows:",
+"o": [
+"Only workmanship at the manufacturer's premises is covered",
+"Both are excluded",
+"Both are covered",
+"Defective workmanship at site is always covered; defective workmanship at the manufacturer's premises falls under the design defect exclusion"
+],
+"a": 3,
+"e": "Faults in erection (workmanship at site) are covered; defective material, casting or workmanship at the manufacturer's premises are excluded subject to the DE wording chosen."
+},
+{
+"n": 31,
+"topic": "Design defect",
+"t": "A reinforcing steel rod (defective part) fails, bringing down the floor, roof and supporting column of a building under CAR. Under DE3 cover,",
+"o": [
+"Only the floor is payable",
+"Floor, roof and column are payable",
+"Nothing is payable",
+"The floor and roof are payable but not the column or the rod"
+],
+"a": 3,
+"e": "CAR design defect ladder: DE2 floor only; DE3 floor and roof; DE4 floor, roof and supporting column; DE5 also the defective rod (but not its redesign cost)."
+},
+{
+"n": 32,
+"topic": "Earthquake",
+"t": "Regarding earthquake cover under EAR/CAR, which statement is correct?",
+"o": [
+"EQ cover is automatically included in the basic rate",
+"Earthquake cover cannot be added mid-term and the EQ rate is applied pro-rata to the policy period",
+"EQ rate is charged on an annual basis irrespective of the project period",
+"EQ cover can be added mid-term with a 15-day waiting period"
+],
+"a": 1,
+"e": "EQ rates depend on zone; no mid-term cover; rates applied pro-rata for the policy period; higher-excess discounts and first-loss basis are available."
+},
+{
+"n": 33,
+"topic": "Extensions",
+"t": "Third-party liability cover under EAR/CAR",
+"o": [
+"Covers accidents caused by road-licensed vehicles",
+"Is automatically reinstated after each claim",
+"Cannot be reinstated after a claim and cannot be granted during extended maintenance for projects below ₹100 crore",
+"Covers injury to the contractor's own workmen"
+],
+"a": 2,
+"e": "TPL cannot be reinstated; it is not granted during extended maintenance (project SI below ₹100 crore); it excludes injury to employees of principal/contractor and accidents by road vehicles, vessels or aircraft."
+},
+{
+"n": 34,
+"topic": "Testing",
+"t": "The maximum testing period allowed under an EAR policy for a project other than a thermal power plant is",
+"o": [
+"12 months",
+"18 months",
+"3 months",
+"6 months"
+],
+"a": 0,
+"e": "Thermal power plants: maximum testing period 6 months; other projects: 12 months."
+},
+{
+"n": 35,
+"topic": "Claims procedure",
+"t": "Under EAR/CAR, the insured may carry out repairs of minor damage without waiting for a survey where the damage does not exceed",
+"o": [
+"₹5,000",
+"₹25,000",
+"₹7,500",
+"₹10,000"
+],
+"a": 2,
+"e": "Minor damage up to ₹7,500 may be repaired/replaced by the insured; all claims must be reported within 14 days of detection."
+},
+{
+"n": 36,
+"topic": "Instalments",
+"t": "A 36-month CAR policy with premium ₹38 lakh is paid in instalments. The amount of each instalment after the first is",
+"o": [
+"₹3,45,455",
+"₹4,22,222",
+"₹3,28,182",
+"₹3,80,000"
+],
+"a": 2,
+"e": "n = (36 − 6)/3 + 1 = 11; subsequent instalments = 0.95 × 38,00,000 / 11 = ₹3,28,182; first instalment = 1,90,000 + 3,28,182 = ₹5,18,182."
+},
+{
+"n": 37,
+"topic": "Maintenance cover",
+"t": "A contractor asks for maintenance visits cover three months after the EAR policy was issued, before completion. The request should be",
+"o": [
+"Accepted at short-period premium",
+"Declined, since maintenance covers can be granted only at inception",
+"Accepted only if testing has not begun",
+"Accepted at pro-rata premium"
+],
+"a": 1,
+"e": "Maintenance visits cover and extended maintenance cover can be granted only at inception of the policy; no refund is allowed if cancelled after the maintenance period begins."
+},
+{
+"topic": "Policyholder protection",
+"t": "An insurer must resolve a policyholder's grievance within how many days of receipt?",
+"o": [
+"7 days",
+"14 days",
+"30 days",
+"45 days"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). 14 days under the 2024 regulations; thereafter the policyholder may approach Bima Bharosa or the Ombudsman.",
+"r": "core",
+"n": 38
+},
+{
+"n": 39,
+"topic": "Machinery breakdown",
+"t": "An MBD-insured machine is damaged while being dismantled and transported to an outside workshop for overhauling. The claim is",
+"o": [
+"Payable in full",
+"Payable under the CPM policy",
+"Not payable, as cover applies only while shifting within the insured premises",
+"Payable at 50%"
+],
+"a": 2,
+"e": "MBD covers machines at work or rest, during dismantling/cleaning/overhaul and re-erection, and while being shifted within the insured premises – not outside them."
+},
+{
+"n": 40,
+"topic": "Machinery breakdown",
+"t": "Which of the following is excluded under an MBD policy?",
+"o": [
+"Damage due to lubrication failure",
+"Loss or damage for which the manufacturer or supplier is responsible by law or contract",
+"Insulation failure of a motor winding",
+"Damage due to a design defect not known to the insured"
+],
+"a": 1,
+"e": "MBD excludes losses recoverable from the manufacturer/supplier/repairer, belts/ropes/tools/operating media, wilful acts, known defects and consequential loss; design defects are covered."
+},
+{
+"n": 41,
+"topic": "Machinery breakdown",
+"t": "The standstill discount under MBD requires a minimum standstill period of",
+"o": [
+"12 months, with discount of 50%",
+"6 months, with discount up to 75%",
+"1 month, with discount up to 25%",
+"3 months, with discount up to 50%"
+],
+"a": 3,
+"e": "Standstill discount is based on the standstill period, up to 50%, with a minimum period of 3 months; no discount is given for lock-out periods."
+},
+{
+"n": 42,
+"topic": "Machinery breakdown",
+"t": "In MBD claims, the correct sequence of adjustment is",
+"o": [
+"Depreciation (if any), then salvage, then under-insurance, then excess",
+"Excess, then under-insurance, then salvage",
+"Salvage, then excess, then under-insurance",
+"Under-insurance before salvage, then excess"
+],
+"a": 0,
+"e": "Salvage is deducted after depreciation if any; under-insurance is applied after deduction of salvage; excess is deducted from the net amount after average."
+},
+{
+"n": 43,
+"topic": "Electronic equipment",
+"t": "Which equipment is appropriately covered under an EEI policy rather than MBD?",
+"o": [
+"Diesel generator set",
+"MRI scanner",
+"Air compressor",
+"CNC lathe"
+],
+"a": 1,
+"e": "EEI covers computers, medical equipment, telecommunication, satellite, research/material testing and audio-visual equipment; CNC lathes and conventional machinery fall under MBD."
+},
+{
+"n": 44,
+"topic": "Electronic equipment",
+"t": "Under an EEI policy, which of the following is NOT excluded?",
+"o": [
+"Lubricating oil, fuel and chemicals",
+"Aesthetic defects such as scratches",
+"Damage to the keyboard of a computer by an insured peril",
+"Bulbs, valves and fuses"
+],
+"a": 2,
+"e": "EEI excludes operating media (oil, fuel, chemicals), bulbs/valves/fuses/belts, aesthetic defects and consequential loss; the keyboard is part of the computer system and is covered."
+},
+{
+"topic": "Claims timelines",
+"t": "Under IRDAI's 2024 norms, a surveyor must be appointed within what time of a claim intimation?",
+"o": [
+"24 hours",
+"48 hours",
+"72 hours",
+"7 days"
+],
+"a": 0,
+"e": "★ Core fact (asked across III papers). Appointment within 24 hours; survey report within 15 days; insurer's decision within 7 days of the report.",
+"r": "core",
+"n": 45
+},
+{
+"n": 46,
+"topic": "Boiler & pressure plant",
+"t": "Under the BPP policy, 'pressure plant' means",
+"o": [
+"Any fired closed vessel in which steam is generated",
+"Any machinery driven by steam",
+"Any unfired closed container under steam, gas or fluid pressure",
+"Any furnace or flue"
+],
+"a": 2,
+"e": "Boiler: any fired closed vessel or combined container-piping system in which steam is generated under pressure; pressure plant: any unfired closed container under steam, gas or fluid pressure."
+},
+{
+"n": 47,
+"topic": "Contractor's plant & machinery",
+"t": "Which add-on cover is available under a CPM policy?",
+"o": [
+"Immersion in tidal waters",
+"Electrical and mechanical breakdown",
+"Dismantling of CPM equipment and shifting to a new location",
+"Loss during ocean transit"
+],
+"a": 2,
+"e": "CPM add-ons: TPL, surrounding property, debris removal, express/air freight, additional customs duty, underground machines (exclusion K) and dismantling/shifting to a new location."
+},
+{
+"n": 48,
+"topic": "Deterioration of stocks",
+"t": "Under a DOS policy for potatoes, the sum insured is",
+"o": [
+"The selling price at the end of the season",
+"The book value of stock on the date of inception",
+"Maximum storage capacity multiplied by the average price of potatoes at loading (including storage charges for the season), agreed with the insurer",
+"The average monthly stock value"
+],
+"a": 2,
+"e": "DOS SI = maximum value of stock in the cold storage: capacity × average price at loading as determined with the insurer's concurrence, including storage charges for the whole season."
+},
+{
+"n": 49,
+"topic": "Machinery loss of profit",
+"t": "The term 'relative importance' in MLOP rating means",
+"o": [
+"The percentage effect that breakdown of a particular machine will have on the total gross profit, disregarding loss-minimising measures",
+"The age of the machine relative to the others",
+"The machine with the highest production capacity",
+"The percentage of the machine's value to the total plant value"
+],
+"a": 0,
+"e": "MLOP rating factors include type and age of machine, criticality (relative importance, i.e. % contribution to GP), availability of spares, shifts, indemnity period and claims history."
+},
+{
+"n": 50,
+"topic": "Deductibles",
+"t": "Under the deductibles circular, the minimum deductible for a Cellular Network policy is",
+"o": [
+"Material damage ₹50,000; BI 14 days",
+"As per the SFSP sum insured bands",
+"Material damage 5% subject to a minimum of ₹10 lakh; BI 7 days",
+"Material damage 5% of claim subject to a minimum of ₹5 lakh; business interruption 3 days of gross profit"
+],
+"a": 3,
+"e": "Cellular network policies: MD 5% of claim, minimum ₹5 lakh; BI 3 days of gross profit."
+}
+]

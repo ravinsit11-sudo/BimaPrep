@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "IMT endorsements",
+"t": "A vintage car insured with the Agreed Value Clause (IMT 2) suffers a partial loss. How are the replaced parts dealt with?",
+"o": [
+"Depreciation on parts replaced applies as stated in Section I of the policy",
+"A flat 25% is deducted from the cost of all parts",
+"The full IDV is payable and the car is taken over as salvage",
+"No depreciation is deducted because the policy is on agreed value basis"
+],
+"a": 0,
+"e": "IMT 2 waives depreciation only for total loss / constructive total loss, when the IDV is paid without deduction. For partial loss the normal Section I depreciation schedule applies."
+},
+{
+"n": 2,
+"topic": "IMT endorsements",
+"t": "A car policy showing 45% NCB is transferred to a buyer who has no NCB entitlement of his own, with eight months of the policy left to run. Under GR 17 / IMT 3 the insurer should",
+"o": [
+"allow the 45% NCB to continue till expiry",
+"cancel the policy and issue a fresh one at full premium",
+"recover the NCB on pro-rata basis for the unexpired period",
+"recover the full year's NCB from the transferee"
+],
+"a": 2,
+"e": "GR 17 provides that where the transferee is not entitled to the NCB shown on the policy, it is to be recovered on a pro-rata basis; IMT 3 further provides that no period vested in a previous insured accrues to the transferee for NCB."
+},
+{
+"n": 3,
+"topic": "IMT endorsements",
+"t": "Under IMT 5 (Hire Purchase Agreement), claim monies for loss that cannot be made good by repair or replacement of parts are paid to",
+"o": [
+"the hirer and the financier jointly by a single cheque",
+"the hirer, who then settles with the financier",
+"the owners (financier) so long as they remain owners, their receipt being a full discharge to the insurer",
+"the registering authority for onward release"
+],
+"a": 2,
+"e": "IMT 5 protects the owner's (financier's) interest: monies for loss not made good by repair are payable to the owners while they remain owners, and their receipt is a full and final discharge to the insurer."
+},
+{
+"n": 4,
+"topic": "IMT endorsements",
+"t": "A car under a lease agreement is insured in the lessee's name with IMT 6 attached. For the compulsory PA cover for owner-driver, who is deemed to be the owner-driver?",
+"o": [
+"The insured (lessee) named in the policy, subject to the policy provisions on this cover",
+"Neither, as CPA cover cannot be granted on leased vehicles",
+"The lessor's authorised signatory",
+"The lessor, being the registered owner"
+],
+"a": 0,
+"e": "IMT 5, 6 and 7 each declare that for the purpose of the PA cover for owner-driver, the insured named in the policy continues to be deemed the owner-driver subject to the policy provisions."
+},
+{
+"n": 5,
+"topic": "IMT endorsements",
+"t": "An insured who obtained an Automobile Association discount under IMT 8 ceases to be a member four months into the policy. The endorsement requires him to",
+"o": [
+"surrender the policy for cancellation",
+"refund the full discount allowed for the policy year",
+"do nothing, as the discount is earned at inception",
+"notify the insurer immediately and refund the proportionate discount for the unexpired period"
+],
+"a": 3,
+"e": "IMT 8 provides that if the insured ceases to be a member during the currency of the policy he must notify the insurer and refund a proportionate amount of the discount for the unexpired period."
+},
+{
+"n": 6,
+"topic": "IMT endorsements",
+"t": "What continuing obligation does IMT 10 (anti-theft device) place on the insured?",
+"o": [
+"To park the vehicle only in a locked garage at night",
+"To obtain fresh certification from the Automobile Association every quarter",
+"To inform the RTO of the installation within 14 days",
+"To ensure the device is maintained in efficient condition till expiry of the policy"
+],
+"a": 3,
+"e": "IMT 10 requires the insured to ensure at all times that the ARAI-approved anti-theft device is maintained in efficient condition till the expiry of the policy."
+},
+{
+"n": 7,
+"topic": "IMT endorsements",
+"t": "Under IMT 11A (vehicle laid up, period declared) option (b) means that",
+"o": [
+"the policy period is extended for the lay-up period against payment of the proportionate premium for fire and/or theft cover",
+"a cash refund of the lay-up premium is paid to the insured",
+"the policy is cancelled and re-issued after the lay-up",
+"the lay-up premium is deducted from the next renewal premium"
+],
+"a": 0,
+"e": "IMT 11A gives two options: (a) deduct the lay-up premium from the next renewal premium, or (b) extend the period of insurance in view of payment of an additional premium representing fire/theft cover for the laid-up period."
+},
+{
+"n": 8,
+"topic": "IMT endorsements",
+"t": "A vehicle was laid up under IMT 11B without declaring the period. When the insured brings the vehicle back into use, the insurer attaches",
+"o": [
+"IMT 4, treating it as change of vehicle",
+"IMT 26, restricting cover to fire and theft",
+"IMT 11A, declaring the lay-up period retrospectively",
+"IMT 11C, reinstating full cover and cancelling IMT 11B"
+],
+"a": 3,
+"e": "IMT 11C terminates the undeclared lay-up period: cover is reinstated in full from the stated date and IMT 11B is deemed cancelled, with the lay-up concession allowed by deduction at renewal or extension of period."
+},
+{
+"n": 9,
+"topic": "Numerical - IDV",
+"t": "A new car with a listed selling price of Rs 12,00,000 is 5 months old at the time of insurance. Its IDV under GR 8 is",
+"o": [
+"Rs 10,20,000",
+"Rs 12,00,000",
+"Rs 11,60,000",
+"Rs 11,40,000"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). GR 8 schedule: not exceeding 6 months - 5% depreciation; Rs 12,00,000 x 95% = Rs 11,40,000.",
+"r": "key"
+},
+{
+"n": 10,
+"topic": "IMT endorsements",
+"t": "Under GR 33 / IMT 12, the 50% discount on OD premium for vehicles specially designed for blind, handicapped and mentally challenged persons applies to",
+"o": [
+"both privately owned vehicles and vehicles owned by institutions serving exclusively such persons",
+"vehicles owned by institutions only",
+"privately owned vehicles only",
+"two wheelers only"
+],
+"a": 0,
+"e": "GR 33 allows the 50% OD discount, with RTO certification/endorsement in the RC, for privately owned vehicles as well as vehicles owned and used by institutions engaged exclusively in the service of such persons."
+},
+{
+"n": 11,
+"topic": "General Regulations",
+"t": "An insured wants the earthquake peril deleted from his private car package policy and asks for a premium reduction. Under GR 3 the correct position is",
+"o": [
+"restriction of Section I cover is not permitted at all",
+"restriction of cover under Section I is allowed but without any reduction in premium",
+"the peril may be deleted with a 5% reduction in OD premium",
+"deletion is allowed with a pro-rata refund"
+],
+"a": 1,
+"e": "GR 3 lists the two policy forms (Liability Only and Package) and permits restriction of cover under Section I of the package policy, but without any reduction in premium."
+},
+{
+"n": 12,
+"topic": "General Regulations",
+"t": "Under GR 2, a proposal form is required for",
+"o": [
+"renewal only when the insurer changes",
+"material alteration only",
+"fresh insurance only",
+"fresh insurance, renewal and any material alteration"
+],
+"a": 3,
+"e": "GR 2 makes the proposal form mandatory for fresh insurance, renewal and for any material alteration in the risk."
+},
+{
+"n": 13,
+"topic": "General Regulations",
+"t": "A fleet owner requests payment of the annual motor premium in four quarterly instalments. Under GR 15 the office should",
+"o": [
+"accept if the first instalment covers the TP premium",
+"decline, as full premium must be collected before commencement of cover",
+"accept for commercial vehicles only",
+"accept, subject to a bank guarantee for the balance"
+],
+"a": 1,
+"e": "GR 15 requires the full premium to be collected before commencement of cover; collection of premium in instalments is not permissible."
+},
+{
+"n": 14,
+"topic": "General Regulations",
+"t": "When the insurer cancels a motor policy under GR 24, the premium refund is on",
+"o": [
+"short period basis",
+"pro-rata basis",
+"no refund basis",
+"full refund basis irrespective of period run"
+],
+"a": 1,
+"e": "Under GR 24 cancellation by the insurer (seven days' notice) attracts pro-rata refund, whereas cancellation at the insured's request attracts refund on short period scale, subject to no claim and retention of minimum premium."
+},
+{
+"n": 15,
+"topic": "General Regulations",
+"t": "A car is found insured with two different offices of the same insurer for identical periods and cover. The permissible refund is",
+"o": [
+"pro-rata refund of the later policy",
+"short period refund of the earlier policy",
+"no refund, as both policies remain in force",
+"100% refund of the premium of one policy by cancelling the later of the two"
+],
+"a": 3,
+"e": "GR 24 (Double Insurance): where both policies are with the same insurer, 100% refund of one policy is allowed by cancelling the later policy; where different insurers are involved, the later policy is cancelled with pro-rata refund."
+},
+{
+"n": 16,
+"topic": "Numerical - cancellation",
+"t": "An insured cancels his private car policy (annual premium Rs 9,000, no claim) exactly 5 months after inception. The refund under GR 24 is",
+"o": [
+"Rs 5,400",
+"Rs 3,750",
+"Rs 3,600",
+"Rs 5,250"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). Cancellation by the insured attracts short period retention: exceeding 4 months but not exceeding 5 months = 60% retained (Rs 5,400); refund = Rs 9,000 - Rs 5,400 = Rs 3,600.",
+"r": "key"
+},
+{
+"n": 17,
+"topic": "General Regulations",
+"t": "An insured vehicle is requisitioned by the Government and damaged during the requisition period. The insurer's liability under GR 38 is",
+"o": [
+"50% of the loss, the Government paying the balance",
+"nil, as the cover is suspended during requisition",
+"to pay losses in excess of the amount made good by the Government",
+"to pay the full loss and recover from the Government"
+],
+"a": 2,
+"e": "GR 38 holds requisitioned vehicles automatically covered without extra premium; in the event of loss the insurer pays the loss or liability in excess of the amount made good by the Government."
+},
+{
+"n": 18,
+"topic": "General Regulations",
+"t": "Under GR 46, an electric (battery-operated) two wheeler approved by the RTA is rated as a two wheeler of",
+"o": [
+"not exceeding 150 cc",
+"above 350 cc",
+"not exceeding 50 cc",
+"above 150 cc and up to 350 cc"
+],
+"a": 3,
+"e": "GR 46 provides that vehicles driven by non-conventional power are rated: private cars as cars not exceeding 1000 cc, and two wheelers as those exceeding 150 cc but not exceeding 350 cc."
+},
+{
+"n": 19,
+"topic": "Motor trade policies",
+"t": "Under a Motor Trade Road Risks (Class F) policy, loss or damage to a dealer's vehicle is covered while the vehicle is",
+"o": [
+"in a public place or temporarily garaged in the course of a journey",
+"in transit by rail from the factory",
+"anywhere in India including the insured's premises",
+"inside the dealer's showroom premises"
+],
+"a": 0,
+"e": "Class F covers loss or damage in a public place or when the vehicle is temporarily garaged during the course of a journey; loss in the insured's own premises is not covered (that is the domain of Class G)."
+},
+{
+"n": 20,
+"topic": "Motor trade policies",
+"t": "Premium under a Motor Trade Internal Risks (Class G) policy is computed on",
+"o": [
+"IDV of all vehicles held in stock",
+"number of trade certificates held",
+"superficial area of the premises, wages of employees and 50% of open parking area",
+"distance travelled by vehicles in a year"
+],
+"a": 2,
+"e": "Class G rating depends on the superficial area occupied (rates for up to 2000 sq m), wages of employees (0.28%) and open parking area, of which 50% is reckoned as superficial area."
+},
+{
+"n": 21,
+"topic": "Motor trade policies",
+"t": "Under the Motor Trade Road Transit (Class E) tariff, the TP (liability) premium is slabbed by distance as",
+"o": [
+"a flat rate irrespective of distance",
+"two slabs: up to 2400 km and above 2400 km",
+"three slabs: 500, 1000 and above 1000 km",
+"eleven slabs of distance"
+],
+"a": 1,
+"e": "Under Class E the OD portion has 11 distance slabs while the TP portion has only two slabs - up to 2400 km and above 2400 km."
+},
+{
+"n": 22,
+"topic": "Motor trade policies",
+"t": "Under the Central Motor Vehicles Rules 1989, Form 17 is",
+"o": [
+"the register to be maintained by the dealer",
+"the form of Trade Certificate",
+"the cover note format",
+"the application for grant of Trade Certificate"
+],
+"a": 1,
+"e": "CMVR forms: Form 16 is the application for a trade certificate, Form 17 is the trade certificate itself and Form 19 is the register the dealer must maintain."
+},
+{
+"n": 23,
+"topic": "Motor trade policies",
+"t": "A trade certificate issued under Rule 37 of CMVR is valid for",
+"o": [
+"twelve months throughout India",
+"six months in the State of issue",
+"five years throughout India",
+"till the vehicle is registered"
+],
+"a": 0,
+"e": "Rule 37 CMVR provides that a trade certificate is valid for twelve months and is effective throughout India."
+},
+{
+"n": 24,
+"topic": "Miscellaneous vehicles (Class D)",
+"t": "The passenger liability premium for a hearse rated under Class D is",
+"o": [
+"Rs 115 per passenger",
+"Rs 60 per passenger",
+"Rs 50 per passenger",
+"Rs 100 per passenger"
+],
+"a": 0,
+"e": "Among passenger vehicles only ambulances and hearses are rated under Class D; passenger liability premium is Rs 60 per passenger for ambulances and Rs 115 per passenger for hearses."
+},
+{
+"n": 25,
+"topic": "Miscellaneous vehicles (Class D)",
+"t": "A trailer drawn by an agricultural tractor rated under Class D is to be insured. The correct approach is",
+"o": [
+"a separate Class B trailer policy is issued",
+"the trailer is insured under a non-motor policy only",
+"the trailer is covered free under the tractor policy without declaration",
+"the trailer cannot be insured separately and its cover must be identical to that of the hauling vehicle"
+],
+"a": 3,
+"e": "Trailers used with miscellaneous type vehicles cannot be insured separately; cover for the hauling vehicle and trailer must be identical, as with private car trailers (IMT 48 for agricultural implements)."
+},
+{
+"n": 26,
+"topic": "Vehicle classification",
+"t": "An articulated vehicle (towing unit and trailer registered as one unit) is rated",
+"o": [
+"under Class B (trailers)",
+"under the appropriate class of the tariff based on the actual use of the vehicle",
+"as a private car if owned by an individual",
+"always under Class D as a special type vehicle"
+],
+"a": 1,
+"e": "The tariff defines an articulated vehicle as a towing vehicle and trailer registered as one unit and requires it to be rated under the class appropriate to its actual use."
+},
+{
+"n": 27,
+"topic": "Numerical - premium",
+"t": "A private car package policy is extended under IMT 31 for a rally lasting 4 days. The additional premium is",
+"o": [
+"Rs 180",
+"Rs 150",
+"Rs 240",
+"Rs 120"
+],
+"a": 1,
+"e": "★ Key fact (repeated across the mocks of this paper). Rally extension for private car package policies: Rs 60 for the first day and Rs 30 for each succeeding day: 60 + 3 x 30 = Rs 150 (liability only policies: Rs 25 and Rs 15).",
+"r": "key"
+},
+{
+"n": 28,
+"topic": "OD claims procedure",
+"t": "On receipt of intimation of an own damage claim, a surveyor must be appointed immediately but not later than",
+"o": [
+"24 hours of the accident",
+"7 days of receipt of the claim form",
+"72 hours of receipt of intimation",
+"15 days of receipt of the estimate"
+],
+"a": 2,
+"e": "The claims procedure requires the surveyor to be appointed immediately and in any case within 72 hours of receipt of intimation; in tie-up arrangements the TAT is fixed in the agreement."
+},
+{
+"n": 29,
+"topic": "OD claims procedure",
+"t": "A repair estimate of Rs 42,000 is received for a private car. Who may assess the loss?",
+"o": [
+"Only an independent licensed surveyor",
+"The branch manager without survey",
+"The repairer, by self-certification",
+"An in-house surveyor, if available, since the estimate does not exceed Rs 50,000"
+],
+"a": 3,
+"e": "Up to an estimate of Rs 50,000 an in-house surveyor, if available, may be appointed; where the estimate exceeds Rs 50,000 an independent surveyor must be appointed."
+},
+{
+"n": 30,
+"topic": "OD claims procedure",
+"t": "A spot survey is required in a motor accident where",
+"o": [
+"the vehicle is a two wheeler",
+"the loss exceeds Rs 25,000 irrespective of third party involvement",
+"the loss is expected to exceed Rs 1 lakh and third party injury or death is involved",
+"the insured requests cashless repairs"
+],
+"a": 2,
+"e": "For major accidents where the expected loss exceeds Rs 1 lakh and TP injury/death is involved, a spot survey is required to record damage details and third party particulars; the police must be informed and FIR lodged."
+},
+{
+"n": 31,
+"topic": "Theft claims",
+"t": "Accessories worth Rs 7,500 are stolen from a parked car which itself is not stolen; the two wheeler-style exclusion does not apply. For processing, the office",
+"o": [
+"must reject the claim as accessories are never covered",
+"must wait for the final police investigation report",
+"may appoint a surveyor or in-house surveyor since the claim exceeds Rs 5,000, and settle on bills subject to FIR/case diary",
+"may settle without any FIR as the amount is small"
+],
+"a": 2,
+"e": "Theft of accessories/parts may be settled on bills without waiting for the final police report subject to FIR/case diary; for claims exceeding Rs 5,000 a surveyor or in-house surveyor may be appointed, and a letter of indemnity and subrogation is taken before settlement."
+},
+{
+"n": 32,
+"topic": "OD claims procedure",
+"t": "The previous claim history of a vehicle presented for an OD claim can be verified through",
+"o": [
+"the Parivahan website",
+"the IRDAI grievance portal",
+"the IIB (Insurance Information Bureau) portal",
+"the Tariff Advisory Committee database"
+],
+"a": 2,
+"e": "RC and DL particulars are verified on the Parivahan website, while the vehicle's previous claim history is checked on the IIB portal."
+},
+{
+"n": 33,
+"topic": "Minimum IDV",
+"t": "For premium computation the minimum value (IDV) of a private car exceeding 1500 cc is",
+"o": [
+"Rs 30,000",
+"Rs 40,000",
+"Rs 15,000",
+"Rs 20,000"
+],
+"a": 0,
+"e": "Minimum IDVs for private cars: not exceeding 1000 cc Rs 15,000; 1000-1500 cc Rs 20,000; exceeding 1500 cc Rs 30,000."
+},
+{
+"n": 34,
+"topic": "Two wheeler tariff",
+"t": "A motorcycle is used with a side car attached. The tariff allows",
+"o": [
+"a 25% loading on the own damage premium",
+"a 10% discount on the total premium",
+"no change in premium",
+"a 25% discount on the own damage premium"
+],
+"a": 3,
+"e": "Under the Two Wheeler tariff, if a two wheeler is used with a side car attached, a 25% discount may be allowed on the OD premium."
+},
+{
+"topic": "Policyholder protection",
+"t": "The IRDAI portal through which a policyholder can escalate an unresolved grievance against an insurer is:",
+"o": [
+"Bima Sugam",
+"Bima Bharosa",
+"Bima Vahak",
+"Bima Vistaar"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). Bima Bharosa (formerly IGMS) is the grievance portal; Bima Sugam is the marketplace, Bima Vahak the women-led distribution channel and Bima Vistaar the combined rural product.",
+"r": "core",
+"n": 35
+},
+{
+"n": 36,
+"topic": "Passenger liability",
+"t": "For the purpose of the seating-capacity (overloading) proviso in passenger liability endorsements, any three children not exceeding 15 years of age are reckoned as",
+"o": [
+"one person",
+"two persons",
+"nil, they are disregarded",
+"three persons"
+],
+"a": 1,
+"e": "The proviso treats any three children not exceeding 15 years as two persons, and disregards children in arms not exceeding 3 years; carrying more than the licensed capacity makes the insured repay a rateable proportion."
+},
+{
+"n": 37,
+"topic": "PA covers",
+"t": "Under GR 36B the premium for optional PA cover to named/unnamed occupants of a motorised two wheeler is, per Rs 10,000 of CSI,",
+"o": [
+"Rs 5",
+"Rs 7",
+"Rs 10",
+"Rs 6"
+],
+"a": 1,
+"e": "GR 36B premium per unit of Rs 10,000 CSI or part thereof: private car Rs 5, motorised two wheeler Rs 7 and commercial vehicle Rs 6."
+},
+{
+"n": 38,
+"topic": "Numerical - partial loss",
+"t": "A private car (1200 cc) registered on 10.02.2023 meets with an accident on 25.09.2023. Assessment before depreciation: metal parts Rs 30,000, plastic parts Rs 16,000, labour Rs 9,000; no salvage. The amount payable is",
+"o": [
+"Rs 44,500",
+"Rs 45,500",
+"Rs 43,500",
+"Rs 46,000"
+],
+"a": 0,
+"e": "Age 7.5 months: metal parts 5% depreciation = Rs 28,500; plastic parts 50% = Rs 8,000; labour Rs 9,000; total Rs 45,500 less compulsory deductible Rs 1,000 (car up to 1500 cc) = Rs 44,500."
+},
+{
+"n": 39,
+"topic": "Numerical - total loss",
+"t": "A two wheeler with IDV Rs 42,000 is damaged; the surveyor assesses repair cost after depreciation at Rs 34,000. The wreck is valued at Rs 9,000 on 'as is where is' basis. The claim payable is",
+"o": [
+"Rs 33,900",
+"Rs 33,000",
+"Rs 41,900",
+"Rs 32,900"
+],
+"a": 3,
+"e": "Rs 34,000 is 81% of IDV, exceeding 75%, so it is a total loss (CTL). Payable = IDV Rs 42,000 - wreck Rs 9,000 - compulsory deductible Rs 100 = Rs 32,900."
+},
+{
+"n": 40,
+"topic": "Numerical - partial loss",
+"t": "A taxi (1400 cc) aged 2 years 5 months has an accident. Assessment before depreciation: metal parts Rs 60,000, rubber parts Rs 8,000, labour Rs 7,000. The insurer's liability is",
+"o": [
+"Rs 62,000",
+"Rs 60,500",
+"Rs 61,500",
+"Rs 61,000"
+],
+"a": 2,
+"e": "Metal parts 15% depreciation (2-3 years) = Rs 51,000; rubber 50% = Rs 4,000; labour Rs 7,000; total Rs 62,000 less deductible Rs 500 (taxi up to 1500 cc) = Rs 61,500."
+},
+{
+"n": 41,
+"topic": "Numerical - IMT 23 claim",
+"t": "A goods vehicle of 9,000 kg GVW aged 3 years 2 months carries IMT 23. Damage: metal bumper Rs 20,000, plastic lamp Rs 6,000, other metal body parts Rs 40,000, labour Rs 10,000. The claim payable is",
+"o": [
+"Rs 46,500",
+"Rs 48,000",
+"Rs 55,500",
+"Rs 49,000"
+],
+"a": 1,
+"e": "Bumper: 25% depreciation gives Rs 15,000, then 50% under IMT 23 = Rs 7,500. Lamp: 50% plastic depreciation gives Rs 3,000, then 50% = Rs 1,500. Other body parts 25% = Rs 30,000. Labour Rs 10,000. Total Rs 49,000 less deductible Rs 1,000 (7,500-16,500 kg) = Rs 48,000."
+},
+{
+"n": 42,
+"topic": "Numerical - IDV",
+"t": "At renewal, a car is 2 years 8 months old and the ex-showroom price of the same model on the renewal date is Rs 9,60,000. The IDV as per the GR 8 schedule is",
+"o": [
+"Rs 7,68,000",
+"Rs 5,76,000",
+"Rs 6,72,000",
+"Rs 8,16,000"
+],
+"a": 2,
+"e": "GR 8: depreciation for a vehicle aged 2 to 3 years is 30% of the current listed selling price: Rs 9,60,000 x 70% = Rs 6,72,000."
+},
+{
+"n": 43,
+"topic": "Numerical - NCB",
+"t": "The own damage premium of a car before NCB is Rs 18,000 and the insured has three consecutive claim-free years. The NCB amount is",
+"o": [
+"Rs 4,500",
+"Rs 6,300",
+"Rs 9,000",
+"Rs 8,100"
+],
+"a": 1,
+"e": "GR 27: NCB for three consecutive claim-free years is 35%; 35% of Rs 18,000 = Rs 6,300, leaving a net OD premium of Rs 11,700."
+},
+{
+"n": 44,
+"topic": "Numerical - short period",
+"t": "The annual premium of a package policy is Rs 10,000. A short period cover of 4 months 10 days is required. The premium chargeable under GR 12 is",
+"o": [
+"Rs 6,000",
+"Rs 5,000",
+"Rs 7,000",
+"Rs 4,000"
+],
+"a": 0,
+"e": "GR 12 short period scale: exceeding 4 months but not exceeding 5 months = 60% of annual premium, i.e. Rs 6,000."
+},
+{
+"n": 45,
+"topic": "Numerical - restricted cover",
+"t": "A car with IDV Rs 6,00,000 is kept in a garage and not used. The insured requests cover for fire and theft only under GR 45A. The premium is",
+"o": [
+"Rs 3,000",
+"Rs 7,500",
+"Rs 4,500",
+"Rs 6,000"
+],
+"a": 2,
+"e": "GR 45A rates: fire only 0.50% of IDV, theft only 0.50%, fire and theft 0.75%; Rs 6,00,000 x 0.75% = Rs 4,500 (IMT 26 attached)."
+},
+{
+"n": 46,
+"topic": "Numerical - Class D claim",
+"t": "A Class D miscellaneous vehicle with IDV Rs 48 lakh suffers a loss assessed at Rs 3,10,000 after depreciation; salvage Rs 10,000. The insurer's liability is",
+"o": [
+"Rs 2,76,000",
+"Rs 3,00,000",
+"Rs 2,98,000",
+"Rs 2,86,000"
+],
+"a": 0,
+"e": "Compulsory deductible for Class D is 0.5% of IDV subject to a minimum of Rs 2,000: 0.5% of Rs 48,00,000 = Rs 24,000. Payable = 3,10,000 - 10,000 - 24,000 = Rs 2,76,000."
+},
+{
+"topic": "Policyholder protection",
+"t": "An insurer must resolve a policyholder's grievance within how many days of receipt?",
+"o": [
+"7 days",
+"14 days",
+"30 days",
+"45 days"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). 14 days under the 2024 regulations; thereafter the policyholder may approach Bima Bharosa or the Ombudsman.",
+"r": "core",
+"n": 47
+},
+{
+"n": 48,
+"topic": "Numerical - motor trade",
+"t": "In a dealer's premises insured under a Class G Internal Risks policy, the dealer's own car (assessed loss Rs 70,000) and a customer's car (assessed loss Rs 1,20,000) are damaged in one accident. The insurer's liability is",
+"o": [
+"Rs 1,89,500",
+"Rs 1,99,500",
+"Rs 1,70,000",
+"Rs 1,69,500"
+],
+"a": 3,
+"e": "Under the Internal Risks policy liability is restricted to Rs 50,000 for the insured's own cars and Rs 1,50,000 for customers' cars; Rs 50,000 + Rs 1,20,000 = Rs 1,70,000 less one policy excess of Rs 500 per accident = Rs 1,69,500."
+},
+{
+"n": 49,
+"topic": "Numerical - premium",
+"t": "A car owner declares electrical fittings worth Rs 40,000 (not in the manufacturer's price) and a CNG kit worth Rs 30,000. The total additional premium under GR 41 and GR 42 is",
+"o": [
+"Rs 2,800",
+"Rs 2,860",
+"Rs 3,060",
+"Rs 2,460"
+],
+"a": 1,
+"e": "IMT 24: 4% of Rs 40,000 = Rs 1,600; IMT 25: 4% of Rs 30,000 = Rs 1,200 plus Rs 60 under the liability section for the CNG/LPG system; total Rs 2,860."
+},
+{
+"n": 50,
+"topic": "Numerical - discounts",
+"t": "A private car has an OD premium of Rs 5,200 and the insured is a member of a recognised Automobile Association. The discount under GR 28 is",
+"o": [
+"Rs 200",
+"Rs 260",
+"Rs 50",
+"Rs 250"
+],
+"a": 0,
+"e": "GR 28: 5% of OD premium subject to a maximum of Rs 200 for a private car (Rs 50 for a two wheeler). 5% of Rs 5,200 = Rs 260, restricted to Rs 200."
+}
+]

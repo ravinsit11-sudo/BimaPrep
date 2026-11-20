@@ -1,0 +1,657 @@
+[
+{
+"n": 1,
+"topic": "Proportional reinsurance - surplus shares",
+"t": "Fire programme: retention ₹25 lakh; 1st surplus 20 lines; 2nd surplus 12 lines; facultative obligatory ₹5 crore; balance facultative. On a risk of sum insured ₹16 crore a claim of ₹96 lakh is paid. The 1st surplus treaty's share is",
+"o": [
+"₹30 lakh",
+"₹25 lakh",
+"₹18 lakh",
+"₹16.5 lakh"
+],
+"a": 0,
+"e": "1st surplus = 20 × ₹25 lakh = ₹5 crore = 5/16 of the risk; share = 5/16 × ₹96 lakh = ₹30 lakh (retention 1.5, 2nd surplus 18, F/O 30, facultative 16.5)."
+},
+{
+"n": 2,
+"topic": "Proportional reinsurance - surplus shares",
+"t": "In the same programme (SI ₹16 crore; retention ₹25 lakh; 1st surplus 20 lines; 2nd surplus 12 lines; F/O ₹5 crore) the facultative reinsurer's share of the ₹96 lakh claim is",
+"o": [
+"₹2.75 crore",
+"₹16.5 lakh",
+"₹18 lakh",
+"₹30 lakh"
+],
+"a": 1,
+"e": "Automatic capacity = 0.25 + 5 + 3 + 5 = ₹13.25 crore, leaving ₹2.75 crore facultative = 2.75/16 of the risk; 2.75/16 × 96 = ₹16.5 lakh."
+},
+{
+"n": 3,
+"topic": "Surplus treaty - lines",
+"t": "An insurer retains ₹1 crore and has a 1st surplus of 15 lines. To accept risks of sum insured up to ₹25 crore without facultative support, its 2nd surplus treaty must have at least",
+"o": [
+"10 lines",
+"25 lines",
+"9 lines",
+"15 lines"
+],
+"a": 2,
+"e": "Retention 1 + 1st surplus 15 = ₹16 crore; the 2nd surplus must absorb ₹9 crore = 9 lines of ₹1 crore each."
+},
+{
+"n": 4,
+"topic": "Premium under proportional treaty",
+"t": "A risk with original premium ₹1,50,000 is ceded 60% to the surplus treaty, which allows 30% ceding commission. The net premium payable to the surplus reinsurers is",
+"o": [
+"₹90,000",
+"₹1,05,000",
+"₹27,000",
+"₹63,000"
+],
+"a": 3,
+"e": "Premium ceded = 60% × 1,50,000 = ₹90,000; commission 30% = ₹27,000; net ₹63,000."
+},
+{
+"n": 5,
+"topic": "Excess of loss - recovery",
+"t": "An XL cover of ₹1 crore xs ₹20 lakh is shared by reinsurer A (60%) and reinsurer B (40%). A ground-up loss of ₹1.5 crore occurs. Reinsurer B pays",
+"o": [
+"₹52 lakh",
+"₹40 lakh",
+"₹60 lakh",
+"₹32 lakh"
+],
+"a": 1,
+"e": "Loss above priority = ₹1.3 crore but the layer limit is ₹1 crore; B pays 40% of ₹1 crore = ₹40 lakh. The cedant bears ₹20 lakh priority plus ₹30 lakh above the layer."
+},
+{
+"n": 6,
+"topic": "Stop loss - cedant's net",
+"t": "A stop loss cover pays 90% of losses in excess of a 75% loss ratio. Premium is ₹120 crore and losses ₹105 crore. The cedant's net loss after recovery is",
+"o": [
+"₹90 crore",
+"₹15 crore",
+"₹13.5 crore",
+"₹91.5 crore"
+],
+"a": 3,
+"e": "75% of 120 = ₹90 crore; excess ₹15 crore; recovery 90% = ₹13.5 crore. Cedant's net loss = 105 − 13.5 = ₹91.5 crore."
+},
+{
+"n": 7,
+"topic": "Surplus treaty on PML basis",
+"t": "Facilities (PML basis): retention ₹50 lakh; quota share 20% max ₹2 crore; 1st surplus 20 lines max ₹10 crore; 2nd surplus 15 lines max ₹7.5 crore. A risk of SI ₹60 crore is written at 40% PML. The facultative placement is",
+"o": [
+"₹4 crore",
+"₹6.8 crore",
+"nil",
+"₹40 crore"
+],
+"a": 0,
+"e": "PML amount ₹24 crore: retention 0.5; QS 20% = 4.8 but max 2; 1st surplus 20 × 0.5 = 10; 2nd surplus 15 × 0.5 = 7.5. Total ₹20 crore; facultative ₹4 crore."
+},
+{
+"n": 8,
+"topic": "Premium terminology",
+"t": "A policy for annual premium ₹12,000 is issued on 1 January. On 31 March the amounts of earned and unearned premium are respectively",
+"o": [
+"₹3,000 and ₹9,000",
+"₹12,000 and nil",
+"₹9,000 and ₹3,000",
+"nil and ₹12,000"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). Written premium ₹12,000 is booked at issue; three of twelve months have expired, so earned premium is ₹3,000 and unearned premium (reserve for unexpired risk) is ₹9,000.",
+"r": "key"
+},
+{
+"n": 9,
+"topic": "Excess of loss premium",
+"t": "Five-year GNPI ₹50 crore; losses to the XL layer ₹2 crore; rate = burning cost × 100/70, minimum 4.5%, maximum 7%; current GNPI ₹14 crore. The XL premium is",
+"o": [
+"₹56 lakh",
+"₹63 lakh",
+"₹80 lakh",
+"₹98 lakh"
+],
+"a": 2,
+"e": "Burning cost 2/50 = 4%; loaded 4 × 100/70 = 5.714%, within the band. Premium = 5.714% × ₹14 crore = ₹80 lakh."
+},
+{
+"n": 10,
+"topic": "Excess of loss premium - minimum rate",
+"t": "GNPI ₹20 crore; losses to the XL cover ₹30 lakh; rate 100/75 of burning cost, minimum 3%. The XL premium is",
+"o": [
+"₹30 lakh",
+"₹40 lakh",
+"₹60 lakh",
+"₹20 lakh"
+],
+"a": 2,
+"e": "Burning cost = 30/2000 = 1.5%; loaded = 2%, which is below the 3% minimum. Premium = 3% of ₹20 crore = ₹60 lakh."
+},
+{
+"n": 11,
+"topic": "Reinstatement premium - two losses",
+"t": "An XL cover of ₹1.5 crore xs ₹50 lakh has an annual premium of ₹9 lakh and two reinstatements at 100% pro rata to amount. Two losses produce recoveries of ₹1.5 crore and ₹90 lakh. Total reinstatement premium is",
+"o": [
+"₹14.4 lakh",
+"₹9 lakh",
+"₹18 lakh",
+"₹5.4 lakh"
+],
+"a": 0,
+"e": "First loss exhausts the limit: RP = 150/150 × 9 = ₹9 lakh. Second: 90/150 × 9 = ₹5.4 lakh. Total ₹14.4 lakh."
+},
+{
+"n": 12,
+"topic": "Reinstatement premium - pro rata to time",
+"t": "Treaty 1.4.2024 to 31.3.2025; cover ₹50 lakh xs ₹10 lakh; XL premium ₹1,00,000; a loss on 1.7.2024 gives a recovery of ₹25 lakh; one reinstatement at 100% pro rata to amount and time. The reinstatement premium is approximately",
+"o": [
+"₹50,000",
+"₹25,000",
+"₹75,068",
+"₹37,534"
+],
+"a": 3,
+"e": "Unexpired days from 1.7.2024 to 31.3.2025 = 31+31+30+31+30+31+31+28+31 = 274. RP = 25/50 × 1,00,000 × 274/365 = ₹37,534."
+},
+{
+"n": 13,
+"topic": "Excess of loss - reinsurer's result",
+"t": "On an XL cover the final premium is ₹16 lakh, the reinstatement premium ₹64,000 and the year's recovery ₹14 lakh. A reinsurer with a 5% share ends the year with a",
+"o": [
+"loss of ₹13,200",
+"profit of ₹13,200",
+"profit of ₹83,200",
+"loss of ₹70,000"
+],
+"a": 1,
+"e": "5% share: premium 80,000 + reinstatement 3,200 = ₹83,200 received; loss paid 70,000; net profit ₹13,200."
+},
+{
+"n": 14,
+"topic": "Buffer excess of loss",
+"t": "A buffer XL of ₹1 crore xs ₹25 lakh has an aggregate deductible of ₹40 lakh. Ground-up losses: ₹65 lakh, ₹45 lakh and ₹90 lakh. Total recovery is",
+"o": [
+"₹85 lakh",
+"₹1.25 crore",
+"₹1.05 crore",
+"₹65 lakh"
+],
+"a": 0,
+"e": "Excess over ₹25 lakh: 40, 20 and 65. The first ₹40 lakh is absorbed by the aggregate deductible; reinsurers pay 20 + 65 = ₹85 lakh."
+},
+{
+"n": 15,
+"topic": "Catastrophe excess of loss - hours clause",
+"t": "A cat XL of ₹2 crore xs ₹50 lakh per loss occurrence has a 72-hours clause for windstorm. A cyclone lasts 100 hours: losses in the first 72 hours ₹1.8 crore and in the remaining 28 hours ₹70 lakh. Recovery is",
+"o": [
+"₹2 crore",
+"₹1.5 crore",
+"₹1.3 crore",
+"₹1.8 crore"
+],
+"a": 1,
+"e": "Two occurrences: 180 − 50 = ₹1.3 crore and 70 − 50 = ₹20 lakh; total ₹1.5 crore. The cedant may choose the start of the 72-hour period to maximise recovery."
+},
+{
+"n": 16,
+"topic": "Treaty account",
+"t": "Treaty account (100%): premium ₹4,00,000; commission 40%; taxes ₹8,000; claims paid ₹1,50,000 (including a cash loss of ₹50,000 already remitted by reinsurers); premium reserve retained 40%; previous year's reserve released ₹1,50,000 with interest at 6%; XL premium for common account ₹3,000; common account XL recoveries ₹7,000. The balance due to a reinsurer with a 30% share is",
+"o": [
+"₹1,35,000",
+"₹37,800",
+"₹40,500",
+"₹45,000"
+],
+"a": 2,
+"e": "Credits: 4,00,000 + 50,000 + 1,50,000 + 9,000 + 7,000 = 6,16,000. Debits: 1,60,000 + 8,000 + 1,50,000 + 1,60,000 + 3,000 = 4,81,000. Balance ₹1,35,000 due to reinsurers; 30% = ₹40,500."
+},
+{
+"n": 17,
+"topic": "Profit commission - three-year average",
+"t": "Profit commission is 20% on the three-year average system. Results: year 1 profit ₹10 lakh; year 2 profit ₹4 lakh; year 3 loss ₹20 lakh. Profit commission for year 3 is",
+"o": [
+"₹2.8 lakh",
+"₹0.4 lakh",
+"₹0.93 lakh",
+"nil, as the three-year average is a loss of ₹2 lakh"
+],
+"a": 3,
+"e": "Average = (10 + 4 − 20)/3 = −₹2 lakh. No profit commission is payable on a negative average."
+},
+{
+"n": 18,
+"topic": "Surplus treaty - lines ceded",
+"t": "Retention on a risk is ₹10 lakh and the sum insured is ₹65 lakh. The cession to the surplus treaty amounts to",
+"o": [
+"6.5 lines",
+"6 lines",
+"5.5 lines",
+"5 lines"
+],
+"a": 2,
+"e": "★ Key fact (repeated across the mocks of this paper). Surplus = ₹65 − ₹10 = ₹55 lakh; expressed in lines of ₹10 lakh this is 5.5 lines. Lines need not be whole numbers.",
+"r": "key"
+},
+{
+"n": 19,
+"topic": "Profit commission - first year",
+"t": "A treaty in its first year: premium ₹40 lakh; commission 30%; claims paid ₹6 lakh; outstanding claims ₹4 lakh; management expenses 5%; clean-cut withdrawal at 40% of premium and 90% of outstanding losses. Profit commission at 20% is",
+"o": [
+"nil",
+"₹8,000",
+"₹80,000",
+"₹3.6 lakh"
+],
+"a": 1,
+"e": "Outgo = 12 + 6 + 2 + 16 + 3.6 = ₹39.6 lakh against income ₹40 lakh (no portfolio entry in the first year). Profit ₹0.4 lakh × 20% = ₹8,000."
+},
+{
+"n": 20,
+"topic": "Super profit commission",
+"t": "Premium ceded ₹2 crore; net profit ₹30 lakh; profit commission 20% on profit up to 10% of premium and 75% on the balance. Total profit commission is",
+"o": [
+"₹6 lakh",
+"₹4 lakh",
+"₹22.5 lakh",
+"₹11.5 lakh"
+],
+"a": 3,
+"e": "10% of premium = ₹20 lakh → 20% = ₹4 lakh; balance ₹10 lakh → 75% = ₹7.5 lakh; total ₹11.5 lakh."
+},
+{
+"n": 21,
+"topic": "Reinsurance accounting - earned premium",
+"t": "Premiums ceded ₹5,00,000; premium reserve brought forward ₹1,80,000; premium reserve carried forward ₹2,10,000. Earned premium is",
+"o": [
+"₹4,70,000",
+"₹5,30,000",
+"₹5,00,000",
+"₹8,90,000"
+],
+"a": 0,
+"e": "Earned premium = 5,00,000 + 1,80,000 − 2,10,000 = ₹4,70,000."
+},
+{
+"n": 22,
+"topic": "Obligatory cession - history",
+"t": "The obligatory cession to the Indian reinsurer for 2008-09 was",
+"o": [
+"20%",
+"15%",
+"10%",
+"5%"
+],
+"a": 2,
+"e": "It was 20% up to 2006-07, 15% in 2007-08 and 10% from 2008-09 (continuing in 2011-12), later 5% and now 4%."
+},
+{
+"n": 23,
+"topic": "Surplus treaty",
+"t": "Under a surplus treaty the limit of the ceding insurer's own liability (its retention) is decided by",
+"o": [
+"the leading reinsurer",
+"the broker",
+"the ceding insurer",
+"the regulator"
+],
+"a": 2,
+"e": "The cedant fixes its retention schedule; the treaty then provides capacity in lines above that retention."
+},
+{
+"n": 24,
+"topic": "Excess of loss treaty",
+"t": "When a loss exceeds both the retention and the limit of an excess of loss treaty, the amount above the limit",
+"o": [
+"reverts to the ceding insurer",
+"is paid by the reinsurer in any case",
+"is shared equally",
+"is paid by the broker"
+],
+"a": 0,
+"e": "The XL reinsurer's liability is capped at the layer limit; any excess falls back on the cedant unless a higher layer has been bought."
+},
+{
+"n": 25,
+"topic": "Stamping of reinsurance documents",
+"t": "For outward treaties placed abroad by an Indian insurer, stamp duty under the Indian Stamp Act is payable on",
+"o": [
+"no copy, as the document is executed abroad",
+"the copy retained in India",
+"all copies wherever held",
+"only the broker's copy"
+],
+"a": 1,
+"e": "The copy of the outward treaty retained in India must be stamped; inward treaties from foreign cedants must also be stamped in India."
+},
+{
+"n": 26,
+"topic": "Aviation market",
+"t": "About 25% of the world's aviation insurance business is written at",
+"o": [
+"Munich Re",
+"Swiss Re",
+"Lloyd's",
+"GIC Re"
+],
+"a": 2,
+"e": "Lloyd's of London has historically carried roughly a quarter of world aviation business, with professional reinsurers taking the rest."
+},
+{
+"n": 27,
+"topic": "Proportional reinsurance - surplus shares",
+"t": "In the same programme (sum insured ₹24 crore; retention ₹40 lakh; 1st surplus 15 lines; 2nd surplus 10 lines; facultative obligatory ₹8 crore), the amount that has to be placed by facultative reinsurance is",
+"o": [
+"₹8 crore",
+"₹5.6 crore",
+"₹4 crore",
+"₹6 crore"
+],
+"a": 1,
+"e": "★ Key fact (repeated across the mocks of this paper). Automatic capacity = ₹0.40 + ₹6 + ₹4 + ₹8 crore = ₹18.4 crore. Balance ₹24 − ₹18.4 = ₹5.6 crore must be reinsured facultatively.",
+"r": "key"
+},
+{
+"n": 28,
+"topic": "Long-tail liability",
+"t": "Long-tail liability, where claims emerge years after the policy period, is characteristic of",
+"o": [
+"fire and burglary",
+"marine cargo",
+"motor own damage",
+"products liability, professional indemnity and workmen's compensation"
+],
+"a": 3,
+"e": "Liability classes have long reporting and settlement tails, making IBNR, loss development and index clauses important in their reinsurance."
+},
+{
+"n": 29,
+"topic": "Reinsurance commission",
+"t": "Reinsurance commission is paid by the",
+"o": [
+"ceding insurer to the broker",
+"reinsurer to the ceding insurer",
+"reinsurer to the original agent",
+"ceding insurer to the reinsurer"
+],
+"a": 1,
+"e": "Ceding commission is allowed by the reinsurer on premium ceded to reimburse the cedant's acquisition costs, taxes and overheads."
+},
+{
+"n": 30,
+"topic": "Profit commission statement",
+"t": "Which of the following does NOT appear on the income (credit) side of a profit commission statement?",
+"o": [
+"management expenses",
+"loss reserve brought forward",
+"premiums for the year",
+"premium reserve brought forward"
+],
+"a": 0,
+"e": "Income comprises premiums and the portfolio entries brought forward; management expenses, commission, claims and reserves carried forward are outgo."
+},
+{
+"n": 31,
+"topic": "Inward reinsurance - records",
+"t": "Which of the following is NOT one of the records maintained for managing an inward reinsurance account?",
+"o": [
+"accounts flow chart",
+"cash loss register",
+"the cedant's agency register",
+"outstanding claims register"
+],
+"a": 2,
+"e": "Inward account management relies on accounting flow charts, cash loss and outstanding claims registers and systematic checking of accounts; the cedant's agents are not the reinsurer's concern."
+},
+{
+"n": 32,
+"topic": "Contributing excess",
+"t": "Where two reinsurers each take one-half of a ₹10 crore excess over a ₹1 crore retention on a risk, and a loss of ₹5 crore occurs, under 'contributing excess' each reinsurer pays",
+"o": [
+"₹2.5 crore",
+"₹5 crore",
+"₹2 crore",
+"₹4 crore"
+],
+"a": 2,
+"e": "Excess loss = 5 − 1 = ₹4 crore; each contributes in proportion to its participation, i.e. ₹2 crore apiece."
+},
+{
+"n": 33,
+"topic": "Admitted reinsurance",
+"t": "A ceding insurer may take credit in its financial statements for unearned premium and unpaid claims on risks reinsured when the reinsurance is placed with",
+"o": [
+"an admitted (licensed/recognised) reinsurer",
+"any reinsurer",
+"a broker",
+"a captive"
+],
+"a": 0,
+"e": "Only reinsurance with admitted reinsurers (or non-admitted reinsurance adequately collateralised) qualifies for reserve credit."
+},
+{
+"n": 34,
+"topic": "Retrospective rating",
+"t": "A plan permitting adjustment of the final reinsurance premium or commission on the basis of actual loss experience, subject to minimum and maximum limits, is",
+"o": [
+"flat rating",
+"payback rating",
+"exposure rating",
+"retrospective rating"
+],
+"a": 3,
+"e": "Retrospective rating (as in burning cost with min/max, or sliding scale commission) ties the final price to the treaty's own results."
+},
+{
+"n": 35,
+"topic": "Facultative reinsurance",
+"t": "A cedant without any automatic treaty for engineering business receives a large erection risk. It must protect itself through",
+"o": [
+"its fire surplus treaty",
+"facultative reinsurance, since no treaty is at its disposal",
+"a stop loss cover",
+"its obligatory cession alone"
+],
+"a": 1,
+"e": "Facultative reinsurance is the only route where no treaty exists for the class or the risk falls outside treaty scope."
+},
+{
+"topic": "Insurance Act 1938 – key sections",
+"t": "Nomination and assignment of a life insurance policy are governed respectively by which sections of the Insurance Act 1938?",
+"o": [
+"Sections 39 and 38",
+"Sections 38 and 39",
+"Sections 41 and 45",
+"Sections 45 and 41"
+],
+"a": 0,
+"e": "★ Core fact (asked across III papers). Section 39 deals with nomination; Section 38 with assignment and transfer.",
+"r": "core",
+"n": 36
+},
+{
+"n": 37,
+"topic": "Proportional facultative reinsurance",
+"t": "Under proportional facultative reinsurance",
+"o": [
+"the reinsurer receives its proportionate share of premium and pays the same share of losses to the cedant",
+"all losses on the risk are transferred to the reinsurer",
+"the reinsurer pays the original insured directly",
+"the cedant retains nothing"
+],
+"a": 0,
+"e": "The facultative reinsurer takes a proportion of the risk, premium and losses; it has no contract with, and makes no payment to, the original insured."
+},
+{
+"n": 38,
+"topic": "Treaty - meaning",
+"t": "In reinsurance the word 'treaty' means",
+"o": [
+"a single insurance policy",
+"an agreement between two parties covering a class of business on an obligatory basis",
+"a government-to-government agreement",
+"a facultative certificate"
+],
+"a": 1,
+"e": "A treaty is a general reinsurance agreement, obligatory on both sides, covering all risks of the defined class rather than individual risks."
+},
+{
+"n": 39,
+"topic": "Clauses - net retained lines",
+"t": "A cedant has both a quota share treaty and an XL cover. The XL wording provides that it protects only the cedant's net retained lines. A loss of ₹2 crore on a risk 50% ceded to the quota share is tested against the XL priority at",
+"o": [
+"₹2 crore",
+"₹50 lakh",
+"₹1 crore, the net retained amount",
+"₹4 crore"
+],
+"a": 2,
+"e": "The net retained lines clause confines the XL to the cedant's net account after other reinsurances, so only ₹1 crore (the retained half) counts towards the priority."
+},
+{
+"n": 40,
+"topic": "Claims - responsibility",
+"t": "After a treaty is in force, the party responsible to the original policyholder for payment of a claim is",
+"o": [
+"the reinsurer",
+"the cedant",
+"the broker",
+"the reinsurer and cedant jointly"
+],
+"a": 1,
+"e": "There is no privity between policyholder and reinsurer; the cedant settles the claim and then recovers from its reinsurers."
+},
+{
+"n": 41,
+"topic": "Outstanding claims",
+"t": "Reinsurers examine the cedant's outstanding claims at the year end mainly in order to",
+"o": [
+"approve the cedant's retention",
+"decide the broker's commission",
+"fix the stamp duty",
+"estimate the provisions to be made in their own revenue account"
+],
+"a": 3,
+"e": "Outstanding loss advices at anniversary dates allow the reinsurer to reserve properly and to judge the adequacy of claim reserves."
+},
+{
+"n": 42,
+"topic": "Data analysis",
+"t": "Reinsurers collect and analyse large amounts of data from cedants in order to",
+"o": [
+"obtain better terms, balance cessions and strengthen relationships",
+"avoid paying claims",
+"replace the regulator's statistics",
+"fix the cedant's agency commission"
+],
+"a": 0,
+"e": "Statistics support renewal negotiations, cash-flow monitoring, portfolio balancing and the follow-up of reserve adequacy."
+},
+{
+"n": 43,
+"topic": "Reinsurance markets",
+"t": "Reinsurers prefer mature financial markets because they",
+"o": [
+"offer tax exemption on all premiums",
+"have no regulation",
+"provide good quality customers, easy raising of resources and easy access",
+"pay claims faster"
+],
+"a": 2,
+"e": "Mature markets combine quality cedants, capital availability and accessibility; factors like inflation, arbitration and infrastructure also influence entry decisions."
+},
+{
+"n": 44,
+"topic": "Cancellation - run-off",
+"t": "A quota share treaty is cancelled on a run-off basis at 31 December. A policy ceded in October suffers a loss the following May. The outgoing reinsurer",
+"o": [
+"is not liable, as the treaty has ended",
+"is liable only if the cedant pays a reinstatement premium",
+"remains liable, since on run-off its liability continues until each ceded policy expires",
+"is liable for 50%"
+],
+"a": 2,
+"e": "Under run-off (natural expiry) cancellation the reinsurer stays on risk for policies ceded before termination until they expire; under clean-cut the liability would have been transferred."
+},
+{
+"topic": "IRDAI – regulator",
+"t": "IRDAI was constituted under the:",
+"o": [
+"Insurance Act 1938",
+"IRDA Act 1999",
+"General Insurance Business (Nationalisation) Act 1972",
+"LIC Act 1956"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). The IRDA Act 1999 established the Authority; it began functioning in April 2000 and is headquartered in Hyderabad.",
+"r": "core",
+"n": 45
+},
+{
+"n": 46,
+"topic": "Reinsurance commission - flat rate",
+"t": "The method of commission under which the agreed percentage is simply applied to premiums ceded, less returns and cancellations, making accounting very easy, is",
+"o": [
+"flat rate commission",
+"sliding scale commission",
+"overriding commission",
+"profit commission"
+],
+"a": 0,
+"e": "Flat rate commission is fixed irrespective of results and is the simplest to administer; sliding scale and profit commission depend on experience."
+},
+{
+"n": 47,
+"topic": "Reserve deposits - interest",
+"t": "A ceding insurer withholds a premium reserve of 40% of ceded premium as a deposit. Under normal treaty terms the cedant",
+"o": [
+"pays the deposit to the broker",
+"keeps the deposit permanently as a fee",
+"charges the reinsurer interest for holding its money",
+"pays interest on the deposit to the reinsurer and releases it in the following year's account"
+],
+"a": 3,
+"e": "The deposit secures the reinsurer's unearned premium/outstanding loss obligations; the cedant usually pays interest and releases the deposit a year later."
+},
+{
+"n": 48,
+"topic": "Excess of loss - claim expenses",
+"t": "Under an XL treaty where the ultimate net loss definition includes loss expenses, legal costs of ₹5 lakh on a claim of ₹60 lakh against a priority of ₹25 lakh are",
+"o": [
+"ignored for the purpose of the XL recovery",
+"added to the loss, making the UNL ₹65 lakh and the recovery ₹40 lakh within the limit",
+"paid entirely by the reinsurer",
+"paid entirely by the cedant"
+],
+"a": 1,
+"e": "Where loss expenses form part of UNL, they are added to the indemnity before applying the priority, so the recovery becomes ₹65 − 25 = ₹40 lakh (subject to the limit)."
+},
+{
+"n": 49,
+"topic": "Inward reinsurance - cash loss",
+"t": "A reinsurer receives a cash loss call of ₹2 crore from a cedant on its inward treaty. The purpose of the reinsurer's cash loss register is to",
+"o": [
+"record the advance paid so that it is set against the claim when it appears in the periodical account",
+"refuse all cash calls",
+"calculate profit commission",
+"compute stamp duty"
+],
+"a": 0,
+"e": "Cash losses are paid in advance of the account; the register ensures the reinsurer credits itself when the claim is later included in the treaty account."
+},
+{
+"n": 50,
+"topic": "Retrocession",
+"t": "A professional reinsurer that has accepted a large inward surplus treaty protects its own retained share through a further reinsurance. This transaction is",
+"o": [
+"coinsurance",
+"a retrocession",
+"a pool",
+"fronting"
+],
+"a": 1,
+"e": "Retrocession is the reinsurance of reinsurance: the reinsurer (retrocedant) cedes part of its assumed liability to a retrocessionaire."
+}
+]
