@@ -395,7 +395,7 @@ footer .wrap{display:flex;gap:1rem;flex-wrap:wrap;justify-content:space-between}
 
 </main>
 
-<footer><div class="wrap"><span>© BimaPrep · bimaprep.in · <small style="opacity:.6">v28</small> · <a href="#legal">Privacy · Terms · Refunds</a> · Not affiliated with IRDAI, III or any insurer</span><span>Sources: Insurance Act 1938 · IRDA Act 1999 · IRDAI regulations & master circulars 2024 · PMFBY Operational Guidelines 2023</span></div></footer>
+<footer><div class="wrap"><span>© BimaPrep · bimaprep.in · <small style="opacity:.6">v29</small> · <a href="#legal">Privacy · Terms · Refunds</a> · Not affiliated with IRDAI, III or any insurer</span><span>Sources: Insurance Act 1938 · IRDA Act 1999 · IRDAI regulations & master circulars 2024 · PMFBY Operational Guidelines 2023</span></div></footer>
 
 <script src="vendor/supabase.js" onerror="var x=document.createElement('script');x.src='https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js';document.head.appendChild(x)"></script>
 <script>
@@ -2811,7 +2811,7 @@ async function connectAuth(){   // late connection, e.g. first config call faile
   if(sb) return true;
   const c=await fetchConfig(2); if(!c||!window.supabase) return false;
   CFG=Object.assign(CFG||{},c); sb=window.supabase.createClient(CFG.supabaseUrl,CFG.supabaseAnonKey);
-  const {data}=await sb.auth.getSession(); session=data.session; await loadUser(); renderNav();
+  const {data}=await sb.auth.getSession(); session=data.session; await loadUser(); renderNav(); show(location.hash.replace('#','').split('&')[0]);
   sb.auth.onAuthStateChange(async(ev,s)=>{session=s; await loadUser(); renderNav(); show(location.hash.replace('#','').split('&')[0])});
   return true;
 }
@@ -2836,16 +2836,20 @@ async function boot(){
   }
   renderNav(); show(recovery?'account':location.hash.replace('#','').split('&')[0]); renderHomeFeedback();
 }
+let _loading=null;
 async function loadUser(){
-  user=null; ents=[]; results=[]; pending=[];
-  if(!sb||!session) return;
+  if(!sb||!session){user=null; ents=[]; results=[]; pending=[]; return}
+  if(_loading) return _loading;
+  _loading=_loadUser().finally(()=>{_loading=null}); return _loading;
+}
+async function _loadUser(){
   const uid=session.user.id;
   const [{data:p},{data:e},{data:r},{data:o}]=await Promise.all([
     sb.from('profiles').select('*').eq('id',uid).single(),
     sb.from('active_entitlements').select('*').eq('user_id',uid),
     sb.from('attempts').select('mock_id,title,correct,total,pct,created_at').eq('user_id',uid).order('created_at',{ascending:false}).limit(50),
     sb.from('orders').select('id,pack,final_amount,status,utr,created_at,submitted_at,review_note').eq('user_id',uid).in('status',['pending','rejected']).order('created_at',{ascending:false}).limit(20)]);
-  user=p||{id:uid,email:session.user.email,name:session.user.user_metadata?.name||'',is_admin:false};
+  user=p||{id:uid,email:session.user.email,name:session.user.user_metadata?.name||'',is_admin:false,phone:session.user.user_metadata?.phone||''};
   if(p&&!p.welcome_sent_at&&!window._welcomeTried){window._welcomeTried=true;api('send-welcome',{}).catch(()=>{})}
   ents=e||[]; results=r||[]; pending=o||[];
 }
@@ -2877,13 +2881,16 @@ window.colorOf=c=>({'IC-02':'life','IC-11':'property','IC-14':'reg','IC-27':'hea
 function ownedSubjects(){return user?SUBJECTS.filter(sub=>ents.some(e=>e.pack===sub.pack||(sub.also_in&&e.pack===sub.also_in))):[]}
 function renderMine(){
   const box=document.getElementById('mineList');
+  if(!user&&sb&&session){box.innerHTML='<div class="card">Loading your papers…</div>';loadUser().then(()=>{renderNav();renderMine()}).catch(()=>{box.innerHTML='<div class="card" style="border-color:#c0392b">Could not load your papers. Please reload the page.</div>'});return}
+  if(!user&&!sb){box.innerHTML='<div class="card">Connecting…</div>';connectAuth().then(()=>renderMine());return}
   if(!user){box.innerHTML='<div class="card" style="border-color:var(--gold)">Sign in to see the papers you have bought. <a class="btn sm" href="#account">Sign in</a></div>';return}
   const mine=ownedSubjects();
   const pend=pending;
   if(!mine.length){box.innerHTML=`<div class="card">${pend.length?'Your payment is under verification — the paper will appear here as soon as it is approved (usually within 24 hours).':'You have not bought any paper yet.'} <a class="btn sm" href="#pricing" style="background:var(--saffron)">See papers &amp; prices</a></div>`;return}
-  box.innerHTML=mine.map(sub=>{const ent=ents.find(e=>e.pack===sub.pack||(sub.also_in&&e.pack===sub.also_in));const till=ent&&ent.expires_at?new Date(ent.expires_at).toLocaleDateString('en-IN',{day:'numeric',month:'short',year:'numeric'}):'';
+  try{ box.innerHTML=mine.map(sub=>{const ent=ents.find(e=>e.pack===sub.pack||(sub.also_in&&e.pack===sub.also_in));const till=ent&&ent.expires_at?new Date(ent.expires_at).toLocaleDateString('en-IN',{day:'numeric',month:'short',year:'numeric'}):'';
     return `<div class="card c-${colorOf(sub.code)}" style="margin-bottom:1rem"><div class="eyebrow">${esc(sub.code)} · ${esc(sub.level)}</div><h3 style="margin:.2rem 0">${esc(sub.name)}</h3><p style="margin:.2rem 0 .6rem;opacity:.8">${sub.mocks.length} mocks · 50 questions · 60 minutes each${till?' · valid till '+till:''}</p><div style="display:flex;flex-wrap:wrap;gap:.5rem">${sub.mocks.map(m=>{const b=best(m.id);return `<button class="btn sm" data-mock="${m.id}" style="background:var(--saffron)">${m.title}${b===null?'':' · best '+b+'%'}</button>`}).join('')}</div></div>`}).join('');
   box.querySelectorAll('[data-mock]').forEach(b=>b.addEventListener('click',async()=>{const sub=SUBJECTS.find(x=>x.mocks.some(m=>m.id===b.dataset.mock));const m=sub.mocks.find(m=>m.id===b.dataset.mock);b.textContent='Loading…';try{if(!bankCache[m.id]){const r=await fetch(m.file);bankCache[m.id]=await r.json()}startTest(m.id,{id:m.id,paper:`${sub.code} · ${sub.name}`,title:`${sub.code} ${m.title}`,minutes:60,q:bankCache[m.id]})}catch(e){b.textContent='Could not load, retry'}}));
+  }catch(e){box.innerHTML='<div class="card" style="border-color:#c0392b">Something went wrong showing your papers ('+esc(e.message)+'). Please reload; if it persists email support@bimaprep.in.</div>'}
 }
 function renderNav(){
   const a=document.getElementById('navAccount'); a.textContent=user?(user.name||user.email).split(' ')[0]:'Sign in';
