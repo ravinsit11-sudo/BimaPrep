@@ -395,9 +395,9 @@ footer .wrap{display:flex;gap:1rem;flex-wrap:wrap;justify-content:space-between}
 
 </main>
 
-<footer><div class="wrap"><span>© BimaPrep · bimaprep.in · <small style="opacity:.6">v26</small> · <a href="#legal">Privacy · Terms · Refunds</a> · Not affiliated with IRDAI, III or any insurer</span><span>Sources: Insurance Act 1938 · IRDA Act 1999 · IRDAI regulations & master circulars 2024 · PMFBY Operational Guidelines 2023</span></div></footer>
+<footer><div class="wrap"><span>© BimaPrep · bimaprep.in · <small style="opacity:.6">v28</small> · <a href="#legal">Privacy · Terms · Refunds</a> · Not affiliated with IRDAI, III or any insurer</span><span>Sources: Insurance Act 1938 · IRDA Act 1999 · IRDAI regulations & master circulars 2024 · PMFBY Operational Guidelines 2023</span></div></footer>
 
-<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js"></script>
+<script src="vendor/supabase.js" onerror="var x=document.createElement('script');x.src='https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js';document.head.appendChild(x)"></script>
 <script>
 //---------------------------------------------------------------------
 //
@@ -2798,17 +2798,36 @@ async function api(fn,body){
   const r=await fetch('/.netlify/functions/'+fn,{method:'POST',headers:h,body:JSON.stringify(body||{})});
   const d=await r.json().catch(()=>({error:'Server error'})); if(!r.ok) throw new Error(d.error||'Request failed'); return d;
 }
+async function fetchConfig(tries=3){
+  for(let i=0;i<tries;i++){
+    try{const r=await fetch('/.netlify/functions/config',{cache:'no-store'});const c=await r.json();
+      if(r.ok&&c&&c.supabaseUrl&&c.supabaseAnonKey){try{localStorage.setItem('bp_cfg',JSON.stringify(c))}catch(e){} return c}
+    }catch(e){}
+    await new Promise(r=>setTimeout(r,1500*(i+1)));
+  }
+  return null;
+}
+async function connectAuth(){   // late connection, e.g. first config call failed
+  if(sb) return true;
+  const c=await fetchConfig(2); if(!c||!window.supabase) return false;
+  CFG=Object.assign(CFG||{},c); sb=window.supabase.createClient(CFG.supabaseUrl,CFG.supabaseAnonKey);
+  const {data}=await sb.auth.getSession(); session=data.session; await loadUser(); renderNav();
+  sb.auth.onAuthStateChange(async(ev,s)=>{session=s; await loadUser(); renderNav(); show(location.hash.replace('#','').split('&')[0])});
+  return true;
+}
 async function boot(){
   const tok0=location.hash.replace('#','').split('&')[0];
   let cat=null; try{cat=JSON.parse(localStorage.getItem('bp_catalog')||'null')}catch(e){}
   if(cat) loadCatalog(cat);
   let cfg=null; try{cfg=JSON.parse(localStorage.getItem('bp_cfg')||'null')}catch(e){}
+  if(!(cfg&&cfg.supabaseUrl&&cfg.supabaseAnonKey)){cfg=null;try{localStorage.removeItem('bp_cfg')}catch(e){}}   // never trust a broken cached config
   renderNav(); show(tok0);            // paint immediately with whatever we have
   const catP=fetch('catalog.json',{cache:'no-cache'}).then(r=>r.json()).then(c=>{try{localStorage.setItem('bp_catalog',JSON.stringify(c))}catch(e){} if(JSON.stringify(c)!==JSON.stringify(cat)){loadCatalog(c); show(location.hash.replace('#','').split('&')[0])}}).catch(()=>{});
-  const cfgP=fetch('/.netlify/functions/config').then(r=>r.json()).then(c=>{try{localStorage.setItem('bp_cfg',JSON.stringify(c))}catch(e){} return c}).catch(()=>null);
+  const cfgP=fetchConfig();
   if(!cat) await catP;
   CFG=cfg||await cfgP||{paymentsLive:false};
   if(!cfg) cfgP.then(c=>{if(c) CFG=c});
+  if(CFG.supabaseUrl&&!window.supabase){await new Promise(r=>{let n=0;const t=setInterval(()=>{if(window.supabase||++n>40){clearInterval(t);r()}},250)})}   // wait up to 10 s for the library
   if(CFG.supabaseUrl&&window.supabase){
     sb=window.supabase.createClient(CFG.supabaseUrl,CFG.supabaseAnonKey);
     const {data}=await sb.auth.getSession(); session=data.session; await loadUser();
@@ -2879,7 +2898,7 @@ function setMode(m){mode=m;document.getElementById('upFields').hidden=m!=='up';d
 document.getElementById('tabIn').addEventListener('click',()=>setMode('in'));document.getElementById('tabUp').addEventListener('click',()=>setMode('up'));
 document.getElementById('formSignin').addEventListener('submit',async e=>{
   e.preventDefault(); const err=document.getElementById('fErr'); err.textContent='';
-  if(!sb){err.textContent='Sign-in is not configured yet on this copy of the site.';return}
+  if(!sb){err.textContent='Connecting…';if(!(await connectAuth())){err.textContent='Could not connect to the sign-in service. Please check your internet connection (office networks sometimes block it) and reload the page, or try on your phone. If it persists, email support@bimaprep.in.';return} err.textContent=''}
   const email=document.getElementById('fEmail').value.trim(),pass=document.getElementById('fPass').value;
   if(!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)){err.textContent='Enter a valid email address.';return}
   if(pass.length<8){err.textContent='Password must be at least 8 characters.';return}
@@ -2981,6 +3000,7 @@ function showUpiStep(o,box){
   box.innerHTML=`<h3>${esc(o.pack)} · pay ₹${o.amount} by UPI</h3>
   <div class="grid g2" style="align-items:start">
     <div style="text-align:center"><img src="${MY_QR}" alt="BimaPrep UPI QR code" style="width:min(260px,100%);background:#fff;border:1px solid var(--line);border-radius:8px;padding:4px">
+      ${o.upiLink&&/Android|iPhone|iPad/i.test(navigator.userAgent)?`<a class="btn" id="upiApp" href="${esc(o.upiLink)}" style="display:block;margin:.6rem auto 0;background:var(--saffron);max-width:260px">Pay ₹${o.amount} using UPI app</a><p class="note" style="margin:.4rem 0 0">Opens Google Pay / PhonePe / Paytm with the amount and reference already filled — just confirm with your UPI PIN, then come back here and enter the UTR.</p>`:''}
       <p class="note" style="margin-top:.5rem">Scan this QR with Google Pay / PhonePe / Paytm / BHIM, enter <b>₹${o.amount}</b> as the amount and <b>${esc(o.reference)}</b> in the note, and pay. On a phone: take a screenshot of the QR, then in your UPI app choose Scan → Upload from gallery.</p></div>
     <div>
       <dl class="terms"><dt>Pay to</dt><dd>${esc(o.upiName)}</dd><dt>Amount</dt><dd><b>₹${o.amount}</b> (exact amount)</dd><dt>Reference</dt><dd style="font-family:var(--mono)"><b>${esc(o.reference)}</b> — put this in the UPI remarks/note</dd></dl>
