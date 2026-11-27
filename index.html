@@ -430,7 +430,7 @@ footer .wrap{display:flex;gap:1rem;flex-wrap:wrap;justify-content:space-between}
 
 </main>
 
-<footer><div class="wrap"><span>© BimaPrep · bimaprep.in · <small style="opacity:.6">v30</small> · <a href="#legal">Privacy · Terms · Refunds</a> · Not affiliated with IRDAI, III or any insurer</span><span>Sources: Insurance Act 1938 · IRDA Act 1999 · IRDAI regulations & master circulars 2024 · PMFBY Operational Guidelines 2023</span></div></footer>
+<footer><div class="wrap"><span>© BimaPrep · bimaprep.in · <small style="opacity:.6">v31</small> · <a href="#legal">Privacy · Terms · Refunds</a> · Not affiliated with IRDAI, III or any insurer</span><span>Sources: Insurance Act 1938 · IRDA Act 1999 · IRDAI regulations & master circulars 2024 · PMFBY Operational Guidelines 2023</span></div></footer>
 
 <script src="vendor/supabase.js" onerror="var x=document.createElement('script');x.src='https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js';document.head.appendChild(x)"></script>
 <script>
@@ -3241,7 +3241,7 @@ async function adminTab(tab){
         const to=document.getElementById('mlTo').value;const list=document.getElementById('mlList').value.split(/[\s,;]+/).map(x=>x.trim()).filter(x=>/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(x));
         if(!test&&to==='list'&&!list.length){out.textContent='Paste at least one valid address.';return}
         if(!test&&!confirm('Send this email now?')) return;
-        out.textContent='Sending…';try{const r=await api('send-mail',{to:test?'me':to,list,subject:sub,text:txt});out.textContent=`Sent to ${r.sent} address${r.sent===1?'':'es'}${r.failed?` · ${r.failed} failed`:''}${r.note?' · '+r.note:''}`}catch(e){out.textContent='Error: '+e.message}};
+        out.textContent='Sending…';try{const r=await api('send-mail',{to:test?'me':to,list,subject:sub,text:txt});out.textContent=`Sent to ${r.sent} address${r.sent===1?'':'es'}${r.failed?` · ${r.failed} failed`:''}${r.error?' · '+r.error:''}${r.note?' · '+r.note:''}`}catch(e){out.textContent='Error: '+e.message}};
       document.getElementById('mlTest').onclick=()=>send(true); document.getElementById('mlGo').onclick=()=>send(false);
     }
     if(tab==='visits'){
