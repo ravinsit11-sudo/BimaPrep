@@ -103,7 +103,7 @@ input:focus,select:focus{outline:2px solid var(--accent);outline-offset:1px}
 .opt b{font-family:var(--mono);color:var(--muted);min-width:1.4rem}
 .dots{display:flex;gap:.35rem;flex-wrap:wrap;margin:1rem 0}
 .dot{width:2rem;height:2rem;border-radius:6px;border:1px solid var(--line);background:var(--surface);font:600 .8rem var(--mono);color:var(--muted);cursor:pointer}
-.dot.ans{background:var(--surface-2);color:var(--ink)} .dot.cur{outline:2px solid var(--accent)} .dot.flag{border-color:var(--gold);color:var(--gold)}
+.dot.ans{background:var(--surface-2);color:var(--ink)} .dot.cur{outline:2px solid var(--accent)} .dot.skip{opacity:.45;text-decoration:line-through}.dot.flag{border-color:var(--gold);color:var(--gold)}
 .score{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:.8rem;margin:1rem 0}
 .score .card{text-align:center}
 .score .big{font-family:var(--display);font-size:2.2rem;color:var(--ink);line-height:1}
@@ -147,6 +147,13 @@ footer .wrap{display:flex;gap:1rem;flex-wrap:wrap;justify-content:space-between}
 <!-- HOME -->
 <section class="view" id="v-home">
   <a class="ticker" href="#promotion" aria-label="Promotion Exercise 2026-27 — see details"><span class="ticker-tag">NEW</span><div class="ticker-track"><span class="ticker-text" id="tickerText"></span><span class="ticker-text" aria-hidden="true" id="tickerText2"></span></div></a>
+  <div class="card" id="freePromo" style="border:2px solid var(--saffron);margin:0 0 1.2rem;background:linear-gradient(135deg,rgba(232,121,43,.08),rgba(255,159,67,.03))">
+    <div style="display:flex;justify-content:space-between;gap:1rem;flex-wrap:wrap;align-items:flex-start">
+      <div style="flex:1 1 320px"><div class="eyebrow" style="color:var(--saffron)">Free · Promotion Exam 2026-27</div><h2 style="margin:.2rem 0 .4rem">Free sample mock for every promotion-exam paper</h2><p style="margin:0;color:var(--muted)">30 of the most probable questions per paper — attempt 25, skip 5. Timed, scored, every answer explained. No sign-in, no payment.</p></div>
+      <a class="btn" href="#promotion" style="background:var(--saffron);align-self:center">About the full course →</a>
+    </div>
+    <div id="freeBtns" style="display:flex;flex-wrap:wrap;gap:.5rem;margin-top:.9rem"></div>
+  </div>
   <div class="heroband"><div class="hero" style="padding-block:0">
     <div>
       <div class="eyebrow">For Licentiate · Associateship · Fellowship candidates</div>
@@ -259,6 +266,7 @@ footer .wrap{display:flex;gap:1rem;flex-wrap:wrap;justify-content:space-between}
   </div>
 
   <div id="testRun" hidden>
+    <p class="note" id="skipNote" hidden></p>
     <div class="testbar">
       <div><div class="eyebrow" id="runPaper"></div><h2 id="runTitle" style="margin:0"></h2></div>
       <div style="display:flex;gap:.6rem;align-items:center"><span class="timer" id="timer">12:00</span><button class="btn ghost sm" id="btnQuit">Quit test</button></div>
@@ -269,7 +277,7 @@ footer .wrap{display:flex;gap:1rem;flex-wrap:wrap;justify-content:space-between}
       <div class="opts" id="opts"></div>
       <div style="display:flex;gap:.6rem;flex-wrap:wrap;margin-top:1rem;align-items:center">
         <button class="btn ghost sm" id="btnPrev">← Previous</button>
-        <button class="btn ghost sm" id="btnFlag">Flag for review</button>
+        <button class="btn ghost sm" id="btnFlag">Flag for review</button><button class="btn ghost sm" id="btnSkip" hidden>Skip (not counted)</button>
         <button class="btn sm" id="btnNext">Next →</button>
         <button class="btn sm" id="btnSubmit" style="margin-left:auto;background:var(--gold)">Submit test</button>
       </div>
@@ -320,7 +328,7 @@ footer .wrap{display:flex;gap:1rem;flex-wrap:wrap;justify-content:space-between}
     <div class="tablewrap"><table><thead><tr><th>Paper</th><th>What it covers</th><th>Mocks</th></tr></thead><tbody id="promoTable"></tbody></table></div>
     <h3 style="margin-top:1.6rem">How candidates use it</h3>
     <div class="grid g3">
-      <div class="card step"><div class="eyebrow">1</div><h3>Attempt a free sample</h3><p>Open Mock Tests → Promotion Exam and try the sample questions without signing in.</p></div>
+      <div class="card step"><div class="eyebrow">1</div><h3>Attempt a free sample</h3><p>Every promotion-exam paper has a free 30-question sample (25 count, 5 can be skipped) — open it from the Home page or Mock Tests, no sign-in.</p></div>
       <div class="card step"><div class="eyebrow">2</div><h3>Buy the bundle or one paper</h3><p>Pay by UPI (QR), enter the UTR; the papers appear under <b>My Papers</b> after verification.</p></div>
       <div class="card step"><div class="eyebrow">3</div><h3>Repeat the mocks</h3><p>Key limits, sections and IMT/GR numbers come back across mocks so they stick. Best scores are saved to your account.</p></div>
     </div>
@@ -430,7 +438,7 @@ footer .wrap{display:flex;gap:1rem;flex-wrap:wrap;justify-content:space-between}
 
 </main>
 
-<footer><div class="wrap"><span>© BimaPrep · bimaprep.in · <small style="opacity:.6">v31</small> · <a href="#legal">Privacy · Terms · Refunds</a> · Not affiliated with IRDAI, III or any insurer</span><span>Sources: Insurance Act 1938 · IRDA Act 1999 · IRDAI regulations & master circulars 2024 · PMFBY Operational Guidelines 2023</span></div></footer>
+<footer><div class="wrap"><span>© BimaPrep · bimaprep.in · <small style="opacity:.6">v32</small> · <a href="#legal">Privacy · Terms · Refunds</a> · Not affiliated with IRDAI, III or any insurer</span><span>Sources: Insurance Act 1938 · IRDA Act 1999 · IRDAI regulations & master circulars 2024 · PMFBY Operational Guidelines 2023</span></div></footer>
 
 <script src="vendor/supabase.js" onerror="var x=document.createElement('script');x.src='https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js';document.head.appendChild(x)"></script>
 <script>
@@ -2908,15 +2916,16 @@ function show(tok){
   window.scrollTo({top:0});
 }
 window.addEventListener('hashchange',()=>show(location.hash.replace('#','').split('&')[0]));
-function jumpToSubject(){const parts=location.hash.replace('#','').split('&');if(parts[0]==='tests'&&parts[1]){const el=document.getElementById('sub-'+parts[1]);if(el){el.scrollIntoView({behavior:'smooth',block:'start'});el.style.boxShadow='0 0 0 3px var(--saffron)';setTimeout(()=>{el.style.boxShadow=''},2500)}}}
+function jumpToSubject(){const parts=location.hash.replace('#','').split('&');if(parts[0]==='tests'&&parts[1]&&parts[1].startsWith('free-')){startFree(parts[1].slice(5));return}if(parts[0]==='tests'&&parts[1]){const el=document.getElementById('sub-'+parts[1]);if(el){el.scrollIntoView({behavior:'smooth',block:'start'});el.style.boxShadow='0 0 0 3px var(--saffron)';setTimeout(()=>{el.style.boxShadow=''},2500)}}}
 let _vid=null; try{_vid=localStorage.getItem('bp_vid'); if(!_vid){_vid=Math.random().toString(36).slice(2)+Date.now().toString(36); localStorage.setItem('bp_vid',_vid)}}catch(e){_vid='anon'}
 let _lastHit='';function hit(tok){const k=tok+'|'+Math.floor(Date.now()/5000);if(k===_lastHit)return;_lastHit=k;try{fetch('/.netlify/functions/hit',{method:'POST',keepalive:true,headers:{'content-type':'application/json'},body:JSON.stringify({page:tok||'home',vid:_vid})}).catch(()=>{})}catch(e){}}
 const _show=show; show=function(tok){_show(tok); hit(VIEWS.includes(tok)?tok:'home')};
 window.colorOf=c=>({'IC-02':'life','IC-11':'property','IC-14':'reg','IC-27':'health','IC-72':'motor','IC-71':'crop','IC-57':'property'})[c]||'ic01';
 function renderTicker(){
   const pe=SUBJECTS.filter(s=>s.level==='Promotion Exam'); const mocks=pe.reduce((n,s)=>n+s.mocks.length,0);
-  const t=`Promotion Exercise 2026-27 is open — ${pe.length} papers (Motor OD · Motor TP · Fire & Engg · Marine · Reinsurance · Accounts · Legal) · ${mocks} full-length mocks · all 7 papers for ₹1,499 (full price ₹3,999) · click for details`;
+  const t=`FREE sample mock for every promotion-exam paper (30 questions, attempt 25) — try without signing in · Promotion Exercise 2026-27 — ${pe.length} papers (Motor OD · Motor TP · Fire & Engg · Marine · Reinsurance · Accounts · Legal) · ${mocks} full-length mocks · all 7 papers for ₹1,499 (full price ₹3,999) · click for details`;
   const a=document.getElementById('tickerText'),b=document.getElementById('tickerText2'); if(a){a.textContent=t; b.textContent=t}
+  const fb=document.getElementById('freeBtns'); if(fb){fb.innerHTML=pe.map(s=>`<a class="btn sm ghost" href="#tests&free-${s.id}">${esc(s.code)} · ${esc(s.name)}</a>`).join('')}
 }
 function renderPromotion(){
   const desc={PEMOTOR:'Tariff, IMT endorsements & GRs, trade policies, OD claims, premium/IDV/NCB numericals',PETP:'MV Act 2019 sections, MACT, s.161/164, limitations, BNS, compensation workings (Sarla Verma / Pranay Sethi)',PEFIRE:'SFSP perils & conditions, AIFT rules, floater/declaration, BI, deductibles; CAR/EAR/MBD/EEI/CPM/ALOP',PEMARINE:'ICC A/B/C, hull clauses, general average, bill of lading & carriage laws, IV & duty policy numericals',PERI:'Treaty & facultative, XL, burning cost, retention, treaty accounts, profit commission — numerical-heavy',PEACC:'Insurance accounts, IRDAI formats, investments, ratios, GST and finance basics',PELEGAL:'Insurance Act, CPA 2019, s.147, ombudsman, policyholder protection and legal framework'};
@@ -3115,6 +3124,13 @@ async function renderLibrary(){
 }
 
 // ================= tests list =================
+async function startFree(id){
+  const sub=SUBJECTS.find(x=>x.id===id); if(!sub) return;
+  const key=id+'_free';
+  try{ if(!bankCache[key]){const r=await fetch('bank/'+key+'.json');bankCache[key]=await r.json()}
+    startTest(key,{id:key,paper:`${sub.code} · ${sub.name} · Free sample`,title:`${sub.code} free sample (30 questions, 25 count)`,minutes:36,q:bankCache[key],skipMax:5});
+  }catch(e){alert('Could not load the sample test. Please try again.')}
+}
 function renderTests(){
   document.getElementById('signinGate').hidden=!!user;
   const mineT=user?SUBJECTS.filter(sub=>ents.some(e=>e.pack===sub.pack||(sub.also_in&&e.pack===sub.also_in))):[];
@@ -3133,16 +3149,19 @@ function renderTests(){
     return `<h2 style="margin-top:1.6rem">${L} · subject-wise mock papers</h2><p style="color:var(--muted);font-size:.93rem">50 questions · 60 minutes · 60% to pass. Five or more mocks per subject (up to 17 where the bank is large); each mock covers the whole syllabus of that paper. The paper's key facts recur across its mocks, and the regulatory basics common to all III papers recur across papers — by design, so they stick.${L==='Licentiate'?'':L==='Promotion Exam'?' Sold per paper or as a 4-paper pack.':' Sold per subject.'}</p><div class="grid g2">${subs.map(sub=>{const pk=PLANS.find(p=>p.id===sub.pack);const ok=ents.some(e=>e.pack===sub.pack||(sub.also_in&&e.pack===sub.also_in));
       const body=!sub.ready?`<p class="note" style="margin-top:.5rem">Mock papers for this subject are being prepared. ${pk?`<button class="btn ghost sm" data-unlock="${sub.pack}">Notify me</button>`:''}</p>`:
         `<div style="display:flex;flex-wrap:wrap;gap:.5rem;margin-top:.5rem">${sub.mocks.map(m=>{const b=best(m.id);return ok?`<button class="btn sm ghost" data-mock="${m.id}" ${user?'':'disabled'}>${m.title}${b===null?'':' · '+b+'%'}</button>`:`<span class="pill tag-paid">${m.title} · locked</span>`}).join('')}</div>${ok?'':`<div style="margin-top:.9rem"><button class="btn sm" data-unlock="${sub.pack}" style="background:var(--saffron)">${live?'Unlock':'Coming soon ·'} ${esc(pk?pk.name:'')} · ₹${pk?pk.price:''}</button></div>`}`;
-      return `<div class="card c-${colorOf(sub.code)}" id="sub-${sub.id}"><div class="eyebrow">${sub.code}${sub.group?' · '+esc(sub.group):''}</div><h3>${esc(sub.name)}</h3>${body}</div>`}).join('')}</div>`}).join('');
+      const freeBtn=sub.level==='Promotion Exam'?`<div style="margin-top:.5rem"><button class="btn sm" data-free="${sub.id}" style="background:var(--saffron)">Free sample · 30 Q, best 25 count</button> <span class="note" style="display:inline">no sign-in needed</span></div>`:'';
+      return `<div class="card c-${colorOf(sub.code)}" id="sub-${sub.id}"><div class="eyebrow">${sub.code}${sub.group?' · '+esc(sub.group):''}</div><h3>${esc(sub.name)}</h3>${freeBtn}${body}</div>`}).join('')}</div>`}).join('');
+  document.querySelectorAll('[data-free]').forEach(b=>b.addEventListener('click',()=>startFree(b.dataset.free)));
   document.querySelectorAll('[data-mock]').forEach(b=>b.addEventListener('click',async()=>{const sub=SUBJECTS.find(x=>x.mocks.some(m=>m.id===b.dataset.mock));const m=sub.mocks.find(m=>m.id===b.dataset.mock);b.textContent='Loading…';try{if(!bankCache[m.id]){const r=await fetch(m.file);bankCache[m.id]=await r.json()}startTest(m.id,{id:m.id,paper:`${sub.code} · ${sub.name}`,title:`${sub.code} ${m.title}`,minutes:60,q:bankCache[m.id]})}catch(e){b.textContent='Could not load, retry'}}));
   document.querySelectorAll('[data-unlock]').forEach(b=>b.addEventListener('click',()=>{location.hash='#pricing';setTimeout(()=>buy(b.dataset.unlock),50)}));
   document.getElementById('history').innerHTML=user&&results.length?`<h2>Your attempts</h2>${historyTable()}`:'';
 }
 
 // ================= test engine =================
-let T=null,ans=[],flags=[],cur=0,left=0,tick=null;
+let T=null,ans=[],flags=[],skips=[],cur=0,left=0,tick=null;
 function startTest(id,obj){
-  T=obj||TESTS.find(x=>x.id===id)||T; ans=Array(T.q.length).fill(-1); flags=Array(T.q.length).fill(false); cur=0; left=T.minutes*60;
+  T=obj||TESTS.find(x=>x.id===id)||T; ans=Array(T.q.length).fill(-1); flags=Array(T.q.length).fill(false); skips=Array(T.q.length).fill(false); cur=0; left=T.minutes*60;
+  const sk=document.getElementById('btnSkip'); sk.hidden=!T.skipMax; const sn=document.getElementById('skipNote'); sn.hidden=!T.skipMax; if(T.skipMax) sn.innerHTML=`<b>Free sample rule:</b> ${T.q.length} questions, only <b>${T.q.length-T.skipMax}</b> count. Mark up to ${T.skipMax} as <i>Skip</i> — they are left out of your score. If you skip fewer, the spare skips are applied automatically to your unanswered (then wrong) questions.`;
   if(document.getElementById('v-tests').hidden){VIEWS.forEach(v=>{document.getElementById('v-'+v).hidden=(v!=='tests')});document.querySelectorAll('#nav a').forEach(x=>x.classList.toggle('active',x.getAttribute('href')==='#tests'));history.replaceState(null,'','#tests')}
   document.getElementById('testHome').hidden=true; document.getElementById('testResult').hidden=true; document.getElementById('testRun').hidden=false; document.getElementById('confirmBox').hidden=true;
   document.getElementById('runPaper').textContent=T.paper; document.getElementById('runTitle').textContent=T.title;
@@ -3151,11 +3170,12 @@ function startTest(id,obj){
 function drawTimer(){const m=String(Math.floor(left/60)).padStart(2,'0'),s=String(left%60).padStart(2,'0');const el=document.getElementById('timer');el.textContent=`${m}:${s}`;el.classList.toggle('low',left<=60)}
 function drawQ(){
   const q=T.q[cur];
-  document.getElementById('qNo').textContent=`Question ${cur+1} of ${T.q.length}${flags[cur]?' · flagged':''}`;
+  document.getElementById('qNo').textContent=`Question ${cur+1} of ${T.q.length}${flags[cur]?' · flagged':''}${skips[cur]?' · SKIPPED (not counted)':''}`;
+  if(T.skipMax){const used=skips.filter(Boolean).length;const sk=document.getElementById('btnSkip');sk.textContent=skips[cur]?'Undo skip':`Skip (not counted) · ${T.skipMax-used} left`;sk.disabled=!skips[cur]&&used>=T.skipMax}
   document.getElementById('qText').textContent=q.t;
   document.getElementById('opts').innerHTML=q.o.map((o,i)=>`<button class="opt ${ans[cur]===i?'sel':''}" data-i="${i}"><b>${'ABCDE'[i]}</b><span>${esc(o)}</span></button>`).join('');
   document.querySelectorAll('#opts .opt').forEach(b=>b.addEventListener('click',()=>{ans[cur]=+b.dataset.i;drawQ()}));
-  document.getElementById('dots').innerHTML=T.q.map((_,i)=>`<button class="dot ${ans[i]>=0?'ans':''} ${i===cur?'cur':''} ${flags[i]?'flag':''}" data-j="${i}" aria-label="Question ${i+1}">${i+1}</button>`).join('');
+  document.getElementById('dots').innerHTML=T.q.map((_,i)=>`<button class="dot ${ans[i]>=0?'ans':''} ${i===cur?'cur':''} ${flags[i]?'flag':''} ${skips[i]?'skip':''}" data-j="${i}" aria-label="Question ${i+1}">${i+1}</button>`).join('');
   document.querySelectorAll('.dot').forEach(d=>d.addEventListener('click',()=>{cur=+d.dataset.j;drawQ()}));
   document.getElementById('btnPrev').disabled=cur===0; document.getElementById('btnNext').disabled=cur===T.q.length-1;
   document.getElementById('btnFlag').textContent=flags[cur]?'Remove flag':'Flag for review';
@@ -3163,18 +3183,24 @@ function drawQ(){
 document.getElementById('btnPrev').addEventListener('click',()=>{if(cur>0){cur--;drawQ()}});
 document.getElementById('btnNext').addEventListener('click',()=>{if(cur<T.q.length-1){cur++;drawQ()}});
 document.getElementById('btnFlag').addEventListener('click',()=>{flags[cur]=!flags[cur];drawQ()});
-document.getElementById('btnSubmit').addEventListener('click',()=>{const un=ans.filter(a=>a<0).length;document.getElementById('confirmText').textContent=un?`${un} question${un>1?'s are':' is'} unanswered. Submit anyway?`:'Submit the test and see your score?';document.getElementById('confirmBox').hidden=false;document.getElementById('confirmBox').scrollIntoView({block:'nearest'})});
+document.getElementById('btnSkip').addEventListener('click',()=>{if(skips[cur]){skips[cur]=false}else{if(skips.filter(Boolean).length>=T.skipMax)return;skips[cur]=true;ans[cur]=-1}drawQ()});
+document.getElementById('btnSubmit').addEventListener('click',()=>{const un=ans.filter((a,i)=>a<0&&!skips[i]).length;document.getElementById('confirmText').textContent=un?`${un} question${un>1?'s are':' is'} unanswered. Submit anyway?`:'Submit the test and see your score?';document.getElementById('confirmBox').hidden=false;document.getElementById('confirmBox').scrollIntoView({block:'nearest'})});
 document.getElementById('confirmNo').addEventListener('click',()=>{document.getElementById('confirmBox').hidden=true});
 document.getElementById('confirmYes').addEventListener('click',()=>{clearInterval(tick);finish()});
 document.getElementById('btnQuit').addEventListener('click',()=>{clearInterval(tick);T=null;renderTests()});
 async function finish(){
-  const total=T.q.length,correct=T.q.filter((q,i)=>ans[i]===q.a).length,pct=Math.round(correct/total*100),un=ans.filter(a=>a<0).length;
+  if(T.skipMax){ // auto-apply spare skips: unanswered first, then wrong answers
+    let spare=T.skipMax-skips.filter(Boolean).length;
+    for(const pass of [i=>ans[i]<0, i=>ans[i]>=0&&ans[i]!==T.q[i].a]) for(let i=0;i<T.q.length&&spare>0;i++){ if(!skips[i]&&pass(i)){skips[i]=true;spare--} }
+  }
+  const counted=T.q.map((q,i)=>!skips[i]);
+  const total=counted.filter(Boolean).length,correct=T.q.filter((q,i)=>counted[i]&&ans[i]===q.a).length,pct=Math.round(correct/total*100),un=ans.filter((a,i)=>counted[i]&&a<0).length;
   const rec={mock_id:T.id,title:T.title,correct,total,pct,created_at:new Date().toISOString()}; results.unshift(rec);
   try{if(sb&&user) Promise.resolve(sb.from('attempts').insert({user_id:user.id,mock_id:T.id,title:T.title,correct,total,pct,seconds_used:T.minutes*60-left,answers:ans})).catch(()=>{})}catch(e){}
   document.getElementById('testRun').hidden=true; document.getElementById('testResult').hidden=false;
   document.getElementById('resTitle').textContent=`${T.title}: ${pct>=60?'Pass':'Below pass mark'}`;
   document.getElementById('scoreTiles').innerHTML=`<div class="card"><div class="big">${pct}%</div><div class="eyebrow">Score</div></div><div class="card"><div class="big">${correct}</div><div class="eyebrow">Correct of ${total}</div></div><div class="card"><div class="big">${total-correct-un}</div><div class="eyebrow">Wrong</div></div><div class="card"><div class="big">${un}</div><div class="eyebrow">Unanswered</div></div><div class="card"><div class="big">${Math.floor((T.minutes*60-left)/60)}m</div><div class="eyebrow">Time used</div></div>`;
-  document.getElementById('review').innerHTML=T.q.map((q,i)=>`<div class="card"><div class="eyebrow">Question ${i+1} · ${ans[i]===q.a?'<span class="pill ok">Correct</span>':ans[i]<0?'<span class="pill warn">Unanswered</span>':'<span class="pill bad">Wrong</span>'}${q.r?` <span class="pill" style="color:var(--gold)">★ ${q.r==='core'?'Core fact':'Key fact'}</span>`:''}</div><div class="q" style="font-size:1rem">${esc(q.t)}</div><div class="opts">${q.o.map((o,j)=>`<div class="opt ${j===q.a?'right':(ans[i]===j?'wrong':'')}"><b>${'ABCDE'[j]}</b><span>${esc(o)}</span></div>`).join('')}</div><div class="explain"><b>Why:</b> ${esc(q.e)}</div></div>`).join('');
+  document.getElementById('review').innerHTML=T.q.map((q,i)=>`<div class="card"><div class="eyebrow">Question ${i+1} · ${skips[i]?'<span class="pill">Skipped · not counted</span>':ans[i]===q.a?'<span class="pill ok">Correct</span>':ans[i]<0?'<span class="pill warn">Unanswered</span>':'<span class="pill bad">Wrong</span>'}${q.r?` <span class="pill" style="color:var(--gold)">★ ${q.r==='core'?'Core fact':'Key fact'}</span>`:''}</div><div class="q" style="font-size:1rem">${esc(q.t)}</div><div class="opts">${q.o.map((o,j)=>`<div class="opt ${j===q.a?'right':(ans[i]===j?'wrong':'')}"><b>${'ABCDE'[j]}</b><span>${esc(o)}</span></div>`).join('')}</div><div class="explain"><b>Why:</b> ${esc(q.e)}</div></div>`).join('');
   window.scrollTo({top:0});
 }
 document.getElementById('btnRetake').addEventListener('click',()=>startTest(T.id,T));
