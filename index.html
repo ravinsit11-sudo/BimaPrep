@@ -1,6 +1,8 @@
 <!doctype html>
 <html lang="en">
 <head>
+<link rel="icon" type="image/png" href="favicon.png"><link rel="apple-touch-icon" href="img/logo-512.png">
+<meta property="og:title" content="BimaPrep — Insurance exam preparation, India"><meta property="og:description" content="Timed mock tests for III Licentiate, Associateship, Fellowship papers and the PSU promotion exam. Every answer explained."><meta property="og:image" content="https://bimaprep.in/img/share.png"><meta property="og:url" content="https://bimaprep.in/"><meta name="twitter:card" content="summary_large_image">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="description" content="BimaPrep – plain-language notes and timed mock tests for Insurance Institute of India Licentiate, Associateship and Fellowship exams, and about insurance and IRDAI for everyone.">
@@ -33,7 +35,15 @@ p{margin:0 0 1em;max-width:68ch}
 /* top bar */
 .top{position:sticky;top:env(safe-area-inset-top,0px);z-index:9;background:var(--nav);color:#fff}
 .top .wrap{display:flex;align-items:center;gap:1rem;flex-wrap:wrap;padding-block:.6rem}
-.brand{font-family:var(--display);font-weight:700;font-size:1.35rem;color:#fff;text-decoration:none;letter-spacing:.01em}
+.brand{font-family:var(--display);font-weight:700;font-size:1.45rem;color:#fff;text-decoration:none;letter-spacing:.01em;display:flex;align-items:center;gap:.6rem}.brand img{width:44px;height:44px;filter:drop-shadow(0 2px 4px rgba(0,0,0,.35))}.brand em{font-style:normal;color:#ff9f43}
+.ticker{display:flex;align-items:center;gap:.8rem;background:linear-gradient(90deg,#e8792b,#ff9f43);color:#fff;text-decoration:none;border-radius:10px;padding:.55rem .9rem;margin:.9rem 0 1rem;overflow:hidden;font-weight:600;box-shadow:0 4px 14px rgba(232,121,43,.35)}
+.ticker:hover{filter:brightness(1.05)}
+.ticker-tag{flex:0 0 auto;background:#0f2b46;color:#fff;font-size:.7rem;letter-spacing:.12em;padding:.25rem .5rem;border-radius:6px}
+.ticker-track{flex:1;overflow:hidden;white-space:nowrap;display:flex}
+.ticker-text{display:inline-block;padding-right:3rem;animation:tickerMove 28s linear infinite}
+.ticker:hover .ticker-text{animation-play-state:paused}
+@keyframes tickerMove{from{transform:translateX(0)}to{transform:translateX(-100%)}}
+@media (prefers-reduced-motion:reduce){.ticker-text{animation:none}}
 .brand small{font-family:var(--body);font-weight:500;font-size:.7rem;letter-spacing:.1em;text-transform:uppercase;opacity:.75;display:block;line-height:1}
 nav{display:flex;gap:.25rem;flex-wrap:wrap;margin-left:auto}
 nav a{color:#fff;text-decoration:none;padding:.4rem .7rem;border-radius:6px;font-size:.92rem;opacity:.85}
@@ -125,7 +135,7 @@ footer .wrap{display:flex;gap:1rem;flex-wrap:wrap;justify-content:space-between}
 
 <header class="top">
   <div class="wrap">
-    <a class="brand" href="#home">BimaPrep <small>Insurance exam preparation · India</small></a>
+    <a class="brand" href="#home"><img src="img/logo.svg" alt="" width="44" height="44"><span>Bima<em>Prep</em><small>Insurance exam preparation · India</small></span></a>
     <nav id="nav">
       <a href="#home">Home</a><a href="#insurance">About Insurance</a><a href="#irdai">About IRDAI</a><a href="#tests">Mock Tests</a><a href="#pricing">Pricing</a><a href="#library">Library</a><a href="#mypapers" id="navMine" hidden>My Papers</a><a href="#about">About Us</a><a href="#account" id="navAccount">Sign in</a>
     </nav>
@@ -136,6 +146,7 @@ footer .wrap{display:flex;gap:1rem;flex-wrap:wrap;justify-content:space-between}
 
 <!-- HOME -->
 <section class="view" id="v-home">
+  <a class="ticker" href="#promotion" aria-label="Promotion Exercise 2026-27 — see details"><span class="ticker-tag">NEW</span><div class="ticker-track"><span class="ticker-text" id="tickerText"></span><span class="ticker-text" aria-hidden="true" id="tickerText2"></span></div></a>
   <div class="heroband"><div class="hero" style="padding-block:0">
     <div>
       <div class="eyebrow">For Licentiate · Associateship · Fellowship candidates</div>
@@ -296,6 +307,30 @@ footer .wrap{display:flex;gap:1rem;flex-wrap:wrap;justify-content:space-between}
     <div id="mineList"></div>
   </div>
 </section>
+<section class="view" id="v-promotion" hidden>
+  <div class="wrap">
+    <div class="eyebrow">Departmental promotion exam · PSU general insurers · all scales</div>
+    <h2>Promotion Exercise 2026-27 — prepare all seven papers in one place</h2>
+    <p class="lead">Mock tests built from the trainers' own material and question banks used in the promotion-exam training programmes — Motor OD, Motor TP Claims, Fire &amp; Engineering, Marine, Reinsurance, Accounts and Legal. Every mock is a full 50-question timed paper with the answer explained.</p>
+    <div class="grid g3" style="margin:1.2rem 0">
+      <div class="card"><div class="big">7</div><div class="eyebrow">papers</div><p class="note">All subjects of the written test, common to the four PSU general insurers and all scales.</p></div>
+      <div class="card"><div class="big" id="promoMocks">49</div><div class="eyebrow">full-length mocks</div><p class="note"><span id="promoQs">2,450</span> questions · 50 per mock · 60 minutes · scored like the real paper.</p></div>
+      <div class="card"><div class="big">₹1,499</div><div class="eyebrow">all 7 papers · <s style="opacity:.7">₹3,999</s></div><p class="note">Launch offer — 63% off the full price. Or ₹499 for any single paper. Valid 3 months.</p></div>
+    </div>
+    <div class="tablewrap"><table><thead><tr><th>Paper</th><th>What it covers</th><th>Mocks</th></tr></thead><tbody id="promoTable"></tbody></table></div>
+    <h3 style="margin-top:1.6rem">How candidates use it</h3>
+    <div class="grid g3">
+      <div class="card step"><div class="eyebrow">1</div><h3>Attempt a free sample</h3><p>Open Mock Tests → Promotion Exam and try the sample questions without signing in.</p></div>
+      <div class="card step"><div class="eyebrow">2</div><h3>Buy the bundle or one paper</h3><p>Pay by UPI (QR), enter the UTR; the papers appear under <b>My Papers</b> after verification.</p></div>
+      <div class="card step"><div class="eyebrow">3</div><h3>Repeat the mocks</h3><p>Key limits, sections and IMT/GR numbers come back across mocks so they stick. Best scores are saved to your account.</p></div>
+    </div>
+    <div style="display:flex;gap:.7rem;flex-wrap:wrap;margin-top:1.4rem">
+      <a class="btn" href="#pricing" style="background:var(--saffron)">Get all 7 papers — ₹1,499</a>
+      <a class="btn ghost" href="#tests">Try the free sample</a>
+    </div>
+    <p class="note" style="margin-top:1rem">BimaPrep is an independent preparation site; not affiliated with any insurer, GIPSA or the Insurance Institute of India. Study material of the training programmes is not reproduced — only original practice questions.</p>
+  </div>
+</section>
 <section class="view" id="v-library" hidden>
   <div class="eyebrow">Free library</div>
   <h1>Reading room — free to download</h1>
@@ -388,14 +423,14 @@ footer .wrap{display:flex;gap:1rem;flex-wrap:wrap;justify-content:space-between}
   <div class="eyebrow">Admin console</div>
   <h1>BimaPrep administration</h1>
   <div style="display:flex;gap:.4rem;flex-wrap:wrap;margin:1rem 0" id="adminTabs">
-    <button class="btn sm" data-tab="users">Users</button><button class="btn ghost sm" data-tab="grant">Grant access</button><button class="btn ghost sm" data-tab="coupons">Coupons</button><button class="btn ghost sm" data-tab="orders">Payments</button><button class="btn ghost sm" data-tab="attempts">Results</button><button class="btn ghost sm" data-tab="interest">Launch interest</button><button class="btn ghost sm" data-tab="feedback">Feedback</button><button class="btn ghost sm" data-tab="visits">Visits</button><button class="btn ghost sm" data-tab="audit">Audit log</button>
+    <button class="btn sm" data-tab="users">Users</button><button class="btn ghost sm" data-tab="grant">Grant access</button><button class="btn ghost sm" data-tab="coupons">Coupons</button><button class="btn ghost sm" data-tab="orders">Payments</button><button class="btn ghost sm" data-tab="attempts">Results</button><button class="btn ghost sm" data-tab="interest">Launch interest</button><button class="btn ghost sm" data-tab="feedback">Feedback</button><button class="btn ghost sm" data-tab="visits">Visits</button><button class="btn ghost sm" data-tab="mail">Send mail</button><button class="btn ghost sm" data-tab="audit">Audit log</button>
   </div>
   <div id="adminBody" class="card"><p class="note">Loading…</p></div>
 </section>
 
 </main>
 
-<footer><div class="wrap"><span>© BimaPrep · bimaprep.in · <small style="opacity:.6">v29</small> · <a href="#legal">Privacy · Terms · Refunds</a> · Not affiliated with IRDAI, III or any insurer</span><span>Sources: Insurance Act 1938 · IRDA Act 1999 · IRDAI regulations & master circulars 2024 · PMFBY Operational Guidelines 2023</span></div></footer>
+<footer><div class="wrap"><span>© BimaPrep · bimaprep.in · <small style="opacity:.6">v30</small> · <a href="#legal">Privacy · Terms · Refunds</a> · Not affiliated with IRDAI, III or any insurer</span><span>Sources: Insurance Act 1938 · IRDA Act 1999 · IRDAI regulations & master circulars 2024 · PMFBY Operational Guidelines 2023</span></div></footer>
 
 <script src="vendor/supabase.js" onerror="var x=document.createElement('script');x.src='https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js';document.head.appendChild(x)"></script>
 <script>
@@ -2863,13 +2898,13 @@ function packFor(testId){return PLANS.find(p=>p.id===QUICKPACK[testId])}
 function best(id){const r=results.filter(x=>x.mock_id===id);return r.length?Math.max(...r.map(x=>x.pct)):null}
 
 // ================= routing =================
-const VIEWS=['home','insurance','irdai','tests','pricing','library','mypapers','about','legal','account','admin'];
+const VIEWS=['home','insurance','irdai','tests','pricing','library','mypapers','promotion','about','legal','account','admin'];
 function show(tok){
   if(!VIEWS.includes(tok)) tok='home';
   if(tok==='admin'&&!(user&&user.is_admin)) tok='account';
   VIEWS.forEach(v=>{document.getElementById('v-'+v).hidden=(v!==tok)});
   document.querySelectorAll('#nav a').forEach(a=>a.classList.toggle('active',a.getAttribute('href')==='#'+tok));
-  if(tok==='tests'){renderTests();setTimeout(jumpToSubject,80)} if(tok==='pricing') renderPlans(); if(tok==='account') renderAccount(); if(tok==='admin') adminTab('users'); if(tok==='library') renderLibrary(); if(tok==='mypapers') renderMine(); if(tok==='home') renderHomeFeedback();
+  if(tok==='tests'){renderTests();setTimeout(jumpToSubject,80)} if(tok==='pricing') renderPlans(); if(tok==='account') renderAccount(); if(tok==='admin') adminTab('users'); if(tok==='library') renderLibrary(); if(tok==='mypapers') renderMine(); if(tok==='home'){renderHomeFeedback();renderTicker()} if(tok==='promotion') renderPromotion();
   window.scrollTo({top:0});
 }
 window.addEventListener('hashchange',()=>show(location.hash.replace('#','').split('&')[0]));
@@ -2878,6 +2913,17 @@ let _vid=null; try{_vid=localStorage.getItem('bp_vid'); if(!_vid){_vid=Math.rand
 let _lastHit='';function hit(tok){const k=tok+'|'+Math.floor(Date.now()/5000);if(k===_lastHit)return;_lastHit=k;try{fetch('/.netlify/functions/hit',{method:'POST',keepalive:true,headers:{'content-type':'application/json'},body:JSON.stringify({page:tok||'home',vid:_vid})}).catch(()=>{})}catch(e){}}
 const _show=show; show=function(tok){_show(tok); hit(VIEWS.includes(tok)?tok:'home')};
 window.colorOf=c=>({'IC-02':'life','IC-11':'property','IC-14':'reg','IC-27':'health','IC-72':'motor','IC-71':'crop','IC-57':'property'})[c]||'ic01';
+function renderTicker(){
+  const pe=SUBJECTS.filter(s=>s.level==='Promotion Exam'); const mocks=pe.reduce((n,s)=>n+s.mocks.length,0);
+  const t=`Promotion Exercise 2026-27 is open — ${pe.length} papers (Motor OD · Motor TP · Fire & Engg · Marine · Reinsurance · Accounts · Legal) · ${mocks} full-length mocks · all 7 papers for ₹1,499 (full price ₹3,999) · click for details`;
+  const a=document.getElementById('tickerText'),b=document.getElementById('tickerText2'); if(a){a.textContent=t; b.textContent=t}
+}
+function renderPromotion(){
+  const desc={PEMOTOR:'Tariff, IMT endorsements & GRs, trade policies, OD claims, premium/IDV/NCB numericals',PETP:'MV Act 2019 sections, MACT, s.161/164, limitations, BNS, compensation workings (Sarla Verma / Pranay Sethi)',PEFIRE:'SFSP perils & conditions, AIFT rules, floater/declaration, BI, deductibles; CAR/EAR/MBD/EEI/CPM/ALOP',PEMARINE:'ICC A/B/C, hull clauses, general average, bill of lading & carriage laws, IV & duty policy numericals',PERI:'Treaty & facultative, XL, burning cost, retention, treaty accounts, profit commission — numerical-heavy',PEACC:'Insurance accounts, IRDAI formats, investments, ratios, GST and finance basics',PELEGAL:'Insurance Act, CPA 2019, s.147, ombudsman, policyholder protection and legal framework'};
+  const pe=SUBJECTS.filter(s=>s.level==='Promotion Exam');
+  const nm=pe.reduce((n,x)=>n+x.mocks.length,0); document.getElementById('promoMocks').textContent=nm; document.getElementById('promoQs').textContent=(nm*50).toLocaleString('en-IN');
+  document.getElementById('promoTable').innerHTML=pe.map(s=>`<tr><td><b>${esc(s.code)}</b><br>${esc(s.name)}</td><td>${esc(desc[s.id]||'')}</td><td>${s.mocks.length}</td></tr>`).join('');
+}
 function ownedSubjects(){return user?SUBJECTS.filter(sub=>ents.some(e=>e.pack===sub.pack||(sub.also_in&&e.pack===sub.also_in))):[]}
 function renderMine(){
   const box=document.getElementById('mineList');
@@ -2967,8 +3013,8 @@ function planBtn(p){
 }
 function renderPlans(){
   const bundles=PLANS.filter(p=>p.level==='Licentiate'||p.level==='IC-38'||p.id==='pe_all');
-  document.getElementById('planList').innerHTML=bundles.map(p=>`<div class="card plan ${p.pop?'pop':''}"><h3>${esc(p.name)}</h3><div class="price">₹${p.price} <small>/ 3 months</small></div><ul>${p.bullets.filter(Boolean).map(b=>`<li>${esc(b)}</li>`).join('')}<li>Explanations for every answer and result history</li></ul>${planBtn(p)}</div>`).join('');
-  const levels=[{L:'Associateship',price:499,note:'Core papers (choose one from each pair as per III rules) and optional papers. ₹499 per paper · 5 full-syllabus mocks of 50 questions · 3 months.'},{L:'Fellowship',price:699,note:'40-credit papers and the actuarial compulsory papers. ₹699 per paper · 5 full-syllabus mocks of 50 questions · 3 months.'},{L:'Promotion Exam',price:499,note:'For the departmental promotion exam of general insurers — common for all scales. Seven papers: Motor OD, Motor TP Claims, Fire &amp; Engineering, Marine, Reinsurance, Accounts and Legal — built from trainers\' material and question banks, with worked numericals. ₹499 per paper, or all seven for ₹1,499 (above).'}];
+  document.getElementById('planList').innerHTML=bundles.map(p=>`<div class="card plan ${p.pop?'pop':''}"><h3>${esc(p.name)}</h3><div class="price">${p.mrp?`<s style="font-size:1rem;opacity:.6;font-weight:500;margin-right:.4rem">₹${p.mrp.toLocaleString('en-IN')}</s>`:''}₹${p.price.toLocaleString('en-IN')} <small>/ 3 months</small>${p.mrp?`<span class="pill ok" style="margin-left:.5rem">save ${Math.round(100-100*p.price/p.mrp)}%</span>`:''}</div><ul>${p.bullets.filter(Boolean).map(b=>`<li>${esc(b)}</li>`).join('')}<li>Explanations for every answer and result history</li></ul>${planBtn(p)}</div>`).join('');
+  const levels=[{L:'Associateship',price:499,note:'Core papers (choose one from each pair as per III rules) and optional papers. ₹499 per paper · 5 full-syllabus mocks of 50 questions · 3 months.'},{L:'Fellowship',price:699,note:'40-credit papers and the actuarial compulsory papers. ₹699 per paper · 5 full-syllabus mocks of 50 questions · 3 months.'},{L:'Promotion Exam',price:499,note:'For the departmental promotion exam of general insurers — common for all scales. Seven papers: Motor OD, Motor TP Claims, Fire &amp; Engineering, Marine, Reinsurance, Accounts and Legal — built from trainers\' material and question banks, with worked numericals. ₹499 per paper, or all seven for ₹1,499 — full price ₹3,999, launch offer (above).'}];
   document.getElementById('subjectPlans').innerHTML=levels.map(({L,note})=>{const subs=PLANS.filter(p=>p.level===L&&p.id!=='pe_all');const groups=[...new Set(subs.map(p=>p.group))];
     return `<h2 style="margin-top:1.8rem">${L} papers · subject-wise</h2><p style="color:var(--muted);font-size:.93rem">${note}</p>${groups.map(g=>`<h3 style="margin:1rem 0 .4rem;font-size:1rem;color:var(--muted)">${esc(g)}</h3><div class="tablewrap"><table><tbody>${subs.filter(p=>p.group===g).map(p=>`<tr><td style="white-space:nowrap;font-family:var(--mono)">${esc(p.name.split(' ')[0])}</td><td>${esc(p.name.split(' ').slice(1).join(' '))}${p.ready?` <small style="color:var(--muted)">· ${(SUBJECTS.find(x=>x.id===p.id)||{mocks:[]}).mocks.length} mocks</small>`:' <span class="pill tag-paid">coming soon</span>'}</td><td class="num">₹${p.price}</td><td style="text-align:right">${planBtn(p)}</td></tr>`).join('')}</tbody></table></div>`).join('')}`}).join('');
   document.querySelectorAll('[data-buy]').forEach(b=>b.addEventListener('click',()=>buy(b.dataset.buy)));
@@ -3182,6 +3228,21 @@ async function adminTab(tab){
       body.innerHTML=`<p class="note">Approve to show a message on the home page (first name + organisation only). Reply to queries from your mailbox.</p><div class="tablewrap"><table><thead><tr><th>When</th><th>From</th><th>Type</th><th>Message</th><th>Status</th><th></th></tr></thead><tbody>${d.items.map(f=>`<tr><td>${fmtDate(f.created_at)}</td><td>${esc(f.name)}<br><small><a href="mailto:${esc(f.email)}">${esc(f.email)}</a>${f.org?'<br>'+esc(f.org):''}</small></td><td>${esc(f.kind)}</td><td style="max-width:420px;white-space:pre-wrap">${esc(f.message)}</td><td>${f.approved?'<span class="pill ok">on home page</span>':'<span class="pill warn">pending</span>'}</td><td style="white-space:nowrap">${f.approved?`<button class="btn ghost sm" data-fb="${f.id}" data-v="0">Hide</button>`:`<button class="btn sm" data-fb="${f.id}" data-v="1">Approve</button>`} <button class="btn ghost sm" data-fbdel="${f.id}">Delete</button></td></tr>`).join('')||'<tr><td colspan="6">Nothing yet</td></tr>'}</tbody></table></div>`;
       document.querySelectorAll('[data-fb]').forEach(b=>b.onclick=async()=>{await api('admin',{action:'feedback_set',id:b.dataset.fb,approved:b.dataset.v==='1'});adminTab('feedback')});
       document.querySelectorAll('[data-fbdel]').forEach(b=>b.onclick=async()=>{if(confirm('Delete this message?')){await api('admin',{action:'feedback_delete',id:b.dataset.fbdel});adminTab('feedback')}});
+    }
+    if(tab==='mail'){
+      body.innerHTML=`<h3 style="margin-top:0">Send an email from BimaPrep</h3><p class="note">Goes out as <b>BimaPrep &lt;support@bimaprep.in&gt;</b> through the same mail service as the welcome mail. Plain text; blank lines make paragraphs. Each address receives its own copy (recipients never see each other).</p>
+      <div class="field"><label>Send to</label><select id="mlTo"><option value="list">Addresses I paste below</option><option value="all">All registered users</option><option value="buyers">Users with an active paid pack</option><option value="pending">Users with a pending payment</option></select></div>
+      <div class="field" id="mlListWrap"><label for="mlList">Email addresses (one per line, or comma-separated)</label><textarea id="mlList" rows="4" placeholder="name@example.com"></textarea></div>
+      <div class="field"><label for="mlSub">Subject</label><input id="mlSub" placeholder="e.g. Promotion Exercise 2026-27 mocks are live on BimaPrep"></div>
+      <div class="field"><label for="mlBody">Message</label><textarea id="mlBody" rows="10" placeholder="Dear candidate,&#10;&#10;..."></textarea></div>
+      <div style="display:flex;gap:.6rem;flex-wrap:wrap;align-items:center"><button class="btn sm ghost" id="mlTest">Send a test to me</button><button class="btn sm" id="mlGo" style="background:var(--saffron)">Send</button><span id="mlOut" class="note"></span></div>`;
+      document.getElementById('mlTo').onchange=e=>{document.getElementById('mlListWrap').hidden=e.target.value!=='list'};
+      const send=async(test)=>{const out=document.getElementById('mlOut');const sub=document.getElementById('mlSub').value.trim(),txt=document.getElementById('mlBody').value.trim();if(!sub||!txt){out.textContent='Subject and message are required.';return}
+        const to=document.getElementById('mlTo').value;const list=document.getElementById('mlList').value.split(/[\s,;]+/).map(x=>x.trim()).filter(x=>/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(x));
+        if(!test&&to==='list'&&!list.length){out.textContent='Paste at least one valid address.';return}
+        if(!test&&!confirm('Send this email now?')) return;
+        out.textContent='Sending…';try{const r=await api('send-mail',{to:test?'me':to,list,subject:sub,text:txt});out.textContent=`Sent to ${r.sent} address${r.sent===1?'':'es'}${r.failed?` · ${r.failed} failed`:''}${r.note?' · '+r.note:''}`}catch(e){out.textContent='Error: '+e.message}};
+      document.getElementById('mlTest').onclick=()=>send(true); document.getElementById('mlGo').onclick=()=>send(false);
     }
     if(tab==='visits'){
       const d=await api('admin',{action:'visits'});
