@@ -31,10 +31,12 @@ exports.handler = async (event) => {
   if (!rcpts.length) return L.json(200, { sent: 0, failed: 0, note: 'no recipients' });
   const t = nodemailer.createTransport({ host: 'smtp-relay.brevo.com', port: 587, secure: false, auth: { user: process.env.BREVO_SMTP_USER, pass: process.env.BREVO_SMTP_KEY } });
   const from = `BimaPrep <${process.env.MAIL_FROM || 'support@bimaprep.in'}>`, body = html(text);
-  let sent = 0, failed = 0;
+  let sent = 0, failed = 0, firstError = null;
+  try { await t.verify(); } catch (e) { return L.bad('SMTP login failed: ' + (e.response || e.message) + ' — check BREVO_SMTP_USER / BREVO_SMTP_KEY in Netlify.'); }
   for (const to of rcpts) {
-    try { await t.sendMail({ from, to, replyTo: from, subject, text, html: body }); sent++; } catch (e) { failed++; }
+    try { await t.sendMail({ from, to, replyTo: from, subject, text, html: body }); sent++; }
+    catch (e) { failed++; if (!firstError) firstError = (e.response || e.message || String(e)).slice(0, 300); }
   }
   try { await sb.from('audit_log').insert({ actor: me.id, action: 'send-mail', detail: { to: b.to, count: sent, subject } }); } catch (e) {}
-  return L.json(200, { sent, failed, note: rcpts.length === 250 ? 'capped at 250 per send' : undefined });
+  return L.json(200, { sent, failed, error: firstError || undefined, note: rcpts.length === 250 ? 'capped at 250 per send' : undefined });
 };
