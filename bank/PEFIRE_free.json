@@ -1,0 +1,392 @@
+[
+{
+"n": 1,
+"topic": "Earthquake",
+"t": "An EAR policy with SI ₹100 crore in Zone II has EQ cover on first-loss basis at 10% of SI. If the tariff EQ premium for full SI would be ₹5 lakh, the EQ premium chargeable is",
+"o": [
+"₹50,000",
+"₹5,00,000",
+"₹2,00,000",
+"₹2,50,000"
+],
+"a": 2,
+"e": "First-loss EQ: 10% of SI attracts 40% of the tariff EQ rate, i.e. 40% × ₹5 lakh = ₹2 lakh (20% of SI would attract 50%)."
+},
+{
+"n": 2,
+"topic": "Add-on covers",
+"t": "Loss of Rent cover: SI ₹12,000, term of rent insured 12 months, period of reinstatement 6 months, rent claimed ₹8,000. The amount payable after applying the economic limit and under-insurance is",
+"o": [
+"₹4,000",
+"₹8,000",
+"₹6,000",
+"₹12,000"
+],
+"a": 2,
+"e": "Economic limit = SI × RI period/term = 12,000 × 6/12 = ₹6,000. Rent/month claimed = 8,000/6 = ₹1,333.33; sum to be insured = 1,333.33 × 12 = ₹16,000; under-insurance 8,000 × 12,000/16,000 = ₹6,000."
+},
+{
+"n": 3,
+"topic": "Deductibles",
+"t": "For a 250 MW combined-cycle gas-based power plant under EAR, the minimum deductible for a testing-period claim is",
+"o": [
+"10% of the claim subject to a minimum of ₹50 lakh",
+"5% of the claim subject to a minimum of ₹60 lakh",
+"5% of the claim subject to a minimum of ₹125 lakh",
+"5% of the claim subject to a minimum of ₹100 lakh"
+],
+"a": 3,
+"e": "Combined-cycle/gas plants: 50–200 MW – min ₹60 lakh testing/₹20 lakh normal; 200–300 MW – ₹100 lakh/₹50 lakh; 300 MW and above – ₹125 lakh/₹75 lakh."
+},
+{
+"n": 4,
+"topic": "Reinsurance",
+"t": "The obligatory cession that Indian general insurers must make to GIC Re is currently:",
+"o": [
+"4%",
+"5%",
+"10%",
+"15%"
+],
+"a": 0,
+"e": "★ Core fact (asked across III papers). The obligatory cession was reduced to 4% from 1 April 2022."
+},
+{
+"n": 5,
+"topic": "IRDAI – regulator",
+"t": "The minimum paid-up equity capital required to start a life or general insurance company in India is:",
+"o": [
+"₹50 crore",
+"₹100 crore",
+"₹200 crore",
+"₹500 crore"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). ₹100 crore for a direct insurer; ₹200 crore for a reinsurer (Section 6 of the Insurance Act)."
+},
+{
+"n": 6,
+"topic": "Clauses",
+"t": "Under the Agreed Bank Clause, the insurance in favour of the bank does not cease by operation of Condition 3 (alteration of risk), except where",
+"o": [
+"The bank has more than one mortgagor on the same property",
+"The property is insured under more than one policy",
+"The breach of the condition has been committed by the bank or its authorised agents",
+"The insured fails to pay premium in advance"
+],
+"a": 2,
+"e": "Clause (v): the bank's interest is protected notwithstanding Condition 3 unless the breach is committed by the bank itself; the bank must notify the insurer of any increase of hazard as soon as it comes to its knowledge."
+},
+{
+"n": 7,
+"topic": "Exclusions",
+"t": "An SFSP policy with sum insured ₹3,000 crore at a location suffers a loss of ₹8 crore. The minimum deductible is",
+"o": [
+"₹5 lakh",
+"₹50 lakh",
+"₹25 lakh",
+"₹40 lakh"
+],
+"a": 1,
+"e": "SI above ₹2,500 crore per location: 5% of the claim subject to a minimum of ₹50 lakh; 5% of ₹8 crore = ₹40 lakh, so the minimum of ₹50 lakh applies."
+},
+{
+"n": 8,
+"topic": "Intermediaries",
+"t": "A corporate agent may tie up with a maximum of how many insurers in each line of business?",
+"o": [
+"3",
+"6",
+"9",
+"Unlimited"
+],
+"a": 2,
+"e": "★ Core fact (asked across III papers). Raised from 3 to 9 insurers per category (life, general, health) by the 2022 amendment to the Corporate Agents Regulations."
+},
+{
+"n": 9,
+"topic": "Third party liability",
+"t": "For an EAR policy with sum insured ₹8 crore, the maximum TPL cover that can be granted is",
+"o": [
+"₹80 lakh",
+"₹1 crore",
+"₹8 crore",
+"₹10 crore"
+],
+"a": 1,
+"e": "For project SI up to ₹10 crore, TPL may be granted up to ₹1 crore; above ₹10 crore it is 10% of completely erected value or ₹10 crore, whichever is lower."
+},
+{
+"n": 10,
+"topic": "Business interruption",
+"t": "A business has departments A, B and C with turnovers 100, 100 and 50 before loss. After a fire in A, turnovers are 50, 125 and 75 (total unchanged). With the Departmental Clause, the loss of turnover for the claim is",
+"o": [
+"Nil, since total turnover is unchanged",
+"100, the full turnover of department A",
+"50, since the results of each department affected are considered separately",
+"25, the net of increases and decreases"
+],
+"a": 2,
+"e": "Departmental clause: the reduction in turnover and ICW provisions apply separately to each affected department; without the clause the claim would be nil as total turnover was maintained."
+},
+{
+"n": 11,
+"topic": "CAR vs EAR",
+"t": "Which of the following policies is normally not issued for a period exceeding 12 months?",
+"o": [
+"Erection All Risks",
+"Marine-cum-Erection",
+"Contractor's All Risks",
+"Contractor's Plant and Machinery"
+],
+"a": 3,
+"e": "CPM, MBD, EEI, BPP and DOS are annual (or short-period) policies; project policies (CAR, EAR, MCE) run for the project duration which may exceed 12 months."
+},
+{
+"n": 12,
+"topic": "Floater policy",
+"t": "Stocks of a trader lie in four godowns in different parts of a city, the applicable rates being 1.00‰, 1.20‰, 1.50‰ and 2.00‰. The rate for a floater policy covering all four is",
+"o": [
+"1.65‰",
+"1.43‰",
+"2.00‰",
+"2.20‰"
+],
+"a": 3,
+"e": "Floater rating: the highest rate applicable at any location plus 10% loading = 2.00‰ × 1.10 = 2.20‰."
+},
+{
+"n": 13,
+"topic": "Declaration policy",
+"t": "Stock of ₹4 lakh is covered by an SFSP policy for ₹1 lakh and a declaration policy for ₹2 lakh. A loss of ₹3 lakh occurs. The declaration policy pays",
+"o": [
+"₹1.5 lakh",
+"₹2.25 lakh",
+"₹2 lakh",
+"₹0.75 lakh"
+],
+"a": 0,
+"e": "The SFSP pays 3 × 1/4 = ₹0.75 lakh. The excess of stock value over the SFSP SI is ₹3 lakh, which exceeds the declaration SI, so the SI is used: 3 × 2/4 = ₹1.5 lakh; total ₹2.25 lakh."
+},
+{
+"n": 14,
+"topic": "Machinery breakdown",
+"t": "A 3-year-old wire rope of a crane is replaced in an MBD claim at a cost of ₹2,00,000. The amount payable before excess is",
+"o": [
+"₹1,40,000",
+"₹50,000",
+"₹1,10,000",
+"₹2,00,000"
+],
+"a": 2,
+"e": "Ropes in lifts, cranes and ropeways attract depreciation of 15% per year subject to a maximum of 75%: 3 × 15% = 45%, so 2,00,000 × 55% = ₹1,10,000."
+},
+{
+"n": 15,
+"topic": "Electronic equipment",
+"t": "Section 3 (Increased Cost of Working) of an Electronic Equipment Insurance policy covers",
+"o": [
+"Repair cost of the damaged equipment",
+"Cost of replacing damaged external data media",
+"Cost of hiring substitute equipment, personnel expenses and transportation of materials",
+"Cost of regenerating lost data from back-up"
+],
+"a": 2,
+"e": "EEI has three sections: I material damage, II external data media (replacement of media and data from back-up), III increased cost of working (substitute equipment, personnel, transport)."
+},
+{
+"n": 16,
+"topic": "Industrial all risks",
+"t": "An IAR policy insured's loss is ₹50 lakh and under-insurance is found to be 12%. The under-insurance deduction is",
+"o": [
+"₹7.5 lakh",
+"₹6 lakh",
+"₹1.5 lakh",
+"Nil, as under-insurance up to 15% is waived"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). IAR special condition: under-insurance up to 15% is waived; if it exceeds 15%, the full under-insurance is applied."
+},
+{
+"n": 17,
+"topic": "Contractor's plant & machinery",
+"t": "Machinery insured under CPM for an individual value of ₹8 lakh is damaged by flood. The claim is ₹1,00,000. The excess applicable is",
+"o": [
+"₹10,000",
+"₹7,500",
+"₹24,000",
+"₹25,000"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). CPM AOG excess for individual value over ₹5 lakh up to ₹10 lakh: 3% of SI subject to a minimum of ₹25,000; 3% of ₹8 lakh = ₹24,000, so the minimum ₹25,000 applies."
+},
+{
+"n": 18,
+"topic": "Short period scale",
+"t": "A seasonal godown is insured for 3 months. Sum insured ₹50 lakh, annual rate ₹2.00‰. The premium is",
+"o": [
+"₹4,000",
+"₹5,000",
+"₹10,000",
+"₹2,500"
+],
+"a": 0,
+"e": "★ Key fact (repeated across the mocks of this paper). Annual premium = 50,00,000 × 2/1000 = ₹10,000; for a period not exceeding 3 months the short-period scale is 40%, so ₹4,000."
+},
+{
+"n": 19,
+"topic": "Claims timelines",
+"t": "For health insurance, the maximum time an insurer may take to decide a cashless authorisation request under the 2024 master circular is:",
+"o": [
+"1 hour",
+"3 hours",
+"6 hours",
+"24 hours"
+],
+"a": 0,
+"e": "★ Core fact (asked across III papers). Cashless authorisation within 1 hour of request; final discharge authorisation within 3 hours."
+},
+{
+"n": 20,
+"topic": "Health insurance norms",
+"t": "The maximum waiting period for pre-existing diseases in health insurance, after the 2024 IRDAI changes, is:",
+"o": [
+"24 months",
+"36 months",
+"48 months",
+"60 months"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). Reduced from 48 to 36 months; the moratorium period after which claims cannot be contested (except fraud) is 60 months."
+},
+{
+"n": 21,
+"topic": "Deterioration of stocks",
+"t": "A cold storage without FOES extension suffers a compressor breakdown and stock deteriorates. The claim is assessed at ₹2,00,000. The excess applicable is",
+"o": [
+"10% of the claim amount, i.e. ₹20,000",
+"₹5,000 flat",
+"20% of the claim amount subject to a minimum of ₹20,000",
+"Nil, since there is no FOES extension"
+],
+"a": 0,
+"e": "DOS excess: 20% of claim subject to minimum ₹20,000 (with an 8-hour time excess) for cold storages with FOES extension; 10% of claim amount for those without."
+},
+{
+"n": 22,
+"topic": "Cancellation",
+"t": "An annual SFSP policy (premium ₹12,000) is cancelled at the insured's request after exactly 4 months. The refund due is",
+"o": [
+"₹4,800",
+"₹7,200",
+"₹8,000",
+"₹6,000"
+],
+"a": 3,
+"e": "★ Key fact (repeated across the mocks of this paper). Cancellation at the insured's option: premium retained at the short-period scale – 50% for 4 months = ₹6,000 retained, so ₹6,000 refunded."
+},
+{
+"n": 23,
+"topic": "De-notification",
+"t": "With effect from 1 April 2021, which risks continue to be governed by the erstwhile AIFT 2001?",
+"o": [
+"Risks (other than dwellings) where the total value at risk exceeds ₹50 crore at any one location",
+"Only petrochemical risks",
+"All risks with sum insured up to ₹5 crore",
+"All dwellings irrespective of sum insured"
+],
+"a": 0,
+"e": "IRDAI notification of 28 December 2020 de-notified the AIFT for dwellings (any SI) and other risks up to ₹50 crore per location from 1 April 2021; larger risks continue under AIFT until further notification."
+},
+{
+"n": 24,
+"topic": "Principles",
+"t": "In a life insurance contract, insurable interest must exist:",
+"o": [
+"At the time of the claim only",
+"At inception of the policy",
+"Both at inception and at claim",
+"At renewal each year"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). Life: at inception only. Marine: at the time of loss. Fire and motor: at both inception and loss."
+},
+{
+"n": 25,
+"topic": "Conditions",
+"t": "Within how many days of a loss must the insured deliver a written claim with particulars under Condition 6 of the SFSP policy?",
+"o": [
+"30 days",
+"15 days",
+"60 days",
+"7 days"
+],
+"a": 1,
+"e": "Condition 6(i): notice of loss forthwith, and within 15 days (or such further time as the insurer allows in writing) a written claim with particulars and details of other insurances."
+},
+{
+"n": 26,
+"topic": "Policyholder protection",
+"t": "Under the IRDAI (Protection of Policyholders' Interests) Regulations 2024, the free-look period for a policy with a term of one year or more is:",
+"o": [
+"15 days",
+"30 days",
+"45 days",
+"60 days"
+],
+"a": 1,
+"e": "★ Core fact (asked across III papers). 30 days from receipt of the policy document, irrespective of the sales channel."
+},
+{
+"n": 27,
+"topic": "Design defect",
+"t": "A defective part (A) damages the machine it is fitted in (B), a connected machine (C) and surrounding property (D). Under DE4 cover, what is payable?",
+"o": [
+"C and D only",
+"A, B, C and D",
+"B, C and D",
+"Only D"
+],
+"a": 2,
+"e": "DE4 excludes only the defective component and access costs; the machine containing it (B), connected machine (C) and surrounding property (D) are payable."
+},
+{
+"n": 28,
+"topic": "AIFT sections",
+"t": "The policy wording of the Standard Fire and Special Perils policy appears in which section of AIFT 2001?",
+"o": [
+"Section II",
+"Section III",
+"Section VIII",
+"Section I"
+],
+"a": 0,
+"e": "AIFT: Section I general rules and regulations; Section II policy wording; Sections III–VII rating; Section VIII add-on covers."
+},
+{
+"n": 29,
+"topic": "Policy period",
+"t": "An EAR proposal is received on 15 May, but the first consignment reached site on 1 May. The premium rate is charged",
+"o": [
+"From the date of beginning of erection",
+"From the date of payment of premium",
+"From the date the proposal was received",
+"For the total project period commencing from the date of arrival of the first consignment"
+],
+"a": 3,
+"e": "Rating is for the entire project period from arrival of the first consignment/commencement of work; the insurer is not liable for damage that occurred before the commencement of insurance."
+},
+{
+"n": 30,
+"topic": "Rating",
+"t": "A factory rateable under Section IV stops all manufacturing and storage activity continuously for 45 days. The premium retention for the silent period is",
+"o": [
+"The appropriate storage rate or the silent risk rate of ₹1.00‰, whichever is higher",
+"Nil, as the risk is silent",
+"50% of the manufacturing rate",
+"The full manufacturing rate"
+],
+"a": 0,
+"e": "AIFT Rule 19: silent risk = no manufacturing/storage for 30 days or more; retention at storage rate or ₹1.00‰ whichever is higher; silent rates not allowed after a loss and no discounts apply."
+}
+]
